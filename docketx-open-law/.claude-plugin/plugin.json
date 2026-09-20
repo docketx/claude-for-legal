@@ -1,0 +1,8 @@
+{
+  "name": "docketx-open-law",
+  "version": "0.1.0",
+  "description": "Open, public-domain U.S. law as data: all 51 jurisdictions' case law, 27 states' statutes and 21,000 court rules held word for word on Hugging Face under docketx/, plus a verification layer over them (does this citation exist, does it support this proposition, what does the rule actually say). Points you at CourtListener for case-law search and at DocketX for the rest.",
+  "author": {
+    "name": "DocketX"
+  }
+}

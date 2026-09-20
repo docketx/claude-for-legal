@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "DocketRouter": {
+      "type": "http",
+      "url": "https://docketrouter.ai/api/mcp",
+      "title": "DocketRouter",
+      "description": "A verification layer over an open legal library: check that a reporter citation exists (18M citations, answers 'found' or 'unverified', never 'nonexistent'), check whether a cited opinion actually supports a proposition, and read statutes and court rules word for word. Not a national case-law search engine — use CourtListener for that and this to verify what it found."
+    },
+    "CourtListener": {
+      "type": "http",
+      "url": "https://mcp.courtlistener.com/",
+      "title": "CourtListener",
+      "description": "Free Law Project's legal research platform — millions of U.S. court opinions, PACER dockets, judge profiles, oral arguments, and citation verification. The source the docketx case-law datasets are sliced from."
+    }
+  },
+  "recommendedCategories": [
+    "legal-research",
+    "case-law",
+    "statutes",
+    "citation-verification",
+    "open-data"
+  ]
+}
