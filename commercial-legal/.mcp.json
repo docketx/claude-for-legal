@@ -4,7 +4,7 @@
       "type": "http",
       "url": "https://mcp.na1.ironcladapp.com/mcp",
       "title": "Ironclad",
-      "description": "Search your contract repository and workflows using plain language — expiring MSAs, termination clauses, vendor agreements — scoped to your permissions."
+      "description": "Search your contract repository and workflows using plain language \u2014 expiring MSAs, termination clauses, vendor agreements \u2014 scoped to your permissions."
     },
     "DocuSign": {
       "type": "http",
@@ -16,19 +16,19 @@
       "type": "http",
       "url": "https://cloudimanage.com/mcp/work",
       "title": "iManage",
-      "description": "Governed iManage content connected to Claude — documents stay in iManage, access is permission-bound and auditable."
+      "description": "Governed iManage content connected to Claude \u2014 documents stay in iManage, access is permission-bound and auditable."
     },
     "TopCounsel": {
       "type": "http",
       "url": "https://api.techgc.co/api/mcp/topcounsel",
       "title": "TopCounsel",
-      "description": "Outside counsel recommendations from The L Suite — 5,000+ in-house counsel community sentiment, rankings, and expertise evidence."
+      "description": "Outside counsel recommendations from The L Suite \u2014 5,000+ in-house counsel community sentiment, rankings, and expertise evidence."
     },
     "Definely": {
       "type": "http",
       "url": "https://mcp.uk.definely.com/api/proxy/core-mcp",
       "title": "Definely",
-      "description": "Live, deterministic access to contract structure — resolve definitions, validate cross-references, map dependencies, run structural diffs."
+      "description": "Live, deterministic access to contract structure \u2014 resolve definitions, validate cross-references, map dependencies, run structural diffs."
     },
     "Slack": {
       "type": "http",
@@ -41,6 +41,12 @@
       "url": "https://drivemcp.googleapis.com/mcp/v1",
       "title": "Google Drive",
       "description": "Search, read, and fetch documents from Google Drive."
+    },
+    "DocketRouter": {
+      "type": "http",
+      "url": "https://docketrouter.ai/api/mcp",
+      "title": "DocketRouter",
+      "description": "A verification layer over an open legal library: check that a reporter citation exists (18M citations, 'found' or 'unverified', never 'nonexistent'), check whether a cited opinion supports a proposition, and read statutes and court rules word for word. Use CourtListener to find cases and this to verify them and for the rules and statutes it does not carry."
     }
   },
   "recommendedCategories": [
@@ -51,6 +57,8 @@
     "documents",
     "chat",
     "contract-review",
-    "outside-counsel-network"
+    "outside-counsel-network",
+    "citation-verification",
+    "statutes"
   ]
 }
