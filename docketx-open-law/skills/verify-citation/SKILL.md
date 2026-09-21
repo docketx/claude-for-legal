@@ -19,15 +19,20 @@ citation can be absent from both.
 1. **Extract every reporter citation** from what the user gave you — `488 U.S. 222`, `928 S.W.2d 483`,
    `2021 WI 45` and the like. Keep each exactly as written.
 
-2. **Existence: call `check_citations`** on the DocketRouter connector with the list (1 to 100 per call).
-   For each result:
-   - `found` → tag the citation `[DocketRouter — found]` and carry the case name it returned.
-   - `unverified` → tag it `[unverified]`. Say: "not found in an 18M-citation table or the index; that is not
-     proof it does not exist — confirm against a primary source before relying on it." Never "nonexistent".
-   If the connector is unavailable, tag every citation `[model knowledge — verify]` and say the check did not
+2. **Existence — no key needed.** For each citation, `POST https://docketrouter.ai/api/public/citation-check`
+   with `{"citation": "<as written>"}`. One citation per call; loop. It answers in under a second and needs no
+   account. Measured live 2026-09-20: `384 U.S. 436` → `{"status":"found","name":"Miranda v. Arizona"}`;
+   `999 U.S. 999` → `{"status":"unverified","name":null,"note":"Not found in the library or the bulk citation
+   table. Absence is not proof a citation is fabricated — but a filing should not rest on a citation no
+   library can find."}`. For each result:
+   - `found` → tag `[DocketRouter — found]` and carry the `name` it returned.
+   - `unverified` → tag `[unverified]` and repeat the note above in your own words. Never "nonexistent".
+   If the DocketRouter MCP connector is configured with a key, `check_citations` does the same for 1–100
+   citations in one call and returns the same statuses; use it when you have a key, the public endpoint when
+   you do not. If neither answers, tag every citation `[model knowledge — verify]` and say the check did not
    run. Do not silently downgrade.
 
-3. **Support: for each citation the user relies on for a proposition, call `check_support`** with the
+3. **Support — needs the DocketRouter connector with a key.** For each citation the user relies on for a proposition, call `check_support` with the
    citation and the proposition (10–600 characters, the specific claim). Report exactly what comes back:
    - `supports` → quote the verbatim passage the tool returned. Do not paraphrase it.
    - `does_not_support` → say so, and that the case is real but does not stand for this.

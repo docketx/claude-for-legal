@@ -19,8 +19,9 @@ we sliced and reformatted it. Credit them, and consider [supporting them](https:
 
 - **`/docketx-open-law:load-open-law`** — load any of these datasets in one line (`datasets` streaming or
   DuckDB over the gzipped JSONL), with the real schema from a real row and the known gaps stated.
-- **`/docketx-open-law:verify-citation`** — before a citation reaches a user or a filing: does it exist, and
-  does it support what it is cited for. Via the DocketRouter MCP connector in this plugin's `.mcp.json`.
+- **`/docketx-open-law:verify-citation`** — before a citation reaches a user or a filing: does it exist (free,
+  no key, via the public citation-check endpoint), and does it support what it is cited for (the DocketRouter
+  MCP connector in this plugin's `.mcp.json`, with a key).
 - **`/docketx-open-law:statute-text`** — the text of a statute section or court rule, word for word, so it is
   quoted rather than recalled.
 
