@@ -1,3 +1,11 @@
+> **This fork adds [`docketx-open-law/`](docketx-open-law/)** — open, public-domain U.S. law as data
+> (all 51 jurisdictions' case law, 27 states' statutes, 21,000 court rules, at
+> [huggingface.co/docketx](https://huggingface.co/docketx)) plus the **DocketRouter** MCP connector to verify what
+> you cite: does the citation exist, does the case support the proposition, what does the statute actually say.
+> CourtListener finds cases; DocketRouter verifies them and holds the statutes and rules CourtListener does not.
+> It also adds DocketRouter beside CourtListener in the four plugins that ship a research connector.
+> Everything else here is upstream `anthropics/claude-for-legal`, unchanged.
+
 # Claude for Legal
 
 Reference agents, skills, and data connectors for the legal workflows we see most — in-house commercial, privacy, product, corporate, employment, litigation, regulatory, AI governance, IP, and the learning side of the practice (law school clinics and students).
