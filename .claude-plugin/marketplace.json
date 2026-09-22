@@ -122,6 +122,15 @@
       "author": {
         "name": "Thomson Reuters"
       }
+    },
+    {
+      "name": "docketx-open-law",
+      "displayName": "DocketX Open Law",
+      "source": "./docketx-open-law",
+      "description": "Open, public-domain U.S. law as data — every state's appellate opinions, 27 states' statutes plus the U.S. Code, 21,000 court rules, 12,000 official court forms — with a keyless citation-existence check and a keyless verified contract-law rules endpoint (601 rules, 28 jurisdictions). Load any dataset in one line, quote a statute word for word, verify a citation before it reaches a filing.",
+      "author": {
+        "name": "DocketX"
+      }
     }
   ]
 }
