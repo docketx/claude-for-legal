@@ -10,7 +10,15 @@ Every dataset under [huggingface.co/docketx](https://huggingface.co/docketx) is 
 | `docketx/us-caselaw-scotus`, `-fed-appellate`, `-fed-district`, `-fed-special`, `-fed-bankruptcy` | Federal tiers, same source | same |
 | `docketx/us-statutes` | 27 states' statutes plus federal, word for word, 1.29M sections | `data/<st>/statutes.jsonl.gz` |
 | `docketx/court-rules` | 21,062 federal and state court rules, verbatim | `data/federal/rules.jsonl.gz`, `data/state/<st>/rules.jsonl.gz` |
-| `docketx/us-pro-se`, `us-dockets`, `us-judges`, `us-regulations`, `oral-arguments-us` | Supporting corpora | see each card |
+| `docketx/us-pro-se` | 12,103 official self-help guides, instructions and court forms from 19 state court systems | `data/<st>/pro-se.jsonl.gz` |
+| `docketx/us-dockets`, `us-judges`, `us-regulations`, `oral-arguments-us` | Supporting corpora | see each card |
+
+Two endpoints need **no key and no account at all**, and neither is limited to one state:
+
+| Endpoint | What it answers |
+|---|---|
+| `POST https://docketrouter.ai/api/public/citation-check` | does this reporter citation exist? `found` or `unverified`, never "fabricated" |
+| `GET https://docketrouter.ai/api/v1/contracts/rules?jurisdiction=<st>&clause=<family>` | **601 verified contract-law rules, 2,846 authorities, 28 jurisdictions** — each rule with the question it answers, the rule, the trap, and every authority's verbatim quote re-checked against the corpora above. A jurisdiction we do not hold returns an **empty list**, never another state's law |
 
 The case law belongs to the public and was gathered by the [Free Law Project](https://free.law), a 501(c)(3);
 we sliced and reformatted it. Credit them, and consider [supporting them](https://free.law/donate/).
@@ -24,6 +32,14 @@ we sliced and reformatted it. Credit them, and consider [supporting them](https:
   MCP connector in this plugin's `.mcp.json`, with a key).
 - **`/docketx-open-law:statute-text`** — the text of a statute section or court rule, word for word, so it is
   quoted rather than recalled.
+
+## Nothing here is jurisdiction-locked
+
+The datasets cover every state: 51 state-level case-law jurisdictions, statutes for 27 states plus the U.S.
+Code, court rules for the federal courts and the states. Where a corpus does not cover a jurisdiction the
+skills say so and return nothing rather than substituting a neighbouring state's law — an empty answer is
+correct and a borrowed one is not. The coverage numbers above are what exists today, not a boundary on what
+the tooling does: the same loaders and the same verification work against any corpus in the same shape.
 
 ## Which connector for what
 
