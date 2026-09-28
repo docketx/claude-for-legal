@@ -1,0 +1,639 @@
+[
+  {
+    "jurisdiction": "ca",
+    "clause": "residency-and-venue",
+    "rule_id": "ca-six-months-in-state-three-months-in-county-measured-to-judgment-not-filing-with-a-same-sex-marriage-exception",
+    "question": "How long must a spouse live in California, and in the county, before a California court can grant a divorce?",
+    "rule": "Six months in California and three months in the county, and only ONE spouse needs to meet both prongs — but the statute's operative bar, unlike Texas's, attaches to entering the judgment, not to filing or maintaining the suit. Cal. Fam. Code § 2320(a): \"Except as provided in subdivision (b), a judgment of dissolution of marriage may not be entered unless one of the parties to the marriage has been a resident of this state for six months and of the county in which the proceeding is filed for three months next preceding the filing of the petition.\" There is also a narrow exception with no residency requirement at all: § 2320(b)(1): \"A judgment for dissolution, nullity, or legal separation of a marriage between persons of the same sex may be entered, even if neither spouse is a resident of, or maintains a domicile in, this state at the time the proceedings are filed, if the following apply: (A) The marriage was entered in California. (B) Neither party to the marriage resides in a jurisdiction that will dissolve the marriage. If the jurisdiction does not recognize the marriage, there shall be a rebuttable presumption that the jurisdiction will not dissolve the marriage.\"",
+    "trap": "Two traps. First, the statute's own words bar the JUDGMENT from being entered, not the petition from being filed or the suit from being maintained — that is a different verb than Texas Fam. Code § 6.301's \"may not be maintained ... unless at the time the suit is filed\" (quoted and blocked on this plugin's Texas row `tx-six-months-in-state-and-90-days-in-the-county-by-either-spouse`). this rule states only what the text says (entry of judgment is barred without the residency showing measured back from the filing date); it does not establish, because no authority here reaches it, whether a California petition can actually be filed before the six-month/three-month period runs and simply wait to be heard, or whether courts treat the requirement as a filing-stage gate in practice — that would take case law or a rule of court this rule does not cite. Second, people assume every California divorce needs six-and-three; § 2320(b) removes the requirement entirely for a narrow same-sex-marriage scenario (marriage entered in California, no jurisdiction that will dissolve it) that has no Texas counterpart in this plugin's rows.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2320",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2320._FAM2320.20117214",
+            "quote": "Except as provided in subdivision (b), a judgment of dissolution of marriage may not be entered unless one of the parties to the marriage has been a resident of this state for six months and of the county in which the proceeding is filed for three months next preceding the filing of the petition.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2320",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2320._FAM2320.20117214",
+            "quote": "A judgment for dissolution, nullity, or legal separation of a marriage between persons of the same sex may be entered, even if neither spouse is a resident of, or maintains a domicile in, this state at the time the proceedings are filed, if the following apply:\n(A) The marriage was entered in California.\n(B) Neither party to the marriage resides in a jurisdiction that will dissolve the marriage. If the jurisdiction does not recognize the marriage, there shall be a rebuttable presumption that the jurisdiction will not dissolve the marriage.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 2320, row FAM_2320._FAM2320.20117214, two quotes: subdivision (a) in full and the lead-in plus (A)-(B) of (b)(1) (omitting (b)(2)'s proper-court/choice-of-law rule for the same-sex-marriage exception, which is a separate question this row does not reach). Unlike every Texas row in this plugin, California's residency prong needs only ONE spouse, not 'either the petitioner or the respondent' language — the text simply says 'one of the parties,' which already reaches either spouse without needing an express either/or clause. PACK QUOTE SWEEP 2026-09-22: the trap quotes Tex. Fam. Code § 6.301 as a contrast; the Texas block (tx-stat_396dd26e5945e471) is copied onto this row so the quote has a block here. PACK QUOTE SWEEP 2026-09-22: the trap quotes Tex. Fam. Code § 6.301 as a contrast; the verifier resolves statute ids by the row's own state, so the block stays on the Texas row and the sentence now names that row."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "grounds",
+    "rule_id": "ca-two-no-fault-grounds-only-irreconcilable-differences-or-permanent-legal-incapacity-no-adultery-or-cruelty-ground-in-this-chapter",
+    "question": "Does a California divorce require proving someone did something wrong?",
+    "rule": "No — and unlike Texas, California's dissolution-grounds chapter does not preserve any fault ground alongside the no-fault one; there are exactly two grounds, both fault-free. Cal. Fam. Code § 2310: \"Dissolution of the marriage or legal separation of the parties may be based on either of the following grounds, which shall be pleaded generally: (a) Irreconcilable differences, which have caused the irremediable breakdown of the marriage. (b) Permanent legal incapacity to make decisions.\" Fam. Code § 2311 defines the first ground: \"Irreconcilable differences are those grounds which are determined by the court to be substantial reasons for not continuing the marriage and which make it appear that the marriage should be dissolved.\"",
+    "trap": "The trap runs the opposite direction from the Texas row in this plugin. Texas keeps insupportability (no-fault) alongside live fault grounds — cruelty, adultery, three-year separation, mental-hospital confinement (Tex. Fam. Code §§ 6.002, 6.003, 6.006, 6.007). California's own Chapter 3 (Grounds for Dissolution) lists only the two grounds quoted above; nothing here revives fault as an independent ground. HONEST NEGATIVE, RECORDED: a full-text search of the published California Family Code shard for \"adultery\" returned 0 hits; a search for \"cruelty\" returned exactly 1 hit, and it is Fam. Code § 2605 (defining \"care\" of a pet animal in a protective order, referencing Penal Code § 597 animal cruelty) — not a marital-fault provision; a search for the exact phrase \"cruel treatment\" returned 0 hits. This does not prove no fault-adjacent concept exists anywhere else in the Family Code (for example, domestic-violence history is a named factor in spousal-support determinations under § 4320(i), a different row's authority) — it proves only that Chapter 3's grounds for dissolution contain nothing beyond the two no-fault grounds quoted here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2310",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2310._FAM2310.20141449",
+            "quote": "Dissolution of the marriage or legal separation of the parties may be based on either of the following grounds, which shall be pleaded generally:\n(a) Irreconcilable differences, which have caused the irremediable breakdown of the marriage.\n(b) Permanent legal incapacity to make decisions.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2311",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2311._FAM2311.199216210",
+            "quote": "Irreconcilable differences are those grounds which are determined by the court to be substantial reasons for not continuing the marriage and which make it appear that the marriage should be dissolved.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 2310 (row FAM_2310._FAM2310.20141449, full text) and § 2311 (row FAM_2311._FAM2311.199216210, full text). The honest-negative search (\"adultery\", \"cruelty\", \"cruel treatment\") was run with an internal DocketX tool, a keyword scanner over the same published statutes shard the verifier reads, filtered to rows whose citation starts with \"FAM\"."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "waiting-period",
+    "rule_id": "ca-six-month-finality-clock-runs-from-service-or-appearance-not-from-filing",
+    "question": "How soon after filing can a California divorce actually become final?",
+    "rule": "Not until six months have run from service of the petition and summons, OR from the respondent's appearance — whichever happens FIRST — not six months from the filing date. Cal. Fam. Code § 2339: \"(a) Subject to subdivision (b) and to Sections 2340 to 2344, inclusive, no judgment of dissolution is final for the purpose of terminating the marriage relationship of the parties until six months have expired from the date of service of a copy of summons and petition or the date of appearance of the respondent, whichever occurs first. (b) The court may extend the six-month period described in subdivision (a) for good cause shown.\"",
+    "trap": "The trigger date is easy to get wrong: it is NOT the date the petitioner filed, and it is not always the date of service either — if the respondent appears before being served (for example, by filing a response), the clock starts on the EARLIER of the two events, service or appearance, whichever occurs first. This differs in mechanics from the Texas plugin's waiting-period row, which floors the decree at 60 days measured from the filing date itself (Tex. Fam. Code § 6.702(a)), not from service or appearance. this rule does not state whether California has a family-violence exception comparable to Texas's § 6.702(c) — that was not searched for in this pass and is NOT ESTABLISHED here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2339",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2339._FAM2339.199216210",
+            "quote": "Subject to subdivision (b) and to Sections 2340 to 2344, inclusive, no judgment of dissolution is final for the purpose of terminating the marriage relationship of the parties until six months have expired from the date of service of a copy of summons and petition or the date of appearance of the respondent, whichever occurs first.\n(b) The court may extend the six-month period described in subdivision (a) for good cause shown.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 2339, row FAM_2339._FAM2339.199216210, quoting (a) and (b) in full as one contiguous span. Sections 2340-2344, which (a) is itself 'subject to,' were not read in this pass — a possible narrower exception this row does not reach; flagged rather than guessed at."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "community-vs-separate-property",
+    "rule_id": "ca-community-property-is-the-default-catch-all-separate-property-is-the-closed-exception-plus-post-separation-earnings-and-joint-title-presumption",
+    "question": "Is a given asset separate property or community property in a California divorce?",
+    "rule": "California runs the classification the opposite way from how this plugin's Texas row frames it: community property is the default catch-all for anything acquired during marriage while domiciled in California, and separate property is the closed exception. Cal. Fam. Code § 760: \"Except as otherwise provided by statute, all property, real or personal, wherever situated, acquired by a married person during the marriage while domiciled in this state is community property.\" Fam. Code § 770(a): \"Separate property of a married person includes all of the following: (1) All property owned by the person before marriage. (2) All property acquired by the person after marriage by gift, bequest, devise, or descent. (3) The rents, issues, and profits of the property described in this section.\" A third slice is separate for a reason Texas's community-property row does not have an analog for: post-separation earnings. Fam. Code § 771(a): \"The earnings and accumulations of a spouse and the minor children living with, or in the custody of, the spouse, after the date of separation of the spouses, are the separate property of the spouse.\" Finally, property acquired in JOINT FORM during the marriage carries its own rebuttable presumption of community-property character. Fam. Code § 2581: \"For the purpose of division of property on dissolution of marriage or legal separation of the parties, property acquired by the parties during marriage in joint form, including property held in tenancy in common, joint tenancy, or tenancy by the entirety, or as community property, is presumed to be community property. This presumption is a presumption affecting the burden of proof and may be rebutted by either of the following: (a) A clear statement in the deed or other documentary evidence of title by which the property is acquired that the property is separate property and not community property. (b) Proof that the parties have made a written agreement that the property is separate property.\"",
+    "trap": "The date of SEPARATION, not the date of divorce filing or judgment, is what starts a spouse's post-separation earnings running as separate property under § 771(a) — a spouse who keeps earning for months or years before actually filing is still accumulating separate property from the day of separation onward, which surprises people who assume everything is community property until a court says otherwise. § 2581's joint-title presumption is also its own trap: title on a deed as 'joint tenants' does not automatically mean the asset splits 50/50 as separate co-ownership outside the divorce — for DIVISION PURPOSES it is presumed community property unless the deed itself states otherwise or there is a written separate-property agreement; this is the reverse of what a layperson might expect a 'joint tenancy' label to mean. this rule does not state (and California's § 770(a)(3) rents-issues-profits rule does not by its own words resolve) how commingled or appreciated separate property is traced or apportioned during marriage — that would require case law (tracing doctrines) this rule does not cite; NOT ESTABLISHED here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 760",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_760._FAM760.199216210",
+            "quote": "Except as otherwise provided by statute, all property, real or personal, wherever situated, acquired by a married person during the marriage while domiciled in this state is community property.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 770",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_770._FAM770.199216210",
+            "quote": "(a) Separate property of a married person includes all of the following:\n(1) All property owned by the person before marriage.\n(2) All property acquired by the person after marriage by gift, bequest, devise, or descent.\n(3) The rents, issues, and profits of the property described in this section.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 771",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_771._FAM771.20161142",
+            "quote": "The earnings and accumulations of a spouse and the minor children living with, or in the custody of, the spouse, after the date of separation of the spouses, are the separate property of the spouse.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2581",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2581._FAM2581.1993219111.7",
+            "quote": "For the purpose of division of property on dissolution of marriage or legal separation of the parties, property acquired by the parties during marriage in joint form, including property held in tenancy in common, joint tenancy, or tenancy by the entirety, or as community property, is presumed to be community property. This presumption is a presumption affecting the burden of proof and may be rebutted by either of the following:\n(a) A clear statement in the deed or other documentary evidence of title by which the property is acquired that the property is separate property and not community property.\n(b) Proof that the parties have made a written agreement that the property is separate property.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code §§ 760 (row FAM_760._FAM760.199216210, full text), 770 (row FAM_770._FAM770.199216210, subdivision (a) in full; subdivision (b), a married person's power to convey their own separate property without spousal consent, was read but not quoted here as it answers a different question), 771 (row FAM_771._FAM771.20161142, subdivision (a); subdivision (b)'s carve-out for a minor child's own contract earnings under Section 6750 was read but not quoted, a separate topic), and 2581 (row FAM_2581._FAM2581.1993219111.7, full text). No personal-injury-recovery carve-out analogous to Tex. Fam. Code § 3.001(3) was searched for in this pass; NOT ESTABLISHED whether or how California treats a personal-injury recovery for classification purposes in this row."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "division-standard",
+    "rule_id": "ca-equal-division-command-contrasted-with-texas-just-and-right-standard-subject-to-agreement-exceptions",
+    "question": "Does a California divorce court have to split the community estate 50/50?",
+    "rule": "As the default rule, yes — and this is a real, textual difference from the Texas row in this plugin, not just a difference in emphasis. Where Texas's standard is the discretionary \"just and right\" (Tex. Fam. Code § 7.001), California's statute is a direct equal-division command, subject only to the parties' own agreement. Cal. Fam. Code § 2550: \"Except upon the written agreement of the parties, or on oral stipulation of the parties in open court, or as otherwise provided in this division, in a proceeding for dissolution of marriage or for legal separation of the parties, the court shall, either in its judgment of dissolution of the marriage, in its judgment of legal separation of the parties, or at a later time if it expressly reserves jurisdiction to make such a property division, divide the community estate of the parties equally.\"",
+    "trap": "\"Community property state\" does NOT mean the same thing in California and Texas even though both use the phrase — California's statute actually says \"divide the community estate of the parties equally,\" a specific numeric command, while Texas's own statute says \"just and right,\" a discretionary multi-factor standard with no percentage in the text at all (see this plugin's Texas division-standard row). The trap runs the other way for California: \"equally\" is not absolute — it applies \"except upon the written agreement of the parties, or on oral stipulation of the parties in open court, or as otherwise provided in this division,\" so a court is NOT locked into a 50/50 split if the spouses agree otherwise, or if some other provision in the division supplies a different rule (this rule does not enumerate what \"otherwise provided in this division\" reaches beyond the settlement-agreements row's authorities). this rule does not establish what happens when equal-in-kind division of a specific asset (a house, a business) is impractical — offsetting awards, sale, or another mechanism is not cited here; NOT ESTABLISHED.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2550",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2550._FAM2550.199216210",
+            "quote": "Except upon the written agreement of the parties, or on oral stipulation of the parties in open court, or as otherwise provided in this division, in a proceeding for dissolution of marriage or for legal separation of the parties, the court shall, either in its judgment of dissolution of the marriage, in its judgment of legal separation of the parties, or at a later time if it expressly reserves jurisdiction to make such a property division, divide the community estate of the parties equally.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 2550, row FAM_2550._FAM2550.199216210, full text. The Texas comparison references this plugin's own already-verified rows-tx-family.json (division-standard row, Tex. Fam. Code § 7.001, row tx-stat_178a3f77cffc3edc) rather than adding a new, separately verified Texas authority to this California row."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "spousal-support",
+    "rule_id": "ca-fourteen-lettered-spousal-support-factors-including-mandatory-domestic-violence-history-and-a-self-supporting-goal-with-no-served-dollar-or-percentage-cap-found",
+    "question": "What does a California court weigh in setting spousal support?",
+    "rule": "A long, lettered list of circumstances the court \"shall consider,\" running from earning capacity through domestic-violence history to a self-supporting goal — there is no single dominant factor named in the text. Cal. Fam. Code § 4320 (quoted here in full because the question is which factors apply): \"In ordering spousal support under this part, the court shall consider all of the following circumstances: (a) The extent to which the earning capacity of each party is sufficient to maintain the standard of living established during the marriage, taking into account all of the following: (1) The marketable skills of the supported party; the job market for those skills; the time and expenses required for the supported party to acquire the appropriate education or training to develop those skills; and the possible need for retraining or education to acquire other, more marketable skills or employment. (2) The extent to which the supported party's present or future earning capacity is impaired by periods of unemployment that were incurred during the marriage to permit the supported party to devote time to domestic duties. (b) The extent to which the supported party contributed to the attainment of an education, training, a career position, or a license by the supporting party. (c) The ability of the supporting party to pay spousal support, taking into account the supporting party's earning capacity, earned and unearned income, assets, and standard of living. (d) The needs of each party based on the standard of living established during the marriage. (e) The obligations and assets, including the separate property, of each party. (f) The duration of the marriage. (g) The ability of the supported party to engage in gainful employment without unduly interfering with the interests of dependent children in the custody of the party. (h) The age and health of the parties. (i) All documented evidence of any history of domestic violence, as defined in Section 6211, between the parties or perpetrated by either party against either party's child, including, but not limited to, consideration of: (1) A plea of nolo contendere. (2) Emotional distress resulting from domestic violence perpetrated against the supported party by the supporting party. (3) Any history of violence against the supporting party by the supported party. (4) Issuance of a protective order after a hearing pursuant to Section 6340. (5) A finding by a court during the pendency of a divorce, separation, or child custody proceeding, or other proceeding under Division 10 (commencing with Section 6200), that the spouse has committed domestic violence. (j) The immediate and specific tax consequences to each party. (k) The balance of the hardships to each party. (l) The goal that the supported party shall be self-supporting within a reasonable period of time. Except in the case of a marriage of long duration as described in Section 4336, a “reasonable period of time” for purposes of this section generally shall be one-half the length of the marriage. However, nothing in this section is intended to limit the court's discretion to order support for a greater or lesser length of time, based on any of the other factors listed in this section, Section 4336, and the circumstances of the parties. (m) The criminal conviction of an abusive spouse shall be considered in making a reduction or elimination of a spousal support award in accordance with Section 4324.5 or 4325. (n) Any other factors the court determines are just and equitable.\"",
+    "trap": "There is no ranking among the factors in the text — subdivision (n)'s catch-all (\"[a]ny other factors the court determines are just and equitable\") means the list is not even closed, so a party cannot argue a particular factor is dispositive just because it is listed earlier (e.g., (a) earning capacity) than another (e.g., (h) age and health). Domestic-violence history is not a side note here; it is factor (i), with five named categories of documented evidence — a plea of nolo contendere, emotional distress, a history of violence against the supporting party, a protective order after hearing, or a court finding of domestic violence in a related proceeding — and factor (m) separately requires a criminal conviction of an abusive spouse to be considered toward REDUCING or ELIMINATING that spouse's own support award. this rule states these as bare statutory facts about the support-factors list only, consistent with this plugin's family-violence caveat in CLAUDE.md — it does not answer, and this plugin never answers, how to obtain a protective order or plan for safety. HONEST NEGATIVE, RECORDED: searches for a dollar-or-percentage ceiling on spousal support comparable to Tex. Fam. Code § 8.055's \"$5,000 or 20 percent\" cap (\"may not order maintenance\", \"spousal support that requires\", \"20 percent of\") returned 0 hits in the Family Code shard; this rule does not claim California has no such cap anywhere, only that this search, run the same way the Texas cap was verified, found none.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 4320",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_4320._FAM4320.20189381",
+            "quote": "In ordering spousal support under this part, the court shall consider all of the following circumstances:\n(a) The extent to which the earning capacity of each party is sufficient to maintain the standard of living established during the marriage, taking into account all of the following:\n(1) The marketable skills of the supported party; the job market for those skills; the time and expenses required for the supported party to acquire the appropriate education or training to develop those skills; and the possible need for retraining or education to acquire other, more marketable skills or employment.\n(2) The extent to which the supported party’s present or future earning capacity is impaired by periods of unemployment that were incurred during the marriage to permit the supported party to devote time to domestic duties.\n(b) The extent to which the supported party contributed to the attainment of an education, training, a career position, or a license by the supporting party.\n(c) The ability of the supporting party to pay spousal support, taking into account the supporting party’s earning capacity, earned and unearned income, assets, and standard of living.\n(d) The needs of each party based on the standard of living established during the marriage.\n(e) The obligations and assets, including the separate property, of each party.\n(f) The duration of the marriage.\n(g) The ability of the supported party to engage in gainful employment without unduly interfering with the interests of dependent children in the custody of the party.\n(h) The age and health of the parties.\n(i) All documented evidence of any history of domestic violence, as defined in Section 6211, between the parties or perpetrated by either party against either party’s child, including, but not limited to, consideration of:\n(1) A plea of nolo contendere.\n(2) Emotional distress resulting from domestic violence perpetrated against the supported party by the supporting party.\n(3) Any history of violence against the supporting party by the supported party.\n(4) Issuance of a protective order after a hearing pursuant to Section 6340.\n(5) A finding by a court during the pendency of a divorce, separation, or child custody proceeding, or other proceeding under Division 10 (commencing with Section 6200), that the spouse has committed domestic violence.\n(j) The immediate and specific tax consequences to each party.\n(k) The balance of the hardships to each party.\n(l) The goal that the supported party shall be self-supporting within a reasonable period of time. Except in the case of a marriage of long duration as described in Section 4336, a “reasonable period of time” for purposes of this section generally shall be one-half the length of the marriage. However, nothing in this section is intended to limit the court’s discretion to order support for a greater or lesser length of time, based on any of the other factors listed in this section, Section 4336, and the circumstances of the parties.\n(m) The criminal conviction of an abusive spouse shall be considered in making a reduction or elimination of a spousal support award in accordance with Section 4324.5 or 4325.\n(n) Any other factors the court determines are just and equitable.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 4320, row FAM_4320._FAM4320.20189381, quoted in full (all of (a)-(n)), the entire text of the row. The dollar/percentage-cap honest negative was run with an internal DocketX tool against the same shard, code_prefix \"FAM\": \"may not order maintenance\" (0 hits), \"spousal support that requires\" (0 hits), \"20 percent of\" (0 hits)."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "spousal-support",
+    "rule_id": "ca-long-duration-marriage-presumed-at-ten-years-keeps-jurisdiction-indefinitely-no-fixed-year-cap-in-this-row-unlike-texas",
+    "question": "For how long can spousal support last in California, especially after a long marriage?",
+    "rule": "Below a \"marriage of long duration,\" the statutory goal is a self-supporting party within a reasonable time, generally half the marriage's length; at or above that line, the court simply keeps jurisdiction open indefinitely rather than being handed a fixed termination year. Cal. Fam. Code § 4320(l): \"The goal that the supported party shall be self-supporting within a reasonable period of time. Except in the case of a marriage of long duration as described in Section 4336, a “reasonable period of time” for purposes of this section generally shall be one-half the length of the marriage. However, nothing in this section is intended to limit the court's discretion to order support for a greater or lesser length of time, based on any of the other factors listed in this section, Section 4336, and the circumstances of the parties.\" Fam. Code § 4336 supplies the long-duration mechanism: \"(a) Except on written agreement of the parties to the contrary or a court order terminating spousal support, the court retains jurisdiction indefinitely in a proceeding for dissolution of marriage or for legal separation of the parties where the marriage is of long duration. (b) For the purpose of retaining jurisdiction, there is a presumption affecting the burden of producing evidence that a marriage of 10 years or more, from the date of marriage to the date of separation, is a marriage of long duration. However, the court may consider periods of separation during the marriage in determining whether the marriage is in fact of long duration. Nothing in this subdivision precludes a court from determining that a marriage of less than 10 years is a marriage of long duration.\"",
+    "trap": "This is the sharpest contrast with the Texas row in this plugin. Texas caps maintenance at a hard 5, 7, or 10 years by marriage length, with no indefinite category for the ordinary marriage-length eligibility route (Tex. Fam. Code § 8.054(a)). California's statute does the opposite for a marriage of long duration: it does not hand the court a termination date at all — it \"retains jurisdiction indefinitely,\" meaning the case stays open for future modification rather than support automatically ending on a schedule. \"Indefinitely\" is not \"forever automatically\" though: § 4336(a) says the court retains jurisdiction, not that support itself must continue unchanged, and support can still be modified or terminated later on a showing of changed circumstances or by the parties' own written agreement (§ 4336(c)). The 10-year threshold is also only a REBUTTABLE presumption, not a bright line: a marriage under 10 years can still be found long-duration, and periods of separation can be weighed against the raw calendar count. HONEST NEGATIVE, RECORDED: this rule's own text does not establish that a marriage under the presumptive 10-year long-duration line is bound by an outside limit at all beyond the 'half the marriage's length' generally-applicable goal in § 4320(l), which the statute itself calls a default, not a cap (\"nothing in this section is intended to limit the court's discretion to order support for a greater or lesser length of time\") — so even a short-marriage support order is not capped the way Texas's is; that absence was checked in the spousal-support-factors row's honest negative, not reproduced again here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 4320",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_4320._FAM4320.20189381",
+            "quote": "The goal that the supported party shall be self-supporting within a reasonable period of time. Except in the case of a marriage of long duration as described in Section 4336, a “reasonable period of time” for purposes of this section generally shall be one-half the length of the marriage. However, nothing in this section is intended to limit the court’s discretion to order support for a greater or lesser length of time, based on any of the other factors listed in this section, Section 4336, and the circumstances of the parties.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 4336",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_4336._FAM4336.199216210",
+            "quote": "(a) Except on written agreement of the parties to the contrary or a court order terminating spousal support, the court retains jurisdiction indefinitely in a proceeding for dissolution of marriage or for legal separation of the parties where the marriage is of long duration.\n(b) For the purpose of retaining jurisdiction, there is a presumption affecting the burden of producing evidence that a marriage of 10 years or more, from the date of marriage to the date of separation, is a marriage of long duration. However, the court may consider periods of separation during the marriage in determining whether the marriage is in fact of long duration. Nothing in this subdivision precludes a court from determining that a marriage of less than 10 years is a marriage of long duration.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 4320(l) (row FAM_4320._FAM4320.20189381, subsection (l) as an exact contiguous substring of the same row quoted in full in the spousal-support-factors row) and § 4336 (row FAM_4336._FAM4336.199216210, subsections (a) and (b) in full). Subsection (c) ('[n]othing in this section limits the court's discretion to terminate spousal support in later proceedings on a showing of changed circumstances') and (d) (the section's 1988 application dates) were read but not quoted; they qualify but do not contradict the rule as stated."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "child-support-guidelines",
+    "rule_id": "ca-guideline-formula-runs-on-net-disposable-income-and-timeshare-percentage-not-a-flat-percentage-of-net-resources-table-like-texas",
+    "question": "How is presumptive child support calculated under the California guideline?",
+    "rule": "California's guideline is a formula built from net disposable income and each parent's percentage of parenting time, not a flat percentage-of-net-resources schedule like the Texas plugin's child-support row describes. Cal. Fam. Code § 4055(a): \"The statewide uniform guideline for determining child support orders is as follows: CS = K[HN - (H%)(TN)].\" The components and the K-value table: § 4055(b): \"(b) (1) The components of the formula are as follows: (A) CS = child support amount. (B) K = amount of both parents’ income to be allocated for child support as set forth in paragraph (3). (C) HN = high earner’s net monthly disposable income. (D) H% = approximate percentage of time that the high earner has or will have primary physical responsibility for the children compared to the other parent. In cases in which parents have different time-sharing arrangements for different children, H% equals the average of the approximate percentages of time the high earner parent spends with each child. (E) TN = total net monthly disposable income of both parties. (2) To compute net disposable income, see Section 4059. (3) K (amount of both parents’ income allocated for child support) equals one plus H% (if H% is less than or equal to 50 percent) or two minus H% (if H% is greater than 50 percent) times the following fraction: Total Net Disposable Income Per Month K $0–2,900 0.165 + TN/82,857 $2,901–5,000 0.131 + TN/42,149 $5,001–10,000 0.250 $10,001–15,000 0.10 + 1,499/TN Over $15,000 0.12 + 1,200/TN\" Fam. Code § 4053 supplies the interpretive principles courts apply alongside the formula: \"In implementing the statewide uniform guideline, the courts shall adhere to the following principles: (a) A parent's first and principal obligation is to support the parent's minor children according to the parent's circumstances and station in life. (b) Both parents are mutually responsible for the support of their children. (c) The guideline takes into account each parent's actual income and level of responsibility for the children. (d) Each parent should pay for the support of the children according to the parent's ability. (e) The guideline seeks to place the interests of children as the state's top priority. (f) Children should share in the standard of living of both parents. Child support may therefore appropriately improve the standard of living of the custodial household to improve the lives of the children. (g) Child support orders in cases in which both parents have high levels of responsibility for the children should reflect the increased costs of raising the children in two homes and should minimize significant disparities in the children's living standards in the two homes. (h) The financial needs of the children should be met through private financial resources as much as possible. (i) It is presumed that a parent having primary physical responsibility for the children contributes a significant portion of available resources for the support of the children. (j) The guideline seeks to encourage fair and efficient settlements of conflicts between parents and seeks to minimize the need for litigation. (k) The guideline is intended to be presumptively correct in all cases, and only under special circumstances should child support orders fall below the child support mandated by the guideline formula. (l) Child support orders shall ensure that children actually receive fair, timely, and sufficient support reflecting the state's high standard of living and high costs of raising children compared to other states.\"",
+    "trap": "The formula's variable H% is not just \"who has the kids\" — it is the HIGH EARNER's percentage of parenting time, and the K multiplier flips its formula depending on whether H% is above or below 50 percent, so the same custody split produces a different K depending on which parent earns more. NET disposable income, defined by cross-reference to § 4059 (not read or quoted in this rule), is the input — not gross pay, mirroring the same gross-versus-net trap this plugin's Texas guideline row flags for Tex. Fam. Code § 154.125. this rule does not quote § 4055(b)(4)'s per-additional-child multiplier table, (b)(5)-(8)'s sign convention, default-proceeding, low-income-adjustment, or youngest-child-first allocation rules, or § 4059 itself, or § 4057's rebuttal factors for deviating from the guideline — all read as neighboring but not reproduced here; NOT ESTABLISHED in this rule's quoted text. Unlike Texas's flat percentage table (20%/25%/30%.../not less than 5-child amount for 6+ children), California's K-bracket table changes the percentage as income rises within each bracket rather than stepping only by number of children — a parent cannot look up \"one child = X%\" the way the Texas table allows.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 4055",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_4055._FAM4055.20232133",
+            "quote": "The statewide uniform guideline for determining child support orders is as follows: CS = K[HN - (H%)(TN)].",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 4055",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_4055._FAM4055.20232133",
+            "quote": "(b) (1) The components of the formula are as follows:\n(A) CS = child support amount.\n(B) K = amount of both parents’ income to be allocated for\nchild support as set forth in paragraph (3).\n(C) HN = high earner’s net monthly disposable income.\n(D) H% = approximate percentage of time that the high earner has or will have primary physical responsibility for the children compared to the other parent. In cases in which parents have different time-sharing arrangements for different children, H% equals the average of the approximate percentages of time the high earner parent spends with each child.\n(E) TN = total net monthly disposable income of both parties.\n(2) To compute net disposable income, see Section 4059.\n(3) K (amount of both parents’ income allocated for child support) equals one plus H% (if H% is less than or equal to 50 percent) or two minus H% (if H% is greater than 50 percent) times the following fraction:\nTotal Net Disposable Income Per Month\nK\n$0–2,900\n0.165 + TN/82,857\n$2,901–5,000\n0.131 + TN/42,149\n$5,001–10,000\n0.250\n$10,001–15,000\n0.10 + 1,499/TN\nOver $15,000\n0.12 + 1,200/TN",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 4053",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_4053._FAM4053.201911544",
+            "quote": "In implementing the statewide uniform guideline, the courts shall adhere to the following principles:\n(a) A parent’s first and principal obligation is to support the parent’s minor children according to the parent’s circumstances and station in life.\n(b) Both parents are mutually responsible for the support of their children.\n(c) The guideline takes into account each parent’s actual income and level of responsibility for the children.\n(d) Each parent should pay for the support of the children according\nto the parent’s ability.\n(e) The guideline seeks to place the interests of children as the state’s top priority.\n(f) Children should share in the standard of living of both parents. Child support may therefore appropriately improve the standard of living of the custodial household to improve the lives of the children.\n(g) Child support orders in cases in which both parents have high levels of responsibility for the children should reflect the increased costs of raising the children in two homes and should minimize significant disparities in the children’s living standards in the two homes.\n(h) The financial needs of the children should be met through private\nfinancial resources as much as possible.\n(i) It is presumed that a parent having primary physical responsibility for the children contributes a significant portion of available resources for the support of the children.\n(j) The guideline seeks to encourage fair and efficient settlements of conflicts between parents and seeks to minimize the need for litigation.\n(k) The guideline is intended to be presumptively correct in all cases, and only under special circumstances should child support orders fall below the child support mandated by the guideline formula.\n(l) Child support orders shall ensure that children actually receive fair, timely, and sufficient\nsupport reflecting the state’s high standard of living and high costs of raising children compared to other states.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 4055 (row FAM_4055._FAM4055.20232133, two quotes: the equation sentence in (a), and the components-through-K-table span of (b)(1)-(3)) and § 4053 (row FAM_4053._FAM4053.201911544, full text). Section 4055 subdivision (d) records 'This section shall be operative September 1, 2024' — already in effect as of this row's as_of date, so no currency flag is needed the way a future-dated figure would require. § 4055(b)(4)'s multiplier table for more than one child, (b)(5)-(8), and § 4059 and § 4057 were read but not quoted; a dedicated row for those was not built in this pass."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "custody-and-visitation",
+    "rule_id": "ca-best-interest-factors-plus-frequent-contact-policy-and-an-explicit-no-presumption-for-or-against-joint-custody-unlike-texas-joint-conservatorship-presumption",
+    "question": "Does California presume parents will share custody, the way Texas presumes joint managing conservatorship?",
+    "rule": "No — California's statute says the opposite in so many words: no presumption for or against any custody arrangement. Cal. Fam. Code § 3020(a) sets the policy baseline: \"The Legislature finds and declares that it is the public policy of this state to ensure that the health, safety, and welfare of children shall be the court's primary concern in determining the best interests of children when making any orders regarding the physical or legal custody or visitation of children. The Legislature further finds and declares that children have the right to be safe and free from abuse, and that the perpetration of child abuse or domestic violence in a household where a child resides is detrimental to the health, safety, and welfare of the child.\" Fam. Code § 3011(a) lists the health-safety-welfare factor first among the best-interest factors: \"In making a determination of the best interests of the child in a proceeding described in Section 3021, the court shall, among any other factors it finds relevant and consistent with Section 3020, consider all of the following: (1) The health, safety, and welfare of the child.\" Fam. Code § 3040(a)(1) states an order of preference toward joint or either-parent custody: \"Custody should be granted in the following order of preference according to the best interest of the child as provided in Sections 3011 and 3020: (1) To both parents jointly pursuant to Chapter 4 (commencing with Section 3080) or to either parent. In making an order granting custody to either parent, the court shall consider, among other factors, which parent is more likely to allow the child frequent and continuing contact with the noncustodial parent, consistent with Sections 3011 and 3020. The court, in its discretion, may require the parents to submit to the court a plan for the implementation of the custody order.\" But § 3040(e) then expressly forecloses reading that preference as a presumption: \"This section establishes neither a preference nor a presumption for or against joint legal custody, joint physical custody, or sole custody, but allows the court and the family the widest discretion to choose a parenting plan that is in the best interest of the child, consistent with this section.\"",
+    "trap": "This is a direct, textual contrast with the Texas row in this plugin. Texas states a REBUTTABLE PRESUMPTION that joint managing conservatorship is in a child's best interest, removed only by a family-violence finding (Tex. Fam. Code § 153.131(b)). California's § 3040(e) says its OWN section \"establishes neither a preference nor a presumption for or against joint legal custody, joint physical custody, or sole custody\" — so despite § 3040(a)(1) listing joint-or-either-parent custody FIRST in an \"order of preference,\" subdivision (e) directly qualifies that an order of preference is not the same thing as a legal presumption. A reader who stops at (a)(1) and assumes California has a Texas-style joint-custody presumption would be wrong; (e) is the row's own textual correction of that reading. this rule states § 3011(a)(2)'s family-violence-history factor exists as a bare fact about the best-interest list (a history-of-abuse factor, with an independent-corroboration option) consistent with this plugin's family-violence caveat — it is not quoted here and this rule does not use it to build safety-planning guidance, per CLAUDE.md.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 3020",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_3020._FAM3020.20195512",
+            "quote": "The Legislature finds and declares that it is the public policy of this state to ensure that the health, safety, and welfare of children shall be the court’s primary concern in determining the best interests of children when making any orders regarding the physical or legal custody or visitation of children. The Legislature further finds and declares that children have the right to be safe and free from abuse, and that the perpetration of child abuse or domestic violence in a household where a child resides is detrimental to the health, safety, and welfare of the child.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 3011",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_3011._FAM3011.20234932",
+            "quote": "In making a determination of the best interests of the child in a proceeding described in Section 3021, the court shall, among any other factors it finds relevant and consistent with Section 3020, consider all of the following:\n(1) The health, safety, and welfare of the child.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 3040",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_3040._FAM3040.20223853",
+            "quote": "(a) Custody should be granted in the following order of preference according to the best interest of the child as provided in Sections 3011 and 3020:\n(1) To both parents jointly pursuant to Chapter 4 (commencing with Section 3080) or to either parent. In making an order granting custody to either parent, the court shall consider, among other factors, which parent is more likely to allow the child frequent and continuing contact with the noncustodial parent, consistent with Sections 3011 and 3020. The court, in its discretion, may require the parents to submit to the court a plan for the implementation of the custody order.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 3040",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_3040._FAM3040.20223853",
+            "quote": "This section establishes neither a preference nor a presumption\nfor or against joint legal custody, joint physical custody, or sole custody, but allows the court and the family the widest discretion to choose a parenting plan that is in the best interest of the child, consistent with this section.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 3020 (row FAM_3020._FAM3020.20195512, subdivision (a) in full), § 3011 (row FAM_3011._FAM3011.20234932, lead-in plus paragraph (1); paragraph (2)'s abuse-history factor and (b)'s sex/gender-identity exclusion were read but not quoted here, consistent with the family-violence caveat), and § 3040 (row FAM_3040._FAM3040.20223853, two quotes: (a) lead-in plus (1), and (e) in full). Subdivisions (b)-(d) and (f) of § 3040 (immigration status, mental-illness findings, more-than-two-parent allocation) were read but not quoted; a dedicated row for those was not built in this pass."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "required-disclosures",
+    "rule_id": "ca-mandatory-preliminary-and-final-financial-disclosure-in-every-case-with-perjury-and-set-aside-remedies-unlike-texas-collaborative-only-duty",
+    "question": "What does the Family Code require a spouse to disclose during a California divorce?",
+    "rule": "Unlike this plugin's Texas row, which finds the Family Code's disclosure duty confined to the OPT-IN collaborative process, California's Family Code imposes a mandatory preliminary AND final financial-disclosure duty in every dissolution or legal-separation case, with a perjury exposure and a judgment set-aside remedy for noncompliance. Cal. Fam. Code § 2104(a): \"Except by court order for good cause, as provided in Section 2107, or when service of the preliminary declaration of disclosure is not required pursuant to Section 2110, in the time period set forth in subdivision (f), each party shall serve on the other party a preliminary declaration of disclosure, executed under penalty of perjury on a form prescribed by the Judicial Council.\" Fam. Code § 2105(a) requires a second, FINAL round: \"Except by court order for good cause, before or at the time the parties enter into an agreement for the resolution of property or support issues other than pendente lite support, or, if the case goes to trial, no later than 45 days before the first assigned trial date, each party, or the attorney for the party in this matter, shall serve on the other party a final declaration of disclosure and a current income and expense declaration, executed under penalty of perjury on a form prescribed by the Judicial Council, unless the parties mutually waive the final declaration of disclosure.\" Noncompliance carries real teeth: Fam. Code § 2107(c): \"If a party fails to comply with any provision of this chapter, the court shall, in addition to any other remedy provided by law, impose money sanctions against the noncomplying party. Sanctions shall be in an amount sufficient to deter repetition of the conduct or comparable conduct, and shall include reasonable attorney's fees, costs incurred, or both, unless the court finds that the noncomplying party acted with substantial justification or that other circumstances make the imposition of the sanction unjust.\" And § 2107(d): \"Except as otherwise provided in this subdivision, if a court enters a judgment when the parties have failed to comply with all disclosure requirements of this chapter, the court shall set aside the judgment. The failure to comply with the disclosure requirements does not constitute harmless error.\"",
+    "trap": "This is the mirror image of the honest negative in this plugin's Texas required-disclosures row, which found the Family Code's disclosure duty confined to the collaborative-law process (Tex. Fam. Code § 15.109) and NOT a general requirement. California's is the opposite: §§ 2104 and 2105 impose the disclosure duty in EVERY dissolution or legal-separation case as a default, and the final declaration can be mutually WAIVED by the parties, but the preliminary declaration is excused only by court order for good cause or the narrower § 2110 exception (not quoted here) — it is not simply optional. The remedy is also not proportionate to the missing paperwork; § 2107(d)'s default rule is that the court \"shall set aside the judgment\" for a failure to comply with \"all disclosure requirements,\" and \"[t]he failure to comply with the disclosure requirements does not constitute harmless error\" — meaning a party cannot argue after the fact that the missing disclosure did not matter. this rule does not quote § 2107(b)'s pre-set-aside remedies (motion to compel, evidentiary sanctions, voluntary-waiver procedure) or (d)'s narrower exceptions once a voluntary waiver was granted (actual fraud, perjury) — those were read but not reproduced; NOT ESTABLISHED in the quoted text here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2104",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2104._FAM2104.201911519",
+            "quote": "Except by court order for good cause, as provided in Section 2107, or when service of the preliminary declaration of disclosure is not required pursuant to Section 2110, in the time period set forth in subdivision (f), each party shall serve on the other party a preliminary declaration of disclosure, executed under penalty of perjury on a form prescribed by the Judicial Council.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2105",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2105._FAM2105.20017034",
+            "quote": "Except by court order for good cause, before or at the time the parties enter into an agreement for the resolution of property or support issues other than pendente lite support, or, if the case goes to trial, no later than 45 days before the first assigned trial date, each party, or the attorney for the party in this matter, shall serve on the other party a final declaration of disclosure and a current income and expense declaration, executed under penalty of perjury on a form prescribed by the Judicial Council, unless the parties mutually waive the final declaration of disclosure.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2107",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2107._FAM2107.2015463",
+            "quote": "If a party fails to comply with any provision of this chapter, the court shall, in addition to any other remedy provided by law, impose money sanctions against the noncomplying party. Sanctions shall be in an amount sufficient to deter repetition of the conduct or comparable conduct, and shall include reasonable attorney’s fees, costs incurred, or both, unless the court finds that the noncomplying party acted with substantial justification or that other circumstances make the imposition of the sanction unjust.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2107",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2107._FAM2107.2015463",
+            "quote": "Except as otherwise provided in this subdivision, if a court enters a judgment when the parties have failed to comply with all disclosure requirements of this chapter, the court shall set aside the judgment. The failure to comply with the disclosure requirements does not constitute harmless error.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 2104 (row FAM_2104._FAM2104.201911519, first sentence of (a)), § 2105 (row FAM_2105._FAM2105.20017034, first sentence of (a)), and § 2107 (row FAM_2107._FAM2107.2015463, two quotes: (c) in full and the first two sentences of (d)). This contradicts nothing in the Texas required-disclosures row's honest negative -- the two states simply differ on this point, which is exactly what this plugin's Texas jurisdiction-gate warns not to assume by analogy."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "temporary-orders",
+    "rule_id": "ca-automatic-restraining-orders-baked-into-every-summons-plus-discretionary-pendente-lite-support-and-ex-parte-property-orders-unlike-texas-motion-triggered-scheme",
+    "question": "What can a California court order while a divorce is pending, and does it happen automatically?",
+    "rule": "Unlike this plugin's Texas temporary-orders row, where nothing happens without a motion, notice, and a hearing, a set of restraining provisions in California attaches AUTOMATICALLY the moment the summons is served -- no motion, no separate court order. Cal. Fam. Code § 2040(a): \"In addition to the contents required by Section 412.20 of the Code of Civil Procedure, the summons shall contain a temporary restraining order: (1) Restraining both parties from removing the minor child or children of the parties, if any, from the state, or from applying for a new or replacement passport for the minor child or children, without the prior written consent of the other party or an order of the court.\" Separately, and by contrast, a party can also apply for additional property-protective relief EX PARTE, which is discretionary rather than automatic: Fam. Code § 2045(a) (lead-in plus subdivision (a)): \"During the pendency of the proceeding, on application of a party in the manner provided by Part 4 (commencing with Section 240) of Division 2, the court may issue ex parte any of the following orders: (a) An order restraining any person from transferring, encumbering, hypothecating, concealing, or in any way disposing of any property, real or personal, whether community, quasi-community, or separate, except in the usual course of business or for the necessities of life, and if the order is directed against a party, requiring that party to notify the other party of any proposed extraordinary expenditures and to account to the court for all extraordinary expenditures.\" Pendente lite support itself remains discretionary and court-ordered, not automatic: Fam. Code § 3600: \"During the pendency of any proceeding for dissolution of marriage or for legal separation of the parties or under Division 8 (commencing with Section 3000) (custody of children) or in any proceeding where there is at issue the support of a minor child or a child for whom support is authorized under Section 3901 or 3910, the court may order (a) either spouse to pay any amount that is necessary for the support of the other spouse, consistent with the requirements of subdivisions (i) and (m) of Section 4320 and Section 4325, or (b) either or both parents to pay any amount necessary for the support of the child, as the case may be.\"",
+    "trap": "The trap is exactly backwards from the Texas row's trap. In Texas, nothing in § 6.502 operates on its own -- a sworn inventory, a spending freeze, or exclusive use of the house all require a motion and hearing first (Tex. Fam. Code § 6.502(a)). In California, the § 2040 restraining provisions are baked directly into the summons itself by statutory command (\"the summons shall contain a temporary restraining order\") -- they bind on service, with no separate motion or hearing needed to bring them into existence, though the RELIEF a party gets beyond those automatic terms (additional ex parte orders under § 2045, or spousal/child support under § 3600) still requires an application or a court order. this rule does not restate § 2040(b)'s list of what the automatic order does NOT restrain (wills, revocable-trust revocation with notice, survivorship elimination with notice, an unfunded trust, a Probate Code disclaimer) -- read but not quoted; NOT ESTABLISHED in the quoted text here. CURRENCY FLAG: § 2040 currently in force (row FAM_2040._FAM2040.2025481) is by its own text \"in effect only until January 1, 2027, and as of that date is repealed\"; a second, nearly identical row (FAM_2040._FAM2040.2025482) becomes operative that same date and adds a lapse-for-nonpayment-of-premiums and failure-to-renew restraint to the insurance-coverage provision -- this rule cites the version operative as of the as_of date below and does not restate the 2027 reenactment's added language as current law.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 3600",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_3600._FAM3600.20148235",
+            "quote": "During the pendency of any proceeding for dissolution of marriage or for legal separation of the parties or under Division 8 (commencing with Section 3000) (custody of children) or in any proceeding where there is at issue the support of a minor child or a child for whom support is authorized under Section 3901 or 3910, the court may order (a) either spouse to pay any amount that is necessary for the support of the other spouse, consistent with the requirements of subdivisions (i) and (m) of Section 4320 and Section 4325, or (b) either or both parents to pay any amount necessary for the support of the child, as the case may be.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2040",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2040._FAM2040.2025481",
+            "quote": "In addition to the contents required by Section 412.20 of the Code of Civil Procedure, the summons shall contain a temporary restraining order:\n(1) Restraining both parties from removing the minor child or children of the parties, if any, from the state, or from applying for a new or replacement passport for the minor child or children, without the prior written consent of the other party or an order of the court.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2045",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2045._FAM2045.1993219106.7",
+            "quote": "During the pendency of the proceeding, on application of a party in the manner provided by Part 4 (commencing with Section 240) of Division 2, the court may issue ex parte any of the following orders:\n(a) An order restraining any person from transferring, encumbering, hypothecating, concealing, or in any way disposing of any property, real or personal, whether community, quasi-community, or separate, except in the usual course of business or for the necessities of life, and if the order is directed against a party, requiring that party to notify the other party of any proposed extraordinary expenditures and to account to the court for all extraordinary expenditures.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 3600 (row FAM_3600._FAM3600.20148235, full text), § 2040 (row FAM_2040._FAM2040.2025481, the currently-operative version per its own sunset clause 'until January 1, 2027'; a second row FAM_2040._FAM2040.2025482 becomes operative 2027-01-01 with an added insurance lapse/non-renewal restraint -- both read, only the current one quoted), and § 2045 (row FAM_2045._FAM2045.1993219106.7, full text of the lead-in and subdivision (a); subdivision (b)'s cross-reference to protective orders under Section 6218 was read but not quoted, a family-violence-adjacent topic this plugin does not build safety guidance from per CLAUDE.md). PACK QUOTE SWEEP 2026-09-22: UNSUPPORTED (L): the trap quoted 'nothing in § 6.502 is self-executing' as if from a Texas source; a full-text scan of the 664,012-row Texas case-law shard finds no opinion pairing § 6.502 with 'self-executing'; the quotation marks are removed and the point stated as this plugin's own reading of the Texas row."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "mediation",
+    "rule_id": "ca-mandatory-court-ordered-mediation-of-contested-custody-or-visitation-before-the-court-decides-unlike-texas-opt-in-only-mediation",
+    "question": "Is mediation required in a California custody or visitation dispute?",
+    "rule": "Yes -- unlike this plugin's Texas mediation-and-agreements row, which describes a purely OPT-IN collaborative process and an opt-in mediated settlement agreement mechanism, California mandates mediation of contested custody or visitation issues before the court proceeds. Cal. Fam. Code § 3170(a): \"If it appears on the face of a petition, application, or other pleading to obtain or modify a temporary or permanent custody or visitation order that custody, visitation, or both are contested, the court shall set the contested issues for mediation.\"",
+    "trap": "This is not a party's choice the way collaborative family law is in Texas (Tex. Fam. Code Chapter 15, opt-in) -- the word is \"shall,\" and the trigger is automatic: it fires whenever contest \"appears on the face of\" the pleading itself, without a party needing to request mediation. this rule does not restate § 3170(b)'s domestic-violence handling protocol for Family Court Services beyond noting it exists as a distinct, separately-governed track -- consistent with this plugin's family-violence caveat, this rule does not build safety-planning guidance from it. this rule also does not establish what happens if mediation fails to resolve the contested issues (a report to the court, an evaluation, or a hearing) -- that is not stated in the text quoted here; NOT ESTABLISHED.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 3170",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_3170._FAM3170.20173302",
+            "quote": "If it appears on the face of a petition, application, or other pleading to obtain or modify a temporary or permanent custody or visitation order that custody, visitation, or both are contested, the court shall set the contested issues for mediation.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 3170, row FAM_3170._FAM3170.20173302, subdivision (a) in full. Subdivision (b) (domestic-violence-case handling protocol and Judicial Council guideline-adoption duty) was read but not quoted; subdivision (c) ('operative on January 1, 2020') confirms the section is currently in force as of this row's as_of date."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "settlement-agreements",
+    "rule_id": "ca-community-estate-may-be-divided-unequally-only-by-written-agreement-or-in-court-oral-stipulation-plus-a-separate-written-immediate-separation-agreement-mechanism",
+    "question": "Can California spouses agree to something other than an equal division of the community estate?",
+    "rule": "Yes -- California's equal-division command is itself conditioned on the absence of an agreement, and a separate section authorizes a written separation agreement outright. Cal. Fam. Code § 2550's own opening clause is the exception: \"Except upon the written agreement of the parties, or on oral stipulation of the parties in open court, or as otherwise provided in this division, in a proceeding for dissolution of marriage or for legal separation of the parties, the court shall ... divide the community estate of the parties equally.\" Fam. Code § 3580 separately authorizes an immediate-separation agreement covering support: \"Subject to this chapter and to Section 3651, spouses may agree, in writing, to an immediate separation, and may provide in the agreement for the support of either of them and of their children during the separation or upon the dissolution of their marriage. The mutual consent of the parties is sufficient consideration for the agreement.\"",
+    "trap": "There are only two ways to opt out of the equal-division default named in § 2550's own text -- a WRITTEN agreement, or an ORAL stipulation made IN OPEN COURT -- not any handshake or off-the-record understanding; an off-the-record oral agreement outside a courtroom satisfies neither route on this text. this rule does not carry a California analog to the Texas mediated-settlement-agreement (MSA) revocability rule in Tex. Fam. Code § 6.602 (the boldfaced/capitalized non-revocation language, signed by each party and any attorney present, that makes an MSA binding and non-revocable) -- that specific formal mechanism was not searched for in the California Family Code in this pass; NOT ESTABLISHED whether California has an equivalent, and this rule does not assume one exists by analogy, consistent with this plugin's jurisdiction-gate warning against assuming procedural rules carry over between states. § 3580's \"mutual consent ... is sufficient consideration\" answers only the contract-formation question (no additional consideration is needed beyond the mutual agreement to separate) -- it does not by its own words say anything about whether such an agreement is revocable before a decree, which this rule does not address.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2550",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2550._FAM2550.199216210",
+            "quote": "Except upon the written agreement of the parties, or on oral stipulation of the parties in open court, or as otherwise provided in this division, in a proceeding for dissolution of marriage or for legal separation of the parties, the court shall, either in its judgment of dissolution of the marriage, in its judgment of legal separation of the parties, or at a later time if it expressly reserves jurisdiction to make such a property division, divide the community estate of the parties equally.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 3580",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_3580._FAM3580.20148233",
+            "quote": "Subject to this chapter and to Section 3651, spouses may agree, in writing, to an immediate separation, and may provide in the agreement for the support of either of them and of their children during the separation or upon the dissolution of their marriage. The mutual consent of the parties is sufficient consideration for the agreement.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 2550 (row FAM_2550._FAM2550.199216210, full text, the same quote already verified in the division-standard row for this same jurisdiction) and § 3580 (row FAM_3580._FAM3580.20148233, full text). Section 3651, which § 3580 is itself 'subject to,' was not read in this pass -- a possible qualification this row does not reach."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "name-restoration",
+    "rule_id": "ca-name-restoration-is-mandatory-on-request-in-dissolution-or-nullity-not-legal-separation-and-can-be-denied-only-for-fraud",
+    "question": "Can a California court refuse to restore a spouse's former name in the divorce?",
+    "rule": "Only for fraud -- California's bar on denial is narrower than the Texas rule in this plugin, which allows denial for any stated reason except keeping the family's surname the same. Cal. Fam. Code § 2080: \"In a proceeding for dissolution of marriage or for nullity of marriage, but not in a proceeding for legal separation of the parties, the court, upon the request of a party, shall restore the birth name or former name of that party, regardless of whether a request for restoration of the name was included in the petition.\" Fam. Code § 2081 states the denial bar directly: \"The restoration of a former name or birth name requested under Section 2080 shall not be denied on the basis that the party has custody of a minor child who bears a different name, or for any other reason except fraud.\" Fam. Code § 2082 preserves a separate, non-exclusive path: \"This code does not abrogate the common law right of any person to change one's name.\"",
+    "trap": "Two traps, both narrower-than-expected California rules. First, § 2080 applies only to DISSOLUTION and NULLITY proceedings -- \"but not in a proceeding for legal separation of the parties\" is written directly into the text, so a spouse who only obtains a legal separation (not a dissolution) gets no name-restoration right from this section at all. Second, § 2081's denial bar is broader than Texas's: California's statute forecloses denial \"for any other reason except fraud\" -- not just the single named reason (family-surname-matching) that Texas's § 6.706(b) forecloses -- meaning a California court has essentially no discretion to deny once the request is made in the right kind of proceeding, apart from fraud. this rule does not establish what \"fraud\" requires in this context (a fraudulent name request, presumably, though the text does not define it) -- NOT ESTABLISHED beyond the bare word in the statute.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2080",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2080._FAM2080.20247802",
+            "quote": "In a proceeding for dissolution of marriage or for nullity of marriage, but not in a proceeding for legal separation of the parties, the court, upon the request of a party, shall restore the birth name or former name of that party, regardless of whether a request for restoration of the name was included in the petition.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2081",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2081._FAM2081.20247803",
+            "quote": "The restoration of a former name or birth name requested under Section 2080 shall not be denied on the basis that the party has custody of a minor child who bears a different name, or for any other reason except fraud.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2082",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2082._FAM2082.20247804",
+            "quote": "This code does not abrogate the common law right of any person to change one’s name.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code §§ 2080, 2081, and 2082 (rows FAM_2080._FAM2080.20247802, FAM_2081._FAM2081.20247803, FAM_2082._FAM2082.20247804), each quoted in full -- all three are short, self-contained sections."
+  },
+  {
+    "jurisdiction": "ca",
+    "clause": "summary-dissolution",
+    "rule_id": "ca-summary-dissolution-is-a-twelve-condition-opt-in-shortcut-for-short-low-asset-no-child-marriages-with-no-texas-analog-in-this-plugin",
+    "question": "Is there a faster, simplified divorce procedure available in California?",
+    "rule": "Yes -- summary dissolution, a California-specific procedure with no counterpart anywhere in this plugin's Texas rows, but only if all twelve of its conditions are met at once. Cal. Fam. Code § 2400(a): \"A marriage may be dissolved by the summary dissolution procedure provided in this chapter if all of the following conditions exist at the time the proceeding is commenced: (1) Either party has met the jurisdictional requirements of Chapter 3 (commencing with Section 2320) with regard to dissolution of marriage. (2) Irreconcilable differences have caused the irremediable breakdown of the marriage and the marriage should be dissolved. (3) There are no children of the relationship of the parties born before or during the marriage or adopted by the parties during the marriage, and neither party, to that party's knowledge, is pregnant. (4) The marriage is not more than five years in duration as of the date of separation of the parties. (5) Neither party has any interest in real property wherever situated, with the exception of the lease of a residence occupied by either party which satisfies the following requirements: (A) The lease does not include an option to purchase. (B) The lease terminates within one year from the date of the filing of the petition. (6) There are no unpaid obligations in excess of four thousand dollars ($4,000) incurred by either or both of the parties after the date of their marriage, excluding the amount of any unpaid obligation with respect to an automobile. (7) The total fair market value of community property assets, excluding all encumbrances and automobiles, including any deferred compensation or retirement plan, is less than twenty-five thousand dollars ($25,000), and neither party has separate property assets, excluding all encumbrances and automobiles, in excess of twenty-five thousand dollars ($25,000). (8) The parties have executed an agreement setting forth the division of assets and the assumption of liabilities of the community, and have executed any documents, title certificates, bills of sale, or other evidence of transfer necessary to effectuate the agreement. (9) The parties waive any rights to spousal support. (10) The parties, upon entry of the judgment of dissolution of marriage pursuant to Section 2403, irrevocably waive their respective rights to appeal and their rights to move for a new trial. (11) The parties have read and understand the summary dissolution brochure provided for in Section 2406. (12) The parties desire that the court dissolve the marriage.\"",
+    "trap": "Every one of the twelve conditions must hold at once -- there is no partial-qualification version, and the dollar figures are not fixed forever: § 2400(b) (not quoted in the authority above) requires the $4,000 debt figure and the $25,000 asset figures to be adjusted for inflation every odd-numbered year by the Judicial Council, so the numbers quoted here can go stale; a user should confirm the current adjusted figures rather than relying on the bare statutory numbers indefinitely. The waivers in (9) and (10) are severe for a shortcut procedure -- spousal support is waived entirely, and BOTH the right to appeal and the right to move for a new trial are given up irrevocably upon entry of judgment; this is not a reversible or a low-commitment option merely because it is fast. this rule does not establish whether summary dissolution has a shorter finality waiting period than the ordinary six months under § 2339 (this plugin's waiting-period row) -- that was not searched for in this pass; NOT ESTABLISHED here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Cal. Fam. Code § 2400",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "FAM_2400._FAM2400.20148228",
+            "quote": "A marriage may be dissolved by the summary dissolution procedure provided in this chapter if all of the following conditions exist at the time the proceeding is commenced:\n(1) Either party has met the jurisdictional requirements of Chapter 3 (commencing with Section 2320) with regard to dissolution of marriage.\n(2) Irreconcilable differences have caused the irremediable breakdown of the marriage and the marriage should be dissolved.\n(3) There are no children of the relationship of the parties born before or during the marriage or adopted by the parties during\nthe marriage, and neither party, to that party’s knowledge, is pregnant.\n(4) The marriage is not more than five years in duration as of the date of separation of the parties.\n(5) Neither party has any interest in real property wherever situated, with the exception of the lease of a residence occupied by either party which satisfies the following requirements:\n(A) The lease does not include an option to purchase.\n(B) The lease terminates within one year from the date of the filing of the petition.\n(6) There are no unpaid obligations in excess of four thousand dollars ($4,000) incurred by either or both\nof the parties after the date of their marriage, excluding the amount of any unpaid obligation with respect to an automobile.\n(7) The total fair market value of community property assets, excluding all encumbrances and automobiles, including any deferred compensation or retirement plan, is less than twenty-five thousand dollars ($25,000), and neither party has separate property assets, excluding all encumbrances and automobiles, in excess of twenty-five thousand dollars ($25,000).\n(8) The parties have executed an agreement setting forth the division of assets and the assumption of liabilities of the community, and have executed any documents, title certificates, bills of sale, or other evidence of transfer necessary to effectuate the agreement.\n(9) The parties waive any rights to spousal support.\n(10) The parties, upon entry of the judgment of dissolution of marriage pursuant to Section 2403, irrevocably waive their respective rights to appeal and their rights to move for a new trial.\n(11) The parties have read and understand the summary dissolution brochure provided for in Section 2406.\n(12) The parties desire that the court dissolve the marriage.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ca), Family Code § 2400, row FAM_2400._FAM2400.20148228, subdivision (a) in full (all 12 numbered conditions, contiguous, no content skipped). Subdivision (b) (the odd-year inflation-adjustment mechanism for the dollar figures in (6) and (7)) was read but not quoted; flagged in the trap as a currency caution rather than restated as a fixed number. No Texas row in this plugin addresses a comparable shortcut procedure -- this is presented as a California-only topic, not a comparison to an existing verified Texas row."
+  }
+]

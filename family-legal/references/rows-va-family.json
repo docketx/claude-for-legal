@@ -1,0 +1,548 @@
+[
+ {
+  "jurisdiction": "va",
+  "clause": "residency-and-venue",
+  "rule_id": "va-six-months-bona-fide-residence-and-domicile-by-one-party-measured-to-filing",
+  "question": "How long must a spouse live in Virginia before a Virginia court can grant a divorce?",
+  "rule": "At least six months of actual bona fide residence and domicile in the Commonwealth by ONE of the parties, and unlike California's rule this prong is measured to the date the suit is FILED, not to the date judgment is entered. Va. Code § 20-97: \"No suit for annulling a marriage or for divorce shall be maintainable, unless one of the parties was at the time of the filing of the suit and had been for at least six months preceding the filing of the suit an actual bona fide resident and domiciliary of the Commonwealth, nor shall any suit for affirming a marriage be maintainable, unless one of the parties be domiciled in, and is and has been an actual bona fide resident of, the Commonwealth at the time of filing such suit.\"",
+  "trap": "Only ONE spouse needs the six months — the text says \"one of the parties,\" the same either-spouse reach as California's \"one of the parties,\" and unlike Texas's plugin row there is no separate county-residency prong to layer on top; Virginia's statute is a single Commonwealth-wide bona fide residence and domicile requirement, with venue (which circuit court) governed elsewhere. The clock in this rule runs to the FILING date (\"at the time of the filing of the suit and had been for at least six months preceding the filing\"), which is a different anchor than California's rule in this plugin, where the six months is checked against the date the JUDGMENT is entered. This rule does not state what \"actual bona fide resident and domiciliary\" requires beyond the statute's own words (a physical-presence-plus-intent test is not spelled out here) — that would take case law this rule does not cite; NOT ESTABLISHED beyond the bare text.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-97",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-97",
+      "quote": "No suit for annulling a marriage or for divorce shall be maintainable, unless one of the parties was at the time of the filing of the suit and had been for at least six months preceding the filing of the suit an actual bona fide resident and domiciliary of the Commonwealth, nor shall any suit for affirming a marriage be maintainable, unless one of the parties be domiciled in, and is and has been an actual bona fide resident of, the Commonwealth at the time of filing such suit.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), Code of Virginia Title 20, Chapter 6, § 20-97, row va-stat_20-97, the section's first sentence quoted in full (the opening operative bar covering both annulment/divorce suits and affirmance suits). The section's remaining numbered provisions -- a servicemember presumption of domicile for a member of the Armed Forces stationed in Virginia six months or more (subdivision 1), what counts as being stationed or residing in the Commonwealth for a service member (subdivision 2), an overseas-service member/federal-civilian-employee exception (subdivision 3), and the rule that either spouse may establish a separate domicile upon separation (subdivision 4) -- were read but not quoted here; a dedicated row for the servicemember exceptions was not built in this pass."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "grounds",
+  "rule_id": "va-fault-grounds-adultery-cruelty-desertion-plus-no-fault-separation-one-year-or-six-months-with-agreement-no-minor-children",
+  "question": "Does a Virginia divorce require proving someone did something wrong, or is there a no-fault option?",
+  "rule": "Both exist side by side, unlike California's chapter in this plugin, which preserves no fault ground at all. Virginia keeps live fault grounds AND a no-fault separation ground in the same section. Va. Code § 20-91(A)(1): \"For adultery that occurred prior to the date of the last separation of the parties; or for sodomy or buggery committed outside the marriage;\" § 20-91(A)(6): \"Where either party has been guilty of cruelty, caused reasonable apprehension of bodily hurt, or willfully deserted or abandoned the other, such divorce may be decreed to the innocent party after a period of one year from the date of such act; or\" The no-fault ground, § 20-91(A)(9)(a): \"On the application of either party if and when they have lived separate and apart without any cohabitation and without interruption for one year. In any case where the parties have entered into a separation agreement and there are no minor children either born of the parties, born of either party and adopted by the other or adopted by both parties, a divorce may be decreed on application if and when they have lived separately and apart without cohabitation and without interruption for six months.\"",
+  "trap": "The six-month no-fault track is NOT available just because the spouses have been apart six months -- it requires BOTH a written separation agreement AND no minor children of the relationship; without either of those two conditions, the no-fault wait is the full one year. Cruelty and desertion are combined into a single numbered ground in this section rather than listed separately, and both require a full year to pass \"from the date of such act\" before the innocent party can obtain a divorce on that ground -- a shorter fault track does not exist in this text. This rule does not restate § 20-91(A)(3) (a felony conviction and confinement ground) or the several repealed former grounds still shown as \"[Repealed.]\" placeholders in the section's numbering; those gaps in the numbering are the statute's own history, not an omission by this rule. This rule also does not establish whether a court may grant a divorce on the fault grounds without independently reaching the no-fault ground, or how a court chooses among available grounds when more than one is proven -- NOT ESTABLISHED here.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-91",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-91",
+      "quote": "For adultery that occurred prior to the date of the last separation of the parties; or for sodomy or buggery committed outside the marriage;",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-91",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-91",
+      "quote": "Where either party has been guilty of cruelty, caused reasonable apprehension of bodily hurt, or willfully deserted or abandoned the other, such divorce may be decreed to the innocent party after a period of one year from the date of such act; or",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-91",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-91",
+      "quote": "On the application of either party if and when they have lived separate and apart without any cohabitation and without interruption for one year. In any case where the parties have entered into a separation agreement and there are no minor children either born of the parties, born of either party and adopted by the other or adopted by both parties, a divorce may be decreed on application if and when they have lived separately and apart without cohabitation and without interruption for six months.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), Code of Virginia Title 20, Chapter 6, § 20-91, row va-stat_20-91, three quotes: subdivision A(1) in full, subdivision A(6) in full, and subdivision A(9)(a) in full. Subdivision A(3) (felony conviction, sentence over one year, and confinement, with no cohabitation resumed after knowledge of confinement) was read but not quoted -- a third fault ground this row does not build out. Subdivisions A(2), (4), (5), (7) and (8) are shown in the published text only as \"[Repealed.]\" placeholders and carry no operative text. Subdivision A(9)(b)-(c) (retroactive application of the separation ground and the rule that a decree under this subdivision does not itself lessen a support obligation absent another ground) and subsection B (social-security-number requirement in the decree) were read but not quoted."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "waiting-period",
+  "rule_id": "va-separation-period-is-the-pre-filing-ground-not-a-post-filing-wait-one-year-or-six-months-with-agreement-and-no-minor-children",
+  "question": "How soon can a Virginia divorce actually happen -- is there a mandatory wait after filing, the way Texas has a 60-day floor?",
+  "rule": "Virginia's \"waiting period\" is not a post-filing clock at all the way Texas's is -- it is the separation itself that has to run its course, and the statute treats the ground as not yet complete until the period does. Va. Code § 20-91(A)(9)(a), the same text this reference's grounds row quotes, supplies the two lengths: one year of separation without cohabitation as the default, or six months where the parties have a written separation agreement and no minor children of the relationship. The section also states when the ground is treated as finished: \"at the expiration of one year or six months, whichever is applicable, from the commencement of such separation, the grounds for divorce shall be deemed to be complete.\"",
+  "trap": "This is the reverse mechanic from the Texas row in this plugin, which floors the decree at 60 days measured FORWARD from the filing date (Tex. Fam. Code § 6.702(a)) -- Virginia instead measures the one-year-or-six-month period from the START of the separation, which typically runs BEFORE the suit is ever filed, so a couple who has already been apart the required time can in principle have their case move to decree without an additional post-filing wait built into this section. This rule does not establish whether a Virginia suit may be FILED before the separation period has fully run and simply proven up once it completes, or whether filing must wait until the period is already over -- the statute's own words state only when \"the grounds for divorce shall be deemed to be complete,\" not when a suit may be commenced; that procedural question is NOT ESTABLISHED here and would take a rule of court or case law this rule does not cite. This rule also does not carry a family-violence-driven exception to either length, comparable to Texas's § 6.702(c) -- not searched for in this pass; NOT ESTABLISHED.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-91",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-91",
+      "quote": "On the application of either party if and when they have lived separate and apart without any cohabitation and without interruption for one year. In any case where the parties have entered into a separation agreement and there are no minor children either born of the parties, born of either party and adopted by the other or adopted by both parties, a divorce may be decreed on application if and when they have lived separately and apart without cohabitation and without interruption for six months.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-91",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-91",
+      "quote": "at the expiration of one year or six months, whichever is applicable, from the commencement of such separation, the grounds for divorce shall be deemed to be complete",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-91, row va-stat_20-91: the same A(9)(a) quote already verified in the grounds row for this jurisdiction, plus a second quote from A(9)(a)'s own middle sentence (the res-adjudicata/recrimination/insanity clause surrounding it was read but not quoted, a competency-of-the-parties topic this row does not reach). Deliberately reuses the grounds row's authority because the two rows answer different questions (what the ground requires, versus when a Virginia divorce can actually happen) from the same statutory text -- consistent with this plugin's practice in other states of citing one section from more than one row's question."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "marital-vs-non-marital-property",
+  "rule_id": "va-marital-property-catch-all-separate-property-closed-exception-plus-hybrid-tracing-and-burden-shifting",
+  "question": "Is a given asset separate property or marital property in a Virginia divorce, and what happens when the two are mixed together?",
+  "rule": "Virginia uses \"marital property\" and \"separate property,\" not California's or Washington's \"community property\" -- the same equitable-distribution vocabulary Illinois uses in this plugin, though the classification test and the tracing mechanics are Virginia's own. Separate property is a closed list, Va. Code § 20-107.3(A)(1): \"Separate property is (i) all property, real and personal, acquired by either party before the marriage; (ii) all property acquired during the marriage by bequest, devise, descent, survivorship or gift from a source other than the other party; (iii) all property acquired during the marriage in exchange for or from the proceeds of sale of separate property, provided that such property acquired during the marriage is maintained as separate property; and (iv) that part of any property classified as separate pursuant to subdivision 3. Income received from separate property during the marriage is separate property if not attributable to the personal effort of either party. The increase in value of separate property during the marriage is separate property, unless marital property or the personal efforts of either party have contributed to such increases and then only to the extent of the increases in value attributable to such contributions.\" Marital property is the catch-all, § 20-107.3(A)(2): \"Marital property is (i) all property titled in the names of both parties, whether as joint tenants, tenants by the entirety or otherwise, except as provided by subdivision 3, (ii) that part of any property classified as marital pursuant to subdivision 3, or (iii) all other property acquired by each party during the marriage which is not separate property as defined above. All property ... acquired by either spouse during the marriage, and before the last separation of the parties, if at such time or thereafter at least one of the parties intends that the separation be permanent, is presumed to be marital property in the absence of satisfactory evidence that it is separate property.\" And the statute has an explicit hybrid-property mechanism for property that is part each, § 20-107.3(A)(3): \"The court shall classify property as part marital property and part separate property as follows: a. In the case of income received from separate property during the marriage, such income shall be marital property only to the extent it is attributable to the personal efforts of either party. In the case of the increase in value of separate property during the marriage, such increase in value shall be marital property only to the extent that marital property or the personal efforts of either party have contributed to such increases, provided that any such personal efforts must be significant and result in substantial appreciation of the separate property. For purposes of this subdivision, the nonowning spouse shall bear the burden of proving that (i) contributions of marital property or personal effort were made and (ii) the separate property increased in value. Once this burden of proof is met, the owning spouse shall bear the burden of proving that the increase in value or some portion thereof was not caused by contributions of marital property or personal effort.\"",
+  "trap": "Marital property is presumed for anything acquired during the marriage before the last separation -- the burden is on the party claiming an asset is separate, the reverse of assuming everything is separate until proven otherwise. The hybrid-property tracing rule shifts the burden TWICE in the same paragraph: the nonowning spouse must first prove marital contribution or personal effort AND that the separate property increased in value; only once that threshold is cleared does the burden flip to the owning spouse to prove how much of the increase was NOT caused by those contributions -- a party who stops at step one and assumes the whole increase is now marital has misread the sentence. This rule does not restate subdivisions 3.d through 3.h (commingling and retitling rules for property contributed to or between categories, and the no-presumption-of-gift rule for certain joint-title transfers) or subdivisions 4 and 5 (the parallel separate-debt/marital-debt classification, including its own burden-shifting rule for debt incurred for the benefit of the marriage) -- read but not quoted; a dedicated row for the debt-classification side of this section was not built in this pass. Personal-injury and workers'-compensation recoveries are classified under a separate \"marital share\" definition in subsection H, not this classification test; NOT covered by this rule's quoted text. One limit the section states about itself, and it matters most to the contrast drawn above: “Nothing in this section shall be construed to prevent the affirmation, ratification and incorporation in a decree of an agreement between the parties pursuant to §§ 20-109 and 20-109.” So the eleven-factor exercise is what happens when the parties do NOT agree. Virginia is not distinguished from California by having no agreement route; it is distinguished by what the court does in the absence of one.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.3",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.3",
+      "quote": "Separate property is (i) all property, real and personal, acquired by either party before the marriage; (ii) all property acquired during the marriage by bequest, devise, descent, survivorship or gift from a source other than the other party; (iii) all property acquired during the marriage in exchange for or from the proceeds of sale of separate property, provided that such property acquired during the marriage is maintained as separate property; and (iv) that part of any property classified as separate pursuant to subdivision 3. Income received from separate property during the marriage is separate property if not attributable to the personal effort of either party. The increase in value of separate property during the marriage is separate property, unless marital property or the personal efforts of either party have contributed to such increases and then only to the extent of the increases in value attributable to such contributions.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.3",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.3",
+      "quote": "Marital property is (i) all property titled in the names of both parties, whether as joint tenants, tenants by the entirety or otherwise, except as provided by subdivision 3, (ii) that part of any property classified as marital pursuant to subdivision 3, or (iii) all other property acquired by each party during the marriage which is not separate property as defined above.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.3",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.3",
+      "quote": "acquired by either spouse during the marriage, and before the last separation of the parties, if at such time or thereafter at least one of the parties intends that the separation be permanent, is presumed to be marital property in the absence of satisfactory evidence that it is separate property",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.3",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.3",
+      "quote": "The court shall classify property as part marital property and part separate property as follows: a. In the case of income received from separate property during the marriage, such income shall be marital property only to the extent it is attributable to the personal efforts of either party. In the case of the increase in value of separate property during the marriage, such increase in value shall be marital property only to the extent that marital property or the personal efforts of either party have contributed to such increases, provided that any such personal efforts must be significant and result in substantial appreciation of the separate property. For purposes of this subdivision, the nonowning spouse shall bear the burden of proving that (i) contributions of marital property or personal effort were made and (ii) the separate property increased in value. Once this burden of proof is met, the owning spouse shall bear the burden of proving that the increase in value or some portion thereof was not caused by contributions of marital property or personal effort.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.3",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.3",
+      "quote": "Nothing in this section shall be construed to prevent the affirmation, ratification and incorporation in a decree of an agreement between the parties pursuant to §§ 20-109 and 20-109.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-107.3, row va-stat_20-107.3, four quotes from subsection A: subdivision 1 (separate property) minus its final sentence on the personal-efforts significance threshold (read, not quoted a second time -- already reached by the hybrid quote below); subdivision 2's opening sentence (marital property); a second, non-contiguous sentence from subdivision 2 (the during-marriage presumption); and subdivision 3's lead-in plus paragraph a in full (hybrid tracing and burden-shifting). Subdivisions 3.b (retirement-benefit marital share) and 3.c (personal-injury/workers'-comp marital share) cross-reference subsections G and H, read but not quoted. This is the clause name chosen for Virginia consistent with Illinois's rows-il-family.json 'marital-vs-non-marital-property' clause name -- Virginia's own statutory vocabulary is 'marital property' and 'separate property,' not 'community property.' SCOPE SWEEP 2026-09-25: found by a DocketX audit sweep, the tool that swept the contract-law store to zero live flags, pointed at the hand-written packs for the first time. It flagged this row because none of ‘construed’, ‘affirmation’ or ‘prevent’ appeared in it, and the reading confirmed a real gap: the trap contrasted California as ‘subject only to agreement’ while this row never stated Virginia's own agreement provision. Now quoted with its own verified block. NOT ESTABLISHED HERE: what §§ 20-109 and 20-109.1 require of such an agreement, which were not read."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "division-standard",
+  "rule_id": "va-equitable-not-equal-eleven-factor-monetary-award-test-fault-is-one-named-factor-among-eleven",
+  "question": "Does a Virginia divorce court have to split the marital estate 50/50?",
+  "rule": "No -- Virginia is an equitable-distribution state, not a community-property state, and the statute gives the court a multi-factor discretionary standard rather than a percentage command. Va. Code § 20-107.3(E): \"The amount of any division or transfer of jointly owned marital property, and the amount of any monetary award, the apportionment of marital debts, and the method of payment shall be determined by the court after consideration of the following factors: 1. The contributions, monetary and nonmonetary, of each party to the well-being of the family; 2. The contributions, monetary and nonmonetary, of each party in the acquisition and care and maintenance of such marital property of the parties; 3. The duration of the marriage; 4. The ages and physical and mental condition of the parties; 5. The circumstances and factors which contributed to the dissolution of the marriage, specifically including any ground for divorce under the provisions of subdivision A (1), (3) or (6) of § 20-91 or § 20-95; 6. How and when specific items of such marital property were acquired; 7. The debts and liabilities of each spouse, the basis for such debts and liabilities, and the property which may serve as security for such debts and liabilities; 8. The liquid or nonliquid character of all marital property; 9. The tax consequences to each party; 10. The use or expenditure of marital property by either of the parties for a nonmarital separate purpose or the dissipation of such funds, when such was done in anticipation of divorce or separation or after the last separation of the parties; and 11. Such other factors as the court deems necessary or appropriate to consider in order to arrive at a fair and equitable monetary award.\"",
+  "trap": "This is a direct, textual contrast with the California row in this plugin, where the statute commands the court to \"divide the community estate ... equally\" (quoted and blocked on this plugin's California row `ca-equal-division-command-contrasted-with-texas-just-and-right-standard-subject-to-agreement-exceptions`) subject only to agreement; Virginia's own list has no percentage anywhere in it, and factor 11's catch-all (\"[s]uch other factors as the court deems necessary or appropriate\") keeps the list open-ended the way California's is not framed. Fault is not ignored here the way it is under California's or Washington's rows in this plugin -- factor 5 specifically pulls in \"any ground for divorce under the provisions of subdivision A (1), (3) or (6) of § 20-91\" (adultery/sodomy/buggery, the felony-conviction ground, and cruelty/desertion) as one of eleven factors, but NOT every ground: the no-fault separation ground under § 20-91(A)(9) is not one of the three subdivisions named in factor 5, so this rule does not establish that simply proving up a no-fault divorce affects the distribution analysis the way a fault finding under (1), (3) or (6) can. This rule does not state how much weight fault carries relative to the other ten factors, or whether it is ever dispositive by itself -- that would take case law this rule does not cite; NOT ESTABLISHED here. One limit the section states about itself, and it matters most to the contrast drawn above: “Nothing in this section shall be construed to prevent the affirmation, ratification and incorporation in a decree of an agreement between the parties pursuant to §§ 20-109 and 20-109.” So the eleven-factor exercise is what happens when the parties do NOT agree. Virginia is not distinguished from California by having no agreement route; it is distinguished by what the court does in the absence of one.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.3",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.3",
+      "quote": "The amount of any division or transfer of jointly owned marital property, and the amount of any monetary award, the apportionment of marital debts, and the method of payment shall be determined by the court after consideration of the following factors: 1. The contributions, monetary and nonmonetary, of each party to the well-being of the family; 2. The contributions, monetary and nonmonetary, of each party in the acquisition and care and maintenance of such marital property of the parties; 3. The duration of the marriage; 4. The ages and physical and mental condition of the parties; 5. The circumstances and factors which contributed to the dissolution of the marriage, specifically including any ground for divorce under the provisions of subdivision A (1), (3) or (6) of § 20-91 or § 20-95 ; 6. How and when specific items of such marital property were acquired; 7. The debts and liabilities of each spouse, the basis for such debts and liabilities, and the property which may serve as security for such debts and liabilities; 8. The liquid or nonliquid character of all marital property; 9. The tax consequences to each party; 10. The use or expenditure of marital property by either of the parties for a nonmarital separate purpose or the dissipation of such funds, when such was done in anticipation of divorce or separation or after the last separation of the parties; and 11. Such other factors as the court deems necessary or appropriate to consider in order to arrive at a fair and equitable monetary award.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.3",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.3",
+      "quote": "Nothing in this section shall be construed to prevent the affirmation, ratification and incorporation in a decree of an agreement between the parties pursuant to §§ 20-109 and 20-109.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-107.3, row va-stat_20-107.3, subsection E quoted in full (all eleven numbered factors, contiguous). The internal cross-reference to '§ 20-95' in factor 5 (annulment-related grounds) was read but not independently pulled into a row. Subsections F (timing of the monetary-award determination relative to support), G (pension/retirement-benefit division mechanics and the 50%-of-cash-benefits cap), H (personal-injury/workers'-comp marital share), and I-L (agreement interplay, foreign-decree jurisdiction, continuing enforcement authority, venue transfer) were read but not quoted; each is a distinct topic this pass did not build a dedicated row for. PACK QUOTE SWEEP 2026-09-22: the trap quotes Cal. Fam. Code § 2550 as a contrast; the California block is copied onto this row. PACK QUOTE SWEEP 2026-09-22: the trap quotes Cal. Fam. Code § 2550 as a contrast; block stays on the California row, which the sentence now names. SCOPE SWEEP 2026-09-25: found by a DocketX audit sweep, the tool that swept the contract-law store to zero live flags, pointed at the hand-written packs for the first time. It flagged this row because none of ‘construed’, ‘affirmation’ or ‘prevent’ appeared in it, and the reading confirmed a real gap: the trap contrasted California as ‘subject only to agreement’ while this row never stated Virginia's own agreement provision. Now quoted with its own verified block. NOT ESTABLISHED HERE: what §§ 20-109 and 20-109.1 require of such an agreement, which were not read."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "spousal-support",
+  "rule_id": "va-thirteen-factor-support-test-plus-an-adultery-bar-on-permanent-support-with-a-clear-and-convincing-manifest-injustice-exception",
+  "question": "What does a Virginia court weigh in setting spousal support, and is a spouse who committed adultery automatically shut out?",
+  "rule": "A long, unranked list of factors governs the amount and duration, but there is also a real bar tied to fault: a spouse against whom an adultery-type ground exists can be cut off from PERMANENT support entirely, subject to a narrow exception. Va. Code § 20-107.1(E): \"the court, in determining whether to award support and maintenance for a spouse, shall consider the circumstances and factors which contributed to the dissolution of the marriage, specifically including adultery and any other ground for divorce under the provisions of subdivision A (3) or (6) of § 20-91 or § 20-95. In determining the nature, amount and duration of an award pursuant to this section, the court shall consider the following: 1. The obligations, needs and financial resources of the parties ...; 2. The standard of living established during the marriage; 3. The duration of the marriage; 4. The age and physical and mental condition of the parties and any special circumstances of the family; 5. The extent to which the age, physical or mental condition or special circumstances of any child of the parties would make it appropriate that a party not seek employment outside of the home; 6. The contributions, monetary and nonmonetary, of each party to the well-being of the family; 7. The property interests of the parties ...; 8. The provisions made with regard to the marital property under § 20-107.3; 9. The earning capacity ...; 10. The opportunity for, ability of, and the time and costs involved for a party to acquire the appropriate education, training and employment ...; 11. The decisions regarding employment, career, economics, education and parenting arrangements made by the parties during the marriage and their effect on present and future earning potential ...; 12. The extent to which either party has contributed to the attainment of education, training, career position or profession of the other party; and 13. Such other factors ... as are necessary to consider the equities between the parties.\" The adultery bar itself, § 20-107.1(B): \"no permanent maintenance and support shall be awarded from a spouse if there exists in such spouse's favor a ground of divorce under the provisions of subdivision A (1) of § 20-91. However, the court may make such an award notwithstanding the existence of such ground if the court determines from clear and convincing evidence, that a denial of support and maintenance would constitute a manifest injustice, based upon the respective degrees of fault during the marriage and the relative economic circumstances of the parties.\"",
+  "trap": "Read the bar's own words closely: it blocks support \"awarded FROM a spouse\" when a § 20-91(A)(1) ground (adultery, or sodomy or buggery committed outside the marriage) exists \"IN SUCH SPOUSE'S FAVOR\" -- that is, when the spouse who would otherwise PAY has, in their own favor, a fault ground against the spouse seeking support, meaning it is the spouse SEEKING support whose adultery triggers the bar, not the payor's. The manifest-injustice escape is deliberately narrow on its face: it requires \"clear and convincing evidence,\" the statute's own heightened standard, not a mere preponderance, and the court must weigh both \"the respective degrees of fault\" AND \"the relative economic circumstances of the parties\" -- proving one without the other does not satisfy the quoted text. The bar reaches only PERMANENT maintenance and only the § 20-91(A)(1) ground; this rule does not state whether it also forecloses an award reserved under § 20-107.1(D) or a lump-sum award, and it does not reach the felony or cruelty/desertion grounds in (3) or (6), which subsection E instead lists only as factors the court \"shall consider,\" not as a bar. This rule's own reading of \"in such spouse's favor\" is not confirmed against any case law in this pass -- NOT ESTABLISHED beyond the statute's own wording, and a reader should not treat this gloss as a substitute for how a Virginia court has actually construed the phrase.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.1",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.1",
+      "quote": "The court, in determining whether to award support and maintenance for a spouse, shall consider the circumstances and factors which contributed to the dissolution of the marriage, specifically including adultery and any other ground for divorce under the provisions of subdivision A (3) or (6) of § 20-91 or § 20-95 . In determining the nature, amount and duration of an award pursuant to this section, the court shall consider the following: 1. The obligations, needs and financial resources of the parties, including but not limited to income from all pension, profit sharing or retirement plans, of whatever nature; 2. The standard of living established during the marriage; 3. The duration of the marriage; 4. The age and physical and mental condition of the parties and any special circumstances of the family; 5. The extent to which the age, physical or mental condition or special circumstances of any child of the parties would make it appropriate that a party not seek employment outside of the home; 6. The contributions, monetary and nonmonetary, of each party to the well-being of the family; 7. The property interests of the parties, both real and personal, tangible and intangible; 8. The provisions made with regard to the marital property under § 20-107.3 ; 9. The earning capacity, including the skills, education and training of the parties and the present employment opportunities for persons possessing such earning capacity; 10. The opportunity for, ability of, and the time and costs involved for a party to acquire the appropriate education, training and employment to obtain the skills needed to enhance his earning ability; 11. The decisions regarding employment, career, economics, education and parenting arrangements made by the parties during the marriage and their effect on present and future earning potential, including the length of time one or both of the parties have been absent from the job market; 12. The extent to which either party has contributed to the attainment of education, training, career position or profession of the other party; and 13. Such other factors, including the tax consequences to each party and the circumstances and factors that contributed to the dissolution, specifically including any ground for divorce, as are necessary to consider the equities between the parties.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-107.1",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-107.1",
+      "quote": "no permanent maintenance and support shall be awarded from a spouse if there exists in such spouse's favor a ground of divorce under the provisions of subdivision A (1) of § 20-91 . However, the court may make such an award notwithstanding the existence of such ground if the court determines from clear and convincing evidence, that a denial of support and maintenance would constitute a manifest injustice, based upon the respective degrees of fault during the marriage and the relative economic circumstances of the parties.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-107.1, row va-stat_20-107.1, two quotes: subsection E in full (the lead-in sentence plus all thirteen numbered factors) and the operative two sentences of subsection B (the adultery bar and its manifest-injustice exception). Honest negative, searched and not found: a dollar-or-percentage ceiling on spousal support comparable to Tex. Fam. Code § 8.055's cap -- a keyword search of the Title 20 shard for 'shall not exceed' under the Va. Code § 20-1xx citation prefix returned exactly 2 hits, neither a spousal-support cap (§ 20-166, a servicemember active-duty-notice period; § 20-108.2, a child-care-cost reasonableness limit); this rule does not claim no such cap exists anywhere in Virginia law, only that this search found none in this shard. Subsections A (the court's authority to decree support), C (periodic/lump-sum/undefined-duration forms), D (reservation of the right to future support and its own rebuttable 50%-of-marriage-length presumption -- a distinct duration mechanism this pass did not build into a dedicated row), F (written-findings requirement), G (definitions of 'date of separation' and 'defined duration'), and H (required order contents when there are no minor children) were read but not quoted."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "child-support-guidelines",
+  "rule_id": "va-rebuttable-presumption-guideline-amount-is-correct-plus-fifteen-lettered-deviation-factors-and-written-findings-requirement",
+  "question": "How is presumptive child support calculated in Virginia, and can a court deviate from the guideline number?",
+  "rule": "The guideline amount is presumed correct, and a court that wants to order something different must say so in writing against a named list of factors -- not simply pick a different number. Va. Code § 20-108.2(A): \"There shall be a rebuttable presumption in any judicial or administrative proceeding for child support under this title or Title 16.1 or 63.2, including cases involving split custody, shared custody, or multiple custody arrangements pursuant to subdivisions G 4, 5, and 6, that the amount of the award which would result from the application of the guidelines set forth in this section is the correct amount of child support to be awarded. In order to rebut the presumption, the court shall make written findings in the order as set out in § 20-108.1, which findings may be incorporated by reference, that the application of the guidelines would be unjust or inappropriate in a particular case as determined by relevant evidence pertaining to the factors set out in § 20-108.1.\" Va. Code § 20-108.1(B) supplies the deviation mechanism and the factor list: \"The finding that rebuts the guidelines shall state the amount of support that would have been required under the guidelines, shall give a justification of why the order varies from the guidelines, and shall be determined by relevant evidence pertaining to the following factors affecting the obligation, the ability of each party to provide child support, and the best interests of the child: 1. Actual monetary support for other family members or former family members; 2. Arrangements regarding custody of the children, including the cost of visitation travel; 3. Imputed income to a party who is voluntarily unemployed or voluntarily underemployed ...; 4. Any child care costs incurred on behalf of the child ...; 5. Debts of either party arising during the marriage for the benefit of the child; 6. Direct payments ordered by the court for maintaining life insurance coverage ..., education expenses, or other court-ordered direct payments for the benefit of the child; 7. Extraordinary capital gains such as capital gains resulting from the sale of the marital abode; 8. Any special needs of a child resulting from any physical, emotional, or medical condition; 9. Independent financial resources of the child or children; 10. Standard of living for the child or children established during the marriage; 11. Earning capacity, obligations, financial resources, and special needs of each parent; 12. Provisions made with regard to the marital property under § 20-107.3, where said property earns income or has an income-earning potential; 13. Tax consequences to the parties including claims for exemptions, child tax credit, and child care credit for dependent children; 14. A written agreement, stipulation, consent order, or decree between the parties that includes the amount of child support; and 15. Such other factors as are necessary to consider the equities for the parents and children.\"",
+  "trap": "\"Rebuttable\" does real work here -- a court cannot simply order a different number because it seems fairer; the written-findings requirement is mandatory (\"the court shall make written findings\"), the findings must STATE the guideline amount that would otherwise apply, and they must be tied to one or more of the fifteen listed factors, not free-floating discretion. This rule does not quote § 20-108.2's own income-share formula, percentage-of-income schedule, or the combined-monthly-income table that produces the guideline number in the first place -- that computational machinery runs many pages in the published section and was not reproduced here; NOT ESTABLISHED in this rule's quoted text, unlike the guideline formula rows this plugin builds for California and Texas, which do quote their own computational core. A reader needing the actual dollar guideline for a given income and number of children needs § 20-108.2's schedule directly, not this rule. This rule also does not establish how the imputed-income factor (3) interacts with the incarceration carve-outs the same subsection contains -- read but not quoted; a dedicated row for that carve-out was not built in this pass.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-108.2",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-108.2",
+      "quote": "There shall be a rebuttable presumption in any judicial or administrative proceeding for child support under this title or Title 16.1 or 63.2, including cases involving split custody, shared custody, or multiple custody arrangements pursuant to subdivisions G 4, 5, and 6, that the amount of the award which would result from the application of the guidelines set forth in this section is the correct amount of child support to be awarded. In order to rebut the presumption, the court shall make written findings in the order as set out in § 20-108.1 , which findings may be incorporated by reference, that the application of the guidelines would be unjust or inappropriate in a particular case as determined by relevant evidence pertaining to the factors set out in § 20-108.1 .",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-108.1",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-108.1",
+      "quote": "The finding that rebuts the guidelines shall state the amount of support that would have been required under the guidelines, shall give a justification of why the order varies from the guidelines, and shall be determined by relevant evidence pertaining to the following factors affecting the obligation, the ability of each party to provide child support, and the best interests of the child: 1. Actual monetary support for other family members or former family members; 2. Arrangements regarding custody of the children, including the cost of visitation travel; 3. Imputed income to a party who is voluntarily unemployed or voluntarily underemployed, provided that (i) income may not be imputed to a custodial parent when a child is not in school, child care services are not available, and the cost of such child care services are not included in the computation; (ii) any consideration of imputed income based on a change in a party's employment shall be evaluated with consideration of the good faith and reasonableness of employment decisions made by the party, including to attend and complete an educational or vocational program likely to maintain or increase the party's earning potential; and (iii) a party's current incarceration, as defined in § 8.01-195.10 , for 180 or more consecutive days shall not be deemed voluntary unemployment or voluntary underemployment. In addition, notwithstanding subsection F, a party's incarceration for 180 or more consecutive days shall be a material change in circumstances upon which a modification of child support may be based; 4. Any child care costs incurred on behalf of the child or children due to the attendance of a custodial parent in an educational or vocational program likely to maintain or increase the party's earning potential; 5. Debts of either party arising during the marriage for the benefit of the child; 6. Direct payments ordered by the court for maintaining life insurance coverage pursuant to subsection D, education expenses, or other court-ordered direct payments for the benefit of the child; 7. Extraordinary capital gains such as capital gains resulting from the sale of the marital abode; 8. Any special needs of a child resulting from any physical, emotional, or medical condition; 9. Independent financial resources of the child or children; 10. Standard of living for the child or children established during the marriage; 11. Earning capacity, obligations, financial resources, and special needs of each parent; 12. Provisions made with regard to the marital property under § 20-107.3 , where said property earns income or has an income-earning potential; 13. Tax consequences to the parties including claims for exemptions, child tax credit, and child care credit for dependent children; 14. A written agreement, stipulation, consent order, or decree between the parties that includes the amount of child support; and 15. Such other factors as are necessary to consider the equities for the parents and children.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-108.2 (row va-stat_20-108.2, subsection A's presumption sentence and rebuttal-mechanism sentence) and § 20-108.1 (row va-stat_20-108.1, the operative sentence of subsection B that opens the fifteen-item factor list, quoted in full through item 15). § 20-108.2's own income-share schedule/table, the per-child percentage guidelines, and the executive-summary/quadrennial-review provisions referenced in the section's title were read (the section is 59,390 characters, mostly the table) but not quoted -- a dedicated row reproducing the table was not built in this pass; NOT ESTABLISHED in this rule's quoted text. § 20-108.1 subsections A (spousal-support evidence standard), C-E (health-care-coverage and tax-exemption authority), F (non-retroactivity of amendments), G (anti-garnishment for received support), and H (vocational-evaluation orders) were read but not quoted."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "custody-and-visitation",
+  "rule_id": "va-no-presumption-in-favor-of-any-form-of-custody-or-either-parent-plus-best-interest-factors-including-family-abuse-history",
+  "question": "Does Virginia presume parents will share custody, or favor one parent over the other?",
+  "rule": "No to both -- Virginia's statute states this negatively and directly, closer to California's \"no presumption\" rule in this plugin than to Texas's rebuttable joint-managing-conservatorship presumption. Va. Code § 20-124.2(B): \"In determining custody, the court shall give primary consideration to the best interests of the child. The court shall consider and may award joint legal, joint physical, or sole custody, and there shall be no presumption in favor of any form of custody. The court shall assure minor children of frequent and continuing contact with both parents, when appropriate, and encourage parents to share in the responsibilities of rearing their children. As between the parents, there shall be no presumption or inference of law in favor of either.\" The best-interest factors themselves are in a separate section, Va. Code § 20-124.3: \"In determining best interests of a child for purposes of determining custody or visitation arrangements ..., the court shall consider the following: 1. The age and physical and mental condition of the child ...; 2. The age and physical and mental condition of each parent; 3. The relationship existing between each parent and each child ...; 4. The needs of the child ...; 5. The role that each parent has played and will play in the future, in the upbringing and care of the child; 6. The propensity of each parent to actively support the child's contact and relationship with the other parent, including whether a parent has unreasonably denied the other parent access to or visitation with the child; 7. The relative willingness and demonstrated ability of each parent to maintain a close and continuing relationship with the child, and the ability of each parent to cooperate in and resolve disputes regarding matters affecting the child; 8. The reasonable preference of the child, if the court deems the child to be of reasonable intelligence, understanding, age, and experience to express such a preference; 9. Any history of (i) family abuse as that term is defined in § 16.1-228 ; (ii) sexual abuse; (iii) child abuse; or (iv) an act of violence, force, or threat ... that occurred no earlier than 10 years prior to the date a petition is filed. If the court finds such a history or act, the court may disregard the factors in subdivision 6; and 10. Such other factors as the court deems necessary and proper to the determination.\"",
+  "trap": "\"No presumption in favor of any form of custody\" (joint versus sole) and \"no presumption or inference of law in favor of either [parent]\" are two SEPARATE sentences answering two different questions -- a reader who cites only the first has not yet reached the statute's answer on which PARENT is favored, and vice versa; both sentences are needed to fully answer this rule's question. This rule does not build safety-planning guidance from factor 9's family-abuse-history provision, consistent with this plugin's family-violence caveat, but the bare statutory fact is recorded here because it changes the OTHER factors: a finding of the listed history or act lets the court disregard factor 6 (the contact-facilitation factor) entirely -- a mechanism with no analog quoted in this plugin's other custody rows. This rule does not state how a court weighs the ten factors against each other, or whether any one is dispositive -- NOT ESTABLISHED beyond the bare list. The judge's obligation to communicate the basis for the decision, and the exception for consent orders, appear in § 20-124.3's closing paragraph, read but not quoted here.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-124.2",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-124.2",
+      "quote": "In determining custody, the court shall give primary consideration to the best interests of the child. The court shall consider and may award joint legal, joint physical, or sole custody, and there shall be no presumption in favor of any form of custody. The court shall assure minor children of frequent and continuing contact with both parents, when appropriate, and encourage parents to share in the responsibilities of rearing their children. As between the parents, there shall be no presumption or inference of law in favor of either.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-124.3",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-124.3",
+      "quote": "In determining best interests of a child for purposes of determining custody or visitation arrangements, including any pendente lite orders pursuant to § 20-103 , the court shall consider the following: 1. The age and physical and mental condition of the child, giving due consideration to the child's changing developmental needs; 2. The age and physical and mental condition of each parent; 3. The relationship existing between each parent and each child, giving due consideration to the positive involvement with the child's life, the ability to accurately assess and meet the emotional, intellectual, and physical needs of the child; 4. The needs of the child, giving due consideration to other important relationships of the child, including but not limited to siblings, peers, and extended family members; 5. The role that each parent has played and will play in the future, in the upbringing and care of the child; 6. The propensity of each parent to actively support the child's contact and relationship with the other parent, including whether a parent has unreasonably denied the other parent access to or visitation with the child; 7. The relative willingness and demonstrated ability of each parent to maintain a close and continuing relationship with the child, and the ability of each parent to cooperate in and resolve disputes regarding matters affecting the child; 8. The reasonable preference of the child, if the court deems the child to be of reasonable intelligence, understanding, age, and experience to express such a preference; 9. Any history of (i) family abuse as that term is defined in § 16.1-228 ; (ii) sexual abuse; (iii) child abuse; or (iv) an act of violence, force, or threat as defined in § 19.2-152.7:1 that occurred no earlier than 10 years prior to the date a petition is filed. If the court finds such a history or act, the court may disregard the factors in subdivision 6; and 10. Such other factors as the court deems necessary and proper to the determination.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-124.2 (row va-stat_20-124.2, subsection B's first four sentences, contiguous) and § 20-124.3 (row va-stat_20-124.3, the entire operative paragraph through item 10). § 20-124.2's subsections A (mediation-as-alternative policy, quoted separately in this jurisdiction's mediation row), B1-B2 ('parenting time' terminology and grandparent-visitation evidentiary rule), C (support authority), D (custody-evaluation authority), E (continuing enforcement authority and the parental-injunction mechanism for a parent convicted of specified violent offenses against the child), and F (school-notification requirements) were read but not quoted. § 20-124.3's closing paragraph (judge's duty to communicate the basis for the decision, the consent-order exception, and the exchange-location provision) was read but not quoted."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "temporary-orders",
+  "rule_id": "va-broad-pendente-lite-order-power-plus-a-presumptive-percentage-formula-for-pendente-lite-spousal-support-capped-at-combined-income-of-10000",
+  "question": "What can a Virginia court order while a divorce is pending, and is pendente lite spousal support just discretionary the way Texas's temporary support is?",
+  "rule": "The court has broad, motion-triggered authority to order support, exclusive use of the home, and more while a suit is pending -- but unlike this plugin's Texas row, where temporary support is purely discretionary and self-executing on nothing, Virginia's statute supplies an actual PRESUMPTIVE FORMULA for pendente lite spousal support. Va. Code § 20-103(A) (partial): \"the court having jurisdiction of the matter may, at any time pending a suit pursuant to this chapter, in the discretion of such court, make any order that may be proper (i) to compel a spouse to pay any sums necessary for the maintenance and support of the petitioning spouse ...; (ii) to enable such spouse to carry on the suit; (iii) to prevent either spouse from imposing any restraint on the personal liberty of the other spouse; (iv) to provide for the custody and maintenance of the minor children of the parties ...; (v) to provide support, calculated in accordance with § 20-108.2 , for any child of the parties ...; (vi) for the exclusive use and possession of the family residence during the pendency of the suit; (vii) to preserve the estate of either spouse ...; (viii) to compel either spouse to give security to abide such decree, or (ix) ... to compel a party to maintain any existing policy owned by that party insuring the life of either party ....\" The formula itself, § 20-103(E) and (G): \"There shall be a presumption in any judicial proceeding for pendente lite spousal support and maintenance under this section that the amount of the award that would result from the application of the formula set forth in this section is the correct amount of spousal support to be awarded.\" \"If the parties have minor children in common, the presumptive amount of an award of pendente lite spousal support and maintenance shall be the difference between 26 percent of the payor spouse's monthly gross income and 58 percent of the payee spouse's monthly gross income. If the parties have no minor children in common, the presumptive amount of the award shall be the difference between 27 percent of the payor spouse's monthly gross income and 50 percent of the payee spouse's monthly gross income.\" Section 20-103(I) caps where the formula applies: \"The presumptive formula set forth in this section shall only apply to cases where the parties' combined monthly gross income does not exceed $10,000.\"",
+  "trap": "Nothing in subsection A is automatic the way California's summons-embedded restraining order is in this plugin's California row -- every listed order (support, exclusive use of the home, a security requirement, a life-insurance-maintenance order) requires the court to act, in its discretion, on a proper application; this section is closer to Texas's motion-triggered mechanics than to California's automatic-on-service scheme. But the PENDENTE LITE SPOUSAL SUPPORT piece is not purely discretionary once a case is within its income band: it carries its own PRESUMPTIVE formula and percentages, which is a mechanism this plugin's Texas, California, Washington, and Illinois temporary-orders rows do not have. The formula's cap is a hard textual boundary, not a suggestion: \"shall only apply to cases where the parties' combined monthly gross income does not exceed $10,000\" -- above that combined income, this rule does not establish what standard governs pendente lite spousal support at all; NOT ESTABLISHED here, and a court may still deviate below the cap \"for good cause shown\" under subsection H, which this rule does not quote in full. This rule does not restate subsection B's family-and-household-member exclusion-from-the-dwelling mechanism (a distinct, protective-order-adjacent provision this plugin does not build safety guidance from, per the family-violence caveat) or subsection A's parenting-seminar requirement for contested custody/visitation/support cases -- both read but not quoted.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-103",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-103",
+      "quote": "the court having jurisdiction of the matter may, at any time pending a suit pursuant to this chapter, in the discretion of such court, make any order that may be proper (i) to compel a spouse to pay any sums necessary for the maintenance and support of the petitioning spouse, including (a) an order that the other spouse provide health care coverage for the petitioning spouse, unless it is shown that such coverage cannot be obtained, or (b) an order that a party pay secured or unsecured debts incurred jointly or by either party, (ii) to enable such spouse to carry on the suit, (iii) to prevent either spouse from imposing any restraint on the personal liberty of the other spouse, (iv) to provide for the custody and maintenance of the minor children of the parties, including an order that either party or both parties provide health care coverage or cash medical support, or both, for the children, (v) to provide support, calculated in accordance with § 20-108.2 , for any child of the parties to whom a duty of support is owed and to pay or continue to pay support for any child over the age of 18 who meets the requirements set forth in subsection C of § 20-124.2 , (vi) for the exclusive use and possession of the family residence during the pendency of the suit, (vii) to preserve the estate of either spouse, so that it be forthcoming to meet any decree which may be made in the suit, (viii) to compel either spouse to give security to abide such decree, or (ix)(a) to compel a party to maintain any existing policy owned by that party insuring the life of either party or to require a party to name as a beneficiary of the policy the other party or an appropriate person for the exclusive use and benefit of the minor children of the parties and (b) to allocate the premium cost of such life insurance between the parties, provided that all premiums are billed to the policyholder.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-103",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-103",
+      "quote": "There shall be a presumption in any judicial proceeding for pendente lite spousal support and maintenance under this section that the amount of the award that would result from the application of the formula set forth in this section is the correct amount of spousal support to be awarded.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-103",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-103",
+      "quote": "If the parties have minor children in common, the presumptive amount of an award of pendente lite spousal support and maintenance shall be the difference between 26 percent of the payor spouse's monthly gross income and 58 percent of the payee spouse's monthly gross income. If the parties have no minor children in common, the presumptive amount of the award shall be the difference between 27 percent of the payor spouse's monthly gross income and 50 percent of the payee spouse's monthly gross income.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-103",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-103",
+      "quote": "The presumptive formula set forth in this section shall only apply to cases where the parties' combined monthly gross income does not exceed $10,000.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-103, row va-stat_20-103, four quotes: the operative clause of subsection A (the (i)-(ix) order list, omitting the seminar-requirement and no-independent-cause-of-action sentences that follow in the same subsection), subsection E in full, subsection G's two-sentence formula (both the with-children and without-children percentages), and subsection I in full. Subsection A's final sentences (mandatory parenting seminar for contested custody/visitation/support cases, fee cap of $50, and evidentiary exclusion of statements made in the seminar), A1-A2 (payment-source and retroactivity provisions), B (family/household-member exclusion order, a protective-order-adjacent mechanism this plugin does not build safety guidance from per the family-violence caveat), C-D (non-divorce custody proceedings and law-enforcement notification), F (support-determination sequencing), H (good-cause deviation from the presumptive formula), and J (no presumptive effect on the underlying cause) were read but not quoted."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "settlement-agreements",
+  "rule_id": "va-court-may-incorporate-any-valid-agreement-by-reference-plus-a-separate-immediately-effective-marital-agreement-statute",
+  "question": "Can Virginia spouses agree to their own terms instead of litigating property and support, and does the court have to adopt the agreement?",
+  "rule": "Yes on both counts, through two separate mechanisms. First, the court's incorporation power, Va. Code § 20-109.1: \"Any court may affirm, ratify and incorporate by reference in its decree dissolving a marriage or decree of divorce whether from the bond of matrimony or from bed and board, or by a separate decree prior to or subsequent to such decree, or in a decree entered in a suit for annulment or separate maintenance ..., any valid agreement between the parties, or provisions thereof, concerning the conditions of the maintenance of the parties, or either of them and the care, custody and maintenance of their minor children, or establishing or imposing any other condition or consideration, monetary or nonmonetary. Provisions in such agreements for the modification of child support shall be valid and enforceable. Unless otherwise provided for in such agreement or decree incorporating such agreement, such future modifications shall not require a subsequent court decree. ... Where the court affirms, ratifies and incorporates by reference in its decree such agreement or provision thereof, it shall be deemed for all purposes to be a term of the decree, and enforceable in the same manner as any provision of such decree.\" Second, a standalone marital-agreement statute, Va. Code § 20-155: \"Married persons may enter into agreements with each other for the purpose of settling the rights and obligations of either or both of them, to the same extent, with the same effect, and subject to the same conditions, as provided in §§ 20-147 through 20-154 for agreements between prospective spouses, except that such marital agreements shall become effective immediately upon their execution.\"",
+  "trap": "\"Any court may affirm, ratify and incorporate\" is permissive, not mandatory -- the statute's own word is \"may,\" so incorporation is a step the court takes, not an automatic consequence of the parties signing an agreement; this rule does not establish what happens to an agreement the court declines to incorporate, beyond the fact that it would then not carry the decree's own enforcement mechanism. Section 20-155's cross-reference to §§ 20-147 through 20-154 means Virginia's substantive premarital-agreement rules (formation, consideration, and the rest) apply equally to a MARITAL agreement between people already married -- the one textual difference this rule's quote isolates is timing: a marital agreement \"shall become effective immediately upon ... execution,\" unlike a premarital agreement, which by its own name takes effect only upon marriage; this rule does not quote §§ 20-147 through 20-154 themselves, so their formation and enforceability requirements are NOT reproduced here and would need their own row. This rule does not carry a Virginia analog to Texas's mediated-settlement-agreement binding/nonrevocability formalities (Tex. Fam. Code § 6.602) -- not searched for in this pass; NOT ESTABLISHED whether Virginia has an equivalent mechanism, and this rule does not assume one exists by analogy.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-109.1",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-109.1",
+      "quote": "Any court may affirm, ratify and incorporate by reference in its decree dissolving a marriage or decree of divorce whether from the bond of matrimony or from bed and board, or by a separate decree prior to or subsequent to such decree, or in a decree entered in a suit for annulment or separate maintenance, and in a proceeding arising under subsection A 3 or L of § 16.1-241 , any valid agreement between the parties, or provisions thereof, concerning the conditions of the maintenance of the parties, or either of them and the care, custody and maintenance of their minor children, or establishing or imposing any other condition or consideration, monetary or nonmonetary. Provisions in such agreements for the modification of child support shall be valid and enforceable. Unless otherwise provided for in such agreement or decree incorporating such agreement, such future modifications shall not require a subsequent court decree.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-109.1",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-109.1",
+      "quote": "Where the court affirms, ratifies and incorporates by reference in its decree such agreement or provision thereof, it shall be deemed for all purposes to be a term of the decree, and enforceable in the same manner as any provision of such decree.",
+      "checked": "2026-09-22"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-155",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-155",
+      "quote": "Married persons may enter into agreements with each other for the purpose of settling the rights and obligations of either or both of them, to the same extent, with the same effect, and subject to the same conditions, as provided in §§ 20-147 through 20-154 for agreements between prospective spouses, except that such marital agreements shall become effective immediately upon their execution.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-109.1 (row va-stat_20-109.1, two quotes covering the incorporation-power sentence plus the modification-of-child-support sentences, and the deemed-term-of-the-decree sentence; the death/remarriage spousal-support-termination sentence and the nonresident-defendant jurisdiction sentence were read but not quoted) and § 20-155 (row va-stat_20-155, first sentence in full; the second sentence, on oral agreements recorded by a court reporter or endorsed by counsel, and the third, on abrogation by reconciliation, were read but not quoted). §§ 20-147 through 20-154 (the Premarital Agreement Act's own formation and enforceability rules that § 20-155 cross-references) were not read in this pass; a dedicated row for them was not built."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "name-restoration",
+  "rule_id": "va-mandatory-name-restoration-on-motion-upon-a-divorce-from-the-bond-of-matrimony",
+  "question": "Can a Virginia court refuse to restore a spouse's former name in the divorce?",
+  "rule": "Not once the request is properly made -- the statute is mandatory on its face, tied to the divorce decree itself. Va. Code § 20-121.4: \"Upon decreeing a divorce from the bond of matrimony the court shall, on motion of a party who changed his or her name by reason of the marriage, restore such party's former name or maiden name by separate order meeting the requirements of § 8.01-217 .\"",
+  "trap": "The trigger is narrower than it may look: this section fires \"[u]pon decreeing a divorce from the bond of matrimony\" specifically -- this rule does not establish whether the same mandatory restoration applies to a divorce from bed and board (Virginia's other divorce category, referenced elsewhere in this chapter) or to an annulment; the text quoted here reaches only the bond-of-matrimony decree. The restoration also requires an affirmative \"motion of a party,\" and must meet the separate requirements of § 8.01-217 (the general name-change statute), which this rule does not quote or reach -- a name-restoration order is not automatic just because a divorce is granted; the party must ask, and § 8.01-217's own procedural requirements apply, NOT ESTABLISHED beyond that cross-reference here. This is a narrower express mandate than California's rule in this plugin, which also forecloses denial \"for any other reason except fraud\" in so many words (quoted on this plugin's California row `ca-name-restoration-is-mandatory-on-request-in-dissolution-or-nullity-not-legal-separation-and-can-be-denied-only-for-fraud`); this rule does not state whether a Virginia court retains any discretion to deny a properly made motion, because the statute's text does not address a denial scenario at all -- NOT ESTABLISHED.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-121.4",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-121.4",
+      "quote": "Upon decreeing a divorce from the bond of matrimony the court shall, on motion of a party who changed his or her name by reason of the marriage, restore such party's former name or maiden name by separate order meeting the requirements of § 8.01-217 .",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-121.4, row va-stat_20-121.4, the entire section (it is one sentence). § 8.01-217, which this section cross-references for the order's formal requirements, was not read in this pass -- a dedicated row for it was not built. PACK QUOTE SWEEP 2026-09-22: the trap quotes Cal. Fam. Code § 2081 as a contrast; the block is on the California row, which the sentence now names."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "mediation",
+  "rule_id": "va-court-ordered-dispute-resolution-orientation-referral-in-appropriate-cases-with-a-family-abuse-screen-and-a-set-mediator-fee",
+  "question": "Is mediation available or required in a Virginia custody or visitation dispute?",
+  "rule": "The court refers cases to mediation where appropriate rather than mandating it in every contested case the way California's statute in this plugin does. Va. Code § 20-124.4(A): \"In any appropriate case the court shall refer the parents or persons with a legitimate interest to a dispute resolution orientation session to be conducted by a mediator certified pursuant to guidelines promulgated by the Judicial Council at no cost and in accordance with the procedures set out in Chapter 20.2 (§ 8.01-576.4 et seq.) of Title 8.01. In assessing the appropriateness of a referral, the court shall ascertain upon motion of a party whether there is a history of family abuse. If an agreement is not reached on any issue through further mediation as agreed to by the parties, prior to the return date set by the court pursuant to § 8.01-576.5 , the court shall proceed with a hearing on any unresolved issue, unless a continuance has been granted by the court.\"",
+  "trap": "The referral itself is mandatory once the court decides the case is \"appropriate\" (\"the court shall refer\"), but appropriateness is the gate, and it is not a pure formality: the court \"shall ascertain\" whether there is a history of family abuse before making that assessment, on a party's motion -- consistent with this plugin's family-violence caveat, this rule states that screening step as a bare statutory fact and does not build safety-planning guidance from it. The orientation session itself is free (\"at no cost\"), but this rule does not restate subsection B's separate $100-per-appointment mediator fee, paid by the Commonwealth from appointment funds, for mediation beyond the orientation session, or the rule that a referral covering both custody/visitation AND support issues counts as two separate appointments for that fee -- read but not quoted; NOT ESTABLISHED in this rule's quoted text. This rule does not establish what happens if the court decides mediation is NOT appropriate, or what standard governs that threshold determination beyond the family-abuse inquiry -- NOT ESTABLISHED here.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-124.4",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-124.4",
+      "quote": "In any appropriate case the court shall refer the parents or persons with a legitimate interest to a dispute resolution orientation session to be conducted by a mediator certified pursuant to guidelines promulgated by the Judicial Council at no cost and in accordance with the procedures set out in Chapter 20.2 (§ 8.01-576.4 et seq.) of Title 8.01. In assessing the appropriateness of a referral, the court shall ascertain upon motion of a party whether there is a history of family abuse. If an agreement is not reached on any issue through further mediation as agreed to by the parties, prior to the return date set by the court pursuant to § 8.01-576.5 , the court shall proceed with a hearing on any unresolved issue, unless a continuance has been granted by the court.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-124.4, row va-stat_20-124.4, subsection A quoted in full. Subsection B (the $100-per-appointment mediator fee paid by the Commonwealth, and the two-separate-appointments rule when both custody/visitation and support are referred together) was read but not quoted. Chapter 20.2 of Title 8.01 (§ 8.01-576.4 et seq.), the general mediation-procedure chapter this section cross-references, was not read in this pass."
+ },
+ {
+  "jurisdiction": "va",
+  "clause": "required-disclosures",
+  "rule_id": "va-disclosure-duty-found-only-inside-the-opt-in-collaborative-law-process-general-discovery-lives-outside-this-corpus",
+  "question": "What does Virginia's Family Code chapter require a spouse to disclose during a divorce?",
+  "rule": "Like Texas's row in this plugin, and unlike California's, the only disclosure DUTY this reference finds inside Title 20 is confined to the opt-in collaborative law process, not a general requirement in every case. Va. Code § 20-177: \"Except as otherwise provided by law, during the collaborative law process, on the request of another party, a party shall make timely, full, candid, and informal disclosure of information related to the collaborative matter without the requirement of the formal discovery procedures set forth in Part 4 of the Rules of Supreme Court of Virginia. A party shall also promptly update previously disclosed information that has materially changed. The parties may define the scope of disclosure during the collaborative law process.\"",
+  "trap": "This duty exists only \"during the collaborative law process\" -- a party who has not opted into Chapter 11's collaborative track (Va. Code §§ 20-172 et seq.) gets no disclosure obligation from this section at all. The section's own text points to where the general rule actually lives for a conventional, non-collaborative case: \"formal discovery procedures set forth in Part 4 of the Rules of Supreme Court of Virginia\" -- rules of court, not statutes, and this reference is built only from published statutes and case law, so Part 4's actual discovery requirements are NOT ESTABLISHED here; a self-represented litigant in an ordinary (non-collaborative) Virginia divorce needs those court rules directly, not this section. HONEST NEGATIVE, RECORDED: no Family Code section requiring a mandatory preliminary-and-final sworn financial disclosure in every dissolution case, comparable to California's §§ 2104/2105/2107 in this plugin, was found in the Title 20 sections read for this pass; that is a keyword-search-and-section-reading result, not proof no such requirement exists anywhere in Virginia's statutes or rules.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Va. Code § 20-177",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "va-stat_20-177",
+      "quote": "Except as otherwise provided by law, during the collaborative law process, on the request of another party, a party shall make timely, full, candid, and informal disclosure of information related to the collaborative matter without the requirement of the formal discovery procedures set forth in Part 4 of the Rules of Supreme Court of Virginia. A party shall also promptly update previously disclosed information that has materially changed. The parties may define the scope of disclosure during the collaborative law process.",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-22",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction va), § 20-177, row va-stat_20-177, the entire section (one paragraph). Found by a keyword search (an internal DocketX tool, a keyword scanner over the same published statutes shard the verifier reads, restricted to citation prefix 'Va. Code § 20-') for 'disclosure' -- 9 hits in Title 20, of which §§ 20-182 through 20-184 (privilege against disclosure of collaborative-law communications, a confidentiality rule, not an affirmative duty) and § 20-151 (a premarital-agreement voidability defense keyed to a lack of fair disclosure, not a divorce-proceeding duty) were read and are distinct from this row's question; § 20-177 is the only affirmative disclosure DUTY found. Mirrors, rather than contradicts, this plugin's Texas required-disclosures row (Tex. Fam. Code § 15.109, also collaborative-process-only) -- the two states agree on this point, which the jurisdiction-gate in ../../CLAUDE.md warns not to assume by analogy in general."
+ }
+]

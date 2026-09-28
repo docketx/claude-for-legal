@@ -1,0 +1,1906 @@
+[
+  {
+    "jurisdiction": "ks",
+    "clause": "anti-assignment",
+    "rule_id": "ks-84-9-406-receivables-restrictions-ineffective",
+    "question": "Will a Kansas court give effect to a clause barring assignment or requiring the other side's consent?",
+    "rule": "Not as to receivables and promissory notes. Except as subsection (e), K.S.A. 17-76,134(g), K.S.A. 84-2a-303 and K.S.A. 84-9-407 provide, and subject to subsection (h), a term in an agreement between an account debtor and an assignor, or in a promissory note, is ineffective to the extent it prohibits, restricts or requires the consent of the account debtor or the person obligated on the note to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, the account, chattel paper, payment intangible or promissory note, or provides that such an assignment or security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination or remedy (K.S.A. 84-9-406(d)). Subsection (d) does not apply to the sale of a payment intangible or promissory note other than a sale on a disposition under K.S.A. 84-9-610 or an acceptance of collateral under K.S.A. 84-9-620 (subsection (e)); the section is subject to law other than article 9 setting a different rule for an account debtor who is an individual who incurred the obligation primarily for personal, family or household purposes (subsection (h)); and it does not apply to an assignment of a health-care-insurance receivable (subsection (i)). Subsection (j) provides that the section prevails over any inconsistent provisions of any laws, rules and regulations.",
+    "trap": "A consent-to-assign clause in the contract that generates the receivable does not stop the counterparty's lender from taking or enforcing a security interest in it, and the assignment cannot be converted into a default or a right of termination. What subsection (d) does not disable is a restriction on rights that are not accounts, chattel paper, payment intangibles or promissory notes; a sale of a payment intangible or note outside K.S.A. 84-9-610 and 84-9-620; an individual consumer account debtor governed by other law; and a health-care-insurance receivable. Kansas also writes in a carve-out other states do not: subsection (d) is expressly subject to K.S.A. 17-76,134(g), the limited liability company provision, as well as to K.S.A. 84-2a-303 and 84-9-407, none of which is described here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_9_406",
+            "quote": "Except as otherwise provided in subsection (e), subsection (g) of K.S.A. 17-76,134, K.S.A. 84-2a-303 and K.S.A. 2025 Supp. 84-9-407, and amendments thereto, and subject to subsection (h), a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it:",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_9_406",
+            "quote": "Prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_9_406",
+            "quote": "Subsection (d) does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under K.S.A. 2025 Supp. 84-9-610, and amendments thereto, or an acceptance of collateral under K.S.A. 2025 Supp. 84-9-620, and amendments thereto.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_9_406",
+            "quote": "This section is subject to law other than this article which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_9_406",
+            "quote": "This section does not apply to an assignment of a health-care-insurance receivable.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 84-9-406 read in full, including subsections (a)-(c) (discharge by paying the assignor until notification, when notification is ineffective, proof of assignment), (f) (legal restrictions on assignment of accounts and chattel paper ineffective), (g) and (j). K.S.A. 17-76,134(g), 84-2a-303 and 84-9-407, which subsection (d) is expressly subject to, were NOT read and are named rather than described. The subsection (i) quote is 12 words and is included because the exclusion it states is the kind of scope limit a drafter needs; it is quoted in full. NOT established: whether a transfer made in breach of a general no-assignment clause outside K.S.A. 84-9-406 is void or merely a breach; no Kansas decision on that point is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "arbitration",
+    "rule_id": "ks-5-428-validity-and-the-5-426-pre-dispute-nonwaivable-list",
+    "question": "Is the arbitration clause in our Kansas contract enforceable?",
+    "rule": "Yes, on ordinary contract grounds. An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties is valid, enforceable and irrevocable, except upon a ground that exists at law or in equity for the revocation of a contract (K.S.A. 5-428(a)). The court decides whether an agreement to arbitrate exists or whether a controversy is subject to one; the arbitrator decides whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable (K.S.A. 5-428(b)-(c)). If a party to a judicial proceeding challenges the existence of, or claims a controversy is not subject to, an agreement to arbitrate, the arbitration may continue pending the court's resolution unless the court orders otherwise (subsection (d)).",
+    "trap": "The Kansas act fixes what the clause may not do before a dispute arises. Under K.S.A. 5-426(b), before a controversy arises a party may not waive or agree to vary the effect of the requirements of K.S.A. 5-427(a), 5-428(a), 5-430, 5-439(a) or (b), 5-448 or 5-450; may not agree to unreasonably restrict the right to notice of the initiation of an arbitration proceeding, or the right to disclosure of facts by a neutral arbitrator; and may not waive the right to be represented by a lawyer at a proceeding under the act, except that an employer and a labor organization may waive lawyer representation in a labor arbitration. K.S.A. 5-426(c) makes a further list non-variable at any time, including the sections on judicial relief, the motion to compel or stay arbitration, immunity of the arbitrator, and vacating, modifying and confirming an award. So the negotiable part of a Kansas arbitration clause is narrower than the parties' freedom of contract elsewhere.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 5-428",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_5_428",
+            "quote": "An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable and irrevocable, except upon a ground that exists at law or in equity for the revocation of a contract.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 5-428",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_5_428",
+            "quote": "The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate. (c) An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 5-426",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_5_426",
+            "quote": "Before a controversy arises that is subject to an agreement to arbitrate, a party to the agreement may not: (1) Waive or agree to vary the effect of the requirements of K.S.A. 5-427(a), 5-428(a), 5-430, 5-439(a) or (b), 5-448 or 5-450, and amendments thereto;",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 5-426",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_5_426",
+            "quote": "waive the right under K.S.A. 5-438, and amendments thereto, of a party to an agreement to arbitrate to be represented by a lawyer at any proceeding or hearing under K.S.A. 5-423 through 5-453, and amendments thereto, but an employer and a labor organization may waive the right to representation by a lawyer in a labor arbitration.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 5-426",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_5_426",
+            "quote": "A party to an agreement to arbitrate or arbitration proceeding may not waive, or the parties may not vary the effect of, the requirements of this section or K.S.A. 5-425, 5-429, 5-436, 5-440, 5-442(d) or (e), 5-444, 5-445, 5-446, 5-447(a) or (b), 5-451, 5-452 or 5-453, and amendments thereto.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 5-426 and 5-428 read in full. Both carry the history line \"L. 2018, ch. 90\", which is the Kansas enactment of the revised uniform act; the sections cross-referenced in K.S.A. 5-426(b) and (c) were NOT read and are named rather than described, so a drafter should read them before relying on the list. NOT established: whether the Federal Arbitration Act preempts any part of the Kansas act in a transaction involving commerce, and how Kansas treats a class-action waiver in an arbitration clause; no Kansas decision on either is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "attorney-fees",
+    "rule_id": "ks-no-fees-without-statute-or-agreement-plus-the-construction-act-award",
+    "question": "Will a Kansas court make the losing side pay our fees under the contract's fee clause?",
+    "rule": "Only where a statute or the parties' agreement authorises it. In Snider v. American Family Mutual Insurance Co. the Supreme Court stated the rule: \"a Kansas court may not award attorney fees unless a statute authorizes the award or there is an agreement between the parties allowing attorney fees.\" One statute makes the award mandatory rather than discretionary in a narrow field: in any action to enforce K.S.A. 16-1803, 16-1804 or 16-1805 — the payment, retainage and suspension provisions of the Kansas fairness in private construction contract act — including an arbitration, the court or arbitrator shall award costs and reasonable attorney fees to the prevailing party, and venue is in the county where the real property is located (K.S.A. 16-1806).",
+    "trap": "The contractual route and the statutory route behave differently. A fee clause supplies the authority a Kansas court otherwise lacks, so its wording decides who recovers and on what condition. K.S.A. 16-1806 supplies its own authority, requires the award to the prevailing party, and reaches arbitration as well as litigation — but only in an action to enforce the three sections it names, and the private construction act itself does not apply to single family residential housing, to multifamily residential housing of four units or less, to public works projects, or to contracts entered into before the act's effective date (K.S.A. 16-1807).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "298 P.3d 1120",
+        "name": "Snider v. American Family Mutual Insurance Co.",
+        "court": "Kan.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "78af43f07f38b4af",
+            "cl_opinion_id": "7923473",
+            "quote": "Foremost is the rule that a Kansas court may not award attorney fees unless a statute authorizes the award or there is an agreement between the parties allowing attorney fees.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1806",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1806",
+            "quote": "In any action to enforce K.S.A. 16-1803, 16-1804 or 16-1805, and amendments thereto, including arbitration, the court or arbitrator shall award costs and reasonable attorney fees to the prevailing party. Venue of such an action shall be in the county where the real property is located.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1807",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1807",
+            "quote": "The provisions of this act shall not apply to single family residential housing and multifamily residential housing of four units or less. The provisions of this act shall not apply to public works projects. The provisions of this act shall not apply to contracts entered into prior to the effective date of this act.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Snider row 78af43f07f38b4af is the opinion of the Court; Moritz, J., dissented in a separate row (ef33b98e4a9644af), which is not cited and which concerns appellate fee procedure, not the rule quoted. A scan of the 89 later Kansas rows citing 298 P.3d 1120 produced 16 negative-word windows, all read and all noise (later courts citing Snider for issue preservation and for the duty of the Court of Appeals to follow Supreme Court precedent). K.S.A. 16-1806 and 16-1807 read in full. NOT established: what a Kansas court treats as \"prevailing party\" under K.S.A. 16-1806, and whether a contractual fee clause that is silent on prevailing-party status supports an award to a defendant; no authority on either is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "choice-of-law",
+    "rule_id": "ks-party-choice-honored-subject-to-public-policy-and-first-restatement-default",
+    "question": "Will a Kansas court apply the law our contract chooses?",
+    "rule": "Generally yes, with a real public-policy exception. In Brenner v. Oppenheimer & Co. the Supreme Court said that \"Where the parties to a contract have entered an agreement that incorporates a choice of law provision, Kansas courts generally effectuate the law chosen by the parties to control the agreement\", and then stated the exception: \"Where the application of the contracting parties' choice of law provision engenders a result contrary to public policy, Kansas courts will not apply another state's law.\" With no effective choice, Kansas remains a First Restatement state: in M & I Marshall & Ilsley Bank v. Higdon the Supreme Court described the approach — the forum first decides whether a question is one of substance or procedure and then selects the law of a jurisdiction based on the location of a certain event, citing Restatement (First) of Conflict of Laws § 332, \"setting forth lex loci contractus, i.e., the law of the state where the contract is made governs\" — and said \"Kansas is one of a minority of states that continues to follow the First Restatement.\" Within the UCC, K.S.A. 84-1-301(a) lets the parties choose Kansas law or another state's or nation's law when the transaction bears a reasonable relation to Kansas and also to that other state or nation.",
+    "trap": "Two Kansas-specific dangers. First, the public-policy exception has teeth: Brenner itself refused to enforce a New York choice-of-law clause in a brokerage form agreement because Kansas public policy strongly favours the regulation of securities transactions for the protection of Kansas investors. A clause that would strip a Kansas statutory protection is the case the exception was written for. Second, for four kinds of contract there is no choice at all — K.S.A. 16-121(e) provides that notwithstanding any contractual provision to the contrary, Kansas law applies to and governs every contract to be performed in Kansas, and any provision conflicting with that subsection is void and unenforceable. \"Contract\" there is defined in K.S.A. 16-121(a)(2) as any construction contract, motor carrier transportation contract, dealer agreement or franchise agreement, each of which the section defines at length.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "44 P.3d 364",
+        "name": "Brenner v. Oppenheimer & Co.",
+        "court": "Kan.",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "d1c275795cd28f75",
+            "cl_opinion_id": "2543624",
+            "quote": "Where the parties to a contract have entered an agreement that incorporates a choice of law provision, Kansas courts generally effectuate the law chosen by the parties to control the agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "44 P.3d 364",
+        "name": "Brenner v. Oppenheimer & Co.",
+        "court": "Kan.",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "d1c275795cd28f75",
+            "cl_opinion_id": "2543624",
+            "quote": "As we stated in Davis , however, a well-recognized exception to the general rule allowing parties to incorporate their choice of law into the contract does exist. Where the application of the contracting parties’ choice of law provision engenders a result contrary to public policy, Kansas courts will not apply another state’s law.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "556 P.3d 498",
+        "name": "M & I Marshall & Ilsley Bank v. Higdon",
+        "court": "Kan.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "ad3c7856f902c8c1",
+            "cl_opinion_id": "10592400",
+            "quote": "Under this approach, the forum state first decides whether a given question is one of substance or procedure and then selects the law of a jurisdiction based on the location of a certain event. See Restatement (First) of Conflict of Laws § 332 (setting forth lex loci contractus, i.e., the law of the state where the contract is made governs); § 378 (tort claims governed by law of the state where injury occurred). Kansas is one of a minority of states that continues to follow the First Restatement.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-1-301",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_1_301",
+            "quote": "Except as otherwise provided in this section, when a transaction bears reasonable relation to this state and also to another state or nation the parties may agree that the law either of this state or of such other state or nation shall govern their rights and duties.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-121",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_121",
+            "quote": "Notwithstanding any contractual provision to the contrary, the laws of the state of Kansas shall apply to and govern every contract to be performed in this state. Any litigation, arbitration or other dispute resolution proceeding arising from such contract shall be conducted in this state. Any provision, covenant or clause in such contract that conflicts with the provisions of this subsection shall be void and unenforceable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-121",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_121",
+            "quote": "\"Contract\" means any construction contract, motor carrier transportation contract, dealer agreement or franchise agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "44 P.3d 364",
+        "name": "Brenner v. Oppenheimer & Co.",
+        "court": "Kan.",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "d1c275795cd28f75",
+            "cl_opinion_id": "2543624",
+            "quote": "Because Kansas’ public policy strongly favors the regulation of securities transactions for the protection of Kansas investors, we hold the choice of law provision to be invalid on public policy",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Brenner read in context; the row records no dissent. Its outcome was that the New York choice-of-law clause was invalid on public-policy grounds because of the Kansas Securities Act — a securities holding, and this rule states the exception in the Court's own general words rather than extending that outcome to every statute. M & I Marshall read in context; no dissent in the row, and it cites Brenner for the lex loci rule. K.S.A. 16-121 and 84-1-301 read in full. NOTE ON K.S.A. 16-121(f): the section says \"This section applies only to indemnification provisions and additional insured provisions entered into after January 1, 2009.\" Whether that sentence also limits subsection (e), which is about governing law and forum rather than indemnification, is a question the text does not answer and this rule does not resolve. This row carries no applies_to tag: it states a rule for any contract (Brenner, M & I Marshall) together with a statute limited to four contract kinds. This store holds no statute effective dates. HOLDING SWEEP 2026-09-22 (fourth band, overlap 0.25-0.30): the holding the row paraphrases from Brenner v. Oppenheimer & Co. is now blocked in the court's words."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "ks-50-625-no-waiver-and-the-50-639-warranty-bar",
+    "question": "Can our Kansas consumer contract waive the customer's statutory claims?",
+    "rule": "No. Except as otherwise provided in the Kansas consumer protection act, a consumer may not waive or agree to forego rights or benefits under the act (K.S.A. 50-625(a)). A claim by or against a consumer, disputed or not, may be settled for less value than the amount claimed, but a settlement in which the consumer waives or agrees to forego rights or benefits under the act is invalid if the court finds the settlement to have been unconscionable at the time it was made, with the consumer's competence, any deception or coercion, the legal advice received and the value of the consideration all relevant (K.S.A. 50-625(b)-(c)). Warranty terms are separately controlled: with respect to property that is or is intended to become the subject of a consumer transaction in Kansas, no supplier shall exclude, modify or otherwise attempt to limit the implied warranties of merchantability and fitness for a particular purpose, or exclude, modify or attempt to limit any remedy provided by law for their breach (K.S.A. 50-639(a)), and a disclaimer or limitation in violation of that section is void (subsection (e)).",
+    "trap": "A boilerplate waiver clause in a Kansas consumer contract does not merely fail; it can become evidence against the supplier. K.S.A. 50-627(b)(7) lists, among the circumstances a court considers in deciding whether an act or practice is unconscionable, that \"except as provided by K.S.A. 50-639, and amendments thereto, the supplier excluded, modified or otherwise attempted to limit either the implied warranties of merchantability and fitness for a particular purpose or any remedy provided by law for a breach of those warranties.\" And unconscionability under the act is not confined to the signing: no supplier shall engage in any unconscionable act or practice in connection with a consumer transaction, and such an act violates the act \"whether it occurs before, during or after the transaction\" (K.S.A. 50-627(a)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-625",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_625",
+            "quote": "Except as otherwise provided in this act, a consumer may not waive or agree to forego rights or benefits under this act.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-625",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_625",
+            "quote": "A settlement in which the consumer waives or agrees to forego rights or benefits under this act is invalid if the court finds the settlement to have been unconscionable at the time it was made.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-639",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_639",
+            "quote": "Notwithstanding any other provisions of law, with respect to property which is the subject of or is intended to become the subject of a consumer transaction in this state, no supplier shall: (1) Exclude, modify or otherwise attempt to limit the implied warranties of merchantability as defined in K.S.A. 84-2-314, and amendments thereto, and fitness for a particular purpose, as defined in K.S.A. 84-2-315, and amendments thereto; or",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-627",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_627",
+            "quote": "No supplier shall engage in any unconscionable act or practice in connection with a consumer transaction. An unconscionable act or practice violates this act whether it occurs before, during or after the transaction.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-627",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_627",
+            "quote": "except as provided by K.S.A. 50-639, and amendments thereto, the supplier excluded, modified or otherwise attempted to limit either the implied warranties of merchantability and fitness for a particular purpose or any remedy provided by law for a breach of those warranties.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 50-625, 50-627 and 50-639 read in full. Section 50-639 carries its own exclusions, in subsections (g) seed for planting, (h) sales of livestock for agricultural purposes other than for immediate slaughter except where the supplier knowingly sells diseased livestock, and (i) disposal of surplus property by a governmental entity that gives conspicuous written notice; subsection (c) allows a limitation as to a specific defect the supplier establishes the consumer knew of and that became the basis of the bargain, but never as to liability for personal injury or property damage, and subsection (f) says a limited express warranty is not itself a violation. Those are stated in the warranty-disclaimer rule. The row is tagged consumer because every section quoted is keyed to a consumer transaction. NOT established: whether a pre-dispute arbitration clause or class-action waiver in a Kansas consumer contract is a \"waiver\" within K.S.A. 50-625(a); no Kansas decision on that is cited here. This store holds no statute effective dates.",
+    "applies_to": [
+      "consumer"
+    ]
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "electronic-signature",
+    "rule_id": "ks-16-1607-electronic-form-is-not-a-defence-subject-to-scope-and-consent",
+    "question": "Is the contract our Kansas counterparty signed electronically enforceable?",
+    "rule": "Within the act's scope, yes. A record or signature may not be denied legal effect or enforceability solely because it is in electronic form; a contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation; if a law requires a record to be in writing, an electronic record satisfies the law; and if a law requires a signature, an electronic signature satisfies the law (K.S.A. 16-1607). The act applies only to transactions between parties each of which has agreed to conduct transactions by electronic means, and whether they so agreed is determined from the context and surrounding circumstances, including the parties' conduct (K.S.A. 16-1605(b)).",
+    "trap": "The scope section is where an electronic-signature argument usually fails. The act does not apply to a transaction to the extent it is governed by a law governing the creation and execution of wills, codicils or testamentary trusts, or by the uniform commercial code other than K.S.A. 84-1-306 and articles 2 and 2a (K.S.A. 16-1603(b)) — so a sale or lease of goods is inside the act while a record governed by the UCC's other articles is outside it to that extent, although subsection (c) brings such a record back in to the extent it is governed by a law other than those specified. Consent is the other threshold, and it is asymmetric: a party who agrees to conduct one transaction electronically may refuse to conduct others that way, and \"The right granted by this subsection may not be waived by agreement\" (K.S.A. 16-1605(c)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1607",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1607",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. (b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. (c) If a law requires a record to be in writing, an electronic record satisfies the law. (d) If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1603",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1603",
+            "quote": "This act does not apply to a transaction to the extent it is governed by: (1) A law governing the creation and execution of wills, codicils or testamentary trusts; and (2) the uniform commercial code, other than K.S.A. 2025 Supp. 84-1-306 and articles 2 and 2a of chapter 84 of the Kansas Statutes Annotated, and amendments thereto.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1603",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1603",
+            "quote": "This act applies to an electronic record or electronic signature otherwise excluded from the application of this act under subsection (b) to the extent it is governed by a law other than those specified in subsection (b).",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1605",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1605",
+            "quote": "This act applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1605",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1605",
+            "quote": "A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 16-1603, 16-1605 and 16-1607 read in full, plus the section list of the Kansas uniform electronic transactions act (K.S.A. 16-1601 to 16-1620). K.S.A. 16-1608 (provision of information in writing), 16-1609 (attribution), 16-1611 (notarization) and 16-1616 (transferable records) were listed but are not relied on. The Kansas scope exclusion reaches wills, codicils and testamentary trusts and the UCC outside articles 2 and 2a and K.S.A. 84-1-306; the sections read contain no exclusion for corporate, LLC or partnership statutes. NOT established: how a Kansas court decides a disputed question of agreement to transact electronically; no Kansas decision on K.S.A. 16-1605(b) is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "entire-agreement",
+    "rule_id": "ks-integration-clause-protects-against-reliance-on-oral-representations",
+    "question": "Does our merger clause keep the other side's prior promises out of the case?",
+    "rule": "It is aimed at exactly that. In Osterhaus v. Schunk the Supreme Court described what such a clause does: \"An integration clause protects both the seller and the broker from the buyer's argument that the seller made oral representations upon which the buyer relied.\" For a writing within UCC article 2, K.S.A. 84-2-202 supplies the statutory rule: terms set forth in a writing intended by the parties as a final expression of their agreement may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement, but may be explained or supplemented by course of performance, course of dealing or usage of trade, and supplemented by evidence of consistent additional terms unless the court finds the writing was intended also as a complete and exclusive statement of the terms.",
+    "trap": "An integration clause is not a fraud release. Osterhaus held that a buyer's signed acknowledgment in a residential real-estate contract \"does not relieve a seller of the obligation to make accurate and complete disclosures and does not bar Osterhaus' contract claims as a matter of law\", and it rejected the reading under which a buyer's acknowledgment would let a seller both misstate what it disclosed and withhold adverse information altogether. The UCC rule is also narrower than a merger clause sounds: K.S.A. 84-2-202 blocks contradiction by prior or contemporaneous agreements only, leaves course of performance, course of dealing and usage of trade admissible to explain or supplement, and shuts out consistent additional terms only if the court finds the writing was intended as a complete and exclusive statement.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "249 P.3d 888",
+        "name": "Osterhaus v. Schunk",
+        "court": "Kan.",
+        "decided": "2011",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "1e194989ece7fddd",
+            "cl_opinion_id": "2631492",
+            "quote": "An integration clause protects both the seller and the broker from the buyer's argument that the seller made oral representations upon which the buyer relied.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "249 P.3d 888",
+        "name": "Osterhaus v. Schunk",
+        "court": "Kan.",
+        "decided": "2011",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "1e194989ece7fddd",
+            "cl_opinion_id": "2631492",
+            "quote": "Accordingly, we hold that paragraph 5 of the buyer's acknowledgment does not relieve a seller of the obligation to make accurate and complete disclosures and does not bar Osterhaus' contract claims as a matter of law.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-202",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_202",
+            "quote": "Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-202",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_202",
+            "quote": "by evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Osterhaus v. Schunk, 291 Kan. 759, 249 P.3d 888 (2011), read in context. The two \"dissent\" references in the row are to Judge Leben's partial dissent in the Court of Appeals below, not to a dissent from the Supreme Court's opinion. The decision concerns a residential real-estate seller's disclosure statement and a buyer's acknowledgment; the sentence quoted describes what an integration clause does and is stated generally, but this rule does not claim Osterhaus decided the effect of a merger clause in a commercial contract. A scan of the 83 later Kansas rows citing 249 P.3d 888 produced 10 negative-word windows, all read: they cite Osterhaus for issue preservation and the summary-judgment standard, or note that it overruled a Court of Appeals decision on other grounds. NOT established: whether Kansas enforces a specific non-reliance clause against a fraudulent-inducement claim; no authority on that is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "force-majeure",
+    "rule_id": "ks-84-2-615-impracticability-for-goods-with-allocation-and-notice-conditions",
+    "question": "Does our force majeure clause excuse performance under Kansas law?",
+    "rule": "For a sale of goods, K.S.A. 84-2-615 supplies a seller's excuse the clause does not have to create, and it opens with its own limits: \"Except so far as a seller may have assumed a greater obligation and subject to the preceding section on substituted performance\", delay in delivery or nondelivery in whole or in part by a seller who complies with paragraphs (b) and (c) is not a breach of the seller's duty if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made, or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid. Where the causes affect only part of the seller's capacity, the seller must allocate production and deliveries among its customers in any manner which is fair and reasonable, and must notify the buyer seasonably of the delay or non-delivery and, where allocation is required, of the estimated quota made available to that buyer.",
+    "trap": "The statutory excuse is conditional and one-sided on the section's words. It runs to a SELLER, and only to a seller \"who complies with paragraphs (b) and (c)\" — fair and reasonable allocation and seasonable notice are conditions of the excuse, not courtesies. A clause by which the seller assumes a greater obligation takes the case outside the section by its opening words, so a promise to deliver whatever happens is a contracting-out. And nothing in K.S.A. 84-2-615 excuses a buyer, or a party to a contract that is not a sale of goods; no Kansas authority on common-law impracticability outside article 2 is cited in this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_615",
+            "quote": "Except so far as a seller may have assumed a greater obligation and subject to the preceding section on substituted performance: (a) Delay in delivery or nondelivery in whole or in part by a seller who complies with paragraphs (b) and (c) is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_615",
+            "quote": "Where the causes mentioned in paragraph (a) affect only a part of the seller's capacity to perform, he must allocate production and deliveries among his customers but may at his option include regular customers not then under contract as well as his own requirements for further manufacture. He may so allocate in any manner which is fair and reasonable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_615",
+            "quote": "The seller must notify the buyer seasonably that there will be delay or non-delivery and, when allocation is required under paragraph (b), of the estimated quota thus made available for the buyer.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 84-2-615 read in full. K.S.A. 84-2-614 (substituted performance), which the section is expressly subject to, was NOT read and is named rather than described. This row carries no applies_to tag even though the section is in UCC article 2, because whether article 2 governs a mixed goods-and-services agreement is a question these authorities do not answer. NOT established: Kansas common-law impossibility, impracticability or frustration outside article 2, and whether an express force-majeure clause displaces K.S.A. 84-2-615; no Kansas decision on either is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "indemnity",
+    "rule_id": "ks-16-121-voids-own-negligence-indemnity-in-four-contract-kinds",
+    "question": "Will our indemnity clause cover the indemnitee's own negligence in Kansas?",
+    "rule": "In four kinds of contract, no. An indemnification provision in a contract which requires the promisor to indemnify the promisee for the promisee's negligence or intentional acts or omissions is against public policy and is void and unenforceable, and a provision requiring a party to provide liability coverage to another party as an additional insured for that other party's own negligence or intentional acts or omissions is equally void (K.S.A. 16-121(b)-(c)). \"Contract\" for that purpose means any construction contract, motor carrier transportation contract, dealer agreement or franchise agreement, each defined at length in K.S.A. 16-121(a). Outside those contracts the rule is one of construction rather than invalidity: in Johnson v. Board of County Commissioners the Supreme Court stated that \"an agreement seeking to protect a party from liability for its own negligence is subject to strict construction\", and set out the rule from Butters that a contract of indemnity will not be construed to indemnify the indemnitee against losses resulting from his own negligent acts unless such intention is expressed in clear and unequivocal terms, or unless no other meaning can be ascribed to it, and that mere general, broad and seemingly all-inclusive language is not sufficient.",
+    "trap": "Read K.S.A. 16-121(d) before concluding a clause is dead. The section does not affect or impair a contractual obligation to provide railroad protective or general liability insurance; certain environmental strict-liability indemnities; an indemnification that is an integral part of a settlement of a disputed claim on consideration, where the dispute relates to an event related to a construction contract that occurred before the settlement and the indemnity relates only to claims arising from that past event; the validity of an insurance contract, construction bond or other agreement lawfully issued by an insurer or bonding company; a separately negotiated provision by which the parties mutually agree to a reasonable allocation of risk that is based on generally accepted industry loss experience and supported by adequate consideration; or an agreement for indemnity the parties agree in writing will be supported by liability insurance furnished by the promisor, limited to the coverage and dollar limits of that insurance. The section also carries its own date: \"This section applies only to indemnification provisions and additional insured provisions entered into after January 1, 2009.\"",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-121",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_121",
+            "quote": "An indemnification provision in a contract which requires the promisor to indemnify the promisee for the promisee's negligence or intentional acts or omissions is against public policy and is void and unenforceable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-121",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_121",
+            "quote": "A provision in a contract which requires a party to provide liability coverage to another party, as an additional insured, for such other party's own negligence or intentional acts or omissions is against public policy and is void and unenforceable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-121",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_121",
+            "quote": "a separately negotiated provision or provisions whereby the parties mutually agree to a reasonable allocation of risk, if each such provision is: (A) Based on generally accepted industry loss experience; and (B) supported by adequate consideration; and",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-121",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_121",
+            "quote": "This section applies only to indemnification provisions and additional insured provisions entered into after January 1, 2009.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "913 P.2d 119",
+        "name": "Johnson v. Board of County Commissioners",
+        "court": "Kan.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "b2eada1c8881a2c6",
+            "cl_opinion_id": "7921584",
+            "quote": "an agreement seeking to protect a party from liability for its own negligence is subject to strict construction",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "913 P.2d 119",
+        "name": "Johnson v. Board of County Commissioners",
+        "court": "Kan.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "b2eada1c8881a2c6",
+            "cl_opinion_id": "7921584",
+            "quote": "It is a general rule that a contract of indemnity will not be construed to indemnify the indemnitee against losses resulting from his own negligent acts unless such intention is expressed in clear and unequivocal terms, or unless no other meaning can be ascribed thereto, and mere general broad and seemingly all-inclusive language in the indemnifying agreement is not sufficient to impose liability for the indemnitee’s own negligence.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "913 P.2d 119",
+        "name": "Johnson v. Board of County Commissioners",
+        "court": "Kan.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "b2eada1c8881a2c6",
+            "cl_opinion_id": "7921584",
+            "quote": "The language is not expressed in terms clear and unequivocal enough to contract away KDOT’s own negligence.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 16-121 read in full, including the definitions of \"construction contract\" (with its exceptions for instruments granting an interest in property, dirt or gravel roads used to access oil and gas wells, and oil flow lines or gas gathering lines), \"motor carrier transportation contract\", \"dealership agreement\", \"franchise agreement\", \"mutual indemnity obligation\" and \"unilateral indemnity obligation\". Johnson v. Board of County Commissioners, 259 Kan. 305, 913 P.2d 119 (1996), read in context; the row records no dissent. The Butters passage quoted through Johnson is Butters v. Consolidated Transfer & Warehouse Co., 212 Kan. 284, Syl. para. 2, 510 P.2d 1269 (1973) — a syllabus paragraph as set out in the Johnson opinion, which is stated here for what it is. Johnson's strict-construction sentence as published contains a transcription artefact immediately after the words quoted; the quote stops before it. A scan of the 34 later Kansas rows citing 913 P.2d 119 produced one negative-word window, read and found to be a party's argument, not negative treatment. This row carries no applies_to tag: K.S.A. 16-121 reaches four contract kinds, only one of which (construction) is in the closed vocabulary, and the Johnson rule of construction is general. NOT established: whether K.S.A. 16-121(b) reaches a duty to DEFEND standing alone. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "lien-waiver",
+    "rule_id": "ks-16-1803-lien-waiver-only-to-the-extent-of-payment-received",
+    "question": "Is the lien waiver our Kansas subcontract makes us sign enforceable?",
+    "rule": "Only as far as you have been paid. In a contract for private construction, a provision that purports to waive, release or extinguish rights provided by article 11 of chapter 60 of the Kansas Statutes Annotated — the mechanic's lien article — is against public policy and is void and unenforceable, \"except that a contract may require a contractor or subcontractor to provide a waiver or release of such rights as a condition for payment, but only to the extent of the amount of payment received\" (K.S.A. 16-1803(b)(2)). The same subsection voids a provision purporting to waive, release or extinguish the right to resolve disputes through litigation in court or substantive or procedural rights in connection with that litigation, except that a contract may require binding arbitration as a substitute for litigation or non-binding alternative dispute resolution as a prerequisite to it. None of this can be contracted around: the rights and duties prescribed by the act are not waivable or varied under the terms of a contract, and the terms of any contract waiving them are unenforceable (K.S.A. 16-1801(b)).",
+    "trap": "The statute converts an up-front lien waiver into a receipt. A waiver demanded as a condition for payment is permitted, but only to the extent of the amount actually received, so a form that releases lien rights for work not yet paid for is outside the exception the statute allows. Watch the act's scope as well: it does not apply to single family residential housing or to multifamily residential housing of four units or less, does not apply to public works projects, and does not apply to contracts entered into before the act's effective date (K.S.A. 16-1807) — outside those boundaries this section gives a subcontractor nothing. Related and often missed: a pay-if-paid provision making payment to a subcontractor contingent on receipt of payment from another private party \"is no defense to a claim to enforce a mechanic's lien or bond\" under article 11 of chapter 60 (K.S.A. 16-1803(c)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1803",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1803",
+            "quote": "a provision that purports to waive, release or extinguish rights provided by article 11 of chapter 60 of the Kansas Statutes Annotated, and amendments thereto, except that a contract may require a contractor or subcontractor to provide a waiver or release of such rights as a condition for payment, but only to the extent of the amount of payment received; and",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1803",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1803",
+            "quote": "Any provision in a contract for private construction providing that a payment from a contractor or subcontractor to a subcontractor is contingent or conditioned upon receipt of a payment from any other private party, including a private owner, is no defense to a claim to enforce a mechanic's lien or bond to secure payment of claims pursuant to the provisions of article 11 of chapter 60 of the Kansas Statutes Annotated, and amendments thereto.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1801",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1801",
+            "quote": "The rights and duties prescribed by this act shall not be waivable or varied under the terms of a contract. The terms of any contract waiving the rights and duties prescribed by this act shall be unenforceable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1807",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1807",
+            "quote": "The provisions of this act shall not apply to single family residential housing and multifamily residential housing of four units or less. The provisions of this act shall not apply to public works projects. The provisions of this act shall not apply to contracts entered into prior to the effective date of this act.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 16-1801, 16-1802 (definitions, including \"construction\", \"contract\", \"contractor\", \"owner\", \"retainage\" and \"substantial completion\"), 16-1803 and 16-1807 read in full. Article 11 of chapter 60, the Kansas mechanic's lien article whose rights K.S.A. 16-1803(b)(2) protects, was NOT read and is named rather than described, so this rule says nothing about how a Kansas lien is perfected or enforced. Kansas also has a separate public construction act (K.S.A. 16-1901 to 16-1909) which was not read; nothing here states its content. NOT established: how a Kansas court treats a conditional as against an unconditional waiver form, and what happens to a waiver signed for a payment that is later avoided. This store holds no statute effective dates.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "limitation-of-liability",
+    "rule_id": "ks-strict-construction-of-own-negligence-protection-plus-statutory-voids",
+    "question": "Will a Kansas court enforce this clause capping or excluding our liability for our own negligence?",
+    "rule": "It will read it narrowly. In Johnson v. Board of County Commissioners the Supreme Court said that \"an agreement seeking to protect a party from liability for its own negligence is subject to strict construction\", and applied that standard to hold that the language before it \"is not expressed in terms clear and unequivocal enough to contract away KDOT's own negligence.\" Two statutes then take particular clauses out of play. In a construction contract, motor carrier transportation contract, dealer agreement or franchise agreement, a provision requiring the promisor to indemnify the promisee for the promisee's negligence or intentional acts or omissions is void and unenforceable, as is a provision requiring a party to name another as an additional insured for that other party's own negligence (K.S.A. 16-121(b)-(c)). In a sale of goods, consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable, and limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable while limitation where the loss is commercial is not (K.S.A. 84-2-719(3)).",
+    "trap": "Keep the two directions apart. K.S.A. 16-121(b) voids a promise to answer for the OTHER party's negligence; on its words it does not reach a clause capping or excluding the drafter's own liability to its counterparty, and nothing read here extends it there. What does reach the drafter's own clause is the strict-construction rule: general words will not do the work, because a contract of indemnity is not construed to cover the indemnitee's own negligence unless the intention is expressed in clear and unequivocal terms and \"mere general broad and seemingly all-inclusive language in the indemnifying agreement is not sufficient\". In a consumer transaction there is a further bar this rule states separately: K.S.A. 50-639 forbids a supplier to exclude, modify or attempt to limit the implied warranties or any remedy provided by law for their breach, and makes an offending disclaimer void.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "913 P.2d 119",
+        "name": "Johnson v. Board of County Commissioners",
+        "court": "Kan.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "b2eada1c8881a2c6",
+            "cl_opinion_id": "7921584",
+            "quote": "an agreement seeking to protect a party from liability for its own negligence is subject to strict construction",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "913 P.2d 119",
+        "name": "Johnson v. Board of County Commissioners",
+        "court": "Kan.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "b2eada1c8881a2c6",
+            "cl_opinion_id": "7921584",
+            "quote": "The language is not expressed in terms clear and unequivocal enough to contract away KDOT’s own negligence.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-121",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_121",
+            "quote": "An indemnification provision in a contract which requires the promisor to indemnify the promisee for the promisee's negligence or intentional acts or omissions is against public policy and is void and unenforceable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_719",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-639",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_639",
+            "quote": "A disclaimer or limitation in violation of this section is void. If a consumer prevails in an action based upon breach of warranty, and the supplier has violated this section, the court may, in addition to any damages recovered, award reasonable attorney fees and a civil penalty under K.S.A. 50-636, and amendments thereto, to be paid by the supplier who gave the improper disclaimer.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Johnson read in context; no dissent in the row. Johnson concerned a hold-harmless clause in an agreement with the Kansas Department of Transportation, so the strict-construction standard is stated by the Court and then applied to that clause. The Butters formulation quoted in the trap is Butters v. Consolidated Transfer & Warehouse Co., 212 Kan. 284, Syl. para. 2, 510 P.2d 1269 (1973), as set out in the Johnson opinion, and is recorded as such in the indemnity rule. K.S.A. 16-121, 84-2-719 and 50-639 read in full. NOT established, and deliberately not asserted: whether Kansas enforces a clause that exculpates a party from liability for its own ordinary negligence outside the statutes quoted, and whether a public-interest or unequal-bargaining exception applies — Kansas decisions state a strict-construction rule, and no decision resolving the general enforceability question is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "limitation-of-remedy",
+    "rule_id": "ks-84-2-719-exclusive-remedy-and-failure-of-essential-purpose",
+    "question": "Is our 'repair or replace is the exclusive remedy' clause good in Kansas?",
+    "rule": "Yes, on article 2's terms. Subject to subsections (2) and (3) and to the liquidated-damages section, the agreement may provide for remedies in addition to or in substitution for those provided in article 2 and may limit or alter the measure of damages recoverable, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy (K.S.A. 84-2-719(1)). Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the act (subsection (2)). Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable; limitation for injury to the person in the case of consumer goods is prima facie unconscionable, while limitation where the loss is commercial is not (subsection (3)).",
+    "trap": "Exclusivity is not presumed: unless the remedy is expressly agreed to be exclusive it is one more option the buyer may take or leave, so a repair-or-replace clause that never says it is the sole and exclusive remedy adds a remedy instead of replacing article 2's. Subsection (2) is the other trap — when the limited remedy fails of its essential purpose the buyer gets the act's remedies, and whether a separately drafted consequential-damages exclusion survives that failure is a question no Kansas authority in this rule answers. In a consumer transaction the clause faces a flat statutory bar as well: K.S.A. 50-639(a)(2) forbids a supplier to exclude, modify or attempt to limit any remedy provided by law, including the measure of damages available, for breach of the implied warranties of merchantability and fitness for a particular purpose, and subsection (e) makes such a limitation void.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_719",
+            "quote": "Subject to the provisions of subsections (2) and (3) of this section and of the preceding section on liquidation and limitation of damages, (a) the agreement may provide for remedies in addition to or in substitution for those provided in this article and may limit or alter the measure of damages recoverable under this article, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and (b) resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_719",
+            "quote": "Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this act.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_316",
+            "quote": "Remedies for breach of warranty can be limited in accordance with the provisions of this article on liquidation or limitation of damages and on contractual modification of remedy (K.S.A. 84-2-718 and 84-2-719).",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-639",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_639",
+            "quote": "exclude, modify or attempt to limit any remedy provided by law, including the measure of damages available, for a breach of implied warranty of merchantability and fitness for a particular purpose.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 84-2-719, 84-2-316 and 50-639 read in full. This row carries no applies_to tag: the UCC sections do not answer whether article 2 governs a mixed goods-and-services or software transaction, and K.S.A. 50-639 applies only to consumer transactions, which the rule says in terms. NOT established: how Kansas treats a consequential-damages exclusion after an exclusive remedy has failed of its essential purpose (the dependent/independent question), and what makes such a limitation unconscionable in a commercial sale; no Kansas decision on either is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "limitations-period",
+    "rule_id": "ks-five-years-written-three-unwritten-four-on-goods",
+    "question": "How long does the other side have to sue us on this Kansas contract, and can the contract shorten it?",
+    "rule": "Five years on a written contract, three on an unwritten one, four on a sale of goods. An action upon any agreement, contract or promise in writing must be brought within five years (K.S.A. 60-511(1)); all actions upon contracts, obligations or liabilities expressed or implied but not in writing, and an action upon a liability created by a statute other than a penalty or forfeiture, must be brought within three years (K.S.A. 60-512). For a sale of goods, an action for breach of any contract for sale must be commenced within four years after the cause of action has accrued, and by the original agreement the parties may reduce the period to not less than one year but may not extend it (K.S.A. 84-2-725(1)). Accrual for a sale of goods is fixed by K.S.A. 84-2-725(2): the cause of action accrues when the breach occurs regardless of the aggrieved party's lack of knowledge, and a breach of warranty occurs when tender of delivery is made, unless a warranty explicitly extends to future performance of the goods and discovery of the breach must await that performance.",
+    "trap": "The shortening power is an article 2 power. K.S.A. 84-2-725(1) permits reduction to not less than one year, by the ORIGINAL agreement, and forbids extension; nothing read here authorises shortening the K.S.A. 60-511 or 60-512 periods for a contract outside article 2. The accrual rule is the harder trap for a buyer: for goods the clock starts at tender of delivery whether or not the buyer knew of the defect, and the discovery rule applies only where the warranty explicitly extends to future performance of the goods. Note also the residual clause in K.S.A. 60-511(5) — \"An action for relief, other than the recovery of real property not provided for in this article\" — which sits in the five-year section, so a claim that is not on a written contract is not automatically a three-year claim.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 60-511",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_60_511",
+            "quote": "The following actions shall be brought within five (5) years: (1) An action upon any agreement, contract or promise in writing.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 60-511",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_60_511",
+            "quote": "An action upon the official bond or undertaking of an executor, administrator, conservator, sheriff, or any other officer, or upon the bond or undertaking given in attachment, injunction, arrest, or in any case required by statute. (5) An action for relief, other than the recovery of real property not provided for in this article.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 60-512",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_60_512",
+            "quote": "The following actions shall be brought within three (3) years: (1) All actions upon contracts, obligations or liabilities expressed or implied but not in writing. (2) An action upon a liability created by a statute other than a penalty or forfeiture.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_725",
+            "quote": "An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_725",
+            "quote": "A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach. A breach of warranty occurs when tender of delivery is made, except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 60-511, 60-512 and 84-2-725 read in full, including K.S.A. 84-2-725(3) (a six-month window after a first action is terminated other than by voluntary discontinuance or dismissal for failure to prosecute) and (4). K.S.A. 60-513 (two-year actions, including negligence and other torts) and K.S.A. 60-516 (actions originating in another state, a borrowing rule) were NOT read and could displace these periods for particular claims; they are named here and not described. NOT established: whether a Kansas court will enforce a contractual shortening of the K.S.A. 60-511 or 60-512 periods; no Kansas decision on that is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "liquidated-damages",
+    "rule_id": "ks-carrothers-prospective-analysis-is-the-sole-test",
+    "question": "Will our liquidated damages figure survive in Kansas, or be struck as a penalty?",
+    "rule": "It is judged as of the day it was agreed, not with hindsight. In Carrothers Construction Co. v. City of South Hutchinson the Supreme Court held that \"the reasonableness of a liquidated damages clause in a contract deliberately entered into should be determined with regard to the conditions of the parties existing at the time the contract was executed, not from hindsight after the contract is breached\", and said its decision was \"intended to lay aside any further doubt and embrace a prospective analysis as the sole basis for evaluating a liquidated damages provision in a contract\", overruling prior Court of Appeals decisions that had added a retrospective test. For a sale of goods the statute states the test in its own terms: damages may be liquidated only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy, and a term fixing unreasonably large liquidated damages is void as a penalty (K.S.A. 84-2-718(1)).",
+    "trap": "Because the test is prospective, the record made before signing is what saves the clause — and what sinks it. In Carrothers the engineer had itemised the owner's anticipated costs of delay before the contract was let, the parties recited that time was of the essence and that actual damages would be difficult to ascertain, and the contractor had opportunities to object during bidding and did not. Note the mismatch to watch for: the common-law test Carrothers adopted looks to conditions at execution, while K.S.A. 84-2-718(1) speaks of \"the anticipated or actual harm\" and adds the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy — so a sale-of-goods clause is measured by the statute's wording, not by Carrothers'.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "207 P.3d 231",
+        "name": "Carrothers Construction Co. v. City of South Hutchinson",
+        "court": "Kan.",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "3a88a65e105c60eb",
+            "cl_opinion_id": "2592878",
+            "quote": "In doing so, we explain below that the reasonableness of a liquidated damages clause in a contract deliberately entered into should be determined with regard to the conditions of the parties existing at the time the contract was executed, not from hindsight after the contract is breached.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "207 P.3d 231",
+        "name": "Carrothers Construction Co. v. City of South Hutchinson",
+        "court": "Kan.",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "3a88a65e105c60eb",
+            "cl_opinion_id": "2592878",
+            "quote": "To that end, our decision in this case is intended to lay aside any further doubt and embrace a prospective analysis as the sole basis for evaluating a liquidated damages provision in a contract. To the extent any prior decisions of our Court of Appeals have contributed to that doubt by adding a retrospective test in their determination of this issue, they are overruled as to this limited point.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "207 P.3d 231",
+        "name": "Carrothers Construction Co. v. City of South Hutchinson",
+        "court": "Kan.",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "3a88a65e105c60eb",
+            "cl_opinion_id": "2592878",
+            "quote": "We decline to adopt a rule that operates solely to invalidate liquidated damages clauses that were freely entered into just because damages would be applicable after occupancy.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-718",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_718",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Carrothers Construction Co. v. City of South Hutchinson, 288 Kan. 743, 207 P.3d 231 (2009), read in context; the row records no dissent. It is a municipal wastewater-treatment construction contract, and the factual points in the trap are the Court's own recitation of that record. A scan of the 22 later Kansas rows citing 207 P.3d 231 found no negative-treatment window. K.S.A. 84-2-718 read in full. NOT established: whether a Kansas court applies the prospective test to a clause in a contract governed by article 2, where the statute's own words control, and which party carries the burden of proving a penalty. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "non-competition",
+    "rule_id": "ks-weber-four-factors-and-the-50-163-nonsolicitation-presumptions",
+    "question": "Will a Kansas court enforce the non-compete in our agreement?",
+    "rule": "Yes, if it is reasonable: on a four-factor reasonableness test, and an overbroad covenant is reformed rather than struck. In Weber v. Tillman the Supreme Court set out the test: \"The analysis of whether the noncompetition clause is reasonable evaluates these factors: (1) Does the covenant protect a legitimate business interest of the employer? (2) Does the covenant create an undue burden on the employee? (3) Is the covenant injurious to the public welfare? (4) Are the time and territorial limitations contained in the covenant reasonable?\" — and said that \"only a legitimate business interest may be protected by a noncompetition covenant.\" By statute, if a covenant that is not presumed enforceable under K.S.A. 50-163(c) is determined to be overbroad or otherwise not reasonably necessary to protect a business interest of the business entity seeking enforcement, \"the court shall modify the covenant, enforce the covenant as modified and grant only the relief reasonably necessary to protect such interests\" (K.S.A. 50-163(b)).",
+    "trap": "The conclusive presumptions in K.S.A. 50-163(c) are about NON-SOLICITATION, not about non-competition. Subsections (c)(2) and (c)(3) cover an owner's covenant not to solicit the entity's employees or owners, and not to solicit its material contact customers, each presumed enforceable if it runs no more than four years after the owner's business relationship ends; subsections (c)(4) and (c)(5) cover an employee's covenant not to solicit employees or owners — presumed enforceable if it seeks to protect confidential or trade secret business information or customer or supplier relationships, goodwill or loyalty, or does not continue more than two years — and not to solicit material contact customers, presumed enforceable if limited to material contact customers and no longer than two years. Subsection (c)(7) preserves any defence available at law or in equity notwithstanding those presumptions. And the statute points the other way for the covenant itself: K.S.A. 50-163(e)(6) provides that the Kansas restraint of trade act \"shall not be construed to apply to ... any franchise agreements or covenants not to compete.\" The restraint of trade act does not reach every organisation: § 50-163(e) provides “The Kansas restraint of trade act shall not be construed to apply to:\n\n(1) Any association that complies with the provisions and application of article 16 of chapter 17 of the Kansas Statutes Annotated, and amendments thereto, the cooperative marketing act;” and goes on to exclude entities governed by the federal Capper-Volstead Act, 7 U.S.C. § 291 et seq., and corporations organised under the Kansas electric cooperative act together with their wholly owned subsidiaries. A covenant given inside one of those structures is outside the act, whatever the Weber factors would say.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "913 P.2d 84",
+        "name": "Weber v. Tillman",
+        "court": "Kan.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "e660d1c45b7909bf",
+            "cl_opinion_id": "7921594",
+            "quote": "The analysis of whether the noncompetition clause is reasonable evaluates these factors: (1) Does the covenant protect a legitimate business interest of the employer? (2) Does the covenant create an undue burden on the employee? (3) Is the covenant injurious to the public welfare? (4) Are the time and territorial limitations contained in the covenant reasonable?",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "913 P.2d 84",
+        "name": "Weber v. Tillman",
+        "court": "Kan.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "e660d1c45b7909bf",
+            "cl_opinion_id": "7921594",
+            "quote": "However, it is well settled that only a legitimate business interest may be protected by a noncompetition covenant.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-163",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_163",
+            "quote": "If a covenant that is not presumed to be enforceable pursuant to subsection (c) is determined to be overbroad or otherwise not reasonably necessary to protect a business interest of the business entity seeking enforcement of the covenant, the court shall modify the covenant, enforce the covenant as modified and grant only the relief reasonably necessary to protect such interests.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-163",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_163",
+            "quote": "A covenant in writing in which an employee agrees not to solicit, recruit, induce, persuade, encourage, direct or otherwise interfere with, directly or indirectly, a business entity's customers, including any reduction, termination, acceptance or transfer of any customer's business, in whole or in part, for the purpose of providing any product or service that is competitive with those provided by the employer shall be conclusively presumed to be enforceable and not a restraint of trade if the covenant is limited to material contact customers and the covenant is between an employer and an employee and does not continue for more than two years following the end of the employee's employment with the employer.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-163",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_163",
+            "quote": "Notwithstanding the presumption of enforceability provided in subsections (c)(2) through (c)(5), an employee or owner shall be permitted to assert any applicable defense available at law or in equity for the court's consideration in a dispute regarding a written covenant.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-163",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_163",
+            "quote": "The Kansas restraint of trade act shall not be construed to apply to:",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-163",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_163",
+            "quote": "\"Material contact customer\" means any customer or prospective customer that is solicited, produced or serviced, directly or indirectly, by the employee or owner at issue or any customer or prospective customer about whom the employee or owner, directly or indirectly, had confidential business or proprietary information or trade secrets in the course of the employee's or owner's relationship with the customer.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-163",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_163",
+            "quote": "The Kansas restraint of trade act shall not be construed to apply to:\n\n(1) Any association that complies with the provisions and application of article 16 of chapter 17 of the Kansas Statutes Annotated, and amendments thereto, the cooperative marketing act;",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Weber v. Tillman, 259 Kan. 457, 913 P.2d 84 (1996), read in context; the row records no dissent, and a scan of the 28 later Kansas rows citing 913 P.2d 84 found no negative-treatment window. Weber concerned a covenant in a dermatologist's employment agreement. K.S.A. 50-163 read in full, including subsection (a) (purpose), (b) (harmonisation with federal antitrust law), (c)(1) (a reasonable restraint of trade is not unlawful under the act), (c)(6) (notice-of-intent-to-sell provisions), (d) (what the act is not construed to prohibit), (e) (six categories the act is not construed to apply to, the sixth being franchise agreements and covenants not to compete), (f), (g) (definitions of \"employee\", \"material contact customer\" and \"owner\") and (h). Its history line reads \"L. 2013, ch. 102, § 1; L. 2025, ch. 74, § 1\". The short quote of the K.S.A. 50-163(e) lead-in is 13 words and is included so the exclusion the trap relies on is quoted rather than paraphrased; the enumerated item \"any franchise agreements or covenants not to compete\" is six words and is quoted inside the trap rather than as a separate corpus block. This row carries no applies_to tag: Weber's test is stated for an employment covenant, while K.S.A. 50-163 reaches owners and sellers of a business as well, and tagging would hide one or the other. NOT established: how K.S.A. 50-163(e)(6) interacts with the common-law reasonableness test, and whether the mandatory modification in subsection (b) applies to a covenant not to compete given subsection (e)(6); the text does not answer either question and this rule does not resolve them. This store holds no statute effective dates. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; none of the limit's most distinctive words appeared in this row. Paragraphs (2) and (3) of § 50-163(e) were read in this pass and are described rather than quoted; the list continues beyond (3) and this rule does not reproduce it."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "prompt-payment",
+    "rule_id": "ks-16-1803-thirty-days-seven-business-days-and-eighteen-percent",
+    "question": "When must we be paid on a Kansas private construction job, and how much can be retained?",
+    "rule": "Thirty days from the owner, seven business days down the chain, and interest at 18% after that. All contracts for private construction shall provide that payment of amounts due a contractor from an owner, except retainage, be made within 30 days after the owner receives a timely, properly completed, undisputed request for payment (K.S.A. 16-1803(d)); if the owner fails to pay within those 30 days, the owner shall pay interest to the contractor beginning on the thirty-first day, computed at 18% per annum on the undisputed amount (subsection (e)). A contractor shall pay its subcontractors any amounts due within seven business days of receipt of payment from the owner, including retainage if the owner has released it, where the subcontractor has provided a timely, properly completed and undisputed request for payment (subsection (f)), with interest at 18% per annum from the eighth business day if it does not (subsection (g)); subsections (f) and (g) apply to payments from subcontractors to their subcontractors (subsection (h)). Retainage shall not exceed 5% of the value of the contract or subcontract unless the owner or contractor determines a higher rate is required to ensure performance, and in no case more than 10% (K.S.A. 16-1804(a)), and an owner shall release all remaining retainage on any undisputed payment due to a contractor within 30 days after substantial completion (subsection (c)).",
+    "trap": "None of this can be drafted around — the rights and duties prescribed by the act are not waivable or varied under the terms of a contract, and any contract term waiving them is unenforceable (K.S.A. 16-1801(b)). What does limit the act is its scope: it does not apply to single family residential housing or multifamily residential housing of four units or less, does not apply to public works projects, and does not apply to contracts entered into before the act's effective date (K.S.A. 16-1807). Two further details. A pay-if-paid clause is not void, but it \"is no defense to a claim to enforce a mechanic's lien or bond\" under article 11 of chapter 60 (K.S.A. 16-1803(c)). And withholding for incomplete work is capped: an owner, contractor or subcontractor may withhold not more than 150% of the value of incomplete work that is the fault of the party below, payable within 45 days after that work is completed as part of the regular payment cycle (K.S.A. 16-1804(d)-(f)). Retainage is not locked until substantial completion, and a subcontract drafted as though it were gives away a right the Act supplies: § 16-1804(k) provides “Nothing in this section shall prevent early release of retainage if it is determined by the owner, the contractor and the project architect or engineer, that a subcontractor has completed performance satisfactorily and that the subcontractor can be released prior to substantial completion of the entire project without risk or additional cost to the owner or contractor. Once so determined, the contractor shall request such early release of retainage from the owner as necessary to enable the contractor to pay the subcontractor in full.” The determination is joint — owner, contractor and project architect or engineer — and once made the owner must release in the next contractual payment cycle.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1803",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1803",
+            "quote": "All contracts for private construction shall provide that payment of amounts due a contractor from an owner, except retainage, shall be made within 30 days after the owner receives a timely, properly completed, undisputed request for payment.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1803",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1803",
+            "quote": "If the owner fails to pay a contractor within 30 days following receipt of a timely, properly completed, undisputed request for payment, the owner shall pay interest to the contractor beginning on the thirty-first day after receipt of the request for payment, computed at the rate of 18% per annum on the undisputed amount.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1803",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1803",
+            "quote": "A contractor shall pay its subcontractors any amounts due within seven business days of receipt of payment from the owner, including payment of retainage, if retainage is released by the owner, if the subcontractor has provided a timely, properly completed and undisputed request for payment to the contractor.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1804",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1804",
+            "quote": "Retainage shall not exceed 5% of the value of the contract or subcontract unless the owner or contractor determines that a higher rate of retainage is required to ensure performance of the contract. Retainage, however, shall not exceed 10% of the value of the contract or subcontract.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1804",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1804",
+            "quote": "An owner shall release all remaining retainage on any undisputed payment due to a contractor on a construction project within 30 days after substantial completion of the project; however, if any contractor or subcontractor is still performing work on the project, an owner may withhold that portion of the retainage attributable to such work until 30 days after such work is completed.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1801",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1801",
+            "quote": "The rights and duties prescribed by this act shall not be waivable or varied under the terms of a contract. The terms of any contract waiving the rights and duties prescribed by this act shall be unenforceable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1807",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1807",
+            "quote": "The provisions of this act shall not apply to single family residential housing and multifamily residential housing of four units or less. The provisions of this act shall not apply to public works projects. The provisions of this act shall not apply to contracts entered into prior to the effective date of this act.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1804",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1804",
+            "quote": "Nothing in this section shall prevent early release of retainage if it is determined by the owner, the contractor and the project architect or engineer, that a subcontractor has completed performance satisfactorily and that the subcontractor can be released prior to substantial completion of the entire project without risk or additional cost to the owner or contractor. Once so determined, the contractor shall request such early release of retainage from the owner as necessary to enable the contractor to pay the subcontractor in full.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 16-1801, 16-1802, 16-1803, 16-1804, 16-1806 and 16-1807 read in full. K.S.A. 16-1805 (suspension of performance) was NOT read and is not relied on. Kansas has a separate public construction act, K.S.A. 16-1901 to 16-1909, which was not read; this rule is about private construction and says so. \"Substantial completion\" is defined in K.S.A. 16-1802(i) as the stage where the project or a designated portion is sufficiently complete in accordance with the contract so that portion can be used for its intended purpose. NOT established: what makes a request for payment \"properly completed\" or a claim \"disputed\" for the purposes of the act; no Kansas decision on that is cited here. This store holds no statute effective dates. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; none of the limit's most distinctive words appeared in this row.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "statute-of-frauds",
+    "rule_id": "ks-33-106-writing-requirement-and-the-goods-threshold",
+    "question": "Does this Kansas agreement have to be in writing?",
+    "rule": "For the listed categories, yes. No action shall be brought to charge a party upon any special promise to answer for the debt, default or miscarriage of another person; to charge an executor or administrator upon a special promise to answer damages out of his own estate; to charge any person upon an agreement made upon consideration of marriage; upon any contract for the sale of lands, tenements or hereditaments, or any interest in or concerning them; or upon any agreement that is not to be performed within the space of one year from the making of it, unless the agreement, or some memorandum or note of it, is in writing and signed by the party to be charged or by some other person lawfully authorized by him or her in writing (K.S.A. 33-106). Leases, estates or interests of, in or out of lands exceeding one year in duration must be assigned or granted by deed or note in writing signed by the assigning or granting party or their agent authorized in writing, or by act and operation of law (K.S.A. 33-105). For a sale of goods of $500 or more, the contract is not enforceable by way of action or defense unless there is some writing sufficient to indicate a contract for sale has been made and signed by the party against whom enforcement is sought, and it is not enforceable beyond the quantity of goods shown in that writing (K.S.A. 84-2-201(1)).",
+    "trap": "Two things the drafter should not assume. K.S.A. 33-106 requires that the agent's authority itself be in writing — \"or some other person thereunto by him or her lawfully authorized in writing\" — so an oral authorisation to sign a land contract or a suretyship undertaking does not satisfy the section. And the quantity term in a sale-of-goods writing is a ceiling: under K.S.A. 84-2-201(1) the writing is not insufficient because it omits or misstates a term agreed upon, but the contract is not enforceable beyond the quantity shown. The article 2 exceptions in subsection (3) are narrow and specific: specially manufactured goods on which the seller has substantially begun manufacture or made commitments for procurement; an admission in the pleading, testimony or otherwise in court by the party against whom enforcement is sought, and then only up to the quantity admitted; and goods for which payment has been made and accepted or which have been received and accepted.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 33-106",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_33_106",
+            "quote": "No action shall be brought whereby to charge a party upon any special promise to answer for the debt, default or miscarriage of another person; or to charge any executor or administrator upon any special promise to answer damages out of his own estate; or to charge any person upon any agreement made upon consideration of marriage; or upon any contract for the sale of lands, tenements, or hereditaments, or any interest in or concerning them; or upon any agreement that is not to be performed within the space of one year from the making thereof, unless the agreement upon which such action shall be brought, or some memorandum or note thereof, shall be in writing and signed by the party to be charged therewith, or some other person thereunto by him or her lawfully authorized in writing.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 33-105",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_33_105",
+            "quote": "No leases, estates or interests of, in or out of lands, exceeding one year in duration, shall at any time hereafter be assigned or granted, unless it be by deed or note, in writing, signed by the party so assigning or granting the same, or their agents thereunto lawfully authorized by writing, or by act and operation of law.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_201",
+            "quote": "Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by his authorized agent or broker. A writing is not insufficient because it omits or incorrectly states a term agreed upon but the contract is not enforceable under this paragraph beyond the quantity of goods shown in such writing.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_201",
+            "quote": "Between merchants if within a reasonable time a writing in confirmation of the contract and sufficient against the sender is received and the party receiving it has reason to know its contents, it satisfies the requirements of subsection (1) against such party unless written notice of objection to its contents is given within ten days after it is received.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 33-105, 33-106 and 84-2-201 read in full, including the three article 2 exceptions in K.S.A. 84-2-201(3). K.S.A. 33-101 to 33-104 were listed but not relied on. NOT established: Kansas's part-performance doctrine for land contracts and whether promissory estoppel takes a case out of K.S.A. 33-106 — the sections read state no exception of either kind, and no Kansas decision on either is cited here, so this rule does not say that a Kansas court would or would not recognise one. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "ks-60-3320-definition-and-the-60-3326-displacement-with-a-contract-carve-out",
+    "question": "Will our Kansas confidentiality clause protect this information as a trade secret?",
+    "rule": "Only if the information meets the act's definition — but the contract claim survives either way. A trade secret is information, including a formula, pattern, compilation, program, device, method, technique or process, that derives independent economic value, actual or potential, from not being generally known to and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use, and is the subject of efforts that are reasonable under the circumstances to maintain its secrecy (K.S.A. 60-3320(4)). Misappropriation includes disclosure or use of a trade secret without consent by a person who at the time knew or had reason to know that his knowledge of it was acquired under circumstances giving rise to a duty to maintain its secrecy or limit its use (K.S.A. 60-3320(2)) — the branch a confidentiality agreement supplies. An action for misappropriation must be brought within three years after the misappropriation is discovered or by the exercise of reasonable diligence should have been discovered, and a continuing misappropriation is a single claim (K.S.A. 60-3325).",
+    "trap": "Kansas has the displacement section that several states left out, and it has an express contract carve-out. K.S.A. 60-3326(a) provides that, except as subsection (b) says, the act \"displaces conflicting tort, restitutionary and other law of this state providing civil remedies for misappropriation of a trade secret\"; subsection (b) then preserves \"Contractual remedies, whether or not based upon misappropriation of a trade secret\", other civil remedies not based on misappropriation, and criminal remedies. So a well-drafted confidentiality covenant is not swept away by the act — and it is often the surer claim, because it does not require the information to satisfy the statutory definition. Note too that reasonable efforts to maintain secrecy are part of that definition, so information the business does not actually guard is not a trade secret whatever the agreement calls it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 60-3320",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_60_3320",
+            "quote": "\"Trade secret\" means information, including a formula, pattern, compilation, program, device, method, technique, or process, that: (i) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use, and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 60-3320",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_60_3320",
+            "quote": "\"Improper means\" includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 60-3325",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_60_3325",
+            "quote": "An action for misappropriation must be brought within three years after the misappropriation is discovered or by the exercise of reasonable diligence should have been discovered. For the purposes of this section, a continuing misappropriation constitutes a single claim.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 60-3326",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_60_3326",
+            "quote": "Except as provided in subsection (b), this act displaces conflicting tort, restitutionary and other law of this state providing civil remedies for misappropriation of a trade secret. (b) This act does not affect: (1) Contractual remedies, whether or not based upon misappropriation of a trade secret; (2) other civil remedies that are not based upon misappropriation of a trade secret; or (3) criminal remedies, whether or not based upon misappropriation of a trade secret.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 60-3320, 60-3325, 60-3326 and 60-3327 (uniformity of construction) read in full. K.S.A. 60-3321 (injunctive relief), 60-3322 (damages), 60-3323 (attorney fees on bad faith or wilful and malicious misappropriation) and 60-3324 (preservation of secrecy during an action) were located but are not relied on here. The misappropriation branch stated in the rule is K.S.A. 60-3320(2)(ii)(B)(II) in the published numbering; the quoted definition block is subsection (4). NOT established: whether a Kansas court will hold a particular tort claim displaced by K.S.A. 60-3326(a), and whether a confidentiality covenant of unlimited duration over information that is not a trade secret is enforceable — the non-competition rule's authorities do not answer that, and no Kansas decision on it is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "unconscionability",
+    "rule_id": "ks-84-2-302-and-the-50-627-consumer-factor-list",
+    "question": "Can the other side get out of this clause as unconscionable in Kansas?",
+    "rule": "Under UCC article 2, if the court as a matter of law finds the contract or any clause of it to have been unconscionable at the time it was made, it may refuse to enforce the contract, enforce the remainder without the unconscionable clause, or so limit the application of the clause as to avoid any unconscionable result; and when unconscionability is claimed or appears, the parties must be afforded a reasonable opportunity to present evidence as to the clause's commercial setting, purpose and effect (K.S.A. 84-2-302). In a consumer transaction the Kansas consumer protection act adds a separate and broader prohibition: no supplier shall engage in any unconscionable act or practice in connection with a consumer transaction, and such an act violates the act whether it occurs before, during or after the transaction; the unconscionability of an act or practice is a question for the court, which shall consider circumstances of which the supplier knew or had reason to know, including those listed in K.S.A. 50-627(b)(1)-(7).",
+    "trap": "The two tests do different work. K.S.A. 84-2-302 is measured at the time the contract was made and gives both sides a right to put in evidence about commercial setting, purpose and effect, which makes it a poor issue to resolve on the papers. K.S.A. 50-627 is not limited to the moment of contracting — it reaches acts before, during or after the transaction — and its listed circumstances include taking advantage of a consumer's inability to protect their interests, a price grossly exceeding the price at which similar property or services were readily obtainable in similar transactions by similar consumers, the consumer's inability to receive a material benefit, no reasonable probability of payment in full, a transaction excessively one-sided in favour of the supplier, a misleading statement of opinion likely to be relied on, and, except as K.S.A. 50-639 provides, an attempt to exclude, modify or limit the implied warranties or any remedy for their breach.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_302",
+            "quote": "When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-627",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_627",
+            "quote": "No supplier shall engage in any unconscionable act or practice in connection with a consumer transaction. An unconscionable act or practice violates this act whether it occurs before, during or after the transaction.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-627",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_627",
+            "quote": "The unconscionability of an act or practice is a question for the court. In determining whether an act or practice is unconscionable, the court shall consider circumstances of which the supplier knew or had reason to know, such as, but not limited to the following that:",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-627",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_627",
+            "quote": "when the consumer transaction was entered into, the price grossly exceeded the price at which similar property or services were readily obtainable in similar transactions by similar consumers;",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 84-2-302 and 50-627 read in full. This row carries no applies_to tag because it states two rules with different reaches: the article 2 section, and the consumer act section which by its own words applies to a consumer transaction. The Kansas uniform consumer credit code has its own unconscionability sections (K.S.A. 16a-4-106, 16a-5-108, 16a-6-111) which were located but NOT read and are not relied on. NOT established: whether Kansas requires both procedural and substantive unconscionability under K.S.A. 84-2-302, and what weight the K.S.A. 50-627(b) circumstances carry; no Kansas decision on either is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "usury",
+    "rule_id": "ks-16-207-fifteen-percent-cap-with-a-business-and-agricultural-exclusion",
+    "question": "Is the interest rate in our Kansas contract lawful?",
+    "rule": "Fifteen percent is the general contract ceiling, and most commercial loans are outside it. Subject to the rest of the section, the parties to any bond, bill, promissory note or other instrument of writing for the payment or forbearance of money may stipulate for interest at a rate not to exceed 15% per annum unless otherwise specifically authorized by law (K.S.A. 16-207(a)). Where no other rate of interest is agreed upon, creditors are allowed 10% per annum for money after it becomes due and for the other cases the section lists (K.S.A. 16-201(a)). Contracting for a greater rate than K.S.A. 16-207 authorizes costs the lender the excess twice over: the lender forfeits all interest contracted for in excess of the authorized amount and, in addition, forfeits a sum equal to that excess, to be deducted from the amount due for principal and lawful interest, which may be set up as a defense or counterclaim, and the borrower also recovers a reasonable attorney fee (K.S.A. 16-207(d)).",
+    "trap": "Subsection (a) does not apply to five classes, and the fifth swallows most commercial lending: a covered transaction under the Kansas mortgage business act; a consumer credit transaction under the uniform consumer credit code; loans by a qualified plan to a participant or a member of the participant's family; a note secured by a real estate mortgage or a contract for deed that permits adjustment of the interest rate, the term or the amortization schedule; or \"a business or agricultural transaction\", which the section defines as a loan, including a note secured by a contract for deed to real estate or a credit sale, made primarily for purposes other than personal, family or household purposes (K.S.A. 16-207(e)). Two entity statutes go further and take the defence away altogether: no corporation shall plead any statute against usury in any suit to enforce payment of any bond, note or other evidence of indebtedness issued or assumed by it (K.S.A. 17-7105), and no obligation of a member or manager of a limited liability company arising under the operating agreement or a separate agreement is subject to the defence of usury (K.S.A. 17-76,103).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-207",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_207",
+            "quote": "Subject to the following provision, the parties to any bond, bill, promissory note or other instrument of writing for the payment or forbearance of money may stipulate therein for interest receivable upon the amount of such bond, bill, note or other instrument of writing, at a rate not to exceed 15% per annum unless otherwise specifically authorized by law.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-207",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_207",
+            "quote": "Any person so contracting for a greater rate of interest than that authorized by this section shall forfeit all interest so contracted for in excess of the amount authorized under this section; and in addition thereto shall forfeit a sum of money, to be deducted from the amount due for principal and lawful interest, equal to the amount of interest contracted for in excess of the amount authorized by this section and such amounts may be set up as a defense or counterclaim in any action to enforce the collection of such obligation and the borrower shall also recover a reasonable attorney fee.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-207",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_207",
+            "quote": "a business or agricultural transaction. For the purpose of this section, a \"business or agricultural transaction\" means a loan, including a note secured by a contract for deed to real estate or a credit sale, which is made primarily for purposes other than personal, family or household purposes.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_201",
+            "quote": "Except as provided in subsection (b), creditors shall be allowed to receive interest at the rate of 10% per annum when no other rate of interest is agreed upon, for any money after it becomes due; for money lent or money due on settlement of account, from the day of liquidating the account and ascertaining the balance;",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 17-7105",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_17_7105",
+            "quote": "No corporation shall plead any statute against usury in any court in any suit instituted to enforce the payment of any bond, note or other evidence of indebtedness issued or assumed by it.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 17-76,103",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_17_76_103",
+            "quote": "No obligation of a member or manager of a limited liability company to the limited liability company, or to a member or manager of the limited liability company, arising under the operating agreement or a separate agreement or writing, and no note, instrument or other writing evidencing any such obligation of a member or manager, shall be subject to the defense of usury, and no member or manager shall interpose the defense of usury with respect to any such obligation in any action.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 16-201, 16-207, 17-7105 and 17-76,103 read in full. K.S.A. 16-207(b) (no prepayment penalty on a home loan more than six months after execution), (c) (recording fees and reasonable closing expenses the lender may collect) and (f) (subsections (b), (c) and (d) do not apply to Kansas mortgage business act or UCCC transactions) were read and are not all stated in the rule. K.S.A. 16-205 (contract rates continue until payment in full; excess rates and charges void), 16-207a (state override of federal preemption), 16-207b and 16-207d were located but NOT read and are not relied on. K.S.A. 16-207's history line ends \"L. 2024, ch. 6, § 26; January 1, 2025\". NOT established: federal preemption of the Kansas ceiling, and the rate rules of the Kansas mortgage business act and the uniform consumer credit code, which the section defers to. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "venue-selection",
+    "rule_id": "ks-forum-clauses-enforced-but-read-for-mandatory-language",
+    "question": "Will a Kansas court honour our clause sending disputes to another state's courts?",
+    "rule": "Yes, where the clause is fair and its words are mandatory. In Vanier v. Ponsoldt the Supreme Court enforced a clause designating the seller's county: \"We find the forum-selection clause fair and reasonable. The forum selected is the home of one of the parties to the contract and, thus, has a reasonable relationship to the transaction. We hold Ponsoldt voluntarily consented to personal jurisdiction in Saline County, Kansas, by entering into the installment purchase and security agreement with Vanier.\" The wording then decides whether the clause is exclusive. In Thompson v. Founders Group International, Inc. the Court of Appeals held a clause saying that any action brought pursuant to the agreement \"shall properly lie\" in two named Florida courts to be permissive: \"When the language used in the present clause is given its plain meaning, the clause is permissive and does not prevent Thompson from bringing this action in Kansas. This interpretation does not render the clause meaningless.\"",
+    "trap": "Drafting is the whole battle. A clause that merely says an action may be brought, or would properly lie, in the chosen court gives that court jurisdiction without taking it away anywhere else; the Vanier clause that was enforced said venue \"shall lie only\" in the seller's state and county. For four kinds of contract, however, no clause works at all: K.S.A. 16-121(e) provides that notwithstanding any contractual provision to the contrary, any litigation, arbitration or other dispute resolution proceeding arising from a contract to be performed in Kansas shall be conducted in Kansas, and a conflicting provision is void and unenforceable — \"contract\" there being any construction contract, motor carrier transportation contract, dealer agreement or franchise agreement. And for a claim under the private construction act, K.S.A. 16-1806 fixes venue in the county where the real property is located and requires an arbitration hearing to be held there too.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "833 P.2d 949",
+        "name": "Vanier v. Ponsoldt",
+        "court": "Kan.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "a269a3e299d34b75",
+            "cl_opinion_id": "2607395",
+            "quote": "We find the forum-selection clause fair and reasonable. The forum selected is the home of one of the parties to the contract and, thus, has a reasonable relationship to the transaction. We hold Ponsoldt voluntarily consented to personal jurisdiction in Saline County, Kansas, by entering into the installment purchase and security agreement with Vanier.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "886 P.2d 904",
+        "name": "Thompson v. Founders Group International, Inc.",
+        "court": "Kan. Ct. App.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ks",
+            "row_id": "7d884d6aeda35567",
+            "cl_opinion_id": "1394187",
+            "quote": "When the language used in the present clause is given its plain meaning, the clause is permissive and does not prevent Thompson from bringing this action in Kansas. This interpretation does not render the clause meaningless. As in Utah Pizza Service, the clause secures the franchiser’s right to sue the franchisees in the franchiser’s forum of choice.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-121",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_121",
+            "quote": "Any litigation, arbitration or other dispute resolution proceeding arising from such contract shall be conducted in this state. Any provision, covenant or clause in such contract that conflicts with the provisions of this subsection shall be void and unenforceable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 16-1806",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_16_1806",
+            "quote": "Venue of such an action shall be in the county where the real property is located. The hearing in such an arbitration shall be held in the county where the real property is located.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Vanier v. Ponsoldt, 251 Kan. 88, 833 P.2d 949 (1992), read in context; the row records no dissent, and a scan of the 18 later Kansas rows citing 833 P.2d 949 produced one negative-word window, read and found to be a later court applying Vanier's ratification holding. The Vanier clause read, in the Court's quotation, \"At the option of Seller, jurisdiction and venue for any dispute arising under or in relation to this contract shall he only in the Seller's state and county\"; the published text carries a transcription artefact in that sentence, which is why it is described rather than quoted. Thompson v. Founders Group International, Inc., 20 Kan. App. 2d 261, 886 P.2d 904 (1994), is a KANSAS COURT OF APPEALS decision, not a Supreme Court decision, and is cited as such; the row records no dissent and no later negative treatment was found in 4 citing rows. K.S.A. 16-121 and 16-1806 read in full. Both Vanier and Thompson concerned clauses selecting a forum; neither decides whether a Kansas court will decline jurisdiction in favour of an out-of-state forum on forum non conveniens grounds, and this rule does not say. K.S.A. 60-5105 (choice of jurisdiction and forum non conveniens under the Kansas foreign-law act) was located but NOT read. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ks",
+    "clause": "warranty-disclaimer",
+    "rule_id": "ks-84-2-316-conspicuous-disclaimer-and-the-50-639-consumer-bar",
+    "question": "Is our 'AS IS, no warranties' language good in Kansas?",
+    "rule": "In a commercial sale, on the article 2 terms; in a consumer transaction, no. Under K.S.A. 84-2-316(2), and \"Subject to subsection (3)\", excluding or modifying the implied warranty of merchantability requires language that mentions merchantability and, in a writing, must be conspicuous, while excluding or modifying an implied warranty of fitness must be by a writing and conspicuous. Notwithstanding subsection (2), unless the circumstances indicate otherwise all implied warranties are excluded by expressions like \"as is,\" \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion and makes plain that there is no implied warranty; there is no implied warranty as to defects an examination ought to have revealed where the buyer examined or refused to examine the goods; and an implied warranty can be excluded or modified by course of dealing, course of performance or usage of trade (subsection (3)(a)-(c)). But with respect to property that is or is intended to become the subject of a consumer transaction in Kansas, no supplier shall exclude, modify or otherwise attempt to limit the implied warranties of merchantability and fitness for a particular purpose, and a disclaimer in violation of that section is void (K.S.A. 50-639(a)(1), (e)).",
+    "trap": "Kansas writes in two exclusions other states' article 2 does not. K.S.A. 84-2-316(3)(d) provides that with respect to the sale of livestock, other than for immediate slaughter, there shall be no implied warranties, except where the seller knowingly sells diseased livestock. And on the consumer side, K.S.A. 50-639 does not apply to seed for planting (subsection (g)), to sales of livestock for agricultural purposes other than for immediate slaughter except where the supplier knowingly sells diseased livestock (subsection (h)), or to a governmental entity's disposal of surplus property where conspicuous written notice of the limitation is given (subsection (i)). Two further points inside K.S.A. 50-639: a supplier may limit the implied warranties as to a specific defect only if it establishes that the consumer knew of the defect and that knowledge became the basis of the bargain, and never as to liability for personal injury or property damage (subsection (c)); and making a limited express warranty is not itself a violation (subsection (f)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_316",
+            "quote": "Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that \"There are no warranties which extend beyond the description on the face hereof.\"",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_316",
+            "quote": "unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is,\" \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty; and",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_316",
+            "quote": "with respect to the sale of livestock, other than the sale of livestock for immediate slaughter, there shall be no implied warranties, except that the provisions of this paragraph shall not apply in any case where the seller knowingly sells livestock which is diseased.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 84-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_84_2_316",
+            "quote": "Words or conduct relevant to the creation of an express warranty and words or conduct tending to negate or limit warranty shall be construed wherever reasonable as consistent with each other; but subject to the provisions of this article on parol or extrinsic evidence (K.S.A. 84-2-202) negation or limitation is inoperative to the extent that such construction is unreasonable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-639",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_639",
+            "quote": "A supplier may limit the supplier's implied warranty of merchantability and fitness for a particular purpose with respect to a defect or defects in the property only if the supplier establishes that the consumer had knowledge of the defect or defects, which became the basis of the bargain between the parties. In neither case shall such limitation apply to liability for personal injury or property damage.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "K.S.A. 50-639",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "KSA_50_639",
+            "quote": "This section shall not apply to sales of livestock for agricultural purposes, other than sales of livestock for immediate slaughter, except in cases where the supplier knowingly sells livestock which is diseased.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "K.S.A. 84-2-316 and 50-639 read in full. \"Conspicuous\" is defined in the Kansas UCC's general definitions, which were NOT read, so this rule uses the statute's word without defining it. This row carries no applies_to tag: article 2's reach over a mixed goods-and-services transaction is not settled by these sections, and the K.S.A. 50-639 part of the rule states its own consumer-transaction limit in terms. NOT established: how Kansas courts apply the conspicuousness requirement in practice, whether a disclaimer delivered after the sale is effective, and the interaction with the federal Magnuson-Moss Warranty Act; no authority on those points is cited here. This store holds no statute effective dates."
+  }
+]

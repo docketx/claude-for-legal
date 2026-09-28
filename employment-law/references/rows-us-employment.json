@@ -1,0 +1,358 @@
+[
+ {
+  "jurisdiction": "us",
+  "clause": "family-medical-leave",
+  "rule_id": "us-fmla-twelve-workweeks-is-the-entitlement-and-the-number-was-the-compromise",
+  "question": "How much FMLA leave am I actually entitled to?",
+  "rule": "Twelve workweeks in a twelve-month period, and this is now the statute's own words rather than a court's description of them. 29 U.S.C. § 2612(a)(1): “Subject to section 2613 of this title and subsection (d)(3), an eligible employee shall be entitled to a total of 12 workweeks of leave during any 12-month period for one or more of the following:” The list that follows covers birth, placement for adoption or foster care, care for a spouse, son, daughter or parent with a serious health condition, and the employee's own serious health condition. Leave under the Act is unpaid, and the entitlement is a ceiling as well as a floor: the Supreme Court in Ragsdale v. Wolverine World Wide called it the Act's most fundamental substantive guarantee and held that an employer which had already given thirty weeks owed no more. Who is an ‘eligible employee’ is defined in § 2611(2)(A): “The term “eligible employee” means an employee who has been employed—\n(i) for at least 12 months by the employer with respect to whom leave is requested under section 2612 of this title; and\n(ii) for at least 1,250 hours of service with such employer during the previous 12-month period.”",
+  "trap": "People read the twelve weeks as a minimum the employer must add to whatever leave it already gave. Ragsdale is the case that says otherwise: the employee there received 30 weeks of leave, more than twice the Act requires, and still argued she was owed 12 more because of a notice failure. She lost. If your employer's own policy is more generous than the Act, the extra weeks can be counted against the twelve, and the fight is about whether the leave was properly designated, not about whether you got enough of it.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2612",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2612",
+      "quote": "Subject to section 2613 of this title and subsection (d)(3), an eligible employee shall be entitled to a total of 12 workweeks of leave during any 12-month period for one or more of the following:",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "case",
+    "cite": "535 U.S. 81",
+    "name": "Ragsdale v. Wolverine World Wide, Inc.",
+    "court": "U.S.",
+    "decided": "2002",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-caselaw-scotus",
+      "row_id": "204973538c57877e",
+      "cl_opinion_id": "118488",
+      "quote": "the employee's entitlement to \"a total of 12 workweeks of leave during any 12-month period.\" § 2612(a)(1).",
+      "checked": "2026-09-25"
+     }
+    },
+    "note": "quoted for the statutory entitlement it sets out, 29 U.S.C. § 2612(a)(1)"
+   },
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2611",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2611",
+      "quote": "The term “eligible employee” means an employee who has been employed—\n(i) for at least 12 months by the employer with respect to whom leave is requested under section 2612 of this title; and\n(ii) for at least 1,250 hours of service with such employer during the previous 12-month period.",
+      "checked": "2026-09-25"
+     }
+    },
+    "note": "the eligibility threshold this rule previously recorded as not established"
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The FMLA's own text (29 U.S.C. § 2601 et seq.) is NOT in our published corpus: the statutes we publish are state codes, and the federal tier we hold is Supreme Court opinions. Every statutory phrase quoted here is therefore quoted THROUGH an opinion that sets it out, and the citation names both. That is a real limit, not a stylistic choice: we can prove what the Court said the statute says, and we cannot independently show you the section. NOT ESTABLISHED HERE: who is an eligible employee (the 12-month / 1,250-hour / 50-employee thresholds), which family relationships and conditions qualify, the certification rules, and every question about intermittent leave. Those live in parts of the Act and in 29 C.F.R. Part 825 that this corpus does not hold, and nothing above should be read as covering them. One wording note, because this store quotes verbatim or not at all: the Court's phrase 'most fundamental substantive guarantee' is NOT inside the verified block above and is therefore not presented as a quotation. It sits immediately before the quoted words in the same sentence, and our copy of the opinion runs the two together without the dash (the row reads 'guaranteethe employee's entitlement'), so a block spanning both would carry that artifact into the pack. MAJOR CORRECTION 2026-09-25: this row previously said the FMLA's text was not in our corpus and quoted the entitlement THROUGH Ragsdale. That was wrong about our own holdings. docketx/us-statutes publishes data/us/statutes.jsonl.gz, 60,433 sections of the United States Code at release point Public Law 119-103, and it had simply never been built into the local lookup index, so every check came back empty and the absence was read as a gap in the corpus. The shard is built now. § 2612(a)(1) and § 2611(2)(A) are quoted directly, and the eligibility thresholds this row listed as NOT ESTABLISHED are established. Still not established here: which conditions qualify as serious health conditions, certification under § 2613, and intermittent leave under § 2612(b)."
+ },
+ {
+  "jurisdiction": "us",
+  "clause": "family-medical-leave",
+  "rule_id": "us-fmla-a-notice-failure-alone-does-not-buy-twelve-more-weeks",
+  "question": "My employer never told me my time off counted as FMLA leave. Do I get another twelve weeks?",
+  "rule": "Not by itself. A Department of Labor regulation once said exactly that — that leave not designated as FMLA leave does not count against the entitlement — and the Supreme Court struck it down. We hold that the regulation is contrary to the Act and beyond the Secretary of Labor's authority. Ragsdale was entitled to no more leave, and Wolverine was entitled to summary judgment. The Court's reason was about who has to prove what: The challenged regulation is invalid because it alters the FMLA's cause of action in a fundamental way: It relieves employees of the burden of proving any real impairment of their rights and resulting prejudice.",
+  "trap": "The trap is treating the employer's paperwork failure as the violation. Under Ragsdale it is not: you still have to show the failure actually cost you something — that you would have arranged your leave differently, or taken it at another time, or otherwise been left worse off. An employer that handled the notice badly but gave you every week you were entitled to has, on these facts, given you your remedy already. Bring the prejudice, not just the missing form.",
+  "authority": [
+   {
+    "kind": "case",
+    "cite": "535 U.S. 81",
+    "name": "Ragsdale v. Wolverine World Wide, Inc.",
+    "court": "U.S.",
+    "decided": "2002",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-caselaw-scotus",
+      "row_id": "204973538c57877e",
+      "cl_opinion_id": "118488",
+      "quote": "We hold that the regulation is contrary to the Act and beyond the Secretary of Labor's authority. Ragsdale was entitled to no more leave, and Wolverine was entitled to summary judgment.",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "case",
+    "cite": "535 U.S. 81",
+    "name": "Ragsdale v. Wolverine World Wide, Inc.",
+    "court": "U.S.",
+    "decided": "2002",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-caselaw-scotus",
+      "row_id": "204973538c57877e",
+      "cl_opinion_id": "118488",
+      "quote": "The challenged regulation is invalid because it alters the FMLA's cause of action in a fundamental way: It relieves employees of the burden of proving any real impairment of their rights and resulting prejudice.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The FMLA's own text (29 U.S.C. § 2601 et seq.) is NOT in our published corpus: the statutes we publish are state codes, and the federal tier we hold is Supreme Court opinions. Every statutory phrase quoted here is therefore quoted THROUGH an opinion that sets it out, and the citation names both. That is a real limit, not a stylistic choice: we can prove what the Court said the statute says, and we cannot independently show you the section. Ragsdale invalidated 29 C.F.R. § 825.700 as it then stood. This rule does NOT establish what the current regulation says, because we do not hold the Code of Federal Regulations; it establishes only that a categorical penalty of the kind that regulation imposed is contrary to the Act. Whether any particular later version of the notice rules survives is not answered here."
+ },
+ {
+  "jurisdiction": "us",
+  "clause": "family-medical-leave",
+  "rule_id": "us-fmla-suing-a-state-employer-family-care-yes-self-care-no",
+  "question": "I work for the state. Can I actually sue my employer for money under the FMLA?",
+  "rule": "It depends which kind of leave. For family-care leave — caring for a spouse, child or parent — the Supreme Court held in Nevada Department of Human Resources v. Hibbs that Congress validly removed the States' immunity: We hold that employees of the State of Nevada may recover money damages in the event of the State's failure to comply with the family-care provision of the Act. For self-care leave — your own serious health condition — the Court held the opposite in Coleman v. Court of Appeals of Maryland: But the provision, standing\n    alone, is not a valid abrogation of the States’ immunity from suit.",
+  "trap": "This split catches people who read one case and stop. Two employees at the same state agency, both denied FMLA leave, can have completely different remedies: the one who took leave to care for a parent may sue the State for damages, and the one who took leave for their own illness may not. Note also what this is NOT about. It is about suing a STATE employer for money. It says nothing about private employers, where sovereign immunity is not in the picture at all, and a reader who concludes that self-care leave is unprotected generally has misread it.",
+  "authority": [
+   {
+    "kind": "case",
+    "cite": "538 U.S. 721",
+    "name": "Nevada Dept. of Human Resources v. Hibbs",
+    "court": "U.S.",
+    "decided": "2003",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-caselaw-scotus",
+      "row_id": "d748d8c111e3da7d",
+      "cl_opinion_id": "127926",
+      "quote": "We hold that employees of the State of Nevada may recover money damages in the event of the State's failure to comply with the family-care provision of the Act.",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "case",
+    "cite": "566 U.S. 30",
+    "name": "Coleman v. Court of Appeals of Maryland",
+    "court": "U.S.",
+    "decided": "2012",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-caselaw-scotus",
+      "row_id": "2733fa7cf1628b24",
+      "cl_opinion_id": "625722",
+      "quote": "But the provision, standing\n    alone, is not a valid abrogation of the States’ immunity from suit.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The FMLA's own text (29 U.S.C. § 2601 et seq.) is NOT in our published corpus: the statutes we publish are state codes, and the federal tier we hold is Supreme Court opinions. Every statutory phrase quoted here is therefore quoted THROUGH an opinion that sets it out, and the citation names both. That is a real limit, not a stylistic choice: we can prove what the Court said the statute says, and we cannot independently show you the section. The Coleman quote is from the syllabus paragraph summarising the plurality's reasoning; the row we hold is hard-wrapped, so the quote spans a line break. NOT ESTABLISHED HERE: whether a particular employer is an arm of the State, what relief other than money damages remains available against a State, and whether an individual supervisor can be liable."
+ },
+ {
+  "jurisdiction": "us",
+  "clause": "charge-filing-deadline",
+  "rule_id": "us-title-vii-180-days-or-300-in-a-deferral-state-and-the-clock-starts-at-the-decision",
+  "question": "How long do I have to file a discrimination charge, and when does the clock start?",
+  "rule": "Title VII requires a charge with the EEOC before a lawsuit, and the period is short. 42 U.S.C. § 2000e–5(e)(1): “A charge under this section shall be filed within one hundred and eighty days after the alleged unlawful employment practice occurred” The same subsection sets a longer period where a state or local fair-employment agency exists, which Mohasco Corp. v. Silver quotes as “such charge shall be filed by or on behalf of the person aggrieved within three hundred days after the alleged unlawful employment practice occurred,” with a further limb tying it to the end of the state proceeding.",
+  "trap": "The clock starts when you are TOLD, not when it hurts. Ricks is the case: a professor was notified he would get a terminal one-year contract, worked that year, and filed after his employment actually ended. Too late — the limitations period ran from the notice of the decision, not from the day the consequences arrived. If you have been told your job ends on a future date, assume the clock is already running today.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "42 U.S.C. § 2000e–5",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_42_2000e_5",
+      "quote": "A charge under this section shall be filed within one hundred and eighty days after the alleged unlawful employment practice occurred",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "case",
+    "cite": "449 U.S. 250",
+    "name": "Delaware State College v. Ricks",
+    "court": "U.S.",
+    "decided": "1980",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-caselaw-scotus",
+      "row_id": "e9b21c7d8de95a8c",
+      "cl_opinion_id": "9428115",
+      "quote": "Title VII requires aggrieved persons to file a complaint with the EEOC “within one hundred and eighty days after the alleged unlawful employment practice occurred.” 42 U. S. C. § 2000e-5 (e).",
+      "checked": "2026-09-25"
+     }
+    },
+    "note": "quoted for the statutory period it sets out, 42 U.S.C. § 2000e-5(e)"
+   },
+   {
+    "kind": "case",
+    "cite": "447 U.S. 807",
+    "name": "Mohasco Corp. v. Silver",
+    "court": "U.S.",
+    "decided": "1980",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-caselaw-scotus",
+      "row_id": "c5cea4825db9d979",
+      "cl_opinion_id": "9428023",
+      "quote": "such charge shall be filed by or on behalf of the person aggrieved within three hundred days after the alleged unlawful employment practice occurred,",
+      "checked": "2026-09-25"
+     }
+    },
+    "note": "quoted for the deferral-state exception in the same section"
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The FMLA's own text (29 U.S.C. § 2601 et seq.) is NOT in our published corpus: the statutes we publish are state codes, and the federal tier we hold is Supreme Court opinions. Every statutory phrase quoted here is therefore quoted THROUGH an opinion that sets it out, and the citation names both. That is a real limit, not a stylistic choice: we can prove what the Court said the statute says, and we cannot independently show you the section. Both opinions construe the statute as it stood when they were decided (1980). NOT ESTABLISHED HERE, and each of these can change the answer completely: which states are deferral states today, how the period runs for a hostile-environment claim made of many acts rather than one, how pay-discrimination claims accrue, the separate and different deadlines under the ADA, the ADEA, the FMLA and 42 U.S.C. § 1981, and the deadline to sue after a right-to-sue letter. A corpus that holds 1980 opinions is not a substitute for the current statute, and on a deadline that is the difference between a claim and nothing. TREAT EVERY DATE HERE AS A REASON TO ASK A LAWYER TODAY, NOT AS A DEADLINE YOU CAN RELY ON. The thirty-day limb of the same sentence is described rather than quoted because the verified block stops at 'occurred,'; quoting past the block would be the defect this store exists to prevent. What that limb requires, and which of the two periods governs in a given case, is NOT established here. MAJOR CORRECTION 2026-09-25: the 180-day period is now quoted from the STATUTE rather than from a 1980 opinion describing it, because the United States Code turned out to be published and merely unindexed locally. The Ricks and Mohasco blocks are kept: Ricks is retained for the accrual rule in the trap, which is a holding rather than statutory text, and Mohasco for the deferral-state limb. The caution below still stands, because a current section number is not a current answer about which agencies exist or how a particular claim accrues."
+ },
+ {
+  "jurisdiction": "us",
+  "clause": "non-competition",
+  "rule_id": "us-noncompete-no-verified-federal-rule",
+  "question": "Is there a federal law about non-competes?",
+  "rule": "We hold no verified federal authority on non-compete agreements. This is a finding about our corpus, not about the world: the federal tier we publish is Supreme Court opinions, and none of the opinions we hold states a general federal rule on the enforceability of a non-compete. Rules affecting non-competes have come from agencies rather than from the Court, and we do not hold the Code of Federal Regulations.",
+  "trap": "Do not read the silence as “non-competes are fine federally”. Read it as: ask about your STATE, which is where the answer has historically lived, and this pack holds a verified Washington rule.",
+  "authority": [],
+  "as_of": "2026-09-25",
+  "status": "no-verified-authority",
+  "notes": "Recorded deliberately. The schema this pack follows says a missing row and a padded row are both worse than an honest empty one, because a missing row reads as “nothing to say here” and a padded row reads as law."
+ },
+ {
+  "jurisdiction": "us",
+  "clause": "leave-interference",
+  "rule_id": "us-fmla-two-different-wrongs-interference-and-retaliation",
+  "question": "My employer made taking FMLA leave difficult, or punished me for it. What exactly is unlawful?",
+  "rule": "Two separate things, and they are not the same claim. Interference, 29 U.S.C. § 2615(a)(1): “It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.” And discrimination for opposing, § 2615(a)(2): “It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.” Subsection (b) adds a third, protecting anyone who has filed a charge, instituted a proceeding, given information in an inquiry, or testified.",
+  "trap": "The two are pleaded differently and people collapse them. Interference asks whether you were denied something the Act gave you, and the employer's motive is not part of that sentence. Discrimination under (a)(2) asks whether you were punished for OPPOSING a practice made unlawful, which is about what the employer was reacting to. So an employee who was simply refused leave has an interference claim without ever proving animus, and an employee who complained and was then fired is in (a)(2) or (b) territory. Note also who (b) binds: it says ‘any person’, not ‘any employer’, which is a wider word than the rest of the section uses.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2615",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2615",
+      "quote": "It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2615",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2615",
+      "quote": "It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "§ 2615 was read in full (1,009 characters); subsection (b)'s three limbs are described rather than quoted. Built 2026-09-25 from the federal statutes shard, which was published all along and had never been built into the local index; see the DocketX holdings ledger. Quoted from the Code itself, not through an opinion. NOT ESTABLISHED HERE: what a court requires to prove either claim, whether prejudice must be shown (the pack's Ragsdale row bears on that for a notice failure), and who counts as an ‘employer’ or a ‘person’ under the definitions in § 2611."
+ },
+ {
+  "jurisdiction": "us",
+  "clause": "remedies",
+  "rule_id": "us-fmla-damages-double-unless-the-employer-proves-good-faith",
+  "question": "If my employer broke the FMLA, what can I actually recover?",
+  "rule": "Lost pay, interest, the same amount again, and your job back. 29 U.S.C. § 2617(a)(1)(A) makes an employer who violates § 2615 liable for “any wages, salary, employment benefits, or other compensation denied or lost to such employee by reason of the violation;” plus interest at the prevailing rate, plus “an additional amount as liquidated damages equal to the sum of the amount described in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively;” And § 2617(a)(1)(B) adds liability “for such equitable relief as may be appropriate, including employment, reinstatement, and promotion.” Where no pay was lost, the same paragraph measures actual monetary losses such as the cost of providing care, capped at twelve weeks of wages, or twenty-six for servicemember-care leave.",
+  "trap": "Read the liquidated-damages sentence in the right direction. Doubling is the DEFAULT, not a penalty a court adds for bad behaviour: the employer gets back to single damages only by proving both good faith and reasonable grounds for believing it was not violating the Act, and even then the reduction is discretionary rather than automatic. That is the opposite of how most damages provisions read, and it is why the size of an FMLA claim is often twice what an employee first calculates.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2617",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2617",
+      "quote": "any wages, salary, employment benefits, or other compensation denied or lost to such employee by reason of the violation;",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2617",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2617",
+      "quote": "an additional amount as liquidated damages equal to the sum of the amount described in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively;",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2617",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2617",
+      "quote": "for such equitable relief as may be appropriate, including employment, reinstatement, and promotion.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "§ 2617 was read in full (5,445 characters). Built 2026-09-25 from the federal statutes shard, which was published all along and had never been built into the local index; see the DocketX holdings ledger. Quoted from the Code itself, not through an opinion. NOT ESTABLISHED HERE: attorney's fees and costs, which the section addresses elsewhere and this row does not quote; actions brought by the Secretary of Labor; and what a court treats as good faith. The 12-week and 26-week caps in (a)(1)(A)(i)(II) are described rather than quoted."
+ },
+ {
+  "jurisdiction": "us",
+  "clause": "charge-filing-deadline",
+  "rule_id": "us-fmla-two-years-three-if-wilful-and-no-agency-charge-first",
+  "question": "How long do I have to sue under the FMLA, and do I have to go to an agency first?",
+  "rule": "Two years, three if the violation was wilful, and you do not need an agency charge first. 29 U.S.C. § 2617(c)(1): “an action may be brought under this section not later than 2 years after the date of the last event constituting the alleged violation for which the action is brought.” And § 2617(c)(2): “In the case of such action brought for a willful violation of section 2615 of this title, such action may be brought within 3 years of the date of the last event constituting the alleged violation for which such action is brought.” The right of action in § 2617(a)(2) lets an employee bring the action directly in any Federal or State court of competent jurisdiction.",
+  "trap": "This is a DIFFERENT clock from the discrimination charge deadline in this pack, and confusing them cuts both ways. Someone who assumes the short charge period applies to an FMLA claim may give up a claim that was still alive for years. Someone who assumes the two-year FMLA period covers a discrimination claim will miss the charge deadline entirely. Note also where this clock starts: the last event constituting the alleged violation, which is its own question and not the same as the day you were told.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2617",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2617",
+      "quote": "an action may be brought under this section not later than 2 years after the date of the last event constituting the alleged violation for which the action is brought.",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "29 U.S.C. § 2617",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "US_29_2617",
+      "quote": "In the case of such action brought for a willful violation of section 2615 of this title, such action may be brought within 3 years of the date of the last event constituting the alleged violation for which such action is brought.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "Quoted from the current Code at release point Public Law 119-103, which is a better source than this pack's Title VII deadline rows, both built on 1980 opinions. Built 2026-09-25 from the federal statutes shard, which was published all along and had never been built into the local index; see the DocketX holdings ledger. Quoted from the Code itself, not through an opinion. NOT ESTABLISHED HERE: what makes a violation wilful, what counts as the last event, whether anything tolls either period, and the separate rules for an action brought by the Secretary. THIS IS STILL NOT A DATE CALCULATOR."
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "jurisdiction": "ca",
+  "clause": "final-pay",
+  "rule_id": "ca-final-pay-immediately-on-discharge-and-the-waiting-time-penalty",
+  "question": "I was fired in California. When do I get my final pay, and what if they are late?",
+  "rule": "Immediately, and lateness has a price. Cal. Lab. Code § 201 provides that “If an employer discharges an employee, the wages earned and unpaid at the time of discharge are due and payable immediately.” If that is not done, § 203 supplies the consequence: “If an employer willfully fails to pay, without abatement or reduction, in accordance with Sections 201, 201.3, 201.5, 201.6, 201.8, 201.9, 202, and 205.5, any wages of an employee who is discharged or who quits, the wages of the employee shall continue as a penalty from the due date thereof at the same rate until paid or until an action therefor is commenced; but the wages shall not continue for more than 30 days.”",
+  "trap": "The penalty is measured in DAYS OF YOUR PAY, not in the amount withheld, which is why a small unpaid final sum can carry a penalty many times its size — up to thirty days of wages. Two limits sit in the same sentence and are easy to miss. The failure must be WILFUL, so a genuine dispute about what is owed is not automatically a penalty case. And the penalty stops running when an action is commenced, so waiting does not increase it beyond the thirty-day cap.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Cal. Lab. Code § 201",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "LAB_201._LAB201.201890319",
+      "quote": "If an employer discharges an employee, the wages earned and unpaid at the time of discharge are due and payable immediately.",
+      "checked": "2026-09-25"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "Cal. Lab. Code § 203",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "LAB_203._LAB203.20197002.5",
+      "quote": "If an employer willfully fails to pay, without abatement or reduction, in accordance with Sections 201, 201.3, 201.5, 201.6, 201.8, 201.9, 202, and 205.5, any wages of an employee who is discharged or who quits, the wages of the employee shall continue as a penalty from the due date thereof at the same rate until paid or until an action therefor is commenced; but the wages shall not continue for more than 30 days.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "§ 201's quote is its opening sentence; the same section carries separate rules for seasonal and other specified industries that were read and are not described here. NOT ESTABLISHED HERE: the deadline when an employee resigns (§ 202), what counts as wilful, how a claim is filed with the Labor Commissioner, and the limitations period for the penalty."
+ },
+ {
+  "jurisdiction": "ca",
+  "clause": "non-competition",
+  "rule_id": "ca-noncompete-void-to-that-extent-and-the-section-is-read-broadly",
+  "question": "Is my non-compete enforceable in California?",
+  "rule": "As a rule, no. Cal. Bus. & Prof. Code § 16600 provides that, except as provided in its own chapter, “every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void.” The section also directs, in its own text, that it ‘shall be read broadly’.",
+  "trap": "The words ‘to that extent’ are the ones to notice. What is void is the restraint, not automatically the whole agreement around it, so a confidentiality or invention-assignment clause in the same document does not fall just because the non-compete does. In the other direction, do not assume a clause is safe because it is labelled something other than a non-compete; the section is directed at the effect of restraining a lawful profession, trade or business, and the instruction to read it broadly is statutory rather than judicial gloss.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Cal. Bus. & Prof. Code § 16600",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "BPC_16600._BPC16600.20238281",
+      "quote": "every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The quote is subsection (a) and the broad-reading instruction is in subsection (b)(1), which names Edwards v. Arthur Andersen; that case is NOT in this pack and was not read. NOT ESTABLISHED HERE: the sale-of-business and partnership exceptions elsewhere in the chapter, the separate sections on notifying employees about void clauses, and how the section treats an out-of-state employer. The contract-law pack in this repository holds further California rules on the same chapter."
+ }
+]

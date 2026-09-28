@@ -1,0 +1,1941 @@
+[
+  {
+    "jurisdiction": "tx",
+    "clause": "anti-assignment",
+    "rule_id": "tx-anti-assignment-ineffective-as-to-receivables",
+    "question": "Does this 'no assignment without consent' clause stop the counterparty assigning the money owed?",
+    "rule": "Not as to the receivable. A term in an agreement between an account debtor and an assignor, or in a promissory note, is ineffective to the extent that it (1) prohibits, restricts, or requires the consent of the account debtor to the assignment or transfer of — or the creation, attachment, perfection or enforcement of a security interest in — the account, chattel paper, payment intangible or promissory note; or (2) provides that such an assignment, transfer or security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy. This is subject to § 9.406(e) and (h) and to §§ 2A.303 and 9.407.",
+    "trap": "Two halves, and drafters usually only think about the first. Subsection (d)(1) means the consent requirement simply does not bite on the receivable; (d)(2) closes the obvious workaround by making the anti-default and termination-right dressing equally ineffective, so you cannot convert the assignment into a breach instead. What it does NOT do is make the whole contract freely assignable: it reaches accounts, chattel paper, payment intangibles and promissory notes — the payment side — not performance obligations generally. And the section has its own exits. § 9.406(e) takes the outright SALE of a payment intangible or promissory note back out. § 9.406(j) takes out an interest in a partnership or limited liability company altogether, which is the exit that catches drafters most often: a consent-to-transfer restriction on an LLC or partnership interest is not touched by this section, so do not read § 9.406(d) as neutering it. § 9.406(i) takes out an assignment of a health-care-insurance receivable.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 9.406",
+        "decided": null,
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a term in an agreement between an account debtor and assignor is ineffective to the extent that it prohibits or restricts assignment of an account or payment intangible or requires consent",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_c2c0b8d10bc524ef",
+            "quote": "(d) Except as otherwise provided in Subsection (e) and Sections 2A.303 and 9.407 , and subject to Subsection (h), a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or (2) provides that the assignment or transfer or the creation, attachment, perfection, or enforcement of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy under the account, chattel paper, payment intangible, or promissory note.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 9.406",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_c2c0b8d10bc524ef",
+            "quote": "Subsection (d) does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under Section 9.610 or an acceptance of collateral under Section 9.620 .",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 9.406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_c2c0b8d10bc524ef",
+            "quote": "(i) This section does not apply to an assignment of a health-care-insurance receivable. (j) This section does not apply to an interest in a partnership or limited liability company.",
+            "checked": "2026-09-25"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-25 (Texas adversarial audit, sample #1): the row's own notes recorded that subsections (f)-(i) 'were not read', and subsections (j) and (k) were not acknowledged to exist. § 9.406 read in full on the corpus host: (j) excludes an interest in a partnership or limited liability company from the whole section, which is a carve-out a reader drafting an LLC-interest transfer restriction would be actively misled by omitting, and (i) excludes health-care-insurance receivables. Both are now quoted. Still not in this row and not established by it: (f) (rules of law and statutes restricting assignment of government accounts), (h) (consumer account debtors), (k) (lottery prize payments under Gov't Code § 466.410), and § 9.408, which covers general intangibles. Paraphrased from the § 9.406(d)-(e) text read on 2026-09-14. `decided` is null because no enactment line appeared in the chunks read. TEXT QUALITY CAVEAT: the corpus returned subsection (d)(1) with a duplicated fragment ('...payment intangible, or promissory promissory note is ineffective to the extent that it: (1) ...'), an artefact of chunk overlap rather than of the statute; the rule above is taken from the clean pass of that sentence. Subsections (f)-(i), and the related § 9.408 which covers general intangibles, were not read and are not summarised. TEXAS FULL READ 2026-09-22: § 9.406(e) read in the published row and blocked for the trap's sale carve-out."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "arbitration",
+    "rule_id": "tx-arbitration-valid-but-chapter-scope-carve-outs",
+    "question": "Is this arbitration clause enforceable under the Texas Arbitration Act?",
+    "rule": "The clause itself is valid: a written agreement to arbitrate is valid and enforceable if it is an agreement to arbitrate a controversy that either exists at the time of the agreement or arises between the parties after that date, and a party may revoke it only on a ground that exists at law or in equity for the revocation of a contract. But Chapter 171 does not apply at all to: a collective bargaining agreement between an employer and a labor union; an agreement for the acquisition by one or more individuals of property, services, money or credit in which the total consideration furnished by the individual is not more than $50,000; a claim for personal injury; a claim for workers' compensation benefits; or an agreement made before January 1, 1966. The under-$50,000 and personal-injury carve-outs can be opted back into, but only where the parties agree in writing AND the agreement is signed by each party and each party's attorney — and, for personal injury, only on the advice of counsel.",
+    "trap": "The attorney-signature requirement is the one that quietly defeats ordinary drafting. A perfectly standard arbitration clause in a consumer or small-services contract worth $50,000 or less falls outside the chapter unless each party's ATTORNEY signed it, and consumer agreements essentially never carry attorney signature blocks. The same is true of any personal-injury claim. Separately, this rule is about the TEXAS act only: the Federal Arbitration Act may independently govern the same clause and is not addressed here, so 'outside Chapter 171' is not the same as 'not arbitrable'.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 171.001",
+        "decided": "1997-09-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 2,
+          "probe_query": "a written agreement to arbitrate is valid and enforceable and a court shall order the parties to arbitrate",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_0e49ea90a1815451",
+            "quote": "(a) A written agreement to arbitrate is valid and enforceable if the agreement is to arbitrate a controversy that: (1) exists at the time of the agreement; or (2) arises between the parties after the date of the agreement. (b) A party may revoke the agreement only on a ground that exists at law or in equity for the revocation of a contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 171.002",
+        "decided": "2025-09-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "this chapter does not apply to an agreement for the acquisition of property or services in which the consideration is not more than $50,000 unless signed by each party and each party's attorney",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d56c0dc61ea23df1",
+            "quote": "(a) This chapter does not apply to: (1) a collective bargaining agreement between an employer and a labor union; (2) an agreement for the acquisition by one or more individuals of property, services, money, or credit in which the total consideration to be furnished by the individual is not more than $50,000, except as provided by Subsection (b); (3) a claim for personal injury, except as provided by Subsection (c); (4) a claim for workers' compensation benefits; or (5) an agreement made before January 1, 1966. (b) An agreement described by Subsection (a)(2) is subject to this chapter if: (1) the parties to the agreement agree in writing to arbitrate; and (2) the agreement is signed by each party and each party's attorney. (c) A claim described by Subsection (a)(3) is subject to this chapter if: (1) each party to the claim, on the advice of counsel, agrees in writing to arbitrate; and (2) the agreement is signed by each party and each party's attorney.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 171.002",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d56c0dc61ea23df1",
+            "quote": "An agreement described by Subsection (a)(2) is subject to this chapter if: (1) the parties to the agreement agree in writing to arbitrate; and (2) the agreement is signed by each party and each party's attorney.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 171.002",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d56c0dc61ea23df1",
+            "quote": "A claim described by Subsection (a)(3) is subject to this chapter if: (1) each party to the claim, on the advice of counsel, agrees in writing to arbitrate; and (2) the agreement is signed by each party and each party's attorney.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 (Texas audit, final stride #5): CORRECT. §§ 171.001, 171.002 (a)-(d) and 171.003 read in full; every served sentence is verbatim in (a)-(c). § 171.002(d), added 2025 ('does not confer on the business court any new or additional jurisdiction'), is read and deliberately not in the rule. Paraphrased from the § 171.001 and § 171.002 text read on 2026-09-14. § 171.001's `decided` is the last amendment date carried in its own enactment line (eff. Sept. 1, 1997). § 171.002's is recorded as NULL on purpose: its enactment line ends mid-sentence in the corpus ('Amended by: Acts 2025, 89th Leg., R.S., Ch.') so there is a 2025 amendment whose effective date we cannot read. Guessing it would be exactly the failure this store exists to prevent, and it means the scope carve-outs above may have been amended in 2025 in ways this row does not capture. § 171.002(d), on business-court jurisdiction, is not clause-relevant and is omitted. CORPUS READ 2026-09-16 (docketx/us-statutes, published text): the 2025 amendment to § 171.002 that the served chunk truncated is Acts 2025, 89th Leg., R.S., Ch. 912 (H.B. 40), eff. September 1, 2025, and in the published text it adds only subsection (d) ('This chapter does not confer on the business court any new or additional jurisdiction.'); (a)-(c) read as quoted. TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): § 171.002 re-read in full: the enactment line now reads whole -- 'Amended by: Acts 2025, 89th Leg., R.S., Ch. 912 (H.B. 40), Sec. 25, eff. September 1, 2025' -- and the 2025 change is subsection (d), 'This chapter does not confer on the business court any new or additional jurisdiction'; the (a) carve-outs and the (b)-(c) opt-ins are unchanged. `decided` set to 2025-09-01 from that line; blocks added for (b) and (c), which the rule and trap state."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "attorney-fees",
+    "rule_id": "tx-attorney-fees-38001-defendant-classes",
+    "question": "Can the winner recover attorney's fees on this contract claim in Texas?",
+    "rule": "On a breach-of-contract claim, yes, subject to who the defendant is. A person may recover reasonable attorney's fees in addition to the amount of a valid claim and costs, from an individual or ORGANIZATION — other than a quasi-governmental entity authorized to perform a function by state law, a religious organization, a charitable organization, or a charitable trust — if the claim is for rendered services, performed labor, furnished material, freight or express overcharges, lost or damaged freight or express, killed or injured stock, a sworn account, or an oral or written contract. 'Organization' takes its meaning from § 1.002, Business Organizations Code.",
+    "trap": "The 2021 amendment cuts both ways and makes older authority unreliable in BOTH directions. It added 'organization' to the entities fees can be recovered from, and at the same time carved out quasi-governmental entities, religious and charitable organizations, and charitable trusts. So pre-2021 case law about which entity forms are amenable to a § 38.001 award can be stale either way. Second trap: this section creates a statutory claim-type right to fees. It is not the same question as whether a contractual prevailing-party clause is enforceable, which this rule does not reach.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 38.001",
+        "decided": "2021-09-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 4,
+          "probe_query": "a person may recover reasonable attorney's fees in addition to the amount of a valid claim on an oral or written contract",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_6cdb85de8f67a362",
+            "quote": "(b) A person may recover reasonable attorney's fees from an individual or organization other than a quasi-governmental entity authorized to perform a function by state law, a religious organization, a charitable organization, or a charitable trust, in addition to the amount of a valid claim and costs, if the claim is for: (1) rendered services; (2) performed labor; (3) furnished material; (4) freight or express overcharges; (5) lost or damaged freight or express; (6) killed or injured stock; (7) a sworn account; or (8) an oral or written contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 38.001",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_6cdb85de8f67a362",
+            "quote": "In this section, \"organization\" has the meaning assigned by Section 1.002 , Business Organizations Code.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "Paraphrased from the § 38.001 text read on 2026-09-14; `decided` is the amendment date in its own enactment line (Acts 2021, 87th Leg., Ch. 665 (H.B. 1578), eff. September 1, 2021). RANK 4, RECORDED HONESTLY: on the served index this probe returns § 16.034, § 105.002 and § 38.0015 ahead of § 38.001. Three of those are genuinely fee-related sections, so this is ranking noise rather than a wrong answer — but a customer reading only the top hit gets the wrong section, and that is the kind of thing this field exists to surface rather than round away. TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): § 38.001(a) read; block added for the 'organization' definition cross-reference the rule states."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "attorney-fees",
+    "rule_id": "tx-presentment-precondition-to-fees",
+    "question": "What has to happen before a party can actually collect its contract attorney's fees?",
+    "rule": "Three things, all of them preconditions. To recover attorney's fees under Chapter 38: the claimant must be represented by an attorney; the claimant must present the claim to the opposing party or to a duly authorized agent of the opposing party; and payment for the just amount owed must not have been tendered before the expiration of the 30th day after the claim is presented.",
+    "trap": "Presentment is the one that gets missed. The statute makes it a precondition -- 'To recover attorney's fees under this chapter ... the claimant must present the claim' -- and says nothing about what presentment must look like: no form, no words, no medium. That silence is why it is easy to fail to prove later, and it is why the drafting answer is to present in writing, dated, and keep the copy, so that the 30-day clock in (3) has a provable start. This rule carries no case authority on what conduct counts as presentment or on whether a defect can be cured after suit is filed; both are open questions here. This is the procedural half of the § 38.001 rule in this same store; both have to be satisfied.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 38.002",
+        "decided": "1985-09-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "to recover attorney's fees the claimant must present the claim and payment must not have been tendered within 30 days",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_87857f0407fe7d38",
+            "quote": "To recover attorney's fees under this chapter: (1) the claimant must be represented by an attorney; (2) the claimant must present the claim to the opposing party or to a duly authorized agent of the opposing party; and (3) payment for the just amount owed must not have been tendered before the expiration of the 30th day after the claim is presented.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, second stride #17): the trap said a missed presentment is 'fatal rather than curable at trial'. That is a case-law proposition and the row has no case authority; it now says the question is open here. 'Prescribes no form and no particular words' is retained because it is a statement about the section's own silence, which is verifiable from the text. Paraphrased from the full § 38.002 text read 2026-09-14; `decided` from its enactment line (Acts 1985, 69th Leg., ch. 959, eff. Sept. 1, 1985)."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "choice-of-law",
+    "rule_id": "tx-forum-selection-and-choice-of-law-scope",
+    "question": "Will a Texas court enforce our forum-selection and choice-of-law clauses, and how far do they reach?",
+    "rule": "Enforcement of a mandatory forum-selection clause is required unless the party resisting it clearly shows enforcement would be unreasonable and unjust, or that the clause is invalid for fraud or overreaching. A contractual choice-of-law clause is enforced according to its own scope -- a dispute falling outside that scope is instead analyzed under a most-significant-relationship test, which can select a different state's law. The exceptions have names: a clause comes within them if enforcement would contravene a strong public policy of the forum in which suit was brought, or when the contractually selected forum would be seriously inconvenient for trial.",
+    "trap": "A choice-of-law clause drafted narrowly (e.g. covering only the contract's performance, not a related tort claim) will not automatically extend to every dispute between the parties -- read its scope literally, do not assume it is a blanket selection.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "148 S.W.3d 109",
+        "name": "In re AIU Ins. Co.",
+        "decided": "2004",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": false,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "7d855b905df1b228",
+            "cl_opinion_id": "894598",
+            "quote": "In The Bremen, the Supreme Court held that a \"forum clause should control absent a strong showing that it should be set aside,\" and that \"[t]he correct approach [is] to enforce the forum clause specifically unless [the party opposing it] could clearly show that enforcement would be unreasonable and unjust, or that the clause was invalid for such reasons as fraud or overreaching.\"",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "271 S.W.3d 228",
+        "name": "Sonat Expl. Co. v. Cudd Pressure Control, Inc.",
+        "decided": "2008",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "6da845e28db7d7f1",
+            "cl_opinion_id": "895066",
+            "quote": "Under Texas choice-of-law rules governing contracts (including oilfield indemnity clauses), we look to the Restatement (Second) of Conflict of Laws — specifically section 187 for contracts that contain an express choice of law, and section 188 for those that do not.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "148 S.W.3d 109",
+        "name": "In re AIU Ins. Co.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "7d855b905df1b228",
+            "cl_opinion_id": "894598",
+            "checked": "2026-09-26",
+            "quote": "The Court indicated that a clause would come within these exceptions if enforcement would contravene a strong public policy of the forum in which suit was brought, or when the contractually selected forum would be seriously inconvenient for trial."
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-14",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, final stride #10, L): the rule carried AIU's Bremen standard and stopped one sentence short of the two exceptions the same paragraph names -- strong public policy of the forum, serious inconvenience for trial. Now quoted. Sonat read in context: the § 187 / § 188 split and the most-significant-relationship language are verbatim. 148 S.W.3d 109: the citation exists in our index but our name graph returns no name for it, so name_matches_index is honestly false rather than asserted true -- the citation is kept per this store's own rule (a citation our index holds is never dropped for a name we could not independently confirm), and a reader should verify the case name from the reporter directly before relying on it in front of a client. CORPUS READ 2026-09-16: 148 S.W.3d 109 resolves through the CourtListener citation map to 'In Re AIU Insurance Co.' (tx-tex, 2004-09-03), so the corpus confirms the name the index could not. AIU states the enforcement standard by quoting The Bremen and then holds 'The forum-selection clause at issue is enforceable.' Sonat is quoted for the § 187 / § 188 split; its application to scope is the next passage: 'The parties' Master Service Agreement contains a detailed choice-of-law provision, but none of it applies to this case.'"
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "choice-of-law",
+    "rule_id": "tx-qualified-transaction-choice-of-law-overrides-policy",
+    "question": "Will Texas honour a choice-of-law clause even where the chosen law offends Texas public policy?",
+    "rule": "For a 'qualified transaction', yes — and that is the unusual part. The law of a particular jurisdiction governs an issue relating to a qualified transaction if the parties agree in writing that it governs the issue, including the validity or enforceability of the agreement or a provision of it, AND the transaction bears a reasonable relation to that jurisdiction. Subsection (b) then provides that the chosen law governs REGARDLESS of whether applying it is contrary to a fundamental or public policy of Texas or of any other jurisdiction. The section is expressly subject to §§ 271.007, 271.008(b), 271.009, 271.010 and 271.011, and to Chapter 272.",
+    "trap": "Subsection (b) is the whole payload and it is bounded: it removes the usual fundamental-policy escape hatch, but only for a QUALIFIED TRANSACTION, and that is a $1 million threshold. Under § 271.001 a qualified transaction is one under which a party pays or receives, or is obligated to pay or entitled to receive, consideration with an aggregate value of at least $1 million, or lends, borrows or receives money or credit of at least $1 million. § 271.002 stops the obvious split: two or more substantially similar or related transactions entered into contemporaneously with at least one common party count as ONE. § 271.003 excludes the chosen jurisdiction's conflict-of-laws rules, so there is no renvoi. Below the threshold the ordinary conflicts analysis still applies, so citing § 271.005(b) for an everyday commercial agreement proves nothing. And even above it, the section yields to Chapter 272 for Texas construction contracts and to §§ 271.007-.011, which were not read here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 271.005",
+        "verified": {
+          "retrievable": true,
+          "rank": 2,
+          "probe_query": "parties to a qualified transaction may agree that the law of a particular jurisdiction governs",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3b8a605e3105d028",
+            "quote": "(a) Except as provided by Section 271.007 , 271.008 (b), 271.009 , 271.010 , or 271.011 or by Chapter 272 , the law of a particular jurisdiction governs an issue relating to a qualified transaction if: (1) the parties to the transaction agree in writing that the law of that jurisdiction governs the issue, including the validity or enforceability of an agreement relating to the transaction or a provision of the agreement; and (2) the transaction bears a reasonable relation to that jurisdiction. (a-1) Unless otherwise agreed in writing, the choice of governing law specified in the terms applicable to a certificated or uncertificated security issued by a foreign state as defined by 28 U.S.C. Section 1603 in a qualified transaction, including any change in that governing law, applies retroactively to all issues relating to such security. (b) The law of a particular jurisdiction governs an issue described by this section regardless of whether the application of that law is contrary to a fundamental or public policy of this state or of any other jurisdiction.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 271.001",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_7606d2292bd94a70",
+            "quote": "In this chapter, \"qualified transaction\" means a transaction under which a party: (1) pays or receives, or is obligated to pay or is entitled to receive, consideration with an aggregate value of at least $1 million; or (2) lends, advances, borrows, or receives, or is obligated to lend or advance or is entitled to borrow or receive, money or credit with an aggregate value of at least $1 million.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 271.002",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d896d4ceb399301e",
+            "quote": "For purposes of this chapter, two or more substantially similar or related transactions are considered a single transaction if the transactions: (1) are entered into contemporaneously; and (2) have at least one common party.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, final stride #20, M): the trap called 'qualified transaction' a defined term this rule does not reach. § 271.001 was in our corpus: $1 million, in consideration or in money or credit; § 271.002 aggregates related contemporaneous transactions with a common party. Both quoted. § 271.003 (no renvoi) read and stated in the trap. §§ 271.007-271.011 NOT read. Paraphrased from the § 271.005(a)-(c) text read on 2026-09-14. The definition of 'qualified transaction' lives in Chapter 271's definitions section, which was NOT read, and the rule statement is deliberately bounded by that gap rather than guessing at a dollar threshold. Subsection (a-1) and (c), which concern securities issued by a foreign state, are outside the clause-drafting question and are not summarised."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "dtpa-waiver",
+    "rule_id": "tx-dtpa-waiver-form-requirements",
+    "question": "Can this contract waive the customer's Deceptive Trade Practices Act rights?",
+    "rule": "Only under narrow conditions, and the form is mandatory. Any waiver by a consumer of the subchapter is contrary to public policy and unenforceable and void, UNLESS all three of the following hold: the waiver is in writing and signed by the consumer; the consumer is not in a significantly disparate bargaining position; and the consumer is represented by legal counsel in seeking or acquiring the goods or services. The waiver must additionally be conspicuous and in bold-face type of at least 10 points, identified by the heading 'Waiver of Consumer Rights' or words of similar meaning, and in substantially the form set out in § 17.42(c)(3). A waiver is NOT effective if the consumer's legal counsel was directly or indirectly identified, suggested, or selected by a defendant or a defendant's agent. The waiver may be modified to waive only specified rights under the subchapter, and the fact that a consumer signed one is not a defense to an action brought by the attorney general under § 17.47.",
+    "trap": "These are formal requirements, not factors to be balanced, and they defeat two common commercial habits at once. A waiver that reads impeccably but is set in nine-point type does not meet § 17.42(c)(1). And the counsel-selection rule in subsection (b) kills the familiar practice of the seller recommending or paying for the buyer's lawyer — indirect suggestion is enough to void it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 17.42",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a waiver by a consumer of the provisions of this subchapter is contrary to public policy and is unenforceable and void",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3735f77f763a7013",
+            "quote": "(a) Any waiver by a consumer of the provisions of this subchapter is contrary to public policy and is unenforceable and void; provided, however, that a waiver is valid and enforceable if: (1) the waiver is in writing and is signed by the consumer; (2) the consumer is not in a significantly disparate bargaining position; and (3) the consumer is represented by legal counsel in seeking or acquiring the goods or services. (b) A waiver under Subsection (a) is not effective if the consumer's legal counsel was directly or indirectly identified, suggested, or selected by a defendant or an agent of the defendant. (c) A waiver under this section must be: (1) conspicuous and in bold-face type of at least 10 points in size; (2) identified by the heading \"Waiver of Consumer Rights,\" or words of similar meaning",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 17.42",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3735f77f763a7013",
+            "quote": "A waiver under this section must be: (1) conspicuous and in bold-face type of at least 10 points in size; (2) identified by the heading \"Waiver of Consumer Rights,\" or words of similar meaning; and (3) in substantially the following form:",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 17.42",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3735f77f763a7013",
+            "quote": "(3) in substantially the following form: \"I waive my rights under the Deceptive Trade Practices-Consumer Protection Act, Section 17.41 et seq., Business & Commerce Code, a law that gives consumers special rights and protections. After consultation with an attorney of my own selection, I voluntarily consent to this waiver.\" (d) The waiver required by Subsection (c) may be modified to waive only specified rights under this subchapter. (e) The fact that a consumer has signed a waiver under this section is not a defense to an action brought by the attorney general under Section 17.47 .",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, third stride #8): the rule named the (c)(3) form without quoting it and omitted (d) (partial waivers permitted) and (e) (no defense to an attorney-general action). All three now quoted in one block; § 17.42 read in full, (a)-(e). Paraphrased from the § 17.42(a)-(e) text read on 2026-09-14. Subsection (e) was returned partially duplicated by the chunker and only the part that reads cleanly is summarised. Who counts as a 'consumer' is defined elsewhere in the subchapter and is not addressed here. TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): § 17.42(c) read in full; block added for the 10-point, heading and form requirements the rule and trap state."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "electronic-signature",
+    "rule_id": "tx-ueta-electronic-form-not-a-defence",
+    "question": "Is this contract unenforceable because it was signed electronically?",
+    "rule": "No, not on that ground. A record or signature may not be denied legal effect or enforceability solely because it is in electronic form, and a contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. Where a law requires a record to be in writing, an electronic record satisfies that law; where a law requires a signature, an electronic signature satisfies it.",
+    "trap": "The section removes one objection and supplies nothing else -- and it only applies at all between parties who AGREED to deal electronically. § 322.005(b) confines the chapter to transactions between parties each of which has agreed to conduct transactions by electronic means, with agreement found from context and conduct; (c) lets a party that agreed once refuse the next time, and that right cannot be waived. So the first question is not whether the signature is electronic but whether the other side ever agreed to electronic dealing. Attribution is a separate step: under § 322.009(a) an electronic record or signature is attributable to a person only if it was that person's act, shown in any manner including the efficacy of a security procedure, and (b) makes its effect turn on context and the parties' agreement. Retention and retrievability are governed by other sections of Chapter 322 not read for this rule. Read this with the statute-of-frauds row: § 322.007(c) is what lets an electronic record satisfy the 'in writing' requirement of Tex. Bus. & Com. Code § 26.01, so the two rules operate as a pair.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 322.007",
+        "decided": "2009-04-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a record or signature may not be denied legal effect or enforceability solely because it is in electronic form",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_b04362a8e39dca2d",
+            "quote": "(a) A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. (b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. (c) If a law requires a record to be in writing, an electronic record satisfies the law. (d) If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 322.005",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_7912f02bafe2fadd",
+            "quote": "(b) This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct. (c) A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 322.009",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_4a469b39809538c5",
+            "quote": "(a) An electronic record or electronic signature is attributable to a person if it was the act of the person. The act of the person may be shown in any manner, including a showing of the efficacy of any security procedure applied to determine the person to which the electronic record or electronic signature was attributable.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, fourth stride #24): the trap said assent and attribution were 'governed by other sections of Chapter 322 that were not read'. § 322.005(b) is a threshold on the whole chapter -- it applies only between parties who agreed to transact electronically -- and § 322.009 is the attribution rule; both sat in our corpus and are quoted now. §§ 322.005 (a)-(e), 322.007, 322.009 read in full; retention (§ 322.012) and the rest of the chapter NOT read. Paraphrased from the full § 322.007(a)-(d) text read on 2026-09-14. `decided` is from its own enactment line (Added by Acts 2007, 80th Leg., Ch. 885 (H.B. 2278), Sec. 2.01, eff. April 1, 2009). Chapter 322 is Texas's enactment of UETA; the federal E-SIGN Act is a separate body of law not addressed here."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "entire-agreement",
+    "rule_id": "tx-integration-ambiguity-parol-evidence",
+    "question": "Does this merger/integration clause actually block a claim that we orally promised more, and when is a contract ambiguous in the first place?",
+    "rule": "Whether a contract is ambiguous is a question of LAW, decided by the court from the contract as a whole in light of the circumstances existing when it was formed. A contract is ambiguous only if, after applying the rules of construction, it remains reasonably susceptible to more than one meaning -- the parties merely arguing for different readings does not itself create an ambiguity. Parol evidence is not admissible to create an ambiguity in a contract that is unambiguous on its face, and cannot be used to vary, add to, or contradict an unambiguous written contract's terms.",
+    "trap": "An integration clause is only as strong as the ambiguity/parol-evidence machinery behind it. Drafters sometimes assume the merger clause alone forecloses extrinsic evidence; Texas courts still ask the antecedent ambiguity question first.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "907 S.W.2d 517",
+        "name": "Union Fire Ins. Co. v. CBI Indus., Inc.",
+        "decided": "1995",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "0f0e751f3633da87",
+            "cl_opinion_id": "1742633",
+            "quote": "The ambiguity must become evident when the contract is read in context of the surrounding circumstances, not after parol evidence of intent is admitted to create an ambiguity.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "650 S.W.2d 391",
+        "name": "Coker v. Coker",
+        "decided": "1983",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "1c7a49bbd0995731",
+            "cl_opinion_id": "1502612",
+            "quote": "Whether a contract is ambiguous is a question of law for the court to decide by looking at the contract as a whole in light of the circumstances present when the contract was entered.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "128 S.W.3d 223",
+        "name": "J.M. Davidson, Inc. v. Webster",
+        "decided": "2003",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "48fef6829ab90824",
+            "cl_opinion_id": "894498",
+            "quote": "On the other hand, if the contract is subject to two or more reasonable interpretations after applying the pertinent rules of construction, the contract is ambiguous, creating a fact issue on the parties' intent.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "626 S.W.2d 726",
+        "name": "Sun Oil Co. v. Madeley",
+        "decided": "1981",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "2e5fe4d9721dcf7d",
+            "cl_opinion_id": "2385579",
+            "quote": "If a written contract is so worded that it can be given a certain or definite legal meaning or interpretation, it is not ambiguous. It follows that parol evidence is not admissible to render a contract ambiguous, which on its face, is capable of being given a definite certain legal meaning.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "266 S.W.3d 447",
+        "name": "David J. Sacks, P.C. v. Haden",
+        "decided": "2008",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "8fde63ac7288688d",
+            "cl_opinion_id": "895056",
+            "quote": "An unambiguous contract will be enforced as written, and parol evidence will not be received for the purpose of creating an ambiguity or to give the contract a meaning different from that which its language imports.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-14",
+    "notes": "Five authorities span ambiguity (Union Fire, Coker, J.M. Davidson) and parol evidence (Sun Oil, Sacks v. Haden) as one connected doctrine, deliberately not split into two rows. CORPUS READ 2026-09-16: all five corpus-verified from majority text. Two precision points. (1) The 'parties merely arguing for different readings does not itself create an ambiguity' proposition appears in J.M. Davidson only in a SEPARATE opinion; its majority support in this row is Sun Oil ('Since mere disagreement over the interpretation of the lease does not make it ambiguous, we must determine which party's interpretation is correct.'), so Davidson is quoted for the reasonable-interpretations test instead. (2) Union Fire's shortest statement of the rule, 'Parol evidence is not admissible for the purpose of creating an ambiguity.', is 9 words and below the store's 12-word minimum, so the longer sentence that states the same rule is quoted."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "force-majeure",
+    "rule_id": "tx-force-majeure-no-general-statute",
+    "question": "What does Texas statute say about force majeure and excused performance?",
+    "rule": "Nothing general, and that is the answer rather than a gap in our research. A search of the Texas statute corpus for a general force-majeure or excused-performance rule returns only domain-specific provisions — electric utility restructuring, water-code enforcement, agriculture, and higher education — with no provision of general contract application. In Texas, force majeure is a matter of what the parties wrote: the clause is construed as drafted, not filled in from a statutory default.",
+    "trap": "The trap is the assumption that some background statute will rescue a thin clause. Because there is no general statutory rule to fall back on, an event not captured by the clause's own language is simply not covered, and a catch-all phrase does the work a specific enumeration would otherwise do. Note this rule makes a claim about our CORPUS as much as about Texas law: it records that we looked and found no general provision, which is weaker than a proof that none exists.",
+    "authority": [],
+    "as_of": "2026-09-14",
+    "status": "no-verified-authority",
+    "notes": "Measured 2026-09-14. The probe 'a party is excused from performance by an act of God war epidemic or other event beyond its reasonable control force majeure' returned, in order, Tex. Util. Code § 39.055, Tex. Water Code § 7.251, Tex. Agric. Code § 301.202 and Tex. Educ. Code § 51.992 — every one a sector-specific provision rather than a rule of general contract application. Deliberately carries NO authority rather than citing one of those four, since citing a utilities-restructuring section for a commercial force-majeure question would be exactly the unsourced-plausible-answer failure this store exists to prevent. Eleven of the twelve clause families probed in this sweep DID have a governing Texas section at rank 1; this is the one that did not, and the contrast is the point."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "indemnity",
+    "rule_id": "tx-anti-indemnity-construction-contracts",
+    "question": "Will this construction indemnity clause covering the indemnitee's own negligence hold up in Texas?",
+    "rule": "No, to that extent. Except as provided by § 151.103, a provision in a construction contract — or in an agreement collateral to or affecting a construction contract — is void and unenforceable as against public policy to the extent it requires an indemnitor to indemnify, hold harmless, OR DEFEND a party, including a third party, against a claim caused by the negligence or fault, the breach or violation of a statute, ordinance, governmental regulation, standard or rule, or the breach of contract, of the INDEMNITEE, its agent or employee, or any third party under the control or supervision of the indemnitee — other than the indemnitor or its own agent, employee, or subcontractor of any tier.",
+    "trap": "Three things drafters miss, and one exception they rely on. First, the section voids the DUTY TO DEFEND as well as the duty to indemnify, and the defense obligation is usually the expensive one. Second, 'to the extent that' means the clause is pared back, not struck whole — the parts allocating the indemnitor's OWN fault survive. Third, the voided conduct is not limited to negligence: breach of a statute, ordinance, regulation, standard or rule, and breach of contract by the indemnitee, are all inside it. The exception is § 151.103: the section does not apply to a provision requiring indemnity, hold-harmless or defense against a claim for the bodily injury or death of an EMPLOYEE of the indemnitor, its agent, or its subcontractor of any tier. That is the carve-out most construction indemnity clauses are actually drafted around, and it is narrow: an employee claim, not a third-party property or public claim. Nothing in this rule reaches Chapter 151's definitions or its applicability section, which were not read.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Ins. Code § 151.102",
+        "decided": "2012-01-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a provision in a construction contract requiring indemnity against a claim caused by the negligence of the indemnitee is void and unenforceable",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_e37cb326c4934dcf",
+            "quote": "Except as provided by Section 151.103 , a provision in a construction contract, or in an agreement collateral to or affecting a construction contract, is void and unenforceable as against public policy to the extent that it requires an indemnitor to indemnify, hold harmless, or defend a party, including a third party, against a claim caused by the negligence or fault, the breach or violation of a statute, ordinance, governmental regulation, standard, or rule, or the breach of contract of the indemnitee, its agent or employee, or any third party under the control or supervision of the indemnitee, other than the indemnitor or its agent, employee, or subcontractor of any tier.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Ins. Code § 151.103",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_ce7795e27f9879fe",
+            "quote": "Section 151.102 does not apply to a provision in a construction contract that requires a person to indemnify, hold harmless, or defend another party to the construction contract or a third party against a claim for the bodily injury or death of an employee of the indemnitor, its agent, or its subcontractor of any tier.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, second stride #2): the trap said '§ 151.103 states an exception this rule does not reach' while the section sat in our corpus (us-statutes tx-stat_ce7795e27f9879fe). It is the employee bodily-injury/death exception and it is now quoted. Chapter 151's definitions (§ 151.001) and applicability (§ 151.101 -- what counts as a construction contract and what is excluded) were NOT read and are not established here. Paraphrased from the § 151.102 text read in full on 2026-09-14. `decided` is the effective date stated in the section's own enactment line ('Added by Acts 2011, 82nd Leg., R.S., Ch. 1292 (H.B. 2093), Sec. 1, eff. January 1, 2012') — one of the few places a date is recoverable at all, since the statute index carries no effective-date field.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "indemnity",
+    "rule_id": "tx-anti-indemnity-design-professionals",
+    "question": "Can a construction contract make the contractor indemnify the architect or engineer for design defects?",
+    "rule": "No, for injury and property damage -- and the chapter runs in more than one direction. Under § 130.002(a) a covenant or promise in, in connection with, or collateral to a construction contract is void and unenforceable if it provides for the contractor who is to perform the work to indemnify or hold harmless a registered architect, licensed engineer, or land surveyor (or their agent, servant or employee) from liability for damage that is caused by defects in plans, designs or specifications the design professional prepared, approved or used, or by the design professional's negligence in professional duties under the contract -- AND that arises from personal injury or death, property injury, or any other expense arising from those. Under (b), a design professional whose services are the subject of a non-residential construction contract cannot be made to indemnify the OWNER for the owner's own negligence. Under (c), subject to (d)-(f), a design professional cannot be made to DEFEND a party against a claim based wholly or partly on the owner's negligence, fault or breach, though the contract may provide for reimbursement of the owner's reasonable attorney's fees in proportion to the design professional's liability.",
+    "trap": "Three directions, not one. Ins. Code § 151.102 stops an indemnitee generally from shifting its own fault downstream. § 130.002(a) stops a design professional from pushing design-defect and professional-negligence risk onto the contractor -- but only for damage arising from personal injury, death or property injury, so a clause allocating a purely economic design-defect loss is not voided by (a). Then (b) and (c) turn around and protect the design professional from the OWNER: no indemnity for the owner's negligence on a non-residential job, and no duty to defend the owner for the owner's fault, with (d) (owner may require additional-insured status and any defense the policy gives a named insured), (e) (design-build contracts are outside (c)) and (f) (a covenant to defend a negligent-hiring claim survives). § 130.005 makes the other boundary explicit: the chapter does not reach a clause indemnifying the design professional for the CONTRACTOR's or a subcontractor's own negligence, so a contractor can still be made to answer for its own acts. The protection is keyed to REGISTERED architects, LICENSED engineers and land surveyors as defined in § 130.001, so an unlicensed designer is outside it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 130.002",
+        "decided": null,
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a covenant in a contract for engineering or architectural services requiring indemnification for the negligence of the indemnitee is void",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_38e304d418990ed1",
+            "quote": "(a) A covenant or promise in, in connection with, or collateral to a construction contract is void and unenforceable if the covenant or promise provides for a contractor who is to perform the work that is the subject of the construction contract to indemnify or hold harmless a registered architect, licensed engineer, or land surveyor, or an agent, servant, or employee of a registered architect, licensed engineer, or land surveyor from liability for damage that: (1) is caused by or results from: (A) defects in plans, designs, or specifications prepared, approved, or used by the architect, engineer, or land surveyor; or (B) negligence of the architect, engineer, or land surveyor in the rendition or conduct of professional duties called for or arising out of the construction contract and the plans, designs, or specifications that are a part of the construction contract; and (2) arises from: (A) personal injury or death; (B) property injury; or (C) any other expense that arises from personal injury, death, or property injury.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 130.002",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_38e304d418990ed1",
+            "quote": "(2) arises from: (A) personal injury or death; (B) property injury; or (C) any other expense that arises from personal injury, death, or property injury. (b) A covenant or promise in, in connection with, or collateral to a construction contract other than a contract for a single family or multifamily residence is void and unenforceable if the covenant or promise provides for a registered architect, licensed engineer, or land surveyor whose engineering, architectural, or land surveying design services are the subject of the construction contract to indemnify or hold harmless an owner or owner's agent or employee from liability for damage that is caused by or results from the negligence of an owner or an owner's agent or employee.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 130.002",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_38e304d418990ed1",
+            "quote": "(c) Except as provided by Subsection (d), (e), or (f), a covenant or promise in, in connection with, or collateral to a construction contract for engineering, architectural, or land surveying services related to an improvement to real property is void and unenforceable to the extent the covenant or promise provides that a licensed engineer, registered architect, or land surveyor must defend a party, including a third party, against a claim based wholly or partly on the negligence of, fault of, or breach of contract by the owner, the owner's agent, the owner's employee, or another entity over which the owner exercises control. A covenant or promise in, in connection with, or collateral to a contract for engineering, architectural, or land surveying services related to an improvement to real property may provide for the reimbursement of an owner's reasonable attorney's fees in proportion to the engineer's, architect's, or land surveyor's liability.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 130.005",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_4cf3912c787a700e",
+            "quote": "This chapter does not apply to a contract or agreement in which an architect, engineer, or land surveyor, or an agent, servant, or employee of an architect, engineer, or land surveyor, is indemnified from liability for: (1) negligent acts other than those described by this chapter; or (2) negligent acts of the contractor, any subcontractor, any person directly or indirectly employed by the contractor or a subcontractor, or any person for whose acts the contractor or a subcontractor may be liable.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, third stride #3): the rule served § 130.002(a) as a flat 'No' and dropped (a)(2), which limits the void covenants to damage arising from personal injury, death or property injury -- a purely economic design-defect allocation is not within (a). It also never mentioned (b) and (c), which protect the design professional from the OWNER, or § 130.005, which leaves indemnity for the contractor's own negligence untouched. All quoted now. Chapter 130 read in full: §§ 130.001 (definitions; carries a 2025 amendment, S.B. 687 eff. Sept. 1, 2025), 130.002 (a)-(f), 130.003 (insurance contracts and workers' compensation agreements excluded), 130.004 (owners outside the chapter except (b)/(c)/§ 130.0021), 130.005. § 130.0021, cross-referenced by § 130.004, was NOT read. Paraphrased from § 130.002(a) read 2026-09-14. `decided` is null: no enactment line appeared in the chunk read. Subsection (a)(1)(B)'s sentence continues past the end of the chunk returned, and the remainder of the section was not read.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "indemnity",
+    "rule_id": "tx-anti-indemnity-oilfield-sole-or-concurrent",
+    "question": "Will this indemnity in an oilfield services agreement cover the indemnitee's own negligence?",
+    "rule": "No -- unless it is insurance-backed, which is how the industry actually writes it. Except as otherwise provided by the chapter, a covenant, promise, agreement or understanding contained in, collateral to, or affecting an agreement pertaining to a well for oil, gas, or water, or to a mine for a mineral, is void if it purports to indemnify a person against loss or liability for damage that (1) is caused by or results from the SOLE OR CONCURRENT negligence of the indemnitee, his agent or employee, or an individual contractor directly responsible to the indemnitee, and (2) arises from personal injury or death, property injury, or any other loss, damage or expense arising from personal injury, death or property injury. But under § 127.005 the chapter does not apply at all where the parties agree in writing that the indemnity will be supported by liability insurance furnished by the indemnitor: a MUTUAL indemnity is then enforceable to the extent of the coverage each party agreed to obtain for the other, and a UNILATERAL indemnity is enforceable with insurance of not more than $500,000. And the chapter never reaches a joint operating agreement, which its definition of a covered agreement expressly excludes.",
+    "trap": "The words 'sole or concurrent' defeat the standard workaround -- drafters commonly carve out only the indemnitee's SOLE negligence and assume shared-fault scenarios still flow through; under this chapter they do not. But the served 'No' is the wrong headline for real oilfield paper, because § 127.005 is the door the whole industry walks through: write that the indemnity is supported by the indemnitor's liability insurance, and the chapter steps aside, capped at the agreed coverage for a mutual obligation and at $500,000 for a unilateral one. So the drafting question is not whether to indemnify for the indemnitee's negligence but whether the insurance-support language and limits are present. Scope is wider than oil and gas -- wells for WATER and mines for a mineral are inside -- and narrower than it looks: a joint operating agreement is outside by definition, pipeline construction and gas transportation by pipeline are not 'well or mine service', and § 127.004 excludes radioactivity, pollution, reservoir or underground damage, and wild-well control from the chapter entirely. § 127.007 preserves a surface-estate owner's right to indemnity from the operator.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 127.003",
+        "decided": "1985-09-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "an indemnity agreement pertaining to a well for oil gas or water is void to the extent it indemnifies against loss caused by the negligence of the indemnitee",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_f191db6e61340567",
+            "quote": "(a) Except as otherwise provided by this chapter, a covenant, promise, agreement, or understanding contained in, collateral to, or affecting an agreement pertaining to a well for oil, gas, or water or to a mine for a mineral is void if it purports to indemnify a person against loss or liability for damage that: (1) is caused by or results from the sole or concurrent negligence of the indemnitee, his agent or employee, or an individual contractor directly responsible to the indemnitee; and (2) arises from: (A) personal injury or death; (B) property injury; or (C) any other loss, damage, or expense that arises from personal injury, death, or property injury.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 127.005",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_9f33f8d34b047135",
+            "quote": "(a) This chapter does not apply to an agreement that provides for indemnity if the parties agree in writing that the indemnity obligation will be supported by liability insurance coverage to be furnished by the indemnitor subject to the limitations specified in Subsection (b) or (c). (b) With respect to a mutual indemnity obligation, the indemnity obligation is limited to the extent of the coverage and dollar limits of insurance or qualified self-insurance each party as indemnitor has agreed to obtain for the benefit of the other party as indemnitee. (c) With respect to a unilateral indemnity obligation, the amount of insurance required may not exceed $500,000.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 127.001",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_7cb2196fcaa0af61",
+            "quote": "(1) \"Agreement pertaining to a well for oil, gas, or water or to a mine for a mineral\": (A) means: (i) a written or oral agreement or understanding concerning the rendering of well or mine services; or (ii) an agreement to perform a part of those services or an act collateral to those services, including furnishing or renting equipment, incidental transportation, or other goods and services furnished in connection with the services; but (B) does not include a joint operating agreement.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 127.004",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_de0865de476999ef",
+            "quote": "This chapter does not apply to loss or liability for damages or an expense arising from: (1) personal injury, death, or property injury that results from radioactivity; (2) property injury that results from pollution, including cleanup and control of the pollutant; (3) property injury that results from reservoir or underground damage, including loss of oil, gas, other mineral substance, or water or the well bore itself; (4) personal injury, death, or property injury that results from the performance of services to control a wild well to protect the safety of the general public or to prevent depletion of vital natural resources; or (5) cost of control of a wild well, underground or above the surface.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, fourth stride #4): the served rule was a flat 'No' and the trap admitted the exceptions 'including the insurance-backed mutual indemnity arrangements the industry relies on' were not read. § 127.005 sat in our corpus: the chapter does not apply where the indemnity is insurance-supported in writing, capped at agreed coverage (mutual) or $500,000 (unilateral). That is the provision nearly every oilfield MSA is drafted around, and a reader told 'No' would strike a clause that is enforceable. Also quoted: § 127.001(1)(B) (joint operating agreements outside the chapter) and § 127.004 (exclusions). Chapter 127 read in full, §§ 127.001-127.007. § 127.001(4)(B) (pipeline work is not 'well or mine service') and § 127.007 are stated in the trap from the text read but not carried as blocks. Paraphrased from the full § 127.003(a) text read 2026-09-14; `decided` from its enactment line (Acts 1985, 69th Leg., ch. 959, eff. Sept. 1, 1985). This is one of THREE separate Texas anti-indemnity regimes now in this store, each with different scope and each capable of applying to the same project: Ins. Code ch. 151 (construction generally), this chapter (wells and mines), and CPRC ch. 130 (design professionals).",
+    "applies_to": [
+      "oilfield-services"
+    ]
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "lien-waiver",
+    "rule_id": "tx-lien-waiver-must-use-statutory-form",
+    "question": "Is this custom-drafted lien waiver enforceable?",
+    "rule": "Almost certainly not, if it was drafted from scratch. A waiver and release given by a claimant or potential claimant is unenforceable unless it substantially complies with the applicable statutory form prescribed by § 53.284(b)-(e). The form that applies depends on the situation — subsection (b) governs a waiver executed in exchange for or to induce a PROGRESS payment where the claimant has not yet been paid, or where a single-payee or joint-payee check is given in exchange, and requires the prescribed 'CONDITIONAL WAIVER AND RELEASE ON PROGRESS PAYMENT' language.",
+    "trap": "Clarity is not the test here; conformity is, and form is only one of three conditions. Under § 53.281(b) a waiver and release is effective only if it substantially complies with a § 53.284 form, is signed by the claimant or its authorized agent, AND, for a conditional release, evidence of payment to the claimant exists. The four permutations -- conditional versus unconditional, progress versus final -- are not interchangeable: a conditional form is contingent on the check being endorsed and paid by the bank, which is the protection a claimant loses by signing the unconditional version early. § 53.283 goes further than form: a person may NOT require a claimant to execute an unconditional waiver for a progress or final payment unless the claimant has actually received that amount in good and sufficient funds. And § 53.286 voids, as against public policy, any contract purporting to waive the right to file or enforce a lien at all, except as § 53.282 provides -- so the advance lien waiver in a subcontract is void regardless of its wording. § 53.282 was not read and its exceptions are not established here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 53.284",
+        "decided": null,
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a waiver or release of a mechanic's lien claim is unenforceable unless it is signed and in substantially the following form",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_e511f2074b0f68d4",
+            "quote": "(a) A waiver and release given by a claimant or potential claimant is unenforceable unless it substantially complies with the applicable form described by Subsections (b)-(e).",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 53.281",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_cc3b38dac82c1343",
+            "quote": "(b) A waiver and release is effective to release the owner, the owner's property, the contractor, and the surety on a payment bond from claims and liens only if: (1) the waiver and release substantially complies with one of the forms prescribed by Section 53.284 ; (2) the waiver and release is signed by the claimant or the claimant's authorized agent; and (3) in the case of a conditional release, evidence of payment to the claimant exists.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 53.283",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_07e0d23a18f546b8",
+            "quote": "A person may not require a claimant or potential claimant to execute an unconditional waiver and release for a progress payment or final payment amount unless the claimant or potential claimant received payment in that amount in good and sufficient funds.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 53.286",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_784344f8f0c87052",
+            "quote": "Notwithstanding any other law and except as provided by Section 53.282 , any contract, agreement, or understanding purporting to waive the right to file or enforce any lien or claim created under this chapter is void as against public policy.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, third stride #13): the rule made form the whole test. § 53.281(b) makes it one of three conditions; § 53.283 prohibits REQUIRING an unconditional waiver before payment in good funds; § 53.286 voids any advance contractual lien waiver. All three sat in our corpus unquoted and are quoted now. §§ 53.281, 53.283, 53.284 (a)-(e) and 53.286 read in full; § 53.282 (the exceptions § 53.286 names) and § 53.285 were NOT read. Paraphrased from § 53.284(a) and the opening of (b), read 2026-09-14. Only subsection (b)'s form was reached in the text returned; subsections (c)-(e) prescribe the other three forms and were NOT read, so the rule names them without reproducing them. `decided` is null: no enactment line appeared in the chunks read.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "limitation-of-liability",
+    "rule_id": "tx-lol-fair-notice",
+    "question": "Will a Texas court enforce this clause against the drafter's own negligence, and does it need to be conspicuous?",
+    "rule": "A party seeking indemnity or exculpation for its own negligence must express that intent in specific terms within the four corners of the contract (the express negligence doctrine), and the provision must be conspicuous enough that a reasonable person would notice it. This fair-notice requirement applies to indemnity clauses and releases -- it does NOT apply to an ordinary damages cap that does not exculpate a party from its own future negligence.",
+    "trap": "A limitation-of-liability clause that reads fine in most states can be void in Texas if it is really an indemnity/release in disguise and fails express-negligence or conspicuousness. Conversely, over-applying this doctrine to every damages cap is its own error -- Green Int'l draws the line.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "725 S.W.2d 705",
+        "name": "Ethyl Corp. v. Daniel Construction Co.",
+        "decided": "1987",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "791d949e432a5233",
+            "cl_opinion_id": "2391654",
+            "quote": "The express negligence doctrine provides that parties seeking to indemnify the in-demnitee from the consequences of its own negligence must express that intent in specific terms. Under the doctrine of express negligence, the intent of the parties must be specifically stated within the four corners of the contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "853 S.W.2d 505",
+        "name": "Dresser Indus., Inc. v. Page Petroleum, Inc.",
+        "decided": "1993",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "622d24ba04b4fa9c",
+            "cl_opinion_id": "2450513",
+            "quote": "Therefore, we hold that the fair notice requirements of conspicuousness and the express negligence doctrine apply to both indemnity agreements and to releases in the circumstances before us",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "951 S.W.2d 384",
+        "name": "Green Int'l, Inc. v. Solis",
+        "decided": "1997",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "19f0ffd27a481867",
+            "cl_opinion_id": "2382247",
+            "quote": "However, our holding in Dresser is explicitly limited to releases and indemnity clauses in which one party exculpates itself from its own future negligence.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-14",
+    "notes": "AUDITED 2026-09-26 (Texas audit, final stride #15): CORRECT. Ethyl, Dresser and Green each read in context; the express-negligence formulation, the extension to releases, and Green's 'explicitly limited to releases and indemnity clauses in which one party exculpates itself from its own future negligence' are all verbatim. All three citations exist in the index and their names match; the automated support-verdict check returned 'unclear' for all three (mechanical word-overlap scoring against modern-phrased holdings, not a negative finding -- see the DocketX Texas contract-law rule notes). Decided years are from legal research, not independently re-verified against a live date source this pass. CORPUS READ 2026-09-16 (docketx/us-caselaw-tx): all three quotes are majority text. Green Int'l's clause was a no-damages-for-delay provision, not a damages cap; the quoted limit ('explicitly limited to releases and indemnity clauses in which one party exculpates itself from its own future negligence') is what the row's damages-cap sentence rests on, and applying it to caps is an inference from that limit rather than Green's facts. Green's dissent would have applied Dresser to the delay clause."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "limitation-of-remedy",
+    "rule_id": "tx-exclusive-remedy-and-essential-purpose",
+    "question": "Is this repair-or-replace-only remedy clause going to hold, and does it cap consequential damages?",
+    "rule": "Conditionally. The agreement may provide remedies in addition to or in substitution for those in the chapter and may limit or alter the measure of damages -- for example by limiting the buyer's remedies to return of the goods and repayment of the price, or to repair and replacement of non-conforming goods or parts. But resort to a stated remedy is OPTIONAL unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy. Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the title. Separately, consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable: limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable, but limitation of damages where the loss is COMMERCIAL is not. All of this is subject to § 2.718 on liquidation and limitation of damages.",
+    "trap": "A two-stage failure that drafters routinely walk into. First, if the contract does not say the remedy is EXCLUSIVE, it is merely one more option added to the buyer's statutory remedies — the cap does nothing. Second, even a properly exclusive remedy is undone by § 2.719(b) when it fails of its essential purpose, the classic case being a repair-or-replace promise for a defect that cannot be repaired. Drafting the exclusivity and the consequential-damages exclusion as independent clauses matters for exactly that reason.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2.719",
+        "decided": null,
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "an agreement may limit the buyer's remedies to repair or replacement and where an exclusive remedy fails of its essential purpose",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3300711ea05295f3",
+            "quote": "(2) resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy. (b) Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title. (c) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2.719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3300711ea05295f3",
+            "quote": "(a) Subject to the provisions of Subsections (b) and (c) of this section and of the preceding section on liquidation and limitation of damages, (1) the agreement may provide for remedies in addition to or in substitution for those provided in this chapter and may limit or alter the measure of damages recoverable under this chapter, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of non-conforming goods or parts;",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2.719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3300711ea05295f3",
+            "quote": "(b) Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title. (c) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, fourth stride #9): the rule stated (a)(1), (b) and (c) on the strength of one block quoting (a)(2) alone, and dropped (c)'s closing clause -- 'limitation of damages where the loss is commercial is not' prima facie unconscionable -- which is the half a commercial drafter needs. Now quoted in full, (a)-(c). § 2.718, which (a) makes the section subject to, was NOT read. Paraphrased from § 2.719(a)-(c) read 2026-09-14. `decided` is null: no enactment line appeared in the chunks read. TEXT CAVEAT: subsection (c)'s final clause is cut off in our corpus at 'but limitation of damages where the loss is' — the commercial-loss half of that sentence was NOT read, so the rule above states only the consumer personal-injury half, which is the part that was legible. CORPUS READ 2026-09-16: the published § 2.719(c) is complete -- 'Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.' (quoted)."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "limitations-period",
+    "rule_id": "tx-contractual-shortening-two-year-floor",
+    "question": "Can the contract shorten the time the other side has to sue?",
+    "rule": "Not below two years, with one priced exception. A person may not enter a stipulation, contract or agreement that purports to limit the time in which to bring suit on that stipulation, contract or agreement to a period shorter than two years, and an agreement establishing a limitations period shorter than two years is VOID in this state. The section does not apply to an agreement relating to the sale or purchase of a business entity where a party pays or receives, or is obligated to pay or entitled to receive, consideration under it with an aggregate value of not less than $500,000.",
+    "trap": "The one-year suit-limitation clause that is routine in commercial forms elsewhere is simply void in Texas, and voiding it does not shorten anything — it restores the ordinary statutory period, which for most contract claims is four years. This rule is the companion to the § 16.004 rule in this store, and answers the question that row deliberately left open.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 16.070",
+        "decided": null,
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a contract stipulation that limits the time in which to bring suit to a period shorter than two years is void",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_820473da99243f1c",
+            "quote": "(a) Except as provided by Subsection (b), a person may not enter a stipulation, contract, or agreement that purports to limit the time in which to bring suit on the stipulation, contract, or agreement to a period shorter than two years. A stipulation, contract, or agreement that establishes a limitations period that is shorter than two years is void in this state. (b) This section does not apply to a stipulation, contract, or agreement relating to the sale or purchase of a business entity if a party to the stipulation, contract, or agreement pays or receives or is obligated to pay or entitled to receive consideration under the stipulation, contract, or agreement having an aggregate value of not less than $500,000.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 16.070",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_820473da99243f1c",
+            "quote": "(b) This section does not apply to a stipulation, contract, or agreement relating to the sale or purchase of a business entity if a party to the stipulation, contract, or agreement pays or receives or is obligated to pay or entitled to receive consideration under the stipulation, contract, or agreement having an aggregate value of not less than $500,000.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, second stride #7): the rule said subsection (b) had a threshold and did not state it. It is $500,000, aggregate, for the sale or purchase of a business entity, and it is now quoted. A reader with a $600,000 business sale could not previously tell from the served text whether a one-year suit clause was void. Paraphrased from § 16.070(a) read 2026-09-14. TEXT CAVEAT, and the reason the rule says 'the threshold stated in subsection (b)' rather than a number: subsection (b)'s consideration figure is CUT OFF in our corpus mid-sentence at 'is obligated to pay or entitled to receive consideration under the stipulation, contrac'. The business-entity exception is real and its threshold was not read, so it is named and not quantified. `decided` is null for the same reason — no enactment line was reached. CORPUS READ 2026-09-16: the published § 16.070(b) is complete, and its threshold is 'an aggregate value of not less than $500,000' (quoted). The served chunk's truncation did not affect the published dataset."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "limitations-period",
+    "rule_id": "tx-four-year-limitations-on-contract-claims",
+    "question": "How long does a party have to sue on this contract in Texas?",
+    "rule": "Four years, but from one of two different sections depending on the claim. Section 16.004(a) gives four years from the day the cause of action accrues for: specific performance of a contract for the conveyance of real property; penalty or damages on the penal clause of a bond to convey real property; DEBT; fraud; and breach of fiduciary duty. Subsection (c) puts partnership-accounts settlements and an action on an open or stated account, or on a mutual and current account concerning the trade of merchandise between merchants, at four years as well, and for those the cause of action accrues on the day the dealings in which the parties were interested together cease. Separately, § 16.051 is the RESIDUAL period: every action for which there is no express limitations period, except an action for the recovery of real property, must be brought not later than four years after the day the cause of action accrues.",
+    "trap": "Read § 16.004's list again: it never uses the phrase 'breach of contract'. That is the trap, and the usual answer to it is also wrong. An ordinary breach-of-contract claim is not made to fit 'debt' in § 16.004(a)(3); it is an action for which Chapter 16 states no express period, which is what § 16.051 is for. Both roads end at four years, so the mistake rarely changes the number — but it changes which section you cite, and a brief that pins a services dispute to § 16.004(a)(3) is citing the debt provision for a claim the section does not name. The accrual rule for accounts is separately unusual: under § 16.004(c) it starts when the parties' dealings CEASE, not at first breach, so a running account can extend the exposure well past the individual transaction.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 16.004",
+        "decided": "1999-08-30",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a person must bring suit on a breach of contract not later than four years after the day the cause of action accrues",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_4d17797f4d637818",
+            "quote": "(a) A person must bring suit on the following actions not later than four years after the day the cause of action accrues: (1) specific performance of a contract for the conveyance of real property; (2) penalty or damages on the penal clause of a bond to convey real property; (3) debt; (4) fraud; or (5) breach of fiduciary duty.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 16.051",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_af020f1445fd7573",
+            "quote": "Every action for which there is no express limitations period, except an action for the recovery of real property, must be brought not later than four years after the day the cause of action accrues.",
+            "checked": "2026-09-25"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 16.004",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_4d17797f4d637818",
+            "quote": "(c) A person must bring suit against his partner for a settlement of partnership accounts, and must bring an action on an open or stated account, or on a mutual and current account concerning the trade of merchandise between merchants or their agents or factors, not later than four years after the day that the cause of action accrues. For purposes of this subsection, the cause of action accrues on the day that the dealings in which the parties were interested together cease.",
+            "checked": "2026-09-25"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-25 (Texas adversarial audit, sample #11): the trap correctly spotted that § 16.004 never says 'breach of contract' and then gave the wrong route, telling the reader the ordinary contract claim reaches four years 'through debt in subsection (a)(3)'. The section that catches a contract claim with no express period is § 16.051, the residual limitations period, and it was in our corpus unquoted (us-statutes tx-stat_af020f1445fd7573) one row from the section the rule was built on. § 16.051 is now an authority in its own right, and § 16.004(c) is quoted in full including the partnership-accounts limb the rule had dropped. § 16.004(b) (bond of an executor, administrator or guardian) is read and deliberately not in the rule: it is not a contract-drafting question. Contractual shortening of a limitations period is governed by other sections that were not read and are not addressed here. Paraphrased from the § 16.004 text read in full on 2026-09-14. `decided` is taken from the enactment line carried in the section text itself ('Acts 1985, 69th Leg., ch. 959 ... Amended by Acts 1999, 76th Leg., ch. 950, Sec. 1, eff. Aug. 30, 1999') and is the last amendment date stated there — it is NOT evidence that this is the current text, because the index carries no effective-date coverage. Contractual shortening of a limitations period is governed by other sections that were not read and are not addressed here."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "liquidated-damages",
+    "rule_id": "tx-liquidated-damages-vs-penalty",
+    "question": "Will a Texas court enforce this liquidated-damages formula, or strike it as an unenforceable penalty?",
+    "rule": "A court will enforce a liquidated-damages provision only on two findings: that the harm caused by the breach is incapable or difficult of estimation, and that the amount is a reasonable forecast of just compensation. A provision that fails either is an unenforceable penalty. Penalty is a defence in the nature of an avoidance or affirmative defence, which ordinarily must be pleaded -- but it 'is not waived by the failure to plead it if it is apparent on the face of the petition and established as a matter of law' (Phillips v. Phillips).",
+    "trap": "A round-number or formulaic damages clause that bears no relationship to the actual anticipated harm reads as a penalty regardless of what the contract calls it -- Phillips itself struck a clause fixing ten times actual damages, precisely because a multiplier concedes that actual damages can be calculated. The pleading point is the one drafters get backwards in both directions. It is not enough to say 'penalty must be pleaded or it is waived': where the plaintiff's own petition shows the clause is a penalty as a matter of law, a general denial preserves the defence, because pleading an unenforceable provision anticipates the defence. Nor is the exception general -- 'Whenever the defense is not clearly established on the face of the pleadings ... it must be pleaded' -- and where unreasonableness turns on what the actual damages were, the party resisting the clause carries the burden of proving them. The other direction matters too: FPL Energy holds that Phillips 'did not create a broad power to retroactively invalidate liquidated damages provisions that appear reasonable as written' -- a clause that was a reasonable forecast when made is not undone merely because the actual loss came in lower.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "820 S.W.2d 785",
+        "name": "Phillips v. Phillips",
+        "decided": "1991",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "supports",
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "c59fdfc97911816e",
+            "cl_opinion_id": "1522113",
+            "quote": "For the same reasons, we hold that the defense of penalty is not waived by the failure to plead it if it is apparent on the face of the petition and established as a matter of law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "426 S.W.3d 59",
+        "name": "FPL Energy, LLC v. TXU Portfolio Management Co.",
+        "decided": "2014",
+        "court": "Tex.",
+        "verified": {
+          "support_verdict": "supports",
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "5a876608d21ce418",
+            "cl_opinion_id": "5115349",
+            "quote": "In Phillips v. Phillips, we acknowledged this principle and restated the two indispensable findings a court must make to enforce contractual damages provisions: (1) “the harm caused by the breach is incapable or difficult of estimation,” and (2) “the amount of liquidated damages called for is a reasonable forecast of just compensation.”",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "820 S.W.2d 785",
+        "name": "Phillips v. Phillips",
+        "decided": "1991",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "c59fdfc97911816e",
+            "cl_opinion_id": "1522113",
+            "quote": "If the general partner breaches his trust hereunder, he shall pay to the limited partner as liquidated damages ten times the amount she loses as a result of such breaches of trust.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "820 S.W.2d 785",
+        "name": "Phillips v. Phillips",
+        "decided": "1991",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "c59fdfc97911816e",
+            "cl_opinion_id": "1522113",
+            "quote": "Whenever the defense is not clearly established on the face of the pleadings, as it is here, it must be pleaded.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "426 S.W.3d 59",
+        "name": "FPL Energy, LLC v. TXU Portfolio Management Co.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "5a876608d21ce418",
+            "cl_opinion_id": "5115349",
+            "checked": "2026-09-26",
+            "quote": "Phillips did not create a broad power to retroactively invalidate liquidated damages provisions that appear reasonable as written."
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "AUDITED 2026-09-26 (Texas audit, fourth stride #14): CORRECT. All four quotes read in context; the 'ten times' clause, the 'not incapable or difficult of estimation' reasoning, the face-of-the-petition holding and the 'must be pleaded' limit are each verbatim in Phillips, and 'the burden of proving unreasonableness falls to FPL' is verbatim in FPL Energy. Added FPL's 'not a broad power to retroactively invalidate' sentence as a block because the trap carried only the direction that strikes clauses. Instrument note: the row grep returned 0 sentences for the existing FPL anchor 'In Phillips v. Phillips, we acknowledged...' because the sentence splitter breaks on 'v.'; quote_in_text() on the raw row is True. RULE TEXT CORRECTED 2026-09-16; what it used to say and why it was wrong is in the last paragraph. Flores v. Millennium Interests, 185 S.W.3d 427, was identified in earlier research as applying the same doctrine to a STATUTORY liquidated-damages provision (Tex. Prop. Code 5.077(c)) rather than a negotiated contract clause; it is still deliberately excluded rather than blurring the two. WHAT WAS READ. Phillips (docketx/us-caselaw-tx row c59fdfc97911816e, cl_opinion_id 1522113) was read in full on 2026-09-16: the opinion is Justice Hecht's for the Court, with Justice Gonzalez dissenting joined by two, so both quoted passages are majority. FPL Energy (row 5a876608d21ce418, cl_opinion_id 5115349, decided 2014-03-21) is Justice Green's opinion of the Court with no separate opinion, and it is the more recent statement of the same two-part test; it is corpus-verified for the test, Phillips for the pleading holding. Neither cite resolves from the published citation field (empty in all us-caselaw-tx rows); both resolved through the CourtListener citation map. GOOD-LAW SCAN 2026-09-16 (caselaw-lookup.py citing, full scan): 220 later Texas opinions mention 820 S.W.2d 785 and 64 mention 426 S.W.3d 59; none overrule, disapprove or limit either, and the Supreme Court has gone on citing Phillips for the pleading rule as recently as City of Houston v. Rodriguez (Tex. 2024) ('As a general rule, an affirmative defense must be pleaded or it is waived.'). THE CORRECTION. The rule's second sentence read 'Penalty is an affirmative defense the resisting party must raise and prove.' That overstated Phillips in both halves. On raising, Phillips holds 'Penalty is, in the language of the rule, a \"matter constituting an avoidance or affirmative defense\"' and that as a general rule such a defence is waived if not pleaded -- but then holds, in the sentence now quoted above, that it is NOT waived by a failure to plead where it is apparent on the face of the petition and established as a matter of law, and that 'Contrary to the dissent's very exaggerated alarms, we do not hold that the affirmative defense of penalty need never be pleaded. Whenever the defense is not clearly established on the face of the pleadings, as it is here, it must be pleaded.' On proof, Phillips's language is permissive and conditional -- 'to show that a liquidated damages provision is unreasonable because the actual damages incurred were much less than the amount contracted for, a defendant may be required to prove what the actual damages were' -- and FPL Energy puts it as a burden that arises on that particular assertion ('The burden of proving unreasonableness falls to FPL'), not as a general requirement to prove a penalty in every case. The rule now states the two findings and the pleading exception in the Court's own terms. DATE: the corpus row is dated 1992-01-29 against decided 1991 here; the opinion text says 'December 11, 1991. Rehearing Overruled January 29, 1992.', so CourtListener has dated the row to the rehearing and 1991 is the decision year, which the reporter citation also carries. TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): the trap's 'ten times actual damages' fact and the quoted 'Whenever the defense is not clearly established on the face of the pleadings ... it must be pleaded' had no blocks; both sentences are in Phillips (row c59fdfc97911816e) and are on file now."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "non-competition",
+    "rule_id": "tx-noncompete-ancillary-and-timing",
+    "question": "Is this non-compete enforceable, and does the consideration have to be exchanged at signing?",
+    "rule": "A covenant not to compete is enforceable if it is ancillary to or part of an otherwise enforceable agreement at the time the agreement is made, and only to the extent its limitations as to time, geographical area and scope of activity are reasonable and impose no greater restraint than is necessary to protect the promisee's goodwill or other business interest. The employer's consideration does NOT have to give rise to its interest in restraining the employee from competing: consideration reasonably related to an interest worthy of protection -- trade secrets, confidential information or goodwill -- satisfies the statutory nexus (Marsh USA v. Cook, 2011, which abandoned the stricter test Light had stated). The employer's promise may still be executory when the agreement is made; if the employer then performs and a unilateral contract is formed, the covenant is enforceable so long as the Act's other requirements are met (Sheshunoff, 2006).",
+    "trap": "The superseded test is the one still quoted. Light (1994) required that the employer's consideration 'give rise to the employer's interest in restraining the employee from competing', and that sentence is still repeated in briefs and forms, but Marsh USA Inc. v. Cook (Tex. 2011) held it 'is not anchored in the text of the Act' and replaced it with a reasonable-relationship nexus -- which is why goodwill-based consideration such as stock options now supports a covenant. Light is abrogated, not erased: its 'otherwise enforceable agreement' step (mutual non-illusory promises) and its second prong (the covenant must be designed to enforce the employee's own return promise) were not the question in Marsh. A covenant that is a stand-alone employee promise with no new consideration from the employer still fails (Sheshunoff). The health-care carve-outs are separate statutory conditions, not reasonableness factors: physicians under § 15.50(b) (buyout capped at a year's pay, one-year term, five-mile radius, clearly stated written terms, plus patient-list, records and continuing-care requirements), and since S.B. 1318 (eff. Sept. 1, 2025) dentists, nurses and physician assistants under § 15.501 (buyout, one year, five miles, written terms). And the same 2025 Act added § 15.50(d): notwithstanding any other law, a physician non-compete is VOID if the physician is involuntarily discharged without good cause, with 'good cause' defined as a reasonable basis directly related to the physician's conduct, job performance, or contract or employment record. A physician covenant that satisfies every (b) requirement is still void on a no-cause discharge.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "883 S.W.2d 642",
+        "name": "Light v. Centel Cellular Co. of Tex.",
+        "decided": "1994",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "98cf3d63f99b57e9",
+            "cl_opinion_id": "1525150",
+            "checked": "2026-09-26",
+            "quote": "Therefore, in order for a covenant not to compete to be ancillary to an otherwise enforceable agreement between employer and employee: (1) the consideration given by the employer in the otherwise enforceable agreement must give rise to the employer's interest in restraining the employee from competing; and (2) the covenant must be designed to enforce the employee's consideration or return promise in the otherwise enforceable agreement."
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "354 S.W.3d 764",
+        "name": "Marsh USA Inc. v. Cook",
+        "decided": "2011",
+        "court": "Tex.",
+        "verified": {
+          "support_verdict": "supports",
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "85385c21b4a84b05",
+            "cl_opinion_id": "2541088",
+            "quote": "Consideration for a noncompete that is reasonably related to an interest worthy of protection, such as trade secrets, confidential information or goodwill, satisfies the statutory nexus; and there is no textual basis for excluding the protection of much of goodwill from the business interests that a noncompete may protect.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "209 S.W.3d 644",
+        "name": "Alex Sheshunoff Mgmt. Servs., L.P. v. Johnson",
+        "decided": "2006",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "support_verdict": "unclear",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "ecfc809b4e80cb9c",
+            "cl_opinion_id": "894789",
+            "quote": "we hold that a covenant not to compete is not unenforceable under the Covenants Not to Compete Act solely because the employer's promise is executory when made. If the agreement becomes enforceable after the agreement is made because the employer performs his promise under the agreement and a unilateral contract is formed, the covenant is enforceable if all other requirements under the Act are met.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 15.50",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "checked": "2026-09-14",
+          "probe_query": "covenant not to compete is enforceable if it is ancillary to an otherwise enforceable agreement",
+          "index": "statutes-exact (brute-force cosine on the corpus host; the SERVED approximate index does NOT return this section for this query -- see the DocketX Texas retrieval-recall measurements)",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_06c0abd3300be49a",
+            "quote": "a covenant not to compete is enforceable if it is ancillary to or part of an otherwise enforceable agreement at the time the agreement is made to the extent that it contains limitations as to time, geographical area, and scope of activity to be restrained that are reasonable and do not impose a greater restraint than is necessary to protect the goodwill or other business interest of the promisee.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 15.52",
+        "verified": {
+          "retrievable": true,
+          "rank": 2,
+          "checked": "2026-09-14",
+          "probe_query": "covenant not to compete is enforceable if it is ancillary to an otherwise enforceable agreement",
+          "index": "statutes",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_f145f270eae3f9b0",
+            "quote": "The criteria for enforceability of a covenant not to compete provided by Sections 15.50 and 15.501 and the procedures and remedies in an action to enforce a covenant not to compete provided by Section 15.51 are exclusive and preempt other law, including common law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 15.50",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_06c0abd3300be49a",
+            "quote": "the covenant must provide for a buyout of the covenant by the physician in an amount that is not greater than the physician's total annual salary and wages at the time of termination of the contract or employment;",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 15.50",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_06c0abd3300be49a",
+            "quote": "expire not later than the one-year anniversary of the date the contract or employment has been terminated; (B) limit the geographical area subject to the covenant to no more than a five-mile radius from the location at which the physician primarily practiced before the contract or employment terminated; and (C) have terms and conditions clearly and conspicuously stated in writing.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 15.501",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_5209e4b701d7520e",
+            "quote": "A covenant not to compete relating to the practice of dentistry or nursing, or practice as a physician assistant, as applicable, is not enforceable against a health care practitioner unless the covenant: (1) provides for a buyout of the covenant by the health care practitioner in an amount that is not greater than the practitioner's total annual salary and wages at the time of termination of the practitioner's contract or employment; (2) expires not later than the one-year anniversary of the date the contract or employment has been terminated; (3) limits the geographical area subject to the covenant to no more than a five-mile radius from the location at which the health care practitioner primarily practiced before the contract or employment terminated; and (4) has terms and conditions that are clearly and conspicuously stated in writing.",
+            "checked": "2026-09-22"
+          }
+        },
+        "decided": "2025-09-01"
+      },
+      {
+        "kind": "case",
+        "cite": "354 S.W.3d 764",
+        "name": "Marsh USA Inc. v. Cook",
+        "decided": "2011",
+        "court": "Tex.",
+        "verified": {
+          "cite_in_index": true,
+          "name_matches_index": true,
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "85385c21b4a84b05",
+            "cl_opinion_id": "2541088",
+            "quote": "is not anchored in the text of the Act. See Light, 883 S.W.2d at 647 . We attempt to construe the Legislature's words.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "209 S.W.3d 644",
+        "name": "Alex Sheshunoff Mgmt. Servs., L.P. v. Johnson",
+        "decided": "2006",
+        "court": "Tex.",
+        "note": "quoted here for the Light two-prong test it sets out and Marsh later abrogated, not as current law",
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "ecfc809b4e80cb9c",
+            "cl_opinion_id": "894789",
+            "quote": "Under  Light,  for a covenant to be \"ancillary to or part of\" an enforceable agreement under section 15.50, \"(1) the consideration given by the employer in the otherwise enforceable agreement must give rise to the employer's interest in restraining the employee from competing; and (2) the covenant must be designed to enforce the employee's consideration or return promise in the otherwise enforceable agreement.\"",
+            "checked": "2026-09-25"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 15.50",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_06c0abd3300be49a",
+            "quote": "(d) Notwithstanding any other law, a covenant not to compete relating to the practice of medicine is void and unenforceable against a person licensed as a physician by the Texas Medical Board if the physician is involuntarily discharged from contract or employment without good cause. For purposes of this subsection, \"good cause\" means a reasonable basis for discharge of a physician from contract or employment that is directly related to the physician's conduct, including the physician's conduct on the job or otherwise, job performance, and contract or employment record.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, outside-frame rule): (1) § 15.50(d), added by S.B. 1318 eff. Sept. 1, 2025, voids a physician non-compete on involuntary discharge without good cause; the trap described the 2025 Act's § 15.501 and never mentioned (d), which is the larger change for physicians. Now quoted. (2) The Light authority had no corpus block although the opinion is in docketx/us-caselaw-tx (row 98cf3d63f99b57e9, cl_opinion_id 1525150, 24,537 chars); the two-part test the trap quotes is verbatim there and is now the block. That takes this row from 9 of 10 authorities verified to 11 of 11 and into the audit frame. § 15.51 (procedures and remedies, including reformation) was not read and is not in this rule. RULE TEXT CORRECTED 2026-09-16 (see the last paragraph for what it used to say and why). Order of authority: sec. 15.50 states the test; Marsh USA Inc. v. Cook (Tex. 2011) states what the 'ancillary to or part of' nexus requires TODAY; Sheshunoff (2006) answers the timing-of-consideration question; Light (1994) is kept because it is the case Marsh abrogated and because the parts of it Marsh did not reach are still cited -- it is index-verified only and is deliberately NOT corpus-verified, since its quotable holding is the superseded 'give rise' test. STATUTES: sec. 15.50 (enforceability criteria) and sec. 15.52 (the Act is exclusive and preempts common law) are both retrievable from the live statutes shard, but 15.50 ranks 7th in the default hybrid mode for a query that is a near-verbatim quote of its own text, behind 15.52 and an unrelated hospital-district section. Diagnosed 2026-09-14: the index reports its keyword signal as a 1.0/0.0 flag rather than a graded score, so in hybrid fusion every keyword-matched section ties and ordering falls to the vector rank, which prefers 15.52. In keyword mode 15.50 ranks 1st -- but keyword mode is not a general fix (it worsens two of five other statute probes). Index-level defect, reported to the index owner; see the DocketX Texas contract-law rule notes. THE 15.50 ROW IS THE STORE CATCHING A SERVING DEFECT. Exact search over the statutes corpus ranks Tex. Bus. & Com. Code 15.50 FIRST for this probe. The index we actually serve returns 15.51, 15.52 and two unrelated sections and omits 15.50 entirely, because its HNSW sidecar (M=16, ef=200) drops the single best-matching chunk out of the top 20 on 12.5% of 40 measured queries. The rank recorded here is therefore the exact-search rank and says so in verified.index; it is deliberately NOT presented as something a customer can reproduce today. 15.52, by contrast, is verified against the served index and reproduces. WHAT THIS ROW USED TO SAY, AND THE CORRECTION MADE 2026-09-16. The rule read 'the employer's return promise must give rise to an interest worth protecting (e.g. confidential information), not just at-will employment alone', and its trap said Sheshunoff 'overruled that specific gloss'. Both were wrong as statements of current law. The 'give rise' clause is Light's test, and Marsh USA Inc. v. Cook, 354 S.W.3d 764 (Tex. 2011) (docketx/us-caselaw-tx row 85385c21b4a84b05, cl_opinion_id 2541088, resolved through the CourtListener citation map; the published citation field is empty) abandoned it. Read in full on 2026-09-16: the opinion is the Court's, delivered by Justice Wainwright and joined by four justices (Willett concurred in the judgment only; Green dissented with two), so the quoted passage is a majority holding, in part II.C of the analysis and not in a separate opinion. Marsh holds that 'The former judicial requirement that the \"consideration given by the employer in the otherwise enforceable agreement must give rise to the employer's interest in restraining the employee from competing\" is not anchored in the text of the Act', and the corpus-verified sentence above states the replacement nexus. Marsh did NOT displace Light's second prong or the 'otherwise enforceable agreement' step, which is why the trap keeps them. SHESHUNOFF IS UNDISTURBED BY MARSH, checked in Marsh's own text on 2026-09-16: Marsh abrogates Light's nexus test only, and reaffirms Sheshunoff's executory-promise holding in terms -- 'The covenant not to compete in Sheshunoff was enforceable despite being supported by an executory unilateral contract.' -- adding 'see also Vanegas v. Am. Energy Servs., 302 S.W.3d 299, 302-03 (Tex.2009) (applying Sheshunoff's unilateral contract rationale)'. (A peer session reported that citation as Mann Frankfort; the sentence in the published Marsh row cites Vanegas, and Mann Frankfort, 289 S.W.3d 844, is cited elsewhere in Marsh for the implied promise to supply confidential information.) Marsh discusses Sheshunoff throughout and nowhere disapproves it, so the timing-of-consideration proposition this row cites Sheshunoff for is current law. Sheshunoff's own words are 'we hold that a covenant not to compete is not unenforceable ... solely because the employer's promise is executory when made'; it modified rather than overruled Light ('Today's Departure From Light', disagreeing with Light's footnote six), so the trap no longer says 'overruled'. GOOD-LAW SCAN 2026-09-16 (caselaw-lookup.py citing, full scan of us-caselaw-tx): 113 later Texas opinions mention 354 S.W.3d 764 and none overrule, disapprove or limit Marsh -- the later Supreme Court hits (e.g. Exxon Mobil Corp. v. Drennen, 2014; Brazos Electric, 2019) cite it as current law -- while 240 opinions mention Light 883 S.W.2d 642, repeatedly tagged 'abrogated ... by Marsh USA'. §§ 15.50 and 15.52 are corpus-verified from their statutory text. THE 2025 AMENDMENT, now read in the published text: S.B. 1318 (89th Leg., eff. Sept. 1, 2025) amended § 15.50 and added § 15.501 (docketx/us-statutes row tx-stat_5209e4b701d7520e), which conditions covenants against dentists, nurses and physician assistants on a buyout capped at annual salary and wages, a one-year expiry, a five-mile radius and clearly and conspicuously stated written terms -- the same shape as the physician conditions now in § 15.50(b), which cap the buyout at the physician's total annual salary and wages and require expiry within one year, a five-mile radius and clearly and conspicuously stated terms. Which of those physician conditions predate S.B. 1318 is NOT established here: the published section carries its amendment history but not a dated text, and this store holds no statute effective dates. Those subsections are described here from the full section text read on 2026-09-16 but are not the corpus-quoted passage, which is § 15.50(a). TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): the trap's physician terms (§ 15.50(b): buyout capped at annual salary and wages, one-year expiry, five-mile radius, clearly and conspicuously stated terms) and the § 15.501 terms for dentists, nurses and physician assistants (S.B. 1318, eff. Sept. 1, 2025) were stated with blocks only for § 15.50(a) and § 15.52; § 15.50(b) and § 15.501 (tx-stat_5209e4b701d7520e, the Bus. & Com. Code row -- the Fin. Code and Water Code rows carry the same number) read in full and blocked. Marsh's 'is not anchored in the text of the Act' was quoted with no block; the sentence is on file now. LIGHT QUOTE NOW VERIFIED THROUGH SHESHUNOFF, 2026-09-25. Measured first: Light, 883 S.W.2d 642, is NOT in our Texas case-law corpus at all — a scan of every row for that citation returns zero, so 'index-verified only' above means the CITATION appears in our retrieval index, not that we hold the opinion. The trap quotes Light's 'give rise' sentence, and until now nothing we hold proved we quoted it accurately. The Supreme Court of Texas sets that test out verbatim in Sheshunoff's majority (row ecfc809b4e80cb9c, cl 894789, at character 11,447), and that sentence is now carried as its own verified block. This does NOT make Light current law and is not meant to: the block's note says it is quoted for the abrogated test, the rule still states Marsh's reasonable-relationship nexus as the law, and Light itself is still deliberately not corpus-verified. Three later passages in the same opinion state the test too and were NOT used because they are in a separate opinion ('I would disapprove of these court-made requirements'), not the majority."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "prompt-payment",
+    "rule_id": "tx-prompt-pay-35-days-and-flow-down",
+    "question": "How long can an owner sit on a contractor's payment request, and does that obligation flow down?",
+    "rule": "Thirty-five days at the top, then SEVEN days at every tier below. If an owner, or a person authorized to act on the owner's behalf, receives a written payment request from a contractor for an amount allowed under the contract for properly performed work or suitably stored or specially fabricated materials, the owner shall pay that amount -- less any amount withheld as authorized by statute -- not later than the 35th day after receiving the request. A contractor who receives that payment must pay each subcontractor its attributable share, including interest if any, not later than the SEVENTH day after receiving the owner's payment; and a subcontractor that receives payment must pay its own subcontractors within seven days on the same terms. 'Owner' excludes a governmental entity, so the chapter does not reach public work.",
+    "trap": "The clock is keyed to a WRITTEN payment request and to amounts already allowed under the contract, so the practical fight is usually about whether a conforming request was ever made rather than about the 35 days. The flow-down in (b) and (c) is statutory, automatic and FAST -- seven days, not thirty-five -- which is what makes aggressive pay-when-paid drafting a live question; the interaction between such clauses and this chapter was not read and is not addressed here. Two more things the served headline hid: an unpaid amount bears interest at 1-1/2 percent a MONTH from the day after it is due (§ 28.004), and § 28.003 lets an obligor in a good-faith dispute withhold up to 110 percent of the disputed difference on a residence of four units or fewer, 100 percent on anything else, with a dispute over whether the work was done properly counting as good-faith.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 28.002",
+        "decided": null,
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "an owner who receives a written payment request from a contractor shall pay the amount due not later than the 35th day",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3a35312edd9c843d",
+            "quote": "(a) If an owner or a person authorized to act on behalf of the owner receives a written payment request from a contractor for an amount that is allowed to the contractor under the contract for properly performed work or suitably stored or specially fabricated materials, the owner shall pay the amount to the contractor, less any amount withheld as authorized by statute, not later than the 35th day after the date the owner receives the request. (b) A contractor who receives a payment under Subsection (a) or otherwise from an owner in connection with a contract to improve real property shall pay each of its subcontractors the portion of the owner's payment, including interest, if any, that is attributable to work properly performed or materials suitably stored or specially fabricated as provided under the contract by that subcontractor, to the extent of that subcontractor's interest in the owner's payment.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 28.002",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3a35312edd9c843d",
+            "quote": "The payment required by this subsection must be made not later than the seventh day after the date the contractor receives the owner's payment. (c) A subcontractor who receives a payment under Subsection (b) or otherwise from a contractor in connection with a contract to improve real property shall pay each of its subcontractors the portion of the payment, including interest, if any, that is attributable to work properly performed or materials suitably stored or specially fabricated as provided under the contract by that subcontractor, to the extent of that subcontractor's interest in the payment. The payment required by this subsection must be made not later than the seventh day after the date the subcontractor receives the contractor's payment.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 28.003",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_b4d5f412d10f688e",
+            "quote": "(a) If a good faith dispute exists concerning the amount owed for a payment requested or required by this chapter under a contract for construction of or improvements to a detached single-family residence, duplex, triplex, or quadruplex, the owner, contractor, or subcontractor that is disputing its obligation to pay or the amount of payment may withhold from the payment owed not more than 110 percent of the difference between the amount the obligee claims is due and the amount the obligor claims is due. A good faith dispute includes a dispute regarding whether the work was performed in a proper manner.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 28.004",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_36e882f582cb9502",
+            "quote": "(a) An unpaid amount required under this chapter begins to accrue interest on the day after the date on which the payment becomes due. (b) An unpaid amount bears interest at the rate of 1-1/2 percent each month.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Prop. Code § 28.001",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d7a9e1725094cc85",
+            "quote": "(4) \"Owner\" means a person or entity, other than a governmental entity, with an interest in real property that is improved, for whom an improvement is made, and who ordered the improvement to be made.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, fourth stride #19): the rule was headlined 'Thirty-five days' and described the flow-down with no clock; § 28.002(b) and (c) give the contractor and each subcontractor SEVEN days. Also absent: § 28.004 interest (1-1/2 percent a month), § 28.003 good-faith withholding (110 percent residential / 100 percent otherwise; (b) is stated from the text read, (a) is the block), and § 28.001(4)'s exclusion of governmental owners. Chapter 28 read: §§ 28.001-28.004; later sections (attorney's fees, venue, the pay-when-paid interaction) NOT read. Paraphrased from § 28.002(a)-(b) read 2026-09-14; subsection (b)'s sentence runs past the end of the chunk returned and only the legible portion is summarised. `decided` is null: no enactment line appeared in the chunks read. § 28.008 ranked second on this probe and is the obvious next row in this family.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "statute-of-frauds",
+    "rule_id": "tx-sof-writing-and-signature",
+    "question": "Does this agreement have to be in writing to be enforceable in Texas?",
+    "rule": "For the categories listed in § 26.01(b), yes: the promise or agreement, or a memorandum of it, is not enforceable unless it is in writing AND signed by the person to be charged, or by someone lawfully authorized to sign for them. The listed categories are: a promise by an executor or administrator to answer out of his own estate for a debt or damage due from the testator or intestate; a promise to answer for the debt, default or miscarriage of another person; an agreement made on consideration of marriage or of nonmarital conjugal cohabitation; a contract for the sale of real estate; a lease of real estate for a term longer than one year; an agreement which is not to be performed within one year from the date of making it; a promise to pay a commission for the sale or purchase of an oil or gas mining lease, an oil or gas royalty, minerals, or a mineral interest; and a warranty of cure relating to medical care made by a physician or health care provider.",
+    "trap": "The one-year category runs from the date the agreement is MADE, not from when performance starts or ends, so an agreement formed today for work beginning next year is inside it. Two of the categories are Texas peculiarities a drafter coming from another state will not expect: the mineral-commission clause, and the physician's warranty of cure — which the section expressly does NOT apply to pharmacists. Note also what the statute requires is a signature by the party to be CHARGED, so a writing signed only by the party trying to enforce it does not satisfy the section. And § 26.01 is not the only Texas statute of frauds a commercial drafter meets: under § 26.02 a loan agreement with a financial institution in which the amount involved exceeds $50,000 is not enforceable unless in writing and signed by the party to be bound, and the parties' rights are then determined solely from the written agreement, with prior oral agreements merged into it -- provided the lender gave the conspicuous notice § 26.02(e) prescribes, failing which the section does not apply to that loan.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 26.01",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a promise or agreement is not enforceable unless it is in writing and signed by the person to be charged",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_530cdba3346e82b0",
+            "quote": "(a) A promise or agreement described in Subsection (b) of this section is not enforceable unless the promise or agreement, or a memorandum of it, is (1) in writing; and (2) signed by the person to be charged with the promise or agreement or by someone lawfully authorized to sign for him.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 26.01",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_530cdba3346e82b0",
+            "quote": "an agreement, promise, contract, or warranty of cure relating to medical care or results thereof made by a physician or health care provider as defined in Section 74.001 , Civil Practice and Remedies Code. This section shall not apply to pharmacists.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 26.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_530cdba3346e82b0",
+            "quote": "(1) a promise by an executor or administrator to answer out of his own estate for any debt or damage due from his testator or intestate;",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 26.02",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d5053ca574f9f0f3",
+            "quote": "(b) A loan agreement in which the amount involved in the loan agreement exceeds $50,000 in value is not enforceable unless the agreement is in writing and signed by the party to be bound or by that party's authorized representative. (c) The rights and obligations of the parties to an agreement subject to Subsection (b) of this section shall be determined solely from the written loan agreement, and any prior oral agreements between the parties are superseded by and merged into the loan agreement.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 26.02",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d5053ca574f9f0f3",
+            "quote": "(f) If the notice required by Subsection (e) of this section is not given on or before execution of the loan agreement or is not conspicuous, this section does not apply to the loan agreement, but the validity and enforceability of the loan agreement and the rights and obligations of the parties are not impaired or affected.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, final stride, position 21 -- shifted out from under stride 1 when the non-compete rule entered the frame; M): the rule listed seven of § 26.01(b)'s eight categories, dropping (b)(1) (executor or administrator answering from his own estate), and never mentioned § 26.02, the loan-agreement statute of frauds: over $50,000 with a financial institution must be written and signed, with a merger effect, conditioned on the lender's conspicuous notice. Both now quoted. § 26.02(a) definitions and (g) read and not in the rule. Rule paraphrased from the § 26.01 text read in full on 2026-09-14, not recalled. Rank measured through the PUBLIC API (POST /api/v1/rag/query, sources:[\"statutes\"], k=20), so a reader can reproduce it. Subsection (b)(1) (executor answering out of his own estate) is in the statute and is omitted from the rule summary as rarely clause-relevant. TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): the trap's pharmacist exclusion and the (b) list are in the section's text (read in full); block added for (b)(8) and the pharmacist sentence."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "tx-tutsa-displaces-tort-not-contract",
+    "question": "Does the Texas trade secret statute wipe out our confidentiality clause, or does the NDA still do work?",
+    "rule": "The NDA still does work — that is the express carve-out. The chapter displaces conflicting tort, restitutionary, and other law of this state providing civil remedies for misappropriation of a trade secret. But it does NOT affect: contractual remedies, whether or not based upon misappropriation of a trade secret; other civil remedies that are not based upon misappropriation of a trade secret; or criminal remedies, whether or not based upon misappropriation. It also does not affect disclosure of public information by a governmental body under Chapter 552, Government Code.",
+    "trap": "The displacement provision is why a confidentiality clause is not surplusage next to the statute: TUTSA absorbs the common-law tort claims but leaves the contract claim standing, and a contract claim can reach material that never qualified as a trade secret at all. Note this section was AMENDED in 2025 and its subsection (c) was repealed effective 4 December 2025, so pre-2026 commentary on its scope should be re-checked rather than relied on.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 134A.007",
+        "decided": "2013-09-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 2,
+          "probe_query": "actual or threatened misappropriation of a trade secret may be enjoined and this chapter displaces conflicting tort remedies",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3ed35ace7c037e74",
+            "quote": "(a) Except as provided by Subsection (b), this chapter displaces conflicting tort, restitutionary, and other law of this state providing civil remedies for misappropriation of a trade secret. (b) This chapter does not affect: (1) contractual remedies, whether or not based upon misappropriation of a trade secret; (2) other civil remedies that are not based upon misappropriation of a trade secret; or (3) criminal remedies, whether or not based upon misappropriation of a trade secret.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 134A.007",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3ed35ace7c037e74",
+            "quote": "This chapter does not affect the disclosure of public information by a governmental body under Chapter 552 , Government Code.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "Paraphrased from § 134A.007(a)-(d) read 2026-09-14. `decided` is the section's addition date (Acts 2013, 83rd Leg., Ch. 10 (S.B. 953), eff. September 1, 2013). Unusually, a 2025 change IS datable here even though the trailing amendment line is truncated, because subsection (c) carries its own repeal note: 'Repealed by Acts 2025, 89th Leg., 2nd C.S., Ch. 7 (H.B. 16), Sec. 12.10(19), eff. December 4, 2025.' Rank 2 behind § 134A.003, which is the injunction section and a reasonable neighbour. TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): § 134A.007(d) read; block added for the Chapter 552 sentence the rule states."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "unconscionability",
+    "rule_id": "tx-ucc-unconscionability-judged-at-formation",
+    "question": "Can a Texas court refuse to enforce this clause as unconscionable?",
+    "rule": "Yes, and the remedy is surgical. If the court AS A MATTER OF LAW finds the contract or any clause of it to have been unconscionable AT THE TIME IT WAS MADE, the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable clause, or so limit the application of the unconscionable clause as to avoid an unconscionable result. When it is claimed or appears that a contract or clause may be unconscionable, the parties must be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect.",
+    "trap": "Two timing points decide most arguments. Unconscionability is measured at FORMATION, so a clause that merely turns out badly after a breach is not thereby unconscionable. And it is expressly a question of law for the court, not a fact question for a jury. The third point is drafting-relevant: because the court may strike the offending clause and enforce the rest, an aggressive term risks being excised while the agreement it sat in survives — severability is not the drafter's choice here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2.302",
+        "decided": "1967-09-01",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "if the court finds the contract or any clause to have been unconscionable at the time it was made the court may refuse to enforce",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_1feeb95d49d8e825",
+            "quote": "(a) If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result. (b) When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "Paraphrased from the full § 2.302(a)-(b) text read 2026-09-14; `decided` from its own enactment line (Acts 1967, 60th Leg., ch. 785, eff. Sept. 1, 1967). This is the UCC Article 2 provision and governs transactions in goods; unconscionability outside Article 2 is a separate body of law not addressed here."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "usury",
+    "rule_id": "tx-usury-penalties-consumer-vs-commercial",
+    "question": "What is the exposure if this agreement's interest rate turns out to be over the limit?",
+    "rule": "It differs by transaction type, and liability attaches on CONTRACTING for the interest, not only on receiving it. A creditor who contracts for, charges, or receives interest greater than the amount authorized by the subtitle in connection with a transaction for personal, family or household use is liable to the obligor for the GREATER of (1) three times the amount by which the interest contracted for, charged or received exceeds the amount allowed by law, or (2) $2,000 or 20 percent of the principal, whichever is LESS. For a commercial transaction, the creditor is liable for three times the excess interest. Two more tiers sit beside that: a creditor who charges AND receives more than TWICE the authorized rate on a consumer transaction also forfeits the principal and all interest and other amounts charged and received (§ 305.002); and a creditor who charges more than the contract rate but not more than the legal maximum is not subject to usury penalties at all (§ 305.001(c)).",
+    "trap": "The consumer formula is a greater-of wrapped around a lesser-of and is routinely misread in both directions. The more important drafting point is the verb: the statute reaches a creditor who CONTRACTS FOR usurious interest, so exposure can exist on the face of the document before a dollar is collected -- which is why a usury savings clause is standard. But the statute carries its own safety valve, and it is procedural: an obligor must give the creditor written notice stating the violation not later than the 61st day before filing suit, and a creditor who corrects the violation as § 305.103 provides within 60 days of that notice is not liable for it (§ 305.006(b)-(c)); independently, a creditor who corrects within 60 days of ACTUALLY discovering a violation, and notifies the obligor first, is not liable (§ 305.103(a)). So the first question after spotting usurious paper is whether the cure window is still open, not what the treble is. The action is four years from when the interest was contracted for, charged or received, and attorney's fees follow liability under §§ 305.001 and 305.003 (§§ 305.005, 305.006(a)). The maximum authorized rates themselves live in other chapters of the subtitle, which were not read here, so this rule tells you the consequence, not the ceiling.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fin. Code § 305.001",
+        "decided": null,
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "a contract for interest greater than the maximum rate authorized is usurious and the creditor is liable to the obligor",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_53e740dcc83f6aed",
+            "quote": "(a) A creditor who contracts for, charges, or receives interest that is greater than the amount authorized by this subtitle in connection with a transaction for personal, family, or household use is liable to the obligor for an amount that is equal to the greater of: (1) three times the amount computed by subtracting the amount of interest allowed by law from the total amount of interest contracted for, charged, or received; or (2) $2,000 or 20 percent of the amount of the principal, whichever is less. (a-1) A creditor who contracts for or receives interest that is greater than the amount authorized by this subtitle in connection with a commercial transaction is liable to the obligor for an amount that is equal to three times the amount computed by subtracting the amount of interest allowed by law from the total amount of interest contracted for or received.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fin. Code § 305.001",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_53e740dcc83f6aed",
+            "quote": "A creditor who contracts for or receives interest that is greater than the amount authorized by this subtitle in connection with a commercial transaction is liable to the obligor for an amount that is equal to three times the amount computed by subtracting the amount of interest allowed by law from the total amount of interest contracted for or received.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fin. Code § 305.001",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_53e740dcc83f6aed",
+            "quote": "(c) A creditor who charges or receives interest in excess of the amount contracted for, but not in excess of the maximum amount authorized by law, is not subject to penalties for usurious interest but may be liable for other remedies and relief as provided by law.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fin. Code § 305.002",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_f9f9873b54dd2e0b",
+            "quote": "(a) In addition to the amount determined under Section 305.001 , a creditor who charges and receives interest that is greater than twice the amount authorized by this subtitle is liable to the obligor for: (1) the principal amount on which the interest is charged and received; and (2) the interest and all other amounts charged and received. (b) This section applies only to a contract or transaction for personal, family, or household use subject to this subtitle.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fin. Code § 305.006",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_27faabcd841c1fd3",
+            "quote": "(b) Not later than the 61st day before the date an obligor files a suit seeking penalties for a transaction in which a creditor has contracted for, charged, or received usurious interest, the obligor shall give the creditor written notice stating in reasonable detail the nature and amount of the violation. (c) A creditor who receives a notice under this section may correct the violation as provided by Section 305.103 during the period beginning on the date the notice is received and ending on the 60th day after that date. A creditor who corrects a violation as provided by this section is not liable to an obligor for the violation.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fin. Code § 305.103",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_0af29a7de885a855",
+            "quote": "(a) A creditor is not liable to an obligor for a violation of this subtitle if: (1) not later than the 60th day after the date the creditor actually discovered the violation, the creditor corrects the violation as to that obligor by taking any necessary action and making any necessary adjustment, including the payment of interest on a refund, if any, at the applicable rate provided for in the contract of the parties; and (2) the creditor gives written notice to the obligor of the violation before the obligor gives written notice of the violation or files an action alleging the violation.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, final stride #25, H): the rule stated the treble formulas and stopped. Absent, all in our corpus: § 305.002 (charging AND receiving more than twice the authorized rate on a consumer transaction forfeits principal and all interest -- the penalty that actually ends a lender), § 305.001(c) (over the contract rate but within the legal maximum is not usury), and the cure regime the trap's 'usury savings clause' remark gestured at without naming: § 305.006(b)-(c) (61-day pre-suit notice, 60-day cure) and § 305.103(a) (cure within 60 days of actual discovery with notice first). All quoted. §§ 305.003-.004 (legal interest), 305.005 and 305.006(a),(d) read and stated in the trap from the text; the rate ceilings in the rest of the subtitle NOT read. Paraphrased from § 305.001(a) and (a-1) read 2026-09-14. `decided` is null: no enactment line appeared in the chunk read. The applicable maximum rates (Finance Code ch. 302/303) were deliberately not summarised — § 302.001 ranked second on this same probe and is the obvious next row. TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): § 305.001(a-1) read; block added for the commercial three-times rule the rule states."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "venue-selection",
+    "rule_id": "tx-major-transaction-venue-one-million",
+    "question": "Is this mandatory venue clause enforceable in Texas?",
+    "rule": "Only above a threshold, and only if the section applies at all. A 'major transaction' means a transaction evidenced by a WRITTEN agreement under which a person pays or receives, or is obligated to pay or entitled to receive, consideration with an aggregate stated value equal to or greater than $1 million — excluding, regardless of value, a transaction entered into primarily for personal, family or household purposes or to settle a personal injury or wrongful death claim. Where it applies, an action arising from a major transaction SHALL be brought in a county if the party against whom it is brought agreed in writing that suit arising from the transaction may be brought there; and notwithstanding any other provision of the title, such an action may NOT be brought in a county if the party bringing it agreed in writing either that an action may not be brought there, or that it must be brought in another county of this state or in another jurisdiction, and the action may be brought in that other place. But § 15.020(d) takes the whole section away in three situations: the agreement was unconscionable when it was made, the venue agreement is void under Chapter 272, Business & Commerce Code, or venue is established under a Texas statute outside this title. Subsection (e) adds that the section does not affect venue or jurisdiction in an action arising from a transaction that is not a major transaction.",
+    "trap": "Below $1 million the clause does not get this statute's backing at all, and the consumer and personal-injury carve-outs apply no matter how large the number. The bigger trap is that clearing $1 million is NOT the last question: subsection (d) disapplies the section entirely where the agreement was unconscionable when made, where the venue agreement is void under Chapter 272, Business & Commerce Code, or where venue is established under another Texas statute outside this title. Chapter 272 is the construction exit, and it is quoted here: for a construction contract concerning real property in Texas, a provision making the contract or any dispute subject to another state's law, litigation in another state's courts, or arbitration in another state is void as against public policy (§ 272.001(b)), and to the extent a venue provision is void under it, the action shall be brought only in this state, in the county where the property is located, unless the parties stipulate otherwise after the dispute arises (§ 272.001(c)). 'Construction contract' is defined broadly in § 272.0001 to include design, construction, alteration, repair and the furnishing of material or equipment, and § 272.002 takes back out partnership and entity agreements, loan-linked work, and property management. So a $10 million construction contract with an out-of-state venue clause is exactly the case where § 15.020(b) does NOT help. Also do not confuse 'major transaction' here with the 'qualified transaction' that carries the choice-of-law rule in Tex. Bus. & Com. Code § 271.005 — different defined terms in different codes, with different thresholds and different effects. A clause can satisfy one and not the other.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 15.020",
+        "decided": null,
+        "verified": {
+          "retrievable": true,
+          "rank": 3,
+          "probe_query": "in an action arising from a major transaction the parties may agree in writing that suit must be brought in a particular county",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_54cb68a7f4da0585",
+            "quote": "(a) In this section, \"major transaction\" means a transaction evidenced by a written agreement under which a person pays or receives, or is obligated to pay or entitled to receive, consideration with an aggregate stated value equal to or greater than $1 million. The term does not include a transaction entered into primarily for personal, family, or household purposes, or to settle a personal injury or wrongful death claim, without regard to the aggregate value. (b) An action arising from a major transaction shall be brought in a county if the party against whom the action is brought has agreed in writing that a suit arising from the transaction may be brought in that county.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 15.020",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_54cb68a7f4da0585",
+            "quote": "Notwithstanding any other provision of this title, an action arising from a major transaction may not be brought in a county if: (1) the party bringing the action has agreed in writing that an action arising from the transaction may not be brought in that county, and the action may be brought in another county of this state or in another jurisdiction;",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 15.020",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_54cb68a7f4da0585",
+            "quote": "(d) This section does not apply to an action if: (1) the agreement described by this section was unconscionable at the time that it was made; (2) the agreement regarding venue is void under Chapter 272 , Business & Commerce Code; or (3) venue is established under a statute of this state other than this title. (e) This section does not affect venue and jurisdiction in an action arising from a transaction that is not a major transaction.",
+            "checked": "2026-09-25"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 15.020",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_54cb68a7f4da0585",
+            "quote": "(2) the party bringing the action has agreed in writing that an action arising from the transaction must be brought in another county of this state or in another jurisdiction, and the action may be brought in that other county, under this section or otherwise, or in that other jurisdiction.",
+            "checked": "2026-09-25"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 272.001",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_fd8fff889571afcf",
+            "quote": "(a) This section applies only to a construction contract concerning real property located in this state. (b) If a construction contract or an agreement collateral to or affecting the construction contract contains a provision making the contract or agreement or any conflict arising under the contract or agreement subject to another state's law, litigation in the courts of another state, or arbitration in another state, that provision is void as against public policy. (c) To the extent that a venue provision in a contract is void under Subsection (b), unless the parties stipulate to another venue after the dispute arises, an action arising out of the contract shall be brought only in this state in the county in which the property that is the subject of the litigation is located.",
+            "checked": "2026-09-25"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 272.0001",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_80ef77dad48a02c8",
+            "quote": "In this chapter, \"construction contract\" means a contract, subcontract, or agreement entered into or made by an owner, architect, engineer, contractor, construction manager, subcontractor, supplier, or material or equipment lessor for the design, construction, alteration, renovation, remodeling, or repair of, or for the furnishing of material or equipment for, a building, structure, appurtenance, or other improvement to or on public or private real property, including moving, demolition, and excavation connected with the real property.",
+            "checked": "2026-09-25"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 272.002",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-25",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_812d4ec11ef26a24",
+            "quote": "This chapter does not apply to a construction contract that: (1) is a partnership agreement or other agreement governing an entity or trust; (2) provides for a loan or other extension of credit and the party promising to perform the work that is the subject of the construction contract is doing so as part of the party's agreements with the lender or other person who extends credit; or (3) is for the management of real property or improvements and the obligation to perform the work that is the subject of the construction contract is part of that management.",
+            "checked": "2026-09-25"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CHAPTER 272 READ 2026-09-25 (second audit commit): the first repair said Chapter 272 was not an authority in this row and established nothing about its scope. It is now read in full from the corpus -- § 272.0001 (definition), § 272.001 (a)-(c) (void provisions and the county-of-the-property default) and § 272.002 (inapplicability) -- and each is its own verified block. § 272.001 carries the SAME 2025 amendment as § 15.020 (Acts 2025, 89th Leg., R.S., Ch. 427 (H.B. 2960), eff. September 1, 2025, Secs. 1-2), so the two sections were changed together and the store's lack of effective-date coverage applies to both equally. CORRECTED 2026-09-25 (Texas adversarial audit, the DocketX contract-law audit of 2026-09-25, sample #16): the served rule stated subsection (b)'s 'shall be brought' flatly and never mentioned subsection (d), which disapplies the ENTIRE section for an agreement unconscionable when made, a venue agreement void under Chapter 272 Business & Commerce Code, or venue established under another Texas statute outside this title. The row's own notes had recorded (d) and (e) as read on 2026-09-16 and not carried into the rule; this repair carries them, with (d)+(e) and the omitted (c)(2) limb each added as their own corpus-verified block. Chapter 272 itself is NOT an authority in this row and nothing here establishes its scope. § 15.020 carries a 2025 amendment (Acts 2025, 89th Leg., R.S., Ch. 427 (H.B. 2960), eff. September 1, 2025) and the store holds no effective-date coverage, so currency is unproven. Paraphrased from § 15.020(a)-(c) read 2026-09-14. RANK 3 RECORDED HONESTLY, and it moved: exact brute-force search over the same corpus puts this section FIRST for this probe, while the served approximate index returns § 15.002 and § 15.035 ahead of it. That gap is the ANN recall defect documented in the DocketX Texas retrieval-recall measurements showing up in a second clause family. `decided` is null: no enactment line was in the chunks read. CORPUS READ 2026-09-16: the published § 15.020 also has (d) -- the section does not apply if the agreement was unconscionable when made, is void under Chapter 272, Business & Commerce Code, or venue is established under another statute -- and (e), and carries a 2025 amendment (H.B. 2960). None of those is in the rule above. TEXAS FULL READ 2026-09-22 (all 27 Texas rows read against the cited texts; quote, figure and prose-citation sweeps applied): § 15.020(c) read; block added for the 'may not be brought' rule the rule states."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "warranty-disclaimer",
+    "rule_id": "tx-warranty-disclaimer-magic-words",
+    "question": "Does this 'all warranties disclaimed' language actually disclaim the implied warranty of merchantability?",
+    "rule": "Not on its own. To exclude or modify the implied warranty of merchantability the language must MENTION MERCHANTABILITY, and in a writing it must be conspicuous. To exclude or modify an implied warranty of fitness the exclusion must be by a writing and conspicuous, and language excluding all implied warranties of fitness is sufficient if it states, for example, that 'There are no warranties which extend beyond the description on the face hereof.' Notwithstanding all of that, § 2.316(c)(1) excludes all implied warranties by expressions like 'as is' or 'with all faults', unless the circumstances indicate otherwise. Three more things the section does. Under (a), words creating an express warranty and words negating warranty are construed as consistent wherever reasonable, and the negation is inoperative to the extent that construction is unreasonable -- a disclaimer does not cancel an express warranty. Under (c)(2)-(3), a buyer who examined the goods as fully as desired, or refused to, gets no implied warranty for defects the examination should have revealed, and an implied warranty can be excluded by course of dealing, course of performance or usage of trade. Under (d), remedies for breach of warranty can be limited under §§ 2.718 and 2.719.",
+    "trap": "A sweeping 'Seller disclaims all warranties, express and implied' can fail as to merchantability precisely because it never says the word merchantability -- the statute demands the term, not the concept -- and it cannot touch an express warranty at all, because (a) makes the negation inoperative where reading the two together is unreasonable. A goods sale under Chapter 2 and an equipment lease under Chapter 2A are different sections, and the lease rule is stricter in two concrete ways: under § 2A.214(b) a merchantability disclaimer must mention 'merchantability', be by a WRITING, and be conspicuous (Chapter 2 permits an oral one), and under § 2A.214(c)(1) even 'as is' or 'with all faults' works only if in writing and conspicuous, where § 2.316(c)(1) has no writing requirement. A disclaimer drafted for one does not answer the other.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2.316",
+        "verified": {
+          "retrievable": true,
+          "rank": 2,
+          "probe_query": "to exclude or modify the implied warranty of merchantability the language must mention merchantability and be conspicuous",
+          "index": "statutes",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_632d763ece600cb6",
+            "quote": "(b) Subject to Subsection (c), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that \"There are no warranties which extend beyond the description on the face hereof.\" (c) Notwithstanding Subsection (b) (1) unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is\", \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2.316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_632d763ece600cb6",
+            "quote": "(a) Words or conduct relevant to the creation of an express warranty and words or conduct tending to negate or limit warranty shall be construed wherever reasonable as consistent with each other; but subject to the provisions of this chapter on parol or extrinsic evidence (Section 2.202 ) negation or limitation is inoperative to the extent that such construction is unreasonable.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2.316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_632d763ece600cb6",
+            "quote": "(2) when the buyer before entering into the contract has examined the goods or the sample or model as fully as he desired or has refused to examine the goods there is no implied warranty with regard to defects which an examination ought in the circumstances to have revealed to him; and (3) an implied warranty can also be excluded or modified by course of dealing or course of performance or usage of trade. (d) Remedies for breach of warranty can be limited in accordance with the provisions of this chapter on liquidation or limitation of damages and on contractual modification of remedy (Sections 2.718 and 2.719 ).",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2A.214",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_9b8bbb72a28509bc",
+            "quote": "(b) Subject to Subsection (c), to exclude or modify the implied warranty of merchantability or any part of it the language must mention \"merchantability,\" be by a writing, and be conspicuous. Subject to Subsection (c), to exclude or modify an implied warranty of fitness the exclusion must be by a writing and be conspicuous.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Bus. & Com. Code § 2A.214",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_9b8bbb72a28509bc",
+            "quote": "(1) unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is,\" or \"with all faults,\" or by other language that in common understanding calls the lessee's attention to the exclusion of warranties and makes plain that there is no implied warranty, if in writing and conspicuous;",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Texas audit, final stride #26, M): the rule served (b) and (c)(1) and stopped. Absent: (a) -- a disclaimer cannot negate an express warranty where the two cannot reasonably be read together; (c)(2)-(3) examination and course-of-dealing exclusions; (d) remedy limitation via §§ 2.718/2.719. The trap named § 2A.214 as 'the lease analogue' without saying how it differs; it is stricter (writing required for the merchantability disclaimer and for 'as is'), and both differences are now quoted. § 2.316(e)-(f) (blood, livestock) read and deliberately not in the rule; § 2A.214(d) (interference/infringement) read and not in the rule. Paraphrased from the § 2.316(a)-(c) text read on 2026-09-14. Rank 2 is recorded honestly rather than rounded to 'retrievable': § 2A.214 came back first, which is the finding described in the trap. Subsection (c)(2) (buyer's prior examination of the goods) was returned mid-sentence in the chunking and is deliberately not summarised."
+  }
+]

@@ -1,0 +1,40 @@
+[
+ {
+  "jurisdiction": "wa",
+  "clause": "non-competition",
+  "rule_id": "wa-noncompete-void-unless-disclosed-in-writing-before-you-accept",
+  "question": "Is the non-compete I signed in Washington enforceable?",
+  "rule": "Often not, and the first question is when you were shown it. RCW 49.62.020 provides that A noncompetition covenant is void and unenforceable:\n(a)(i) Unless the employer discloses the terms of the covenant in writing to the prospective employee no later than the time of the initial oral or written acceptance of the offer of employment and, if the agreement becomes enforceable only at a later date due to changes in the employee's compensation, the employer specifically discloses that the agreement may be enforceable against the employee in the future; or\n(ii) If the covenant is entered into after the commencement of employment, unless the employer provides independent consideration for the covenant;\n(b) Unless the employee's earnings from the party seeking enforcement, when annualized, exceed one hundred thousand dollars per year.",
+  "trap": "The disclosure timing is the part employers get wrong. A covenant produced after the offer was accepted, or presented on the first day with the rest of the onboarding paperwork, is on the wrong side of this section unless independent consideration was given for it. The statute makes the covenant void, which is not the same as unenforceable-as-written: this is not a provision a court fixes by narrowing it.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "RCW 49.62.020",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "rcw-49.62.020",
+      "quote": "A noncompetition covenant is void and unenforceable:\n(a)(i) Unless the employer discloses the terms of the covenant in writing to the prospective employee no later than the time of the initial oral or written acceptance of the offer of employment and, if the agreement becomes enforceable only at a later date due to changes in the employee's compensation, the employer specifically discloses that the agreement may be enforceable against the employee in the future; or\n(ii) If the covenant is entered into after the commencement of employment, unless the employer provides independent consideration for the covenant;\n(b) Unless the employee's earnings from the party seeking enforcement, when annualized, exceed one hundred thousand dollars per year.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The quote is the opening of the section and is complete for the disclosure and consideration conditions it states. NOT ESTABLISHED HERE: the earnings thresholds in RCW 49.62.020(1)(b) and .030, the treatment of a covenant enforced against someone laid off, the remedies in RCW 49.62.080, and what counts as a “nonsolicitation agreement” outside this section. The contract-law pack in this repository holds further Washington rules on the same chapter."
+ },
+ {
+  "jurisdiction": "wa",
+  "clause": "family-medical-leave",
+  "rule_id": "wa-family-medical-leave-no-verified-state-rule",
+  "question": "Does Washington give me family or medical leave beyond the federal FMLA?",
+  "rule": "We could not verify a Washington family-or-medical-leave rule from our published corpus. Washington's paid family and medical leave provisions sit in RCW Title 50A, which our Washington statute shard does not hold; the shard we publish covers RCW Title 49 and neighbouring labor chapters.",
+  "trap": "The federal FMLA rows in this pack still apply to a Washington employee. What is missing here is the STATE layer, which in Washington is the more generous one, so treating the federal answer as the whole answer will understate what you are owed.",
+  "authority": [],
+  "as_of": "2026-09-25",
+  "status": "no-verified-authority",
+  "notes": "Recorded deliberately. The schema this pack follows says a missing row and a padded row are both worse than an honest empty one, because a missing row reads as “nothing to say here” and a padded row reads as law."
+ }
+]

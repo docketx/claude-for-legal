@@ -1,0 +1,8 @@
+{
+  "name": "verified-law",
+  "version": "0.1.0",
+  "description": "The scaffolding for doing legal work with Claude where every legal statement is either a verbatim quote from a named published source, re-checked by machine, or is stated as not established with what was searched. Jurisdiction-agnostic: the plugin defines the row schema, the verification contract, the break test that proves a verifier actually bites, the source-tag vocabulary, and the skill patterns — then reads whatever reference packs are installed, whether that is one state you built this afternoon or every state someone has published. Ships with an add-a-jurisdiction guide so a jurisdiction nobody has done yet is a morning's work, not a missing feature. Every output is a draft for attorney review, not legal advice.",
+  "author": {
+    "name": "DocketX"
+  }
+}

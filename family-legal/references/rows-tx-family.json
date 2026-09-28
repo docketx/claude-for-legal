@@ -1,0 +1,548 @@
+[
+  {
+    "jurisdiction": "tx",
+    "clause": "residency-and-venue",
+    "rule_id": "tx-six-months-in-state-and-90-days-in-the-county-by-either-spouse",
+    "question": "How long must a spouse live in Texas, and in the county, before a Texas court can hear a divorce?",
+    "rule": "Six months in Texas and 90 days in the county, measured to the day the suit is filed, and it is either spouse's residency that counts — the statute reads “either the petitioner or the respondent,” not just the person filing. Tex. Fam. Code § 6.301: “A suit for divorce may not be maintained in this state unless at the time the suit is filed either the petitioner or the respondent has been: (1) a domiciliary of this state for the preceding six-month period; and (2) a resident of the county in which the suit is filed for the preceding 90-day period.” Both prongs must be satisfied by the same spouse (either one), and both are measured backward from the filing date, not the date of any later hearing.",
+    "trap": "People assume the filer has to be the six-month Texas resident. The statute does not say that — it says “either the petitioner or the respondent,” so a spouse who has lived in Texas the whole time can be sued for divorce here even if the filer just moved to Texas last week, as long as the Texas spouse is the respondent. The other trap: residency is not the same thing as the waiting period. Meeting § 6.301 lets the suit be filed and maintained; it says nothing about how soon the divorce can be granted — that is a separate 60-day clock under § 6.702 that starts running only after filing.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.301",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_396dd26e5945e471",
+            "quote": "A suit for divorce may not be maintained in this state unless at the time the suit is filed either the petitioner or the respondent has been:\n(1) a domiciliary of this state for the preceding six-month period; and\n(2) a resident of the county in which the suit is filed for the preceding 90-day period.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 6.301, row tx-stat_396dd26e5945e471. Quote is the full operative sentence of the section; the section carries no other operative text besides its 1997 enactment note. No case authority was needed or used — the statute answers the question on its own."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "grounds",
+    "rule_id": "tx-no-fault-insupportability-is-enough-fault-grounds-remain-available-not-required",
+    "question": "Does a Texas divorce require proving someone did something wrong?",
+    "rule": "No. Texas is a no-fault state first: either spouse can obtain a divorce on “insupportability” alone, with no finding of wrongdoing by either side. Tex. Fam. Code § 6.001: “On the petition of either party to a marriage, the court may grant a divorce without regard to fault if the marriage has become insupportable because of discord or conflict of personalities that destroys the legitimate ends of the marital relationship and prevents any reasonable expectation of reconciliation.” Fault grounds remain on the books and can still be pled: cruelty (§ 6.002, “The court may grant a divorce in favor of one spouse if the other spouse is guilty of cruel treatment toward the complaining spouse of a nature that renders further living together insupportable.”), adultery (§ 6.003, “The court may grant a divorce in favor of one spouse if the other spouse has committed adultery.”), living apart at least three years (§ 6.006, “The court may grant a divorce in favor of either spouse if the spouses have lived apart without cohabitation for at least three years.”), and confinement in a mental hospital for at least three years with a prognosis that recovery is unlikely or a relapse probable (§ 6.007). None of these is required; insupportability by itself is a complete, standalone ground.",
+    "trap": "The trap runs both directions. Some people think Texas won't grant a divorce unless the other spouse is proven to have done something wrong — wrong; insupportability requires proving nothing more than irreconcilable discord. Others assume that because insupportability exists, fault is now legally irrelevant to the case — this corpus does not establish that; § 6.002-6.007 remain live, separately pleadable grounds, and this rule does not reach how (or whether) a fault finding affects property division or maintenance under § 7.001 or § 8.051, which is a separate question this rule does not answer.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.001",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_466044375fed2430",
+            "quote": "On the petition of either party to a marriage, the court may grant a divorce without regard to fault if the marriage has become insupportable because of discord or conflict of personalities that destroys the legitimate ends of the marital relationship and prevents any reasonable expectation of reconciliation.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.002",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_1f6f8290538b42af",
+            "quote": "The court may grant a divorce in favor of one spouse if the other spouse is guilty of cruel treatment toward the complaining spouse of a nature that renders further living together insupportable.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.003",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_6afaa76fd1e60e86",
+            "quote": "The court may grant a divorce in favor of one spouse if the other spouse has committed adultery.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.006",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_b42f4ae265ff27ee",
+            "quote": "The court may grant a divorce in favor of either spouse if the spouses have lived apart without cohabitation for at least three years.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.007",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_a585373c501a3ef3",
+            "quote": "it appears that the hospitalized spouse's mental disorder is of such a degree and nature that adjustment is unlikely or that, if adjustment occurs, a relapse is probable.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code §§ 6.001, 6.002, 6.003, 6.006, 6.007. All five are short, self-contained sections; each quote used is that section's complete operative sentence (or, for § 6.007, its complete second element, chosen because the first element's cross-reference to the Health and Safety Code carries irregular source spacing around a cross-reference and the second element alone already clears the 12-word minimum and states the substantive standard). Honest scope note: whether or how a fault finding affects the § 7.001 property division or § 8.051 maintenance eligibility is NOT stated by this row — that would require case law tying fault to outcome, which was not pursued for this pass."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "waiting-period",
+    "rule_id": "tx-sixty-day-floor-after-filing-with-a-family-violence-exception",
+    "question": "How soon after filing can a Texas court actually grant the divorce?",
+    "rule": "Not before the 60th day after the petition is filed, with a narrow family-violence exception. Tex. Fam. Code § 6.702(a): “the court may not grant a divorce before the 60th day after the date the suit was filed. A decree rendered in violation of this subsection is not subject to collateral attack.” The 60-day floor is waived under § 6.702(c) if the respondent has been finally convicted of, or received deferred adjudication for, a family-violence offense against the petitioner or petitioner's household, or if the petitioner holds an active protective order or emergency protective order against the respondent based on family violence during the marriage. Annulments and void-marriage declarations are not subject to any waiting period under this section at all (§ 6.702(b)).",
+    "trap": "The 60 days is a floor on when a decree can be signed, not an estimate of how long a divorce takes — a contested case routinely runs far longer, and an uncontested one is rarely finished exactly on day 60 either since a hearing still has to be set. People also assume the waiting period applies to every kind of marriage-ending suit; it does not apply to an annulment or a void-marriage declaration at all, and it can be skipped entirely in the family-violence-conviction or active-protective-order situations in § 6.702(c) — those are also cases this plugin does not analyze further; see the family-violence caveat in CLAUDE.md.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.702",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_9df816356fca2019",
+            "quote": "the court may not grant a divorce before the 60th day after the date the suit was filed. A decree rendered in violation of this subsection is not subject to collateral attack.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 6.702, row tx-stat_9df816356fca2019. Quote is subsection (a) in full."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "community-vs-separate-property",
+    "rule_id": "tx-separate-property-is-a-closed-list-everything-else-acquired-in-marriage-is-community",
+    "question": "Is a given asset separate property or community property in a Texas divorce?",
+    "rule": "Texas defines separate property as a closed, three-item list, and treats everything else acquired during the marriage as community property. Tex. Fam. Code § 3.001: “A spouse's separate property consists of: (1) the property owned or claimed by the spouse before marriage; (2) the property acquired by the spouse during marriage by gift, devise, or descent; and (3) the recovery for personal injuries sustained by the spouse during marriage, except any recovery for loss of earning capacity during marriage.” Tex. Fam. Code § 3.002: “Community property consists of the property, other than separate property, acquired by either spouse during marriage.” Community property is therefore defined by exclusion — it is whatever does not fall into the § 3.001 list.",
+    "trap": "The personal-injury carve-back in § 3.001(3) is the piece people miss: a personal injury settlement or verdict is separate property, EXCEPT the portion that compensates for loss of earning capacity DURING the marriage — that slice stays community property. People often assume the entire injury recovery is untouchable separate property; the statute splits it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 3.001",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_a40df3d80606c31a",
+            "quote": "A spouse's separate property consists of:\n(1) the property owned or claimed by the spouse before marriage;\n(2) the property acquired by the spouse during marriage by gift, devise, or descent; and\n(3) the recovery for personal injuries sustained by the spouse during marriage, except any recovery for loss of earning capacity during marriage.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 3.002",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_e92f10ca4e1aaf87",
+            "quote": "Community property consists of the property, other than separate property, acquired by either spouse during marriage.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code §§ 3.001 and 3.002, rows tx-stat_a40df3d80606c31a and tx-stat_e92f10ca4e1aaf87. Both quotes are the sections' complete operative text."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "division-standard",
+    "rule_id": "tx-just-and-right-not-a-statutory-fifty-fifty-guarantee",
+    "question": "Does a Texas divorce court have to split the community estate 50/50?",
+    "rule": "No — the statute's own word is “just and right,” not “equal.” Tex. Fam. Code § 7.001: “the court shall order a division of the estate of the parties in a manner that the court deems just and right, having due regard for the rights of each party and any children of the marriage.” The text gives the court discretion to weigh the rights of each party and any children; it does not prescribe a fixed percentage or a presumption of equality.",
+    "trap": "“Community property state” gets read by a lot of people as “automatic 50/50.” The statute itself does not say that — “just and right” is the entire textual standard, and it is a discretionary, multi-factor standard on its face. this rule does not go further into how much a court can deviate from equal, or what specific factors (fault, earning capacity, fault in the breakup, etc.) Texas courts weigh under that standard — that would require case law, which is not cited here; NOT ESTABLISHED in this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 7.001",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_178a3f77cffc3edc",
+            "quote": "the court shall order a division of the estate of the parties in a manner that the court deems just and right, having due regard for the rights of each party and any children of the marriage.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 7.001, row tx-stat_178a3f77cffc3edc. Quote is the section's complete operative sentence."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "spousal-support",
+    "rule_id": "tx-maintenance-needs-a-minimum-reasonable-needs-shortfall-plus-one-named-trigger",
+    "question": "Who actually qualifies for spousal maintenance in Texas?",
+    "rule": "Two things have to both be true. First, a shortfall test: Tex. Fam. Code § 8.051, “the court may order maintenance for either spouse only if the spouse seeking maintenance will lack sufficient property, including the spouse's separate property, on dissolution of the marriage to provide for the spouse's minimum reasonable needs and:”. Second, one of a closed list of named triggers, the most commonly used of which is a long marriage: § 8.051(2)(B), “has been married to the other spouse for 10 years or longer and lacks the ability to earn sufficient income to provide for the spouse's minimum reasonable needs”. The other triggers in § 8.051 are a family-violence conviction or deferred adjudication against the other spouse within two years before filing or while the suit is pending, an incapacitating physical or mental disability preventing sufficient income, or custodianship of a child of the marriage who requires substantial care because of a disability.",
+    "trap": "“We were married a long time” is not, by itself, eligibility — the 10-year marriage trigger in § 8.051(2)(B) also requires that the spouse “lacks the ability to earn sufficient income to provide for the spouse's minimum reasonable needs.” A long marriage where both spouses are self-supporting does not qualify. And the shortfall test is measured against the spouse's OWN post-divorce property, including the separate property that spouse already owns — someone who is walking away with substantial separate property can fail the threshold test even after a decades-long marriage.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 8.051",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_cbcfc230c33d7956",
+            "quote": "the court may order maintenance for either spouse only if the spouse seeking maintenance will lack sufficient property, including the spouse's separate property, on dissolution of the marriage to provide for the spouse's minimum reasonable needs and:",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 8.051",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_cbcfc230c33d7956",
+            "quote": "has been married to the other spouse for 10 years or longer and lacks the ability to earn sufficient income to provide for the spouse's minimum reasonable needs; or",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 8.051, row tx-stat_cbcfc230c33d7956. Two quotes from the same row: the introductory shortfall clause, and the 10-year-marriage clause in § 8.051(2)(B). Both quotes were chosen to end before a cross-reference to § 71.004 whose source formatting carries an irregular space before a comma — avoided rather than risk a spacing mismatch, not because the surrounding text says anything different."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "spousal-support",
+    "rule_id": "tx-maintenance-capped-at-5000-or-20-percent-and-duration-tiered-to-marriage-length",
+    "question": "How much spousal maintenance can a Texas court order, and for how long?",
+    "rule": "The amount is capped at the lesser of a flat dollar figure or a percentage of income. Tex. Fam. Code § 8.055(a): “A court may not order maintenance that requires an obligor to pay monthly more than the lesser of: (1) $5,000; or (2) 20 percent of the spouse's average monthly gross income.” Duration is tiered to how long the marriage lasted. Tex. Fam. Code § 8.054(a): “a court: (1) may not order maintenance that remains in effect for more than: (A) five years after the date of the order, if: (i) the spouses were married to each other for less than 10 years and the eligibility of the spouse for whom maintenance is ordered is established under Section 8.051 (1); or (ii) the spouses were married to each other for at least 10 years but not more than 20 years; (B) seven years after the date of the order, if the spouses were married to each other for at least 20 years but not more than 30 years; or (C) 10 years after the date of the order, if the spouses were married to each other for 30 years or more; and”. The statute also requires the court to limit maintenance to the shortest reasonable period needed for the recipient spouse to become self-supporting, unless a disability, care of a young child, or another compelling impediment applies — in which case, under § 8.054(b), maintenance ordered for the disability or child-custodian eligibility grounds in § 8.051(2)(A) or (C) can continue for as long as that eligibility continues, subject to periodic review.",
+    "trap": "People treat “alimony” as open-ended and negotiable without limit. Texas maintenance has a hard dollar-or-percentage ceiling ($5,000 or 20% of gross income, whichever is LESS) and, outside the disability/child-custodian exception, a hard time limit set by marriage length — 5, 7, or 10 years, never indefinite for the ordinary long-marriage-and-can't-earn-enough eligibility route in § 8.051(2)(B). The open-ended possibility in § 8.054(b) is narrow: it only reaches maintenance ordered under the disability ground (§ 8.051(2)(A)) or the disabled-child-custodian ground (§ 8.051(2)(C)), not the marriage-length ground.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 8.055",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_8ae38bd912530285",
+            "quote": "A court may not order maintenance that requires an obligor to pay monthly more than the lesser of:\n(1) $5,000; or\n(2) 20 percent of the spouse's average monthly gross income.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 8.054",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_6d07e0c96d386cfd",
+            "quote": "a court:\n(1) may not order maintenance that remains in effect for more than:\n(A) five years after the date of the order, if:\n(i) the spouses were married to each other for less than 10 years and the eligibility of the spouse for whom maintenance is ordered is established under Section 8.051 (1); or\n(ii) the spouses were married to each other for at least 10 years but not more than 20 years;\n(B) seven years after the date of the order, if the spouses were married to each other for at least 20 years but not more than 30 years; or\n(C) 10 years after the date of the order, if the spouses were married to each other for 30 years or more; and",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 8.051",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_cbcfc230c33d7956",
+            "quote": "(2) the spouse seeking maintenance: (A) is unable to earn sufficient income to provide for the spouse's minimum reasonable needs because of an incapacitating physical or mental disability; (B) has been married to the other spouse for 10 years or longer and lacks the ability to earn sufficient income to provide for the spouse's minimum reasonable needs; or (C) is the custodian of a child of the marriage of any age who requires substantial care and personal supervision because of a physical or mental disability that prevents the spouse from earning sufficient income to provide for the spouse's minimum reasonable needs.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 8.055 (row tx-stat_8ae38bd912530285) and § 8.054 (row tx-stat_6d07e0c96d386cfd). The § 8.054 quote includes a cross-reference to “Section 8.051 (1)” reproduced exactly as the corpus text carries it (a single space before the parenthetical), which the verifier's whitespace-run normalization tolerates regardless of the number of source spaces. PACK PROSE-CITATION AND CORPUS-CLAIM SWEEP 2026-09-22: the rule and trap describe § 8.051(2)(A)-(C)'s eligibility grounds without citing § 8.051; the Family Code section (tx-stat_cbcfc230c33d7956 -- the Bus. Orgs. and Educ. Code rows share the number) read and blocked."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "child-support-guidelines",
+    "rule_id": "tx-guideline-percentages-run-on-net-resources-with-a-1000-dollar-low-income-step-down",
+    "question": "How is presumptive child support calculated under the Texas guidelines?",
+    "rule": "As a percentage of the paying parent's monthly NET resources, on a step schedule by number of children, with a lower schedule for low-income obligors. Tex. Fam. Code § 154.125(b) schedule: “1 child 20% of Obligor's Net Resources 2 children 25% of Obligor's Net Resources 3 children 30% of Obligor's Net Resources 4 children 35% of Obligor's Net Resources 5 children 40% of Obligor's Net Resources 6+ children Not less than the amount for 5 children”. Below a $1,000 monthly net-resources floor, a separate, lower schedule applies: § 154.125(c), “If the obligor's monthly net resources are less than $1,000, the court shall presumptively apply the following schedule in rendering the child support order:” (15%/20%/25%/30%/35% for one through five children, same 6+ floor language). Above the statutory net-resources cap that triggers guideline application, § 154.126 lets the court add to the presumptive amount based on the child's proven needs, but caps the total: § 154.126(b), “in no event may the obligor be required to pay more child support than the greater of the presumptive amount or the amount equal to 100 percent of the proven needs of the child.”",
+    "trap": "The percentages run on NET resources, a defined term with its own inclusions and exclusions in § 154.125(a-1) (this rule does not reproduce that full list) — not gross pay, and not take-home pay after voluntary deductions. People also read §1 54.125(b)'s guideline percentages as capped forever at the schedule; § 154.126 says otherwise above the net-resources ceiling — the court can order more based on the child's proven needs, it just cannot exceed the greater of the presumptive amount or the proven needs, which puts a ceiling on the ADD-ON, not on child support generally. The 6+ children language is not a fixed percentage either; it is “Not less than the amount for 5 children,” a floor, not a schedule step, following the 2021 amendment to this section.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 154.125",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_a98c72a3e4ac4584",
+            "quote": "1 child 20% of Obligor's Net Resources\n2 children 25% of Obligor's Net Resources\n3 children 30% of Obligor's Net Resources\n4 children 35% of Obligor's Net Resources\n5 children 40% of Obligor's Net Resources\n6+ children Not less than the amount for 5 children",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 154.125",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_a98c72a3e4ac4584",
+            "quote": "If the obligor's monthly net resources are less than $1,000, the court shall presumptively apply the following schedule in rendering the child support order:",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 154.126",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_33145eefd05271b7",
+            "quote": "in no event may the obligor be required to pay more child support than the greater of the presumptive amount or the amount equal to 100 percent of the proven needs of the child.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 154.125 (row tx-stat_a98c72a3e4ac4584, two quotes: the standard schedule table and the $1,000 low-income trigger sentence) and § 154.126 (row tx-stat_33145eefd05271b7, the proven-needs cap sentence). The schedule quote is pulled across the table's internal line breaks, which the verifier's whitespace-run normalization collapses to single spaces without altering any word or figure. § 154.125(a-1)'s full net-resources inclusion/exclusion list was read but not quoted here; a dedicated row for that definition was not built in this pass."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "conservatorship-and-possession",
+    "rule_id": "tx-joint-managing-conservator-presumption-is-legal-rights-not-equal-time-and-falls-on-family-violence",
+    "question": "Does Texas presume parents will split custody equally?",
+    "rule": "Texas presumes JOINT MANAGING CONSERVATORSHIP — shared legal rights and duties — is in a child's best interest, and separately presumes the STANDARD POSSESSION ORDER — which is not an equal-time schedule — is reasonable and in the child's best interest. Tex. Fam. Code § 153.131(b): “It is a rebuttable presumption that the appointment of the parents of a child as joint managing conservators is in the best interest of the child. A finding of a history of family violence involving the parents of a child removes the presumption under this subsection.” Tex. Fam. Code § 153.252: “there is a rebuttable presumption that the standard possession order in Subchapter F: (1) provides reasonable minimum possession of a child for a parent named as a possessory conservator or joint managing conservator; and (2) is in the best interest of the child.”",
+    "trap": "“Joint managing conservator” sounds like “50/50 custody,” but the presumption in § 153.131 is about the ALLOCATION OF LEGAL RIGHTS AND DUTIES between the parents, not a time-split — the actual physical schedule is governed separately by the possession order, and § 153.252's presumed “standard possession order” is a specific, statutorily defined schedule (not reproduced in this rule) that is not an equal-time arrangement. The other trap: a finding of a history of family violence between the parents does not just weigh against joint conservatorship — § 153.131(b) says it “removes the presumption” entirely.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 153.131",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_8d3b1daa78a71afb",
+            "quote": "It is a rebuttable presumption that the appointment of the parents of a child as joint managing conservators is in the best interest of the child. A finding of a history of family violence involving the parents of a child removes the presumption under this subsection.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 153.252",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_5eb0d921f1798920",
+            "quote": "there is a rebuttable presumption that the standard possession order in Subchapter F:\n(1) provides reasonable minimum possession of a child for a parent named as a possessory conservator or joint managing conservator; and\n(2) is in the best interest of the child.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 153.131 (row tx-stat_8d3b1daa78a71afb, subsection (b) quoted in full) and § 153.252 (row tx-stat_5eb0d921f1798920, quoted in full). This row does not attempt to state the standard possession order's actual schedule (Subchapter F) — NOT ESTABLISHED here; a family-violence-involved case is also out of this plugin's scope per the family-violence caveat in CLAUDE.md, and this row only states the presumption's existence and its own family-violence carve-out, not how to litigate one."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "required-disclosures",
+    "rule_id": "tx-family-code-disclosure-duty-is-opt-in-collaborative-process-only-not-general",
+    "question": "What does the Family Code require a spouse to disclose during a Texas divorce?",
+    "rule": "The Family Code itself imposes an affirmative, ongoing disclosure duty only inside the OPT-IN collaborative family law process — it does not impose a general disclosure duty on every divorce. Tex. Fam. Code § 15.109(a): “during the collaborative family law process, on the request of another party, a party shall make timely, full, candid, and informal disclosure of information related to the collaborative matter without formal discovery. A party shall update promptly any previously disclosed information that has materially changed.” Under § 15.109(b), the parties may themselves define the scope of that disclosure once they are in the collaborative process.",
+    "trap": "The trap is assuming this duty applies to every Texas divorce. It does not — it only exists once both spouses have entered the collaborative family law process under Family Code Chapter 15, which is opt-in. For a conventional contested or uncontested case that is not proceeding collaboratively, the source of a party's disclosure obligations is the Texas Rules of Civil Procedure (mandatory disclosures and formal discovery, Rule 194 and the discovery rules generally) — those rules are NOT in this corpus (statutes and case law only; the Rules of Civil Procedure are a separate body this plugin does not carry), so this rule does not and cannot state what a non-collaborative case's disclosure obligations are. That gap is an honest negative, not an oversight: it was searched for in this corpus and is not there.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 15.109",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_3e9a306bd1b63fb8",
+            "quote": "during the collaborative family law process, on the request of another party, a party shall make timely, full, candid, and informal disclosure of information related to the collaborative matter without formal discovery. A party shall update promptly any previously disclosed information that has materially changed.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 15.109, row tx-stat_3e9a306bd1b63fb8. HONEST NEGATIVE, RECORDED: a full-text search of the Family Code shard (30 codes, 'Family Code' rows) for “disclosure” returned 80 hits; every other hit concerns confidentiality of court records, guardian/amicus/evaluator conflict disclosures, or privilege in the collaborative process — none of them is a general pre-decree financial-disclosure duty outside § 15.109's collaborative-process trigger. The general discovery/disclosure regime for a conventional divorce lives in the Texas Rules of Civil Procedure, which this corpus does not carry (only docketx/us-statutes and docketx/us-caselaw-tx were searched)."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "temporary-orders",
+    "rule_id": "tx-temporary-orders-are-discretionary-and-require-notice-and-hearing-not-automatic-on-filing",
+    "question": "What can a Texas court order while a divorce is pending, and does it happen automatically?",
+    "rule": "Filing a Texas divorce does not automatically trigger any interim relief — a temporary order requires a motion (or the court's own motion) and notice and a hearing, and then the relief is discretionary. Tex. Fam. Code § 6.502(a): “the court may render an appropriate order, including the granting of a temporary injunction for the preservation of the property and protection of the parties as deemed necessary and equitable and including an order directed to one or both parties: (1) requiring a sworn inventory and appraisement of the real and personal property owned or claimed by the parties and specifying the form, manner, and substance of the inventory and appraisal and list of debts and liabilities;”. The rest of § 6.502(a) (not quoted in full here) authorizes support payments, document production, attorney's fees, a receiver, exclusive use of the residence, spending restrictions, and exclusive control of a business.",
+    "trap": "Nothing in § 6.502 is self-executing. The operative verb throughout is “may,” and subsection (a) is triggered “on the motion of a party or on the court's own motion after notice and hearing” (language in the section's lead-in, not separately quoted here) — a spouse who assumes a sworn inventory, a spending freeze, or exclusive use of the house happens automatically upon filing will be surprised that none of it exists until someone asks for it and a hearing is held.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.502",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_b9681a963968a8cd",
+            "quote": "the court may render an appropriate order, including the granting of a temporary injunction for the preservation of the property and protection of the parties as deemed necessary and equitable and including an order directed to one or both parties:\n(1) requiring a sworn inventory and appraisement of the real and personal property owned or claimed by the parties and specifying the form, manner, and substance of the inventory and appraisal and list of debts and liabilities;",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 6.502, row tx-stat_b9681a963968a8cd. Quote covers the lead-in through paragraph (1); the remaining paragraphs (2)-(9), the receiver-notice deadline in (b), and the 7-day findings deadline in (c) were read but not quoted in this row."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "inventory-and-appraisement",
+    "rule_id": "tx-sworn-inventory-is-a-temporary-order-power-not-a-self-executing-statutory-duty",
+    "question": "Is a sworn inventory and appraisement of property automatically required in a Texas divorce?",
+    "rule": "No — the Family Code does not impose a standing, self-executing duty to file an inventory. The sworn inventory and appraisement exists in the Family Code only as ONE item of temporary relief a court MAY order. Tex. Fam. Code § 6.502(a)(1): “requiring a sworn inventory and appraisement of the real and personal property owned or claimed by the parties and specifying the form, manner, and substance of the inventory and appraisal and list of debts and liabilities;”. It takes a motion or the court's own motion, notice, and a hearing to come into existence — the same threshold that applies to every other item of § 6.502(a) relief.",
+    "trap": "Litigants (and some practitioners describing the process informally) talk about “the inventory” as though Texas divorce has a standing statutory inventory-and-appraisement filing requirement, the way discovery deadlines are fixed by rule. The Family Code does not set a required form or a default filing deadline for it — it is discretionary temporary-order relief under § 6.502(a)(1), and the specific form used in practice (the standard county “Inventory and Appraisement” form many Texas family courts require by LOCAL standing order) is not a Family Code creature at all.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.502",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_b9681a963968a8cd",
+            "quote": "requiring a sworn inventory and appraisement of the real and personal property owned or claimed by the parties and specifying the form, manner, and substance of the inventory and appraisal and list of debts and liabilities;",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 6.502, row tx-stat_b9681a963968a8cd (same row as the temporary-orders row above; this row narrows to just the inventory clause because the question is materially different — whether an inventory is a self-executing duty at all). HONEST NEGATIVE, RECORDED: a full-text search of the Family Code shard for “inventory” returned exactly 1 hit, this same § 6.502(a)(1) clause — there is no separate, dedicated Family Code section defining an inventory-and-appraisement form, deadline, or required content. Local county standing orders (not in this corpus) supply the form used in practice."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "mediation",
+    "rule_id": "tx-a-compliant-mediated-settlement-agreement-is-binding-and-cannot-be-revoked-an-ordinary-settlement-agreement-can-be",
+    "question": "Can a spouse back out of a signed divorce settlement before the decree is entered?",
+    "rule": "It depends on which kind of agreement it is. A mediated settlement agreement (MSA) that meets the Family Code's formal requirements is BINDING and cannot be revoked. Tex. Fam. Code § 6.602(b): “A mediated settlement agreement is binding on the parties if the agreement: (1) provides, in a prominently displayed statement that is in boldfaced type or capital letters or underlined, that the agreement is not subject to revocation; (2) is signed by each party to the agreement; and (3) is signed by the party's attorney, if any, who is present at the time the agreement is signed.” And § 6.602(c): “If a mediated settlement agreement meets the requirements of this section, a party is entitled to judgment on the mediated settlement agreement notwithstanding Rule 11, Texas Rules of Civil Procedure, or another rule of law.” By contrast, an ordinary written settlement agreement reached under § 7.006 (not through the § 6.602 mediation process) stays revocable up until the decree: § 7.006(a), “The agreement may be revised or repudiated before rendition of the divorce or annulment unless the agreement is binding under another rule of law.”",
+    "trap": "The word “settlement” gets used loosely for both kinds of agreement, but they behave oppositely on revocability. An ordinary § 7.006 settlement agreement is revocable right up until the decree is rendered — either spouse can walk away from it, unless some OTHER rule makes it binding. A § 6.602-compliant mediated settlement agreement is the opposite: once it carries the required boldfaced/capitalized/underlined non-revocation language and the required signatures, it is binding and a party is entitled to judgment on it even over an objection under ordinary Rule 11 settlement-agreement law. Someone who signs an MSA assuming they can still change their mind like an ordinary settlement is wrong if the MSA meets § 6.602(b)'s formalities.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.602",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d8b5657ffd7a2feb",
+            "quote": "A mediated settlement agreement is binding on the parties if the agreement:\n(1) provides, in a prominently displayed statement that is in boldfaced type or capital letters or underlined, that the agreement is not subject to revocation;\n(2) is signed by each party to the agreement; and\n(3) is signed by the party's attorney, if any, who is present at the time the agreement is signed.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.602",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d8b5657ffd7a2feb",
+            "quote": "If a mediated settlement agreement meets the requirements of this section, a party is entitled to judgment on the mediated settlement agreement notwithstanding Rule 11, Texas Rules of Civil Procedure, or another rule of law.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 7.006",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_98e0d2023022a419",
+            "quote": "The agreement may be revised or repudiated before rendition of the divorce or annulment unless the agreement is binding under another rule of law.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 6.602 (row tx-stat_d8b5657ffd7a2feb, two quotes: subsection (b) in full and subsection (c) in full) and § 7.006 (row tx-stat_98e0d2023022a419, the revocability sentence from subsection (a)). § 6.602(d)'s family-violence objection right to a mediation referral was read but not quoted; a party may object to being referred to mediation at all on that basis, which is a related but separate protection this row does not restate in full — see the family-violence caveat in CLAUDE.md for how this plugin handles family-violence facts generally."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "name-restoration",
+    "rule_id": "tx-court-must-restore-a-requested-former-name-unless-it-states-a-reason-and-cannot-deny-just-to-match-childrens-surname",
+    "question": "Can a Texas court refuse to restore a spouse's former name in the divorce decree?",
+    "rule": "Only if it states a reason, and “to keep the last name of family members the same” is not, by itself, an allowed reason. Tex. Fam. Code § 6.706(a): “the court shall change the name of a party specifically requesting the change to a name previously used by the party unless the court states in the decree a reason for denying the change of name.” Tex. Fam. Code § 6.706(b): “The court may not deny a change of name solely to keep the last name of family members the same.” The verb in (a) is “shall” — restoration is the default outcome for a party who asks, and denial requires the court to put a stated reason in the decree.",
+    "trap": "People (and sometimes the parties themselves) assume a judge has open-ended discretion to deny a requested name change “for the children's sake” or to keep a family's surname uniform — § 6.706(b) forecloses exactly that reason by name. The statute does not list what reasons ARE sufficient; it only rules out that one and requires whatever reason is used to be stated in the decree, not left unstated.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.706",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d3b581b40bc035d4",
+            "quote": "the court shall change the name of a party specifically requesting the change to a name previously used by the party unless the court states in the decree a reason for denying the change of name.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Fam. Code § 6.706",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_d3b581b40bc035d4",
+            "quote": "The court may not deny a change of name solely to keep the last name of family members the same.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Family Code § 6.706, row tx-stat_d3b581b40bc035d4, subsections (a) and (b) each quoted in full. § 6.706(d) cross-references § 45.106 for a post-decree name-change certificate from the court clerk; § 45.106 was read (row tx-stat_811d71d4204d1f53, including the $10 certificate fee) but is not cited as its own authority here because the only clean quotable segment fell under the 12-word verification minimum once cross-reference text was excluded — an honest limitation of this row, not a claim that the certificate process doesn't exist. PACK QUOTE SWEEP 2026-09-22 (every quoted phrase in the family-law pack's rules and traps checked against the cited texts on the corpus host; 320 spans, 275 corpus blocks re-verified 275/275): the rule quoted § 6.706(b) as 'to keep the family's last name the same'; the section says 'to keep the last name of family members the same' (block on file); quote corrected."
+  }
+]

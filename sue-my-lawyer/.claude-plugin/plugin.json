@@ -1,0 +1,8 @@
+{
+  "name": "sue-my-lawyer",
+  "version": "0.1.0",
+  "description": "What a client can do about their OWN lawyer, Texas only today: the elements of legal malpractice and the case-within-a-case causation rule, the anti-fracturing rule, breach of fiduciary duty and fee forfeiture, the two-year limitations period and the Hughes tolling rule, the discovery rule, the Peeler doctrine for criminal clients, Strickland ineffective-assistance, getting the client file back, fee disputes and the State Bar grievance process, assignability of malpractice claims, expert-testimony requirements, and attorney-client privilege after the relationship ends. Every legal statement is a verbatim quote from our own published statute and case-law corpus, re-checked against it, or is recorded as not established. Every output is a draft for attorney review, not legal advice. Never names, characterizes, or opines on a specific real lawyer or firm. Covers Texas only today; every other state is reported as not covered rather than answered from general knowledge.",
+  "author": {
+    "name": "DocketX"
+  }
+}

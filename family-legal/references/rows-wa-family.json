@@ -1,0 +1,535 @@
+[
+  {
+    "jurisdiction": "wa",
+    "clause": "residency-and-venue",
+    "rule_id": "wa-no-durational-residency-floor-petitioners-status-or-marriage-to-a-resident-suffices-venue-is-petitioners-county",
+    "question": "How long must a spouse live in Washington, and in what county, before a Washington court can hear a dissolution?",
+    "rule": "Washington sets no minimum DURATION of residency at all — unlike Texas's six-months-domicile-plus-90-days-county rule, a Washington dissolution may be filed by a party who simply IS a Washington resident (or a service member stationed here, or married or in a domestic partnership to a Washington resident or stationed service member) at the time of filing. RCW 26.09.030: \"a party who (1) is a resident of this state, or (2) is a member of the armed forces and is stationed in this state, or (3) is married or in a domestic partnership to a party who is a resident of this state or who is a member of the armed forces and is stationed in this state, petitions for a dissolution of marriage or dissolution of domestic partnership, and alleges that the marriage or domestic partnership is irretrievably broken\". Venue is separate and narrower than status: RCW 26.09.010(2), \"Such proceedings may be filed in the superior court of the county where the petitioner resides.\"",
+    "trap": "People coming from a state like Texas expect a durational residency requirement (\"how many months do I have to have lived here\") — the Washington text quoted above states no minimum period of Washington residency at all; it only requires that the qualifying status (resident, stationed service member, or married to either) exist when the petition is filed. The venue rule is also narrower than it looks: RCW 26.09.010(2) ties proper venue to the PETITIONER's county of residence specifically, not to either spouse's residence and not to where the respondent lives — this rule does not establish what happens, venue-wise, when the petitioner qualifies under RCW 26.09.030(3) (married to a Washington resident) without personally residing in any Washington county; that combination is not addressed by either quoted section.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.030",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.030",
+            "quote": "a party who (1) is a resident of this state, or (2) is a member of the armed forces and is stationed in this state, or (3) is married or in a domestic partnership to a party who is a resident of this state or who is a member of the armed forces and is stationed in this state, petitions for a dissolution of marriage or dissolution of domestic partnership, and alleges that the marriage or domestic partnership is irretrievably broken",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.010",
+            "quote": "Such proceedings may be filed in the superior court of the county where the petitioner resides.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.030 (row rcw-26.09.030) and RCW 26.09.010 (row rcw-26.09.010, subsection (2)). RCW 26.09.030 is one long lead-in sentence that also carries the 90-day waiting-period clause and the irretrievably-broken ground, quoted separately in the waiting-period and grounds rows below — quoting only part of the sentence here is not a defect; see those rows' own quotes for the rest. Distinctive vs. Texas: Tex. Fam. Code § 6.301 requires six months' Texas domiciliary status and 90 days' county residency by EITHER spouse before the filing date; RCW 26.09.030 requires only that the qualifying status exist at filing, with no minimum duration stated in the text."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "grounds",
+    "rule_id": "wa-irretrievably-broken-is-the-only-ground-no-separate-fault-grounds-exist-in-this-chapter",
+    "question": "Does a Washington dissolution require proving someone did something wrong?",
+    "rule": "No, and Washington goes further than Texas: \"irretrievably broken\" is the ONLY ground this chapter states — there is no separate menu of fault grounds (cruelty, adultery, etc.) alongside it the way Texas keeps §§ 6.002–6.007 on the books. RCW 26.09.030 requires the petitioner to allege \"that the marriage or domestic partnership is irretrievably broken,\" and lays out what happens if that allegation is contested: \"If the other party denies that the marriage or domestic partnership is irretrievably broken the court shall consider all relevant factors, including the circumstances that gave rise to the filing of the petition and the prospects for reconciliation and shall: (i) Make a finding that the marriage or domestic partnership is irretrievably broken and enter a decree of dissolution of the marriage or domestic partnership; or (ii) At the request of either party or on its own motion, transfer the cause to the family court, refer them to another counseling service of their choice, and request a report back from the counseling service within sixty days, or continue the matter for not more than sixty days for hearing.\"",
+    "trap": "Someone expecting a Texas-style choice between a no-fault filing and a fault-based one (cruelty, adultery, living apart three years, confinement) will not find any of that in this chapter — the text gives the court only two paths on a contested \"irretrievably broken\" allegation: find it broken and grant the decree, or route the case to counseling/a continuance of up to sixty days to test the prospects for reconciliation. Nothing in the quoted text makes proof of misconduct a precondition, an alternative ground, or (on this rule's authorities) a factor in the property or maintenance decisions covered by other rows — whether fault affects property division or maintenance under RCW 26.09.080 or RCW 26.09.090 is NOT ESTABLISHED by this rule; those two sections' own \"without regard to misconduct\" language (quoted in the division-standard and spousal-maintenance rows) points the other way, but this rule does not merge that finding in.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.030",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.030",
+            "quote": "petitions for a dissolution of marriage or dissolution of domestic partnership, and alleges that the marriage or domestic partnership is irretrievably broken",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.030",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.030",
+            "quote": "If the other party denies that the marriage or domestic partnership is irretrievably broken the court shall consider all relevant factors, including the circumstances that gave rise to the filing of the petition and the prospects for reconciliation and shall:\n(i) Make a finding that the marriage or domestic partnership is irretrievably broken and enter a decree of dissolution of the marriage or domestic partnership; or\n(ii) At the request of either party or on its own motion, transfer the cause to the family court, refer them to another counseling service of their choice, and request a report back from the counseling service within sixty days, or continue the matter for not more than sixty days for hearing.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.030 (row rcw-26.09.030), two quotes from the same row. HONEST NEGATIVE, RECORDED: no other RCW 26.09 section in this row's research (26.09.010, .015, .060, .070, .080, .090, .150, .184, .187, .191, and Title 26.16/26.19 sections read for this pass) states a fault ground of any kind — unlike Texas, which keeps cruelty, adultery, three-years'-separation, and confinement grounds in force alongside insupportability (Tex. Fam. Code §§ 6.002, 6.003, 6.006, 6.007), Washington's chapter 26.09 RCW, on the sections read for this plugin, has no fault-ground counterpart at all."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "waiting-period",
+    "rule_id": "wa-ninety-days-from-both-filing-and-service-not-filing-alone",
+    "question": "How soon after filing can a Washington court actually grant the dissolution?",
+    "rule": "Not before ninety days have elapsed since BOTH the petition was filed AND the respondent was served (or first publication of summons was made) — not ninety days from filing alone. RCW 26.09.030: \"when ninety days have elapsed since the petition was filed and from the date when service of summons was made upon the respondent or the first publication of summons was made, the court shall proceed as follows\".",
+    "trap": "The clock is commonly assumed to run only from the filing date, the way Texas's 60-day floor runs from the filing date under § 6.702(a). The Washington text requires ninety days to have elapsed from BOTH events — filing AND service/publication — which means the operative floor is ninety days after whichever of those two events happened LATER. A petitioner who files but delays serving the respondent (or a respondent who is hard to locate, pushing publication out) pushes the earliest possible decree date out with the service date, not just the filing date. this rule does not state what happens if service is never completed at all; that is a service-of-process question outside this rule's authority.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.030",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.030",
+            "quote": "when ninety days have elapsed since the petition was filed and from the date when service of summons was made upon the respondent or the first publication of summons was made, the court shall proceed as follows",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.030, row rcw-26.09.030 — same row as the residency-and-venue and grounds rows above; quoting a different clause of the same long lead-in sentence, which is not a defect (see the row-consumption note pattern used throughout this file). No family-violence exception to this waiting period was found in RCW 26.09.030's own text, unlike Tex. Fam. Code § 6.702(c)'s express carve-out — whether Washington has a comparable exception elsewhere in Title 26 RCW was not researched in this pass; NOT ESTABLISHED here."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "community-vs-separate-property",
+    "rule_id": "wa-separate-property-is-pre-marriage-ownership-plus-gift-bequest-devise-descent-or-inheritance-everything-else-acquired-during-marriage-is-community",
+    "question": "Is a given asset separate property or community property in a Washington dissolution?",
+    "rule": "Like Texas, Washington defines separate property first and treats everything else acquired during the marriage as community property — but the Washington list runs by acquisition method, not by a numbered closed list the way Tex. Fam. Code § 3.001 is structured. RCW 26.16.010: \"Property and pecuniary rights owned by a spouse before marriage and that acquired by him or her afterwards by gift, bequest, devise, descent, or inheritance, with the rents, issues and profits thereof, shall not be subject to the debts or contracts of his or her spouse, and he or she may manage, lease, sell, convey, encumber or devise by will such property without his or her spouse joining in such management, alienation or encumbrance, as fully, and to the same extent or in the same manner as though he or she were unmarried.\" RCW 26.16.020 states the same rule for domestic partnership property acquired before or after registration. RCW 26.16.030: \"Property not acquired or owned, as prescribed in RCW 26.16.010 and 26.16.020, acquired after marriage or after registration of a state registered domestic partnership by either domestic partner or either husband or wife or both, is community property.\"",
+    "trap": "The Washington text defines community property by exclusion, exactly as Texas does (Tex. Fam. Code § 3.002), so the same practical trap applies: anything acquired during the marriage that does NOT fit the pre-marriage-ownership-or-gift/bequest/devise/descent/inheritance description in § 26.16.010 (or the parallel domestic-partnership rule in § 26.16.020) is community property by default. But the specific Texas trap — the personal-injury-recovery carve-back in Tex. Fam. Code § 3.001(3), which keeps most of a personal-injury recovery separate except the portion compensating lost earning capacity during the marriage — has NO counterpart in the three sections quoted here. RCW 26.16.010, .020, and .030 say nothing about personal-injury recoveries at all. Whether Washington characterizes a personal-injury recovery as separate or community property is NOT ESTABLISHED by this rule; it was not researched further in this pass, and this rule does not imply either answer.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.16.010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.16.010",
+            "quote": "Property and pecuniary rights owned by a spouse before marriage and that acquired by him or her afterwards by gift, bequest, devise, descent, or inheritance, with the rents, issues and profits thereof, shall not be subject to the debts or contracts of his or her spouse, and he or she may manage, lease, sell, convey, encumber or devise by will such property without his or her spouse joining in such management, alienation or encumbrance, as fully, and to the same extent or in the same manner as though he or she were unmarried.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.16.030",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.16.030",
+            "quote": "Property not acquired or owned, as prescribed in RCW 26.16.010 and 26.16.020, acquired after marriage or after registration of a state registered domestic partnership by either domestic partner or either husband or wife or both, is community property.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.16.020",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.16.020",
+            "quote": "Property and pecuniary rights owned by a person in a state registered domestic partnership before registration of the domestic partnership or afterwards acquired by gift, bequest, devise, descent, or inheritance, with the rents, issues and profits thereof, shall not be subject to the debts or contracts of his or her domestic partner",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.16.010 (row rcw-26.16.010) and RCW 26.16.030 (row rcw-26.16.030, lead sentence in full). RCW 26.16.020 (row rcw-26.16.020, the parallel domestic-partnership rule) was read in full and is described accurately in the rule field but not separately quoted as an authority here, since its operative language duplicates § 26.16.010's structure with \"domestic partnership\" substituted for \"marriage\" — adding it would not change what this row establishes. HONEST NEGATIVE, RECORDED: neither § 26.16.010 nor § 26.16.030 mentions personal injury, unlike Tex. Fam. Code § 3.001(3). PACK PROSE-CITATION AND CORPUS-CLAIM SWEEP 2026-09-22: the trap names RCW 26.16.020 as the parallel domestic-partnership rule; section read and blocked."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "division-standard",
+    "rule_id": "wa-just-and-equitable-reaches-all-property-community-or-separate-not-just-the-community-estate",
+    "question": "Does a Washington dissolution court have to split the community estate 50/50, and can it touch separate property?",
+    "rule": "No fixed split, and Washington's standard reaches further than Texas's: the court divides ALL of the parties' property — \"either community or separate\" — as is \"just and equitable,\" not just the community estate. RCW 26.09.080: \"the court shall, without regard to misconduct, make such disposition of the property and the liabilities of the parties, either community or separate, as shall appear just and equitable after considering all relevant factors including, but not limited to: (1) The nature and extent of the community property; (2) The nature and extent of the separate property; (3) The duration of the marriage or domestic partnership; and (4) The economic circumstances of each spouse or domestic partner at the time the division of property is to become effective, including the desirability of awarding the family home or the right to live therein for reasonable periods to a spouse or domestic partner with whom the children reside the majority of the time.\"",
+    "trap": "Someone applying the Texas rule by analogy will assume a Washington court's division power stops at the community estate, the way Tex. Fam. Code § 7.001 limits the court to \"the estate of the parties\" without touching separate property (quoted and blocked on this plugin's Texas row `tx-just-and-right-not-a-statutory-fifty-fifty-guarantee`). The Washington text says the opposite in so many words: the court's just-and-equitable power expressly covers property that is \"either community or separate.\" The list of four factors is also stated as nonexclusive (\"including, but not limited to\"), so this rule does not establish that those four are the only factors a Washington court may weigh.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.080",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.080",
+            "quote": "the court shall, without regard to misconduct, make such disposition of the property and the liabilities of the parties, either community or separate, as shall appear just and equitable after considering all relevant factors including, but not limited to:\n(1) The nature and extent of the community property;\n(2) The nature and extent of the separate property;\n(3) The duration of the marriage or domestic partnership; and\n(4) The economic circumstances of each spouse or domestic partner at the time the division of property is to become effective, including the desirability of awarding the family home or the right to live therein for reasonable periods to a spouse or domestic partner with whom the children reside the majority of the time.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.080, row rcw-26.09.080, quoted from \"the court shall\" through the end of factor (4) — the section's lead-in clause describing which proceedings it applies to (dissolution, legal separation, invalidity, or a post-dissolution property proceeding after a foreign court lacked jurisdiction) was read but not quoted, since the question this row answers is about the division standard itself, not which proceedings trigger it. PACK QUOTE SWEEP 2026-09-22: the trap quotes Tex. Fam. Code § 7.001 as a contrast; the Texas block is copied onto this row. PACK QUOTE SWEEP 2026-09-22: the trap quotes Tex. Fam. Code § 7.001 as a contrast; block stays on the Texas row, which the sentence now names."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "spousal-support",
+    "rule_id": "wa-maintenance-is-factor-based-with-no-statutory-dollar-percentage-or-duration-cap",
+    "question": "Who qualifies for spousal maintenance in Washington, how much, and for how long?",
+    "rule": "Washington states no eligibility threshold, no dollar or percentage cap, and no durational limit in its maintenance statute at all — amount and duration are set entirely by a nonexclusive list of factors, \"without regard to misconduct.\" RCW 26.09.090(1): \"the court may grant a maintenance order for either spouse or either domestic partner. The maintenance order shall be in such amounts and for such periods of time as the court deems just, without regard to misconduct, after considering all relevant factors including but not limited to: (a) The financial resources of the party seeking maintenance...and his or her ability to meet his or her needs independently...; (b) The time necessary to acquire sufficient education or training to enable the party seeking maintenance to find employment appropriate to his or her skill, interests, style of life, and other attendant circumstances; (c) The standard of living established during the marriage or domestic partnership; (d) The duration of the marriage or domestic partnership; (e) The age, physical and emotional condition, and financial obligations of the spouse or domestic partner seeking maintenance; and (f) The ability of the spouse or domestic partner from whom maintenance is sought to meet his or her needs and financial obligations while meeting those of the spouse or domestic partner seeking maintenance.\"",
+    "trap": "Texas caps maintenance at the lesser of $5,000 or 20% of the obligor's average monthly gross income (Tex. Fam. Code § 8.055) and tiers its duration to marriage length — five, seven, or ten years for the ordinary eligibility routes (§ 8.054). Nothing in RCW 26.09.090's text imposes any dollar figure, percentage, or fixed-year duration; \"in such amounts and for such periods of time as the court deems just\" is the entire textual standard. A person assuming Washington maintenance is capped or time-limited the way Texas's is will be wrong on this rule's authority. NOT ESTABLISHED here: whether Washington case law has developed duration norms or rules of thumb around marriage length — that would require case-law research not undertaken in this statute-only pass, and this rule does not state or imply a duration guideline that the statute's own text does not contain.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.090",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.090",
+            "quote": "the court may grant a maintenance order for either spouse or either domestic partner. The maintenance order shall be in such amounts and for such periods of time as the court deems just, without regard to misconduct, after considering all relevant factors including but not limited to:\n(a) The financial resources of the party seeking maintenance, including separate or community property apportioned to him or her, and his or her ability to meet his or her needs independently, including the extent to which a provision for support of a child living with the party includes a sum for that party;\n(b) The time necessary to acquire sufficient education or training to enable the party seeking maintenance to find employment appropriate to his or her skill, interests, style of life, and other attendant circumstances;\n(c) The standard of living established during the marriage or domestic partnership;\n(d) The duration of the marriage or domestic partnership;\n(e) The age, physical and emotional condition, and financial obligations of the spouse or domestic partner seeking maintenance; and\n(f) The ability of the spouse or domestic partner from whom maintenance is sought to meet his or her needs and financial obligations while meeting those of the spouse or domestic partner seeking maintenance.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.090, row rcw-26.09.090, subsection (1) quoted in full including all six factors. This single row covers both eligibility and amount/duration — unlike the Texas store, which splits those into two rows (§ 8.051 eligibility, §§ 8.054/8.055 amount and duration) — because Washington's text does not separate a threshold eligibility test from the amount/duration factors the way Texas's § 8.051 shortfall-plus-trigger test does; RCW 26.09.090 states one unified factor list for whether, how much, and how long."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "child-support-guidelines",
+    "rule_id": "wa-income-shares-economic-table-on-combined-net-income-not-a-percentage-of-the-obligor-alone-plus-a-45-percent-cap-and-self-support-reserve",
+    "question": "How is presumptive child support calculated under the Washington guidelines?",
+    "rule": "Washington does not run child support as a flat percentage of the paying parent's own net resources the way Texas does; it uses an income-shares ECONOMIC TABLE keyed to the parents' COMBINED monthly net income and the number of children, presumptive up to $50,000 combined and discretionary above that. RCW 26.19.020: \"The economic table is presumptive for combined monthly net incomes up to and including $50,000. When combined monthly net income exceeds $50,000, the court may exceed the presumptive amount of support set for combined monthly net incomes of $50,000 upon written findings of fact.\" The same section sets a minimum: \"Minimum support may not be less than $50 per child per month except when allowed by RCW 26.19.065(2).\" A separate ceiling caps any one parent's total obligation: RCW 26.19.065(1), \"Neither parent's child support obligation owed for all his or her biological or legal children may exceed 45 percent of net income except for good cause shown.\" RCW 26.19.065 also protects a self-support reserve set at 180% of the one-person federal poverty guideline, with the $50-per-child minimum as the exception to that reserve.",
+    "trap": "The Texas guideline runs off the OBLIGOR's net resources alone — 20% for one child, 25% for two, and so on (Tex. Fam. Code § 154.125(b)). Washington's economic table instead starts from the two parents' COMBINED net income and the number of children; this rule's authorities do not include RCW 26.19.080, which is the section that actually apportions the table amount between the two parents by their respective shares of the combined income — that apportionment mechanism was not verified in this pass, and this rule does not assume it works like the Texas single-obligor-percentage model. The 45% cap in § 26.19.065(1) is a ceiling on a PARENT's total obligation across ALL of that parent's children (not just the children in the case before the court), and is itself subject to a \"good cause\" exception — it is not an absolute limit.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.19.020",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.19.020",
+            "quote": "The economic table is presumptive for combined monthly net incomes up to and including $50,000. When combined monthly net income exceeds $50,000, the court may exceed the presumptive amount of support set for combined monthly net incomes of $50,000 upon written findings of fact.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.19.020",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.19.020",
+            "quote": "Minimum support may not be less than $50 per child per month except when allowed by RCW 26.19.065(2).",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.19.065",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.19.065",
+            "quote": "Neither parent's child support obligation owed for all his or her biological or legal children may exceed 45 percent of net income except for good cause shown.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.19.020 (row rcw-26.19.020, two quotes: the presumptive-table sentence and the $50 minimum-support sentence — the economic table's own numeric rows were read in full but are not quoted here since the question asked is about the calculation METHOD, not the table's figures) and RCW 26.19.065 (row rcw-26.19.065, the 45% cap sentence from subsection (1); the self-support-reserve language in subsections (2)(b)-(c) was read but not quoted, since it qualifies rather than restates the 45% cap already quoted). HONEST NEGATIVE, RECORDED: RCW 26.19.080 (the apportionment-by-income-share mechanism) was not read for this row and is not cited here; this row states only the table's inputs and outer limits, not the parent-by-parent apportionment formula."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "custody-and-visitation",
+    "rule_id": "wa-no-statutory-presumption-of-joint-decision-making-or-equal-residential-time-best-interest-factors-govern-with-mandatory-limits-on-domestic-violence-findings",
+    "question": "Does Washington presume parents will share decision-making and residential time equally?",
+    "rule": "No comparable presumption to Texas's rebuttable joint-managing-conservatorship presumption exists in the Washington text read for this rule. Every permanent parenting plan must contain \"provisions for resolution of future disputes between the parents, allocation of decision-making authority, and residential provisions for the child\" (RCW 26.09.184(2)), but the allocation itself runs on best-interest factors, not a presumption: RCW 26.09.187(3)(a) lists seven factors the court considers when the limitations of RCW 26.09.191 are not dispositive, stating that \"the relative strength, nature, and stability of the child's relationship with each parent\" \"shall be given the greatest weight,\" and equal-time alternating residence is only something the court \"may order\" — not a default — \"if such provision is in the best interests of the child\" (RCW 26.09.187(3)(b)). Separately, RCW 26.09.191(2)(a) instructs that \"the court shall not draw any presumptions from the provisions of the temporary parenting plan,\" and RCW 26.09.191(4)(a) requires the court to impose a MANDATORY limitation on a parent's residential time where it finds, among other listed conduct, \"a history of acts of domestic violence as defined in RCW 7.105.010, an assault that causes grievous bodily harm or the fear of such harm, or any sexual assault.\"",
+    "trap": "Tex. Fam. Code § 153.131(b) creates an explicit, named \"rebuttable presumption that the appointment of the parents...as joint managing conservators is in the best interest of the child,\" removed only by a family-violence finding (quoted and blocked on this plugin's Texas row `tx-joint-managing-conservator-presumption-is-legal-rights-not-equal-time-and-falls-on-family-violence`). Washington's text, on the sections read for this rule, states no comparable presumption favoring joint decision-making or equal time in the first place — the allocation is factor-driven from the start, and an equal alternating-residence schedule is expressly discretionary (\"may order\"), not presumed. this rule states that RCW 26.09.191(4)(a)(iii) makes a domestic-violence history a MANDATORY residential-time-limitation trigger as part of answering how the ordinary allocation regime works; it is not a substitute for this plugin's family-violence caveat — a question that is actually about safety, a protective order, or \"is it safe to leave\" routes to that caveat first, per CLAUDE.md, and is not answered from this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.184",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.184",
+            "quote": "The permanent parenting plan shall contain provisions for resolution of future disputes between the parents, allocation of decision-making authority, and residential provisions for the child.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.187",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.187",
+            "quote": "the court may order that a child frequently alternate his or her residence between the households of the parents for brief and substantially equal intervals of time if such provision is in the best interests of the child.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.191",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.191",
+            "quote": "In entering a permanent parenting plan, the court shall not draw any presumptions from the provisions of the temporary parenting plan.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.191",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.191",
+            "quote": "A parent's residential time with the parent's child shall be limited if it is found that a parent has engaged in any of the following conduct:\n(i) Willful abandonment that continues for an extended period of time;\n(ii) Physical abuse or a pattern of emotional abuse of a child;\n(iii) A history of acts of domestic violence as defined in RCW 7.105.010, an assault that causes grievous bodily harm or the fear of such harm, or any sexual assault; or\n(iv) Sexual abuse of a child.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.184 (row rcw-26.09.184, subsection (2)), RCW 26.09.187 (row rcw-26.09.187, subsection (3)(b)'s equal-alternating-residence sentence; the seven best-interest factors of (3)(a) and the 'greatest weight' sentence were read in full and described in the rule field but only the (3)(a)(i) factor's substance is paraphrased, not separately quoted, to keep this row to the authorities that carry the presumption point), and RCW 26.09.191 (row rcw-26.09.191, two quotes: subsection (2)(a) and the subsection (4)(a) mandatory-limitation lead-in with its four numbered triggers). Out of scope for this row, by design: the specific limitations a court may impose once a finding under (4)(a) is made (subsection (4)(d): supervised visitation, evaluation/treatment, no-contact), the sex-offense-specific regime in RCW 26.09.192, and any protective-order or safety-planning guidance, which routes to CLAUDE.md's family-violence caveat instead. PACK QUOTE SWEEP 2026-09-22: the trap quotes Tex. Fam. Code § 153.131(b) as a contrast; the Texas block is copied onto this row. PACK QUOTE SWEEP 2026-09-22: the trap quotes Tex. Fam. Code § 153.131(b) as a contrast; block stays on the Texas row, which the sentence now names."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "required-disclosures",
+    "rule_id": "wa-sworn-child-support-worksheet-and-mandatory-financial-affidavit-form-are-statutory-not-court-rule-only",
+    "question": "What does Washington statute require a party to disclose during a dissolution?",
+    "rule": "Unlike Texas, where the Family Code imposes a disclosure duty only inside the opt-in collaborative-law process, Washington's own statutes impose a mandatory, sworn financial-disclosure duty tied to child support. RCW 26.19.035(3): \"Worksheets in the form developed by the administrative office of the courts shall be completed under penalty of perjury and filed in every proceeding in which child support is determined. The court shall not accept incomplete worksheets or worksheets that vary from the worksheets developed by the administrative office of the courts.\" A separate section requires a financial affidavit integrated into those worksheets for actions commenced under chapter 26.09 RCW (dissolution) generally: RCW 26.18.220(1), \"The administrator for the courts shall develop mandatory forms for financial affidavits for integration into the worksheets. The forms shall be developed and approved not later than September 1, 1992. The parties shall use the mandatory form for financial affidavits for actions commenced on or after September 1, 1992.\"",
+    "trap": "The Texas honest negative for this topic is that the Family Code has NO general disclosure duty outside the opt-in collaborative process; Washington's text does the opposite — it puts a sworn, penalty-of-perjury worksheet-filing duty directly in the statute for every proceeding in which child support is determined, RCW 26.19.035(3), and layers a mandatory financial-affidavit-form requirement on top of it under RCW 26.18.220(1). But the two sections' triggers are not identically worded: § 26.19.035(3) is keyed to \"every proceeding in which child support is determined,\" while § 26.18.220(1) refers more broadly to \"all actions commenced under chapters 26.09, *26.10, 26.26A, and 26.26B RCW.\" Whether the financial-affidavit duty in § 26.18.220(1) independently reaches a childless dissolution where no child support is ever at issue is a genuine textual tension this rule does not resolve — recorded as unresolved, not smoothed over. this rule also does not state what specific line items the mandatory financial-affidavit form itself requires; that content lives in AOC-developed forms and format rules, not in the RCW text.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.19.035",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.19.035",
+            "quote": "Worksheets in the form developed by the administrative office of the courts shall be completed under penalty of perjury and filed in every proceeding in which child support is determined. The court shall not accept incomplete worksheets or worksheets that vary from the worksheets developed by the administrative office of the courts.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.18.220",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.18.220",
+            "quote": "The administrator for the courts shall develop mandatory forms for financial affidavits for integration into the worksheets. The forms shall be developed and approved not later than September 1, 1992. The parties shall use the mandatory form for financial affidavits for actions commenced on or after September 1, 1992.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.19.035 (row rcw-26.19.035, subsection (3) in full) and RCW 26.18.220 (row rcw-26.18.220, subsection (1) middle three sentences). RECALL-DEFECT CHECK: RCW 26.19.071, the section this row's originating ticket named for 'financial declaration / worksheets,' was read in full and does NOT establish a disclosure duty — it is a standards-for-determining-income section (what counts as gross income, what is excluded, how net income and imputed income are computed), not a filing requirement; it was not a retrieval-index gap, the section genuinely does not say what the ticket assumed. The actual worksheet/financial-affidavit duty was located instead at RCW 26.19.035(3) and RCW 26.18.220(1) via a full-text keyword search ('worksheet', 'disclosure', 'financial declaration' — 0 hits for the last term) across the wa statutes shard. HONEST NEGATIVE, RECORDED: the § 26.18.220(1) vs § 26.19.035(3) scope tension described in the trap field above."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "temporary-orders",
+    "rule_id": "wa-temporary-relief-requires-a-motion-and-affidavit-not-automatic-on-filing",
+    "question": "What can a Washington court order while a dissolution is pending, and does it happen automatically?",
+    "rule": "Filing does not automatically trigger anything — a party must move for temporary relief, supported by an affidavit, and the resulting order is discretionary. RCW 26.09.060(1): \"either party may move for temporary maintenance or for temporary support of children entitled to support. The motion shall be accompanied by an affidavit setting forth the factual basis for the motion and the amounts requested.\" RCW 26.09.060(6): \"The court may issue a temporary restraining order or preliminary injunction and an order for temporary maintenance or support in such amounts and on such terms as are just and proper in the circumstances. The court may in its discretion waive the filing of the bond or the posting of security.\"",
+    "trap": "Nothing in § 26.09.060 is self-executing — the operative verbs are \"may move\" and \"may issue,\" and subsection (1) expressly conditions the motion on an accompanying affidavit stating the factual basis and the amounts requested. Even an EX PARTE temporary restraining order, which skips notice to the other party, still requires an affidavit or other evidence showing irreparable injury would result before a response could be filed (subsection (5)) — it is not automatic either. this rule does not restate the domestic-violence and firearms-surrender provisions of subsections (3)–(4) in full; a question that is actually about obtaining a protective order for safety, rather than the mechanics of a temporary-maintenance or temporary-support motion, is routed to this plugin's family-violence caveat instead of answered from this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.060",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.060",
+            "quote": "either party may move for temporary maintenance or for temporary support of children entitled to support. The motion shall be accompanied by an affidavit setting forth the factual basis for the motion and the amounts requested.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.060",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.060",
+            "quote": "The court may issue a temporary restraining order or preliminary injunction and an order for temporary maintenance or support in such amounts and on such terms as are just and proper in the circumstances. The court may in its discretion waive the filing of the bond or the posting of security.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.060, row rcw-26.09.060, two quotes (subsection (1) in full, subsection (6) in full). Subsections (2)-(5) (what a restraining order may enjoin, the firearms-surrender cross-reference to RCW 9.41.800, and the ex parte irreparable-injury standard) and (7)-(11) (order legends, law-enforcement notice, and support-arrears survival) were read but not quoted, consistent with this row's scope."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "mediation",
+    "rule_id": "wa-mediation-is-discretionary-except-county-funded-reduced-fee-mediation-which-is-mandatory-only-to-the-extent-funded",
+    "question": "Is mediation required in a Washington dissolution?",
+    "rule": "Not automatically. RCW 26.09.015(1): \"In any proceeding under this chapter, the matter may be set for mediation of the contested issues before, or concurrent with, the setting of the matter for hearing.\" RCW 26.09.015(2)(a): \"Each superior court may make available a mediator.\" The one place the statute uses \"shall\" instead of \"may\" is narrower: RCW 26.09.015(2)(b), \"Counties may, and to the extent state funding is provided therefor counties shall, provide both predecree and postdecree mediation at reduced or waived fee to the parties within one year of the filing of the dissolution petition.\"",
+    "trap": "\"May\" governs almost this entire section — setting a matter for mediation, and a superior court making a mediator available, are both discretionary. The one mandatory clause is conditional twice over: it binds counties only \"to the extent state funding is provided,\" and even then only for the reduced-or-waived-fee mediation program, not mediation in general. this rule does not establish, for any particular county, whether that state funding actually exists — that funding-availability fact is outside this corpus and would have to be confirmed locally.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.015",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.015",
+            "quote": "In any proceeding under this chapter, the matter may be set for mediation of the contested issues before, or concurrent with, the setting of the matter for hearing.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.015",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.015",
+            "quote": "Counties may, and to the extent state funding is provided therefor counties shall, provide both predecree and postdecree mediation at reduced or waived fee to the parties within one year of the filing of the dissolution petition.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.015, row rcw-26.09.015, two quotes (subsection (1) in full, subsection (2)(b) in full). Subsection (3)'s mediation-communications privilege rules (governed by chapter 7.07 RCW, with exceptions for abuse/neglect/domestic-violence proof and postdecree mediation-arbitration review) were read but not quoted here, since this row answers whether mediation is required, not what is admissible from it."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "settlement-agreements",
+    "rule_id": "wa-separation-contract-binds-the-court-unless-unfair-at-execution-parenting-plan-terms-always-excepted-no-unilateral-revocation-right-stated",
+    "question": "Can a spouse back out of a Washington separation contract before the decree is entered?",
+    "rule": "Not simply by changing their mind — a written separation contract, once either party petitions for dissolution, legal separation, or invalidity, \"shall be binding upon the court\" unless the court itself finds it was unfair when signed. RCW 26.09.070(3): \"the contract, except for those terms providing for a parenting plan for their children, shall be binding upon the court unless it finds, after considering the economic circumstances of the parties and any other relevant evidence produced by the parties on their own motion or on request of the court, that the separation contract was unfair at the time of its execution.\" The parenting-plan terms of any such contract are never binding on the court by their own force. Mutual, not unilateral, termination is addressed separately: RCW 26.09.070(8), \"If at any time the parties to the separation contract by mutual agreement elect to terminate the separation contract they may do so without formality unless the contract was recorded...\"",
+    "trap": "Texas splits this into two tracks — an ordinary settlement agreement that stays revocable up to the decree (Tex. Fam. Code § 7.006) versus a mediated settlement agreement that becomes irrevocable once it meets formal boldface/signature requirements (§ 6.602). Washington's separation-contract statute does not build that same revocable/irrevocable fork: on the text quoted here, ANY written separation contract becomes binding on the court once a party petitions, unless the COURT finds it was unfair at execution — the test is the contract's fairness, not whether it met a formal irrevocability checklist. Subsection (8) gives the parties a way to terminate the contract, but only by MUTUAL agreement; this rule's authorities do not state that either party has a unilateral right to revoke a still-executory separation contract before a petition is filed, the way an ordinary Texas § 7.006 agreement can be unilaterally repudiated. NOT ESTABLISHED here: what happens if only one party wants out before any petition is filed and the contract has not been recorded.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.070",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.070",
+            "quote": "the contract, except for those terms providing for a parenting plan for their children, shall be binding upon the court unless it finds, after considering the economic circumstances of the parties and any other relevant evidence produced by the parties on their own motion or on request of the court, that the separation contract was unfair at the time of its execution.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.070",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.070",
+            "quote": "If at any time the parties to the separation contract by mutual agreement elect to terminate the separation contract they may do so without formality unless the contract was recorded as in subsection (2) of this section, in which case a statement should be filed terminating the contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.070, row rcw-26.09.070, two quotes (subsection (3), the binding/unfair-at-execution sentence in full; subsection (8), the mutual-termination sentence in full). Subsections (1)-(2) (what a separation contract may cover, and the optional recording/publication procedure for parties living apart without a decree) and (4)-(7) (consequences of an unfair-finding, incorporation into the decree, enforcement as contract terms, and modification) were read but not quoted, consistent with this row's scope on the revocability question."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "name-restoration",
+    "rule_id": "wa-name-restored-on-request-for-dissolution-or-invalidity-text-does-not-cover-legal-separation-or-require-a-stated-reason-to-deny",
+    "question": "Can a Washington court restore a spouse's former name in the dissolution decree?",
+    "rule": "On request, the court must restore a former name (or may, in its discretion, order a different new name), but only where the marriage or domestic partnership was DISSOLVED or DECLARED INVALID. RCW 26.09.150(3): \"Upon request of a party whose marriage or domestic partnership is dissolved or declared invalid, the court shall order a former name restored or the court may, in its discretion, order a change to another name.\"",
+    "trap": "Two Texas-style safeguards are simply not in this text. Tex. Fam. Code § 6.706(a) requires a Texas court to STATE A REASON in the decree before denying a requested name change, and § 6.706(b) expressly forecloses \"to keep the last name of family members the same\" as a sufficient reason (quoted and blocked on this plugin's Texas row `tx-court-must-restore-a-requested-former-name-unless-it-states-a-reason-and-cannot-deny-just-to-match-childrens-surname`). RCW 26.09.150(3) contains neither: no textual requirement that a Washington court state a reason for denying the request, and no textual bar on any particular reason for denial. Separately, the quoted trigger is narrower than it may look — it runs to a marriage or domestic partnership that is \"dissolved or declared invalid,\" and does not on its own words extend to a decree of LEGAL SEPARATION (contrast RCW 26.09.150(1)'s broader framing, \"dissolution of marriage or domestic partnership, legal separation, or declaration of invalidity,\" used elsewhere in the same section for finality and remarriage purposes). Whether a legally separated (not yet dissolved) spouse can get a name restored under this subsection is NOT ESTABLISHED by this rule's text.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.150",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.150",
+            "quote": "Upon request of a party whose marriage or domestic partnership is dissolved or declared invalid, the court shall order a former name restored or the court may, in its discretion, order a change to another name.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.150, row rcw-26.09.150, subsection (3) in full. HONEST NEGATIVE, RECORDED: whether Washington case law imposes a stated-reason-to-deny requirement or forecloses a family-surname reason (as Tex. Fam. Code § 6.706(a)-(b) does by statute) was not researched in this statute-only pass; not established either way by this row. PACK QUOTE SWEEP 2026-09-22: the trap quotes Tex. Fam. Code § 6.706(b) as a contrast; the Texas block is copied onto this row. PACK QUOTE SWEEP 2026-09-22: the trap quotes Tex. Fam. Code § 6.706(b) as a contrast; block stays on the Texas row, which the sentence now names."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "legal-separation-and-conversion",
+    "rule_id": "wa-legal-separation-converts-to-dissolution-on-motion-no-earlier-than-six-months-after-entry-a-decree-type-texas-has-no-counterpart-for",
+    "question": "Can a Washington legal separation be converted into a full dissolution, and when?",
+    "rule": "Yes, and it is mandatory once the timing floor is met: no earlier than six months after the legal-separation decree is entered, on either party's motion, the court must convert it to a dissolution. RCW 26.09.150(2)(a): \"No earlier than six months after entry of a decree of legal separation, on motion of either party, the court shall convert the decree of legal separation to a decree of dissolution of marriage or domestic partnership.\"",
+    "trap": "This entire topic has no Texas counterpart at all: Texas's dissolution scheme (the sections read for this plugin's Texas rows) does not provide for a legal-separation decree as such, so there is nothing in the Texas store to contrast this rule against beyond the fact that the decree type itself does not exist there — the distinctive finding here is the existence of the mechanism, not just its mechanics. On the mechanics: the verb is \"shall convert,\" and the trigger is stated as purely a timing floor plus a motion by \"either party\" — the quoted text does not condition conversion on the other party's consent or on any merits finding, unlike the § 26.09.030 contested-dissolution procedure (counseling referral, reconciliation prospects) covered in the grounds row above. NOT ESTABLISHED here: what procedural steps (notice, hearing) the bare word \"motion\" requires beyond the six-month floor; the text quoted does not spell that out, and this rule does not guess.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 26.09.150",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-26.09.150",
+            "quote": "No earlier than six months after entry of a decree of legal separation, on motion of either party, the court shall convert the decree of legal separation to a decree of dissolution of marriage or domestic partnership.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction wa), RCW 26.09.150, row rcw-26.09.150, subsection (2)(a) lead sentence. Same published row as the name-restoration row above (different subsection quoted, which is not a defect). Subsection (2)(a)'s remaining sentences (the clerk's certificate-of-dissolution reporting duty to the state registrar of vital statistics) and (2)(b) (the registrar's monthly list to the secretary of state) were read but not quoted, since they concern administrative recordkeeping, not the conversion right itself."
+  }
+]

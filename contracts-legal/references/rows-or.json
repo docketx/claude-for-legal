@@ -1,0 +1,1696 @@
+[
+  {
+    "jurisdiction": "or",
+    "clause": "anti-assignment",
+    "rule_id": "or-79a-4060-receivables-and-broad-transfer-clauses",
+    "question": "Will an Oregon court give effect to a clause that prohibits assignment or requires consent?",
+    "rule": "It depends on what is assigned. For accounts, chattel paper, payment intangibles and promissory notes, ORS 79A.4060(4) makes a term in the agreement between the account debtor and the assignor, or in a promissory note, ineffective to the extent it prohibits, restricts or requires the account debtor's consent to the assignment or transfer, or to a security interest, or provides that the assignment or transfer may give rise to a default, breach, termination or other remedy; subsection (4) is itself subject to (5), which excludes the sale of a payment intangible or promissory note (other than a disposition under ORS 79A.6100 or acceptance of collateral under ORS 79A.6200), and to ORS 72A.3030, 79A.4070 and subsection (8) (an individual account debtor who incurred the obligation primarily for personal, family or household purposes). Outside that statute, in Pacific First Bank the Oregon Supreme Court held that the tenant's merger into its wholly owned subsidiary effected a transfer of the lease “by operation of law,” requiring the landlord's consent, under a clause reaching a transfer “in any manner,” “whether voluntary or involuntary or by operation of law”: that clause was worded in a broad and all-encompassing manner and did not exclude mergers, and a downstream merger is one way in which the rights and obligations under a lease pass from one corporate entity to another.",
+    "trap": "A consent requirement in a contract that creates an account, chattel paper or a payment intangible does not stop the assignment or financing of that receivable, and the assignment cannot be made a default — except for a sale of a payment intangible or promissory note, which subsection (5) puts back outside the rule. In the other direction, a clause reaching transfers “in any manner … by operation of law” was held to cover a corporate merger even though it did not mention mergers (Pacific First Bank).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 79A.4060",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_79A_4060",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (a) Prohibits, restricts or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, the account, chattel paper, payment intangible or promissory note; or",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 79A.4060",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_79A_4060",
+            "quote": "Subsection (4) of this section does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under ORS 79A.6100 or an acceptance of collateral under ORS 79A.6200.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "319 Or 342",
+        "name": "Pacific First Bank v. New Morgan Park Corp.",
+        "court": "Or.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "fae37a2049c8e8cd",
+            "cl_opinion_id": "9587690",
+            "quote": "(1) The tenant’s merger into its wholly owned subsidiary effected a transfer of the lease “by operation of law,” requiring the landlord’s consent.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "319 Or 342",
+        "name": "Pacific First Bank v. New Morgan Park Corp.",
+        "court": "Or.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "fae37a2049c8e8cd",
+            "cl_opinion_id": "9587690",
+            "quote": "It does, however, expressly provide that a “transfer” of the lease “in any manner,” “whether voluntary or involuntary or by operation of law,” is an event requiring the consent of Landlord.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "319 Or 342",
+        "name": "Pacific First Bank v. New Morgan Park Corp.",
+        "court": "Or.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "fae37a2049c8e8cd",
+            "cl_opinion_id": "9587690",
+            "quote": "More pertinently, however, Section 18.2, which is worded in a broad and all-encompassing manner, does not exclude mergers. A downstream merger is one way in which the rights and obligations under a lease pass — that is, transfer — from one corporate entity to another.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 79A.4060 (UCC 9-406) including (6) (rules of law restricting assignment of accounts or chattel paper), (8) (subject to other law for an individual consumer account debtor), (9) (health-care-insurance receivables, injury-compensation, special-needs-trust and annuity carve-outs, and ORS 147.325, 461.250(8), 656.234), (10) (prevails over inconsistent statutes) and (11) (controllable accounts). ORS 72A.3030 and 79A.4070 were not read, so their exceptions are named, not described. The published section OR_79_0406 now reads only '79.0406 [... 2025 c.33 §77; renumbered 79A.4060 in 2025]', so the section is cited at its new number. Pacific First Bank v. New Morgan Park Corp., 319 Or 342 (1994) (Graber, J.): quotes are from the majority-only row fae37a2049c8e8cd; Fadeley, J., dissented, and Unis, J., joined by Fadeley, J., dissented (row b4912fa7fc90e37e). The majority also held that the landlord's refusal to consent did not breach the duty of good faith on that lease's terms; that is not stated as a general rule here. NOT established: whether a transfer made in breach of a general no-assignment clause is void or only a breach. Later-treatment scan: 42 later Oregon opinions mention 319 Or 342, none in a negative-word window. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "arbitration",
+    "rule_id": "or-36-620-valid-and-employee-notice",
+    "question": "Is a pre-dispute arbitration clause enforceable in Oregon, and what extra conditions apply to an employer's clause?",
+    "rule": "An agreement contained in a record to submit any existing or subsequent controversy to arbitration is valid, enforceable and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract (ORS 36.620(1)). A written arbitration agreement between an employer and employee, otherwise valid under subsection (1), is voidable and may not be enforced by a court unless (a) at least 72 hours before the first day of employment the employee received notice in a written employment offer that an arbitration agreement is required as a condition of employment and was provided the agreement meeting subsection (6), including its acknowledgment, or (b) the agreement is entered into upon a subsequent bona fide advancement of the employee (36.620(5)). The acknowledgment must be signed by the employee and include the statutory language in boldfaced type (36.620(6)). Most of the Oregon Uniform Arbitration Act can be varied by agreement, but before a controversy arises the parties may not waive or vary ORS 36.620(1), and the same restriction protects ORS 36.615, 36.630, 36.675(1) and (2), 36.720 and 36.730 (ORS 36.610(1)-(2)).",
+    "trap": "An employer's arbitration agreement presented without the 72-hour written-offer notice, and not tied to a bona fide advancement, is voidable under 36.620(5) even though it is otherwise valid. A pre-dispute clause that purports to contract out of 36.620(1) is outside what ORS 36.610 permits the parties to vary. Whether the Federal Arbitration Act displaces the 36.620(5) conditions is not answered by the sections quoted in this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 36.620",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_36_620",
+            "quote": "An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 36.620",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_36_620",
+            "quote": "A written arbitration agreement entered into between an employer and employee and otherwise valid under subsection (1) of this section is voidable and may not be enforced by a court unless: (a) At least 72 hours before the first day of the employee’s employment, the employee has received notice in a written employment offer from the employer that an arbitration agreement is required as a condition of employment, and the employee has been provided with the required arbitration agreement that meets the requirements of, and includes the acknowledgment set forth in, subsection (6) of this section; or (b) The arbitration agreement is entered into upon a subsequent bona fide advancement of the employee by the employer.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 36.620",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_36_620",
+            "quote": "The acknowledgment required by subsection (5) of this section must be signed by the employee and must include the following language in boldfaced type:",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 36.610",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_36_610",
+            "quote": "Before a controversy arises that is subject to an agreement to arbitrate, a party to the agreement may not: (a) Waive or agree to vary the effect of the requirements of this section or ORS 36.615, 36.620 (1), 36.630, 36.675 (1) or (2), 36.720 or 36.730;",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 36.600 (definitions; the published note says 36.600 to 36.740 were not added to ch. 36 by the Legislative Assembly), 36.610 (including (1) general variation by agreement, (3) the post-dispute non-waivable list and (4) the insurer/self-insurer carve-out) and 36.620 including (2) (subject to ORS 36.625(8), the court decides whether an agreement to arbitrate exists), (3) (an arbitrator decides whether a condition precedent to arbitrability has been fulfilled) and (4). Scan of us-caselaw-or for arbitration near 'unconscionab': Gist v. ZoAn Management (Or 2022) addresses unconscionability of an arbitration agreement under the FAA, and Lumm v. CC Services (Or App 2018) records an argument that the FAA preempts 36.620(5); neither was read for a holding and neither is asserted. NOT established: FAA preemption of 36.620(5); Oregon's test for an unconscionable arbitration term. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "attorney-fees",
+    "rule_id": "or-20-096-reciprocal-and-non-waivable",
+    "question": "Is a one-way attorney-fee clause enforced as written in Oregon?",
+    "rule": "No. In an action or suit on a claim based on a contract that specifically provides that attorney fees and costs incurred to enforce its provisions shall be awarded to one of the parties, the party that prevails on the claim is entitled to reasonable attorney fees in addition to costs and disbursements, without regard to whether it is the party specified in the contract and without regard to whether it is a party to the contract (ORS 20.096(1)). Fees provided for in such a contract are not subject to waiver by the parties to a contract entered into after September 9, 1971, and a provision in such a contract providing for a waiver of attorney fees is void (20.096(2)). 'Contract' includes any instrument or document evidencing a debt (20.096(3)).",
+    "trap": "A clause awarding enforcement fees only to the lender or landlord works for the borrower or tenant who prevails on the contract claim, and a provision in such a contract waiving attorney fees is void (20.096(1)-(2)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 20.096",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_20_096",
+            "quote": "In any action or suit in which a claim is made based on a contract that specifically provides that attorney fees and costs incurred to enforce the provisions of the contract shall be awarded to one of the parties, the party that prevails on the claim shall be entitled to reasonable attorney fees in addition to costs and disbursements, without regard to whether the prevailing party is the party specified in the contract and without regard to whether the prevailing party is a party to the contract. (2) Attorney fees provided for in a contract described in subsection (1) of this section shall not be subject to waiver by the parties to any such contract that is entered into after September 9, 1971. Any provision in such a contract that provides for a waiver of attorney fees is void.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 20.096, including (3) ('contract' includes any instrument or document evidencing a debt, as used in this section and ORS 20.097). Court of Appeals opinions in the scan (e.g. SNJ Online v. EYEC, 2021) say whether a contract 'specifically provides' for fees is a question of law, citing Eagle Industries v. Thompson, 321 Or 398 (1995); that case was not read and is not asserted. ORS 20.077, 20.083 and 20.097 were not read. NOT established: how 20.096 applies to a fee clause reaching claims other than enforcement of the contract. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "choice-of-law",
+    "rule_id": "or-15-350-party-choice-and-oregon-mandates",
+    "question": "Will Oregon apply the law the parties chose?",
+    "rule": "Generally yes. Except as ORS 15.320, 15.325, 15.330, 15.335 or 15.355 specifically provide, contractual rights and duties are governed by the law the parties have chosen; the choice must be express or clearly demonstrated from the terms, and in a standard-form contract drafted primarily by only one party it must be express and conspicuous (ORS 15.350(1)-(2)). The chosen law does not apply to the extent it would require an act prohibited, or prohibit an act required, by the law of the state where the act is to be performed, or contravene an established fundamental policy embodied in the law that would otherwise govern under 15.360; a policy is fundamental only if it reflects objectives or gives effect to essential public or societal institutions beyond the allocation of rights and obligations of the contracting parties (15.355). Notwithstanding the other provisions of 15.300 to 15.380, Oregon law applies to a contract for construction work to be performed primarily in Oregon, a contract of employment for services to be rendered primarily in Oregon by an Oregon resident, certain consumer contracts with Oregon residents, and certain contracts to which the State is a party (15.320); 15.320 does not apply to a contract in which one party is a financial institution, as defined by 15 U.S.C. 6827 as in effect on January 1, 2002, and 15.300 to 15.380 do not apply where another Oregon statute expressly designates the applicable law (15.305). Separately, a construction contract as defined in ORS 701.620 may not include a provision making it subject to the laws of another state, and such a provision is void and unenforceable (ORS 701.640).",
+    "trap": "For an Oregon construction job, an Oregon resident's employment primarily in Oregon, or a consumer contract meeting 15.320(4), Oregon law applies notwithstanding the clause (unless a party is a 15.305 financial institution). In a standard-form contract drafted primarily by one party, a choice that is not express and conspicuous does not meet 15.350(2).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 15.350",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_15_350",
+            "quote": "Except as specifically provided by ORS 15.320, 15.325, 15.330, 15.335 or 15.355, the contractual rights and duties of the parties are governed by the law or laws that the parties have chosen. The choice of law may extend to the entire contract or to part of a contract. (2) The choice of law must be express or clearly demonstrated from the terms of the contract. In a standard-form contract drafted primarily by only one of the parties, any choice of law must be express and conspicuous.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 15.355",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_15_355",
+            "quote": "The law chosen by the parties pursuant to ORS 15.350 does not apply to the extent that its application would: (a) Require a party to perform an act prohibited by the law of the state where the act is to be performed under the contract; (b) Prohibit a party from performing an act required by the law of the state where it is to be performed under the contract; or (c) Contravene an established fundamental policy embodied in the law that would otherwise govern the issue in dispute under ORS 15.360. (2) For purposes of subsection (1)(c) of this section, an established policy is fundamental only if the policy reflects objectives or gives effect to essential public or societal institutions beyond the allocation of rights and obligations of parties to a contract at issue.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 15.320",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_15_320",
+            "quote": "Notwithstanding any other provision of ORS 15.300 to 15.380, but subject to the limitations on applicability imposed by ORS 15.305, the law of Oregon applies to the following contracts: (1) A contract for services to be rendered in Oregon, or for goods to be delivered in Oregon, if Oregon or any of its agencies or subdivisions is a party to the contract. The application of Oregon’s law pursuant to this subsection may be waived by a person authorized by Oregon’s law to make the waiver. (2) A contract for construction work to be performed primarily in Oregon. (3) A contract of employment for services to be rendered primarily in Oregon by a resident of Oregon. (4)(a) A consumer contract, if: (A) The consumer is a resident of Oregon at the time of contracting; and (B) The consumer’s assent to the contract is obtained in Oregon, or the consumer is induced to enter into the contract in substantial measure by an invitation or advertisement in Oregon. (b) For the purposes of this subsection, a consumer contract is a contract for the supply of goods or services that are designed primarily for personal, familial or household use.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 15.305",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_15_305",
+            "quote": "ORS 15.300 to 15.380 govern the choice of law applicable to any contract, or part of a contract, when a choice between the laws of different states is at issue. ORS 15.300 to 15.380 do not apply if another Oregon statute expressly designates the law applicable to the contract or part of a contract. ORS 15.320 does not apply to any contract in which one of the parties is a financial institution, as defined by 15 U.S.C. 6827, as in effect on January 1, 2002.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.640",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_640",
+            "quote": "A construction contract may not include any provision, covenant or clause that: (a) Makes the construction contract subject to the laws of another state or that requires any litigation, arbitration or other dispute resolution proceeding arising from the construction contract to be conducted in another state; or (b) States that a party to the construction contract cannot suspend performance under the construction contract or terminate the construction contract if another party to the construction contract fails to make prompt payments under the construction contract pursuant to ORS 701.620 to 701.640. (2) Any provision, covenant or clause described in subsection (1) of this section is void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 15.300, 15.305, 15.320, 15.350, 15.355, 15.360 (most-appropriate-law default) and 15.380 (presumptive rules for real property, personal services, franchises, licensing and agency contracts); 701.620 (definition of construction contract), 701.640 and 701.645 (701.620 to 701.640 do not apply to Low-Rise Residential Dwelling Code buildings, public contracts, or certain affordable housing). ORS 15.325, 15.330 and 15.335 were not read. Portfolio Recovery Associates v. Sanders (Or 2020) was seen applying 15.360 where no choice was made; not read for a holding. NOT established: any Oregon Supreme Court decision applying the 15.355(2) fundamental-policy test. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "or-72-8180-consumer-warranty-waiver-void",
+    "question": "Can a consumer contract waive Oregon consumer-protection rights?",
+    "rule": "For Oregon's consumer warranty statutes, ORS 72.8010 to 72.8200, waiver of their provisions by a buyer of consumer goods is void except where those sections expressly allow the waiver (ORS 72.8180). 'Consumer good' there means a new consumer good as defined in ORS 79A.1020, including a new motor vehicle, manufactured dwelling, modular home, machine, appliance or like product used or bought for use primarily for personal, family or household purposes, but not a soft good or a consumable (ORS 72.8010(1)).",
+    "trap": "A general 'buyer waives all warranty rights' term does not waive the 72.8010 to 72.8200 protections for a new consumer good unless those sections expressly allow that waiver; ORS 72.8050 is one section that does, because 72.8050(3) makes a buyer who takes a consumer good 'as is' under an effective statutory disclaimer waive the implied warranty so disclaimed (see the warranty-disclaimer rule).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 72.8180",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_8180",
+            "quote": "Waiver of the provisions of ORS 72.8010 to 72.8200 by a buyer of consumer goods is void except where such a waiver is expressly allowed by ORS 72.8010 to 72.8200.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.8010",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_8010",
+            "quote": "“Consumer good” means a new consumer good as defined in ORS 79A.1020 and includes, but is not limited to, a new motor vehicle, new manufactured dwelling, new modular home, new machine, new appliance or new like product used or bought for use primarily for personal family or household purposes. However, “consumer good” does not include a soft good or a consumable.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 72.8010, 72.8020, 72.8030, 72.8040, 72.8050, 72.8060, 72.8070, 72.8180. ORS 72.8090 to 72.8170 and 72.8190 were not read, so other express allowances of waiver in the chapter are not ruled out. Scanned us-statutes/or chapter 646 and every Oregon section matching 'waive ... void' or 'void ... waive': no anti-waiver provision in the Unlawful Trade Practices Act (ORS 646.605 to 646.652) was found, and a scan of us-caselaw-or for UTPA near 'waiv' found only settlement and preservation uses. Other anti-waiver texts seen but not made rules: ORS 646A.097(8) (sales representative commissions), 646A.710(2) and 646A.735(2) (foreclosure-consulting and equity-conveyance contracts). NOT established: whether a waiver of rights under the UTPA (e.g. ORS 646.638) is enforceable. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day.",
+    "applies_to": [
+      "consumer"
+    ]
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "electronic-signature",
+    "rule_id": "or-ueta-84-019-electronic-record-satisfies-writing",
+    "question": "Is an e-signed contract enforceable in Oregon, and does it satisfy a writing requirement?",
+    "rule": "Yes, within Oregon's Uniform Electronic Transactions Act (ORS 84.001 to 84.061). A record or signature may not be denied legal effect or enforceability solely because it is in electronic form; a contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation; if a law requires a record to be in writing an electronic record satisfies it, and if a law requires a signature an electronic signature satisfies it (ORS 84.019). The Act applies only to transactions between parties each of which has agreed to conduct transactions by electronic means, determined from the context and surrounding circumstances including the parties' conduct (84.013(2)), and does not apply to a transaction to the extent it is governed by a law governing wills, codicils or testamentary trusts, or by the Uniform Commercial Code other than ORS chapters 72 and 72A (84.007(2)).",
+    "trap": "The Act applies only between parties who agreed to transact electronically, and that agreement is determined from the context and surrounding circumstances including the parties' conduct (84.013(2)). It does not apply to a transaction to the extent a law governing wills, codicils or testamentary trusts, or the Uniform Commercial Code outside ORS chapters 72 and 72A, governs it (84.007(2)) — but the exclusion is only pro tanto: 84.007(3) applies the Act to an otherwise-excluded electronic record to the extent it is governed by a law other than those specified in (2).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 84.019",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_84_019",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. (2) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. (3) If a law requires a record to be in writing, an electronic record satisfies the law. (4) If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 84.013",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_84_013",
+            "quote": "ORS 84.001 to 84.061 apply only to transactions between parties, each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 84.007",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_84_007",
+            "quote": "ORS 84.001 to 84.061 do not apply to a transaction to the extent it is governed by: (a) A law governing the creation and execution of wills, codicils or testamentary trusts; or (b) The Uniform Commercial Code other than ORS chapters 72 and 72A.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 84.007",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_84_007",
+            "quote": "ORS 84.001 to 84.061 apply to an electronic record or electronic signature otherwise excluded from the application of ORS 84.001 to 84.061 under subsection (2) of this section to the extent it is governed by a law other than those specified in subsection (2) of this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 84.004 (definitions, including 'electronic signature' and 'transaction'), 84.007 (all four subsections, including (4): a transaction subject to the Act is also subject to other applicable substantive law), 84.013 (including (3), the non-waivable right to refuse other electronic transactions, and (4), variation by agreement) and 84.019. Sections 84.022 onward were not read. No Oregon opinion construing 84.019 was searched for. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "entire-agreement",
+    "rule_id": "or-41-740-integration-and-parol-evidence",
+    "question": "Does an Oregon court exclude prior agreements when the written contract is integrated?",
+    "rule": "Yes, to the extent of the integration. Under ORS 41.740, when the terms of an agreement have been reduced to writing by the parties it is considered as containing all those terms, and there can be between the parties no evidence of its terms other than the writing, except where a mistake or imperfection of the writing is put in issue by the pleadings or the validity of the agreement is the fact in dispute; the section does not exclude evidence of the circumstances under which the agreement was made or to which it relates, or evidence to explain an ambiguity or to establish illegality or fraud. The Oregon Supreme Court describes the rule as providing that a binding, completely integrated written agreement supersedes or discharges prior agreements within its scope; the rule does not prohibit extrinsic evidence when the writing is not an integrated agreement; and whether the parties intended a writing to be integrated is a question of fact for the court, which may consider all relevant evidence, including parol evidence (Abercrombie v. Hayden Corp.).",
+    "trap": "Whether the writing is integrated is a question of fact for the court, and whether an integrated writing is complete or partial may be decided on all relevant evidence, including evidence extrinsic to the writing (Abercrombie), and 41.740 itself keeps evidence of mistake, invalidity, circumstances, ambiguity, illegality and fraud available.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 41.740",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_41_740",
+            "quote": "When the terms of an agreement have been reduced to writing by the parties, it is to be considered as containing all those terms, and therefore there can be, between the parties and their representatives or successors in interest, no evidence of the terms of the agreement, other than the contents of the writing, except where a mistake or imperfection of the writing is put in issue by the pleadings or where the validity of the agreement is the fact in dispute. However this section does not exclude other evidence of the circumstances under which the agreement was made, or to which it relates, as defined in ORS 42.220, or to explain an ambiguity, intrinsic or extrinsic, or to establish illegality or fraud.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "320 Or 279",
+        "name": "Abercrombie v. Hayden Corp.",
+        "court": "Or.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "96a758a4517304fa",
+            "cl_opinion_id": "1388830",
+            "quote": "The parol evidence rule, in brief, provides that a binding, completely integrated, written agreement supersedes or discharges all agreements, written or oral, that were made before the completely integrated agreement, to the extent that the prior agreements are within the scope of the completely integrated agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "320 Or 279",
+        "name": "Abercrombie v. Hayden Corp.",
+        "court": "Or.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "96a758a4517304fa",
+            "cl_opinion_id": "1388830",
+            "quote": "The parol evidence rule does not prohibit the introduction of evidence extrinsic to a writing when the writing is not an integrated agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "320 Or 279",
+        "name": "Abercrombie v. Hayden Corp.",
+        "court": "Or.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "96a758a4517304fa",
+            "cl_opinion_id": "1388830",
+            "quote": "Whether parties to a writing intended it to be an integrated agreement is a question of fact for the court. Land Reclamation v. Riverside Corp., supra, 261 Or at 183 (citing cases); accord Restatement (Second) of Contracts § 209, comment c (1979) (stating proposition). In answering that question, the court may consider all relevant evidence, including parol evidence.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "320 Or 279",
+        "name": "Abercrombie v. Hayden Corp.",
+        "court": "Or.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "96a758a4517304fa",
+            "cl_opinion_id": "1388830",
+            "quote": "The trial court may consider all relevant evidence, including evidence extrinsic to the writing in question, to determine whether the parties intended the integrated writing to be a complete or partial integration.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read: ORS 41.740 in full (including its closing sentence, 'The term “agreement” includes deeds and wills as well as contracts between parties'); Abercrombie v. Hayden Corp., 320 Or 279 (1994) (Unis, J., for the court; no separate opinion in the row), passages on the rule, integration and ambiguity. Abercrombie held quitclaim deeds were unambiguous integrated writings that could not be contradicted by evidence of an asserted prior oral extension; it did not reach merger by deed (not preserved) and involved no merger clause. Later-treatment scan: 40 later Oregon opinions mention 320 Or 279; the two negative-word windows (Warren v. Smart Choice Payments, 2020; Lyons v. Beeman, 2021) are the word 'supersedes' inside the quoted rule itself, not criticism. NOT established: the effect of a merger or non-reliance clause, including on a fraud claim; ORS 42.220 was seen only as quoted in Abercrombie. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day.\nHOLDING SWEEP 2026-09-22 (sixth band, overlap 0.35-0.40): OVERSTATED (L) fixed: the row ran two Abercrombie sentences together -- integration is a fact question for the court (Land Reclamation), and 'all relevant evidence, including evidence extrinsic to the writing' is what the court may consider to decide COMPLETE versus PARTIAL integration. Reworded; the sentence added.\nHOLDING SWEEP 2026-09-22 (sixth band, overlap 0.35-0.40): Abercrombie complete-versus-partial evidence sentence added."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "force-majeure",
+    "rule_id": "or-72-6150-impracticability-for-goods-and-supervening-impossibility",
+    "question": "Does Oregon excuse performance when the event the clause was meant to cover happens, or when the contract has no force majeure clause?",
+    "rule": "Oregon has no general force majeure statute; what it has is a default excuse rule for sales of goods and an older common-law doctrine. For goods, except so far as a seller has assumed a greater obligation and subject to ORS 72.6140 on substituted performance, delay in delivery or nondelivery in whole or in part by a seller who complies with ORS 72.6150(2) and (3) is not a breach if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made, or by good-faith compliance with an applicable foreign or domestic governmental regulation or order whether or not it later proves invalid; a seller so affected in part must allocate production and deliveries fairly and reasonably among customers, and must notify the buyer seasonably of the delay, nondelivery or quota (72.6150). Where the agreed berthing, loading or unloading facilities fail, the agreed carrier becomes unavailable, or the agreed manner of delivery otherwise becomes commercially impracticable, a commercially reasonable substitute must be tendered and accepted (72.6140(1)). On notice of a material or indefinite delay or an allocation, the buyer may terminate the unexecuted portion or take the available quota in substitution (72.6160(1)), and 72.6160's provisions may not be negated by agreement except so far as the seller has assumed a greater obligation under 72.6150. Outside the sale of goods, the Oregon Supreme Court has stated the doctrine of supervening impossibility of performance: where the parties contract on the assumption that some particular thing necessary to performance will continue to exist and be available, and neither agrees to be responsible for its continued existence and availability, the contract is subject to the implied condition that if that thing ceases to exist or be available before the time for performance, without the default of either party, the contract is dissolved and the parties excused (Eggen v. Wetterborg, 1951).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 72.6150",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_6150",
+            "quote": "Delay in delivery or nondelivery in whole or in part by a seller who complies with subsections (2) and (3) of this section is not a breach of duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.6150",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_6150",
+            "quote": "The seller must notify the buyer seasonably that there will be delay or nondelivery and, when allocation is required under subsection (2) of this section, of the estimated quota thus made available for the buyer.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.6140",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_6140",
+            "quote": "Where without fault of either party the agreed berthing, loading, or unloading facilities fail or an agreed type of carrier becomes unavailable or the agreed manner of delivery otherwise becomes commercially impracticable but a commercially reasonable substitute is available, such substitute performance must be tendered and accepted.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.6160",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_6160",
+            "quote": "The provisions of this section may not be negated by agreement except in so far as the seller has assumed a greater obligation under ORS 72.6150.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "193 Or 145",
+        "name": "Eggen v. Wetterborg",
+        "court": "Or.",
+        "decided": "1951",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "34ae339caa80eb70",
+            "cl_opinion_id": "1199374",
+            "quote": "When parties enter into a contract on the assumption that some particular thing necessary to its *153 performance will continue to exist and be available for the purpose, and neither party agrees to be responsible for its continued existence and availability, the contract must be regarded as subject to the implied condition that, if before the time for performance, and without the default of either party, the particular thing ceases to exist or be available for the purpose, the contract shall be dissolved and the parties excused from performing it. This doctrine is known in this country as “supervening impossibility of performance.”",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 72.6130 (casualty to identified goods), 72.6140, 72.6150 and 72.6160. No general force majeure or excused-performance provision of general contract application was found in the published Oregon statutes; a search for 'force majeure' across us-caselaw-or returned 6 opinions, only one of them from the Supreme Court (Sause Bros. Ocean Towing v. Gunderson, 1973), and it quotes a tariff's demurrage clause rather than stating a rule of construction. Eggen Et Ux. v. Wetterborg, 193 Or 145 (1951) (Tooze, J.; no separate opinion in the row, cl cluster 1199374, which the CourtListener citation map assigns 193 Or 145 and 237 P2d 970): the quoted passage is the court's statement of the doctrine, made while construing a lease destroyed by fire, and it rests on Dorsey v. Oregon Motor Stages, 183 Or 494, and Williston; the court went on to hold the parties' own lease terms governed, so the passage states the doctrine rather than deciding the case on it. NOT established: Oregon's modern formulation of commercial impracticability or frustration of purpose outside Article 2 (a Supreme Court search for 'frustration of purpose' returns only Smith Tug & Barge Co. v. Columbia-Pacific Towing Corp., 1968, which was not read for a holding); how an express force majeure clause is construed. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day.",
+    "trap": "In a sale of goods the seller's excuse is conditioned on performing 72.6150(2) and (3): a seller who does not allocate fairly among customers, or does not give the buyer seasonable notice of the delay, nondelivery or quota, is outside the section. The doctrine stated in Eggen turns on the parties not having allocated the risk — it applies only where neither party agreed to be responsible for the thing's continued existence and availability, so a clause that assigns that risk displaces it. Nothing quoted in this rule states how an express force majeure clause is construed in Oregon, or whether commercial impracticability excuses performance outside a sale of goods."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "indemnity",
+    "rule_id": "or-30-140-construction-anti-indemnity",
+    "question": "Can an Oregon construction agreement make one party indemnify another for the indemnitee's own negligence?",
+    "rule": "No. Except as subsections (3) and (4) provide, a provision in a construction agreement that requires a person or that person's surety or insurer to indemnify another against liability for damage arising out of death or bodily injury to persons or damage to property caused in whole or in part by the negligence of the indemnitee is void; the section does not affect a provision requiring indemnity to the extent the death, injury or damage arises out of the fault of the indemnitor or its agents, representatives or subcontractors (ORS 30.140(2)-(3)). 'Construction agreement' means any written agreement for the planning, design, construction, alteration, repair, improvement or maintenance of any building, highway, road excavation or other structure, project, development or improvement attached to real estate, including moving, demolition or tunneling in connection with it (30.140(1)(b)). A public body may not require, in a contract for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services or related services, a duty to defend it against a claim for professional negligence relating to those services, except to the extent the provider's liability or fault is determined by adjudication or alternative dispute resolution or resolved by settlement, and not beyond its proportionate fault; a contractual provision that violates that subsection is unenforceable (30.140(4)). The section does not apply to a real property lease or rental agreement whose predominant purpose is not construction-type work, a personal property lease or rental agreement, or a design-build contract (30.140(5)), or to a railroad as defined in ORS 824.200 (30.140(6)). The Oregon Supreme Court adopted the Court of Appeals' conclusion that the statute prohibits not only direct indemnity arrangements but also additional-insurance arrangements by which one party must procure insurance for losses arising in whole or in part from the other's fault (Walsh Construction Co. v. Mutual of Enumclaw). A provision in a construction agreement is also void to the extent it requires a party or its surety or insurer to waive a right of subrogation, indemnity or contribution for amounts paid because of death, bodily injury or property damage caused in whole or in part by another person's negligence, subject to that section's exceptions (ORS 30.145).",
+    "trap": "Requiring a subcontractor to name the contractor as an additional insured for the contractor's own negligence is within the prohibition (Walsh). ORS 30.140 also carries a second version, operative January 1, 2035 and applying to construction agreements and contracts entered into or renewed on or after that date, whose exclusions list no longer includes design-build contracts.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 30.140",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_30_140",
+            "quote": "Except to the extent provided under subsections (3) and (4) of this section, any provision in a construction agreement that requires a person or that person’s surety or insurer to indemnify another against liability for damage arising out of death or bodily injury to persons or damage to property caused in whole or in part by the negligence of the indemnitee is void. (3) This section does not affect any provision in a construction agreement that requires a person or that person’s surety or insurer to indemnify another against liability for damage arising out of death or bodily injury to persons or damage to property to the extent that the death or bodily injury to persons or damage to property arises out of the fault of the indemnitor, or the fault of the indemnitor’s agents, representatives or subcontractors.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 30.140",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_30_140",
+            "quote": "“Construction agreement” means any written agreement for the planning, design, construction, alteration, repair, improvement or maintenance of any building, highway, road excavation or other structure, project, development or improvement attached to real estate including moving, demolition or tunneling in connection therewith.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 30.140",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_30_140",
+            "quote": "This section does not apply to: (a) Any real property lease or rental agreement between a landlord and tenant whether or not any provision of the lease or rental agreement relates to or involves planning, design, construction, alteration, repair, improvement or maintenance as long as the predominant purpose of the lease or rental agreement is not planning, design, construction, alteration, repair, improvement or maintenance of real property; (b) Any personal property lease or rental agreement; or (c) Any design-build contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 30.140",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_30_140",
+            "quote": "A public body as defined in ORS 174.109, including a public body acting as part of an intergovernmental entity formed with another state or with a political subdivision of another state, may not require in a contract with a person or entity providing architectural, engineering, photogrammetric mapping, transportation planning or land surveying services or related services a duty to defend the public body or intergovernmental entity against a claim for professional negligence and relating to the professional services provided by the person or entity providing architectural, engineering, photogrammetric mapping, transportation planning or land surveying services or related services, except to the extent that the person’s or entity’s liability or fault is determined by adjudication or alternative dispute resolution or otherwise resolved by settlement agreement, and not to exceed the proportionate fault of the person or entity. A contractual provision that violates this subsection is unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 30.140",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_30_140",
+            "quote": "The amendments to 30.140 by section 2, chapter 112, Oregon Laws 2024, become operative January 1, 2035, and apply to construction agreements and contracts entered into or renewed on or after January 1, 2035.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "338 Or 1",
+        "name": "Walsh Construction Co. v. Mutual of Enumclaw",
+        "court": "Or.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "11c9fe7dfa914bcf",
+            "cl_opinion_id": "835795",
+            "quote": "In sum, the text of ORS 30.140, and its historic evolution, strongly suggests that the statute prohibits not only ‘direct’ indemnity arrangements between parties to construction agreements but also ‘additional insurance’ arrangements by which one party is obligated to procure insurance for losses arising in whole or in part from the other’s fault.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 30.145",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_30_145",
+            "quote": "a provision in a construction agreement is void to the extent that the provision requires a party or the party’s surety or insurer to waive a right of subrogation, indemnity or contribution for amounts paid by reason of death or bodily injury, or damage to property, caused in whole or in part by the negligence of another person.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 30.140 (current text, including (4) on a public body requiring a duty to defend from providers of architectural, engineering, photogrammetric mapping, transportation planning or land surveying services, and the version the row's note says becomes operative January 1, 2035 under 2024 c.112 §3, whose subsections are (1) definition, (2)-(3) as now, (4) leases, (5) railroads) and 30.145 (exceptions: insurance policies under ORS 737.602 and property insurance proceeds, leases whose predominant purpose is not construction, personal property leases, railroads). Walsh Construction Co. v. Mutual of Enumclaw, 338 Or 1 (2005) (Carson, C.J.): the quoted passage is the Court of Appeals' analysis (189 Or App at 405-08), which the Supreme Court expressly adopted ('we adopt the following excerpt'); it construed the statute as then numbered (the prohibition was subsection (1)), and the court addressed but did not need to resolve the amici's point that the provision is void only to the extent of the indemnitee's fault because Walsh did not contend its subcontractor was negligent. Montara Owners Assn. v. La Noue Development (Or 2015) construes 'to the extent' in 30.140 and was not read for a holding. Later-treatment scan re-run 2026-09-17: 7 later Oregon opinions mention 338 Or 1, none in a negative-word window. Indemnity outside construction agreements is not addressed here; the clear-and-unequivocal rule for contractual immunity from one's own negligence is in the limitation-of-liability row. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "lien-waiver",
+    "rule_id": "or-701-630-lien-waiver-per-subcontract-terms",
+    "question": "What does Oregon's construction prompt-payment statute say about lien waivers from subcontractors and suppliers?",
+    "rule": "ORS 701.630(2)(b) provides that payment under subsection (2) is not required unless a subcontractor or material supplier provides a billing or invoice for the work performed or materials or products supplied in compliance with the terms of its contract, that each subcontractor or material supplier must provide an appropriate waiver of any lien for labor, equipment, services, materials or products in accordance with subcontract or purchase order terms and conditions, and that the original contractor or subcontractor may require that such lien waivers be notarized. ORS 701.620 to 701.640 do not apply to buildings subject to the Low-Rise Residential Dwelling Code, public contracts, or housing in which all or part of the dwelling units are reserved for rental to persons with income at or below 80 percent of area median household income (701.645).",
+    "trap": "What the lien waiver must cover is set by the subcontract or purchase order terms, not by a statutory form: Oregon's private prompt-payment sections prescribe no form of construction lien waiver, and nothing in them says whether a waiver given for a progress payment releases amounts not yet paid. The waiver obligation is also a condition on the seven-day payment duty, not a free-standing one: 701.630(2)(b) makes payment 'not required under this subsection' unless the billing complies with the contract and the appropriate waiver is provided.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 701.630",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_630",
+            "quote": "Payment is not required under this subsection unless a subcontractor or material supplier provides to the original contractor or subcontractor a billing or invoice for the work performed or materials or products supplied in compliance with the terms of the contract between the parties. Each subcontractor or material supplier must provide an appropriate waiver of any lien for labor, equipment, services, materials or products in accordance with subcontract or purchase order terms and conditions. The original contractor or subcontractor may require that such waivers of lien be notarized.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.645",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_645",
+            "quote": "ORS 701.620 to 701.640 do not apply to: (1) A contract for the construction, alteration, repair, maintenance, moving or demolition of a building that is subject to the Low-Rise Residential Dwelling Code; (2) A public contract under ORS 279.835 to 279.855 or ORS chapter 279A, 279B or 279C; or (3) Housing in which all or part of the dwelling units are reserved for rental to persons having an income equal to or less than 80 percent of the median household income for the area as determined by the Housing and Community Services Department.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 701.620, 701.625, 701.630, 701.640, 701.645. Scanned us-statutes/or chapter 87 (liens) for 'waiv': hits are 87.007 (released or waived claims on sale of residential property), 87.023 (owner information notice advising evidence of payment or waiver), 87.025 (supplier's waiver of preference), 87.242, 87.366 (failure to file waives the lien), and agricultural-producer liens 87.705(4) and 87.755(7) (an agreement purporting to waive the right to file notice is void as contrary to public policy, with an exception in 87.755(7) not read in full). No Oregon statute prescribing a construction lien waiver form was found. Court of Appeals opinions seen but not read for holdings: Knez Building Materials v. Bell-Air Estates (1996), Development Northwest v. Zhiryada (2023). NOT established: the effect in Oregon of a conditional or unconditional construction lien waiver. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "limitation-of-liability",
+    "rule_id": "or-own-negligence-clear-and-unequivocal-and-bagley",
+    "question": "Will an Oregon court enforce a clause limiting or excluding a party's liability for its own negligence?",
+    "rule": "Only if the contract clearly says so, and a release can still be unenforceable. A presumption is indulged against an intention to contract for immunity from the consequences of one's own negligence, and a contract will not be construed to provide that immunity unless the intention is clearly and unequivocally expressed; generic text purporting to waive all liability or any loss will typically be insufficiently specific, and to overcome the presumption the contract must make explicit that the liability being waived is outside liability arising under contract, though no magic words are per se required (Certain Underwriters v. TNA NA Manufacturing, 2024). A clause limiting an engineering firm's liability for a house inspection report to the contract sum did not limit liability for negligence where the contract damages were nominal compared with the damages that might foreseeably result from negligence; the court declined to require the word 'negligence' but found the clause did not clearly and unequivocally express that intent (Estey v. MacKenzie Engineering). In Bagley v. Mt. Bachelor the court concluded that enforcement of a ski area's anticipatory release at issue would be unconscionable because the factors favoring enforcement were outweighed.",
+    "trap": "'Any liability' or 'any loss' language will typically not reach a negligence claim (TNA). A limitation to the contract price can be treated like an exculpatory clause when that price is nominal compared with foreseeable negligence damages (Estey).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "372 Or 64",
+        "name": "Certain Underwriters v. TNA NA Manufacturing",
+        "court": "Or.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "d223b481b0f730bd",
+            "cl_opinion_id": "9948650",
+            "quote": "Oregon law establishes that “a presump- tion will be indulged against an intention to contract for immunity from the consequence of one’s own negligence.” Waterway Terminals v. P.S. Lord, 242 Or 1, 19, 406 P2d 556 (1965). In considering whether that presumption has been overcome, “a contract will not be construed to provide immu- nity from the consequences of a party’s own negligence unless that intention is clearly and unequivocally expressed.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "372 Or 64",
+        "name": "Certain Underwriters v. TNA NA Manufacturing",
+        "court": "Or.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "d223b481b0f730bd",
+            "cl_opinion_id": "9948650",
+            "quote": "Generic text that purports to waive all liability, or any loss, will typically be insufficiently specific to overcome the presumption against the waiver of tort liability.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "372 Or 64",
+        "name": "Certain Underwriters v. TNA NA Manufacturing",
+        "court": "Or.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "d223b481b0f730bd",
+            "cl_opinion_id": "9948650",
+            "quote": "We adhere to our statement in Estey that no magic words are, per se, required. However, to overcome the strong presumption against waiver of tort liability, the contract must make explicit that the liability being waived is out- side of liability arising under contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "324 Or 372",
+        "name": "Estey v. MacKenzie Engineering Inc.",
+        "court": "Or.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "b9cba1062578974e",
+            "cl_opinion_id": "1122995",
+            "quote": "The dis-positive issue is whether a clause in the parties’ contract limiting defendants’ liability “to the Contract Sum” applies to plaintiffs negligence claim. We hold that the clause does not limit defendants’ liability for negligence.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "324 Or 372",
+        "name": "Estey v. MacKenzie Engineering Inc.",
+        "court": "Or.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "b9cba1062578974e",
+            "cl_opinion_id": "1122995",
+            "quote": "because the specified contract damages at issue here are nominal in comparison with the damages that might foreseeably result from defendants’ negligence, such a distinction would be illusory.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "324 Or 372",
+        "name": "Estey v. MacKenzie Engineering Inc.",
+        "court": "Or.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "b9cba1062578974e",
+            "cl_opinion_id": "1122995",
+            "quote": "We decline to hold that the word “negligence” must expressly appear in order for an exculpatory or limitation of liability clause to be effective against a negligence claim.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "356 Or 543",
+        "name": "Bagley v. Mt. Bachelor, Inc.",
+        "court": "Or.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "3f4eee159ca8961d",
+            "cl_opinion_id": "2764897",
+            "quote": "Because the factors favoring enforcement of the release are outweighed by the countervailing considerations that we have identified, we conclude that enforcement of the release at issue in this case would be unconscionable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "324 Or 372",
+        "name": "Estey v. MacKenzie Engineering Inc.",
+        "court": "Or.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "b9cba1062578974e",
+            "cl_opinion_id": "1122995",
+            "quote": "However, because the specified contract damages at issue here are nominal in comparison with the damages that might foreseeably result from defendants’ negligence, such a distinction would be illusory.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read: Certain Underwriters v. TNA NA Manufacturing, 372 Or 64 (2024) (holding, standard and conclusion passages; no separate opinion in the row); the citation map we hold has no entry for 372 Or 64, so identity rests on name and year (row d223b481b0f730bd; row 0c458c9e3cad8646 carries the same text under another cluster). Estey v. MacKenzie Engineering Inc., 324 Or 372 (Van Hoomissen, J.): later opinions cite it as 1996; the corpus row is dated 1997-02-04; the court relied on the plaintiff being a lay consumer relying on a licensed professional's report, and the contract sum was estimated at $200. Bagley v. Mt. Bachelor, Inc., 356 Or 543 (2014): the court weighed a harsh and inequitable result, the operator's control of the risks on its premises, whether the business serves an important public interest, and procedural factors; only the conclusion is quoted, and the release's text (described in the unofficial synopsis as covering injuries caused by the defendant's negligence) is not quoted. Later-treatment scan re-run 2026-09-17: 28 later Oregon opinions mention 356 Or 543 and 15 mention 324 Or 372, none in a negative-word window; the only later opinion mentioning 372 Or 64 is TNA itself. NOT established: limits for gross negligence or intentional conduct; whether any statute modifies Bagley. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day. HOLDING SWEEP 2026-09-22 (fourth band, overlap 0.25-0.30): the holding the row paraphrases from Estey v. MacKenzie Engineering Inc. is now blocked in the court's words."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "limitation-of-remedy",
+    "rule_id": "or-72-7190-exclusive-remedy-and-consequentials",
+    "question": "Will Oregon enforce an exclusive repair-or-replace remedy and a consequential-damages exclusion in a sale of goods?",
+    "rule": "Subject to its subsections (2) and (3) and ORS 72.7180, ORS 72.7190 allows the agreement to provide remedies in addition to or in substitution for those in chapter 72 and to limit or alter the measure of damages, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement; resort to a remedy is optional unless it is expressly agreed to be exclusive. Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the Uniform Commercial Code. Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable; limiting consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable, but limiting damages where the loss is commercial is not.",
+    "trap": "A remedy is optional, not exclusive, unless expressly agreed to be exclusive (72.7190(1)(b)). A limitation of consequential damages for personal injury in the case of consumer goods is prima facie unconscionable (72.7190(3)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 72.7190",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_7190",
+            "quote": "The agreement may provide for remedies in addition to or in substitution for those provided in this chapter and may limit or alter the measure of damages recoverable under this chapter, as by limiting the buyer’s remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and (b) Resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy. (2) Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the Uniform Commercial Code. (3) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 72.7190 and 72.7180. Whether a failed exclusive remedy also invalidates a separate consequential-damages exclusion was not researched in Oregon case law and is not asserted. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "limitations-period",
+    "rule_id": "or-12-080-six-years-and-72-7250-goods",
+    "question": "How long is the limitations period for breach of contract in Oregon, and can a contract change it?",
+    "rule": "An action upon a contract or liability, express or implied, excepting those mentioned in ORS 12.070, 12.110 and 12.135 and except as otherwise provided in ORS 72.7250, must be commenced within six years (ORS 12.080(1)). An action for breach of any contract for sale must be commenced within four years after the cause of action accrues; by the original agreement the parties may reduce the period to not less than one year but may not extend it; the cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge, and a breach of warranty occurs when tender of delivery is made except where a warranty explicitly extends to future performance and discovery must await that performance (ORS 72.7250(1)-(2)).",
+    "trap": "In a contract for sale of goods, an agreed period shorter than one year, or any extension of the four years, is not permitted by 72.7250(1). What was read does not establish whether or how far a contract outside the sale of goods may shorten the six-year period.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 12.080",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_12_080",
+            "quote": "An action upon a contract or liability, express or implied, excepting those mentioned in ORS 12.070, 12.110 and 12.135 and except as otherwise provided in ORS 72.7250; (2) An action upon a liability created by statute, other than a penalty or forfeiture, excepting those mentioned in ORS 12.110; (3) An action for waste or trespass upon or for interference with or injury to any interest of another in real property, excepting those mentioned in ORS 12.050, 12.060, 12.135, 12.137 and 273.241; or (4) An action for taking, detaining or injuring personal property, including an action for the specific recovery thereof, excepting an action mentioned in ORS 12.137; shall be commenced within six years.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.7250",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_7250",
+            "quote": "An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it. (2) A cause of action accrues when the breach occurs, regardless of the aggrieved party’s lack of knowledge of the breach.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 12.080, 72.7250 (including (3) six-month refiling and (4) tolling law unaffected). ORS 12.070, 12.110 and 12.135 were not read. Marshall v. PricewaterhouseCoopers (Or 2023) and Goodwin v. Kingsmen Plastering (Or 2016) were seen discussing ORS 12.135 and the six-year contract period for construction claims and were not read for holdings. A scan of the Oregon Supreme Court for contractual limitation periods found no rule on contractual shortening outside the UCC. NOT established: enforceability of a contractual limitations period in a non-goods contract. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "liquidated-damages",
+    "rule_id": "or-illingworth-72-7180-reasonableness",
+    "question": "When will Oregon enforce a liquidated damages clause?",
+    "rule": "For goods, damages for breach may be liquidated only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy; a term fixing unreasonably large liquidated damages is void as a penalty (ORS 72.7180(1)). In Illingworth v. Bushong the Oregon Supreme Court saw no good reason not to use that rule as the initial point of departure for analyzing liquidated damages provisions in contracts in general, and said that until reasons for variance surface the courts of the state shall follow that formulation. In DiTommaso Realty the court held that a clause giving a real estate broker 10 percent of the selling price no matter who sold the property was not a liquidated damages provision but an independent, valid contractual promise.",
+    "trap": "A payment promised on an event rather than as damages for a breach may be enforced as a contractual promise without the reasonableness test: DiTommaso so held for a broker's commission payable whoever sold the property, while a special concurrence of two justices would have treated it as a liquidated damages clause. A later opinion (Tupper v. Roan, 2010) tags Illingworth \"overruled on other grounds by DiTommaso\"; DiTommaso itself says only that the Illingworth analysis \"was unnecessary but did not lead to an erroneous conclusion\" and disapproves prior opinions \"to the extent\" inconsistent -- so Illingworth's reasonableness rule still governs a clause that IS written as liquidated damages, and DiTommaso governs whether it is one.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 72.7180",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_7180",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "297 Or 675",
+        "name": "Illingworth v. Bushong",
+        "court": "Or.",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "1013d50d2dc0cc73",
+            "cl_opinion_id": "1132377",
+            "quote": "It is true that the legislature’s choice, by its terms, applies only to contracts for the sale of goods, but we are unable to perceive any good reason for not using that same rule as the initial point of departure for analyzing the validity of provisions for liquidated damages in contracts in general. It *693 may be that reasons for variance will surface in the context of litigating the validity of such provisions, but until then the courts of this state shall follow that legislative formulation in cases of this kind.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "309 Or 190",
+        "name": "DiTommaso Realty, Inc. v. Moak Motorcycles, Inc.",
+        "court": "Or.",
+        "decided": "1990",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "fa21fb26fb4faac9",
+            "cl_opinion_id": "1138413",
+            "quote": "The issue in this case is whether a contractual clause, providing that a real estate broker shall receive 10 percent of the selling price no matter who actually sells the *344 property, was an unenforceable liquidated damages provision. We hold that the provision was not for liquidated damages but was an independent, valid contractual promise.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "309 Or 190",
+        "name": "DiTommaso Realty, Inc. v. Moak Motorcycles, Inc.",
+        "court": "Or.",
+        "decided": "1990",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "fa21fb26fb4faac9",
+            "cl_opinion_id": "1138413",
+            "quote": "Its analysis of cases such as Illingworth v. Bushong, supra , was unnecessary but did not lead to an erroneous conclusion. To the extent that prior opinions are inconsistent with this opinion, they are disapproved.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read: ORS 72.7180 in full; Illingworth v. Bushong, 297 Or 675 (1984) (Lent, J.; the review of earlier cases, the adopted rule, and its reference to Restatement (Second) of Contracts § 356(1) as interpretive guidance; Illingworth also directed that earlier citations stating conflicting rules be disregarded unless of assistance in interpreting 72.7180(1)); DiTommaso Realty, Inc. v. Moak Motorcycles, Inc., 309 Or 190 (1990) (Jones, J., for the court; Peterson, C.J., specially concurring, joined by Fadeley, J.), majority text from row fa21fb26fb4faac9. Later-treatment scan re-run 2026-09-17: 59 later Oregon opinions mention 297 Or 675 and 4 mention 309 Or 190; the only substantive negative-word window is Tupper v. Roan (Or 2010), which labels Illingworth 'overruled on other grounds by' DiTommaso (the other two windows use 'repudiate' and 'personal use' in unrelated passages); Martin Bros. Signs v. Vice (Or App 1993) cites Illingworth for a rule that the party avoiding the clause must plead and prove it is a penalty, which was not found in the Illingworth passages read and is not asserted. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day. LATER-TREATMENT SCAN 2026-09-22 (the DocketX contract-law audit of 2026-09-22): Tupper v. Roan labels Illingworth 'overruled on other grounds by DiTommaso'. DiTommaso (read in full at every Illingworth sentence, majority and dissent) contains no 'overrule'; it holds the 10% commission was not a liquidated-damages clause, calls the Illingworth analysis 'unnecessary but did not lead to an erroneous conclusion', and disapproves inconsistent prior opinions. Both cases are used here for exactly what each held. CORRECT; the disapproval sentence added verbatim."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "non-competition",
+    "rule_id": "or-653-295-employee-noncompete-conditions",
+    "question": "Is an employee non-compete enforceable in Oregon?",
+    "rule": "A noncompetition agreement between an employer and employee is void and unenforceable unless all of ORS 653.295(1) is met: (a) the employer informed the employee in a written employment offer received at least two weeks before the first day of employment that a noncompetition agreement is required as a condition of employment, or the agreement is entered into upon a subsequent bona fide advancement; (b) the employee is a person described in ORS 653.020(3), an individual engaged in administrative, executive or professional work who performs predominantly intellectual, managerial or creative tasks, exercises discretion and independent judgment, and earns a salary and is paid on a salary basis; (c) the employer has a protectable interest, which exists when the employee has access to trade secrets as defined in ORS 646.461 or to competitively sensitive confidential business or professional information that would not otherwise qualify as a trade secret, such as product development plans, product launch plans, marketing strategy or sales plans, or is on-air broadcasting talent meeting (2)(c); (d) within 30 days after termination the employer provides a signed, written copy of the terms; and (e) the employee's annual gross salary and commissions at the time of termination exceed $100,533, adjusted annually for inflation under the Consumer Price Index for All Urban Consumers, West Region, as (e) specifies (not applicable to (2)(c) employees). The term may not exceed 12 months from termination, and the remainder of a longer term is void and may not be enforced (653.295(3)). Notwithstanding (1)(b) and (e), an agreement is enforceable for its full term up to 12 months if the employer agrees in writing to pay the employee, for the time the employee is restricted, the greater of 50 percent of the employee's annual gross base salary and commissions at termination or 50 percent of the adjusted $100,533 (653.295(7)). Subsections (1) and (3) apply only to noncompetition agreements made in the context of an employment relationship or contract, and do not apply to bonus restriction agreements or to a covenant not to solicit employees of the employer or solicit or transact business with the employer's customers (653.295(4)-(5)).",
+    "trap": "Signing on the first day without the two-weeks-before written offer notice, and without a bona fide advancement, fails 653.295(1)(a). The salary figure is calculated at termination, not signing (1)(e). A term longer than 12 months is void beyond 12 months (3). The (7) payment alternative excuses only conditions (1)(b) and (1)(e), not (a), (c) or (d).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 653.295",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_653_295",
+            "quote": "A noncompetition agreement entered into between an employer and employee is void and unenforceable unless: (a)(A) The employer informs the employee in a written employment offer received by the employee at least two weeks before the first day of the employee’s employment that a noncompetition agreement is required as a condition of employment; or (B) The noncompetition agreement is entered into upon a subsequent bona fide advancement of the employee by the employer; (b) The employee is a person described in ORS 653.020 (3); (c) The employer has a protectable interest as described in subsection (2) of this section; (d) Within 30 days after the date of the termination of the employee’s employment, the employer provides a signed, written copy of the terms of the noncompetition agreement to the employee; and (e) The total amount of the employee’s annual gross salary and commissions, calculated on an annual basis, at the time of the employee’s termination exceeds $100,533, adjusted annually for inflation pursuant to the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor immediately preceding the calendar year of the employee’s termination. This paragraph does not apply to an employee described in subsection (2)(c) of this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 653.295",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_653_295",
+            "quote": "For purposes of subsection (1)(c) of this section, an employer has a protectable interest when the employee: (a) Has access to trade secrets, as defined in ORS 646.461; (b) Has access to competitively sensitive confidential business or professional information that otherwise would not qualify as a trade secret, including product development plans, product launch plans, marketing strategy or sales plans; or",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 653.295",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_653_295",
+            "quote": "The term of a noncompetition agreement may not exceed 12 months from the date of the employee’s termination. The remainder of a term of a noncompetition agreement in excess of 12 months is void and may not be enforced by a court of this state. (4) Subsections (1) and (3) of this section apply only to noncompetition agreements made in the context of an employment relationship or contract and not otherwise. (5) Subsections (1) and (3) of this section do not apply to: (a) Bonus restriction agreements, which are lawful agreements that may be enforced by the courts in this state; or (b) A covenant not to solicit employees of the employer or solicit or transact business with customers of the employer.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 653.295",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_653_295",
+            "quote": "Notwithstanding subsection (1)(b) and (e) of this section, a noncompetition agreement is enforceable for the full term of the agreement, for up to 12 months, if the employer agrees in writing to provide the employee, for the time the employee is restricted from working, the greater of: (a) Compensation equal to at least 50 percent of the employee’s annual gross base salary and commissions at the time of the employee’s termination; or",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 653.020",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_653_020",
+            "quote": "(3) An individual engaged in administrative, executive or professional work who: (a) Performs predominantly intellectual, managerial or creative tasks; (b) Exercises discretion and independent judgment; and (c) Earns a salary and is paid on a salary basis.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 653.295 as published (history through 2021 c.75 §1), including (6) (trade secrets may still be protected by injunction or other lawful means) and (8) definitions ('noncompetition agreement' is a written agreement under which the employee agrees not to compete for a period of time or within a specified geographic area after termination; 'employee' and 'employer' as in ORS 652.310, which was not read); ORS 653.020 (read for subsection (3)). Court of Appeals opinions seen but not read for holdings: Oregon Psychiatric Partners v. Henry (2018, 2022; customer non-solicitation), Bernard v. S.B., Inc. (2015; two-week notice), Ride PDX v. Tee & B (2022; describing a noncompliant agreement under an earlier version as possibly voidable). Earlier versions of 653.295 were not read; which version governs an agreement depends on its date, which this store cannot establish. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day.",
+    "applies_to": [
+      "employment"
+    ]
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "prompt-payment",
+    "rule_id": "or-701-625-630-private-construction-prompt-payment",
+    "question": "What payment deadlines does Oregon impose on private construction contracts, and can the contract change them?",
+    "rule": "Under ORS 701.620 to 701.640, except as 701.625(3) provides, an owner must make progress payments no later than 14 days after the date the billing is received and final payment of all remaining amounts no later than seven days after the date the owner approves the work (701.625(3)(a)); the owner may pay later only if the drawings and specifications expressly state in a clear and conspicuous manner that an extended payment period is allowed, identify it as a specific number of days, and carry on each page a statement substantially similar to the statutory Notice of Extended Payment Provision (701.625(3)(b)). An owner who does not pay timely owes the original contractor interest at one and one-half percent a month, or a higher agreed rate (701.625(11)). If a subcontractor or material supplier has performed and the original contractor receives payment from the owner for that work or those materials, the original contractor must pay within seven days after receiving the payment (701.630(2)(a)); a progress or final payment delayed more than seven days bears interest from the eighth day at one and one-half percent a month or a higher agreed rate, except during periods when payment is withheld under 701.630(4) or (5) (701.630(6)). In any action, claim or arbitration brought to collect interest under either section, the prevailing party is awarded costs and reasonable attorney fees (701.625(14), 701.630(7)). A construction contract may not include a provision stating that a party cannot suspend performance or terminate if another party fails to make prompt payments under 701.620 to 701.640, and such a provision is void and unenforceable (701.640).",
+    "trap": "An owner's longer payment term takes effect only with the clear and conspicuous statement and the per-page notice in the drawings and specifications (701.625(3)(b)). A clause barring suspension or termination for nonpayment under these sections is void (701.640). These sections do not apply to buildings subject to the Low-Rise Residential Dwelling Code, public contracts, or the affordable housing described in 701.645.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 701.625",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_625",
+            "quote": "Except as provided in this subsection, the owner shall: (A) Make progress payments no later than 14 days after the date the billing is received; and (B) Make final payment of all remaining amounts no later than seven days after the date that the owner approves the work.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.625",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_625",
+            "quote": "An owner may make progress payments or final payment later than the time allowed under paragraph (a) of this subsection if: (A) The owner provides drawings and specifications that expressly state in a clear and conspicuous manner that an extended payment period is allowed and identify the extended payment period as a specific number of days after the date that the billing or estimate is received or the date that the owner approves all work; and (B) The owner provides on each page of drawings and specifications a statement substantially similar to the following:",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.625",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_625",
+            "quote": "If an owner or a person designated by the owner as responsible for making progress payments on a construction contract does not make a timely payment under this section, the owner shall pay the original contractor interest on the unpaid balance at the rate of one and one-half percent a month or fraction of a month, or at a higher rate as the parties to the construction contract may agree.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.625",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_625",
+            "quote": "In any action, claim or arbitration brought to collect interest pursuant to this section, the prevailing party shall be awarded costs and reasonable attorney fees.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.630",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_630",
+            "quote": "If a subcontractor has performed in accordance with a construction contract, and the original contractor receives payment from the owner for work performed by the subcontractor, the original contractor shall pay the subcontractor for that work no later than seven days after the original contractor receives the payment.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.630",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_630",
+            "quote": "If a progress or final payment to a subcontractor or material supplier is delayed by more than seven days after receipt of a progress or final payment by an original contractor or subcontractor, the original contractor or subcontractor shall pay its subcontractor or material supplier interest beginning on the eighth day, except during periods of time during which payment is withheld pursuant to subsection (4) or (5) of this section, at the rate of one and one-half percent a month or a fraction of a month on the unpaid balance or at such higher rate as the parties agree.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.640",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_640",
+            "quote": "A construction contract may not include any provision, covenant or clause that: (a) Makes the construction contract subject to the laws of another state or that requires any litigation, arbitration or other dispute resolution proceeding arising from the construction contract to be conducted in another state; or (b) States that a party to the construction contract cannot suspend performance under the construction contract or terminate the construction contract if another party to the construction contract fails to make prompt payments under the construction contract pursuant to ORS 701.620 to 701.640. (2) Any provision, covenant or clause described in subsection (1) of this section is void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.630",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_630",
+            "quote": "In any action, claim or arbitration brought to collect interest under this section, the prevailing party shall be awarded costs and reasonable attorney fees.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.645",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_645",
+            "quote": "ORS 701.620 to 701.640 do not apply to: (1) A contract for the construction, alteration, repair, maintenance, moving or demolition of a building that is subject to the Low-Rise Residential Dwelling Code; (2) A public contract under ORS 279.835 to 279.855 or ORS chapter 279A, 279B or 279C; or (3) Housing in which all or part of the dwelling units are reserved for rental to persons having an income equal to or less than 80 percent of the median household income for the area as determined by the Housing and Community Services Department.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 701.620, 701.625 (including (1) progress payments required for work expected to take 60 or more days, (4)-(6) billing receipt, deemed certification after 10 days and grounds for declining approval, (8) no change altering subcontractors' prompt-payment rights, (9) withholding and retainage, (14) fees in actions to collect interest), 701.630 (including (4)-(5) permitted withholding and retainage, (7) fees), 701.640, 701.645. ORS 701.635 (suspension of performance) was not read. Public-contract prompt payment (ORS chapter 279C) was not researched. The published note says 701.620 to 701.645 were enacted but not added to ORS chapter 701 by legislative action. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "statute-of-frauds",
+    "rule_id": "or-41-580-and-72-2010-writing-requirements",
+    "question": "Which contracts must be in writing in Oregon?",
+    "rule": "Under ORS 41.580(1), in the listed cases the agreement is void unless it, or some note or memorandum of it expressing the consideration, is in writing and subscribed by the party to be charged or its lawfully authorized agent. The list includes an agreement that by its terms is not to be performed within a year from its making; an agreement to answer for the debt, default or miscarriage of another; an agreement upon consideration of marriage other than mutual promises to marry; an agreement for leasing for longer than one year or for the sale of real property or any interest in it; and an agreement, promise or commitment to lend money, extend credit, forbear on a debt, modify or amend credit terms, release a guarantor or cosigner, or make another financial accommodation on existing credit (41.580(1)(h)), which by its own terms does not apply if no party to the agreement is a financial institution as defined in ORS 706.008, a consumer finance company licensed under ORS chapter 725 or a mortgage banker as defined in ORS 86A.100, and does not apply to a loan or extension of credit to a natural person that is primarily for personal, family or household purposes and not for business or agricultural purposes, or that is secured solely by residential property of one to four dwelling units one of which is the debtor's primary residence. For (1)(h), defenses and exceptions created by statute or recognized by the courts do not apply except as 41.580(2) provides: an agreement is enforceable up to the dollar amount the party admits in court, and a party may still prove modification of the time of repayment (41.580(2)). For goods, except as 72.2010 otherwise provides, a contract for the sale of goods for $500 or more is not enforceable by way of action or defense unless there is a record sufficient to indicate a contract for sale, signed by the party against whom enforcement is sought or its authorized agent or broker, and it is not enforceable beyond the quantity of goods shown (ORS 72.2010(1)).",
+    "trap": "An oral promise by a bank, licensed consumer finance company or mortgage banker to extend, modify or forbear on a business loan falls within 41.580(1)(h), and 41.580(2)(a) excludes the usual statutory and judge-made exceptions for that category apart from the in-court admission and repayment-time rules in (2)(b)-(c).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 41.580",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_41_580",
+            "quote": "In the following cases the agreement is void unless it, or some note or memorandum thereof, expressing the consideration, is in writing and subscribed by the party to be charged, or by the lawfully authorized agent of the party; evidence, therefore, of the agreement shall not be received other than the writing, or secondary evidence of its contents in the cases prescribed by law: (a) An agreement that by its terms is not to be performed within a year from the making. (b) An agreement to answer for the debt, default or miscarriage of another. (c) An agreement by an executor or administrator to pay the debts of the testator or intestate out of the estate of the executor or administrator. (d) An agreement made upon consideration of marriage, other than a mutual promise to marry. (e) An agreement for the leasing for a longer period than one year, or for the sale of real property, or of any interest therein.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 41.580",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_41_580",
+            "quote": "An agreement, promise or commitment to lend money, to otherwise extend credit, to forbear with respect to the repayment of any debt payable in money, to modify or amend the terms under which the person has lent money or otherwise extended credit, to release any guarantor or cosigner or to make any other financial accommodation pertaining to an existing debt or other extension of credit.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 41.580",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_41_580",
+            "quote": "This paragraph does not apply: (A) If no party to the agreement, promise or commitment is a financial institution as defined in ORS 706.008, a consumer finance company licensed under ORS chapter 725 or a mortgage banker as defined in ORS 86A.100; or (B) To a loan of money or extension of credit to a natural person which is primarily for personal, family or household purposes and not for business or agricultural purposes or which is secured solely by residential property consisting of one to four dwelling units, one of which is the primary residence of the debtor.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 41.580",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_41_580",
+            "quote": "Except as provided in this subsection, defenses and exceptions created by provisions of the Oregon Revised Statutes or recognized by the courts of this state do not apply to subsection (1)(h) of this section. (b) An agreement, promise or commitment which does not satisfy the requirements of subsection (1)(h) of this section, but which is valid in other respects, is enforceable if the party against whom enforcement is sought admits in the party’s pleading, testimony or otherwise in court that the agreement, promise or commitment was made. The agreement is not enforceable under this paragraph beyond the dollar amount admitted.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.2010",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_2010",
+            "quote": "Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the authorized agent or broker of the party. A record is not insufficient because it omits or incorrectly states a term agreed upon but the contract is not enforceable under this subsection beyond the quantity of goods shown in the record.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 41.580 (including (1)(c),(f),(g) and the (3) disclosure the lender must give) and 72.2010 (including (2) confirmation between merchants and (3) specially manufactured goods, admission and payment/acceptance exceptions; history includes 2025 c.33 §9). ORS 706.008 was not read. Oregon case law on part performance or estoppel under 41.580(1)(a)-(g) was not researched and is not asserted. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "or-utsa-646-473-contract-remedies-preserved",
+    "question": "Does Oregon's trade secrets act displace a contractual confidentiality obligation?",
+    "rule": "The Act does not affect contractual remedies. Except as subsection (2) provides, ORS 646.461 to 646.475 supersede conflicting tort, restitution or other Oregon law providing civil remedies for misappropriation of a trade secret; they do not affect contractual remedies, whether or not based upon misappropriation of a trade secret, other civil remedies not based upon misappropriation of a trade secret, or criminal remedies (ORS 646.473(1)-(2)). A trade secret is information, including a drawing, cost data, customer list, formula, pattern, compilation, program, device, method, technique or process, that derives independent economic value, actual or potential, from not being generally known to the public or to other persons who can obtain economic value from its disclosure or use, and is the subject of efforts that are reasonable under the circumstances to maintain its secrecy (646.461(4)).",
+    "trap": "Information that is not the subject of efforts reasonable under the circumstances to maintain its secrecy is not a trade secret under 646.461(4), so an NDA covering it gets nothing from the Act. The Act leaves contractual remedies unaffected (646.473(2)(a)), but nothing quoted in this rule establishes whether a particular confidentiality agreement is enforceable, or for how long.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 646.473",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_646_473",
+            "quote": "ORS 646.461 to 646.475 supersede conflicting tort, restitution or other law of Oregon providing civil remedies for misappropriation of a trade secret. (2) ORS 646.461 to 646.475 shall not affect: (a) Contractual remedies, whether or not based upon misappropriation of a trade secret;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 646.461",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_646_461",
+            "quote": "“Trade secret” means information, including a drawing, cost data, customer list, formula, pattern, compilation, program, device, method, technique or process that: (a) Derives independent economic value, actual or potential, from not being generally known to the public or to other persons who can obtain economic value from its disclosure or use; and (b) Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 646.461, 646.473 (including (3) immunity of public bodies for good-faith public-records disclosures), and 653.295(6) (the non-compete statute does not restrict protecting trade secrets or other proprietary information by injunction or other lawful means). ORS 646.463 to 646.467 were not read. Peterson Machinery v. May (Or App 2021) was seen discussing trade secrets and non-solicitation; not read for a holding. NOT established: enforceability in Oregon of an NDA with no time limit or covering information that is not a trade secret. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "unconscionability",
+    "rule_id": "or-unconscionability-formation-procedural-substantive",
+    "question": "How does an Oregon court decide whether a contract or clause is unconscionable?",
+    "rule": "Unconscionability is a legal issue assessed as of the time of contract formation, so the doctrine applies to contract terms rather than to contract performance (Best v. U.S. National Bank; Bagley v. Mt. Bachelor). It may be procedural or substantive: procedural unconscionability refers to the conditions of contract formation and focuses on oppression and surprise, and both procedural and substantive deficiencies, frequently in combination, can preclude enforcement of a contract or term (Bagley). The Oregon Supreme Court has not decided whether both must be present; Bagley noted that some jurisdictions require both and expressly did not decide the issue. For sales of goods, if the court as a matter of law finds the contract or any clause unconscionable when made, it may refuse to enforce the contract, enforce the remainder without the clause, or limit the clause to avoid an unconscionable result (ORS 72.3020(1)), and the parties must be afforded a reasonable opportunity to present evidence of its commercial setting, purpose and effect (72.3020(2)).",
+    "trap": "The test looks at the terms when the contract was made, not at how a party later performs (Best). Whether one kind of unconscionability alone is enough is an open question in the Oregon Supreme Court (Bagley n 8).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "303 Or 557",
+        "name": "Best v. U.S. National Bank",
+        "court": "Or.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "c979240aec3aefc9",
+            "cl_opinion_id": "1304312",
+            "quote": "Unconscionability is a legal issue that must be assessed as of the time of contract formation. W.L. May Co. v. Philco-Ford Corp., 273 Or 701, 707 , 543 P2d 283 (1975). Thus, the doctrine applies to contract terms rather than to contract performance.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "356 Or 543",
+        "name": "Bagley v. Mt. Bachelor, Inc.",
+        "court": "Or.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "3f4eee159ca8961d",
+            "cl_opinion_id": "2764897",
+            "quote": "Unconscionability is “assessed as of the time of contract formation,” and the doctrine “applies to con- tract terms rather than to contract performance.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "356 Or 543",
+        "name": "Bagley v. Mt. Bachelor, Inc.",
+        "court": "Or.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "3f4eee159ca8961d",
+            "cl_opinion_id": "2764897",
+            "quote": "Unconscionability may be procedural or substan- tive. Procedural unconscionability refers to the conditions of contract formation and focuses on two factors: oppression and surprise.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "356 Or 543",
+        "name": "Bagley v. Mt. Bachelor, Inc.",
+        "court": "Or.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "3f4eee159ca8961d",
+            "cl_opinion_id": "2764897",
+            "quote": "Both procedural and substantive deficiencies—frequently in combination—can preclude enforce- ment of a contract or contract term on unconscionability grounds.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "356 Or 543",
+        "name": "Bagley v. Mt. Bachelor, Inc.",
+        "court": "Or.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "3f4eee159ca8961d",
+            "cl_opinion_id": "2764897",
+            "quote": "This court has not addressed that issue, and because, as explained below, we conclude that both procedural and substantive considerations support the conclusion that the release here is unconscionable, we do not decide that issue in this case.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.3020",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_3020",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result. (2) When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read: Best v. U.S. National Bank, 303 Or 557 (1987) (NSF-fee case; the court said unconscionability was largely inapplicable, found the fee not unconscionable, and footnote 3 left open whether unconscionability supports affirmative relief); Bagley v. Mt. Bachelor, Inc., 356 Or 543 (2014) passages on the doctrine, including footnote 7 (procedural factors can bear on public policy) and footnote 8 (quoted). ORS 72.3020 read in full; ORS 90.135 (residential landlord-tenant unconscionability) seen, not stated. Later-treatment scan re-run 2026-09-17: 52 later Oregon opinions mention 303 Or 557 and 28 mention 356 Or 543; the two negative-word windows for Best (Pacific First Bank, Or App 1993; Landye Bennett Blumstein, Or App 2015) concern the good-faith doctrine and an older case Best may have superseded, not unconscionability. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "usury",
+    "rule_id": "or-82-010-small-loan-usury-cap",
+    "question": "What interest can an Oregon lender charge, and what happens if the cap is exceeded?",
+    "rule": "Where the parties have not otherwise agreed to a rate, the rate of interest is nine percent per annum, payable on all moneys after they become due (with open accounts bearing interest from the date of the last item), on money received to the use of another and retained beyond a reasonable time, and on money due under a contract to pay interest at no specified rate (ORS 82.010(1)). Where the parties do agree a rate, the cap is narrow: except as ORS 82.025 provides, no person may make a business or agricultural loan of $50,000 or less, or any other loan of $50,000 or less, at an annual rate of interest exceeding the greater of 12 percent or five percent in excess of the discount rate (for business or agricultural loans, including any surcharge on the discount rate) on 90-day commercial paper in effect at the Federal Reserve Bank in the Federal Reserve district where the lender is located on the date the loan or initial advance is made (ORS 82.010(3)). A person who violates subsection (3) forfeits the right to collect or receive any interest on the loan, and the borrower is required to repay only the principal amount borrowed (82.010(4)). A commission, bonus, fee, premium, penalty or other charge paid by or at the expense of the borrower to the lender or its broker, officer, director or agent, with the lender's knowledge, as consideration for obtaining the loan or a renewal, extension or forbearance, is deemed part of the interest (82.020(1)), subject to the exclusions in 82.020(3). ORS 82.010(3)-(4) and 82.020 do not apply to financial institutions and trust companies as defined in ORS 706.008, consumer finance licensees, licensed pawnbrokers, HUD-approved lenders, loans secured by a first lien on real property or made to finance the acquisition of real property and secured by any lien on that property, and the other categories in 82.025.",
+    "trap": "The cap reaches only loans of $50,000 or less, and does not apply to the lenders and loans listed in 82.025, which include any financial institution or trust company, any consumer finance or pawnbroker licensee, and any loan secured by a first lien on real property. Where it does apply, the lender forfeits all interest, not just the excess (82.010(4)), and a fee or bonus paid for the loan counts toward the rate (82.020(1)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 82.010",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_82_010",
+            "quote": "The rate of interest for the following transactions, if the parties have not otherwise agreed to a rate of interest, is nine percent per annum and is payable on: (a) All moneys after they become due; but open accounts bear interest from the date of the last item thereof.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 82.010",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_82_010",
+            "quote": "Except as provided in ORS 82.025, no person shall: (a) Make a business or agricultural loan of $50,000 or less at an annual rate of interest exceeding the greater of 12 percent, or five percent in excess of the discount rate, including any surcharge on the discount rate, on 90-day commercial paper in effect at the Federal Reserve Bank in the Federal Reserve district where the person making the loan is located, on the date the loan or the initial advance of funds under the loan is made; or (b) Make a loan of $50,000 or less, except a loan made under paragraph (a) of this subsection, at an annual rate of interest exceeding the greater of 12 percent, or five percent in excess of the discount rate on 90-day commercial paper in effect at the Federal Reserve Bank in the Federal Reserve district where the person making the loan is located, on the date the loan or the initial advance of funds under the loan is made.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 82.010",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_82_010",
+            "quote": "Any person who violates subsection (3) of this section shall forfeit the right to collect or receive any interest upon any loan for which a greater rate of interest or consideration than is permitted by subsection (3) of this section has been charged, contracted for or received. The borrower upon such loan shall be required to repay only the principal amount borrowed.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 82.020",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_82_020",
+            "quote": "there is paid by or at the expense of the borrower to the lender, or the lender’s broker, officer, director or agent, with respect to or in connection with any loan to which ORS 82.010 applies, any commission, bonus, fee, premium, penalty or other charge, compensation or gratuity, whether in money, credit or other thing of value, as a consideration, compensation or inducement for obtaining any such loan, or any renewal, extension of forbearance thereof, the same shall be deemed a part of the interest charged on such loan.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 82.025",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_82_025",
+            "quote": "ORS 82.010 (3) and (4) and 82.020 do not apply to: (1) Any financial institution or trust company, as those terms are defined in ORS 706.008, any consumer finance licensee under ORS chapter 725 or any pawnbroker licensed under ORS chapter 726. (2) Any lender approved by the Secretary of Housing and Urban Development of the United States for participation in any mortgage insurance program under the National Housing Act (12 U.S.C. 1701 et seq.). (3) Any loan secured by a first lien on real property or made to finance the acquisition of real property and secured by any lien on that property.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 82.010 (including (1) nine percent where no rate is agreed and (2) judgment interest), 82.020 (including (2) commissions computed over the contract term and (3) excluded inspection, title and recording costs), 82.025. ORS 706.008 was not read. Court of Appeals opinions seen but not read for holdings: Htaike v. Sein (2015; 82.010(4) described as a defense), Magee v. Dyrdahl (1996; the $50,000 threshold), Bastasch v. Hansen (2010; an exemption question). NOT established: whether a borrower may sue affirmatively to recover interest paid; how the $50,000 threshold is measured for multiple loans. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "venue-selection",
+    "rule_id": "or-forum-clause-presumptively-valid",
+    "question": "Will an Oregon court enforce a forum-selection clause?",
+    "rule": "Presumptively yes. Forum-selection clauses are presumptively valid unless unfair or unreasonable, and a party filing an action outside the selected forum bears the burden of persuading the court not to enforce the clause (Trinity Bank v. Apex Directional Drilling, 2018, quoting Roberts v. TriQuint Semiconductor and Reeves v. Chem Industrial Co.). The court discussed three circumstances in which that standard may be met: the clause is in a contract of adhesion that was the product of unequal bargaining power; the contract is unconscionable or otherwise violates public policy; or enforcement would be so seriously inconvenient as to be unjust. The inquiry is not whether, on balance, another forum is more convenient or more reasonable than the agreed forum. In Trinity, where enforcement was not unfair or unreasonable, the trial court had no discretion to deny the motion to dismiss. Separately, a construction contract as defined in ORS 701.620 may not include a provision requiring any litigation, arbitration or other dispute resolution proceeding arising from it to be conducted in another state, and such a provision is void and unenforceable (ORS 701.640), subject to the 701.645 exclusions.",
+    "trap": "Trial-court findings that the witnesses, the collateral and a faster, cheaper trial all favoured Oregon did not justify keeping the case: the Supreme Court held those findings showed the wrong standard had been applied, because convenience is not weighed forum against forum (Trinity). In a construction contract within ORS 701.620 to 701.645, an out-of-state litigation, arbitration or other dispute-resolution requirement is void and unenforceable (701.640).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "363 Or 257",
+        "name": "Trinity Bank v. Apex Directional Drilling LLC",
+        "court": "Or.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "a470d6525e54fe41",
+            "cl_opinion_id": "6535494",
+            "quote": "As to enforceability, we have stated that \"forum-selection clauses are presumptively valid unless 'unfair or unreasonable.' \" Id. at 426-27 , 364 P.3d 328 (quoting Reeves v. Chem Industrial Co. , 262 Or. 95 , 100-01, 495 P.2d 729 (1972) ). A party filing an action outside the selected forum bears the burden of persuading the court not to enforce the clause.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "363 Or 257",
+        "name": "Trinity Bank v. Apex Directional Drilling LLC",
+        "court": "Or.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "a470d6525e54fe41",
+            "cl_opinion_id": "6535494",
+            "quote": "First, if the forum-selection clause is contained in a \" 'contract[ ] of adhesion' that [was] 'the product of unequal bargaining power between the parties,' \" the clause should be disregarded.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "363 Or 257",
+        "name": "Trinity Bank v. Apex Directional Drilling LLC",
+        "court": "Or.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "a470d6525e54fe41",
+            "cl_opinion_id": "6535494",
+            "quote": "In other words, the inquiry is not whether, on balance, another forum is more convenient or more reasonable than the agreed upon forum, but whether the latter forum is so \"seriously inconvenient\" that it would be \"unjust\" to enforce the forum-selection clause.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "363 Or 257",
+        "name": "Trinity Bank v. Apex Directional Drilling LLC",
+        "court": "Or.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "a470d6525e54fe41",
+            "cl_opinion_id": "6535494",
+            "quote": "Although the trial court did not fully explain its reasoning, those findings indicate that it applied the wrong standard.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "363 Or 257",
+        "name": "Trinity Bank v. Apex Directional Drilling LLC",
+        "court": "Or.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-or",
+            "row_id": "a470d6525e54fe41",
+            "cl_opinion_id": "6535494",
+            "quote": "For that reason, the trial court did not have discretion to deny Lachner's ORCP 21A (1) motion to dismiss based on the forum-selection clause: The law required the court to dismiss the action. It was legal error not to do so.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 701.640",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_701_640",
+            "quote": "A construction contract may not include any provision, covenant or clause that: (a) Makes the construction contract subject to the laws of another state or that requires any litigation, arbitration or other dispute resolution proceeding arising from the construction contract to be conducted in another state; or (b) States that a party to the construction contract cannot suspend performance under the construction contract or terminate the construction contract if another party to the construction contract fails to make prompt payments under the construction contract pursuant to ORS 701.620 to 701.640. (2) Any provision, covenant or clause described in subsection (1) of this section is void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read: Trinity Bank v. Apex Directional Drilling LLC, 363 Or 257 (2018) (Balmer, J.; mandamus; the full enforceability discussion), which states the standard by quoting Roberts v. TriQuint Semiconductor, 358 Or 413 (2015) and Reeves v. Chem Industrial Co., 262 Or 95 (1972); Roberts was read at its Reeves passages (it said the court has not adopted the Bremen criteria) but is not separately quoted. The case name follows the opinion's references to 'Trinity Bank'; the corpus title is 'Trinity v. Apex Directional Drilling LLC'. Later-treatment scan re-run 2026-09-17: 2 later Oregon opinions mention 363 Or 257, none in a negative-word window; Reeves's 'overrul' flags describe Reeves overruling State ex rel. Kahn v. Tazwell (1928) in part. ORS 701.620, 701.640 and 701.645 read in full. Also seen, not made rules: ORS 646A.710(2) and 646A.735(2) void out-of-state jurisdiction and choice-of-law provisions in foreclosure-consulting and equity-conveyance contracts. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  },
+  {
+    "jurisdiction": "or",
+    "clause": "warranty-disclaimer",
+    "rule_id": "or-72-3160-and-consumer-goods-as-is-disclosure",
+    "question": "How do you disclaim implied warranties in an Oregon sale of goods?",
+    "rule": "Under ORS 72.3160(2), subject to subsection (3), to exclude or modify the implied warranty of merchantability the language must mention merchantability and, in a writing, be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a conspicuous writing. Under 72.3160(3)(a), unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like 'as is' or 'with all faults' or other language that in common understanding calls the buyer's attention to the exclusion and makes plain there is no implied warranty. For consumer goods under ORS 72.8010 to 72.8200 (new goods for personal, family or household use, not soft goods or consumables), effective disclaimer of the implied warranty of merchantability or fitness on an as-is or with-all-faults sale requires a conspicuous writing attached to the good that clearly informs the buyer before sale, in simple and concise language, that the good is sold as is or with all faults, that the entire risk as to quality and performance is with the buyer, and that if the good proves defective the buyer and not the manufacturer, distributor or retailer assumes the entire cost of all necessary servicing or repair (ORS 72.8050(1)). A mail-order catalog sale is not exempt from that content: 72.8050(2) requires the catalog itself to contain, for each good offered, the same conspicuous writing and information.  a manufacturer, distributor or retailer that makes an express warranty on a consumer good must comply with 72.8050 to disclaim those implied warranties (ORS 72.8070(1)).",
+    "trap": "For a new consumer good, the as-is disclosure must be a conspicuous writing attached to the good and must state all three 72.8050(1) points; in a mail-order catalog sale the same writing and information must appear in the catalog for each good offered (72.8050(2)). A seller that gives an express warranty on a consumer good must also comply with 72.8050 to disclaim the implied warranties (72.8070(1)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "ORS 72.3160",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_3160",
+            "quote": "Subject to subsection (3) of this section, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that “There are no warranties which extend beyond the description on the face hereof.” (3) Notwithstanding subsection (2) of this section: (a) Unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like “as is,” “with all faults” or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty; and",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.8050",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_8050",
+            "quote": "Except with respect to sale of a consumer good by means of a mail-order catalog, on sale of a consumer good on an “as is” or “with all faults” basis effective disclaimer of the implied warranty of merchantability or the implied warranty of fitness requires that a conspicuous writing attached to the consumer good clearly informs the buyer before sale in simple and concise language that: (a) The good is being sold on an “as is” or “with all faults” basis; (b) The entire risk as to the quality and performance of the good is with the buyer; and (c) If the good proves defective after purchase, the buyer and not the manufacturer, distributor or retailer assumes the entire cost of all necessary servicing or repair.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.8050",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_8050",
+            "quote": "On sale of a consumer good by means of a mail-order catalog effective disclaimer of the implied warranty of merchantability or the implied warranty of fitness requires that the catalog offering the good contain, with respect to each item or good so offered, the conspicuous writing and information otherwise prescribed by subsection (1) of this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "ORS 72.8070",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "OR_72_8070",
+            "quote": "Nothing in ORS 72.8010 to 72.8200 affects the right of a manufacturer, distributor or retailer to make an express warranty with respect to a consumer good. Effective disclaimer of the implied warranty of merchantability or the implied warranty of fitness by a manufacturer, distributor or retailer making an express warranty with respect to a consumer good requires compliance with ORS 72.8050.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: ORS 72.3160 (including (1) construction of express warranties and disclaimers subject to 72.2020, (3)(b) examination, (3)(c) course of dealing, (3)(d) livestock between merchants, (4) remedies limited under 72.7180 and 72.7190), 72.8010 to 72.8070 and 72.8180. 72.8070(2)-(3) set how long implied warranties on consumer goods endure (one year, or for motor vehicles one year or 12,000 miles; with an express warranty of stated duration, not less than 60 days). How 72.3160 and 72.8050 interact for a consumer good was not researched in case law. No Oregon case construing conspicuousness was researched. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. Re-read in full and re-checked on 2026-09-17 against the published text, including the scope, definition and exclusion provisions each cited section is subject to; later-treatment scan of the Oregon corpus re-run the same day."
+  }
+]

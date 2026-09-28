@@ -1,0 +1,2362 @@
+[
+  {
+    "jurisdiction": "mn",
+    "clause": "anti-assignment",
+    "rule_id": "mn-anti-assignment-plain-meaning-no-magic-words",
+    "question": "Is the no-assignment clause in our contract effective to stop an assignment, or does it only give us a damages claim?",
+    "rule": "Contract rights are generally assignable except where the assignment is prohibited by statute, prohibited by contract, or where the contract involves a matter of personal trust or confidence (Travertine). Minnesota does not require magic words: the Supreme Court declined to impose formulaic restraints on the language parties may use and held that when a contract prohibits assignment in very specific and unmistakable terms, any purported assignment is void. A clause providing that 'the rights and obligations of [a party] shall not be assignable' satisfied that standard, and the purported assignment of the right to compensation was held void.",
+    "trap": "Minnesota is on the minority side of a real split, and drafting to the majority rule can mislead you in both directions. Travertine did not adopt Restatement (Second) of Contracts § 322's default rules -- it said it 'need not' because Minnesota's own precedent governs -- under which a no-assignment clause without 'void' or 'invalid' language would be read as a mere covenant not to assign that sounds in damages; Minnesota applies the plain meaning of the words the parties used instead. What the Court did NOT require is specific terms — it required 'something expressing their intent that the contract not be assignable' — so a clause that merely says the agreement binds successors and assigns, with no prohibition, is not enough. Travertine reserved Minn. Stat. § 181.05 (assignment of unearned wages) on the record before it; that section is not quoted here. Nothing in this rule establishes a Minnesota rule for accounts and other receivables under UCC Article 9 — Minn. Stat. ch. 336 is not in our published statute shard, so § 336.9-406's override of anti-assignment terms is not verified here and a receivables financing question is not answered by this rule.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "683 N.W.2d 267",
+        "name": "Travertine Corp. v. Lexington-Silverwood",
+        "court": "Minn.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbb07ef3de831df4",
+            "cl_opinion_id": "1231889",
+            "quote": "Contract rights are generally assignable, except where the assignment is (1) prohibited by statute; 2 (2) prohibited by contract; (3) or where the contract involves a matter of personal trust or confidence.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "683 N.W.2d 267",
+        "name": "Travertine Corp. v. Lexington-Silverwood",
+        "court": "Minn.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbb07ef3de831df4",
+            "cl_opinion_id": "1231889",
+            "quote": "The primary purpose of clauses prohibiting the assignment of contract rights is to protect the contracting party from dealing with parties he has not chosen to do business with.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "683 N.W.2d 267",
+        "name": "Travertine Corp. v. Lexington-Silverwood",
+        "court": "Minn.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbb07ef3de831df4",
+            "cl_opinion_id": "1231889",
+            "quote": "We did not require that the parties use specific terms to preclude assignment, but merely required the parties to include something expressing their intent that the contract not be assignable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "683 N.W.2d 267",
+        "name": "Travertine Corp. v. Lexington-Silverwood",
+        "court": "Minn.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbb07ef3de831df4",
+            "cl_opinion_id": "1231889",
+            "quote": "We will not impose formulaic restraints on the language that contracting parties may employ to craft an anti-assignment clause that limits the power to assign. We believe the best approach is to simply apply the plain meaning of the words employed by the parties. When a contract prohibits assignment in very specific and unmistakable terms, any purported assignment is void.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "683 N.W.2d 267",
+        "name": "Travertine Corp. v. Lexington-Silverwood",
+        "court": "Minn.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbb07ef3de831df4",
+            "cl_opinion_id": "1231889",
+            "quote": "In this case, we need not adopt the default interpretive rules provided by the Restatement (Second) of Contracts § 322 because our precedent that parties may agree that their contractual rights and obligations are not to be assigned is well-established.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Travertine: opinion by Russell A. Anderson, J.; the published row contains no separate opinion. Every quote is from the majority. Good-law scan of the Minnesota corpus for opinions after 2004-07-01 citing 683 N.W.2d 267: 43 later opinions, 2 with flag words in the window; both read (Schroeder Construction 2023 and Star Windshield 2008, Minn. App. 2008, which follows Travertine as 'the Minnesota Supreme Court's most recent decision as to contractual anti-assignment clauses'). No negative treatment. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect. HOLDING SWEEP 2026-09-22 (third band, overlap 0.20-0.25): OVERSTATED (L): 'expressly declined to adopt' -- the opinion says 'we need not adopt ... because our precedent ... is well-established'; reworded and blocked."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "arbitration",
+    "rule_id": "mn-arbitration-faa-framework-and-arising-under-scope",
+    "question": "Will a Minnesota court send this dispute to arbitration under our clause, and who decides challenges to the contract itself?",
+    "rule": "For an arbitration clause within the reach of the Federal Arbitration Act, the Minnesota Supreme Court analyses the clause under the FAA and the federal cases interpreting that Act, and it overruled its own prior decision in Atcas v. Credit Clearing Corp. to the extent Atcas conflicts with Allied-Bruce Terminix v. Dobson (Onvoy). Applying federal law, the Court concluded that the words 'arising under' in the clause before it were broad enough to encompass some issues regarding contract formation.",
+    "trap": "Onvoy limited itself on its face, and a drafter who reads it as a general 'arbitration clauses are broad' rule is reading past the opinion: 'In concluding that the arbitration clause in question is broad and prescribes arbitration of most claims, we do not mean to indicate that we will find all future arbitration clauses broad enough to encompass all claims.' The Court's own drafting instruction is the useful part — parties who want a court, not an arbitrator, to keep matters of contract formation or any other foreseeable issue must expressly say so in the clause. Two things this rule does NOT establish: Minnesota's arbitration statute (Minn. Stat. ch. 572B, the Revised Uniform Arbitration Act) is not in our published statute shard and no part of it is quoted here, so nothing about statutory notice, waiver or vacatur is verified; and whether the FAA reaches a particular contract is a federal question this rule does not answer.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "669 N.W.2d 344",
+        "name": "Onvoy, Inc. v. SHAL, LLC.",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "b030e402198cb8fa",
+            "cl_opinion_id": "1304086",
+            "quote": "We overrule Atcas to the extent it conflicts with the holding in Allied-Bruce Terminix v. Dobson, 513 U.S. 265 , 115 S.Ct. 834 , 130 L.Ed.2d 753 (1995). The instant case must be analyzed under the Federal Arbitration Act and the federal cases interpreting that act.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "669 N.W.2d 344",
+        "name": "Onvoy, Inc. v. SHAL, LLC.",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "b030e402198cb8fa",
+            "cl_opinion_id": "1304086",
+            "quote": "Applying the reasoning set forth in these cases, we conclude that the language \"arising under\" in the arbitration clause at issue appears broad enough to encompass some issues regarding contract formation.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "669 N.W.2d 344",
+        "name": "Onvoy, Inc. v. SHAL, LLC.",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "b030e402198cb8fa",
+            "cl_opinion_id": "1304086",
+            "quote": "In concluding that the arbitration clause in question is broad and prescribes arbitration of most claims, we do not mean to indicate that we will find all future arbitration clauses broad enough to encompass all claims.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "669 N.W.2d 344",
+        "name": "Onvoy, Inc. v. SHAL, LLC.",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "b030e402198cb8fa",
+            "cl_opinion_id": "1304086",
+            "quote": "Parties who want the courts to retain jurisdiction over matters of contract formation, or any other particular issues they foresee may arise in the business relationship, must expressly state such an intent when drafting the arbitration clause in the contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Onvoy: opinion by Page, J. (the published row 1304086 is the Court's opinion); quotes are majority text. Onvoy is the case doing the overruling (of Atcas, and of Thayer v. American Financial Advisers on other grounds). Good-law scan for opinions after 2003-09-25 citing 669 N.W.2d 344: 13 later opinions, 4 flag-word windows, all read; every one is a later case noting that Onvoy abrogated Thayer on other grounds. No negative treatment of Onvoy. Chapter 572 in our shard is the Minnesota Civil Mediation Act (§§ 572.31-572.41), not an arbitration act. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "attorney-fees",
+    "rule_id": "mn-american-rule-statute-or-contract-only",
+    "question": "Can we recover our attorney fees from the other side if we win?",
+    "rule": "Minnesota follows the American rule. The Supreme Court described it as 'a fundamental principle of law deeply ingrained in our common law jurisprudence' that each party bears his own attorney fees in the absence of a statutory or contractual exception (Ly v. Nystrom). Where a statute does create a fee remedy, Minnesota presumes statutes are consistent with the common law: Ly held that the private attorney general statute, Minn. Stat. § 8.31, subd. 3a — which lets any person injured by a violation of the laws the attorney general enforces recover damages together with costs and disbursements, including costs of investigation and reasonable attorney's fees — applies only to claimants who demonstrate that their cause of action benefits the public.",
+    "trap": "The trap is assuming a statutory fee-shifting hook survives contact with the public-benefit limit. In Ly the plaintiff proved consumer fraud in the purchase of a business and still lost his fee claim, because he 'was defrauded in a single one-on-one transaction' and enforcement had no public benefit. Note also what this rule does not cover: it states the default rule and one statutory exception, not the construction of any particular prevailing-party clause. One Minnesota statute in this store does award fees by its own words — Minn. Stat. § 181.988, subds. 2(d) and 3(c) say a court 'may award' an employee enforcing rights under that section reasonable attorney fees, which is permissive, not automatic.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "615 N.W.2d 302",
+        "name": "Hoang Minh Ly v. Nystrom",
+        "court": "Minn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "e7eace1bef49c9f0",
+            "cl_opinion_id": "1830236",
+            "quote": "a fundamental principle of law deeply ingrained in our common law jurisprudence-that each party bears his own attorney fees in the absence of a statutory or contractual exception.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "615 N.W.2d 302",
+        "name": "Hoang Minh Ly v. Nystrom",
+        "court": "Minn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "e7eace1bef49c9f0",
+            "cl_opinion_id": "1830236",
+            "quote": "we hold that the Private AG Statute applies only to those claimants who demonstrate that their cause of action benefits the public.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "615 N.W.2d 302",
+        "name": "Hoang Minh Ly v. Nystrom",
+        "court": "Minn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "e7eace1bef49c9f0",
+            "cl_opinion_id": "1830236",
+            "quote": "Appellant was defrauded in a single one-on-one transaction in which the fraudulent misrepresentation, while evincing reprehensible conduct, was made only to appellant. A successful prosecution of his fraud claim does not advance state interests and enforcement has no public benefit",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 8.31",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_8.31",
+            "quote": "In addition to the remedies otherwise provided by law, any person injured by a violation of any of the laws referred to in subdivision 1 may bring a civil action and recover damages, together with costs and disbursements, including costs of investigation and reasonable attorney's fees, and receive other equitable relief as determined by the court.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "In addition to injunctive relief and any other remedies available, a court may award an employee who is enforcing rights under this section reasonable attorney fees.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Ly v. Nystrom, 615 N.W.2d 302 (Minn. 2000): the published row e7eace1bef49c9f0 (cl_opinion_id 1830236) is the Court's opinion by Russell A. Anderson, J.; Gilbert, J., dissented (a separate row in the corpus, not quoted here). Every quote is from the majority. Good-law scan for opinions after 2000-08-03 citing 615 N.W.2d 302: 69 later opinions, 23 flag-word windows, all read; every one concerns Ly OVERRULING Church of the Nativity v. WatPro on other grounds (615 N.W.2d at 314 n.25) or follows Ly's statutes-consistent-with-the-common-law presumption. No negative treatment of Ly. The listed laws in § 8.31, subd. 1 include the Prevention of Consumer Fraud Act, §§ 325F.68 to 325F.70; chapter 325F is NOT in our published shard, so its text is not verified here. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "choice-of-law",
+    "rule_id": "mn-party-choice-honored-good-faith-plus-two-statutory-voids",
+    "question": "Will Minnesota apply the law we chose in the governing-law clause?",
+    "rule": "Yes, within limits Minnesota states in its own terms. The Supreme Court is 'committed to the rule that the parties, acting in good faith and without an intent to evade the law, may agree that the law of either state shall govern' (Combined Insurance v. Bode), and it has restated that parties may agree that the law of another state shall govern their agreement and that the Court will interpret and apply that other state's law where such an agreement is made (Milliken, applying New York law to a guaranty by the clause's terms). Two Minnesota statutes take specific contracts out of that rule. In a building and construction contract to be performed in Minnesota, a provision making the contract subject to the laws of another state is void and unenforceable (Minn. Stat. § 337.10, subd. 1). And an employer must not require an employee who primarily resides and works in Minnesota, as a condition of employment, to agree to a provision that would deprive the employee of the substantive protection of Minnesota law with respect to a controversy arising in Minnesota; such a provision is voidable at any time by the employee, and if the employee voids it the matter is adjudicated in Minnesota under Minnesota law (§ 181.988, subd. 3).",
+    "trap": "Limitations periods do not simply follow the chosen law, and they do not simply stay Minnesotan either. Under the Uniform Conflict of Laws-Limitations Act, if a claim is substantively based on the law of one other state, THAT state's limitation period applies, along with that state's tolling and accrual rules but not its conflicts rules (§§ 541.31, 541.32); the limitation period of Minnesota applies to all other claims; and a Minnesota court applies the Minnesota period instead where the other state's period is substantially different and has not afforded a fair opportunity to sue or imposes an unfair burden in defending (§ 541.33). Those sections apply to claims arising from incidents occurring on or after August 1, 2004 (§ 541.34). Two further limits stated by the text itself: § 337.10, subd. 1 reaches only a 'building and construction contract' as defined in § 337.01, subd. 2, and § 181.988, subd. 3 says in paragraph (e) that 'This subdivision applies only to claims arising under this section.' Bode's 'good faith and without an intent to evade the law' qualifier is the Court's own; no case read here applies it to invalidate a clause. One more limit on Combined Insurance: it is cited here only for the parties' freedom to choose. Its other holding -- that absent a choice \"the law of the state where a contract is made governs\" -- is no longer the law: the Supreme Court has said that was \"at one time\" correct but \"this court has abandoned the lex loci doctrine in favor of the 'choice influencing considerations' methodology\" (Milbank Mutual, applying Milkovich v. Saari), so a contract with no choice-of-law clause is not analysed by place of making.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "77 N.W.2d 533",
+        "name": "Combined Insurance Co. of America v. Bode",
+        "court": "Minn.",
+        "decided": "1956",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "840bc823c2c8283f",
+            "cl_opinion_id": "2180664",
+            "quote": "We are also committed to the rule that the parties, acting in good faith and without an intent to evade the law, may agree that the law of either state shall govern.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "295 N.W.2d 377",
+        "name": "Milliken and Co. v. Eagle Packaging Co.",
+        "court": "Minn.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "d6c8f50f20969e73",
+            "cl_opinion_id": "2178866",
+            "quote": "that parties may agree that the law of another state shall govern their agreement and will interpret and apply the law of another state where such an agreement is made.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "Provisions contained in, or executed in connection with, a building and construction contract to be performed in Minnesota making the contract subject to the laws of another state or requiring that any litigation, arbitration, or other dispute resolution process on the contract occur in another state are void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "An employer must not require an employee who primarily resides and works in Minnesota, as a condition of employment, to agree to a provision in an agreement or contract that would do either of the following: (1) require the employee to adjudicate outside of Minnesota a claim arising in Minnesota; or (2) deprive the employee of the substantive protection of Minnesota law with respect to a controversy arising in Minnesota.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "Any provision of a contract or agreement that violates paragraph (a) is voidable at any time by the employee and if a provision is rendered void at the request of the employee, the matter shall be adjudicated in Minnesota and Minnesota law shall govern the dispute.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "For purposes of this section, adjudication includes litigation and arbitration. (e) This subdivision applies only to claims arising under this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.31",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.31",
+            "quote": "if a claim is substantively based: (1) upon the law of one other state, the limitation period of that state applies; or (2) upon the law of more than one state, the limitation period of one of those states chosen by the law of conflict of laws of this state applies. (b) The limitation period of this state applies to all other claims.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.32",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.32",
+            "quote": "If the statute of limitations of another state applies to the assertion of a claim in this state, the other state's relevant statutes and other rules of law governing tolling and accrual apply in computing the limitation period, but its statutes and other rules of law governing conflict of laws do not apply.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.33",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.33",
+            "quote": "If the court determines that the limitation period of another state applicable under sections 541.31 and 541.32 is substantially different from the limitation period of this state and has not afforded a fair opportunity to sue upon, or imposes an unfair burden in defending against, the claim, the limitation period of this state applies.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.34",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.34",
+            "quote": "Sections 541.30 to 541.35 apply to claims arising from incidents occurring on or after August 1, 2004.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "332 N.W.2d 160",
+        "name": "Milbank Mutual Insurance Co. v. United States Fidelity & Guaranty Co.",
+        "court": "Minn.",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "387a48eaca12e7ae",
+            "cl_opinion_id": "1924785",
+            "quote": "However, this court has abandoned the lex loci doctrine in favor of the “choice influencing considerations” methodology.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "332 N.W.2d 160",
+        "name": "Milbank Mutual Insurance Co. v. United States Fidelity & Guaranty Co.",
+        "court": "Minn.",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "387a48eaca12e7ae",
+            "cl_opinion_id": "1924785",
+            "quote": "At one time this was a correct statement of the law, see, e.g., Combined Insurance Co. of America v. Bode",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Bode: opinion by Matson, J.; the choice-of-law passage is in the body of the opinion. Milliken: opinion by Wahl, J.; the quoted sentence is footnote 1 of the majority opinion, and the Court in fact decided the case by applying New York law under the clause. Good-law scans: Bode, 11 later opinions citing 77 N.W.2d 533, 1 flag window (Davies & Davies, 1980, in which Bode is the case doing the disapproving); Milliken, 7 later opinions, 0 flag windows. No negative treatment. What is NOT established here: Minnesota's choice-of-law test when there is no clause, and whether a Minnesota court would refuse a chosen law on fundamental-policy grounds outside §§ 337.10 and 181.988 — no authority read says so. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect. LATER-TREATMENT SCAN 2026-09-22 (the DocketX contract-law audit of 2026-09-22): Milbank Mutual (Minn. 1983) says Combined Insurance's lex-loci default was 'at one time' correct and has been abandoned for the choice-influencing-considerations method. The party-autonomy sentence quoted here is a different holding and is restated by Milliken, also cited. Milbank added as an authority so the row itself carries the later treatment. CORRECT on what it cites Combined for; trap extended.\nHOLDING SWEEP 2026-09-22 (sixth band, overlap 0.35-0.40): Milbank 'at one time' sentence added."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "mn-private-ag-statute-needs-public-benefit",
+    "question": "Can the other side release or waive Minnesota consumer-protection claims in this contract?",
+    "rule": "This rule does not establish a Minnesota anti-waiver statute; it states what the private remedy is and how narrow it is. Minn. Stat. § 8.31, subd. 1 directs the attorney general to investigate violations of Minnesota law respecting unfair, discriminatory and other unlawful practices in business, commerce or trade, naming among others the Prevention of Consumer Fraud Act (§§ 325F.68 to 325F.70), and subd. 3a provides that, in addition to the remedies otherwise provided by law, any person injured by a violation of those laws may bring a civil action and recover damages together with costs and disbursements, including costs of investigation and reasonable attorney's fees, and receive other equitable relief. The Supreme Court held in Ly v. Nystrom that the private attorney general statute applies only to those claimants who demonstrate that their cause of action benefits the public.",
+    "trap": "The public-benefit limit does the work a waiver clause is usually drafted to do, and it cuts against the claimant before any waiver is reached: Ly was defrauded in a single one-on-one transaction and, because enforcement had no public benefit, could not use § 8.31, subd. 3a at all. Two honest gaps. Minnesota's consumer statutes themselves — chapters 325D, 325F and 325G — are NOT in our published statute shard, so this store cannot quote the Consumer Fraud Act, and no anti-waiver provision is verified here; do not assume one exists or does not. And § 8.31, subd. 3a is not limited by its words to household consumers — Ly himself was buying a business — so this rule is not tagged to consumer contracts.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 8.31",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_8.31",
+            "quote": "The attorney general shall investigate violations of the law of this state respecting unfair, discriminatory, and other unlawful practices in business, commerce, or trade, and specifically, but not exclusively, the Nonprofit Corporation Act (sections 317A.001 to 317A.909), the Act Against Unfair Discrimination and Competition (sections 325D.01 to 325D.07), the Unlawful Trade Practices Act (sections 325D.09 to 325D.16), the Antitrust Act (sections 325D.49 to 325D.66), section 325F.67 and other laws against false or fraudulent advertising, the antidiscrimination acts contained in section 325D.67 , the act against monopolization of food products (section 325D.68), the act regulating telephone advertising services (section 325E.39), the Prevention of Consumer Fraud Act (sections 325F.68 to 325F.70), and chapter 53A regulating currency exchanges and assist in the enforcement of those laws as in this section provided.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 8.31",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_8.31",
+            "quote": "In addition to the remedies otherwise provided by law, any person injured by a violation of any of the laws referred to in subdivision 1 may bring a civil action and recover damages, together with costs and disbursements, including costs of investigation and reasonable attorney's fees, and receive other equitable relief as determined by the court.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "615 N.W.2d 302",
+        "name": "Hoang Minh Ly v. Nystrom",
+        "court": "Minn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "e7eace1bef49c9f0",
+            "cl_opinion_id": "1830236",
+            "quote": "we hold that the Private AG Statute applies only to those claimants who demonstrate that their cause of action benefits the public.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "615 N.W.2d 302",
+        "name": "Hoang Minh Ly v. Nystrom",
+        "court": "Minn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "e7eace1bef49c9f0",
+            "cl_opinion_id": "1830236",
+            "quote": "Appellant was defrauded in a single one-on-one transaction in which the fraudulent misrepresentation, while evincing reprehensible conduct, was made only to appellant. A successful prosecution of his fraud claim does not advance state interests and enforcement has no public benefit",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "See the Ly notes on the attorney-fees row for the opinion's authorship, the dissent (Gilbert, J., a separate corpus row that is not quoted) and the good-law scan. The question this family usually asks — whether a contractual waiver or release of consumer-protection claims is enforceable in Minnesota — is NOT answered by any authority in this row, and the rule says so rather than filling the gap. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "electronic-signature",
+    "rule_id": "mn-325l-08-electronic-record-satisfies-a-writing-as-quoted",
+    "question": "Will an emailed or electronically signed record satisfy a Minnesota writing requirement?",
+    "rule": "The operative Minnesota text available to this store is what the Supreme Court quoted in Turner: Minn. Stat. § 325L.08(a) provides that if parties have agreed to conduct transactions by electronic means and a law requires a person to send information in writing to another person, the requirement is satisfied if the information is sent in an electronic record capable of retention by the recipient at the time of receipt. The Court further held that an agreement to conduct transactions by electronic means need not be explicit: the section requires only that the parties 'have agreed to conduct transactions by electronic means', and agreement means 'the bargain of the parties' and can be inferred from the circumstances (§ 325L.02(a)).",
+    "trap": "Read the rule for exactly what it covers. Section 325L.08 is about SENDING information that a law requires to be in writing; the Uniform Electronic Transactions Act's signature-equivalence provision, and the chapter's scope and exclusion sections, are NOT established here — chapter 325L is absent from our published Minnesota statute shard and Turner quotes only § 325L.08(a) and § 325L.02(a). So nothing in this rule says that an electronic signature satisfies a Minnesota signature requirement, and nothing says which transactions the chapter excludes. The second trap is the predicate: everything in § 325L.08 runs off an agreement to conduct transactions by electronic means, which Turner shows can be found from a course of e-mail correspondence rather than from a clause — a fact finding, reviewed for clear error, not a drafting choice.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "Minn. No. A13-0289 (Dec. 11, 2013)",
+        "name": "Turner v. Commissioner of Revenue",
+        "court": "Minn.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "7deab4c83e2a9dfb",
+            "cl_opinion_id": "8247117",
+            "quote": "Section 325L.08 provides that “[i]f parties have agreed to conduct transactions by electronic means and a law requires a person to ... send ... information in writing to another person, the requirement is satisfied if the information is ... sent ... in an electronic record capable of retention by the recipient at the time of receipt.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Minn. No. A13-0289 (Dec. 11, 2013)",
+        "name": "Turner v. Commissioner of Revenue",
+        "court": "Minn.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "7deab4c83e2a9dfb",
+            "cl_opinion_id": "8247117",
+            "quote": "The Turners argue that an agreement to receive an order electronically must be explicit. Nothing in the statute imposes such a requirement. Section 325L.08 requires only that the “parties have agreed to conduct transactions by electronic means,” id., and agreement means “the bargain of the parties” and can be inferred from the circumstances",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Turner v. Commissioner of Revenue (Minn. 2013-12-11), corpus row 7deab4c83e2a9dfb, cl_opinion_id 8247117: opinion for the Court; the published row contains no separate opinion. The case arose under Minn. Stat. § 270C.33, subd. 8 (service of an order of assessment), which cross-refers to § 325L.08; the Court's statement of what § 325L.08(a) and § 325L.02(a) provide is quoted, not its tax holding. NO REPORTER CITE: this cite could not be resolved through CourtListener's citation map for the Minnesota corpus, so the `cite` field records the docket number and date and identity rests on the row title and year. Good-law scan for later opinions naming 'Turner v. Comm': 3 later opinions, 0 flag-word windows. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "entire-agreement",
+    "rule_id": "mn-merger-clause-establishes-integration",
+    "question": "Does our entire-agreement clause keep the other side's prior agreements and side promises out?",
+    "rule": "Yes, that is what a merger clause does in Minnesota. When parties reduce their agreement to writing, parol evidence is ordinarily inadmissible to vary, contradict or alter the written agreement; but where a written agreement is ambiguous or incomplete, evidence of oral agreements tending to establish the intent of the parties is admissible (Alpha Real Estate). 'A merger clause establishes that the parties intended the writing to be an integration of their agreement.' Where a comprehensive lease contained a merger clause stating it was the entire agreement, the Supreme Court held it need not look beyond the writing itself to determine whether it was a complete integration, and it was error to use the parties' conduct or an earlier written agreement to modify its terms.",
+    "trap": "The clause decides integration; it does not decide meaning or every other doctrine. Alpha Real Estate still applied the Bussard test as a cross-check — if the additional agreement is one that similarly situated parties would include in the written agreement, the written agreement is complete — and it still construed the writing against its drafter ('Even if there were an ambiguity in the 1997 lease, any such ambiguity would be construed against the party who drafted it'), so a merger clause in your own form does not buy you the benefit of the doubt on wording. Two things a merger clause did NOT do in Minnesota's cases read here: it did not bar reformation as a doctrine (the Court reached the merits of mutual mistake and scrivener's error, and rejected it on the evidence), and it did not bar a fraud claim — Sorchaga holds fraudulent statements are an exception to the parol evidence rule. Nothing read here says a merger clause disclaims reliance.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "664 N.W.2d 303",
+        "name": "Alpha Real Estate Co. of Rochester v. Delta Dental Plan of Minnesota",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "26856d3081843168",
+            "cl_opinion_id": "1822590",
+            "quote": "when parties reduce their agreement to writing, parol evidence is ordinarily inadmissible to vary, contradict, or alter the written agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "664 N.W.2d 303",
+        "name": "Alpha Real Estate Co. of Rochester v. Delta Dental Plan of Minnesota",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "26856d3081843168",
+            "cl_opinion_id": "1822590",
+            "quote": "where a written agreement is ambiguous or incomplete, evidence of oral agreements tending to establish the intent of the parties is admissible.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "664 N.W.2d 303",
+        "name": "Alpha Real Estate Co. of Rochester v. Delta Dental Plan of Minnesota",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "26856d3081843168",
+            "cl_opinion_id": "1822590",
+            "quote": "A merger clause establishes that the parties intended the writing to be an integration of their agreement. Richard A. Lord, Williston on Contracts § 33:21 (4th ed.1999).",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "664 N.W.2d 303",
+        "name": "Alpha Real Estate Co. of Rochester v. Delta Dental Plan of Minnesota",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "26856d3081843168",
+            "cl_opinion_id": "1822590",
+            "quote": "Thus, under these facts, we need not look beyond the writing of the 1997 lease itself to determine whether it is a complete integration.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "664 N.W.2d 303",
+        "name": "Alpha Real Estate Co. of Rochester v. Delta Dental Plan of Minnesota",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "26856d3081843168",
+            "cl_opinion_id": "1822590",
+            "quote": "Bussard instructs that if the additional agreement is one that similarly situated parties would include in the written agreement, then the written agreement is complete.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "664 N.W.2d 303",
+        "name": "Alpha Real Estate Co. of Rochester v. Delta Dental Plan of Minnesota",
+        "court": "Minn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "26856d3081843168",
+            "cl_opinion_id": "1822590",
+            "quote": "Even if there were an ambiguity in the 1997 lease, any such ambiguity would be construed against the party who drafted it.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Alpha Real Estate: opinion by Gilbert, J.; the published row contains no separate opinion and every quote is majority text. The merger-clause holding is expressly 'under these facts' — a 54-page comprehensive agreement — and the rule states it that way. Good-law scan for opinions after 2003-07-03 citing 664 N.W.2d 303: 51 later opinions, 2 flag-word windows, both read (a 2024 Minn. App. dissent applying Alpha's own incomplete-integration sentence, and a 2011 Minn. App. decision following Alpha on the scope of review). No negative treatment. The Sorchaga sentence is carried by the warranty-disclaimer row's authority in this store and by Sorchaga's own text. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "force-majeure",
+    "rule_id": "mn-frustration-of-purpose-temporary-only-suspends",
+    "question": "Does a government order or other supervening event excuse performance under this contract?",
+    "rule": "Minnesota analyses the question under the Restatement (Second) of Contracts. The Supreme Court held in 2024 that the doctrine of temporary frustration of purpose delineated in Restatement § 269 is a justification for nonperformance recognized under Minnesota law in certain circumstances, and that §§ 265 and 269 are the appropriate frameworks for permanent and temporary frustration respectively. The § 265 test requires the asserting party to prove three elements: that its principal purpose in entering the contract is substantially frustrated, without its fault, by the occurrence of an event the nonoccurrence of which was a basic assumption on which the contract was made; a 'principal purpose' is one so completely the basis of the contract that, as both parties understand, without it the transaction would make little sense. Temporary frustration only SUSPENDS the asserting party's duty rather than discharging remaining duties, and obligations are discharged only if performance afterwards would be 'materially more burdensome', which requires more than inconvenience or increased costs.",
+    "trap": "The remedy, not the elements, is where this argument usually dies — and a COVID-era closure is the worked example. In Fitness International the tenant could not operate its health club for about 3.5 months under executive orders, and still lost: even assuming the other elements, its rent obligation was merely delayed, and once the closure ended all rent became due. Two limits the opinion states itself. The Court expressly did not decide whether temporary frustration of purpose can support an affirmative breach-of-contract claim rather than only an affirmative defense. And it did NOT construe the lease's own force majeure clause as excusing rent — the clause appears in the opinion's statement of facts, and in footnote 7 the Court treats it as a provision that 'specifically contemplates the risk of restrictive laws and allocates that risk to the parties accordingly'. So no sentence here tells you how a Minnesota court reads your force majeure wording; it tells you what the background doctrine gives a party whose clause does not cover the event.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "Minn. No. A22-1057 (July 24, 2024)",
+        "name": "Fitness International, LLC v. City Center Ventures, LLC",
+        "court": "Minn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1ae45937797fecca",
+            "cl_opinion_id": "11173586",
+            "quote": "we hold today that the doctrine of temporary frustration of purpose delineated in the Restatement (Second) of Contracts § 269 is a justification for nonperformance of a contract that is recognized under Minnesota law in certain circumstances.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Minn. No. A22-1057 (July 24, 2024)",
+        "name": "Fitness International, LLC v. City Center Ventures, LLC",
+        "court": "Minn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1ae45937797fecca",
+            "cl_opinion_id": "11173586",
+            "quote": "The Restatement approach essentially requires the asserting party to prove three elements: (1) the party’s principal purpose in entering the contract is substantially frustrated; (2) without their fault; (3) by the occurrence of an event, the nonoccurrence of which was a basic assumption on which the contract was made.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Minn. No. A22-1057 (July 24, 2024)",
+        "name": "Fitness International, LLC v. City Center Ventures, LLC",
+        "court": "Minn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1ae45937797fecca",
+            "cl_opinion_id": "11173586",
+            "quote": "A “principal purpose” is one that is “so completely the basis of the contract that, as both parties understand, without it the transaction would make little sense.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Minn. No. A22-1057 (July 24, 2024)",
+        "name": "Fitness International, LLC v. City Center Ventures, LLC",
+        "court": "Minn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1ae45937797fecca",
+            "cl_opinion_id": "11173586",
+            "quote": "Notably, temporary frustration of purpose only suspends the asserting party’s duty, rather than discharging all remaining duties to perform.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Minn. No. A22-1057 (July 24, 2024)",
+        "name": "Fitness International, LLC v. City Center Ventures, LLC",
+        "court": "Minn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1ae45937797fecca",
+            "cl_opinion_id": "11173586",
+            "quote": "Contractual obligations are only discharged if performance would be “materially more burdensome” after the temporary frustration ceases. Id. “Materially more burdensome” performance requires more than inconvenience or increased costs.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Fitness International, LLC v. City Center Ventures, LLC (Minn. 2024-07-24), corpus row 1ae45937797fecca, cl_opinion_id 11173586: opinion by Moore, III, J.; Procaccini, J., took no part, and Hennesy, J., not having been a member of the court at the time of submission, took no part. There is no dissent in the published row and every quote is from the opinion of the Court. NO REPORTER CITE: the decision is not resolvable through CourtListener's citation map in our corpus, so the `cite` field records the docket number and filing date and identity rests on the row title and year. Good-law scan for later opinions naming 'Fitness Int': none in the corpus (the decision is recent relative to the 2026-06 snapshot). Minn. Stat. § 336.2-615 (excuse by failure of presupposed conditions) is not available to this store. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "indemnity",
+    "rule_id": "mn-337-02-construction-indemnity-and-clear-unequivocal-elsewhere",
+    "question": "Will this indemnity make the other side pay for OUR own negligence?",
+    "rule": "Two rules, and which one applies turns on the kind of contract. In a building and construction contract — a contract for the design, construction, alteration, improvement, repair or maintenance of real property, highways, roads or bridges (Minn. Stat. § 337.01, subd. 2) — an indemnification agreement contained in or executed in connection with it is UNENFORCEABLE except to the extent the underlying injury or damage is attributable to the negligent or otherwise wrongful act or omission, including breach of a specific contractual duty, of the promisor or the promisor's independent contractors, agents, employees or delegatees, or to the extent an owner, responsible party or governmental entity agrees to indemnify a contractor for strict liability under environmental laws (§ 337.02). Outside that statute, agreements seeking to indemnify the indemnitee for losses occasioned by its own negligence 'are not favored by the law and are not construed in favor of indemnification unless such intention is expressed in clear and unequivocal terms, or unless no other meaning can be ascribed to it', and the Supreme Court rejected the suggestion that this requirement applies only to building and construction contracts (Yang).",
+    "trap": "The insurance workaround is real but it is narrow and it has its own void clause. Sections 337.01 to 337.05 do not affect the validity of an agreement to provide specific insurance coverage for the benefit of others, EXCEPT that a provision requiring a party to provide insurance coverage to other parties, including third parties, for the negligence or intentional acts or omissions of those other parties is against public policy and void and unenforceable (§ 337.05, subd. 1). Where a promisor agrees to provide specific insurance, a claim arises within its scope, and the promisor did not obtain and keep the insurance in force, the promisee has indemnification to the same extent as the specified insurance, regardless of § 337.02 (subd. 2). In Bolduc the Supreme Court applied § 337.02 to defeat indemnity where the subcontractor was not at fault, holding that any obligation to indemnify would violate § 337.02 unless accompanied by a coextensive insurance agreement under § 337.05 — and it found no additional-insured coverage either. Note two scope carve-outs in the sections next door: §§ 337.01-337.05 do not apply to an accommodation indemnity from a party permitted to enter adjacent property, nor to an indemnity that is an integral part of a settlement of a disputed claim (§ 337.03), and, subject to § 337.02, §§ 337.01 to 337.06 do not restrict rights to indemnification that the common law may provide (§ 337.06).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.01",
+            "quote": "\"Building and construction contract\" means a contract for the design, construction, alteration, improvement, repair or maintenance of real property, highways, roads or bridges.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.01",
+            "quote": "\"Indemnification agreement\" means an agreement by the promisor to indemnify, defend, or hold harmless the promisee against liability or claims of liability for damages arising out of bodily injury to persons or out of physical damage to tangible or real property.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.02",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.02",
+            "quote": "An indemnification agreement contained in, or executed in connection with, a building and construction contract is unenforceable except to the extent that: (1) the underlying injury or damage is attributable to the negligent or otherwise wrongful act or omission, including breach of a specific contractual duty, of the promisor or the promisor's independent contractors, agents, employees, or delegatees; or (2) an owner, a responsible party, or a governmental entity agrees to indemnify a contractor directly or through another contractor with respect to strict liability under environmental laws.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.03",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.03",
+            "quote": "Sections 337.01 to 337.05 do not apply to an agreement by which a promisor that is a party to a building and construction contract indemnifies a person, firm, corporation, or public agency for whose account the construction is not being performed, but who, as an accommodation, permits the promisor or the promisor's independent contractors, agents, employees, or delegatees to enter upon or adjacent to its property for the purpose of performing the building and construction contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.05",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.05",
+            "quote": "(a) Except as otherwise provided in paragraph (b), sections 337.01 to 337.05 do not affect the validity of agreements whereby a promisor agrees to provide specific insurance coverage for the benefit of others. (b) A provision that requires a party to provide insurance coverage to one or more other parties, including third parties, for the negligence or intentional acts or omissions of any of those other parties, including third parties, is against public policy and is void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.05",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.05",
+            "quote": "then, as to that claim and regardless of section 337.02 , the promisee shall have indemnification from the promisor to the same extent as the specified insurance.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.06",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.06",
+            "quote": "Subject to section 337.02 , sections 337.01 to 337.06 do not in any way restrict rights to indemnification that the common law may provide.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "701 N.W.2d 783",
+        "name": "Yang v. Voyagaire Houseboats, Inc.",
+        "court": "Minn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbf998318b523260",
+            "cl_opinion_id": "1787379",
+            "quote": "Agreements seeking to indemnify the indemnitee for losses occasioned by its own negligence are not favored by the law and are not construed in favor of indemnification unless such intention is expressed in clear and unequivocal terms, or unless no other meaning can be ascribed to it.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "701 N.W.2d 783",
+        "name": "Yang v. Voyagaire Houseboats, Inc.",
+        "court": "Minn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbf998318b523260",
+            "cl_opinion_id": "1787379",
+            "quote": "Although many of our indemnification decisions have involved the construction setting, we never have indicated that the requirement of clear and unequivocal language applies only to building and construction contracts.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "701 N.W.2d 783",
+        "name": "Yang v. Voyagaire Houseboats, Inc.",
+        "court": "Minn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbf998318b523260",
+            "cl_opinion_id": "1787379",
+            "quote": "We examine the enforceability of exculpatory and indemnification clauses under different standards. Indemnification clauses are subject to greater scrutiny because they release negligent parties from liability, but also may shift liability to innocent parties.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "825 N.W.2d 695",
+        "name": "Engineering & Construction Innovations, Inc. v. L.H. Bolduc Co.",
+        "court": "Minn.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "03022ea521e6b96b",
+            "cl_opinion_id": "8246645",
+            "quote": "Because Bolduc was not at fault for the pipeline damage, any obligation by Bolduc to indemnify ECI would violate MinmStat. § 337.02 unless that obligation was accompanied by a coextensive insurance agreement under Minn.Stat. § 337.05.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "825 N.W.2d 695",
+        "name": "Engineering & Construction Innovations, Inc. v. L.H. Bolduc Co.",
+        "court": "Minn.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "03022ea521e6b96b",
+            "cl_opinion_id": "8246645",
+            "quote": "Because we conclude that ECI did not qualify as an additional insured with respect to the pipe damage and that Bolduc cannot be required to indemnify ECI without violating Minn. Stat. § 337.02 , we reverse.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Yang: opinion by Russell A. Anderson, J.; no separate opinion in the published row. The 'clear and unequivocal' sentence is Yang quoting National Hydro Systems v. M.A. Mortenson Co., 529 N.W.2d 690, 694 (Minn. 1995), and applying it; National Hydro itself was not read and is not listed as an authority. Bolduc: opinion by Stras, J.; the published row contains no separate opinion; quotes are from the Court's own holdings. Good-law scans: Yang, 22 later opinions citing 701 N.W.2d 783, 0 flag windows; Bolduc, 22 later opinions citing 825 N.W.2d 695, 1 flag window (a 2015 Minn. App. case citing Bolduc's footnote on non-binding foreign caselaw). No negative treatment. This row is deliberately NOT tagged to construction contracts: it states a construction-only statute AND a general common-law rule that Yang says is not confined to construction. Minn. Stat. § 337.05, subd. 1(c)-(e) (workers' compensation, bonds, builder's risk, OCIP/CCIP and project-specific insurance; vicarious-liability and warranty coverage; railroad work within 50 feet) and subds. 3-5 were read and are described only to the extent quoted. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "lien-waiver",
+    "rule_id": "mn-337-10-subd-2-no-waiver-before-payment",
+    "question": "Is the lien waiver our subcontract makes us sign up front enforceable in Minnesota?",
+    "rule": "No, on the statute's own terms. Provisions contained in, or executed in connection with, a building and construction contract requiring a contractor, subcontractor or material supplier to waive the right to a mechanics lien or to a claim against a payment bond BEFORE the person has been paid for the labor or materials or both that the person furnished are void and unenforceable (Minn. Stat. § 337.10, subd. 2). The same subdivision preserves one exception on its face: 'This provision shall not affect the validity of a waiver as to any third party who detrimentally relies upon the waiver.'",
+    "trap": "The third-party-reliance sentence is the part that gets missed, and it can make a void waiver operative against you in practice: a lender or title company that detrimentally relies on the waiver you signed is protected by the statute even though the waiver is void as between you and the party who demanded it. Two scope points from the text itself. The subdivision reaches a 'building and construction contract' as defined in § 337.01 — a contract for the design, construction, alteration, improvement, repair or maintenance of real property, highways, roads or bridges — so it does not by its words reach a supply contract outside that definition. And the trigger is payment, not timing of signature: the waiver is void where it is required before the person 'has been paid for the labor or materials or both that the person furnished', so a waiver given for and limited to payment actually received is not what this subdivision voids. Minnesota's mechanics lien chapter itself (Minn. Stat. ch. 514) is not quoted in this rule, so nothing here states the content, form or timing requirements of a lien waiver or of a lien statement.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "Provisions contained in, or executed in connection with, a building and construction contract requiring a contractor, subcontractor, or material supplier to waive the right to a mechanics lien or to a claim against a payment bond before the person has been paid for the labor or materials or both that the person furnished are void and unenforceable. This provision shall not affect the validity of a waiver as to any third party who detrimentally relies upon the waiver.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.01",
+            "quote": "\"Building and construction contract\" means a contract for the design, construction, alteration, improvement, repair or maintenance of real property, highways, roads or bridges.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Both sections read in full from the published row (mn-stat_337.10 in its entirety, including subds. 1, 3, 4 and 5, and mn-stat_337.01). No Minnesota Supreme Court opinion construing § 337.10, subd. 2 was found in the corpus: a scan of docketx/us-caselaw-mn (mn-minn) for '337.10' returned one opinion, State v. Borg (2013), which is unrelated. The rule and trap therefore rest on the statutory text alone and say so. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "limitation-of-liability",
+    "rule_id": "mn-schlobohm-two-prong-public-policy-test",
+    "question": "Will a Minnesota court enforce this clause limiting or excluding our liability for our own negligence?",
+    "rule": "It can. Minnesota has held that parties to a contract may, without violation of public policy, protect themselves against liability resulting from their own negligence (Schlobohm). But such clauses are not favoured: a clause exonerating a party from liability will be strictly construed against the benefited party, and it will not be enforced if it is either ambiguous in scope or purports to release the benefited party from liability for intentional, wilful or wanton acts (Schlobohm; Yang adds 'or contravenes public policy'). On public policy Minnesota applies a two-prong test, examining both prongs before enforcing: (1) whether there was a disparity of bargaining power between the parties, in terms of a compulsion to sign a contract containing an unacceptable provision and the lack of ability to negotiate its elimination, and (2) the types of services being offered or provided, taking into consideration whether it is a public or essential service.",
+    "trap": "The second prong is the one that voids clauses, and it is about WHAT you sell, not how you drafted. In Schlobohm a health-spa release survived because no Minnesota statute regulated health clubs and the business was not of a type generally thought suitable for public regulation; in Yang the identical drafting failed because the houseboat renter met the statutory definitions of a resort and an innkeeper, which made it a public service that could not contract away its duty to protect guests. The adhesion argument is harder than it looks: a printed form offered on a take-it-or-leave-it basis is not enough by itself — there must be a showing that the parties were greatly disparate in bargaining power, that there was no opportunity for negotiation, and that the services could not be obtained elsewhere. What this rule does not establish: any Minnesota rule about a monetary CAP as opposed to an exculpation, and any rule about excluding consequential damages in a sale of goods (for that see the limitation-of-remedy row).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "326 N.W.2d 920",
+        "name": "Schlobohm v. Spa Petite, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "248f1c89716d4553",
+            "cl_opinion_id": "1732355",
+            "quote": "we have held that parties to a contract may, without violation of public policy, protect themselves against liability *923 resulting from their own negligence.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "326 N.W.2d 920",
+        "name": "Schlobohm v. Spa Petite, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "248f1c89716d4553",
+            "cl_opinion_id": "1732355",
+            "quote": "Even though we have recognized the validity of exculpatory clauses in certain circumstances, they are not favored in the law. A clause exonerating a party from liability will be strictly construed against the benefited party. If the clause is either ambiguous in scope or purports to release the benefited party from liability for intentional, willful or wanton acts, it will not be enforced.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "326 N.W.2d 920",
+        "name": "Schlobohm v. Spa Petite, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "248f1c89716d4553",
+            "cl_opinion_id": "1732355",
+            "quote": "An examination of the cases demonstrates the emergence of a two-prong test used by the courts in analyzing the policy considerations. Before enforcing an exculpatory clause, both prongs of the test are examined, to-wit: (1) whether there was a disparity of bargaining power between the parties (in terms of a compulsion to sign a contract containing an unacceptable provision and the lack of ability to negotiate elimination of the unacceptable provision) North Star Center, Inc. v. Sibley Bowl, Inc., 295 Minn. 424, 426 , 205 N.W.2d 331, 333 (1973) (per curiam), [5] and (2) the types of services being offered or provided (taking into consideration whether it is a public or essential service).",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "326 N.W.2d 920",
+        "name": "Schlobohm v. Spa Petite, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "248f1c89716d4553",
+            "cl_opinion_id": "1732355",
+            "quote": "Even though a contract is on a printed form and offered on a \"take it or leave it\" basis, those facts alone do not cause it to be an adhesion contract. There must be a showing that the parties were greatly disparate in bargaining power, that there was no opportunity for negotiation *925 and that the services could not be obtained elsewhere.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "701 N.W.2d 783",
+        "name": "Yang v. Voyagaire Houseboats, Inc.",
+        "court": "Minn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbf998318b523260",
+            "cl_opinion_id": "1787379",
+            "quote": "An exculpatory clause is unenforceable if it is ambiguous in scope, purports to release the benefited party from liability for intentional, willful or wanton acts; or contravenes public policy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "701 N.W.2d 783",
+        "name": "Yang v. Voyagaire Houseboats, Inc.",
+        "court": "Minn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "cbf998318b523260",
+            "cl_opinion_id": "1787379",
+            "quote": "In determining whether an exculpatory clause violates public policy, we consider (1) whether there was a disparity in bargaining power between the parties and (2) the types of services being offered or provided, taking into consideration whether they are public or essential services.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Schlobohm: opinion by Kelley, J., en banc; Simonett, J., dissented, joined by Yetka, Wahl and Todd, JJ. Every quote here is from the majority opinion and none is from the dissent. Yang: opinion by Russell A. Anderson, J., no separate opinion. Good-law scans: Schlobohm, 40 later opinions citing 326 N.W.2d 920, 2 flag windows, both read (a 1985 Minn. App. decision applying Schlobohm and a 2013 criminal case citing it by analogy); Yang, 22 later opinions, 0 flag windows. No negative treatment. Yang cautions against Schlobohm's footnote 3 observation that exculpatory and indemnity clauses are usually given the same treatment, and holds they are examined under different standards — that caution is carried in the indemnity row. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "limitation-of-remedy",
+    "rule_id": "mn-2-719-failure-of-essential-purpose-and-independent-consequentials",
+    "question": "If our repair-or-replace remedy fails, does the consequential-damages exclusion fall with it?",
+    "rule": "Not in a commercial sale. Minnesota applies UCC § 2-719 as quoted by its own Supreme Court: if a repair-and-replacement clause as a remedy fails of its essential purpose, Minn. Stat. § 336.2-719(2) entails that its function as a limitation of the seller's liability must also fail, and the buyer may cancel the contract and recover the purchase price (Durfee). An exclusive remedy fails of its essential purpose if circumstances arise to deprive the limiting clause of its meaning or one party of the substantial value of its bargain; so long as the seller repairs the goods each time a defect arises the clause does not fail, but if repairs are not successfully undertaken within a reasonable time the buyer may be deprived of the benefit of the exclusive remedy (Durfee). On the separate question of a consequential-damages exclusion, the Court held in Franz that the repair-or-replacement remedy and a consequential-damage exclusion are discrete and independent contractual provisions, so the exclusion is valid unless it is unconscionable.",
+    "trap": "Franz is a commercial-parties holding and the Court fenced it in itself: 'our decision is grounded in a commercial setting involving a contract between two merchants of relatively equal bargaining power and is not intended to establish that a consequential damage bar survives a failure of the limited repair remedy in consumer transactions that involve relatively commonplace or uncomplicated products such as automobiles and trucks' — those, the Court said, continue to be governed by Jacobs and Durfee. So the answer flips with the setting, and quoting Franz in a consumer matter cites the case against yourself. What the Court actually found on the facts is worth knowing: two merchants, no great disparity in bargaining strength, a claim for commercial loss, and 'nothing that makes it unconscionable to enforce the allocation of risk'. Minn. Stat. ch. 336 is not in our published statute shard, so the operative text here is only what these opinions quote, and § 336.2-719(3)'s own words are not verified in this store.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "262 N.W.2d 349",
+        "name": "Durfee v. Rod Baxter Imports, Inc.",
+        "court": "Minn.",
+        "decided": "1977",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "f0533e8be2c4629c",
+            "cl_opinion_id": "1285245",
+            "quote": "If the repair-and-replacement clause as a remedy fails of its essential purpose, Minn.St. 336.-2-719(2) entails that its function as a limitation of the seller’s liability must also fail. In such a circumstance, plaintiff may cancel the contract and recover his purchase price.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "262 N.W.2d 349",
+        "name": "Durfee v. Rod Baxter Imports, Inc.",
+        "court": "Minn.",
+        "decided": "1977",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "f0533e8be2c4629c",
+            "cl_opinion_id": "1285245",
+            "quote": "An exclusive remedy fails of its essential purpose if circumstances arise to deprive the limiting clause of its meaning or one party of the substantial value of its bargain.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "262 N.W.2d 349",
+        "name": "Durfee v. Rod Baxter Imports, Inc.",
+        "court": "Minn.",
+        "decided": "1977",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "f0533e8be2c4629c",
+            "cl_opinion_id": "1285245",
+            "quote": "So long as the seller repairs the goods each time a defect arises, a repair-and-replacement clause does not fail of its essential purpose. 10 But if repairs are not successfully undertaken within a reasonable time, the buyer may be deprived of the benefits of the exclusive remedy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "534 N.W.2d 261",
+        "name": "International Financial Services, Inc. v. Franz",
+        "court": "Minn.",
+        "decided": "1995",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1bd11151cd8d0050",
+            "cl_opinion_id": "1700591",
+            "quote": "We too are of the opinion that the better reasoned approach is to treat the repair or replacement remedy and a consequential damage exclusion as discrete and independent contractual provisions. Accordingly, the consequential damage exclusion is valid unless it is unconscionable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "534 N.W.2d 261",
+        "name": "International Financial Services, Inc. v. Franz",
+        "court": "Minn.",
+        "decided": "1995",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1bd11151cd8d0050",
+            "cl_opinion_id": "1700591",
+            "quote": "Under the circumstances of this case, where the parties were both merchants and there was no great disparity in their bargaining strength and where the claim is for commercial loss, there is nothing that makes it unconscionable to enforce the allocation of risk",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "534 N.W.2d 261",
+        "name": "International Financial Services, Inc. v. Franz",
+        "court": "Minn.",
+        "decided": "1995",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1bd11151cd8d0050",
+            "cl_opinion_id": "1700591",
+            "quote": "We emphasize, however, that our decision is grounded in a commercial setting involving a contract between two merchants of relatively equal bargaining power and is not intended to establish that a consequential damage bar survives a failure of the limited repair remedy in consumer transactions that involve relatively commonplace or uncomplicated products such as automobiles and trucks.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Durfee: opinion by Kelly, J.; Wahl, J., took no part; no dissent in the published row. Franz: opinion by Coyne, J.; Anderson, J., took no part; no dissent. Every quote is from the Court's own analysis, not from the federal and out-of-state cases Franz surveys (American Electric, Chatlos, Kearney & Trecker), which are described in the opinion but are not Minnesota law and are not quoted here. Good-law scans: Durfee, 54 later opinions citing 262 N.W.2d 349, 5 flag windows, all read — four concern Durfee's unrelated sentence about deference to a trial court's legal conclusions (Tyroll, 1993, says the court of appeals misread Durfee on preservation for appeal, not on § 2-719) and one is Jacobs (1981) applying Durfee's essential-purpose test. Franz, 3 later opinions citing 534 N.W.2d 261, 0 flag windows. No negative treatment on the points relied on. Untagged: whether Article 2 governs a mixed goods-and-services deal is a question this row does not answer. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "limitations-period",
+    "rule_id": "mn-six-years-plus-construction-and-borrowing-rules",
+    "question": "How long do we have to sue on this contract in Minnesota, and can the clause change it?",
+    "rule": "Except where the Uniform Commercial Code otherwise prescribes, an action upon a contract or other obligation, express or implied, as to which no other limitation is expressly prescribed, must be commenced within six years (Minn. Stat. § 541.05, subd. 1(1)). Two qualifications come from other sections rather than from § 541.05. For work on real property, except where fraud is involved, no action in contract, tort or otherwise to recover damages for injury to property or for bodily injury or wrongful death arising out of the defective and unsafe condition of an improvement to real property may be brought against a person performing or furnishing the design, planning, supervision, materials or observation of construction, or against the owner, more than two years after the cause of action accrues, and in no event may such a cause of action accrue more than ten years after substantial completion (§ 541.051, subd. 1(a)). And where a claim is substantively based upon the law of one other state, that state's limitation period applies, together with its tolling and accrual rules but not its conflicts rules; the Minnesota period applies to all other claims (§§ 541.31, 541.32), unless the other state's period is substantially different and has not afforded a fair opportunity to sue or imposes an unfair burden in defending, in which case the Minnesota period applies (§ 541.33).",
+    "trap": "The six-year rule is expressly subordinate to two things a drafter reading only § 541.05 will miss. The section itself opens 'Except where the Uniform Commercial Code otherwise prescribes' — and Minn. Stat. ch. 336 is NOT in our published statute shard, so this store cannot tell you what period a sale of goods gets; do not assume six years for a supply contract. And the Uniform Conflict of Laws-Limitations Act sections above apply to claims arising from incidents occurring on or after August 1, 2004 (§ 541.34); the section says nothing about earlier incidents. No authority in this rule establishes whether a Minnesota contract may shorten or lengthen the statutory period by agreement; the sections quoted do not address contractual shortening, and no case on the point was read. The construction period in § 541.051 has two boundaries this rule did not state, and both widen exposure rather than narrow it. “Nothing in this section shall apply to actions for damages resulting from negligence in the maintenance, operation or inspection of the real property improvement against the owner or other person in possession.” So a claim about how the building has been run or kept since it was finished is not inside the construction clock at all. And “Nothing in this subdivision shall limit the time for bringing an action for contribution or indemnity.”, so a party brought in late can still pass the loss on after its own direct exposure would have closed.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.05",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.05",
+            "quote": "Except where the Uniform Commercial Code otherwise prescribes, the following actions shall be commenced within six years: (1) upon a contract or other obligation, express or implied, as to which no other limitation is expressly prescribed;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.051",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.051",
+            "quote": "Except where fraud is involved, no action by any person in contract, tort, or otherwise to recover damages for any injury to property, real or personal, or for bodily injury or wrongful death, arising out of the defective and unsafe condition of an improvement to real property, shall be brought against any person performing or furnishing the design, planning, supervision, materials, or observation of construction or construction of the improvement to real property or against the owner of the real property more than two years after the cause of action accrues, as specified in paragraph (c), nor in any event shall such a cause of action accrue more than ten years after substantial completion of the construction.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.31",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.31",
+            "quote": "if a claim is substantively based: (1) upon the law of one other state, the limitation period of that state applies; or (2) upon the law of more than one state, the limitation period of one of those states chosen by the law of conflict of laws of this state applies. (b) The limitation period of this state applies to all other claims.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.32",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.32",
+            "quote": "If the statute of limitations of another state applies to the assertion of a claim in this state, the other state's relevant statutes and other rules of law governing tolling and accrual apply in computing the limitation period, but its statutes and other rules of law governing conflict of laws do not apply.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.33",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.33",
+            "quote": "If the court determines that the limitation period of another state applicable under sections 541.31 and 541.32 is substantially different from the limitation period of this state and has not afforded a fair opportunity to sue upon, or imposes an unfair burden in defending against, the claim, the limitation period of this state applies.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.34",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.34",
+            "quote": "Sections 541.30 to 541.35 apply to claims arising from incidents occurring on or after August 1, 2004.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.051",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.051",
+            "quote": "Nothing in this section shall apply to actions for damages resulting from negligence in the maintenance, operation or inspection of the real property improvement against the owner or other person in possession.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 541.051",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_541.051",
+            "quote": "Nothing in this subdivision shall limit the time for bringing an action for contribution or indemnity.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "All sections read in full from the published rows, including § 541.05, subd. 2 (four years for strict liability), § 541.051, subds. 2-4 (the ninth/tenth year rule, the 12-year outside limit, and the statutory and express written warranty periods under §§ 327A.02 and 327A.05) and § 541.07 (two- and three-year actions), which are not quoted because they do not state this rule. The store holds no statute effective dates; § 541.34's own text supplies the only date stated here. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect. FORCE-WORD SWEEP 2026-09-22 (every force word -- void, only, must, cannot, regardless, unenforceable, absolute, automatically -- in a statute-attributed sentence checked against the cited section's own text): UNSUPPORTED (L): “apply only to” -- § 541.34 (mn-stat_541.34, read in full) says “Sections 541.30 to 541.35 apply to claims arising from incidents occurring on or after August 1, 2004” and carries no “only”; reworded to the statute's words. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; none of the limit's most distinctive words appeared in this row."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "liquidated-damages",
+    "rule_id": "mn-gorco-reasonable-not-penalty",
+    "question": "Will this liquidated-damages figure be enforced, or struck down as a penalty?",
+    "rule": "Minnesota has long regarded provisions for liquidated damages as prima facie valid, on the assumption that the parties in naming a liquidated sum intended it to be a fair compensation for an injury caused by a breach and not a penalty for nonperformance (Gorco). The test is not what the parties called it: 'The controlling factor, rather than intent, is whether the amount agreed upon is reasonable or unreasonable in the light of the contract as a whole, the nature of the damages contemplated' and the surrounding circumstances. Where the actual damages resulting from a breach cannot be ascertained or measured by the ordinary rules, a provision not manifestly disproportionate to the actual damages will be sustained; where the measure of damages is susceptible of definite measurement, Minnesota has uniformly held an amount greatly disproportionate to be a penalty. A provision having an impact that is punitive rather than compensatory will not be enforced.",
+    "trap": "Measurability is what decides most Minnesota cases, and it is a fact about the damages you listed, not about the percentage you chose. In Gorco a 15 percent cancellation charge failed because the clause itself named three items — salesman's commission, advertising, and committing labour and equipment — that were 'clearly and readily susceptible of definite measurement and proof by ordinary rules', and the record showed no commission was paid and no labour or equipment was committed. Reciting general overhead does not help: Gorco quotes Goodell for the point that rent, utilities, bookkeeping and accounting are general expenses of conducting business that the breach neither increased nor decreased. Minnesota's rule is stated by the Court as being in accord with Restatement, Contracts § 339 (a reasonable forecast of just compensation for harm that is incapable or very difficult of accurate estimation). Minn. Stat. § 336.2-718 (liquidation of damages in a sale of goods) is not available to this store and is not stated here.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "99 N.W.2d 69",
+        "name": "Gorco Construction Co. v. Stein",
+        "court": "Minn.",
+        "decided": "1959",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "8eb1fcacd7a09d47",
+            "cl_opinion_id": "2156249",
+            "quote": "Accordingly this court has long regarded provisions for liquidated damages as prima facie valid 11 on the assumption that the parties in naming a liquidated sum intended it to be a fair compensation for an injury caused by a breach of contract and not a penalty for nonperformance.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "99 N.W.2d 69",
+        "name": "Gorco Construction Co. v. Stein",
+        "court": "Minn.",
+        "decided": "1959",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "8eb1fcacd7a09d47",
+            "cl_opinion_id": "2156249",
+            "quote": "The controlling factor, rather than intent, is whether the amount agreed upon is reasonable or unreasonable in the light of the contract as a whole, the nature of the damages contemplated",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "99 N.W.2d 69",
+        "name": "Gorco Construction Co. v. Stein",
+        "court": "Minn.",
+        "decided": "1959",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "8eb1fcacd7a09d47",
+            "cl_opinion_id": "2156249",
+            "quote": "This court has held that where the actual damages resulting from a-breach of the contract cannot be ascertained or measured by the or *483 dinary rules, a provision for liquidated damages not manifestly disproportionate to the actual damages will be sustained. 18 On the other hand, when the measure of damages resulting from a breach of contract is susceptible of definite measurement, we have uniformly held an amount greatly disproportionate to be a penalty.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "99 N.W.2d 69",
+        "name": "Gorco Construction Co. v. Stein",
+        "court": "Minn.",
+        "decided": "1959",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "8eb1fcacd7a09d47",
+            "cl_opinion_id": "2156249",
+            "quote": "Punishment of a promisor for breach, without regard to the extent of the harm that he has caused, is an unjust and unnecessary remedy 16 and a provision having an impact that is punitive rather than compensatory will not be enforced.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Gorco: opinion by Matson, J.; the published row contains no separate opinion. The liquidated-damages holding is one of two grounds for reversal (the other is the erroneous agency instruction) and is stated as the Court's own. Good-law scan for later opinions citing 99 N.W.2d 69 (both reporter styles): 21 later opinions, 0 flag-word windows. No negative treatment; Costello v. Johnson (1963) restates Gorco's rule verbatim. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "non-competition",
+    "rule_id": "mn-181-988-noncompetes-void-with-two-exceptions",
+    "question": "Is the non-compete in this Minnesota agreement enforceable?",
+    "rule": "No, with two statutory exceptions. Minn. Stat. § 181.988, subd. 2(a) provides: 'Any covenant not to compete contained in a contract or agreement is void and unenforceable.' The section defines a covenant not to compete as an agreement between an employee and employer restricting the employee, after termination of the employment, from performing work for another employer for a specified period of time, work in a specified geographical area, or work for another employer in a capacity similar to the employee's work for the employer that is party to the agreement; 'employee' means any individual who performs services for an employer, INCLUDING independent contractors. Notwithstanding subd. 2(a), a covenant not to compete is valid and enforceable if it is agreed upon during the sale of a business (a temporary and geographically restricted covenant, reasonable in area and length of time, barring the seller from carrying on a similar business) or in anticipation of the dissolution of a business. A void covenant does not take the rest of the contract with it: nothing in the subdivision renders void or unenforceable any other provision in an agreement containing a void covenant not to compete.",
+    "trap": "The definition is the whole fight, because the ban is drafted around a category, not around a label. Section 181.988, subd. 1(a) says in terms that a covenant not to compete does NOT include a nondisclosure agreement, or agreement designed to protect trade secrets or confidential information, and does NOT include a nonsolicitation agreement, or agreement restricting the ability to use client or contact lists, or solicit customers of the employer — so those survive § 181.988 and are governed by other law. Three more points from the text: the definition of 'independent contractor' reaches an entity the employer required the individual to form as a condition of receiving compensation, so routing a covenant through a single-member LLC does not escape the section; a court MAY award an employee enforcing rights under the section reasonable attorney fees, which is permissive; and a separate section, § 181.9881, voids a service provider's restriction on a customer soliciting or hiring the provider's employee, subject to an exemption for workers providing professional business consulting for computer software development and related services. DATING: this store holds no statute effective dates, and the published text of § 181.988 carries none, so nothing here establishes which covenants by date the ban reaches.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "Any covenant not to compete contained in a contract or agreement is void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "\"Covenant not to compete\" means an agreement between an employee and employer that restricts the employee, after termination of the employment, from performing: (1) work for another employer for a specified period of time; (2) work in a specified geographical area; or (3) work for another employer in a capacity that is similar to the employee's work for the employer that is party to the agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "\"Employee\" as used in this section means any individual who performs services for an employer, including independent contractors.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "Notwithstanding paragraph (a), a covenant not to compete is valid and enforceable if: (1) the covenant not to compete is agreed upon during the sale of a business. The person selling the business and the partners, members, or shareholders, and the buyer of the business may agree on a temporary and geographically restricted covenant not to compete that will prohibit the seller of the business from carrying on a similar business within a reasonable geographic area and for a reasonable length of time; or (2) the covenant not to compete is agreed upon in anticipation of the dissolution of a business. The partners, members, or shareholders, upon or in anticipation of a dissolution of a partnership, limited liability company, or corporation may agree that all or any number of the parties will not carry on a similar business within a reasonable geographic area where the business has been transacted.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "Nothing in this subdivision shall be construed to render void or unenforceable any other provisions in a contract or agreement containing a void or unenforceable covenant not to compete.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "A covenant not to compete does not include a nondisclosure agreement, or agreement designed to protect trade secrets or confidential information. A covenant not to compete does not include a nonsolicitation agreement, or agreement restricting the ability to use client or contact lists, or solicit customers of the employer.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "In addition to injunctive relief and any other remedies available, a court may award an employee who is enforcing rights under this section reasonable attorney fees.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.9881",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.9881",
+            "quote": "No service provider may restrict, restrain, or prohibit in any way a customer from directly or indirectly soliciting or hiring an employee of a service provider. (b) Any provision of an existing contract that violates paragraph (a) is void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Both sections read in full from the published rows, including § 181.988, subd. 1(d) (definition of independent contractor, described but not quoted), subd. 3 (choice of law and venue, quoted in the choice-of-law and venue-selection rows) and § 181.9881, subd. 3 (the software-consulting exemption). This row is deliberately NOT tagged to employment contracts: subd. 2(a) is written as 'any covenant not to compete contained in a contract or agreement', and subd. 2(b)(1) reaches covenants agreed upon during the sale of a business, which is not an employment contract. Minnesota's pre-2023 common law on non-competes (independent consideration, partial enforcement) was NOT read for this row and no sentence here states it. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "prompt-payment",
+    "rule_id": "mn-337-10-ten-days-and-five-percent-retainage",
+    "question": "What payment terms does Minnesota write into our construction subcontract whatever the contract says?",
+    "rule": "A building and construction contract is DEEMED to require the prime contractor and all subcontractors to promptly pay any subcontractor or material supplier contract within ten days of receipt by the party responsible for payment of payment for undisputed services provided by the party requesting payment, and is deemed to require the party responsible for payment to pay interest of 1-1/2 percent per month on any undisputed amount not paid on time (Minn. Stat. § 337.10, subd. 3). A party requesting payment who prevails in a civil action to collect interest penalties MUST be awarded its costs and disbursements, including attorney fees incurred in bringing the action. If an undisputed payment is not received within ten days, the prime contractor or subcontractor of any tier that has not received it may SUSPEND WORK until it is received. On retainage, subd. 4 provides that retainage may not exceed five percent, that an owner reducing retainage must have the contractor reduce subcontractor retainage at the same rate, and that the owner or the owner's agent must release all retainage no later than 60 days after substantial completion, subject to the terms of the subdivision.",
+    "trap": "Read the exclusions in subdivision 4 before relying on the retainage rules: subd. 4 does NOT apply to a public agency as defined in § 15.71, subd. 3, and does NOT apply to contracts for professional services as defined in §§ 326.02 to 326.15. Those exclusions are written as limits on 'this subdivision', so on the statute's words they do not reach the ten-day payment and 1-1/2 percent interest rules in subd. 3. Two more drafting traps. Everything in subd. 3 keys off an UNDISPUTED amount and off the paying party's own receipt of payment, so a genuine dispute about part of the work suspends nothing as to that part. And the minimum interest penalty floor in subd. 3 ($10 for an unpaid balance of $100 or more, the actual penalty due below $100) is small — the fee-shifting sentence, not the interest, is the leverage. The section also says what it does NOT require, and a payment clause drafted against the deadlines without it overstates the duty: “Nothing in this section requires payment for a portion of a contract that is not complete or for which an invoice has not been submitted.” So the ten-day clock and the interest penalty attach to a complete, invoiced portion of the work, and neither is triggered by work that is unfinished or unbilled.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "A building and construction contract shall be deemed to require the prime contractor and all subcontractors to promptly pay any subcontractor or material supplier contract within ten days of receipt by the party responsible for payment of payment for undisputed services provided by the party requesting payment, including payments under subdivision 4. The contract shall be deemed to require the party responsible for payment to pay interest of 1-1/2 percent per month to the party requesting payment on any undisputed amount not paid on time.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "A party requesting payment who prevails in a civil action to collect interest penalties from a party responsible for payment must be awarded its costs and disbursements, including attorney fees incurred in bringing the action.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "If an undisputed payment is not received within ten days, the prime contractor or subcontractor of any tier that has not received the undisputed payment may suspend work under the building and construction contract until the undisputed payment is received.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "Retainage on a building and construction contract may not exceed five percent. An owner or owner's agent may reduce the amount of retainage and may eliminate retainage on any monthly contract payment if, in the owner's opinion, the work is progressing satisfactorily. If the owner reduces the amount of retainage, the contractor must reduce retainage for any subcontractors at the same rate.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "The owner or the owner's agent must release all retainage no later than 60 days after substantial completion subject to the terms of this subdivision.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "This subdivision does not apply to a public agency as defined in section 15.71 , subdivision 3. (h) This subdivision does not apply to contracts for professional services as defined in sections 326.02 to 326.15 .",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.01",
+            "quote": "\"Building and construction contract\" means a contract for the design, construction, alteration, improvement, repair or maintenance of real property, highways, roads or bridges.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "Nothing in this section requires payment for a portion of a contract that is not complete or for which an invoice has not been submitted.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Section 337.10 read in full from the published row, including subd. 4(a) (monthly progress payments unless the contract provides otherwise), (e) (the 250 percent correction withholding and the one percent or $500 final-paperwork withholding), (f) (withholding retainage for warranty work is prohibited) and (i), which are described only where quoted. No Minnesota Supreme Court opinion construing § 337.10 was found in the corpus. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect. SCOPE AUDIT 2026-09-24: added from the rare-word limit sweep (a DocketX audit sweep), which flagged this row because none of the limit's most distinctive words appeared anywhere in it. The sentence is subdivision 4, paragraph (i).",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "statute-of-frauds",
+    "rule_id": "mn-513-01-513-05-and-credit-agreements",
+    "question": "Does this agreement have to be in writing to be enforceable in Minnesota?",
+    "rule": "No action may be maintained on an agreement unless the agreement, or some note or memorandum of it, EXPRESSING THE CONSIDERATION, is in writing and subscribed by the party charged, in four cases including every agreement that by its terms is not to be performed within one year from the making of it and every special promise to answer for the debt, default or doings of another (Minn. Stat. § 513.01). Separately, every contract for the leasing for longer than one year or for the sale of any lands or any interest in lands is VOID unless the contract, or some note or memorandum of it, expressing the consideration, is in writing and subscribed by the party by whom the lease or sale is to be made, or by that party's lawful agent thereunto authorized IN WRITING (§ 513.05). And a debtor may not maintain an action on a credit agreement unless the agreement is in writing, expresses consideration, sets forth the relevant terms and conditions, and is signed by the creditor AND the debtor (§ 513.33, subd. 2).",
+    "trap": "Minnesota's writing requirement carries two content requirements that the general 'get it in writing' instinct misses. The memorandum must EXPRESS THE CONSIDERATION under both §§ 513.01 and 513.05 — a signed writing that records the promise but not what was given for it does not satisfy the sections as written. And under § 513.05 an agent's authority to sign for the seller or lessor must itself be in writing, and a contract made by an agent is not entitled to record unless that authority is recorded too. The credit-agreement section is the one that surprises borrowers: § 513.33, subd. 3 provides that rendering financial advice, consulting with a debtor, and a creditor's agreement to take certain actions such as entering a new credit agreement, forbearing from exercising remedies, or extending installments do not give rise to a claim that a new credit agreement was created unless the requirements of subd. 2 are met, and that a credit agreement may not be implied from the relationship, fiduciary or otherwise, of creditor and debtor. The sale-of-goods writing requirement (UCC § 2-201) is NOT established here: Minn. Stat. ch. 336 is absent from our published statute shard.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 513.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_513.01",
+            "quote": "No action shall be maintained, in either of the following cases, upon any agreement, unless such agreement, or some note or memorandum thereof, expressing the consideration, is in writing, and subscribed by the party charged therewith: (1) every agreement that by its terms is not to be performed within one year from the making thereof; (2) every special promise to answer for the debt, default or doings of another;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 513.05",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_513.05",
+            "quote": "Every contract for the leasing for a longer period than one year or for the sale of any lands, or any interest in lands, shall be void unless the contract, or some note or memorandum thereof, expressing the consideration, is in writing and subscribed by the party by whom the lease or sale is to be made, or by the party's lawful agent thereunto authorized in writing",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 513.33",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_513.33",
+            "quote": "A debtor may not maintain an action on a credit agreement unless the agreement is in writing, expresses consideration, sets forth the relevant terms and conditions, and is signed by the creditor and the debtor.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 513.33",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_513.33",
+            "quote": "A credit agreement may not be implied from the relationship, fiduciary or otherwise, of the creditor and the debtor.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Sections read in full from the published rows. Section 513.33, subd. 1(4) defines 'signed' by reference to Minn. Stat. § 336.1-201(b)(37), which this store does not hold — so what counts as a signature for a credit agreement is not established here. Sections 513.01(3) (promises on consideration of marriage) and (4) (promise to pay a debt discharged in bankruptcy) were read and are not quoted because the rule states the two clauses that matter to commercial contracts. No Minnesota case is cited in this row; the rule and trap rest on the statutory text alone. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "mn-nda-outside-the-noncompete-ban-and-cherne-remedies",
+    "question": "Is our confidentiality and trade-secret covenant enforceable in Minnesota, and what does it get us?",
+    "rule": "It is outside Minnesota's non-compete ban by the ban's own definition: 'A covenant not to compete does not include a nondisclosure agreement, or agreement designed to protect trade secrets or confidential information', and it does not include a nonsolicitation agreement or an agreement restricting the ability to use client or contact lists or solicit customers of the employer (Minn. Stat. § 181.988, subd. 1(a)). On remedies, the Supreme Court has held that trade secrets and confidential information are both subject to the same duty not to disclose, so the same rule about remedies applies once the information has become generally known; where a trial court finds that a defendant wrongfully took and used a plaintiff's confidential information, the court may in its discretion issue an injunction restraining the defendant from using and profiting from that information (Cherne).",
+    "trap": "The carve-out in § 181.988 is a statement about what the section does not void — it is NOT a statement that your NDA is enforceable, and nothing in the section supplies a duration, a definition of confidential information, or any standard of reasonableness. Minnesota's own trade-secret statute, the Uniform Trade Secrets Act at Minn. Stat. §§ 325C.01 to 325C.08, is NOT in our published statute shard, so this store cannot quote the definition of a trade secret, the misappropriation standard, or any displacement provision — do not assume from this rule how the Act treats a contract claim. The remedy trap is timing: Cherne holds that injunctive relief based on a contract must generally be coextensive with the terms of the contract, so if the restrictive period of a covenant not to compete has expired an injunction will not be granted to enforce that covenant — the injunction in Cherne survived because it was a remedy for breach of the duty not to use confidential information, and the Court expressly did not decide whether it could have issued for the expired covenant.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "A covenant not to compete does not include a nondisclosure agreement, or agreement designed to protect trade secrets or confidential information. A covenant not to compete does not include a nonsolicitation agreement, or agreement restricting the ability to use client or contact lists, or solicit customers of the employer.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "278 N.W.2d 81",
+        "name": "Cherne Industrial, Inc. v. Grounds & Associates, Inc.",
+        "court": "Minn.",
+        "decided": "1979",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "65234d1f3142d44b",
+            "cl_opinion_id": "1699373",
+            "quote": "Since trade secrets and confidential information are both subject to the same duty not to disclose, see, Restatement, Agency (2d) § 396, the seme rule regarding remedies available when the information has become generally known applies.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "278 N.W.2d 81",
+        "name": "Cherne Industrial, Inc. v. Grounds & Associates, Inc.",
+        "court": "Minn.",
+        "decided": "1979",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "65234d1f3142d44b",
+            "cl_opinion_id": "1699373",
+            "quote": "Since the trial court determined here that defendants *93 had wrongfully taken and used confidential information of the plaintiff, the district court could, in its discretion, issue an injunction restraining defendants from using and profiting from that information.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "278 N.W.2d 81",
+        "name": "Cherne Industrial, Inc. v. Grounds & Associates, Inc.",
+        "court": "Minn.",
+        "decided": "1979",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "65234d1f3142d44b",
+            "cl_opinion_id": "1699373",
+            "quote": "Generally, in-junctive relief based on a contract must be coextensive with the terms of the contract. See, e. g., Wagner v. A &amp; B Personnel Systems, Ltd., 473 P.2d 179, 180 (Colo.App.1970). Thus, if the restrictive period of a covenant not to compete has expired, an injunction will not be granted to enforce the covenant.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Cherne: opinion by Wahl, J. (1979); the published row contains no separate opinion. Cherne predates Minnesota's adoption of the Uniform Trade Secrets Act (Jostens v. National Computer System, 1982, records that the Act was enacted in 1980, after the events in that lawsuit), so Cherne states common-law duties, not the Act; the rule says 'the Supreme Court has held' and does not attribute anything to the Act. Good-law scan for opinions after 1979-04-06 citing 278 N.W.2d 81: 125 later opinions, 0 flag-word windows. No negative treatment. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "unconscionability",
+    "rule_id": "mn-adhesion-requires-three-showings-and-commercial-parity-defeats-it",
+    "question": "Can the other side get out of this clause by calling the contract unconscionable or a contract of adhesion?",
+    "rule": "Not easily, on the Minnesota authority read here. An adhesion contract is one drafted unilaterally by a business enterprise and forced upon an unwilling and often unknowing public for services that cannot readily be obtained elsewhere; even though a contract is on a printed form and offered on a take-it-or-leave-it basis, those facts alone do not make it one — there must be a showing that the parties were greatly disparate in bargaining power, that there was no opportunity for negotiation, and that the services could not be obtained elsewhere (Schlobohm). In a commercial sale, the Supreme Court held that where the parties were both merchants and there was no great disparity in their bargaining strength and the claim is for commercial loss, there is nothing that makes it unconscionable to enforce the allocation of risk the parties wrote (Franz).",
+    "trap": "Both holdings are tied to their facts and neither supplies a general Minnesota test. Schlobohm decides an adhesion argument about a health-spa membership; Franz decides the unconscionability of a consequential-damages exclusion between two merchants, under UCC § 2-719(3), and the Court expressly refused to extend it to consumer transactions involving relatively commonplace products such as automobiles and trucks. So neither case establishes procedural and substantive unconscionability as named elements in Minnesota, and no sentence here should be read that way. The statutory hook usually cited for unconscionability in a sale of goods, Minn. Stat. § 336.2-302, is not in our published statute shard and its text is not verified here; it appears in this store only as a parenthetical the Court used in passing in Onvoy.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "326 N.W.2d 920",
+        "name": "Schlobohm v. Spa Petite, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "248f1c89716d4553",
+            "cl_opinion_id": "1732355",
+            "quote": "Even though a contract is on a printed form and offered on a \"take it or leave it\" basis, those facts alone do not cause it to be an adhesion contract. There must be a showing that the parties were greatly disparate in bargaining power, that there was no opportunity for negotiation *925 and that the services could not be obtained elsewhere.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "534 N.W.2d 261",
+        "name": "International Financial Services, Inc. v. Franz",
+        "court": "Minn.",
+        "decided": "1995",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1bd11151cd8d0050",
+            "cl_opinion_id": "1700591",
+            "quote": "Under the circumstances of this case, where the parties were both merchants and there was no great disparity in their bargaining strength and where the claim is for commercial loss, there is nothing that makes it unconscionable to enforce the allocation of risk",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "534 N.W.2d 261",
+        "name": "International Financial Services, Inc. v. Franz",
+        "court": "Minn.",
+        "decided": "1995",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "1bd11151cd8d0050",
+            "cl_opinion_id": "1700591",
+            "quote": "We emphasize, however, that our decision is grounded in a commercial setting involving a contract between two merchants of relatively equal bargaining power and is not intended to establish that a consequential damage bar survives a failure of the limited repair remedy in consumer transactions that involve relatively commonplace or uncomplicated products such as automobiles and trucks.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "See the limitation-of-liability row for Schlobohm's authorship and the Simonett dissent (which would have held the contract adhesive) — the quote used here is majority text. See the limitation-of-remedy row for Franz's authorship and good-law scan. A scan of the Minnesota Supreme Court corpus for a general unconscionability formulation ('no man in his senses', 'procedural and substantive unconscionability') returned NOTHING, and a broad scan of 'unconscionab*' near contract words returned 14 opinions, read; the two quoted here are the only commercial-contract holdings among them. That is why this row states two fact-bound holdings rather than a test. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "usury",
+    "rule_id": "mn-eight-percent-general-cap-with-100k-and-business-exemptions",
+    "question": "What interest rate can this loan carry under Minnesota law, and what happens if it is too high?",
+    "rule": "The general rule in Minn. Stat. § 334.01, subd. 1 is that interest for any legal indebtedness is $6 upon $100 for a year unless a different rate is contracted for in writing, and that no person shall directly or indirectly take or receive, in money, goods, things in action or in any other way, any greater sum or value for the loan or forbearance of money, goods or things in action than $8 on $100 for one year. Two exemptions matter more than the cap. Notwithstanding any law to the contrary (with the exceptions the subdivision names for § 58.137 and § 47.20, subd. 4a), NO limitation on the rate or amount of interest, points, finance charges, fees or other charges applies to a loan, mortgage, credit sale or advance made under a written contract signed by the debtor for the extension of credit of $100,000 OR MORE, or to any written extension or modification of it (§ 334.01, subd. 2). And for a loan or forbearance of LESS than $100,000 for business or agricultural purposes, a person may charge not more than 4-1/2 percent in excess of the discount rate on 90-day commercial paper in effect at the Federal Reserve Bank in the Federal Reserve District encompassing Minnesota (§ 334.011, subd. 1). Remedies: a contract reserving more than the statute prescribes is VOID except as to a holder in due course (§ 334.03); a borrower who paid more than § 334.01 allows may recover the full amount of interest or premium paid, with costs, if the action is brought within TWO YEARS of payment (§ 334.02); and under § 334.011, subd. 2 an excessive business or agricultural rate forfeits the entire interest due, and a borrower who paid it may recover twice the interest paid.",
+    "trap": "The lender exemptions in the sections next door can flip the answer completely. Both § 334.02 and § 334.03 say in terms that they do 'not apply when the loan or forbearance is made by a lender and the lender is subject to section 47.59 or 48.196 or chapter 56 in connection with the loan or forbearance', and each defines 'lender' to include state banks and savings banks, federally chartered savings associations and savings banks, chapter 51A savings associations, federal and chapter 52 credit unions, chapter 53 industrial loan and thrift companies, chapter 56 licensed lenders, and HUD- or VA-approved mortgagees — so for most institutional lenders neither the voiding rule nor the two-year recovery action is available on these sections' words. Two more points from the text. The business and agricultural rate in § 334.011 is measured once: if the rate was permitted when the loan was made, it does not later become usurious because of a fluctuation in the federal discount rate (subd. 3), and no loan may be made under that subdivision if the proceeds finance the purchase or maintenance of real estate used principally for the borrower's residence. And § 334.01, subd. 1 makes a post-maturity rate INCREASE work a forfeiture of the entire interest, with exceptions for instruments bearing no interest before maturity and for maturity extensions capped at $8 on $100 per year. Federal preemption is out of scope for this rule. The same chapter carries a compounding rule the cap does not mention: “In the computation of interest upon any bond, note, or other instrument or agreement, interest shall not be compounded, but any contract to pay interest, not usurious, upon interest overdue, shall not be construed to be usury.” So compounding is barred in the computation, while a separate, non-usurious agreement to pay interest on overdue interest is treated differently.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.01",
+            "quote": "The interest for any legal indebtedness shall be at the rate of $6 upon $100 for a year, unless a different rate is contracted for in writing. No person shall directly or indirectly take or receive in money, goods, or things in action, or in any other way, any greater sum, or any greater value, for the loan or forbearance of money, goods, or things in action, than $8 on $100 for one year.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.01",
+            "quote": "Notwithstanding any law to the contrary, except as stated in section 58.137 , and with respect to a conventional loan or contract for deed, section 47.20 , subdivision 4a, no limitation on the rate or amount of interest, points, finance charges, fees, or other charges applies to a loan, mortgage, credit sale, or advance made under a written contract, signed by the debtor, for the extension of credit to the debtor in the amount of $100,000 or more, or any written extension and other written modification of the written contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.011",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.011",
+            "quote": "Notwithstanding the provisions of any law to the contrary a person may, in the case of a contract for the loan or forbearance of money, goods, or other things in action in an amount of less than $100,000 for business or agricultural purposes, charge interest at a rate of not more than 4-1/2 percent in excess of the discount rate on 90-day commercial paper in effect at the Federal Reserve Bank in the Federal Reserve District encompassing Minnesota.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.011",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.011",
+            "quote": "If a greater rate of interest than that permitted by subdivision 1 is charged then the entire interest due on that note, bill or other evidence of debt is forfeited. If the greater rate of interest has been paid, the person who paid it may recover in a civil action an amount equal to twice the amount of interest paid.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.011",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.011",
+            "quote": "If the rate of interest charged is permitted by this section at the time the loan was made, that rate of interest does not later become usurious because of a fluctuation in the federal discount rate.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.02",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.02",
+            "quote": "Every person who for any such loan or forbearance shall have paid or delivered any greater sum or value than in section 334.01 allowed to be received may, personally or through personal representatives, recover in an action against the person who shall have received the same, or the receiver's personal representatives, the full amount of interest or premium so paid, with costs, if action is brought within two years after such payment or delivery.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.03",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.03",
+            "quote": "All bonds, bills, notes, mortgages, and all other contracts and securities, and all deposits of goods, or any other thing, whereupon or whereby there shall be reserved, secured, or taken any greater sum or value for the loan or forbearance of any money, goods, or things in action than prescribed, except such instruments which are taken or received in accordance with and in reliance upon the provisions of any statute, shall be void except as to a holder in due course.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.03",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.03",
+            "quote": "This section does not apply when the loan or forbearance is made by a lender and the lender is subject to section 47.59 or 48.196 or chapter 56 in connection with the loan or forbearance.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 334.01",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_334.01",
+            "quote": "In the computation of interest upon any bond, note, or other instrument or agreement, interest shall not be compounded, but any contract to pay interest, not usurious, upon interest overdue, shall not be construed to be usury.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Chapter 334 sections read in full from the published rows, including § 334.011, subd. 5 (charitable-organization loans up to $10,000 at up to 16 percent), § 334.012 (loans secured by savings accounts) and § 334.06 (profit-sharing advances and banks for cooperatives), which are not quoted. Section 334.01, subd. 3 exempts ERISA plan loans entered into on or after December 31, 1974. Sections 47.59, 48.196, 58.137, 47.20 and chapters 51A, 52, 53 and 56 are named in the quoted text but were NOT read for this row, so nothing here states what rates those regimes allow. No Minnesota case is cited; the rule and trap rest on the statutory text alone. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "venue-selection",
+    "rule_id": "mn-forum-clauses-enforced-unless-unfair-plus-two-statutory-voids",
+    "question": "Will a Minnesota court enforce the clause requiring suit somewhere else?",
+    "rule": "Generally yes. The Supreme Court held in Hauenstein that when the parties to a contract agree that actions arising from that contract will be brought in a particular forum, that agreement should be given effect unless the party seeking to avoid it shows that to do so would be unfair or unreasonable, expressly overruling Detwiler to the extent it was inconsistent. Unreasonableness falls into three categories: the chosen forum is a seriously inconvenient place for trial; the choice-of-forum agreement is one of adhesion; or the agreement is otherwise unreasonable. Two Minnesota statutes void such clauses in specific contracts. In a building and construction contract to be performed in Minnesota, a provision requiring that any litigation, arbitration or other dispute resolution process on the contract occur in another state is void and unenforceable (Minn. Stat. § 337.10, subd. 1). And an employer must not require an employee who primarily resides and works in Minnesota, as a condition of employment, to agree to a provision requiring the employee to adjudicate outside Minnesota a claim arising in Minnesota; such a provision is voidable at any time by the employee, and adjudication for this purpose includes litigation AND arbitration (§ 181.988, subd. 3).",
+    "trap": "The inconvenience argument almost never works, because Hauenstein set the bar at The Bremen's: for the chosen forum to be 'seriously inconvenient' one party would have to be 'effectively deprived of a meaningful day in court'. Adhesion is the more promising attack — forum clauses in take-it-or-leave-it contracts that are the product of unequal bargaining power between the parties are unreasonable — but Hauenstein found no adhesion where the clause was boilerplate in a printed form, because the appellant had not shown a great disparity in bargaining power, no opportunity for negotiation, or that the goods could not be obtained elsewhere. The third category is the one to plead in a Minnesota case: enforcement is unreasonable where it 'would contravene a strong public policy of the forum in which suit is brought, whether declared by statute or by judicial decision' — which is where §§ 337.10 and 181.988 do their work. Note the limits those sections state themselves: § 337.10, subd. 1 reaches a 'building and construction contract' as defined in § 337.01, subd. 2, and § 181.988, subd. 3(e) says 'This subdivision applies only to claims arising under this section.' Hauenstein also held that asserting counterclaims and cross-claims does not waive a forum selection clause, because waiver is an intentional relinquishment of a known right that must clearly appear.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "320 N.W.2d 886",
+        "name": "Hauenstein & Bermeister, Inc. v. Met-Fab Industries, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "f21b16d5c2c45f66",
+            "cl_opinion_id": "1752372",
+            "quote": "We agree with these authorities and therefore hold that when the parties to a contract agree that actions arising from that contract will be brought in a particular forum, that agreement should be given effect unless it is shown by the party seeking to avoid the agreement that to do so would be unfair or unreasonable. To the extent that Detwiler is inconsistent with our opinion, it is overruled.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "320 N.W.2d 886",
+        "name": "Hauenstein & Bermeister, Inc. v. Met-Fab Industries, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "f21b16d5c2c45f66",
+            "cl_opinion_id": "1752372",
+            "quote": "The elements of unreasonableness can be divided into three categories: (1) the chosen forum is a seriously inconvenient place for trial; (2) the choice of forum agreement is one of adhesion; and (3) the agreement is otherwise unreasonable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "320 N.W.2d 886",
+        "name": "Hauenstein & Bermeister, Inc. v. Met-Fab Industries, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "f21b16d5c2c45f66",
+            "cl_opinion_id": "1752372",
+            "quote": "the Supreme Court stated that for the chosen forum to be “seriously inconvenient,” one party would have to be “effectively deprived of a meaningful day in court.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "320 N.W.2d 886",
+        "name": "Hauenstein & Bermeister, Inc. v. Met-Fab Industries, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "f21b16d5c2c45f66",
+            "cl_opinion_id": "1752372",
+            "quote": "Forum selection clauses in contracts which are termed adhesion — “take-it-or-leave-it” — contracts and which are the product of unequal bargaining power between the parties are unreasonable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "320 N.W.2d 886",
+        "name": "Hauenstein & Bermeister, Inc. v. Met-Fab Industries, Inc.",
+        "court": "Minn.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "f21b16d5c2c45f66",
+            "cl_opinion_id": "1752372",
+            "quote": "would contravene a strong public policy of the forum in which suit is brought, whether declared by statute or by judicial decision.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 337.10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_337.10",
+            "quote": "Provisions contained in, or executed in connection with, a building and construction contract to be performed in Minnesota making the contract subject to the laws of another state or requiring that any litigation, arbitration, or other dispute resolution process on the contract occur in another state are void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "An employer must not require an employee who primarily resides and works in Minnesota, as a condition of employment, to agree to a provision in an agreement or contract that would do either of the following: (1) require the employee to adjudicate outside of Minnesota a claim arising in Minnesota; or (2) deprive the employee of the substantive protection of Minnesota law with respect to a controversy arising in Minnesota.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "Any provision of a contract or agreement that violates paragraph (a) is voidable at any time by the employee and if a provision is rendered void at the request of the employee, the matter shall be adjudicated in Minnesota and Minnesota law shall govern the dispute.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Minn. Stat. § 181.988",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "mn-stat_181.988",
+            "quote": "For purposes of this section, adjudication includes litigation and arbitration. (e) This subdivision applies only to claims arising under this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Hauenstein: opinion by Amdahl, C.J.; the published row contains no separate opinion. Hauenstein is the case doing the overruling (of Detwiler v. Lowden). Good-law scan for opinions after 1982-06-25 citing 320 N.W.2d 886: 25 later opinions, 1 flag-word window, read (a 1986 Minn. App. decision following Hauenstein's waiver definition). No negative treatment. The waiver sentence in the trap is Hauenstein's own holding on the facts of that case. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect."
+  },
+  {
+    "jurisdiction": "mn",
+    "clause": "warranty-disclaimer",
+    "rule_id": "mn-as-is-effective-unless-circumstances-indicate-otherwise",
+    "question": "Does our 'AS IS, NO WARRANTY' language actually disclaim the implied warranties in a Minnesota sale of goods?",
+    "rule": "Under the UCC text as the Minnesota Supreme Court quoted it in Sorchaga: Minn. Stat. § 336.2-314 implies a warranty of merchantability in all contracts for the sale of goods unless the parties exclude or modify it; parties may exclude the implied warranty of merchantability with a written and conspicuous disclaimer under § 336.2-316(2); and such a disclaimer is far-reaching because under § 336.2-316(3)(a), 'unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like as is.' The Court held that a seller's fraudulent statements about the fitness of the goods for the purpose for which they were purchased are a circumstance that makes 'as is' disclaimers of implied warranties ineffective under § 336.2-316(3)(a).",
+    "trap": "Sorchaga is a fraud case and the Court fenced it: 'This case involves fraud. We express no opinion about other cases not before us, but not all misstatements will constitute fraud.' So the holding does not say that any misdescription, puffery or mistake defeats an 'as is' clause — it says proven fraud about fitness is a 'circumstance' under subdivision (3)(a). The older Minnesota authority points the same way but must be read for what it is: in Dougall the Court said 'the thrust of our decisions has been to protect the buyer from obscure and inconspicuous disclaimers by giving the buyer the benefit of the implied warranty where it is reasonable to do so', and quoted the text of § 336.2-316 requiring a merchantability disclaimer to MENTION MERCHANTABILITY and be conspicuous in a writing, and a fitness disclaimer to be by a writing and conspicuous — but Dougall was decided under the pre-UCC Uniform Sales Act (Minn. St. 1961, § 512.15), and its reference to § 336.2-316 is an observation that the new statute is consistent with the Court's decisions, not a holding under it. On the facts, Dougall refused to give effect to a disclaimer printed on the inside back cover of an owner's manual that the seller did not show was delivered at the time of sale. Minn. Stat. ch. 336 is not in our published statute shard, so the statutory text here is only what these opinions quote, and the definition of 'conspicuous' is not established for Minnesota in this store.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "909 N.W.2d 550",
+        "name": "Sorchaga v. Ride Auto, LLC",
+        "court": "Minn.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "57d05e3c090437e5",
+            "cl_opinion_id": "8249381",
+            "quote": "Minnesota Statutes § 336.2-314 implies a warranty of merchantability in all contracts for the sale of goods unless the parties exclude or modify the implied warranty.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "909 N.W.2d 550",
+        "name": "Sorchaga v. Ride Auto, LLC",
+        "court": "Minn.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "57d05e3c090437e5",
+            "cl_opinion_id": "8249381",
+            "quote": "Parties may exclude the implied warranty of merchantability with a written and conspicuous disclaimer. Minn. Stat. § 336.2-316 (2). Such a disclaimer is far-reaching: \" unless the circumstances indicate otherwise , all implied warranties are excluded by expressions like 'as is.'",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "909 N.W.2d 550",
+        "name": "Sorchaga v. Ride Auto, LLC",
+        "court": "Minn.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "57d05e3c090437e5",
+            "cl_opinion_id": "8249381",
+            "quote": "we hold that Ride Auto's fraudulent statements about the fitness of the truck for the purpose for which a truck is purchased are a circumstance that make the \"as is\" disclaimers of implied warranties in the purchase documents ineffective under Minn. Stat. § 336.2-316 (3)(a).",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "909 N.W.2d 550",
+        "name": "Sorchaga v. Ride Auto, LLC",
+        "court": "Minn.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "57d05e3c090437e5",
+            "cl_opinion_id": "8249381",
+            "quote": "This case involves fraud. We express no opinion about other cases not before us, but not all misstatements will constitute fraud.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "178 N.W.2d 217",
+        "name": "Dougall v. Brown Bay Boat Works and Sales, Inc.",
+        "court": "Minn.",
+        "decided": "1970",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "4a3c6199054563ad",
+            "cl_opinion_id": "1939182",
+            "quote": "to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, *298 and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "178 N.W.2d 217",
+        "name": "Dougall v. Brown Bay Boat Works and Sales, Inc.",
+        "court": "Minn.",
+        "decided": "1970",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "4a3c6199054563ad",
+            "cl_opinion_id": "1939182",
+            "quote": "the thrust of our decisions has been to protect the buyer from obscure and inconspicuous disclaimers by giving the buyer the benefit of the implied warranty where it is reasonable to do so.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "178 N.W.2d 217",
+        "name": "Dougall v. Brown Bay Boat Works and Sales, Inc.",
+        "court": "Minn.",
+        "decided": "1970",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mn",
+            "row_id": "4a3c6199054563ad",
+            "cl_opinion_id": "1939182",
+            "quote": "We are not persuaded here that the warranty found on the back cover of the Evinrude brochure played any part in the transaction giving rise to the sale. There is no evidence that the warranty was delivered to plaintiff at the time of the sale or that he was told that the sale was subject to warranties contained in the manual of instructions.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Sorchaga: opinion by Gildea, C.J.; the published row contains no separate opinion. Dougall: opinion by Murphy, J.; no separate opinion. The Sorchaga quote of § 336.2-316(3)(a) appears in the published row with the Court's own emphasis and spacing ('\" unless the circumstances indicate otherwise , all implied warranties are excluded...\"') and is quoted exactly as published. Good-law scans: Sorchaga, 5 later opinions citing 909 N.W.2d 550, 0 flag windows; Dougall, 4 later opinions citing 178 N.W.2d 217 (both reporter styles), 0 flag windows. No negative treatment. Untagged: whether Article 2 governs a mixed goods-and-services transaction is a question this row does not answer. Our published Minnesota statute shard (docketx/us-statutes, jurisdiction mn, 13,318 sections) contains only numerically numbered chapters: it holds NO chapter 336 (the Minnesota UCC), no 325D/325F/325G (consumer protection), no 325C (trade secrets), no 325L (UETA), no 572B (arbitration) and no 80C (franchises). Where a rule turns on one of those chapters, the only text available to this store is what a Minnesota court quoted, and the row says so. The store holds no statute effective dates for any jurisdiction, so no sentence here states when a section took effect. HOLDING SWEEP 2026-09-22 (every rule/trap sentence stating what a named cited case held, scored against the case's quoted blocks; the 120 lowest-overlap sentences read against the opinions on the corpus host): the trap's Dougall facts (disclaimer on the inside back cover of an owner's manual, no evidence it was delivered at the time of sale) are the opinion's; block added."
+  }
+]

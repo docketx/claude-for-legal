@@ -1,0 +1,848 @@
+[
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_adoption_step_child_html_6423fd89",
+    "kind": "self-help-guide",
+    "title": "Adopting a Minor Stepchild",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/adoption/step-child.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_support_html_52cc1601",
+    "kind": "self-help-guide",
+    "title": "Child Support",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/support.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_modification_child_support_html_2fcf4ebe",
+    "kind": "self-help-guide",
+    "title": "Modifying Child Support",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/modification/child-support.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_legal_help_procedures_filing_motions_enforcement_html_889cf777",
+    "kind": "self-help-guide",
+    "title": "Motion to Enforce Order",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/filing/motions/enforcement.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_foreign_order_html_a28f56b3",
+    "kind": "self-help-guide",
+    "title": "Registering a Foreign Child Custody or Child Support Order",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/foreign-order.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "UT_instructions_content_dam_howto_family_modification_child_support_docs_99_1_Support_Modification_Jurisdiction_Chart_pdf_2d1be0b8",
+    "kind": "instructions",
+    "title": "Support Modification Jurisdiction Chart",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/howto/family/modification/child_support/docs/99_1_Support_Modification_Jurisdiction_Chart.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_temporary_separation_html_be8e1a07",
+    "kind": "self-help-guide",
+    "title": "Temporary Separation",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/temporary-separation.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_gc_help_with_a_guardianship_or_conservatorship_html_c20615f3",
+    "kind": "self-help-guide",
+    "title": "Asking for Help with a Guardianship or Conservatorship",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/gc/help-with-a-guardianship-or-conservatorship.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_gc_change_or_end_html_2be64814",
+    "kind": "self-help-guide",
+    "title": "Changing or Ending a Guardianship or Conservatorship",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/gc/change-or-end.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_custody_html_30f50520",
+    "kind": "self-help-guide",
+    "title": "Child Custody and Parent-Time",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/custody.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_gc_conservatorship_minor_html_a163ca07",
+    "kind": "self-help-guide",
+    "title": "Conservatorship of a Minor",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/gc/conservatorship/minor.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_Custody_Cases_html_be3155a3",
+    "kind": "self-help-guide",
+    "title": "Custody Cases",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/Custody-Cases.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_custody_evaluation_html_bbbf6117",
+    "kind": "self-help-guide",
+    "title": "Custody Evaluation",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/custody-evaluation.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_law_do_i_get_to_choose_whom_i_live_with_html_5f4785c9",
+    "kind": "self-help-guide",
+    "title": "Do I Get to Choose Whom I Live With?",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/law/do-i-get-to-choose-whom-i-live-with.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_law_do_i_have_to_visit_both_parents_html_11d5db1c",
+    "kind": "self-help-guide",
+    "title": "Do I Have to Visit Both Parents?",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/law/do-i-have-to-visit-both-parents.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_gc_guardianship_minor_html_fddb2d14",
+    "kind": "self-help-guide",
+    "title": "Guardianship of a Minor Child",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/gc/guardianship/minor.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_informal_trial_html_282bb750",
+    "kind": "self-help-guide",
+    "title": "Informal Trial of Support, Custody and Parent-Time",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/informal-trial.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_instructions_content_dam_howto_family_parentage_docs_Jurisdiction_20_20Initial_20Custody_20or_20Parent_Time_pdf_d4d0c187",
+    "kind": "instructions",
+    "title": "Jurisdiction to Enter an Initial Custody or Parent-time Order (§78B-13-201)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/howto/family/parentage/docs/Jurisdiction%20-%20Initial%20Custody%20or%20Parent-Time.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_instructions_content_dam_howto_family_modification_parent_time_docs_99_1_Custody_Parent_Time_Modification_Jurisdiction_Chart_pdf_be903c86",
+    "kind": "instructions",
+    "title": "Jurisdiction to Modify a Custody or Parent-time Order",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/howto/family/modification/parent_time/docs/99_1_Custody_Parent_Time_Modification_Jurisdiction_Chart.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_modification_custody_html_dde276b5",
+    "kind": "self-help-guide",
+    "title": "Modifying Custody",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/modification/custody.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_parenting_plans_html_961e675f",
+    "kind": "self-help-guide",
+    "title": "Parenting Plans",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/parenting-plans.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_gc_conservatorship_html_052f16a6",
+    "kind": "self-help-guide",
+    "title": "Procedure for Appointing a Conservator for an Adult",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/gc/conservatorship.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_relocation_html_7435c4bb",
+    "kind": "self-help-guide",
+    "title": "Relocation of a parent in divorce and custody cases",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/relocation.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_html_2d9bb498",
+    "kind": "self-help-guide",
+    "title": "Required Classes for Parents (Divorce, custody, & temporary separation cases)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_instructions_content_dam_howto_family_parentage_docs_custody_roadmap_20_20100A_pdf_95e209d3",
+    "kind": "instructions",
+    "title": "Roadmap for custody cases",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/howto/family/parentage/docs/custody_roadmap%20-%20100A.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_juvenile_html_c738874e",
+    "kind": "self-help-guide",
+    "title": "Self-Help Resources / Juvenile Justice",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/juvenile.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_services_military_html_5118b59b",
+    "kind": "self-help-guide",
+    "title": "Self-Help Resources / Military and Veterans",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/services/military.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_legal_help_procedures_service_mexico_html_38b9eda4",
+    "kind": "self-help-guide",
+    "title": "Service of Divorce/Custody Papers in Mexico",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/service/mexico.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_law_who_decides_how_i_split_my_time_html_a77bb516",
+    "kind": "self-help-guide",
+    "title": "Who Decides How I Split My Time Between My Parents?",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/law/who-decides-how-i-split-my-time.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_annulment_html_bfd61725",
+    "kind": "self-help-guide",
+    "title": "Annulment",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/annulment.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_specproj_dived_calendars_2026_08_pdf_76d382a5",
+    "kind": "instructions",
+    "title": "August 2026",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/specproj/dived/calendars/2026-08.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_howto_family_Divorce_20Checklist_20_20Children_pdf_6f2caa72",
+    "kind": "instructions",
+    "title": "CHECKLIST FOR DIVORCE (WITH CHILDREN)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/howto/family/Divorce%20Checklist%20-%20Children.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_howto_family_Divorce_20Checklist_20_20No_20Children_pdf_c3b64922",
+    "kind": "instructions",
+    "title": "CHECKLIST FOR DIVORCE (WITHOUT CHILDREN)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/howto/family/Divorce%20Checklist%20-%20No%20Children.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_answer_counterpetitions_html_e38a5dbe",
+    "kind": "self-help-guide",
+    "title": "Counterclaims and Counterpetitions",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/answer/counterpetitions.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_debt_html_746a6726",
+    "kind": "self-help-guide",
+    "title": "Debt Division",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/debt.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_html_8969dd3e",
+    "kind": "self-help-guide",
+    "title": "Divorce",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_children_html_c54027b8",
+    "kind": "self-help-guide",
+    "title": "Divorce Education for Children Online",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/children.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_why_am_i_here_its_not_your_fault_html_70739f41",
+    "kind": "self-help-guide",
+    "title": "It’s not your fault",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/why-am-i-here/its-not-your-fault.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_specproj_dived_calendars_2026_07_pdf_112103c8",
+    "kind": "instructions",
+    "title": "July 2026",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/specproj/dived/calendars/2026-07.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_specproj_dived_calendars_2026_06_pdf_bc5b2cbc",
+    "kind": "instructions",
+    "title": "June 2026",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/specproj/dived/calendars/2026-06.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_modification_divorce_html_d4ab916f",
+    "kind": "self-help-guide",
+    "title": "Modification of a Divorce Decree",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/modification/divorce.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_legal_help_procedures_filing_motions_consolidate_html_1b83354c",
+    "kind": "self-help-guide",
+    "title": "Motion to Consolidate",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/filing/motions/consolidate.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_legal_help_procedures_filing_motions_bifurcate_divorce_html_791805f0",
+    "kind": "self-help-guide",
+    "title": "Motion to Grant Divorce and Decide Other Issues Later (Bifurcate Divorce)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/filing/motions/bifurcate-divorce.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_waiting_period_html_4930c27d",
+    "kind": "self-help-guide",
+    "title": "Motion to Waive Divorce Waiting Period",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/waiting-period.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_services_mycase_mypaperwork_html_7ec395bd",
+    "kind": "self-help-guide",
+    "title": "MyPaperwork",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/services/mycase/mypaperwork.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_services_mypaperwork_html_8365bc6f",
+    "kind": "self-help-guide",
+    "title": "MyPaperwork",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/services/mypaperwork.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_resources_recommended_books_html_65b5143b",
+    "kind": "self-help-guide",
+    "title": "Recommended Books",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/resources/recommended-books.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_howto_divorce_docs_Divorce_20Roadmap_20_20100A_pdf_aef4450b",
+    "kind": "instructions",
+    "title": "Roadmap for divorce cases",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/howto/divorce/docs/Divorce%20Roadmap%20-%20100A.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_howto_divorce_docs_Divorce_Certificate_pdf_823d96b6",
+    "kind": "instructions",
+    "title": "STATE OF UTAH - DEPARTMENT OF HEALTH",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/howto/divorce/docs/Divorce_Certificate.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_specproj_dived_calendars_2026_09_pdf_af720c55",
+    "kind": "instructions",
+    "title": "September 2026",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/specproj/dived/calendars/2026-09.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_why_am_i_here_still_your_family_html_ddc4a7a3",
+    "kind": "self-help-guide",
+    "title": "Still Your Family",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/why-am-i-here/still-your-family.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_emotions_types_of_feelings_html_1bca5f6d",
+    "kind": "self-help-guide",
+    "title": "Types of Feelings (Am I Normal)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/emotions/types-of-feelings.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_specproj_dived_docs_Divorce_Education_for_Children_Flyer_pdf_60114891",
+    "kind": "instructions",
+    "title": "UTAH STATE COURTS",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/specproj/dived/docs/Divorce_Education_for_Children_Flyer.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_why_am_i_here_what_wont_change_html_9deb51d5",
+    "kind": "self-help-guide",
+    "title": "What Won't Change",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/why-am-i-here/what-wont-change.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_law_what_are_my_rights_html_aae43004",
+    "kind": "self-help-guide",
+    "title": "What are My Rights? (Children Bill of Rights of Divorcing Parents)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/law/what-are-my-rights.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_dived_teen_page_why_am_i_here_what_will_change_html_96f79ccb",
+    "kind": "self-help-guide",
+    "title": "What will Change",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/dived/teen-page/why-am-i-here/what-will-change.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_instructions_content_dam_specproj_dived_docs_Divorce_Education_for_Children_Brochure_pdf_9636ccc0",
+    "kind": "instructions",
+    "title": "Why?                                            *Pre-registration is mandatory",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/content/dam/specproj/dived/docs/Divorce_Education_for_Children_Brochure.pdf",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_adoption_html_a54bb769",
+    "kind": "self-help-guide",
+    "title": "Adoption",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/adoption.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_adoption_adult_adoption_html_d0d48220",
+    "kind": "self-help-guide",
+    "title": "Adult Adoption",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/adoption/adult-adoption.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_juvenile_emancipation_html_22d6c82b",
+    "kind": "self-help-guide",
+    "title": "Emancipation",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/juvenile/emancipation.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_resources_glossary_html_368dfbe6",
+    "kind": "self-help-guide",
+    "title": "Glossary of Legal Terms",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/resources/glossary.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_adoption_records_html_e760839a",
+    "kind": "self-help-guide",
+    "title": "How to Look at and Get Copies of Sealed Adoption Records",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/adoption/records.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_marriage_common_law_html_830cc145",
+    "kind": "self-help-guide",
+    "title": "Judicial Recognition of a Relationship as a Marriage",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/marriage/common-law.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_marriage_html_80bf375f",
+    "kind": "self-help-guide",
+    "title": "Marriage",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/marriage.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_adoption_intervene_html_9e1b84bc",
+    "kind": "self-help-guide",
+    "title": "Motion to Intervene in Adoption",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/adoption/intervene.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_adoption_sealing_html_455c667d",
+    "kind": "self-help-guide",
+    "title": "Sealing a Court Adoption Record",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/adoption/sealing.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_html_eccde3f0",
+    "kind": "self-help-guide",
+    "title": "Self-Help Resources / Families and Children",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_icwa_html_8a5ad9fb",
+    "kind": "self-help-guide",
+    "title": "Tribal Rights in Court under ICWA",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/icwa.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_name_change_html_59d81a85",
+    "kind": "self-help-guide",
+    "title": "Name Change Forms & Instructions (Adults and Minors)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/name-change.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_legal_help_procedures_filing_info_change_html_42a7a6d5",
+    "kind": "self-help-guide",
+    "title": "Notifying the Court of Address, Contact Information, or Name Changes",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/filing/info-change.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_domestic_relations_injunction_html_bdf7764d",
+    "kind": "self-help-guide",
+    "title": "Domestic Relations Injunction",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/domestic-relations-injunction.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_modification_parent_time_html_e0cfee2a",
+    "kind": "self-help-guide",
+    "title": "Modifying Parent-Time",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/modification/parent-time.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_paternity_genetic_testing_html_b7dba728",
+    "kind": "self-help-guide",
+    "title": "Motion for Genetic Testing",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/paternity/genetic-testing.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_temporary_order_html_721f6f8f",
+    "kind": "self-help-guide",
+    "title": "Motion for Temporary Order",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/temporary-order.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_services_ocap_html_984bb56c",
+    "kind": "self-help-guide",
+    "title": "Online Court Assistance Program (OCAP)",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/services/ocap.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_parentage_html_a58608dc",
+    "kind": "self-help-guide",
+    "title": "Parentage",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/parentage.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_paternity_html_40e54959",
+    "kind": "self-help-guide",
+    "title": "Paternity",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/paternity.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_legal_help_procedures_filing_motions_enforcement_ors_html_586b7efd",
+    "kind": "self-help-guide",
+    "title": "Registering an Office of Recovery Services (ORS) Support Order",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/filing/motions/enforcement/ors.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_property_html_da0b737f",
+    "kind": "self-help-guide",
+    "title": "Property Division",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/property.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "property"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_tro_html_21691877",
+    "kind": "self-help-guide",
+    "title": "Application for Temporary Restraining Order",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/tro.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_child_html_8e120b88",
+    "kind": "self-help-guide",
+    "title": "Child Protective Orders",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/child.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_civil_stalking_html_5b74fcb9",
+    "kind": "self-help-guide",
+    "title": "Civil Stalking Injunction",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/civil-stalking.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_expunge_html_9e2448f5",
+    "kind": "self-help-guide",
+    "title": "Expunging Civil Protective Orders and Civil Stalking Injunctions",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/expunge.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_pro_order_lawyer_html_409d61c0",
+    "kind": "self-help-guide",
+    "title": "Getting a Lawyer",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/pro-order/lawyer.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_pro_order_safety_plan_html_21d814d4",
+    "kind": "self-help-guide",
+    "title": "Planning for Your Safety",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/pro-order/safety-plan.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_html_d7427917",
+    "kind": "self-help-guide",
+    "title": "Protection from Abuse",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_protective_orders_html_14c49cf0",
+    "kind": "self-help-guide",
+    "title": "Protective Orders",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/protective-orders.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_criminal_justice_delinking_html_9836e192",
+    "kind": "self-help-guide",
+    "title": "Removing personal identifying information from dismissed criminal court case, denied request for civil protective order or civil stalking injunction",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/criminal-justice/delinking.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_html_41a4bb10",
+    "kind": "self-help-guide",
+    "title": "Self-Help Resources / Self-Represented Parties",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_pro_order_shelters_html_b8182860",
+    "kind": "self-help-guide",
+    "title": "Shelters and Domestic Violence Services",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/pro-order/shelters.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_protect_order_work_viol_html_e5d077ea",
+    "kind": "self-help-guide",
+    "title": "Workplace Violence Protective Orders",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/protect-order/work-viol.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_legal_help_procedures_filing_summons_html_764931cf",
+    "kind": "self-help-guide",
+    "title": "Summons",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/legal-help/procedures/filing/summons.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "service"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_alimony_html_9ef64bee",
+    "kind": "self-help-guide",
+    "title": "Alimony",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/alimony.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "spousal-support"
+  },
+  {
+    "id": "UT_self-help-guide_en_self_help_case_categories_family_divorce_separate_maintenance_html_f470bf70",
+    "kind": "self-help-guide",
+    "title": "Separate Maintenance",
+    "court": "Utah State Courts (Self-Help)",
+    "source_url": "https://www.utcourts.gov/en/self-help/case-categories/family/divorce/separate-maintenance.html",
+    "license": "official Utah State Courts publication; no license asserted on the source",
+    "topic": "spousal-support"
+  }
+]

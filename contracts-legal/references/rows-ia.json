@@ -1,0 +1,1982 @@
+[
+  {
+    "jurisdiction": "ia",
+    "clause": "anti-assignment",
+    "rule_id": "ia-554-9406-receivables-restrictions-ineffective",
+    "question": "Will an Iowa court give effect to a clause barring assignment or requiring the other side's consent?",
+    "rule": "Not as to receivables and promissory notes. Except as subsections 5 and 10A and sections 554.9407 and 554.13303 provide, and subject to subsection 8, a term in an agreement between an account debtor and an assignor, or in a promissory note, is ineffective to the extent it prohibits, restricts or requires the consent of the account debtor or the person obligated on the note to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, the account, chattel paper, payment intangible or promissory note (Iowa Code § 554.9406(4)(a)). Subsection 4 does not apply to the sale of a payment intangible or promissory note other than a sale on a disposition under § 554.9610 or an acceptance of collateral under § 554.9620 (§ 554.9406(5)); the section is subject to law other than article 9 that sets a different rule for an account debtor who is an individual and incurred the obligation primarily for personal, family or household purposes (§ 554.9406(8)); and subsections 4, 6 and 10 do not apply to a security interest in an ownership interest in a general partnership, limited partnership or limited liability company (§ 554.9406(10A)).",
+    "trap": "A consent-to-assign clause in the contract that generates the receivable does not stop the counterparty's lender from taking or enforcing a security interest in it. What § 554.9406(4) does not disable is a restriction on rights that are not accounts, chattel paper, payment intangibles or promissory notes; a sale of a payment intangible or note outside § 554.9610 or § 554.9620; an individual consumer account debtor governed by other law; and a security interest in a partnership, limited partnership or LLC ownership interest. Subsection 4 is also expressly subject to §§ 554.9407 and 554.13303, which this rule names and does not describe.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.9406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_9406",
+            "quote": "Except as otherwise provided in subsections 5 and 10A and sections 554.9407 and 554.13303, and subject to subsection 8, a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: a. prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.9406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_9406",
+            "quote": "Subsection 4 does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under section 554.9610 or an acceptance of collateral under section 554.9620.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.9406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_9406",
+            "quote": "This section is subject to law other than this Article which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.9406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_9406",
+            "quote": "Subsections 4, 6, and 10 do not apply to a security interest in an ownership interest in a general partnership, limited partnership, or limited liability company.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Read in full: Iowa Code § 554.9406, including subsections 1-3 (discharge by paying the assignor until notification, when notification is ineffective, proof of assignment), 6 (legal restrictions on assignment of accounts and chattel paper ineffective), 7, 9 (health-care-insurance receivables), 10 (this section prevails over inconsistent Iowa statutes unless they refer expressly to it) and 11 (controllable accounts and controllable payment intangibles). Sections 554.9407 and 554.13303, which subsection 4 is expressly subject to, were NOT read and are named rather than described. NOT established: whether a transfer made in breach of a general no-assignment clause outside § 554.9406 is void or merely a breach; no Iowa decision is cited here on that point. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "arbitration",
+    "rule_id": "ia-679a-1-carve-outs-and-faa-preemption",
+    "question": "Is the arbitration clause in our Iowa contract enforceable?",
+    "rule": "As a matter of Iowa statute, a provision in a written contract to submit a future controversy to arbitration is valid, enforceable and irrevocable unless grounds exist at law or in equity for revocation of the contract — but Iowa Code § 679A.1(2) says that subsection \"shall not apply to\" a contract of adhesion, a contract between employers and employees, or, unless otherwise provided in a separate writing executed by all parties, any claim sounding in tort whether or not involving a breach of contract. A written agreement to arbitrate an existing controversy is valid, enforceable and irrevocable on the same revocation proviso (§ 679A.1(1)). Federal law can displace all of that: in Heaberlin Farms, Inc. v. IGF Insurance Co. the Iowa Supreme Court found it unnecessary to decide whether the policy was an adhesion contract within § 679A.1 \"because of our view that the FAA preempts the Iowa act\", and held that if the federal act is applicable it preempts the Iowa statute by operation of the Supremacy Clause.",
+    "trap": "The three carve-outs in § 679A.1(2) are the Iowa surprise: on the statute's own words, a pre-dispute arbitration clause in an adhesion contract, in a contract between employer and employee, or covering tort claims is outside the subsection that makes future-controversy clauses enforceable. The tort carve-out has an escape the drafter can take — a separate writing executed by all parties to the contract. And the state-law answer is only half the question: Heaberlin Farms turned on preemption, and the FAA reaches a written provision in a contract evidencing a transaction involving commerce, so whether a particular Iowa contract is such a transaction decides which rule applies. This rule does not answer that for any given contract.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 679A.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_679A_1",
+            "quote": "A written agreement to submit to arbitration an existing controversy is valid, enforceable, and irrevocable unless grounds exist at law or in equity for the revocation of the written agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 679A.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_679A_1",
+            "quote": "A provision in a written contract to submit to arbitration a future controversy arising between the parties is valid, enforceable, and irrevocable unless grounds exist at law or in equity for the revocation of the contract. This subsection shall not apply to any of the following: a. A contract of adhesion. b. A contract between employers and employees. c. Unless otherwise provided in a separate writing executed by all parties to the contract, any claim sounding in tort whether or not involving a breach of contract.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "641 N.W.2d 816",
+        "name": "Heaberlin Farms, Inc. v. IGF Insurance Co.",
+        "court": "Iowa",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "4a7b4da162110eb6",
+            "cl_opinion_id": "1804230",
+            "quote": "We find it unnecessary to address IGF’s third claim (that this policy is not an adhesion contract within the meaning of Iowa Code section 679A.1) because of our view that the FAA preempts the Iowa act.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "641 N.W.2d 816",
+        "name": "Heaberlin Farms, Inc. v. IGF Insurance Co.",
+        "court": "Iowa",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "4a7b4da162110eb6",
+            "cl_opinion_id": "1804230",
+            "quote": "Thus, if the federal act is applicable, it preempts the Iowa statute by operation of the Supremacy Clause.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Read in full: Iowa Code §§ 679A.1 and 679A.2 (proceedings to compel or stay arbitration). Heaberlin Farms read for the preemption holding and its interstate-commerce analysis; the row contains no dissent. A later Iowa Supreme Court decision, Bartlett Grain Co., LP v. Sheeder, 829 N.W.2d 18 (Iowa 2013), describes Heaberlin as \"finding that Iowa Code section 679A.1(2)(a) was preempted by the FAA to the extent it does not enforce arbitration agreements in 'adhesion contracts'\"; that parenthetical is not quoted as an authority here. NOT established: whether § 679A.1(2)(b) (employer-employee contracts) or § 679A.1(2)(c) (tort claims) is preempted, which Heaberlin did not decide; and whether any particular contract is a \"contract of adhesion\" for the statute, which Heaberlin expressly did not reach. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "attorney-fees",
+    "rule_id": "ia-625-22-judgment-on-a-written-contract-plus-the-625-24-affidavit",
+    "question": "Will an Iowa court make the losing side pay our fees under the contract's fee clause?",
+    "rule": "On the statute's terms, yes. When judgment is recovered upon a written contract containing an agreement to pay an attorney fee, the court shall allow and tax as part of the costs a reasonable attorney fee to be determined by the court (Iowa Code § 625.22(1)). The Supreme Court described that section in Van Sloun v. Agans Bros., Inc. as meaning that when attorney fees are permitted under a contract provision, the court is permitted to tax a reasonable amount of those fees as a part of costs. The fee allowed under §§ 625.22 and 625.23 shall not be taxed in any case unless it appears by affidavit of the attorney that there is not and has not been an agreement between the attorney and the client or any other person, express or implied, for any division or sharing of the fee to be taxed; the affidavit must be filed before any fees are taxed, and when fees are taxed they are only in favour of a regular attorney and as compensation for services actually rendered in the action (§ 625.24).",
+    "trap": "Two conditions a fee clause cannot supply for itself. Section 625.22(1) is keyed to a judgment recovered upon a WRITTEN contract containing a fee agreement, so its words do not reach an oral contract or a fee sought where no judgment on the contract was recovered. And § 625.24 makes the fee-splitting affidavit a precondition to taxing the fee at all, filed before the taxing — a step that is easy to miss because it has nothing to do with the contract. The section is about fees taxed as costs, and it fixes the amount as one the court determines to be reasonable, not the amount the clause names.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 625.22",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_625_22",
+            "quote": "When judgment is recovered upon a written contract containing an agreement to pay an attorney fee, the court shall allow and tax as a part of the costs a reasonable attorney fee to be determined by the court.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 625.24",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_625_24",
+            "quote": "The attorney fee allowed in sections 625.22 and 625.23 shall not be taxed in any case unless it appears by affidavit of the attorney that there is not and has not been an agreement between the attorney and the attorney’s client or any other person, express or implied, for any division or sharing of the fee to be taxed.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 625.24",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_625_24",
+            "quote": "The affidavit shall be filed prior to any attorney fees being taxed. When fees are taxed, they shall be only in favor of a regular attorney and as compensation for services actually rendered in the action.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "778 N.W.2d 174",
+        "name": "Van Sloun v. Agans Bros., Inc.",
+        "court": "Iowa",
+        "decided": "2010",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "06e64b9aaabe446a",
+            "cl_opinion_id": "1897531",
+            "quote": "Iowa Code section 625.22 declares that when attorney fees are permitted under a contract provision, the court is permitted to tax a reasonable amount of those fees as a part of costs.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Read in full: Iowa Code §§ 625.22 and 625.24. Section 625.22(2), a separate rule for actions on a dishonoured check or draft, is not part of this rule. Van Sloun is Iowa Supreme Court majority text (\"All justices concur\" appears in the row; no dissent). Section 625.23, cross-referenced by § 625.24, was NOT read. NOT established: how an Iowa court treats a prevailing-party clause where the claimant wins but recovers no judgment on the contract, and whether a fee award can exceed what is taxable as costs under this chapter. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "choice-of-law",
+    "rule_id": "ia-restatement-second-choice-plus-two-statutory-voids",
+    "question": "Will an Iowa court apply the law our contract chooses?",
+    "rule": "Generally yes, under the Restatement (Second). In Cole v. State Automobile & Casualty Underwriters the Supreme Court held that \"choice-of-law questions are now to be determined under the Restatement (Second) test: intent of the parties or the most significant relationship\", and set out the two general rules: first, with certain restrictions, contracting parties can themselves determine the law which is to control; second, where the parties do not make the choice, the court applies the law of the jurisdiction with the \"most significant relationship\" to the transaction in dispute. Within the Iowa UCC, § 554.1301(1) lets the parties agree that the law of Iowa or of another state or nation governs when the transaction bears a reasonable relation to Iowa and also to that other state or nation. Two Iowa statutes take specific contracts out of party choice: a provision of an in-state construction contract that makes the contract subject to the laws of another state is void and unenforceable as contrary to public policy (§ 537A.6(2)(a)), and a choice-of-law clause in a computer information agreement selecting the law of a state that has enacted UCITA or a substantially similar law is voidable, with Iowa law applied instead, where the party against whom enforcement is sought is an Iowa resident or has its principal place of business in Iowa (§ 554D.125).",
+    "trap": "Cole states the test and names the party-autonomy rule as subject to \"certain restrictions not applicable here\"; it does not set those restrictions out, and neither does this rule. The construction carve-out is the one that bites in practice, because § 537A.6 defines an in-state construction contract broadly — any agreement relating to construction, alteration, repair or maintenance of Iowa real property, including architectural, design, engineering, demolition, development and excavation agreements — and § 554.1301(1) is itself limited to transactions the Iowa UCC governs. A clause choosing another state's law in an Iowa construction contract is not merely disregarded; the statute calls it void and unenforceable as contrary to public policy.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "296 N.W.2d 779",
+        "name": "Cole v. State Automobile & Casualty Underwriters",
+        "court": "Iowa",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "d786a8b0af96ef8c",
+            "cl_opinion_id": "2163952",
+            "quote": "We think it is clear that choice-of-law questions are now to be determined under the Restatement (Second) test: intent of the parties or the most significant relationship.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "296 N.W.2d 779",
+        "name": "Cole v. State Automobile & Casualty Underwriters",
+        "court": "Iowa",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "d786a8b0af96ef8c",
+            "cl_opinion_id": "2163952",
+            "quote": "Under the second Restatement there are two general rules. First, with certain restrictions not applicable here, contracting parties can themselves determine the law which is to control.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "296 N.W.2d 779",
+        "name": "Cole v. State Automobile & Casualty Underwriters",
+        "court": "Iowa",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "d786a8b0af96ef8c",
+            "cl_opinion_id": "2163952",
+            "quote": "The second rule applies where the parties do not make the choice. The court then applies the law of the jurisdiction with the “most significant relationship” to the transaction in dispute.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.1301",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_1301",
+            "quote": "Except as otherwise provided in this section, when a transaction bears a reasonable relation to this state and also to another state or nation the parties may agree that the law either of this state or of such other state or nation shall govern their rights and duties.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_6",
+            "quote": "A provision of an in-state construction contract is void and unenforceable as contrary to public policy if the provision does any of the following: a. Makes the in-state construction contract subject to the laws of another state. b. Requires any litigation, mediation, arbitration, or other dispute resolution proceeding arising from the in-state construction contract to be conducted in another state.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_6",
+            "quote": "As used in this section, “in-state construction contract” means a public, private, foreign, or domestic agreement relating to construction, alteration, repair, or maintenance of any real property in this state and includes agreements for architectural services, demolition, design services, development, engineering services, excavation, or any other improvement to real property in this state, including buildings, shafts, wells, and structures, whether on, above, or under real property in this state.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554D.125",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554D_125",
+            "quote": "A choice of law provision in a computer information agreement which provides that the contract is to be interpreted pursuant to the laws of a state that has enacted the uniform computer information transactions Act, as proposed by the national conference of commissioners on uniform state laws, or any substantially similar law, is voidable and the agreement shall be interpreted pursuant to the laws of this state if the party against whom enforcement of the choice of law provision is sought is a resident of this state or has its principal place of business located in this state.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Read in full: Iowa Code §§ 554.1301 (including subsection 3's list of UCC sections that specify the applicable law and override a contrary agreement), 537A.6 and 554D.125. Cole read in context; the row carries \"All justices concur\" and no dissent. This row deliberately carries no applies_to tag: it mixes a rule for any contract (Cole, § 554.1301) with two limited statutes, and tagging it construction would hide the general rule. NOT established: the content of the Restatement § 187 restrictions on party choice as Iowa applies them, and whether Iowa recognises a public-policy override outside the two statutes quoted. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "ia-537-1107-no-waiver-and-the-714h-private-action",
+    "question": "Can our Iowa consumer contract waive the customer's statutory claims or bar a class action?",
+    "rule": "Not under the Iowa Consumer Credit Code. Except in settlement of a bona fide dispute, a consumer may not waive or agree to forego rights or benefits under chapter 537 (Iowa Code § 537.1107(1)), and a settlement in which the consumer does waive them is invalid if the court as a matter of law finds the settlement to have been unconscionable at the time it was made (§ 537.1107(4)). Separately, a consumer who suffers an ascertainable loss of money or property as the result of a practice prohibited by chapter 714H may bring an action at law to recover actual damages (§ 714H.5(1)), and that action must be brought within two years of the last event giving rise to the cause of action or within two years of discovery of the violation, whichever is later (§ 714H.5(5)). Chapter 714H already restricts class actions without any help from the contract: a class action alleging a violation of the chapter shall not be filed unless the attorney general has approved it, and the attorney general shall approve the filing unless the lawsuit is determined to be frivolous (§ 714H.7).",
+    "trap": "Read the anti-waiver rule at its real width. Section 537.1107(1) bars waiver of rights or benefits \"under this chapter\" — the Iowa Consumer Credit Code — so on its words it says nothing about a waiver of chapter 714H rights, and nothing read here voids such a waiver; that silence is not permission. The settlement exception is real but narrow: a bona fide dispute, settled in good faith, and still open to an unconscionability finding made as of the time of the settlement. On the class-action side, § 714H.7 is a filing gate rather than a ban — the attorney general must approve unless the suit is frivolous — and it says it does not affect the requirements of any other law or of the Iowa rules of civil procedure relating to class actions.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537.1107",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537_1107",
+            "quote": "Except in settlement of a bona fide dispute, a consumer may not waive or agree to forego rights or benefits under this chapter.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537.1107",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537_1107",
+            "quote": "A settlement in which the consumer waives or agrees to forego rights or benefits under this chapter is invalid if the court as a matter of law finds the settlement to have been unconscionable at the time it was made.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 714H.5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_714H_5",
+            "quote": "A consumer who suffers an ascertainable loss of money or property as the result of a prohibited practice or act in violation of this chapter may bring an action at law to recover actual damages.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 714H.5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_714H_5",
+            "quote": "An action pursuant to this chapter must be brought within two years of the occurrence of the last event giving rise to the cause of action under this chapter or within two years of the discovery of the violation of this chapter by the person bringing the action, whichever is later.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 714H.7",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_714H_7",
+            "quote": "A class action lawsuit alleging a violation of this chapter shall not be filed with a court unless it has been approved by the attorney general. The attorney general shall approve the filing of a class action lawsuit alleging a violation of this chapter unless the attorney general determines that the lawsuit is frivolous.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 714H.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_714H_2",
+            "quote": "“Consumer merchandise” means merchandise offered for sale or lease, or sold or leased, primarily for personal, family, or household purposes.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Read in full: Iowa Code §§ 537.1107, 714H.2, 714H.5 and 714H.7. Section 714H.2(3) defines \"consumer\" as a natural person or the person's legal representative and § 714H.2(4) ties the chapter to merchandise for personal, family or household purposes, which is why this rule is tagged consumer. Section 714H.4 (exclusions) was NOT read, and it may take particular transactions out of the chapter. NOT established: whether a pre-dispute waiver of chapter 714H rights is enforceable in Iowa, and whether an arbitration clause with a class waiver is affected by § 714H.7; no Iowa decision on either point is cited here. This store holds no statute effective dates.",
+    "applies_to": [
+      "consumer"
+    ]
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "electronic-signature",
+    "rule_id": "ia-554d-108-electronic-form-is-not-a-defence-subject-to-scope",
+    "question": "Is the contract our Iowa counterparty signed electronically enforceable?",
+    "rule": "Within chapter 554D's scope, yes. A record or signature shall not be denied legal effect or enforceability solely because it is in electronic form, and a contract shall not be denied legal effect or enforceability solely because an electronic record was used in its formation; if a law requires a record to be in writing, an electronic record satisfies the law, and if a law requires a signature, an electronic signature satisfies the law (Iowa Code § 554D.108). The chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means, and whether the parties so agreed is determined from the context and surrounding circumstances, including the parties' conduct (§ 554D.106(2)).",
+    "trap": "The scope section is where an electronic signature argument usually fails. Chapter 554D does not apply to a transaction to the extent it is governed by a law governing the creation or execution of wills, codicils or testamentary trusts, or by chapter 554 — the Iowa UCC — other than articles 2 and 13 and § 554.1306 (§ 554D.104(2)). So a sale of goods or a lease is inside the chapter, while a record governed by the UCC's other articles is outside it to that extent. Consent is the other threshold: without agreement by each party to transact electronically, shown from context and conduct, the chapter does not reach the transaction at all, and § 554D.106(3) makes the right to refuse to conduct OTHER transactions electronically non-waivable by agreement.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554D.108",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554D_108",
+            "quote": "A record or signature shall not be denied legal effect or enforceability solely because it is in electronic form.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554D.108",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554D_108",
+            "quote": "If a law requires a record to be in writing, an electronic record satisfies the law.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554D.104",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554D_104",
+            "quote": "This chapter does not apply to a transaction to the extent it is governed by any of the following: a. A law governing the creation or execution of wills, codicils, or testamentary trusts. b. Chapter 554 other than chapter 554, articles 2 and 13, and section 554.1306.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554D.106",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554D_106",
+            "quote": "This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554D.106",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554D_106",
+            "quote": "A party who agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Read in full: Iowa Code §§ 554D.104, 554D.106 and 554D.108, plus the chapter's section list (§§ 554D.101-554D.125). Section 554D.107 (construction and application), § 554D.111 (attribution), § 554D.113 (notarization) and § 554D.118 (transferable records) were listed but not relied on. Iowa's scope exclusion is narrower than some states': it excludes wills, codicils and testamentary trusts and the UCC other than articles 2 and 13 and § 554.1306, and the sections read contain no exclusion for corporate, LLC or partnership statutes. NOT established: how an Iowa court decides whether consent to transact electronically was given in a disputed case; no Iowa decision on § 554D.106(2) is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "entire-agreement",
+    "rule_id": "ia-integration-is-a-fact-question-and-interpretation-stays-open",
+    "question": "Does our merger clause keep the other side's prior promises out of the case?",
+    "rule": "It helps, but integration is a question of fact. An agreement is fully integrated when the parties adopt a writing or writings as the final and complete expression of the agreement, and whether a written agreement is integrated is a question of fact to be determined by the totality of the evidence (Whalen v. Connelly). When an agreement is deemed fully integrated, the parol evidence rule prevents the receipt of any extrinsic evidence to contradict — or even supplement — the terms of the written agreement (Whalen). For a record governed by UCC article 2, Iowa Code § 554.2202 makes a final expression uncontradictable by a prior agreement or a contemporaneous oral agreement, while still allowing it to be explained or supplemented by course of performance, course of dealing or usage of trade, and supplemented by consistent additional terms unless the court finds the record was also intended as a complete and exclusive statement of the terms.",
+    "trap": "A merger clause does not close the record. Extrinsic evidence is admissible in Iowa as an aid to interpretation when it throws light on the situation of the parties, antecedent negotiations, the attendant circumstances and the objects they were striving to attain, and it is admissible before the issue of interpretation is reached in order to determine whether the writing is an integrated agreement at all (Fashion Fabrics of Iowa, Inc. v. Retail Investors Corp.). The parol evidence rule also reaches only prior and contemporaneous matters and does not bar evidence of subsequent negotiations to show modification of a written contract (Whalen). And Whalen allowed fraudulent-inducement claims to proceed despite an integration clause, though only as to misrepresentations concerning facts or circumstances not included in the written contract — so a merger clause is strongest where the alleged promise is on a subject the writing already covers.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "545 N.W.2d 284",
+        "name": "Whalen v. Connelly",
+        "court": "Iowa",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "97ce0317c0978b1f",
+            "cl_opinion_id": "1691315",
+            "quote": "An agreement is fully integrated when the parties involved adopt a writing or writings as the final and complete expression of the agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "545 N.W.2d 284",
+        "name": "Whalen v. Connelly",
+        "court": "Iowa",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "97ce0317c0978b1f",
+            "cl_opinion_id": "1691315",
+            "quote": "Whether or not a written agreement is integrated is a question of fact to be determined by the totality of the evidence.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "545 N.W.2d 284",
+        "name": "Whalen v. Connelly",
+        "court": "Iowa",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "97ce0317c0978b1f",
+            "cl_opinion_id": "1691315",
+            "quote": "When an agreement is deemed fully integrated, the parol evidence rule prevents the receipt of any extrinsic evidence to contradict (or even supplement) the terms of the written agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "545 N.W.2d 284",
+        "name": "Whalen v. Connelly",
+        "court": "Iowa",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "97ce0317c0978b1f",
+            "cl_opinion_id": "1691315",
+            "quote": "The parol evidence rule applies only to prior and contemporaneous matters; it does not bar evidence of subsequent negotiations to show modification of a written contract.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "545 N.W.2d 284",
+        "name": "Whalen v. Connelly",
+        "court": "Iowa",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "97ce0317c0978b1f",
+            "cl_opinion_id": "1691315",
+            "quote": "Although we have allowed fraudulent inducement claims to proceed despite an integration clause in a contract, we have done so only with regard to misrepresentations concerning facts or circumstances not included in the written contract.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "266 N.W.2d 22",
+        "name": "Fashion Fabrics of Iowa, Inc. v. Retail Investors Corp.",
+        "court": "Iowa",
+        "decided": "1978",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "ad0aada5a18b1bb8",
+            "cl_opinion_id": "1989292",
+            "quote": "We have held extrinsic evidence is admissible as an aid to interpretation when it throws light on the situation of the parties, antecedent negotiations, the attendant circumstances and the objects they were striving to attain.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "266 N.W.2d 22",
+        "name": "Fashion Fabrics of Iowa, Inc. v. Retail Investors Corp.",
+        "court": "Iowa",
+        "decided": "1978",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "ad0aada5a18b1bb8",
+            "cl_opinion_id": "1989292",
+            "quote": "Extrinsic evidence is also admissible before the issue of interpretation is reached in order to determine whether the writing is or is not an integrated agreement or whether, if integrated, it is completely or partially integrated.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2202",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2202",
+            "quote": "Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a record intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented: 1. by course of performance, course of dealing, or usage of trade (section 554.1303); and 2. by evidence of consistent additional terms unless the court finds the record to have been intended also as a complete and exclusive statement of the terms of the agreement.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Whalen v. Connelly, 545 N.W.2d 284 (Iowa 1996), read in context; the row records no dissent. It applied the parol evidence rule to handcrafted partnership agreements that contained integration clauses between sophisticated business people represented by counsel, quoting Montgomery for that formulation — that combination of facts is what the decision rests on, and this rule does not claim a merger clause has the same force in a form contract between unequal parties. Fashion Fabrics read in context; no dissent in the row. A scan of later Iowa opinions citing 545 N.W.2d 284 (27 rows) and 266 N.W.2d 22 (61 rows) found no window containing overruling, abrogation, supersession or a decline to follow; two Fashion Fabrics windows were later courts applying it. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "force-majeure",
+    "rule_id": "ia-554-2615-impracticability-for-goods-and-the-allocation-and-notice-conditions",
+    "question": "Does our force majeure clause excuse performance under Iowa law?",
+    "rule": "For a sale of goods, Iowa Code § 554.2615 supplies a seller's excuse the clause does not have to create, and it opens with its own limits: \"Except so far as a seller may have assumed a greater obligation and subject to section 554.2614 on substituted performance\", delay in delivery or nondelivery in whole or in part by a seller who complies with subsections 2 and 3 is not a breach of the seller's duty if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made, or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid. Where the causes affect only part of the seller's capacity, the seller must allocate production and deliveries among its customers in any manner which is fair and reasonable, and it must notify the buyer seasonably of the delay or nondelivery and, where allocation is required, of the estimated quota made available to that buyer.",
+    "trap": "The statutory excuse is conditional and one-sided on the section's words. It runs to a SELLER, and only to a seller \"who complies with subsections 2 and 3\" — fair and reasonable allocation and seasonable notice are conditions of the excuse, not courtesies. A clause by which the seller assumes a greater obligation takes the case outside the section by its opening words, so a drafter who promises delivery come what may has contracted out of it. And nothing in § 554.2615 excuses a buyer, or a party to a contract that is not a sale of goods; no Iowa authority on common-law impossibility or frustration outside article 2 is cited in this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2615",
+            "quote": "Except so far as a seller may have assumed a greater obligation and subject to section 554.2614 on substituted performance: 1. Delay in delivery or nondelivery in whole or in part by a seller who complies with subsections 2 and 3, is not a breach of the seller’s duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2615",
+            "quote": "Where the causes mentioned in subsection 1 affect only a part of the seller’s capacity to perform, the seller must allocate production and deliveries among the seller’s customers but may at the seller’s option include regular customers not then under contract as well as the seller’s own requirements for further manufacture. The seller may so allocate in any manner which is fair and reasonable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2615",
+            "quote": "The seller must notify the buyer seasonably that there will be delay or nondelivery and, when allocation is required under subsection 2, of the estimated quota thus made available for the buyer.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Iowa Code § 554.2615 read in full. Section 554.2614 (substituted performance), which the section is expressly subject to, was NOT read and is named rather than described. This row carries no applies_to tag even though § 554.2615 is a UCC article 2 section, because whether article 2 governs a mixed goods-and-services agreement is a question these authorities do not answer. NOT established: Iowa's common-law doctrine of impossibility, impracticability or frustration for contracts outside article 2, and whether an express force-majeure clause displaces § 554.2615 — no Iowa decision on either is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "indemnity",
+    "rule_id": "ia-clear-and-unambiguous-intent-plus-537a-5-construction-void",
+    "question": "Will our indemnity clause cover the indemnitee's own negligence in Iowa?",
+    "rule": "Only if the intention is clearly expressed, and in a construction contract not at all. Iowa applies a special rule of construction: indemnification contracts will not be construed to permit an indemnitee to recover for its own negligence unless the intention of the parties is clearly and unambiguously expressed (McNally & Nimergood v. Neumann-Kiewit Constructors, Inc.). The Supreme Court has long recognised that an indemnity contract need not expressly state that the indemnitee will be indemnified for its own negligence if the clear intent of the contractual language provides for such indemnification, while general indemnity language has been deemed insufficient to impose indemnity for the indemnitee's own negligence. On top of that, and except as § 537A.5(3) excludes, a provision in a construction contract requiring one party to indemnify, hold harmless or defend another party — including the indemnitee's employees, consultants, agents or others for whom the indemnitee is responsible — against liability, claims, damages, losses or expenses, including attorney fees, to the extent caused by or resulting from the negligent act or omission of the indemnitee or of those persons, is void and unenforceable as contrary to public policy (Iowa Code § 537A.5(2)).",
+    "trap": "Section 537A.5's definition of \"construction contract\" reaches much further than a general contractor's form: architectural, design, engineering, construction-management, development and maintenance services, material purchases, equipment rental and labour, across all public, private, foreign or domestic agreements of that description other than public agreements relating to highways, roads and streets. It voids the clause only \"to the extent caused by or resulting from\" the indemnitee's own negligence, so the rest of an indemnity can stand. And § 537A.5(3) takes four things out of the section entirely — indemnification of a surety by a principal on a surety bond, an insurer's obligation to its insureds under an insurance policy or agreement, a borrower's obligations to its lender, and any obligation of strict liability otherwise imposed by law. Outside a construction contract, the Iowa rule is one of construction rather than invalidity: precise language directed at the indemnitee's own fault is what carries the clause.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "648 N.W.2d 564",
+        "name": "McNally & Nimergood v. Neumann-Kiewit Constructors, Inc.",
+        "court": "Iowa",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "6d933287c4f39539",
+            "cl_opinion_id": "1689483",
+            "quote": "This rule provides that indemnification contracts will not be construed to permit an indemnitee to recover for its own negligence unless the intention of the parties is clearly and unambiguously expressed.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "648 N.W.2d 564",
+        "name": "McNally & Nimergood v. Neumann-Kiewit Constructors, Inc.",
+        "court": "Iowa",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "6d933287c4f39539",
+            "cl_opinion_id": "1689483",
+            "quote": "We have long recognized that indemnity contracts do not need to expressly state that the indemnitee will be indemnified for its own negligence if the clear intent of the contractual language provides for such indemnification.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "648 N.W.2d 564",
+        "name": "McNally & Nimergood v. Neumann-Kiewit Constructors, Inc.",
+        "court": "Iowa",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "6d933287c4f39539",
+            "cl_opinion_id": "1689483",
+            "quote": "On the other hand, general indemnity language in a contract has been deemed insufficient to impose indemnity for the indemnitee’s own negligence.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_5",
+            "quote": "Except as excluded under subsection 3, a provision in a construction contract that requires one party to the construction contract to indemnify, hold harmless, or defend any other party to the construction contract, including the indemnitee’s employees, consultants, agents, or others for whom the indemnitee is responsible, against liability, claims, damages, losses, or expenses, including attorney fees, to the extent caused by or resulting from the negligent act or omission of the indemnitee or of the indemnitee’s employees, consultants, agents, or others for whom the indemnitee is responsible, is void and unenforceable as contrary to public policy.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_5",
+            "quote": "This section does not apply to the indemnification of a surety by a principal on any surety bond, an insurer’s obligation to its insureds under any insurance policy or agreement, a borrower’s obligations to its lender, or any obligation of strict liability otherwise imposed by law.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_5",
+            "quote": "“Construction contract” includes all public, private, foreign, or domestic agreements as described in this subsection other than such public agreements relating to highways, roads, and streets.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Iowa Code § 537A.5 read in full, including the subsection 1 definition. McNally read in context; the row records no dissent, and a scan of the 12 later Iowa opinions citing 648 N.W.2d 564 found no negative-treatment window. McNally was decided before § 537A.5 was on the books as read here, and the decision itself concerned a crane rental, not a construction contract within § 537A.5 — the two authorities are stated separately for that reason. This row carries no applies_to tag because it combines a construction-only statute with a rule of construction McNally states for indemnity contracts generally; tagging it construction would hide the general rule. NOT established: whether Iowa treats a duty to DEFEND differently from a duty to indemnify outside § 537A.5. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "lien-waiver",
+    "rule_id": "ia-no-statute-voiding-a-lien-waiver-in-the-sections-read",
+    "question": "Is the lien waiver our Iowa subcontract makes us sign enforceable?",
+    "rule": "Nothing read in Iowa's mechanics' lien chapter voids or prescribes a lien waiver, and this rule records that rather than treating the silence as permission. Chapter 572 creates the lien: every person who furnishes material or labour for, or performs labour upon, a building or land for improvement, alteration or repair, by virtue of a contract with the owner, owner-builder, general contractor or subcontractor, has a lien upon the building or improvement and the owner's land, to secure payment for the material or labour (Iowa Code § 572.2(1)). The only waiver the chapter's read sections describe is one the owner may insist on before paying: on commercial construction, the owner is not required to pay the general contractor for work done or material furnished until ninety days after completion unless the general contractor furnishes the owner either receipts and waivers of claims for mechanics' liens signed by all persons who furnished material or performed labour, or a bond holding the owner harmless from loss by reason of subcontractors' liens (§ 572.33A(1)).",
+    "trap": "Iowa, unlike several states, has no section in the chapter read here declaring an advance lien waiver void or unenforceable, so the waiver's own words govern and the fight is one of general contract law rather than one protected by statute. Two limits that do come from the text: § 572.33A applies only to commercial construction properties, and the waiver it contemplates is a document the general contractor gives the OWNER so that payment can be released — it is not authority for what a subcontract may demand of a subcontractor. Whether an Iowa court will enforce a waiver signed before payment is received, and how a conditional waiver differs from an unconditional one, is not established by anything in this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 572.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_572_2",
+            "quote": "Every person who furnishes any material or labor for, or performs any labor upon, any building or land for improvement, alteration, or repair thereof, including those engaged in the construction or repair of any work of internal or external improvement, and those engaged in grading, sodding, installing nursery stock, landscaping, sidewalk building, fencing on any land or lot, by virtue of any contract with the owner, owner-builder, general contractor, or subcontractor shall have a lien upon such building or improvement, and land belonging to the owner on which the same is situated or upon the land or lot so graded, landscaped, fenced, or otherwise improved, altered, or repaired, to secure payment for the material or labor furnished or labor performed.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 572.33A",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_572_33A",
+            "quote": "An owner of a building, land, or improvement upon which a mechanic’s lien of a subcontractor may be posted is not required to pay the general contractor compensation for work done or material furnished for the building, land, or improvement until the expiration of ninety days after the completion of the building or improvement unless the general contractor furnishes to the owner one of the following: a. Receipts and waivers of claims for mechanics’ liens, signed by all persons who furnished material or performed labor for the building, land, or improvement.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 572.33A",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_572_33A",
+            "quote": "b. A good and sufficient bond to be approved by the owner, conditioned that the owner shall be held harmless from any loss which the owner may sustain by reason of the posting of mechanics’ liens by subcontractors. 2. This section applies only to commercial construction properties.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "This is an honest negative and is written as one. Method: every published section of Iowa Code chapter 572 (37 sections, §§ 572.1 to 572.34) was searched for \"waiv\"; exactly two matched — § 572.13A, whose match is in the statutory notice text advising owners to obtain lien waivers when paying the general contractor, and § 572.33A, quoted here. No section of the chapter declares a contractual lien waiver void, unenforceable or ineffective. Read in full: §§ 572.2 and 572.33A. NOT read: §§ 572.8 to 572.34 generally, including the mechanics' notice and lien registry requirements (§ 572.34), the preliminary-notice sections for residential (§ 572.13B) and commercial (§ 572.33) work, and the action deadlines (§§ 572.24, 572.27). NOT established: the enforceability of an advance waiver in Iowa; no Iowa decision on the point is cited here. This store holds no statute effective dates.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "limitation-of-liability",
+    "rule_id": "ia-exculpatory-clauses-enforceable-with-two-ucc-controls",
+    "question": "Will an Iowa court enforce this clause capping or excluding our liability for our own negligence?",
+    "rule": "As a general matter Iowa enforces them. In Huber v. Hovey the Supreme Court said that, since Shelby County Fair Ass'n, \"we have repeatedly held that contracts exempting a party from its own negligence are enforceable, and are not contrary to public policy.\" Two statutory controls sit beside that rule where UCC article 2 applies. A court that finds, as a matter of law, that a contract or any clause of it was unconscionable at the time it was made may refuse to enforce the contract, enforce the remainder without the clause, or so limit the clause's application as to avoid any unconscionable result (Iowa Code § 554.2302(1)). And consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable; limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable, but limitation of damages where the loss is commercial is not (§ 554.2719(3)).",
+    "trap": "Huber was a spectator's signed release at a racetrack, and the opinion read here states the enforceability rule without laying down how conspicuously or how explicitly such a clause must refer to negligence — so treat the drafting standard as unsettled by this rule rather than satisfied. The statutory controls are narrower than they look: §§ 554.2302 and 554.2719 are article 2 sections, and whether article 2 governs a mixed goods-and-services deal is not answered here. One statute that is often assumed to reach this clause does not, on its words: Iowa Code § 537A.5(2) voids a construction contract's promise to indemnify, hold harmless or defend ANOTHER party against that other party's own negligence, which is a promise to answer for the counterparty's fault, and nothing read extends it to a clause capping or excluding the promisor's own liability to its counterparty. Where Iowa's construction anti-indemnity section § 537A.5 is in play, four relationships sit outside it altogether: “This section does not apply to the indemnification of a surety by a principal on any surety bond, an insurer’s obligation to its insureds under any insurance policy or agreement, a borrower’s obligations to its lender, or any obligation of strict liability otherwise imposed by law.” So a surety bond, an insurer's duty to its own insured, a borrower's obligations to its lender and a strict-liability obligation imposed by law are untouched by that section, whatever a construction contract says about indemnity.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "501 N.W.2d 53",
+        "name": "Huber v. Hovey",
+        "court": "Iowa",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "8d48a1d8a1057986",
+            "cl_opinion_id": "1309491",
+            "quote": "we have repeatedly held that contracts exempting a party from its own negligence are enforceable, and are not contrary to public policy.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2719",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_5",
+            "quote": "a provision in a construction contract that requires one party to the construction contract to indemnify, hold harmless, or defend any other party to the construction contract, including the indemnitee’s employees, consultants, agents, or others for whom the indemnitee is responsible, against liability, claims, damages, losses, or expenses, including attorney fees, to the extent caused by or resulting from the negligent act or omission of the indemnitee",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.5",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_5",
+            "quote": "This section does not apply to the indemnification of a surety by a principal on any surety bond, an insurer’s obligation to its insureds under any insurance policy or agreement, a borrower’s obligations to its lender, or any obligation of strict liability otherwise imposed by law.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Huber v. Hovey read in full; the row records no dissent. The quoted sentence follows a citation to Korsmo v. Shelby County Fair Ass'n, 241 Iowa 1349, 44 N.W.2d 362 (1950), which was NOT read. A scan of the 87 later Iowa rows citing 501 N.W.2d 53 produced five negative-word windows, all read and all noise (they concern unrelated opinions at neighbouring page numbers, or a later case overruled on other grounds); Huber was not found overruled, abrogated or superseded. NOT established: whether Iowa requires an exculpatory clause to refer expressly to negligence or to be conspicuous, and whether a public-interest or essential-service exception limits the rule — Huber as read states the general rule and rejects a public-policy attack on a racetrack release, and no Iowa decision on those further points is cited here. This store holds no statute effective dates. SCOPE AUDIT 2026-09-24: added from the rare-word limit sweep (a DocketX audit sweep); none of the limit's most distinctive words appeared in this row."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "limitation-of-remedy",
+    "rule_id": "ia-554-2719-exclusive-remedy-and-failure-of-essential-purpose",
+    "question": "Is our 'repair or replace is the exclusive remedy' clause good in Iowa?",
+    "rule": "Yes, on article 2's terms. Subject to subsections 2 and 3 and to § 554.2718 on liquidation and limitation of damages, the agreement may provide for remedies in addition to or in substitution for those provided in article 2 and may limit or alter the measure of damages recoverable, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy (Iowa Code § 554.2719(1)). Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the chapter (§ 554.2719(2)). Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable; limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable, but limitation of damages where the loss is commercial is not (§ 554.2719(3)).",
+    "trap": "Exclusivity is not presumed. On subsection 1(b)'s words, unless the remedy is expressly agreed to be exclusive it is merely one more option the buyer may take or leave, so a repair-or-replace clause that never says \"sole and exclusive remedy\" adds a remedy instead of replacing the article 2 ones. Subsection 2 is the other trap: when the limited remedy fails of its essential purpose the buyer gets the chapter's remedies, and whether a separately drafted consequential-damages exclusion survives that failure is a question no Iowa authority in this rule answers. Note also § 554.2316(4): remedies for breach of warranty can be limited in accordance with §§ 554.2718 and 554.2719, so this section, not the disclaimer rules, is what measures a warranty's remedy limit.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2719",
+            "quote": "Subject to the provisions of subsections 2 and 3 of this section and of section 554.2718 on liquidation and limitation of damages, a. the agreement may provide for remedies in addition to or in substitution for those provided in this Article and may limit or alter the measure of damages recoverable under this Article, as by limiting the buyer’s remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and b. resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2719",
+            "quote": "Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this chapter.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2719",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2316",
+            "quote": "Remedies for breach of warranty can be limited in accordance with the provisions of this Article on liquidation or limitation of damages and on contractual modification of remedy (sections 554.2718 and 554.2719).",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Iowa Code §§ 554.2719 and 554.2316 read in full. This row carries no applies_to tag: whether UCC article 2 governs a mixed goods-and-services or software transaction is not answered by these sections. NOT established: how Iowa treats a consequential-damages exclusion after an exclusive remedy has failed of its essential purpose (the dependent/independent question), and what makes a limitation unconscionable under § 554.2719(3) in a commercial sale — no Iowa decision on either is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "limitations-period",
+    "rule_id": "ia-ten-years-written-five-unwritten-and-the-goods-accrual-rule",
+    "question": "How long does the other side have to sue us on this Iowa contract, and can the contract shorten it?",
+    "rule": "Ten years on a written contract, five on an unwritten one. Actions founded on written contracts, on judgments of courts other than courts of record, and for the recovery of real property must be brought within ten years, except claims for rent, which go within five (Iowa Code § 614.1(5)); actions founded on unwritten contracts, for injuries to property, for relief on the ground of fraud, and all other actions not otherwise provided for go within five years, except as subsections 8 and 10 provide (§ 614.1(4)). For a sale of goods, Iowa's § 554.2725(1) as published says only that by the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it; the Supreme Court supplied the period in Fell v. Kewanee Farm Equipment Co., stating that \"A five-year statute of limitations governs actions for breach of implied warranty.\" Accrual for a sale of goods is fixed by § 554.2725(2): the cause of action accrues when the breach occurs regardless of the aggrieved party's lack of knowledge, and a breach of warranty occurs when tender of delivery is made, unless a warranty explicitly extends to future performance of the goods and discovery of the breach must await that performance. A judgment is on a different clock again: § 614.1 gives actions “Those founded on a judgment of a court of record, whether of this or of any other of the United States, or of the federal courts of the United States, within twenty years, except that a time period limitation shall not apply to an action to recover a judgment for child support, spousal support, or a judgment of distribution of marital assets.\n7. Judgment quieting title. No action shall be brought to set aside a judgment or decree quieting title to real estate unless the same shall be commenced within ten years from and after the rendition thereof.\n8. Wages. Those founded on claims for wages or for a liability or penalty for failure to pay wages, within two years.”",
+    "trap": "A shortening clause works for a sale of goods and is capped: § 554.2725(1) permits reduction to not less than one year, by the ORIGINAL agreement, and forbids extension. Nothing read here authorises shortening the § 614.1 periods for a contract outside article 2. The accrual rule is the harsher trap — for goods the clock starts at tender of delivery whether or not the buyer knew of the defect, and the discovery rule applies only where the warranty explicitly extends to future performance. Separately, § 614.1(11) is a period of repose for an action arising out of the unsafe or defective condition of an improvement to real property, running from the defendant's act or omission rather than from injury: eight years for improvements generally, ten for residential construction as defined in § 572.1, and fifteen for a nuclear power plant or an interstate pipeline.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 614.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_614_1",
+            "quote": "a. Except as provided in paragraph “b”, those founded on written contracts, or on judgments of any courts except those provided for in subsection 6, and those brought for the recovery of real property, within ten years. b. Those founded on claims for rent, within five years.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 614.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_614_1",
+            "quote": "Those founded on unwritten contracts, those brought for injuries to property, or for relief on the ground of fraud in cases heretofore solely cognizable in a court of chancery, and all other actions not otherwise provided for in this respect, within five years, except as provided by subsections 8 and 10.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 614.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_614_1",
+            "quote": "an action arising out of the unsafe or defective condition of an improvement to real property based on tort and implied warranty and for contribution and indemnity, and founded on injury to property, real or personal, or injury to the person or wrongful death, shall not be brought more than the number of years specified below after the date on which occurred the act or omission of the defendant alleged in the action to have been the cause of the injury or death: (1) For an action arising from or related to a nuclear power plant licensed by the United States nuclear regulatory commission or an interstate pipeline licensed by the federal energy regulatory commission, fifteen years. (2) For an action arising from or related to residential construction, as defined in section 572.1, ten years. (3) For an action arising from or related to any other kind of improvement to real property, eight years.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2725",
+            "quote": "By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2725",
+            "quote": "A cause of action accrues when the breach occurs, regardless of the aggrieved party’s lack of knowledge of the breach. A breach of warranty occurs when tender of delivery is made, except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "457 N.W.2d 911",
+        "name": "Fell v. Kewanee Farm Equipment Co.",
+        "court": "Iowa",
+        "decided": "1990",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "8655251ed0385d93",
+            "cl_opinion_id": "9850449",
+            "quote": "A five-year statute of limitations governs actions for breach of implied warranty. See City of Carlisle v. Fetzer, 381 N.W.2d 627, 628-29 (Iowa 1986).",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 614.1",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_614_1",
+            "quote": "Those founded on a judgment of a court of record, whether of this or of any other of the United States, or of the federal courts of the United States, within twenty years, except that a time period limitation shall not apply to an action to recover a judgment for child support, spousal support, or a judgment of distribution of marital assets.\n7. Judgment quieting title. No action shall be brought to set aside a judgment or decree quieting title to real estate unless the same shall be commenced within ten years from and after the rendition thereof.\n8. Wages. Those founded on claims for wages or for a liability or penalty for failure to pay wages, within two years.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "A GAP IN THE PUBLISHED TEXT, recorded rather than worked around. The Iowa Code § 554.2725(1) we hold opens at \"By the original agreement the parties may reduce the period of limitation...\" and states no limitation period of its own; the uniform UCC 2-725(1) sentence fixing a period is not in the text read. Whether Iowa omitted that sentence or our copy of the section is incomplete is NOT established, so no period is asserted from § 554.2725(1) here and the five-year figure comes from Fell. Fell is Iowa Supreme Court text (McGiveren, C.J., and Schultz, Carter and Snell, JJ., dissenting; the quoted passage is in the opinion of the Court). Iowa Code § 614.1 read in full, including subsection 2 (two years for injuries to the person or reputation, whether based on contract or tort), subsection 2A (fifteen-year product repose) and subsection 8 (two years for wage claims), which can displace the contract periods for particular claims. NOT established: whether an Iowa court will enforce a contractual shortening of the § 614.1 periods outside article 2. This store holds no statute effective dates. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; none of the limit's most distinctive words appeared in this row. § 614.1's product-liability paragraphs were read in the same pass and are NOT described here: the fifteen-year limitation does not run against a latent disease caused by exposure to a harmful material until the disease and its cause are or should be known, and the paragraph does not apply where the manufacturer or seller intentionally misrepresented. Those bound a products claim, not a contract one."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "liquidated-damages",
+    "rule_id": "ia-restatement-356-two-factors-and-554-2718",
+    "question": "Will our liquidated damages figure survive in Iowa, or be struck as a penalty?",
+    "rule": "Iowa measures it by Restatement (Second) of Contracts § 356(1), which the Supreme Court set out and applied in Rohlin Construction Co. v. City of Hinton: damages may be liquidated in the agreement \"but only at an amount that is reasonable in the light of the anticipated or actual loss caused by the breach and the difficulties of proof of loss\", and \"A term fixing unreasonably large liquidated damages is unenforceable on grounds of public policy as a penalty.\" The court also set out the Restatement's test for a penalty: two factors combine in determining whether an amount is so unreasonably large as to be a penalty — the anticipated or actual loss caused by the breach, and the difficulty of proof of loss — and a determination turns on a combination of the two. For a sale of goods the statute adds a third consideration: the amount must be reasonable in the light of the anticipated or actual harm, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy, and a term fixing unreasonably large liquidated damages is void as a penalty (Iowa Code § 554.2718(1)).",
+    "trap": "Rohlin shows what actually defeats the clause, and it is evidentiary rather than verbal. The court struck a $400-per-day delay charge in three road contracts, holding that the amount \"appears to be unreasonably large and goes far beyond the anticipated loss caused by delay in performance of the contract\" on a record in which nobody could say who had set the figure or on what data. A recital that the sum is a reasonable estimate does not substitute for that record. Note also the wording difference between the two tests: the Restatement formulation quoted in Rohlin lists two factors, while § 554.2718(1) adds the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "476 N.W.2d 78",
+        "name": "Rohlin Construction Co. v. City of Hinton",
+        "court": "Iowa",
+        "decided": "1991",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "c957344ea690cb70",
+            "cl_opinion_id": "1601657",
+            "quote": "The American Law Institute adopts a more conservative approach as follows: Damages for breach by either party may be liquidated in the agreement but only at an amount that is reasonable in the light of the anticipated or actual loss caused by the breach and the difficulties of proof of loss. A term fixing unreasonably large liquidated damages is unenforceable on grounds of public policy as a penalty.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "476 N.W.2d 78",
+        "name": "Rohlin Construction Co. v. City of Hinton",
+        "court": "Iowa",
+        "decided": "1991",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "c957344ea690cb70",
+            "cl_opinion_id": "1601657",
+            "quote": "Under the test stated in Subsection (1), two factors combine in determining whether an amount of money fixed as damages is so unreasonably large as to be a penalty.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "476 N.W.2d 78",
+        "name": "Rohlin Construction Co. v. City of Hinton",
+        "court": "Iowa",
+        "decided": "1991",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "c957344ea690cb70",
+            "cl_opinion_id": "1601657",
+            "quote": "the amount of liquidated damages set in each contract appears to be unreasonably large and goes far beyond the anticipated loss caused by delay in performance of the contract",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2718",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2718",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Rohlin read in full (11,960 characters); the row records no dissent, and the opinion says \"We often turn to Restatements of the Law and believe it is appropriate to do so in this case\" and \"We believe that application of these principles is appropriate to our determination in this case\" before applying § 356(1). The two-factor passage the court sets out is the Restatement's own comment, quoted by the court. A scan of the 10 later Iowa opinions citing 476 N.W.2d 78 found no negative-treatment window. Iowa Code § 554.2718 read in full. NOT established: whether Iowa tests reasonableness as of contracting or as of breach where the two diverge, and whether a liquidated-damages clause in a contract outside article 2 is measured by anything other than § 356(1). This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "non-competition",
+    "rule_id": "ia-three-pronged-reasonableness-and-discretionary-partial-enforcement",
+    "question": "Will an Iowa court enforce the non-compete in our employment agreement?",
+    "rule": "Yes, if it is reasonable: on a three-part reasonableness test, and the court may cut an overbroad covenant down rather than strike it. In Lamp v. American Prosthetics, Inc. the Supreme Court stated the test: \"In deciding whether to enforce a restrictive covenant, the court will apply a three-pronged test: (1) Is the restriction reasonably necessary for the protection of the employer's business; (2) is it unreasonably restrictive of the employee's rights; and (3) is it prejudicial to the public interest?\" Partial enforcement comes from Ehlers v. Iowa Warehouse Company, which overruled the older all-or-nothing rule and held that the court \"will enforce noncompetitive covenants to the extent they are reasonably necessary to protect his legitimate interests without imposing undue hardship on the employee when the public interest is not adversely affected.\"",
+    "trap": "Partial enforcement is discretionary, and it has to be asked for. Lamp agreed the covenant swept too broadly — it barred competition within 100 miles of any of the employer's Iowa offices — but refused to narrow it, because \"while Ehlers allows for modification of such agreements, it does not require a court to do so sua sponte\", and because \"A mere reference in a trial brief to the possibility of partial enforcement, without a pleading or rule 179(b) motion to pinpoint the issue, was not sufficient to preserve it for appeal.\" An employer that pleads only \"the covenant as written is enforceable\" can win the reasonableness argument and still get nothing. Iowa also has no general non-compete statute in the published sections searched, so there is no earnings threshold and no review period to comply with — the limits are the three-part test and what the pleadings preserved.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "379 N.W.2d 909",
+        "name": "Lamp v. American Prosthetics, Inc.",
+        "court": "Iowa",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "bf0c143b505ede9e",
+            "cl_opinion_id": "1601399",
+            "quote": "In deciding whether to enforce a restrictive covenant, the court will apply a three-pronged test: (1) Is the restriction reasonably necessary for the protection of the employer’s business; (2) is it unreasonably restrictive of the employee’s rights; and (3) is it prejudicial to the public interest?",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "379 N.W.2d 909",
+        "name": "Lamp v. American Prosthetics, Inc.",
+        "court": "Iowa",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "bf0c143b505ede9e",
+            "cl_opinion_id": "1601399",
+            "quote": "The problem with this approach is that, while Ehlers allows for modification of such agreements, it does not require a court to do so sua sponte.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "379 N.W.2d 909",
+        "name": "Lamp v. American Prosthetics, Inc.",
+        "court": "Iowa",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "bf0c143b505ede9e",
+            "cl_opinion_id": "1601399",
+            "quote": "A mere reference in a trial brief to the possibility of partial enforcement, without a pleading or rule 179(b) motion to pinpoint the issue, was not sufficient to preserve it for appeal.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "188 N.W.2d 368",
+        "name": "Ehlers v. Iowa Warehouse Company",
+        "court": "Iowa",
+        "decided": "1971",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "6705deaf4b128278",
+            "cl_opinion_id": "9720615",
+            "quote": "we will enforce noncompetitive covenants to the extent they are reasonably necessary to protect his legitimate interests without imposing undue hardship on the employee when the public interest is not adversely affected.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "188 N.W.2d 368",
+        "name": "Ehlers v. Iowa Warehouse Company",
+        "court": "Iowa",
+        "decided": "1971",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "6705deaf4b128278",
+            "cl_opinion_id": "9720615",
+            "quote": "we will enforce such covenant if it is reasonably necessary for the protection of the employer’s business and is not unreasonably restrictive of employee’s rights nor prejudicial to the public interest.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Row 6705deaf4b128278 is the Ehlers opinion of the Court (Stuart, J.); it ends \"BECKER and LeGRAND, JJ., dissent\", and the dissent is published as a separate row (be2039f2123f56aa), which is not cited. Ehlers's qualifier \"unless the facts and circumstances indicate bad faith on the part of the employer\" appears in the opinion but is not quoted because the published text carries a transcription artefact inside that phrase; a drafter should treat employer bad faith as a stated condition of partial enforcement. Lamp carries \"All justices concur\". Later-treatment scan: 20 later Iowa rows mention 188 N.W.2d 368 and 12 mention 379 N.W.2d 909; every negative-word window was read and each is Ehlers overruling Brecher v. Brown, not later treatment of Ehlers itself. The test as stated in both cases is for a covenant in an EMPLOYMENT contract, and both distinguish covenants given on the sale of a business (a later opinion, Sutton v. Iowa Trenchless, L.C. (Iowa Ct. App. 2011), describes sale-of-business covenants as viewed with more indulgence); the row is tagged employment for that reason and says nothing about sale-of-business covenants. A full-text search of the published Iowa statutes for \"noncompete\", \"not to compete\" and \"covenant not to compete\" returned only §§ 135Q.2 and 135Q.3 (health care employment agencies and technology platforms), 23A.2, 523H.8 and 537A.10 (franchise nonrenewal); none states a general rule for employee non-competes and none is relied on here.",
+    "applies_to": [
+      "employment"
+    ]
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "prompt-payment",
+    "rule_id": "ia-573-12-public-improvement-retainage-and-payment-clocks",
+    "question": "When must we be paid on an Iowa construction job, and how much can be retained?",
+    "rule": "For a public improvement, Iowa Code chapter 573 fixes both. Payments under contracts for the construction of public improvements, unless provided otherwise by law, are made on the basis of monthly estimates of labour performed and material delivered as determined by the project architect or engineer, and the public corporation shall retain from each monthly payment not more than three percent of the amount determined to be due (§ 573.12(1)(a)); the contractor may retain from each payment to a subcontractor not more than the lesser of three percent or the amount specified in the contract between them (§ 573.12(1)(b)). Interest is paid to the contractor on a progress payment that the project architect or engineer has approved as payable and that remains unpaid for fourteen days after receipt of the payment request at the place or by the person designated to first receive it, or for a longer period specified in the contract documents not exceeding thirty days (§ 573.12(2)(a)(1)). A progress or final payment to a subcontractor for satisfactory performance shall be made no later than seven days after the contractor receives payment for that subcontractor's work, or a reasonable time after the contractor could have received payment for it where the reason for nonpayment is not the subcontractor's fault (§ 573.12(2)(b)(1)).",
+    "trap": "Every figure above comes from a chapter whose subject is the construction of PUBLIC improvements. Nothing read here imposes the three-percent retainage cap, the fourteen-day interest clock or the seven-day subcontractor deadline on a private Iowa construction contract, and this rule does not claim that it does. Two details inside the section matter to a subcontractor. The seven-day clock is pay-when-paid with a fallback that defeats the usual objection — a reasonable time after the contractor COULD have received payment, where the nonpayment is not the subcontractor's fault. And a contractor's acceptance of payment for one subcontractor's work is not a waiver of claims and does not prejudice the contractor's rights as to any other claim related to the contract or project (§ 573.12(2)(b)(2)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 573.12",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_573_12",
+            "quote": "Payments made under contracts for the construction of public improvements, unless provided otherwise by law, shall be made on the basis of monthly estimates of labor performed and material delivered, as determined by the project architect or engineer. The public corporation shall retain from each monthly payment not more than three percent of that amount that is determined to be due according to the estimate of the architect or engineer.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 573.12",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_573_12",
+            "quote": "The contractor may retain from each payment to a subcontractor not more than the lesser of three percent or the amount specified in the contract between the contractor and the subcontractor.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 573.12",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_573_12",
+            "quote": "Interest shall be paid to the contractor on any progress payment that is approved as payable by the public corporation’s project architect or engineer and remains unpaid for a period of fourteen days after receipt of the payment request at the place, or by the person, designated in the contract, or by the public corporation to first receive the request, or for a time period greater than fourteen days, unless a time period greater than fourteen days is specified in the contract documents, not to exceed thirty days, to afford the public corporation a reasonable opportunity to inspect the work and to determine the adequacy of the contractor’s performance under the contract.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 573.12",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_573_12",
+            "quote": "A progress payment or final payment to a subcontractor for satisfactory performance of the subcontractor’s work shall be made no later than one of the following, as applicable: (a) Seven days after the contractor receives payment for that subcontractor’s work. (b) A reasonable time after the contractor could have received payment for the subcontractor’s work, if the reason for nonpayment is not the subcontractor’s fault.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 573.12",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_573_12",
+            "quote": "A contractor’s acceptance of payment for one subcontractor’s work is not a waiver of claims, and does not prejudice the rights of the contractor, as to any other claim related to the contract or project.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Iowa Code § 573.12 read in full, including subsection 3 (the contractor's obligation to pass a proportional share of any interest payment to the subcontractor, and the interest rate rules). Sections 573.14 (rate of interest and retention of unpaid funds), 573.15 and 573.15A (claims against retainage and early release) and 573.28 (early release of retained funds) were NOT read and are not relied on. Chapter 573 applies to public improvements; § 573.2(1) requires a bond where the contract price equals or exceeds twenty-five thousand dollars. NO private-works prompt-payment statute was identified: a title search of the published Iowa statutes for \"prompt pay\" and \"retainage\" returned only §§ 452A.65, 507B.4A, 514G.108, 535.14 and 573.15, none of which is a private construction prompt-payment act. This rule states that gap rather than assuming private work is covered. This store holds no statute effective dates.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "statute-of-frauds",
+    "rule_id": "ia-622-32-evidence-rule-plus-goods-and-credit-agreements",
+    "question": "Does this Iowa agreement have to be in writing?",
+    "rule": "Iowa's general statute of frauds is framed as a rule of evidence: except when otherwise specially provided, no evidence of the enumerated contracts is competent unless it is in writing and signed by the party charged or the party's authorised agent — contracts made in consideration of marriage; promises to answer for the debt, default or miscarriage of another; contracts for the creation or transfer of any interest in lands, except leases for a term not exceeding one year; and contracts not to be performed within one year from the making (Iowa Code § 622.32). The land branch does not apply where the purchase money or any portion of it has been received by the vendor, where the vendee with the vendor's actual or implied consent has taken and held possession under the contract, or where any other circumstance would have taken the case out of the statute of frauds (§ 622.33). A contract for the sale of goods for $500 or more is not enforceable by action or defence unless there is a record sufficient to indicate a contract for sale has been made and signed by the party against whom enforcement is sought, and it is not enforceable beyond the quantity of goods shown in the record (§ 554.2201(1)). A credit agreement is not enforceable in contract law by action or defence unless a writing exists containing all of the material terms of the agreement and signed by the party against whom enforcement is sought (§ 535.17(1)).",
+    "trap": "The credit-agreement rule is the strict one and the one that catches commercial parties. Section 535.17 demands ALL of the material terms in the signed writing, and § 535.17(7) says the section \"entirely displaces principles of common law and equity that would make or recognize exceptions to or otherwise limit or dilute the force and effect of its provisions\" on the enforcement of credit agreements — so the usual estoppel and part-performance arguments are directed at a statute that says it has displaced them. It does not apply to a credit agreement made primarily for a personal, family or household purpose where the credit extended is twenty thousand dollars or less (§ 535.17(8)). Two smaller points: § 622.32 bars evidence of the contract rather than declaring it void, and it opens with \"Except when otherwise specially provided\"; and under § 554.2201(1) the quantity shown in the record is a ceiling on what can be enforced.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 622.32",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_622_32",
+            "quote": "Except when otherwise specially provided, no evidence of the following enumerated contracts is competent, unless it be in writing and signed by the party charged or by the party’s authorized agent: 1. Those made in consideration of marriage. 2. Those wherein one person promises to answer for the debt, default, or miscarriage of another, including promises by executors to pay the debt of the decedent from their own estate. 3. Those for the creation or transfer of any interest in lands, except leases for a term not exceeding one year. 4. Those that are not to be performed within one year from the making thereof.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 622.33",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_622_33",
+            "quote": "The provisions of section 622.32, subsection 3, do not apply where the purchase money, or any portion thereof, has been received by the vendor, or when the vendee, with the actual or implied consent of the vendor, has taken and held possession of the premises under and by virtue of the contract, or when there is any other circumstance which, by the law heretofore in force, would have taken the case out of the statute of frauds.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2201",
+            "quote": "Except as otherwise provided in this section a contract for the sale of goods for the price of five hundred dollars or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party’s authorized agent or broker.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.17",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_17",
+            "quote": "A credit agreement is not enforceable in contract law by way of action or defense by any party unless a writing exists which contains all of the material terms of the agreement and is signed by the party against whom enforcement is sought.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.17",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_17",
+            "quote": "This section entirely displaces principles of common law and equity that would make or recognize exceptions to or otherwise limit or dilute the force and effect of its provisions concerning the enforcement in contract law of credit agreements or modifications of credit agreements.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.17",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_17",
+            "quote": "This section does not apply to a credit agreement made primarily for a personal, family, or household purpose where the credit extended is twenty thousand dollars or less.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Read in full: Iowa Code §§ 622.32, 622.33, 554.2201 and 535.17. Section 535.17 read including subsection 2 (written notice makes oral modifications unenforceable), subsection 3 (the safe-harbour notice in boldface ten point type), subsection 4 (admission in court), subsection 5 (definitions, including a \"credit agreement\" definition that excludes credit-card, open-end and home-equity-line credit and consumer rental purchase agreements) and subsection 6. Section 554.2201 read including the merchant-confirmation rule in subsection 2 and the three exceptions in subsection 3 (specially manufactured goods, admission in pleading or testimony, and goods paid for and accepted or received and accepted). NOT established: how Iowa applies the one-year branch of § 622.32 to a contract of indefinite duration; no Iowa decision on that point is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "ia-550-2-trade-secret-definition-and-the-duty-branch-of-misappropriation",
+    "question": "Will our Iowa confidentiality clause protect this information as a trade secret?",
+    "rule": "Only if the information meets chapter 550's definition. A trade secret is information — including a formula, pattern, compilation, program, device, method, technique or process — that both derives independent economic value, actual or potential, from not being generally known to and not being readily ascertainable by proper means by a person able to obtain economic value from its disclosure or use, and is the subject of efforts that are reasonable under the circumstances to maintain its secrecy (Iowa Code § 550.2(4)). Misappropriation includes disclosure or use of a trade secret by a person who at the time of disclosure or use knows that the trade secret is acquired under circumstances giving rise to a duty to maintain its secrecy or limit its use (§ 550.2(3)(d)) — the branch a confidentiality agreement supplies. An action for misappropriation under the chapter must be brought within three years after the misappropriation is discovered or should have been discovered by the exercise of reasonable diligence, and a continuing misappropriation constitutes a single claim (§ 550.8).",
+    "trap": "Reasonable efforts to maintain secrecy are part of the definition, so the confidentiality clause is evidence for the statutory claim as well as a contract term; information the business does not in fact guard is not a trade secret whatever the agreement calls it. Two things this rule does NOT say. Iowa's chapter 550 as published runs from § 550.1 to § 550.8 and contains no provision displacing other civil remedies for misappropriation, so whether an Iowa contract claim on the confidentiality clause stands alongside a chapter 550 claim is a question the chapter does not answer and this rule does not answer either. And the three-year period in § 550.8 governs a statutory misappropriation action; on its words it does not set the period for a breach-of-contract claim on the clause.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 550.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_550_2",
+            "quote": "“Trade secret” means information, including but not limited to a formula, pattern, compilation, program, device, method, technique, or process that is both of the following: a. Derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by a person able to obtain economic value from its disclosure or use. b. Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 550.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_550_2",
+            "quote": "Disclosure or use of a trade secret by a person who at the time of disclosure or use knows that the trade secret is acquired under circumstances giving rise to a duty to maintain its secrecy or limit its use.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 550.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_550_2",
+            "quote": "“Improper means” means theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage, including but not limited to espionage through an electronic device.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 550.8",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_550_8",
+            "quote": "An action for misappropriation under this chapter must be brought within three years after the misappropriation is discovered or should have been discovered by the exercise of reasonable diligence. For purposes of this section, a continuing misappropriation constitutes a single claim.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Every section of Iowa's Uniform Trade Secrets Act was read in full: § 550.1 (short title), § 550.2 (definitions), § 550.3 (injunctive relief, including the royalty injunction in exceptional circumstances), § 550.4 (damages, including exemplary damages up to twice the compensatory award for wilful and malicious misappropriation), § 550.5 (consent defence), § 550.6 (attorney fees on bad faith or wilful and malicious misappropriation), § 550.7 (preservation of secrecy) and § 550.8. The chapter contains eight sections and NONE of them displaces other civil remedies or requires uniform construction; the statement in this rule's trap that there is no displacement provision is that measured observation and nothing more. NOT established: whether an Iowa court will hold a contract or tort claim over confidential information preempted by chapter 550, and whether a confidentiality covenant of unlimited duration over information that is not a trade secret is enforceable — no Iowa authority on either is cited here. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "unconscionability",
+    "rule_id": "ia-campney-five-factors-and-adhesion-as-a-threshold",
+    "question": "Can the other side get out of this clause as unconscionable in Iowa?",
+    "rule": "Under UCC article 2, if the court as a matter of law finds the contract or any clause of it to have been unconscionable at the time it was made, it may refuse to enforce the contract, enforce the remainder without the unconscionable clause, or so limit the application of the clause as to avoid any unconscionable result; and when unconscionability is claimed or appears, the parties must be afforded a reasonable opportunity to present evidence as to the clause's commercial setting, purpose and effect (Iowa Code § 554.2302). On the factors, the Supreme Court in Home Federal Savings & Loan Ass'n of Algona v. Campney said that \"a court considering a claim of unconscionability should examine the factors of assent, unfair surprise, notice, disparity of bargaining power, and substantive unfairness.\"",
+    "trap": "Adhesion is a threshold, not the answer. Campney treated the question whether a contract is one of adhesion as \"in the nature of a threshold issue relevant to the question of applicability of the unconscionability doctrine\", and held plainly that \"Clearly a finding that a contract is adhesive does not require a determination of unconscionability.\" The statutory branch is measured at the time the contract was made, not by how the clause turned out in the event, and § 554.2302(2) gives BOTH sides a right to put in evidence about commercial setting, purpose and effect — which makes unconscionability a poor issue to try to resolve on the papers.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2302",
+            "quote": "When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "357 N.W.2d 613",
+        "name": "Home Federal Savings & Loan Ass'n of Algona v. Campney",
+        "court": "Iowa",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "b26508347a644a1b",
+            "cl_opinion_id": "2221079",
+            "quote": "We have said that a court considering a claim of unconscionability should examine the factors of assent, unfair surprise, notice, disparity of bargaining power, and substantive unfairness.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "357 N.W.2d 613",
+        "name": "Home Federal Savings & Loan Ass'n of Algona v. Campney",
+        "court": "Iowa",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "b26508347a644a1b",
+            "cl_opinion_id": "2221079",
+            "quote": "We believe that the issue of whether a given contract is one of adhesion is in the nature of a threshold issue relevant to the question of applicability of the unconscionability doctrine.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "357 N.W.2d 613",
+        "name": "Home Federal Savings & Loan Ass'n of Algona v. Campney",
+        "court": "Iowa",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "b26508347a644a1b",
+            "cl_opinion_id": "2221079",
+            "quote": "Clearly a finding that a contract is adhesive does not require a determination of unconscionability.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Campney read in context; the row records no dissent. The case upheld a due-on-sale clause in a mortgage against an unconscionability attack, so the factor list is stated by the Court and then applied to reject the claim — it is a statement of the test, not a holding that any particular clause is unconscionable. A scan of the 22 later Iowa rows citing 357 N.W.2d 613 produced one negative-word window, read and found to be a later court applying Campney rather than criticising it. This row carries no applies_to tag: § 554.2302 is an article 2 section but Campney is not an article 2 case, and Iowa Code § 537.5108 (unconscionability under the Iowa Consumer Credit Code) was NOT read and is not relied on. NOT established: whether Iowa requires both procedural and substantive unconscionability, and what weight each Campney factor carries. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "usury",
+    "rule_id": "ia-535-2-floating-ceiling-and-the-agree-to-any-rate-exemptions",
+    "question": "Is the interest rate in our Iowa contract lawful?",
+    "rule": "Iowa's general ceiling is a published floating rate, with a wide list of borrowers who may agree to any rate at all. The maximum lawful rate that may be provided for in a written agreement entered into during a calendar month on or after April 13, 1979 is two percentage points above the monthly average ten-year constant maturity interest rate of United States government notes and bonds published by the Board of Governors of the Federal Reserve System for the second preceding calendar month, rounded to the nearest one-fourth of one percent per year (Iowa Code § 535.2(3)(a)(1)); the superintendent of banking determines and publishes that rate each month. Where the parties have not agreed in writing, the rate on money due by express contract, money loaned and the other listed cases is five cents on the hundred by the year (§ 535.2(1)). But the persons listed in § 535.2(2)(a) \"may agree in writing to pay any rate of interest\", and a person so agreeing \"shall not plead or interpose the claim or defense of usury in any action or proceeding\" — among them a person borrowing to acquire real property or to refinance a contract for deed, a domestic or foreign corporation, and a person borrowing money or obtaining credit for business or agricultural purposes. Charging more than the chapter allows is prohibited (§ 535.4), and the penalty is a forfeiture of eight cents on the hundred by the year on the principal remaining unpaid at judgment, with judgment for the plaintiff for the principal without costs and for the state for the forfeiture (§ 535.5).",
+    "trap": "The exemption list is where most commercial lending lands, and the statute drafts it as a bar rather than a defence: an exempt borrower who signed cannot plead or interpose usury at all, and the lender is not subject to any penalty or forfeiture for agreeing to receive or receiving the interest. Section 535.2(2)(b)(6) goes further and makes the subsection supersede interest-rate and finance-charge limitations elsewhere in the Code for those transactions, naming chapters 321, 322, 524, 533, 536A and 537. Timing is the other trap in the borrower's favour: a rate lawful when the agreement was made \"shall ... remain lawful during the entire term of the agreement, including any extensions or renewals thereof, for all money due or to become due thereunder including future advances\" (§ 535.2(3)(b)), so the floating ceiling is tested at contracting rather than month by month. This rule does not address federal preemption, and does not state the rate rules of Iowa's banking, credit union, industrial loan or consumer credit chapters.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_2",
+            "quote": "The maximum lawful rate of interest which may be provided for in any written agreement for the payment of interest entered into during any calendar month commencing on or after April 13, 1979, shall be two percentage points above the monthly average ten-year constant maturity interest rate of United States government notes and bonds as published by the board of governors of the federal reserve system for the calendar month second preceding the month during which the maximum rate based thereon will be effective, rounded to the nearest one-fourth of one percent per year.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_2",
+            "quote": "The following persons may agree in writing to pay any rate of interest, and a person so agreeing in writing shall not plead or interpose the claim or defense of usury in any action or proceeding, and the person agreeing to receive the interest is not subject to any penalty or forfeiture for agreeing to receive or for receiving the interest:",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_2",
+            "quote": "A person borrowing money or obtaining credit for business or agricultural purposes, or a person borrowing money or obtaining credit in an amount which exceeds the threshold amount, as defined in section 537.1301, for personal, family, or household purposes.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_2",
+            "quote": "Any rate of interest specified in any written agreement providing for the payment of interest shall, if such rate was lawful at the time the agreement was made, remain lawful during the entire term of the agreement, including any extensions or renewals thereof, for all money due or to become due thereunder including future advances, if any.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_2",
+            "quote": "With respect to any transaction referred to in paragraph “a” of this subsection, this subsection supersedes any interest-rate or finance-charge limitations contained in the Code, including but not limited to this chapter and chapters 321, 322, 524, 533, 536A, and 537.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.4",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_4",
+            "quote": "No person shall, directly or indirectly, receive in money or in any other thing, or in any manner, any greater sum or value for the loan of money, or upon contract founded upon any sale or loan of real or personal property, than is in this chapter prescribed.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 535.5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_535_5",
+            "quote": "If it is ascertained in an action brought on a contract that a rate of interest has been contracted for, directly or indirectly, in money or in property, greater than is authorized by this chapter, the rate shall work a forfeiture of eight cents on the hundred by the year upon the amount of the principal remaining unpaid upon the contract at the time judgment is rendered, and the court shall enter final judgment in favor of the plaintiff and against the defendant for the principal sum remaining unpaid without costs",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Iowa Code § 535.2 read in full, including subsection 2(a)(1)-(5) (the full exemption list), subsection 2(b) (rules of construction for determining the purpose of a loan), subsection 3(c)-(d), subsections 4 and 6 (transitional rules for agreements executed before 1978-08-03 and between 1978-08-03 and 1979-07-01), subsection 5 (§ 636.46 loans excluded) and subsection 7 (the section does not apply to a charge imposed for late payment of rent). Sections 535.4 and 535.5 read in full. Section 535.7 (assignee of a usurious contract) was noted but is not relied on. The \"threshold amount\" in § 535.2(2)(a)(2) and (5) is defined in § 537.1301, which was NOT read, so this rule names it and does not state a dollar figure. NOT established: the current published maximum rate for any given month, which the store cannot supply; federal preemption of the Iowa ceiling; and the rate rules for banks, credit unions and licensed lenders under chapters 524, 533 and 536A, which were not read. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "venue-selection",
+    "rule_id": "ia-outbound-forum-clauses-not-binding-inbound-consent-enforced",
+    "question": "Will an Iowa court honour our clause sending disputes to another state's courts?",
+    "rule": "Not as a jurisdictional bar. In Davenport Machine & Foundry Co. v. Adolph Coors Co. the Supreme Court held \"that clauses purporting to deprive Iowa courts of jurisdiction they would otherwise have are not legally binding in Iowa\", and held further \"that under a motion to dismiss an Iowa action without prejudice on the ground of forum nonconveniens, such a clause, if otherwise fair, will be given consideration along with the other factors presented, in determining whether the Iowa court should decline to entertain the suit.\" A clause pointing the other way is different. In EFCO Corp. v. Norman Highway Constructors, Inc. the Court read Davenport narrowly — \"our disapproval of such clauses was only with respect to a denial of personal jurisdiction to a court that clearly had jurisdiction based on the activities of the defendant\" — and upheld jurisdiction on a clause by which the customer consented to the Iowa District Court for Polk County, because \"This is not a case in which a choice-of-forum clause has been used to deprive a court of jurisdiction that it otherwise has. It is a case of consent to jurisdiction.\"",
+    "trap": "The direction of the clause decides its fate in Iowa. An inbound clause consenting to Iowa jurisdiction is a consent the Court enforced in EFCO; an outbound clause purporting to strip an Iowa court of jurisdiction it otherwise has is, on Davenport's words, not legally binding, and survives only as one factor in a forum non conveniens discretion. An adhesion argument is no shortcut against the clause either: in EFCO a clause printed on the reverse of a form contract, on a side carrying no signature lines, which the signing officer testified he had not read, was \"insufficient to establish the invalidity of the choice-of-forum clause as a matter of law\", leaving the question one of fact. And for an in-state construction contract there is a statute: a provision requiring any litigation, mediation, arbitration or other dispute resolution proceeding arising from the contract to be conducted in another state is void and unenforceable as contrary to public policy, and the section adds that such proceedings shall be conducted in this state (Iowa Code § 537A.6(2)(b), (4)).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "314 N.W.2d 432",
+        "name": "Davenport Machine & Foundry Co. v. Adolph Coors Co.",
+        "court": "Iowa",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "9b3c37ef976febc8",
+            "cl_opinion_id": "1763849",
+            "quote": "After consideration of Field and the other authorities, we hold that clauses purporting to deprive Iowa courts of jurisdiction they would otherwise have are not legally binding in Iowa.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "314 N.W.2d 432",
+        "name": "Davenport Machine & Foundry Co. v. Adolph Coors Co.",
+        "court": "Iowa",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "9b3c37ef976febc8",
+            "cl_opinion_id": "1763849",
+            "quote": "We further hold, however, that under a motion to dismiss an Iowa action without prejudice on the ground of forum nonconveniens, such a clause, if otherwise fair, will be given consideration along with the other factors presented, in determining whether the Iowa court should decline to entertain the suit.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "606 N.W.2d 297",
+        "name": "EFCO Corp. v. Norman Highway Constructors, Inc.",
+        "court": "Iowa",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "ad2fe7ee65527b73",
+            "cl_opinion_id": "2221873",
+            "quote": "Our reading of that decision suggests that our disapproval of such clauses was only with respect to a denial of personal jurisdiction to a court that clearly had jurisdiction based on the activities of the defendant.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "606 N.W.2d 297",
+        "name": "EFCO Corp. v. Norman Highway Constructors, Inc.",
+        "court": "Iowa",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "ad2fe7ee65527b73",
+            "cl_opinion_id": "2221873",
+            "quote": "This is not a case in which a choice-of-forum clause has been used to deprive a court of jurisdiction that it otherwise has. It is a case of consent to jurisdiction.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "606 N.W.2d 297",
+        "name": "EFCO Corp. v. Norman Highway Constructors, Inc.",
+        "court": "Iowa",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ia",
+            "row_id": "ad2fe7ee65527b73",
+            "cl_opinion_id": "2221873",
+            "quote": "We believe that this evidence is insufficient to establish the invalidity of the choice-of-forum clause as a matter of law.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_6",
+            "quote": "b. Requires any litigation, mediation, arbitration, or other dispute resolution proceeding arising from the in-state construction contract to be conducted in another state.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 537A.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_537A_6",
+            "quote": "Any litigation, mediation, arbitration, or other dispute resolution proceeding arising from or relating to an in-state construction contract shall be conducted in this state.",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Davenport read in context; the row records no dissent. A scan of the 11 later Iowa rows citing 314 N.W.2d 432 produced one negative-word window, and it is EFCO limiting Davenport — which is why EFCO is cited here and the two holdings are stated separately rather than as one rule. EFCO read in context; no dissent in the row. Iowa Code § 537A.6 read in full. NOT established: how an Iowa court weighs an outbound forum clause in the forum non conveniens balance in any given case; whether a clause that merely designates a venue without purporting to oust Iowa jurisdiction falls on the EFCO side; and whether federal law would require a different result in a federal court sitting in Iowa. No applies_to tag: the case law is general and only the statute is construction-specific. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "warranty-disclaimer",
+    "rule_id": "ia-554-2316-conspicuous-disclaimer-and-the-as-is-route",
+    "question": "Is our 'AS IS, no warranties' language good in Iowa?",
+    "rule": "Yes, on the section’s own terms. Under Iowa Code § 554.2316(2), itself \"Subject to subsection 3\", excluding or modifying the implied warranty of merchantability requires language that mentions merchantability and, in a writing, must be conspicuous; excluding or modifying an implied warranty of fitness must be by a writing and conspicuous, and language excluding all implied warranties of fitness is sufficient if it states, for example, that \"There are no warranties which extend beyond the description on the face hereof.\" Notwithstanding subsection 2, unless the circumstances indicate otherwise all implied warranties are excluded by expressions like \"as is\", \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty (§ 554.2316(3)(a)); there is also no implied warranty as to defects an examination ought in the circumstances to have revealed where the buyer examined the goods or a sample as fully as desired or refused to examine them, and an implied warranty can be excluded or modified by course of dealing, course of performance or usage of trade.",
+    "trap": "The \"as is\" route in subsection 3(a) does not require the word merchantability and does not require conspicuousness on the section's words — but it is conditioned on \"unless the circumstances indicate otherwise\" and on language that in common understanding makes the exclusion plain, so it is not a magic phrase. A disclaimer also has to survive subsection 1: words tending to negate or limit warranty are construed wherever reasonable as consistent with words creating an express warranty and, subject to the parol-evidence section (§ 554.2202), the negation is inoperative to the extent that construction is unreasonable — so a disclaimer that contradicts an express warranty in the same document does not simply win. And § 554.2316(4) sends any limit on remedies for breach of warranty to §§ 554.2718 and 554.2719, which is a separate test from the disclaimer's form.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2316",
+            "quote": "Subject to subsection 3, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that “There are no warranties which extend beyond the description on the face hereof.”",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2316",
+            "quote": "unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like “as is”, “with all faults” or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty; and",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2316",
+            "quote": "Words or conduct relevant to the creation of an express warranty and words or conduct tending to negate or limit warranty shall be construed wherever reasonable as consistent with each other; but subject to the provisions of this Article on parol or extrinsic evidence (section 554.2202) negation or limitation is inoperative to the extent that such construction is unreasonable.",
+            "checked": "2026-09-19"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 554.2316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-19",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_554_2316",
+            "quote": "when the buyer before entering into the contract has examined the goods or the sample or model as fully as the buyer desired or has refused to examine the goods there is no implied warranty with regard to defects which an examination ought in the circumstances to have revealed to the buyer; and",
+            "checked": "2026-09-19"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-19",
+    "status": "verified",
+    "notes": "Iowa Code § 554.2316 read in full, including subsection 3(c) (exclusion or modification by course of dealing, course of performance or usage of trade) and subsection 4. \"Conspicuous\" is defined in Iowa Code § 554.1201, which was NOT read, so this rule uses the statute's word without defining it. This row carries no applies_to tag because whether article 2 governs a mixed goods-and-services or software transaction is not answered by this section. NOT established: how Iowa courts apply the conspicuousness requirement in practice, whether a disclaimer delivered after the sale is effective, and the interaction with the federal Magnuson-Moss Warranty Act; no authority on those points is cited here. This store holds no statute effective dates."
+  }
+]

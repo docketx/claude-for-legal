@@ -1,0 +1,624 @@
+[
+  {
+    "jurisdiction": "ut",
+    "clause": "residency-and-venue",
+    "rule_id": "ut-ninety-days-county-residency-sets-both-residency-and-venue-not-a-separate-state-and-county-test",
+    "question": "How long must a spouse live in Utah, and in the county, before filing for divorce?",
+    "rule": "Ninety days of county residency by the petitioner OR the respondent -- not California's or Texas's separate state-and-county tests, and not “three months,” which is the old Title 30 shorthand for the same figure; the recodified corpus states the number in days. Utah Code § 81-4-402: “An individual may bring a petition for divorce if: the individual or the individual's spouse is an actual and bona fide resident of the county where the petition is filed for at least 90 days before the day on which the petition is filed; the individual is a member of the armed forces of the United States and the individual is stationed under military orders in this state for at least 90 days before the day on which the petition is filed; or both parties to the marriage have consented to personal jurisdiction for divorce or annulment under Subsection 81-2-303(5)(a)(ii) .”",
+    "trap": "Two traps. First, this section collapses what California and Texas split into a state-residency prong and a separate, shorter county-residency prong into ONE 90-day county test -- there is no additional statewide residency period stated anywhere in this section's own text, unlike Cal. Fam. Code § 2320's six-months-state-plus-three-months-county structure or Tex. Fam. Code § 6.301's analogous split. Second, “90 days” is not simply “three months” restated: the statute's own force word is a day count, not a calendar-month count, and the two are not always identical -- this answer quotes the statute's own unit rather than translating it. The section also supplies two alternate bases having nothing to do with residency duration at all: 90 days of in-state military stationing under orders, or both parties simply consenting to personal jurisdiction under § 81-2-303(5)(a)(ii) -- that cross-referenced section was not independently read in this pass; NOT ESTABLISHED beyond the cross-reference itself.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-402",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_402",
+            "quote": "An individual may bring a petition for divorce if: the individual or the individual's spouse is an actual and bona fide resident of the county where the petition is filed for at least 90 days before the day on which the petition is filed; the individual is a member of the armed forces of the United States and the individual is stationed under military orders in this state for at least 90 days before the day on which the petition is filed; or both parties to the marriage have consented to personal jurisdiction for divorce or annulment under Subsection 81-2-303(5)(a)(ii) .",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut), Utah Code § 81-4-402, row UT_81_81_4_402, the residency-basis sentence in full. This section is Utah's 2024 recodification (Chapter 366, 2024 General Session) of former Title 30 § 30-3-1(2); the corpus holds ONLY Title 81 for Utah family law (confirmed: 0 rows with section prefix “30-”, 462 rows with prefix “81-”) -- Title 30's former text was not independently re-read because it is no longer the law and is not what the corpus publishes. Subsection 81-2-303(5)(a)(ii) was read only as it appears quoted here; its own text was not pulled into this row. Venue (“the county where the petition is filed”) is stated in this same sentence as the place the 90-day residency must be established, not as a separate provision -- unlike Texas, which has a distinct venue subsection."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "grounds",
+    "rule_id": "ut-ten-enumerated-grounds-mixing-fault-and-no-fault-with-guardian-ad-litem-safeguards-for-the-insanity-ground",
+    "question": "Does a Utah divorce require proving someone did something wrong?",
+    "rule": "No -- “irreconcilable differences” is one of ten listed grounds, and a petitioner may plead it without proving fault -- but unlike California and Washington, which this plugin's other rows show keep only no-fault grounds, Utah's statute keeps nine fault-based (or fault-adjacent) grounds alongside it. Utah Code § 81-4-405: “A court may order the dissolution of a marriage contract between the petitioner and the respondent on the grounds of: impotency of the respondent at the time of marriage; adultery committed by the respondent subsequent to marriage; willful desertion of the petitioner by the respondent for more than one year; willful neglect of the respondent to provide for the petitioner the common necessaries of life; habitual drunkenness of the respondent; conviction of the respondent for a felony; cruel treatment of the petitioner by the respondent to the extent of causing bodily injury or great mental distress to the petitioner; irreconcilable differences of the marriage; incurable insanity; or when the petitioner and respondent have lived separately under a decree of separate maintenance of any state for three consecutive years without cohabitation.” The insanity ground alone carries its own due-process safeguards: “A court may not order the dissolution of a marriage contract between the petitioner and the respondent on the grounds of insanity unless: the respondent has been adjudged insane by the appropriate authorities of this or another state prior to the commencement of the action; and the court finds by the testimony of competent witnesses that the insanity of the respondent is incurable. The court shall appoint for the respondent a guardian ad litem who shall protect the interests of the respondent.”",
+    "trap": "A reader who only knows “Utah recognizes irreconcilable differences” would miss that nine OTHER grounds remain live in the same sentence -- the opposite trap from this plugin's California grounds row, which found a full-text search for “adultery” and “cruelty” returned 0 and 1 (unrelated) hits; Utah's own statute uses both words directly, plus impotency, desertion, neglect, habitual drunkenness, felony conviction, and incurable insanity. “Incurable insanity” is not pleadable on a petitioner's say-so: the statute requires a PRIOR adjudication of insanity by a court “of this or another state,” a guardian ad litem for the respondent, service on the county attorney (who independently investigates and may take depositions), and proof by “the testimony of competent witnesses” that the insanity is incurable -- none of which apply to the other nine grounds. This rule does not establish whether proving a fault ground changes the property-division outcome in Utah (this plugin's spousal-support row separately establishes that fault CAN affect alimony specifically) -- the property-division link was not searched for in this pass; NOT ESTABLISHED here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-405",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_405",
+            "quote": "A court may order the dissolution of a marriage contract between the petitioner and the respondent on the grounds of: impotency of the respondent at the time of marriage; adultery committed by the respondent subsequent to marriage; willful desertion of the petitioner by the respondent for more than one year; willful neglect of the respondent to provide for the petitioner the common necessaries of life; habitual drunkenness of the respondent; conviction of the respondent for a felony; cruel treatment of the petitioner by the respondent to the extent of causing bodily injury or great mental distress to the petitioner; irreconcilable differences of the marriage; incurable insanity; or when the petitioner and respondent have lived separately under a decree of separate maintenance of any state for three consecutive years without cohabitation.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-405",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_405",
+            "quote": "A court may not order the dissolution of a marriage contract between the petitioner and the respondent on the grounds of insanity unless: the respondent has been adjudged insane by the appropriate authorities of this or another state prior to the commencement of the action; and the court finds by the testimony of competent witnesses that the insanity of the respondent is incurable. The court shall appoint for the respondent a guardian ad litem who shall protect the interests of the respondent.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut), Utah Code § 81-4-405, row UT_81_81_4_405, two quotes: the ten-ground list in full, and the insanity-ground guardian ad litem sentence. The subsection requiring service on the county attorney, the county attorney's investigation duty, and the cost-apportionment clause were read but not quoted here. This is the renumbered, amended version of former Title 30 § 30-3-1(3); Title 30 itself is not in this corpus (see residency-and-venue row notes)."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "waiting-period",
+    "rule_id": "ut-thirty-day-minimum-from-filing-waivable-for-extraordinary-circumstances-interim-orders-still-available",
+    "question": "How soon after filing can a Utah divorce actually become final?",
+    "rule": "Not less than 30 days after the petition is filed -- measured from FILING, not from service or the respondent's appearance the way this plugin's California waiting-period row describes -- and the court can shorten that floor only on a finding of extraordinary circumstances. Utah Code § 81-4-402: “The court may not enter a decree of divorce until 30 days after the day on which the petition is filed, unless the court finds that extraordinary circumstances exist. The court may make interim orders as the court considers just and equitable before the expiration of the 30-day period described in Subsection (3)(a).”",
+    "trap": "The 30-day figure is a floor on ENTERING THE DECREE, not a bar on the court doing anything at all in the meantime -- the same sentence's own second half authorizes “interim orders” during the 30-day window (this plugin's temporary-orders row develops that point). “Extraordinary circumstances” is the statute's own escape valve for shortening the 30 days; this answer's text does not define what qualifies, and that was not searched for in case law in this pass -- NOT ESTABLISHED beyond the bare statutory phrase. This is a materially shorter floor than Texas's flat 60-day wait (Tex. Fam. Code § 6.702(a), this plugin's Texas row) and has no exact California counterpart, since California's clock instead runs six months from service or appearance rather than 30 days from filing.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-402",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_402",
+            "quote": "The court may not enter a decree of divorce until 30 days after the day on which the petition is filed, unless the court finds that extraordinary circumstances exist. The court may make interim orders as the court considers just and equitable before the expiration of the 30-day period described in Subsection (3)(a).",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut), Utah Code § 81-4-402, row UT_81_81_4_402, the 30-day/interim-orders sentences (the same row cited in residency-and-venue, a different span of the same section). The mandatory-courses subsections of the same section, which condition when a motion may even be heard, are addressed in the temporary-orders and divorce-orientation-course rows rather than repeated here."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "marital-vs-non-marital-property",
+    "rule_id": "ut-not-community-property-marital-property-ordinarily-divided-equally-separate-property-to-acquiring-spouse-three-judicial-exceptions",
+    "question": "Is a given asset separate property or marital property in a Utah divorce, and is Utah a community-property state?",
+    "rule": "Utah is NOT a community-property state -- unlike California and Washington, whose statutes directly define community property, no Title 81 section defines “marital property” or “separate property” at all; the classification rule comes entirely from Utah case law. The Utah Court of Appeals states the default plainly: “In a divorce, ‘marital property is ordinarily divided equally between the divorcing spouses and separate property . . . will be awarded to the acquiring spouse.’ Stonehocker v. Stonehocker, 2008 UT App 11, ¶ 13, 176 P.3d 476 (cleaned up); see also Fischer v. Fischer, 2021 UT App 145, ¶ 23, 505 P.3d 56 (‘In dividing the marital estate in a divorce proceeding, each party is presumed to be entitled to fifty percent of the marital property.’ (cleaned up)).” Separate property is not always walled off: “Therefore, it is typical in divorce matters that ‘each party retain the separate property he or she brought into the marriage, including any appreciation thereof.’ Id. (quotation simplified). There are, however, three circumstances where Utah courts have allowed a spouse's separate property to be divided between the parties at the time of the divorce: (1) ‘when separate property has been commingled;’ (2) ‘when the other spouse has augmented, maintained, or protected the separate property;’ and (3) ‘in extraordinary situations when equity so demands.’ Id. ¶ 33.”",
+    "trap": "this answer is built entirely from case law, not statute -- a search of the published Title 81 corpus for section titles containing “marital,” “equitable,” or “community property” found none defining property classification (see the division-standard row for the same honest negative on the division standard itself), so a reader looking for a Utah analog to Cal. Fam. Code §§ 760/770/771 will not find one; NOT ESTABLISHED as a statutory matter. The three named exceptions are not a closed, mechanical test -- the third, “extraordinary situations when equity so demands,” is an equity catch-all the courts have not reduced to a bright line. “Fifty percent” in Fischer is a presumption applied to the MARITAL estate specifically, not to the parties' combined total wealth including separate property -- conflating the two overstates what either quoted case says.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2025 UT App 149",
+        "name": "Stephenson v. Stephenson",
+        "court": "ut-utahctapp",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "84d2744020402c54",
+            "cl_opinion_id": "11172880",
+            "quote": "In a divorce, “marital property is ordinarily divided equally between the divorcing spouses and separate property . . . will be awarded to the acquiring spouse.” Stonehocker v. Stonehocker, 2008 UT App 11, ¶ 13, 176 P.3d 476 (cleaned up); see also Fischer v. Fischer, 2021 UT App 145, ¶ 23, 505 P.3d 56 (“In dividing the marital estate in a divorce proceeding, each party is presumed to be entitled to fifty percent of the marital property.” (cleaned up)).",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024 UT App 156",
+        "name": "Godfrey v. Godfrey",
+        "court": "ut-utahctapp",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "fe5d67168db3e35e",
+            "cl_opinion_id": "10737120",
+            "quote": "Therefore, it is typical in divorce matters that “each party retain the separate property he or she brought into the marriage, including any appreciation thereof.” Id. (quotation simplified). There are, however, three circumstances where Utah courts have allowed a spouse’s separate property to be divided between the parties at the time of the divorce: (1) “when separate property has been commingled;” (2) “when the other spouse has augmented, maintained, or protected the separate property;” and (3) “in extraordinary situations when equity so demands.” Id. ¶ 33.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-ut: Stephenson v. Stephenson, 2025 UT App 149 (row 84d2744020402c54, cl_opinion_id 11172880); and Godfrey v. Godfrey, 2024 UT App 156 (row fe5d67168db3e35e, cl_opinion_id 10737120). Both identified via the CourtListener citation map (cluster ids 10706293 and 10270530) rather than by name, because both cases are between same-surnamed spouses and a name-only match is too weak under this store's own identity rule (fewer than two distinctive shared words). STATUTE SEARCH RECORDED: docketx/us-statutes (jurisdiction ut) section-title scan for “marital,” “equitable,” “community property” found none defining property classification; a full-text scan of the whole Title 81 corpus (28,311 rows) for “marital property” found none either -- the classification and the equitable-distribution standard are both judge-made in Utah, not codified, unlike California, Washington, Texas, and Virginia's codified property rows in this plugin."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "division-standard",
+    "rule_id": "ut-fair-just-and-equitable-result-is-a-judicial-standard-not-a-statutory-percentage-decree-may-include-equitable-property-orders",
+    "question": "Does a Utah divorce court have to split the marital estate by a fixed percentage?",
+    "rule": "No fixed percentage appears in the statute at all -- the standard itself is judge-made. The Utah Court of Appeals states it directly: “Under Utah law, the primary purpose of property division in a divorce proceeding ‘is to achieve a fair, just, and equitable result between the parties.’ Boyer v. Boyer, 2011 UT App 141, ¶ 10, 259 P.3d 1063 (cleaned up).” The only statutory hook is a grant of authority to include property orders in the decree at all, without a standard written into its own text: Utah Code § 81-4-406: “The court may include in the divorce decree any equitable orders relating to: the parties, including any alimony to be awarded to a party in accordance with Part 5, Spousal Support; a child of the parties; and any property, debts, or obligations.”",
+    "trap": "“Fair, just, and equitable” is not a numeric formula the way California's § 2550 (“divide the community estate of the parties equally”) is -- there is no percentage anywhere in either quoted text, and this plugin's marital-vs-non-marital-property row separately records that the ordinarily-equal-division presumption for the MARITAL portion specifically is also case law (Stonehocker; Fischer's “presumed to be entitled to fifty percent”), not this section's own words. The word “equitable” in § 81-4-406 is authority to make ANY equitable order touching the parties, a child, or property/debts/obligations -- it does not, by its own text, state HOW the court is to divide anything; the how comes entirely from the case law this answer's other authority quotes. This rule does not establish whether Utah's standard functions more like Texas's “just and right” than California's flat equal-division command -- that comparison was not independently researched beyond noting the textual contrast.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2025 UT App 149",
+        "name": "Stephenson v. Stephenson",
+        "court": "ut-utahctapp",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "84d2744020402c54",
+            "cl_opinion_id": "11172880",
+            "quote": "Under Utah law, the primary purpose of property division in a divorce proceeding “is to achieve a fair, just, and equitable result between the parties.” Boyer v. Boyer, 2011 UT App 141, ¶ 10, 259 P.3d 1063 (cleaned up).",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-406",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_406",
+            "quote": "The court may include in the divorce decree any equitable orders relating to: the parties, including any alimony to be awarded to a party in accordance with Part 5, Spousal Support; a child of the parties; and any property, debts, or obligations.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-ut, Stephenson v. Stephenson, 2025 UT App 149 (row 84d2744020402c54, cl_opinion_id 11172880, the same row cited in marital-vs-non-marital-property for a different sentence), and docketx/us-statutes (jurisdiction ut), Utah Code § 81-4-406, row UT_81_81_4_406 (the same row cited in required-disclosures' neighbor sections for a different sentence -- here, the equitable-orders clause). § 81-4-406's decree-content requirements for debt allocation, life-insurance-beneficiary acknowledgment, and child-support inclusion were read but not quoted."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "spousal-support",
+    "rule_id": "ut-alimony-factors-plus-a-hard-length-of-marriage-cap-and-a-ten-year-rebuttable-standard-of-living-equalization-presumption",
+    "question": "What does a Utah court weigh in setting alimony, and how long can it last?",
+    "rule": "A statutory list of factors the court “shall consider,” plus a hard cap tying the alimony period to the length of the marriage itself -- a structural rule with no close analog in this plugin's California row. Utah Code § 81-4-502: “For a proceeding under Chapter 4, Dissolution of Marriage, or in a proceeding to modify alimony, the court shall consider at least the following factors in determining alimony: the standard of living existing during the marriage, which factors shall include the following: income; the approximate value of real and personal property; and any other factor that the court determines to be appropriate to enable the court to make a determination of the standard of living existing during the marriage; the financial condition and needs of the payee, provided that the payee may show financial needs by itemizing expenses present during the marriage rather than by itemizing post petition expenses; the payee's earning capacity or ability to produce income, including the impact of diminished workplace experience resulting from primarily caring for a minor child of the payor; the ability of the payor to provide support; the tax consequences of alimony on each party; the length of the marriage; whether the payee has custody of a minor child requiring support; whether the payee worked in a business owned or operated by the payor; and whether the payee directly contributed to any increase in the payor's skill by paying for education received by the payor or enabling the payor to attend school during the marriage.” Fault may matter: “The court may consider the fault of the parties in determining whether to award alimony and the terms of the alimony. The court may, when fault is at issue, close the proceedings and seal the court records.” The length-of-marriage cap: “Except as provided in Subsection (7)(c) , the court may not order alimony for a period of time longer than the length of the marriage. If a party is ordered to pay temporary alimony during the pendency of a divorce action, the court shall count the period of time that the party pays temporary alimony towards the period of time for which the party is ordered to pay alimony. At any time before the termination of alimony, the court may find extenuating circumstances or good cause that justify the payment of alimony for a longer period of time than the length of the marriage.” And a distinct long-marriage presumption: “If a marriage has been in effect for 10 years or more, and if the payee has significantly diminished workplace experience resulting from an agreement between the spouses that the payee reduce the payee's workplace experience to care for a minor child of the payor, it shall be the rebuttable presumption that the court equalize the parties' standard of living.”",
+    "trap": "This directly contradicts an assumption a reader might import from California: California's § 4336 keeps jurisdiction open INDEFINITELY for a marriage of long duration with no fixed termination year, while Utah's statute goes the other way and puts a HARD CEILING on alimony -- “the court may not order alimony for a period of time longer than the length of the marriage” -- subject only to a named exception (Subsection (7)(c), not independently read in this pass; NOT ESTABLISHED beyond the cross-reference) or a later finding of “extenuating circumstances or good cause.” Fault CAN affect whether and how much alimony is awarded in Utah (“the court may consider the fault of the parties”) -- this answer's fault sentence answers the alimony question specifically and does not extend to property division, which this plugin's grounds row separately leaves NOT ESTABLISHED. The 10-year standard-of-living-equalization presumption is narrower than it first sounds: it requires not just a 10-year marriage but a specific factual predicate -- “an agreement between the spouses that the payee reduce the payee's workplace experience to care for a minor child of the payor” -- a 10-year marriage without that career-sacrifice agreement does not trigger the presumption on this text alone. This rule does not quote § 81-4-502(8), the same-couple remarriage aggregate-marriage-length provision, or Subsection (7)(c)'s named exception to the length-of-marriage cap; both were read but not reproduced -- NOT ESTABLISHED beyond their existence.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-502",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_502",
+            "quote": "For a proceeding under Chapter 4, Dissolution of Marriage, or in a proceeding to modify alimony, the court shall consider at least the following factors in determining alimony: the standard of living existing during the marriage, which factors shall include the following: income; the approximate value of real and personal property; and any other factor that the court determines to be appropriate to enable the court to make a determination of the standard of living existing during the marriage; the financial condition and needs of the payee, provided that the payee may show financial needs by itemizing expenses present during the marriage rather than by itemizing post petition expenses; the payee's earning capacity or ability to produce income, including the impact of diminished workplace experience resulting from primarily caring for a minor child of the payor; the ability of the payor to provide support; the tax consequences of alimony on each party; the length of the marriage; whether the payee has custody of a minor child requiring support; whether the payee worked in a business owned or operated by the payor; and whether the payee directly contributed to any increase in the payor's skill by paying for education received by the payor or enabling the payor to attend school during the marriage.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-502",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_502",
+            "quote": "The court may consider the fault of the parties in determining whether to award alimony and the terms of the alimony. The court may, when fault is at issue, close the proceedings and seal the court records.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-502",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_502",
+            "quote": "Except as provided in Subsection (7)(c) , the court may not order alimony for a period of time longer than the length of the marriage. If a party is ordered to pay temporary alimony during the pendency of a divorce action, the court shall count the period of time that the party pays temporary alimony towards the period of time for which the party is ordered to pay alimony. At any time before the termination of alimony, the court may find extenuating circumstances or good cause that justify the payment of alimony for a longer period of time than the length of the marriage.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-502",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_502",
+            "quote": "If a marriage has been in effect for 10 years or more, and if the payee has significantly diminished workplace experience resulting from an agreement between the spouses that the payee reduce the payee's workplace experience to care for a minor child of the payor, it shall be the rebuttable presumption that the court equalize the parties' standard of living.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut), Utah Code § 81-4-502, row UT_81_81_4_502, four separate quotes from within the same section: the factors list, the fault-consideration sentences, the length-of-marriage cap, and the 10-year equalization presumption. Subsection (7)(c)'s named exception to the length-of-marriage cap, and subsection (8)'s remarried-couple aggregate-marriage-length rule (petitions filed on or after 2026-01-01), were read but not quoted -- flagged in the trap. § 81-4-501's definitions for this part were read but not quoted."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "child-support-guidelines",
+    "rule_id": "ut-child-support-guidelines-are-a-rebuttable-presumption-requiring-a-written-finding-to-deviate",
+    "question": "Is the Utah child support guideline amount mandatory, and can a court order something different?",
+    "rule": "The guideline amount is a rebuttable presumption, not an absolute -- but deviating from it requires a specific, on-the-record finding, not just a court's general sense that a different number is fairer. Utah Code § 81-6-202: “The court or administrative agency shall apply the child support guidelines as a rebuttable presumption in establishing or modifying the amount of temporary or permanent child support. The rebuttable presumption means the provisions and considerations required by the child support guidelines, the award amounts resulting from the application of the child support guidelines, and the use of worksheets consistent with the child support guidelines are presumed to be correct, unless the child support guidelines are rebutted in accordance with this section.” The rebuttal standard itself: “A written finding or specific finding on the record supporting the conclusion that complying with a provision of the child support guidelines or ordering an award amount resulting from use of the child support guidelines would be unjust, inappropriate, or not in the best interest of a child in a particular case is sufficient to rebut the presumption in that case.”",
+    "trap": "“Rebuttable” does not mean freely adjustable -- the statute's own force word for what rebuts it is a “written finding or specific finding on the record” that the guideline result would be “unjust, inappropriate, or not in the best interest of a child,” not simply a judge's preference for a different figure. this answer does not quote the calculation mechanics themselves: the base combined child support obligation formula, the child support tables, and the sole/joint/split-physical-custody obligation-calculation rules live in §§ 81-6-204 through 81-6-207 and the tables described in §§ 81-6-304 and 81-6-305, none quoted here -- a reader wanting the actual guideline NUMBER for a given income and custody split needs those sections, not this one, which answers only whether the guideline amount is mandatory. NOT ESTABLISHED here beyond the rebuttable-presumption mechanism itself.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-6-202",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_6_202",
+            "quote": "The court or administrative agency shall apply the child support guidelines as a rebuttable presumption in establishing or modifying the amount of temporary or permanent child support. The rebuttable presumption means the provisions and considerations required by the child support guidelines, the award amounts resulting from the application of the child support guidelines, and the use of worksheets consistent with the child support guidelines are presumed to be correct, unless the child support guidelines are rebutted in accordance with this section.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-6-202",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_6_202",
+            "quote": "A written finding or specific finding on the record supporting the conclusion that complying with a provision of the child support guidelines or ordering an award amount resulting from use of the child support guidelines would be unjust, inappropriate, or not in the best interest of a child in a particular case is sufficient to rebut the presumption in that case.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut), Utah Code § 81-6-202, row UT_81_81_6_202, two quotes: the rebuttable-presumption-and-worksheets sentence, and the deviation/rebuttal-standard sentence. This section is Utah's 2024 recodification of former Title 78B, Chapter 12; its own text opens “Amended by Chapter 155, 2026 General Session,” so it is current law as of this row's as_of date. The relevant-factors-on-deviation list, the calculation formula (§§ 81-6-204 to 81-6-207), and the child support tables (§§ 81-6-304, 81-6-305) were read but not quoted -- a scope limit, not settled content this row restates."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "custody-and-visitation",
+    "rule_id": "ut-best-interest-standard-plus-a-rebuttable-presumption-for-joint-legal-custody-only-no-presumption-for-joint-physical-custody",
+    "question": "Does Utah presume parents will share custody, and is there a set minimum visitation schedule?",
+    "rule": "Best interests governs, and Utah splits the presumption question by custody TYPE: there is a rebuttable presumption favoring joint LEGAL custody, but expressly no presumption either way for joint PHYSICAL custody. Utah Code § 81-9-204: “In a proceeding between parents in which the custody and parent-time of a minor child is at issue, the court shall consider the best interests of the minor child in determining any form of custody and parent-time. The court shall determine whether an order for custody or parent-time is in the best interests of the minor child by a preponderance of the evidence.” The same section forecloses a physical-custody presumption: “This section does not establish: a preference for either parent solely because of the gender of the parent; or a preference for or against joint physical custody or sole physical custody, but allows the court and the family the widest discretion to choose a parenting plan that is in the best interest of the minor child.” Legal custody is different: Utah Code § 81-9-205: “There is a rebuttable presumption that joint legal custody is in the best interest of the minor child, except in cases when there is: evidence of domestic violence, neglect, physical abuse, sexual abuse, or emotional abuse involving the minor child, a parent, or a household member of the parent in accordance with Section 81-9-104; special physical or mental needs of a parent or minor child, making joint legal custody unreasonable; physical distance between the residences of the parents, making joint decision making impractical in certain circumstances; or any other factor the court considers relevant, including the factors described in Subsection (5) and Section 81-9-204 .” And Utah's parent-time statute sets a numbered floor rather than leaving the schedule entirely to discretion: Utah Code § 81-9-302: “The parent-time schedule in this section applies when establishing a parent-time schedule for a minor child who is five to 18 years old. If the parties do not agree to a parent-time schedule for a minor child who is five to 18 years old, the following schedule is considered the minimum parent-time to which the noncustodial parent is entitled to the minor child: one weekday evening to be specified by the noncustodial parent or the court or Wednesday evening if not specified, beginning at 5:30 p.m. and ending at 8:30 p.m.”",
+    "trap": "The presumption split is easy to flatten into “Utah presumes joint custody,” which overstates the physical-custody half: § 81-9-204 says it “does not establish ... a preference for or against joint physical custody or sole physical custody” -- but Utah pairs that with a REBUTTABLE PRESUMPTION for joint LEGAL custody specifically. A reader must keep the two custody types separate. § 81-9-302's schedule is a MINIMUM, not a typical or recommended schedule -- it is “considered the minimum parent-time to which the noncustodial parent is entitled” only when the parties do not otherwise agree; this answer does not quote the full holiday table, the under-five schedule in § 81-9-304, the optional expanded schedule in § 81-9-303, or the equal parent-time schedule in § 81-9-305 -- NOT ESTABLISHED beyond the weekday-evening floor quoted. This rule states § 81-9-204's domestic-violence-history and coercive-control factors exist as bare statutory facts in the best-interest list, consistent with this plugin's family-violence caveat -- it does not build safety-planning guidance from them.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-9-204",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_9_204",
+            "quote": "In a proceeding between parents in which the custody and parent-time of a minor child is at issue, the court shall consider the best interests of the minor child in determining any form of custody and parent-time. The court shall determine whether an order for custody or parent-time is in the best interests of the minor child by a preponderance of the evidence.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-9-204",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_9_204",
+            "quote": "This section does not establish: a preference for either parent solely because of the gender of the parent; or a preference for or against joint physical custody or sole physical custody, but allows the court and the family the widest discretion to choose a parenting plan that is in the best interest of the minor child.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-9-205",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_9_205",
+            "quote": "There is a rebuttable presumption that joint legal custody is in the best interest of the minor child, except in cases when there is: evidence of domestic violence, neglect, physical abuse, sexual abuse, or emotional abuse involving the minor child, a parent, or a household member of the parent in accordance with Section 81-9-104; special physical or mental needs of a parent or minor child, making joint legal custody unreasonable; physical distance between the residences of the parents, making joint decision making impractical in certain circumstances; or any other factor the court considers relevant, including the factors described in Subsection (5) and Section 81-9-204 .",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-9-302",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_9_302",
+            "quote": "The parent-time schedule in this section applies when establishing a parent-time schedule for a minor child who is five to 18 years old. If the parties do not agree to a parent-time schedule for a minor child who is five to 18 years old, the following schedule is considered the minimum parent-time to which the noncustodial parent is entitled to the minor child: one weekday evening to be specified by the noncustodial parent or the court or Wednesday evening if not specified, beginning at 5:30 p.m. and ending at 8:30 p.m.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut): § 81-9-204, row UT_81_81_9_204, two quotes (best-interests/preponderance; no-gender/no-physical-custody-preference); § 81-9-205, row UT_81_81_9_205, the joint-legal-custody presumption sentence with its four carve-outs; and § 81-9-302, row UT_81_81_9_302, the opening scope-and-minimum-schedule sentence plus the first schedule item. The full holiday table, the optional and under-five schedules (§§ 81-9-303–304), the equal-parent-time schedule (§ 81-9-305), and § 81-9-204's coercive-control and domestic-violence factor provisions were read but not quoted -- consistent with the family-violence caveat."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "required-disclosures",
+    "rule_id": "ut-disclosure-duty-comes-from-the-rules-of-civil-procedure-not-the-family-code-title-81-imposes-none-directly",
+    "question": "What does Utah law require a spouse to disclose during a divorce?",
+    "rule": "Title 81's own statutes do not impose a financial-disclosure duty on divorcing spouses -- Utah's Court of Appeals has said directly that the duty comes from elsewhere: “Our rules of civil procedure apply in this situation, and they define the scope of each party’s disclosure obligations to the other. Certain information must be disclosed to the other party, even without a request.” And: “For all of these reasons, we decline John’s invitation to impose a common-law disclosure duty in this situation, and we hold that the scope of litigants’ disclosure duties is generally defined by the rules of civil procedure and not, in the first instance, by the common law.”",
+    "trap": "This is the mirror image of this plugin's Texas honest negative (Family Code disclosure duty confined to the opt-in collaborative process) and California's opposite finding (a mandatory statutory duty in every case) -- Utah's answer is neither: the duty exists, but it lives in a COURT RULE, not the Family Code and not the common law, per the Court of Appeals' own holding quoted above. THE RULE ITSELF, RECORDED BUT NOT CORPUS-VERIFIED HERE: Utah R. Civ. P. 26.1, “Disclosure and discovery in domestic relations actions” (rule effective 5/1/2026), requires each party to serve a fully completed Financial Declaration within 14 days after the first answer is filed, with seven categories of required attachments (account statements, two years of tax returns, 12 months of pay stubs, loan applications, real estate valuation documents, three months of account statements, and an estimation-with-explanation fallback when documents are unavailable), and authorizes sanctions -- including awarding non-disclosed assets to the other party -- for noncompliance. That rule text is described here for transparency, tagged [unverified] rather than [DocketRouter -- verified], because the tool this plugin uses to re-check quotes against the corpus does not cover the dataset that holds it -- see notes for exactly what was checked and how. STATUTE SEARCH RECORDED: Title 81 section titles containing “disclosure” returned only § 81-8-312 (a UIFSA nondisclosure-of-address exception in domestic-violence cases) and § 81-15-108 (arbitrator disclosure/disqualification) -- neither imposes a party financial-disclosure duty.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2025 UT App 64",
+        "name": "Miner v. Miner",
+        "court": "ut-utahctapp",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "7245302934b0e6b4",
+            "cl_opinion_id": "11048322",
+            "quote": "Our rules of civil procedure apply in this situation, and they define the scope of each party’s disclosure obligations to the other. Certain information must be disclosed to the other party, even without a request.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2025 UT App 64",
+        "name": "Miner v. Miner",
+        "court": "ut-utahctapp",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "7245302934b0e6b4",
+            "cl_opinion_id": "11048322",
+            "quote": "For all of these reasons, we decline John’s invitation to impose a common-law disclosure duty in this situation, and we hold that the scope of litigants’ disclosure duties is generally defined by the rules of civil procedure and not, in the first instance, by the common law.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-ut, Miner v. Miner, 2025 UT App 64 (row 7245302934b0e6b4, cl_opinion_id 11048322), two quotes from the same opinion's fraudulent-nondisclosure analysis. Identified via the CourtListener citation map (cite key “2025utapp64” -> cluster 10581734, matching the row's own cluster_id) because the parties share a surname and a name-only match would be too weak. Utah R. Civ. P. 26.1 was located in docketx/court-rules (data/state/ut/rules.jsonl.gz, row id UT_URCP_26_1) by direct download and full-text search for “26.1” (1 of 1,176 rules matched); its text is summarized and partially quoted in the `trap` field above but is NOT a `verified.corpus` authority in this row, because the DocketX corpus verifier's `shape_reasons()` only accepts dataset docketx/us-statutes or docketx/us-caselaw-<jurisdiction> -- docketx/court-rules is out of scope for this store's verifier as written. This gap is recorded, not papered over, per the task brief's instruction to “say honestly what is held.”"
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "temporary-orders",
+    "rule_id": "ut-interim-orders-during-the-thirty-day-wait-plus-a-standalone-temporary-separation-track-available-without-filing-for-divorce",
+    "question": "What can a Utah court order while a divorce is pending, and is there a way to get temporary orders without filing for divorce at all?",
+    "rule": "A court may enter interim orders during the divorce case itself, and Utah separately offers a standalone temporary-separation track that does not require filing for divorce at all. Utah Code § 81-4-402: “The court may make interim orders as the court considers just and equitable before the expiration of the 30-day period described in Subsection (3)(a).” The standalone track: Utah Code § 81-4-104: “An individual may file an action for a temporary separation order, without filing a petition for divorce, by filing a petition for temporary separation and motion for temporary orders if: the individual is lawfully married to the individual from whom the separation is sought; and both parties are residents of the state for at least 90 days before the day on which the action is filed; or both parties to the marriage have consented to personal jurisdiction for divorce or annulment under Subsection 81-2-303(5)(a)(ii) .” And its duration: “The temporary orders are valid for one year after the day on which the hearing for the order is held or until one of the following occurs: a petition for divorce is filed and consolidated with the petition for temporary separation; or the case is dismissed.”",
+    "trap": "This is a real, structural option this plugin's other states do not have in the same form: a party in Utah can obtain temporary orders (custody, support, restraint on disposing of property, and similar relief) through a stand-alone “temporary separation” petition WITHOUT ever filing for divorce -- the order lasts up to a year and, if a divorce petition is later filed and consolidated, the temporary orders continue into the divorce case. “Just and equitable” in § 81-4-402 is not defined further in this answer's quoted text -- what specific relief an interim order can grant (property restraint, custody, support amounts) is not enumerated in this section; NOT ESTABLISHED beyond the general “interim orders” authority quoted. Both the divorce-petition temporary-orders route and the standalone temporary-separation route are subject to the same mandatory-orientation-course gating this plugin's divorce-orientation-course row describes -- a party generally may not even get a motion HEARD until the course is completed, with an exception carved out only for a Rule 65A temporary restraining order.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-402",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_402",
+            "quote": "The court may make interim orders as the court considers just and equitable before the expiration of the 30-day period described in Subsection (3)(a).",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-104",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_104",
+            "quote": "An individual may file an action for a temporary separation order, without filing a petition for divorce, by filing a petition for temporary separation and motion for temporary orders if: the individual is lawfully married to the individual from whom the separation is sought; and both parties are residents of the state for at least 90 days before the day on which the action is filed; or both parties to the marriage have consented to personal jurisdiction for divorce or annulment under Subsection 81-2-303(5)(a)(ii) .",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-104",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_104",
+            "quote": "The temporary orders are valid for one year after the day on which the hearing for the order is held or until one of the following occurs: a petition for divorce is filed and consolidated with the petition for temporary separation; or the case is dismissed.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut): § 81-4-402, row UT_81_81_4_402 (the same row cited in residency-and-venue and waiting-period, a different span); and § 81-4-104, row UT_81_81_4_104, two quotes (the filing-basis sentence and the one-year validity sentence). § 81-4-104's mandatory-course, indigency-determination, and affirmative-defense subsections mirror § 81-4-402's and were read but not re-quoted here to avoid duplicating the divorce-orientation-course row."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "mediation",
+    "rule_id": "ut-mandatory-domestic-mediation-program-triggered-by-any-remaining-contested-issue-after-a-response-is-filed",
+    "question": "Is mediation required in a Utah divorce?",
+    "rule": "Yes, once the case is contested -- Utah Code § 81-4-403: “There is established a mandatory domestic mediation program to help reduce the time and tensions associated with obtaining a divorce. If there are any remaining contested issues after the filing of a response to a petition for divorce, the parties shall participate in good faith in at least one session of mediation.” Cost is split by default: “Unless otherwise ordered by the court or the parties agree upon a different payment arrangement, the cost of mediation shall be divided equally between the parties. The director of dispute resolution programs for the courts, the court, or the mediator may excuse either party from the requirement to mediate for good cause.”",
+    "trap": "The trigger is “any remaining contested issues after the filing of a response” -- not limited to custody or parent-time disputes the way this plugin's California mediation row (Cal. Fam. Code § 3170, contested custody/visitation only) describes; a Utah divorce with any unresolved issue at all, property or otherwise, appears to trigger the requirement on this text's own words. The requirement is only “at least one session” in “good faith” -- it does not, on this text, require the parties to reach agreement, only to attend and participate in good faith. Cost-sharing is a DEFAULT, not a fixed rule: it yields to a court order or the parties' own different payment arrangement, and the requirement itself can be excused “for good cause” by the dispute-resolution director, the court, or the mediator -- three different actors who can each grant the excusal. This rule does not establish what happens if mediation fails to resolve the contested issues (a report to the court, a hearing, or something else) -- NOT ESTABLISHED here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-403",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_403",
+            "quote": "There is established a mandatory domestic mediation program to help reduce the time and tensions associated with obtaining a divorce. If there are any remaining contested issues after the filing of a response to a petition for divorce, the parties shall participate in good faith in at least one session of mediation.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-403",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_403",
+            "quote": "Unless otherwise ordered by the court or the parties agree upon a different payment arrangement, the cost of mediation shall be divided equally between the parties. The director of dispute resolution programs for the courts, the court, or the mediator may excuse either party from the requirement to mediate for good cause.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut), Utah Code § 81-4-403, row UT_81_81_4_403, two quotes: the mandatory-program/participation sentence, and the cost-and-excusal sentence. The mediator-qualification cross-reference (§ 78B-6-205) and the Utah Rules of Court-Annexed Alternative Dispute Resolution cross-reference were read but not quoted."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "settlement-agreements",
+    "rule_id": "ut-no-title-81-settlement-agreement-statute-found-one-appellate-application-treats-a-litigation-stipulation-as-binding",
+    "question": "Can Utah spouses agree to something other than a court-imposed division, and will a court hold them to a stipulation?",
+    "rule": "No dedicated Title 81 statute authorizes or formalizes a marital settlement agreement the way California's §§ 2550/3580 do -- a search of the family-law title's section titles and full text for “written agreement,” “agreement of the parties,” “parties may agree,” and “settlement agreement” returned one chapter-4 or chapter-9 hit, § 81-9-102 (the Expedited Parent-time Enforcement Program, where \"written agreement\" is an agreement between parents on parent-time reached through that program) -- not a settlement-agreement statute. The one on-point appellate application found in this pass treats a stipulation reached during litigation as generally binding: the Utah Court of Appeals held it would be “inequitable to set aside a stipulation that was addressed the first day of trial, prior to David’s request to continue the trial, for a reason unrelated to the value of the home.”",
+    "trap": "this answer does NOT establish the formalities California's § 2550 supplies (a written agreement, or an oral stipulation made in open court, as the only two ways to opt out of the default division) -- Utah's corpus, on this search, supplies neither a formality requirement nor a default-division-plus-opt-out structure at all; NOT ESTABLISHED whether a Utah settlement must be written, made in open court, or can be shown some other way. The single case quoted above is a narrow, fact-specific application (the court declined to set aside ONE stipulation reached mid-trial, on facts unrelated to the substance of what was stipulated) -- it is evidence that Utah courts treat litigation stipulations as generally enforceable, not a general statement of the standard for setting one aside, and this answer does not overstate it into one. This rule does not establish what showing (fraud, mistake, unconscionability, or something else) WOULD justify setting aside a Utah divorce stipulation -- that broader question was not researched in this pass; NOT ESTABLISHED here.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2025 UT App 21",
+        "name": "Dutcher v. Dutcher",
+        "court": "ut-utahctapp",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "2374c134f5fc1e59",
+            "cl_opinion_id": "10804131",
+            "quote": "The court also faulted David for the continuance of the trial, “for the sole purpose of allowing his newly designated rebuttal expert to testify with regard to parent-time,” and found it would be “inequitable to set aside a stipulation that was addressed the first day of trial, prior to David’s request to continue the trial, for a reason unrelated to the value of the home.”",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-9-102",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_9_102",
+            "quote": "written agreement between the parents is reached; or the parents are unable to reach an agreement through mediation and: the parents have received services to facilitate parent-time;",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-ut, Dutcher v. Dutcher, 2025 UT App 21 (row 2374c134f5fc1e59, cl_opinion_id 10804131), one quote, identified via the CourtListener citation map (cite key “2025utapp21” and “566p3d48” both map to cluster 10337543, matching the row's own cluster_id) because the parties share a surname. STATUTE SEARCH RECORDED: a python full-text scan of every row under section prefix “81-4-” and “81-9-” for the phrases “written agreement,” “agreement of the parties,” “parties may agree,” and “settlement agreement” returned exactly one hit -- § 81-9-102 (Expedited Parent-time Enforcement Program), unrelated to settlement formalities -- confirming the honest negative recorded in `rule` and `trap` above. This is the thinnest-authority row in this file; flagged here rather than hidden in prose. PACK PROSE-CITATION AND CORPUS-CLAIM SWEEP 2026-09-22: the rule claimed the four-phrase search 'returned no chapter-4 or chapter-9 hits'; re-measured on the ut shard 2026-09-22, sections 81-4-% and 81-9-% return exactly one, § 81-9-102 (Expedited Parent-time Enforcement Program, 'written agreement between the parents'); the sentence now says so and the section is blocked."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "name-restoration",
+    "rule_id": "ut-no-divorce-decree-name-restoration-statute-the-general-title-42-change-of-name-petition-is-the-only-statutory-route-found",
+    "question": "Can a Utah court restore a spouse's former name as part of the divorce?",
+    "rule": "Title 81 has no divorce-decree name-restoration provision of its own -- unlike California's Fam. Code §§ 2080-2082, which restore a name automatically “upon the request of a party” inside the dissolution proceeding itself (quoted and blocked on this plugin's California row `ca-name-restoration-is-mandatory-on-request-in-dissolution-or-nullity-not-legal-separation-and-can-be-denied-only-for-fraud`), the only statutory name-change route this corpus holds for Utah is the GENERAL, non-family-specific change-of-name petition in Title 42, Chapter 1. Utah Code § 42-1-1: “Except as provided in Subsection (2) and subject to Subsection (3) , any natural person, desiring to change the natural person's name, may file a petition in the district court of the county where the natural person resides, setting forth: the cause for which the change of name is sought; the name proposed; and that the natural person has been a bona fide resident of the county for the year immediately prior to the filing of the petition.\" Utah Code § 42-1-2: “The court shall order what, if any, notice shall be given of the hearing, and after the giving of such notice, if any, may order the change of name as requested, upon proof in open court of the allegations of the petition and that there exists proper cause for granting the same.”",
+    "trap": "A reader expecting a one-line request “restore my former name” inside the divorce decree, the way California's row describes, will not find that mechanism in this corpus for Utah -- the Title 42 route requires a SEPARATE petition (not necessarily part of the divorce case itself), one year of county residency (a different, longer figure than the divorce petition's own 90-day residency test), a stated cause, a proposed name, notice as the court orders, and proof in open court of “proper cause.” This rule does not establish whether Utah courts, as a practical matter, allow a name-restoration request to be folded into the divorce petition itself so only one filing is needed -- that was not searched for in case law in this pass; NOT ESTABLISHED here. “Proper cause” in § 42-1-2 is not defined by either quoted section; unlike California's § 2081, which forecloses denial “for any other reason except fraud” (quoted on this plugin's California row `ca-name-restoration-is-mandatory-on-request-in-dissolution-or-nullity-not-legal-separation-and-can-be-denied-only-for-fraud`), nothing in this corpus states what standard a Utah court applies to grant or deny a name-change petition beyond the bare phrase “proper cause.”",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 42-1-1",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_42_42_1_1",
+            "quote": "Except as provided in Subsection (2) and subject to Subsection (3) , any natural person, desiring to change the natural person's name, may file a petition in the district court of the county where the natural person resides, setting forth: the cause for which the change of name is sought; the name proposed; and that the natural person has been a bona fide resident of the county for the year immediately prior to the filing of the petition.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 42-1-2",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_42_42_1_2",
+            "quote": "The court shall order what, if any, notice shall be given of the hearing, and after the giving of such notice, if any, may order the change of name as requested, upon proof in open court of the allegations of the petition and that there exists proper cause for granting the same.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut), Utah Code § 42-1-1 (row UT_42_42_1_1, full text) and § 42-1-2 (row UT_42_42_1_2, full text). STATUTE SEARCH RECORDED: a full-text scan of the whole ut statutes shard (28,311 rows) for “restore” + “name”, “maiden”, “former name”, and “birth name” found no Title 81 hit on point (“maiden” hit only § 81-2-303, the marriage-license-application form; the other searches hit unrelated titles). § 42-1-1's Subsection (2) (an offender-registry bar) and Subsection (3) (sex-offender-registry disclosure) were read but not quoted -- a different population's restriction, not this row's topic. § 42-1-3 (effect of the proceedings) was not read in this pass. PACK QUOTE SWEEP 2026-09-22: the rule quotes Cal. Fam. Code § 2080's 'upon the request of a party' as a contrast; the California block is copied onto this row. PACK QUOTE SWEEP 2026-09-22: the rule and trap quote Cal. Fam. Code §§ 2080 and 2081 as contrasts; the blocks stay on the California rows, which the sentences now name."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "divorce-orientation-course",
+    "rule_id": "ut-mandatory-divorce-orientation-course-for-parties-with-minor-children-fee-capped-at-thirty-dollars",
+    "question": "Does Utah require divorcing parties to complete an orientation or education course before the case can proceed?",
+    "rule": "Yes, for parties with minor children -- a distinctive Utah requirement with no counterpart in this plugin's other states. Utah Code § 81-4-105: “There is established a mandatory divorce orientation course for all parties with minor children who file a petition for temporary separation or for a divorce. A couple with no minor children is not required, but may choose to attend the course. The divorce orientation course shall be neutral, unbiased, and at least one hour in duration.” The course is not free by default, but is capped: “A party may not be charged more than $30 to participate in the divorce orientation course. A petitioner may not be charged more than $15 to participate in the divorce orientation course if the petitioner attends a live instruction course within 30 days after the day on which the petitioner filed the action.” The same divorce section makes the course a gate on relief: Utah Code § 81-4-402: “Except for a temporary restraining order under Rule 65A of the Utah Rules of Civil Procedure, a party may file, but the court may not hear, a motion for an order related to the divorce until the moving party completes the mandatory courses. It is an affirmative defense in a divorce action that a party has not completed the mandatory courses and the action may not continue until a party has complied with the mandatory courses.”",
+    "trap": "“Mandatory” has a built-in escape valve the statute states directly: “the court may waive the requirement that the parties attend the mandatory courses, on the court's own motion or on the motion of one of the parties, if the court determines course attendance and completion are not necessary, appropriate, or feasible, or in the best interest of the parties” (§ 81-4-402, read but not separately quoted as its own authority here -- see the temporary-orders and waiting-period rows for other spans of the same section). The gating rule is sharper than a mere formality: a court “may not hear” a motion until the moving party completes the courses, and noncompletion is an affirmative defense that can stop the action from continuing at all -- except for a Rule 65A temporary restraining order, which is carved out. Indigent parties are not charged: the statute requires the court to make “a final determination of indigency” and only order payment if the party is found not indigent. This rule does not establish what “not necessary, appropriate, or feasible” means in practice for the waiver standard -- NOT ESTABLISHED beyond the bare statutory phrase. THIS IS A SINGLE-STATE TOPIC: no other pack in this plugin files a comparable mandatory-orientation-course row (declared in an internal DocketX test's SINGLE_STATE_FAMILIES map per the plugin's shared-vocabulary rule).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-105",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_105",
+            "quote": "There is established a mandatory divorce orientation course for all parties with minor children who file a petition for temporary separation or for a divorce. A couple with no minor children is not required, but may choose to attend the course. The divorce orientation course shall be neutral, unbiased, and at least one hour in duration.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-105",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_105",
+            "quote": "A party may not be charged more than $30 to participate in the divorce orientation course. A petitioner may not be charged more than $15 to participate in the divorce orientation course if the petitioner attends a live instruction course within 30 days after the day on which the petitioner filed the action.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 81-4-402",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_81_81_4_402",
+            "quote": "Except for a temporary restraining order under Rule 65A of the Utah Rules of Civil Procedure, a party may file, but the court may not hear, a motion for an order related to the divorce until the moving party completes the mandatory courses. It is an affirmative defense in a divorce action that a party has not completed the mandatory courses and the action may not continue until a party has complied with the mandatory courses.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ut): § 81-4-105, row UT_81_81_4_105, two quotes (the mandatory-course/scope sentence, and the fee-cap sentences); and § 81-4-402, row UT_81_81_4_402, the motion-gating/affirmative-defense sentence (a third span of the same row already cited in residency-and-venue, waiting-period, and temporary-orders). The waiver-standard sentence and the indigency-determination subsection were read and summarized in the trap but not independently quoted as a fourth authority, to avoid a fifth near-duplicate corpus block from the same two sections. § 81-4-105's $5 Children's Legal Defense Account fee, the Administrative Office of the Courts' procurement and evaluation duties, and the Online Court Assistance Program instruction requirement were read but not quoted -- administrative detail beyond this row's question. This section is the recodified successor to former Title 30 §§ 30-3-11.3/11.4, referenced in the task brief; Title 30 itself is not in this corpus (see residency-and-venue row notes)."
+  }
+]

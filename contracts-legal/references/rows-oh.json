@@ -1,0 +1,1283 @@
+[
+  {
+    "jurisdiction": "oh",
+    "clause": "anti-assignment",
+    "rule_id": "oh-anti-assignment-post-loss-chose-in-action-and-9-406-notification",
+    "question": "Does the no-assignment clause in this agreement stop the counterparty transferring its rights to somebody else?",
+    "rule": "The Ohio authority verified here answers the question for two specific settings, not for contract rights generally. Under an occurrence-based insurance policy, a chose in action arises at the time the loss occurred, and the Supreme Court of Ohio answered that such a chose in action is transferable despite the existence of an anti-assignment provision contained in the policy as to the duty to indemnify; the Court was unable to answer definitively whether the same is true of the duty to defend (Pilkington). For assigned accounts, R.C. 1309.406(A), as the Second District set it out, lets an account debtor discharge its obligation by paying the assignor until, but not after, it receives an authenticated notification that the amount has been assigned and that payment is to be made to the assignee; after that notification the debtor may discharge only by paying the assignee.",
+    "trap": "Both holdings are narrower than the clause they defeat. Pilkington is about a loss that has already occurred under an occurrence-based policy, and it expressly left the duty to defend open, so an anti-assignment clause in an ordinary commercial agreement is not shown by this rule to be ineffective. R.C. 1309.406(A) as quoted governs who the account debtor may safely pay, not whether an anti-assignment term is enforceable: the Second District read the subsection as not precluding a lawsuit by an assignee to collect an unpaid debt. Ohio's version of the rest of UCC 9-406, including the subsection that makes an anti-assignment term ineffective as to an account, is not quoted in any authority listed here, so this rule does not state it.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "112 Ohio St.3d 482",
+        "name": "Pilkington North America, Inc. v. Travelers Casualty & Surety Co.",
+        "court": "Ohio",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "45edcb245e429931",
+            "cl_opinion_id": "6789943",
+            "quote": "As to the second question, we answer that such a chose in action is transferable despite the existence of an anti-assignment provision contained in the policy as to the duty to indemnify. We are unable to answer definitively whether such a chose in action is transferable as to the duty to defend.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2014-Ohio-5799",
+        "name": "Credit Invests., Inc. v. Obanion",
+        "court": "Ohio Ct. App. 2d Dist.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "f085d0f1181eca1d",
+            "cl_opinion_id": "2765986",
+            "quote": "[A]n account debtor on an account * * * may discharge its obligation by paying the assignor until, but not after, the account debtor receives a notification, authenticated by the assignor or the assignee, that the amount due or to become due has been assigned and that payment is to be made to the assignee. After receipt of the notification, the account debtor may discharge its obligation by paying the assignee and may not discharge the obligation by paying the assignor.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "OHIO STATUTE GAP, and it governs every row in this file: docketx/us-statutes publishes 28 jurisdictions and Ohio is not one of them (the index build recorded 'no published data files found for docketx/us-statutes jurisdiction oh', 2026-09-17). Every Revised Code sentence in this file is therefore quoted from an Ohio opinion in docketx/us-caselaw-oh that set the text out, and no subsection is described unless an opinion read here quoted it. The store holds no statute effective dates for any jurisdiction. Pilkington: the row is the lead opinion (O'Connor, J.) answering three certified questions; Pfeifer, J. and Lanzinger, J. each concurred in part and dissented in part. Pfeifer's separate opinion records that the indemnity answer commanded a majority ('A majority of this court today agrees that an insurance policy's indemnification coverage can be transferred post-loss regardless'), which is why that answer and not the duty-to-defend answer is stated here. Credit Investments is a Second District decision and binds only that district. Good-law scan of the Ohio corpus for later opinions citing 112 Ohio St.3d 482 is in the file-level scan recorded on the unconscionability rule."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "arbitration",
+    "rule_id": "oh-2711-01-valid-irrevocable-and-the-presumption-of-arbitrability",
+    "question": "Will an Ohio court send this dispute to the arbitrator, or decide it itself?",
+    "rule": "R.C. 2711.01(A), as the Supreme Court of Ohio quoted it, makes a provision in a written contract to settle by arbitration a controversy that subsequently arises out of the contract 'valid, irrevocable, and enforceable, except upon grounds that exist at law or in equity for the revocation of any contract.' Where the parties have a valid arbitration clause and one of them resists arbitration of a particular issue on the ground that the contract does not require it, a presumption in favour of arbitrability applies and the party resisting must overcome it (Council of Smaller Enterprises). Whether the parties agreed to arbitrate at all is for the court unless they clearly and unmistakably provide otherwise.",
+    "trap": "The presumption does not run in the same direction in every case. Council of Smaller Enterprises distinguishes First Options, where the party resisting had not personally signed the document containing the arbitration clause: there 'the presumption is against arbitrability because there is serious doubt that the party resisting arbitration has empowered the arbitrator to decide anything, including the arbitrator's own scope of authority.' And a challenge aimed at the contract as a whole does not keep the case in court: under ABM Farms as Taylor Building restates it, a party must demonstrate that the arbitration provision itself, and not merely the contract in general, was fraudulently induced, and a party challenging an arbitration provision as unconscionable must show that the arbitration clause itself is unconscionable, with unconscionability arguments aimed at the rest of the contract left to the arbitrator in the first instance.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "117 Ohio St.3d 352",
+        "name": "Taylor Building Corp. of America v. Benfield",
+        "court": "Ohio",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "c6b857d072b56d13",
+            "cl_opinion_id": "6791721",
+            "quote": "“A provision in any written contract * * * to settle by arbitration a controversy that subsequently arises out of the contract, or out of the refusal to perform the whole or any part of the contract, or any agreement in writing between two or more persons to submit to arbitration any controversy existing between them at the time of the agreement to submit, or arising after the agreement to submit, * * * shall be valid, irrevocable, and enforceable, except upon grounds that exist at law or in equity for the revocation of any contract.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "117 Ohio St.3d 352",
+        "name": "Taylor Building Corp. of America v. Benfield",
+        "court": "Ohio",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "c6b857d072b56d13",
+            "cl_opinion_id": "6791721",
+            "quote": "Similarly, when a party challenges an arbitration provision as unconscionable pursuant to R.C. 2711.01(A), the party must show that the arbitration clause itself is unconscionable. If the court determines that the arbitration clause is enforceable, claims of unconscionability that relate to the contract generally, rather than the arbitration clause specifically, are properly left to the arbitrator in the first instance.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "80 Ohio St.3d 661",
+        "name": "Council of Smaller Enterprises v. Gates, McDonald & Co.",
+        "court": "Ohio",
+        "decided": "1998",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "bb0af6a37d9b5e0f",
+            "cl_opinion_id": "6776567",
+            "quote": "The presumption in favor of arbitrability applies in the latter situation, which is also present in the case sub judice. In the First Options situation, on the other hand, the presumption is against arbitrability because there is serious doubt that the party resisting arbitration has empowered the arbitrator to decide anything, including the arbitrator’s own scope of authority.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Taylor Building: majority by Cupp, J.; Pfeifer, J. concurred in part and dissented in part in a separate row (c46eaeb15a924dc7). Council of Smaller Enterprises: majority by Alice Robie Resnick, J.; Douglas, J. dissented in a separate row (e5f488da2b7bdfbe). Both quotes are from the majority rows. The 'clearly and unmistakably' sentence in the rule restates the AT&T Technologies principle as Council of Smaller Enterprises sets it out. This rule says nothing about the Federal Arbitration Act, which was not read for it."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "attorney-fees",
+    "rule_id": "oh-american-rule-and-the-freely-negotiated-fee-clause",
+    "question": "Will the prevailing-party fee clause in our contract actually get our fees paid in Ohio?",
+    "rule": "Ohio follows the American rule: a prevailing party in a civil action may not recover attorney fees as part of the costs of litigation, and fees may be awarded when a statute or an enforceable contract specifically provides for the losing party to pay the prevailing party's attorney fees, or when the prevailing party demonstrates bad faith on the part of the unsuccessful litigant (Wilborn). Where the right to fees comes from a contractual stipulation, the rationale permitting recovery is the fundamental right to contract freely with the expectation that the terms of the contract will be enforced, and the characteristics of an agreement entered into freely are the presence of equal bargaining power and the lack of indicia of compulsion or duress (Wilborn, citing Nottingdale).",
+    "trap": "Nottingdale, the decision that opened the door, is narrower than it is usually cited for. It was 'a case of first impression requiring us to determine whether two parties, in a noncommercial transaction, may lawfully contract to require, in a suit between them, the payment by the unsuccessful party of the prevailing party's attorney fees', and its holding is expressly limited to provisions in a declaration of condominium ownership or condominium by-laws making a defaulting unit owner responsible for the association's fees in a collection or foreclosure action. Even there the fees are enforceable only 'so long as the fees awarded are fair, just and reasonable as determined by the trial court upon full consideration of all of the circumstances of the case' — so a clause that fixes a percentage or a formula does not take that determination away from the judge.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "121 Ohio St.3d 546",
+        "name": "Wilborn v. Bank One Corp.",
+        "court": "Ohio",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "552879d08a978ab4",
+            "cl_opinion_id": "6793513",
+            "quote": "However, there are exceptions to this x-ule. Attorney fees may be awarded when a statute or an enforceable contract specifically provides for the losing party to pay the prevailing party’s attorney fees",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "121 Ohio St.3d 546",
+        "name": "Wilborn v. Bank One Corp.",
+        "court": "Ohio",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "552879d08a978ab4",
+            "cl_opinion_id": "6793513",
+            "quote": "The presence of equal bargaining power and the lack of indicia of compulsion or dux-ess are characteristics of agreements that *549 are entered into freely.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "33 Ohio St.3d 32",
+        "name": "Nottingdale Homeowners' Ass'n v. Darby",
+        "court": "Ohio",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "b08cfb598918dc99",
+            "cl_opinion_id": "6759993",
+            "quote": "Accordingly, we hold that provisions contained within a declaration of condominium ownership and/or condominium by-laws requiring that a defaulting unit owner be responsible for the payment of attorney fees incurred by the unit owners’ association in either a collection action or a foreclosure action against the defaulting unit owner for unpaid common assessments are enforceable and not void as against public policy so long as the fees awarded are fair, just and reasonable as determined by the trial court upon full consideration of all of the circumstances of the case.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "The Wilborn quotes carry visible OCR damage in the published row ('x-ule', 'dux-ess'); they are quoted exactly as the row reads, because the verifier matches verbatim. Wilborn: majority by Lanzinger, J. (single published row). Nottingdale: majority by Douglas, J.; Locher, J. dissented in a separate row (ef99f9884dd98030). Wilborn itself held the particular mortgage reinstatement fee provision unenforceable on other grounds not stated in this rule. Nothing here is said about R.C. 1301.21 or about statutory fee-shifting outside contract."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "choice-of-law",
+    "rule_id": "oh-restatement-187-as-adopted-in-schulke",
+    "question": "Will an Ohio court apply the law we chose in the contract?",
+    "rule": "Where the parties have specifically designated a forum whose law is to govern, Ohio applies Restatement of the Law 2d, Conflict of Laws, Section 187, which the Supreme Court of Ohio quoted: the law of the state chosen by the parties will be applied, even as to an issue the parties could not have resolved by an explicit provision, unless (a) the chosen state has no substantial relationship to the parties or the transaction and there is no other reasonable basis for the parties' choice, or (b) application of the chosen law would be contrary to a fundamental policy of a state which has a materially greater interest in the determination of the particular issue and which, under Section 188, would supply the applicable law absent an effective choice.",
+    "trap": "The substantial-relationship inquiry looks at the facts as they stood when the contract was made, not at where the parties are now. In Schulke the chosen state kept the clause alive because at the time the contract was entered into one party was located there, the contract was executed there, and part of performance took place there — even though that party had since moved its operations to a different state. The exception in Section 187(2)(b) has two limbs that both have to be satisfied (a fundamental policy AND a materially greater interest), and Schulke did not have to apply it: the Court recorded 'there being no issue that the application of New York law would be contrary to the policies of this state'. No Ohio statutory override of a choice-of-law clause is quoted in any authority listed here.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "6 Ohio St.3d 436",
+        "name": "Schulke Radio Productions, Ltd. v. Midwestern Broadcasting Co.",
+        "court": "Ohio",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "921091dff5893df7",
+            "cl_opinion_id": "6758169",
+            "quote": "The court below held, and we agree, that under these circumstances the correct rule to apply is the one set forth in the Restatement of Law 2d (1971) 561, Conflict of Laws, Section 187, which provides in part, as follows: “(2) The law of the state chosen by the parties to govern their contractual rights and duties will be applied, even if the particular issue is one which the parties could not have resolved by an explicit provision in their agreement directed to that issue, unless either “(a) the chosen state has no substantial relationship to the parties or the transaction and there is no other reasonable basis for the parties’ choice, or",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "6 Ohio St.3d 436",
+        "name": "Schulke Radio Productions, Ltd. v. Midwestern Broadcasting Co.",
+        "court": "Ohio",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "921091dff5893df7",
+            "cl_opinion_id": "6758169",
+            "quote": "Under these circumstances, it is our conclusion that New York did bear a substantial relationship to the parties and the contract. Accordingly, there being no issue that the application of New York law would be contrary to the policies of this state, the court of appeals did not err in respecting the agreement of the parties.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Schulke: opinion by J. P. Celebrezze, J.; William B. Brown, J. concurred separately in a different row (33db97032988fcdd), saying he saw no conflict between New York and Ohio law and so found it unnecessary to adopt Section 187. The quotes here are from the Court's opinion. Kennecorp later described Schulke as governing choice of law rather than forum selection, which is why the two are separate rules in this file."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "oh-cspa-parol-evidence-cannot-contradict-the-signed-agreement",
+    "question": "Can the buyer get round our signed, integrated agreement by pleading the Consumer Sales Practices Act?",
+    "rule": "Not by contradicting the writing. The Supreme Court of Ohio held that, absent fraud, mistake, or other invalidating cause, a final written agreement may not be contradicted by evidence of a prior or contemporaneous oral agreement, and therefore a consumer may not use parol evidence to contradict the final written agreement to prove a violation of the Consumer Sales Practices Act (Williams v. Spitzer Autoworld Canton). Where the Act is violated, R.C. 1345.09 supplies the remedies, and the Eighth District's account in Kogan shows treble damages under R.C. 1345.09(B), non-economic damages under R.C. 1345.09(A) and attorney fees under R.C. 1345.09(F)(2) being decided as separate questions.",
+    "trap": "The holding is about contradiction, not about immunity. Williams turned on a purchase agreement that stated a trade-in allowance in bold print and carried a merger clause, and the consumer's case was that the dealer had promised a different number orally; the Court's own framing preserves 'fraud, mistake, or other invalidating cause'. It says nothing about a Consumer Sales Practices Act claim that does not contradict the writing — for example a claim about conduct outside the document, which is how the court in Kogan approached a contractor's failure to register. Ohio's definition of a 'consumer transaction' (R.C. 1345.01) is not quoted in any authority listed here, so this rule does not say which agreements the Act reaches.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "122 Ohio St.3d 546",
+        "name": "Williams v. Spitzer Autoworld Canton, L.L.C.",
+        "court": "Ohio",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "e2762458f0ed9244",
+            "cl_opinion_id": "9802104",
+            "quote": "Absent fraud, mistake, or other invalidating cause, a final written agreement may not be contradicted by evidence of a prior or contemporaneous oral agreement, and therefore a consumer may not use parol evidence to contradict the final written agreement to prove a violation of the Consumer Sales Practices Act.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2026-Ohio-2323",
+        "name": "Kogan v. Weaver Const. and Roofing, L.L.C.",
+        "court": "Ohio Ct. App. 8th Dist.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "7da30d69c9b406af",
+            "cl_opinion_id": "11344688",
+            "quote": "The trial court rejected appellees’ request for treble damages under R.C. 1345.09(B) and further rejected any claim for noneconomic damages under R.C. 1345.09(A).",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Williams: majority by O'Donnell, J. (row e2762458f0ed9244); Cupp, J. concurred separately (2a29e95ac1a29e4b) and the official-reports row is 40ff7de7fa5dbb36. The quote is the majority's own statement of its holding in the first paragraph. Kogan is an Eighth District decision and binds only that district; the sentence quoted records what the trial court did, which is why the rule says the divisions were decided as separate questions rather than stating a rule of law about them. No Ohio anti-waiver provision was located: R.C. Chapter 1345's text is outside our published statutes, and no opinion read for this file quoted a subsection making a contractual waiver of Consumer Sales Practices Act rights void. This rule is deliberately untagged for contract type because R.C. 1345.01's definition of 'consumer transaction' was not read."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "electronic-signature",
+    "rule_id": "oh-1306-06-electronic-form-is-not-a-defence",
+    "question": "Is this agreement unenforceable because it was signed electronically, or agreed by email?",
+    "rule": "No, on the text Ohio courts have quoted. R.C. 1306.06(A) provides that a record or signature may not be denied legal effect or enforceability solely because it is in electronic form, and R.C. 1306.06(D) provides that if a law requires a signature, an electronic signature satisfies the law (Grand Voiture). R.C. 1306.01(H) defines an electronic signature as an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record, and adds that a signature secured through blockchain technology is considered to be in an electronic form and to be an electronic signature.",
+    "trap": "Electronic form is not the same as agreement. In Mezher the emails identified the parties, the property and the price and carried an electronic signature of the party to be charged, and the court still had to ask 'whether the parties intended to enter into a contract at the time of the email exchanges', because the exchange contemplated that the parties would sign a formal document. Ohio's version of the Uniform Electronic Transactions Act also has a scope section and exclusions (R.C. 1306.02 in the chapter's own numbering) that no opinion read for this rule quoted, so nothing here tells you whether the chapter reaches a particular record — and R.C. 1306.06's 'intent to sign' element is a fact question, not a formality.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2024-Ohio-5410",
+        "name": "Grand Voiture d'Ohio Societe des 40 et 8 v. Montgomery Cty. Voiture No. 34 la Societe 40 et 8",
+        "court": "Ohio Ct. App. 2d Dist.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "47e323e7ed392e06",
+            "cl_opinion_id": "10742758",
+            "quote": "R.C. 1306.01(H) defines \"Electronic signature\" as “an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record. A signature that is secured through blockchain technology is considered to be in an electronic form and to be an electronic signature.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024-Ohio-5410",
+        "name": "Grand Voiture d'Ohio Societe des 40 et 8 v. Montgomery Cty. Voiture No. 34 la Societe 40 et 8",
+        "court": "Ohio Ct. App. 2d Dist.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "47e323e7ed392e06",
+            "cl_opinion_id": "10742758",
+            "quote": "R.C. 1306.06(A) (“A record or signature may not be denied legal effect or -19- enforceability solely because it is in electronic form.”)",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2018-Ohio-3787",
+        "name": "Mezher v. Schrand",
+        "court": "Ohio Ct. App. 1st Dist.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "967cd19c79ae1599",
+            "cl_opinion_id": "4314314",
+            "quote": "But, the parties’ email exchange contemplated that the parties would sign a formal document. Thus, in determining whether the statute of frauds is satisfied, the question becomes whether the parties intended to enter into a contract at the time of the email exchanges.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Grand Voiture and Mezher are Court of Appeals decisions (Second and First Districts) and bind only their districts; they are used because Ohio statutory text is outside our published statute shard and these opinions set the sections out. The Grand Voiture quote of R.C. 1306.06(A) contains the page marker '-19-' inside the sentence, which is reproduced because the match is verbatim. R.C. 1306.06(D) is quoted in the same passage ('If a law requires a signature, an electronic signature satisfies the law.') but that sentence is nine words and under the twelve-word bar, so it is carried by the longer Grand Voiture quote and by this note rather than as its own authority."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "entire-agreement",
+    "rule_id": "oh-parol-evidence-and-the-fraudulent-inducement-limit",
+    "question": "Does our merger clause stop the other side proving a side deal or a pre-signing promise?",
+    "rule": "The parol evidence rule in Ohio is a rule of substantive law which, when applicable, defines the limits of a contract: absent fraud, mistake or other invalidating cause, the parties' final written integration of their agreement may not be varied, contradicted or supplemented by evidence of prior or contemporaneous oral agreements, or prior written agreements (Galmish). An integration clause does not add to that: the Supreme Court of Ohio held that the presence of an integration clause makes the final written agreement no more integrated than does the act of embodying the complete terms into the writing, and that the presence of an integration provision does not vitiate the principle that parol evidence is admissible to prove fraud.",
+    "trap": "The fraud exception is narrower than it looks, and the limit is the one that decides most Ohio cases: the rule may not be avoided 'by a fraudulent inducement claim which alleges that the inducement to sign the writing was a promise, the terms of which are directly contradicted by the signed writing', and 'an oral agreement cannot be enforced in preference to a signed writing which pertains to exactly the same subject matter, yet has different terms' (Galmish, quoting Marion Production Credit Assn. v. Cochran, paragraph three of the syllabus). So the counterparty who says 'you promised me a different number' loses; the counterparty who says 'you lied about something the writing does not address' is outside the rule. Drafting a stronger merger clause does not change either outcome, because Galmish holds the clause adds nothing to integration and does not touch the fraud exception.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "90 Ohio St.3d 22",
+        "name": "Galmish v. Cicchini",
+        "court": "Ohio",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "b4a31a394066124c",
+            "cl_opinion_id": "6781545",
+            "quote": "The presence of an integration clause makes the final written agreement no more integrated than does the act of embodying the complete terms into the writing. Thus, the presence of an integration provision does not vitiate the principle that parol evidence is admissible to prove fraud.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "90 Ohio St.3d 22",
+        "name": "Galmish v. Cicchini",
+        "court": "Ohio",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "b4a31a394066124c",
+            "cl_opinion_id": "6781545",
+            "quote": "However, the parol evidence rule may not be avoided “by a fraudulent inducement claim which alleges that the inducement to sign the writing was a promise, the terms of which are directly contradicted by the signed writing. Accordingly, an oral agreement cannot be enforced in preference to a signed writing which pertains to exactly the same subject matter, yet has different terms.”",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Galmish: majority by Alice Robie Resnick, J. (row b4a31a394066124c); Cook, J. dissented in a separate row (54d2ccb0c73a3054); the official-reports row containing syllabus, majority and dissent is 4006d9eced0f2023. Both quotes are from the majority row. The second quote is Galmish quoting paragraph three of the syllabus of Marion Production Credit Assn. v. Cochran, which the Court adopts and applies."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "force-majeure",
+    "rule_id": "oh-frustration-of-purpose-not-adopted-and-allocated-risk-defeats-impracticability",
+    "question": "Can our counterparty walk away because an outside event, or a government decision, wrecked the deal?",
+    "rule": "Not on the strength of frustration of purpose alone, on the Ohio authority verified here. The Eleventh District recorded in 2021 that 'The Supreme Court of Ohio has not expressly adopted the doctrine of frustration of purpose', and declined to adopt it in that case (Wroblesky). The related excuse of impracticability due to government action fails where the contract itself put that risk on the party seeking excuse: because the parties expressly allocated the risk of government delay to the appellants, the court held the doctrine precluded.",
+    "trap": "That makes the allocation language in the clause, not the size of the outside event, the thing that decides an Ohio case. A tenant whose whole purpose depended on a state licence still had to pay, because the lease did not make the licence a condition precedent and did allocate the delay risk. Two limits on this rule, stated rather than glossed over: Wroblesky is a Court of Appeals decision and binds only the Eleventh District, and it is a statement that the Supreme Court has not expressly adopted the doctrine — not a holding that no Ohio court will ever apply it. Ohio's sale-of-goods excuse provision, R.C. 1302.73, is not quoted in any authority listed here, so nothing in this rule speaks to a contract for the sale of goods.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2021-Ohio-1063",
+        "name": "Wroblesky v. Hughley",
+        "court": "Ohio Ct. App. 11th Dist.",
+        "decided": "2021",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "9ddb54bc82d86dd7",
+            "cl_opinion_id": "4673217",
+            "quote": "The Supreme Court of Ohio has not expressly adopted the doctrine of frustration of purpose, and we decline to do so in the present case. Even if the defense were available, however, the appellants did not raise genuine issues of material fact regarding its applicability.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2021-Ohio-1063",
+        "name": "Wroblesky v. Hughley",
+        "court": "Ohio Ct. App. 11th Dist.",
+        "decided": "2021",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "9ddb54bc82d86dd7",
+            "cl_opinion_id": "4673217",
+            "quote": "Since the parties expressly allocated the risk of government delay to the appellants, the doctrine of impracticability due to government action is precluded.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Wroblesky: opinion by Mary Jane Trapp, P.J.; the published row contains no separate opinion. Both quotes are from the court's own summary of its holdings at the head of the opinion. This rule deliberately states no general Ohio rule of impossibility: no Supreme Court of Ohio statement of that doctrine was located and read for this file, and inventing one from the appellate framing is exactly the failure this store's audit identified."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "indemnity",
+    "rule_id": "oh-2305-31-construction-void-and-glaspell-elsewhere",
+    "question": "Will this indemnity clause make the other side pay for losses caused by our own negligence?",
+    "rule": "Outside construction, usually yes. Absent specified public policy exceptions, the law of Ohio generally allows enforcement of indemnity agreements (Glaspell). Inside construction, R.C. 2305.31 makes void, as against public policy, a covenant in or collateral to a contract relative to the design, planning, construction, alteration, repair, or maintenance of a building, structure, highway, road, appurtenance, and appliance, including moving, demolition, and excavating connected therewith, under which the promisee has hired the promisor to perform work, purporting to indemnify the promisee against liability for damages arising out of bodily injury to persons or damage to property proximately caused by or resulting from the negligence of the promisee (Kendall, quoting the section). Kendall holds that R.C. 2305.31 applies to such agreements regardless of whether the negligence is sole or concurrent.",
+    "trap": "Where the statute does not reach, the drafting question is construction, and Glaspell's answer cuts both ways. Where it is alleged that the agreement protects an indemnitee from the financial consequences of his own negligence, the greater weight of authority in Ohio would construe the words of such an agreement most narrowly — but Glaspell held that narrow construction is not required where the burden of indemnification was assented to in a context of free and understanding negotiation between commercial enterprises of sufficient size and quality as to presumably possess a high degree of sophistication in matters of contract, each able to provide against loss by insurance. So the same words can be read strictly against a party with no realistic opportunity to bargain and generously between two sophisticated businesses, and it is the bargaining record, not the wording, that decides which.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "20 Ohio St.3d 61",
+        "name": "Kendall v. U.S. Dismantling Co.",
+        "court": "Ohio",
+        "decided": "1985",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "a5583f0a93c14770",
+            "cl_opinion_id": "6759069",
+            "quote": "The first issue presented in this appeal is whether R.C. 2305.31 prohibits only those indemnity agreements in construction-related contracts whereby the promisor agrees to indemnify the promisee for damages caused by or resulting from the sole negligence of the promisee. We hold that this statute applies to such agreements regardless of whether the negligence is sole or concurrent.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "29 Ohio St.3d 44",
+        "name": "Glaspell v. Ohio Edison Co.",
+        "court": "Ohio",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "810c785a917655ae",
+            "cl_opinion_id": "6759715",
+            "quote": "However, absent specified public policy exceptions, the law of Ohio generally allows enforcement of indemnity agreements.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "29 Ohio St.3d 44",
+        "name": "Glaspell v. Ohio Edison Co.",
+        "court": "Ohio",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "810c785a917655ae",
+            "cl_opinion_id": "6759715",
+            "quote": "Thus, while clauses limiting the liability of the drafter are ordinarily to be strictly construed, we need not do so when- such burden of indemnification was assented to in a context of free and understanding negotiation.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Glaspell: majority by Holmes, J.; Douglas, J. dissented in a separate row (e2477686d29d74a2). Kendall: opinion by Clifford F. Brown, J. (single published row). The statement of R.C. 2305.31's scope in the rule paraphrases the text Kendall set out in full ('A covenant, promise, agreement, or understanding in, or in connection with or collateral to, a contract or agreement relative to the design, planning, construction, alteration, repair, or maintenance of a building ... is against public policy and is void'); the published row carries an OCR stray quotation mark inside that passage, so the shorter holding sentence is the quoted authority and the section text is paraphrased rather than quoted. The Glaspell quote also carries an OCR hyphen ('when-'), reproduced verbatim. This rule is left untagged for contract type because it mixes a construction-only statute with a general common-law rule, which is the case SCHEMA.md says to leave untagged. Ohio's separate anti-indemnity provision for employment contracts (R.C. 4123.82, cited in Glaspell) is named there but its text was not read, so nothing is stated about it."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "lien-waiver",
+    "rule_id": "oh-lien-rights-turn-on-the-21-day-notice-of-furnishing",
+    "question": "Does the lien waiver in this subcontract, or the lack of one, decide whether the subcontractor can lien the job?",
+    "rule": "On the Ohio authority verified here, what decides a subcontractor's lien is the notice of furnishing, not the waiver. R.C. 1311.05(A), as the Eighth District set it out, requires a subcontractor or material supplier who performs labour or work upon or furnishes material in furtherance of an improvement to real property and who wishes to preserve its lien rights to serve a notice of furnishing on the owner's, part owner's or lessee's designee named in the notice of commencement and on the original contractor within twenty-one days after performing the first labour or work or furnishing the first materials (Pitt). That requirement turns on status: original contractors and construction managers contract with the owner directly and, under R.C. 1311.04(I) as quoted in Panzica, subcontractors and material suppliers have twenty-one days after the notice of commencement to file a notice of furnishing and need not serve one to preserve lien rights for the period before the notice of commencement is recorded.",
+    "trap": "No Ohio provision voiding an advance lien waiver was located for this rule — R.C. Chapter 1311 is outside our published statutes and no opinion read here quoted such a subsection — so a subcontractor who signs one in Ohio cannot rely on this rule to escape it, and an owner should not read this rule as blessing one either. The live Ohio risk in the cases read is the twenty-one-day clock: in Pitt the general contractor argued that the subcontractor's not filing a lien showed no reliance because the lien would have been untimely under R.C. 1311.05 anyway -- and the Ninth District disagreed, holding every element of promissory estoppel established and affirming judgment for the subcontractor. Whether the twenty-one-day rule applies at all depends on whether the claimant is a subcontractor or an original contractor or construction manager as R.C. 1311.01 defines those terms, and Panzica turned on exactly that classification.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2024-Ohio-2297",
+        "name": "Pitt v. Quanta Bldg. Group",
+        "court": "Ohio Ct. App. 8th Dist.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "ce856dc37afe879c",
+            "cl_opinion_id": "10034114",
+            "quote": "RC. 1311.05(A) states that a lien must be filed within 21 days after performing the first work or furnishing the first materials, unless that time is extended.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2015-Ohio-3478",
+        "name": "Panzica Constr. Co. v. Bridgeview Crossing, L.L.C.",
+        "court": "Ohio Ct. App. 8th Dist.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "75e993cffe726f3a",
+            "cl_opinion_id": "2831617",
+            "quote": "subcontractors and material suppliers have 21 days after the notice of commencement to file a notice of furnishing in order to perfect their liens, and they need not serve a notice of furnishing to preserve lien rights for the period before the notice of commencement is recorded. R.C. 1311.04(I).",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024-Ohio-2297",
+        "name": "Pitt v. Quanta Bldg. Group",
+        "court": "Ohio Ct. App. 8th Dist.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "ce856dc37afe879c",
+            "cl_opinion_id": "10034114",
+            "quote": "Jones Corp. argues that Mr. Pitt’s failure to file a mechanic’s lien did not establish reliance because, pursuant to R.C. 1311.05, Mr. Pitt’s lien would have been untimely.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024-Ohio-2297",
+        "name": "Pitt v. Quanta Bldg. Group",
+        "court": "Ohio Ct. App. 8th Dist.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "ce856dc37afe879c",
+            "cl_opinion_id": "10034114",
+            "quote": "Pitt established all of the elements of a claim for promissory estoppel.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "applies_to": [
+      "construction"
+    ],
+    "notes": "Both authorities are Eighth District decisions and bind only that district; they are used because Ohio's statutes are outside our published statute shard. The rule states an absence honestly rather than filling it: the search of the Ohio corpus for opinions quoting a lien-waiver provision (patterns '1311.011', '1311.05', '1311.06', 'waiver of lien', later than 2013) returned no opinion setting out a subsection that voids a waiver given before payment, which is what the corresponding Minnesota, North Carolina, Florida and New Jersey rules in this store rest on. Tagged 'construction' because R.C. Chapter 1311 as described in these opinions is about improvements to real property. HOLDING SWEEP 2026-09-22 (every rule/trap sentence stating what a named cited case held, scored against the case's quoted blocks; the 120 lowest-overlap sentences read against the opinions on the corpus host): WRONG (H): the trap said the untimely-lien argument 'defeated the reliance element'; the opinion (row ce856dc37afe879c) records Jones Corp. making that argument and the court answering 'For the following reasons, we disagree' and 'Pitt established all of the elements of a claim for promissory estoppel'. Reworded to the court's ruling; both sentences blocked."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "limitation-of-liability",
+    "rule_id": "oh-exculpatory-clauses-strictly-construed-unless-freely-negotiated",
+    "question": "Will this cap or release protect us from our own negligence?",
+    "rule": "Ohio enforces a clause of this kind but reads it against its drafter unless the bargain was a real one. Clauses limiting the liability of the drafter are ordinarily to be strictly construed, and a court need not construe them strictly where the burden was assented to in a context of free and understanding negotiation between parties presumably possessing a high degree of sophistication in matters of contract, each with the financial power to provide against loss by insurance or other means (Glaspell). A release also has to be shown to have been executed: in Bowen the Supreme Court of Ohio refused summary judgment on a signed release because a question of material fact remained in dispute as to whether the plaintiff properly executed it.",
+    "trap": "A release does not necessarily reach beyond negligence. In Bowen the plaintiffs separately contended that the release did not preclude recovery for willful or wanton misconduct; the Court did not decide the point because it disposed of the appeal on the execution question, and this rule therefore does not state that an Ohio release can or cannot cover willful or wanton conduct. The rest of the trap is the bargaining record rather than the wording: Glaspell's escape from strict construction was earned by facts (commercial enterprises of sufficient size and quality, free negotiation, insurance available), and the same words in a form contract with no realistic opportunity to bargain are the situation Glaspell describes as attracting construction against the party proffering the clause.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "29 Ohio St.3d 44",
+        "name": "Glaspell v. Ohio Edison Co.",
+        "court": "Ohio",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "810c785a917655ae",
+            "cl_opinion_id": "6759715",
+            "quote": "The parties in the case before us are commercial enterprises of sufficient size and quality as to presumably possess a high degree of sophistication in matters of contract. They all provide services to the general public as their means of producing income and customarily rely on contracts. Each has the financial power to provide against loss by insurance or other means.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "63 Ohio St.3d 84",
+        "name": "Bowen v. Kil-Kare, Inc.",
+        "court": "Ohio",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "7f897faf6dcae69a",
+            "cl_opinion_id": "6764587",
+            "quote": "However, we have just determined that appellees are not entitled to summary judgment on the basis of the Exhibit A release because a question of material fact remains in dispute as to whether Bowen properly executed the release.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Bowen: majority by Douglas, J. (row 7f897faf6dcae69a); Wright, J. concurred in part and dissented in part in a separate row (f61d52c45349913c). Glaspell: majority by Holmes, J.; Douglas, J. dissented separately (e2477686d29d74a2). Bowen is a recreational-activity release between an individual and a raceway, not a commercial limitation of liability, and the rule says only what Bowen decided. No Ohio statute capping or voiding a limitation-of-liability clause was located: Ohio's statutes are outside our published shard and no opinion read for this file quoted one."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "limitation-of-remedy",
+    "rule_id": "oh-1302-93-remedy-limits-permitted-if-part-of-the-bargain",
+    "question": "Will our repair-or-replace remedy and damages limit hold up on a sale of goods?",
+    "rule": "R.C. 1302.29(D), as the Tenth District set it out, provides that remedies for breach of warranty can be limited in accordance with R.C. 1302.93 on contractual modification of remedy, and R.C. 1302.93(A)(1) provides that the agreement may limit or alter the measure of damages recoverable, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts (Volovetz). The court read that provision as giving parties the right to include any reasonable provision as to what remedies are available upon breach, so long as minimum adequate remedies remain available for a breach.",
+    "trap": "The limit has to be in the parties' bargain in fact. In Volovetz the limitation lived in a separate limited warranty that the contract did not incorporate by reference, and it therefore did not bind the buyer: a document becomes part of the contract only where the contract makes clear reference to it and describes it in such terms that its identity may be ascertained beyond doubt. The same defect decided HB Martin Logistics, where limited-warranty agreements sent eighteen days after the purchase agreement were held not part of the 'original agreement'. So sending the terms later, or referring to 'the manufacturer's standard warranty' without naming the document, is how an otherwise valid Ohio remedy limit fails. Nothing in this rule addresses what happens when an exclusive remedy fails of its essential purpose: no Ohio opinion quoting that part of R.C. 1302.93 was read for this rule.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2016-Ohio-7707",
+        "name": "Volovetz v. Tremco Barrier Solutions, Inc.",
+        "court": "Ohio Ct. App. 10th Dist.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "54ad11da793fcc9c",
+            "cl_opinion_id": "4097641",
+            "quote": "Pursuant to R.C. 1302.93(A)(1), \"[t]he agreement * * * may limit or alter the measure of damages recoverable * * *, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts.\"",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2016-Ohio-7707",
+        "name": "Volovetz v. Tremco Barrier Solutions, Inc.",
+        "court": "Ohio Ct. App. 10th Dist.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "54ad11da793fcc9c",
+            "cl_opinion_id": "4097641",
+            "quote": "Thus, parties to a contract of sale may consensually allocate the loss resulting from the failure of the goods to perform as warranted, as long as minimum adequate remedies remain available for a beach.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2023-Ohio-4836",
+        "name": "HB Martin Logistics, Inc. v. Hissong Group, Inc.",
+        "court": "Ohio Ct. App. 9th Dist.",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "2257cbbfc0ad438a",
+            "cl_opinion_id": "9914133",
+            "quote": "“Generally, ‘the parties to a contract may incorporate contractual terms by reference to a separate, noncontemporaneous document, including * * * a separate document which is unsigned[,]’ if ‘the contract makes clear reference to the document and describes it in such terms that its identity may be ascertained beyond doubt.’”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2023-Ohio-4836",
+        "name": "HB Martin Logistics, Inc. v. Hissong Group, Inc.",
+        "court": "Ohio Ct. App. 9th Dist.",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "2257cbbfc0ad438a",
+            "cl_opinion_id": "9914133",
+            "quote": "On September 9, 2016, Ms. Martin signed a one-page, double-sided purchase agreement (the “Purchase Agreement”) to purchase a 2017 Kenworth T680 semi-truck from Hissong.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2023-Ohio-4836",
+        "name": "HB Martin Logistics, Inc. v. Hissong Group, Inc.",
+        "court": "Ohio Ct. App. 9th Dist.",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "2257cbbfc0ad438a",
+            "cl_opinion_id": "9914133",
+            "quote": "Per Ms. Martin’s affidavit, on September 27, 2016, Hissong sent her two limited warranty agreements via email:",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2023-Ohio-4836",
+        "name": "HB Martin Logistics, Inc. v. Hissong Group, Inc.",
+        "court": "Ohio Ct. App. 9th Dist.",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "2257cbbfc0ad438a",
+            "cl_opinion_id": "9914133",
+            "quote": "As a result, the 12-month limitations period contained within the LWAs could not be considered part of the “original agreement” for purposes of reducing the four-year statute of limitations under R.C. 1302.93(A).",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Volovetz (Tenth District) and HB Martin Logistics (Ninth District) are Court of Appeals decisions binding only in their districts; they are used because Ohio statutes are outside our published shard. The Volovetz quote reproduces the published row's typographical error 'for a beach'. Left untagged for contract type: SCHEMA.md keeps UCC Article 2 rows untagged, because whether Article 2 governs a mixed goods-and-services deal is a question this rule does not answer. HOLDING SWEEP 2026-09-22 (every rule/trap sentence stating what a named cited case held, scored against the case's quoted blocks; the 120 lowest-overlap sentences read against the opinions on the corpus host): the trap's 'eighteen days after the purchase agreement' is September 9 to September 27, 2016 in the opinion; both date sentences blocked.\nHOLDING SWEEP 2026-09-22 (fifth band, overlap 0.30-0.35): HB Martin 'original agreement' holding sentence added."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "limitations-period",
+    "rule_id": "oh-six-years-for-written-contracts-and-the-ucc-shortening-floor",
+    "question": "How long do we have to sue on this contract, and can the clause shorten it?",
+    "rule": "For a breach-of-contract claim the Tenth District stated in 2025 that a claim 'shall be brought within six years after the cause of action accrued', citing R.C. 2305.06 (Greer). On a sale of goods, R.C. 1302.98(A) as the Ninth District quoted it allows the parties by the original agreement to reduce the period of limitation to not less than one year (HB Martin Logistics).",
+    "trap": "A shortening clause only works if it is in the original agreement. In HB Martin Logistics the twelve-month period sat in limited-warranty agreements the seller emailed eighteen days after the purchase agreement was signed, and the court held they were not incorporated by reference, so the twelve-month period 'could not be considered part of the “original agreement” for purposes of reducing the four-year statute of limitations'. The other trap is characterisation: in Greer what the plaintiff called a billing and contract dispute was held to be a legal malpractice claim, which carries the one-year period in R.C. 2305.11(A) instead, because under Ohio law a cause of action is subsumed into a malpractice claim if it arises out of the matter in which the attorney represented the client. R.C. 2305.06 has been amended more than once, and this store holds no statute effective dates, so the six-year figure is stated as the Tenth District stated it in May 2025 and not as of any other date.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2025-Ohio-1747",
+        "name": "Greer v. Park",
+        "court": "Ohio Ct. App. 10th Dist.",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "1160d3d0437503aa",
+            "cl_opinion_id": "11051625",
+            "quote": "Under R.C. 2305.11(A), a claim for legal malpractice “shall be commenced within one year after the cause of action accrued.” A breach of contract claim “shall be brought within six years after the cause of action accrued.” R.C. 2305.06.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2023-Ohio-4836",
+        "name": "HB Martin Logistics, Inc. v. Hissong Group, Inc.",
+        "court": "Ohio Ct. App. 9th Dist.",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "2257cbbfc0ad438a",
+            "cl_opinion_id": "9914133",
+            "quote": "the original agreement the parties may reduce the period of limitation to not less than one year * * *.” (Emphasis added.) R.C. 1302.98(A).",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Both are Court of Appeals decisions binding only their districts; they are used because Ohio statutes are outside our published shard, and the 2025 and 2023 dates are the reason these particular opinions were chosen for a figure that has changed over time. HB Martin Logistics quotes the shortening provision as R.C. 1302.98(A) and elsewhere in the same discussion refers to R.C. 1302.93(A) for the same point; the quoted sentence is attributed here to the section the court attached to it, R.C. 1302.98(A), which is Ohio's enactment of UCC 2-725. The four-year default period for a sale of goods is not quoted in any authority listed here and is therefore referred to only as the court referred to it."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "liquidated-damages",
+    "rule_id": "oh-samson-sales-three-part-jones-test",
+    "question": "Will our liquidated-damages figure be enforced, or struck down as a penalty?",
+    "rule": "Ohio applies the three-part test from Jones v. Stevens as the Supreme Court of Ohio restated it in Samson Sales: where the parties have agreed on the amount of damages, ascertained by estimation and adjustment, and have expressed this agreement in clear and unambiguous terms, the amount so fixed should be treated as liquidated damages and not as a penalty, if (1) the damages would be uncertain as to amount and difficult of proof, and if (2) the contract as a whole is not so manifestly unconscionable, unreasonable, and disproportionate in amount as to justify the conclusion that it does not express the true intention of the parties, and if (3) the contract is consistent with the conclusion that it was the intention of the parties that damages in the amount stated should follow the breach thereof.",
+    "trap": "Calling the number liquidated damages does not help. Samson Sales holds that the seller's standard reference 'to the sum of Fifty Dollars ($50.00) as liquidated damages and not as a penalty' is 'by no means conclusive or controlling', and that whether a particular sum is intended as a penalty or as liquidated damages depends upon the operative facts and circumstances surrounding each particular case. The first limb is the one that kills most clauses in a commercial deal: the court of appeals in Samson Sales had found the damages 'patently estimable', which the Supreme Court said was attuned to the fact that they would be as readily ascertainable as damages in a multitude of other situations involving negligence or breach of contract.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "12 Ohio St.3d 27",
+        "name": "Samson Sales, Inc. v. Honeywell, Inc.",
+        "court": "Ohio",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "9c40fd923003f14f",
+            "cl_opinion_id": "6758459",
+            "quote": "“Where the parties have agreed on the amount of damages, ascertained by estimation and adjustment, and have expressed this agreement in clear and unambiguous terms, the amount so fixed should be treated as liquidated damages and not as a penalty, if the damages would be (1) uncertain as to amount and difficult of proof, and if (2) the contract as a whole is not so manifestly unconscionable, unreasonable, and disproportionate in amount as to justify the conclusion that it does not express the true intention of the parties, and if (3) the contract is consistent with the conclusion that it was the intention of the parties that damages in the amount stated should follow the breach thereof.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "12 Ohio St.3d 27",
+        "name": "Samson Sales, Inc. v. Honeywell, Inc.",
+        "court": "Ohio",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "9c40fd923003f14f",
+            "cl_opinion_id": "6758459",
+            "quote": "Hence, Honeywell’s standard reference “to the sum of Fifty Dollars ($50.00) as liquidated damages and not as a penalty” is by no means conclusive or controlling in this case.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Samson Sales: single published row, opinion for the Court; the first quote is the Court quoting paragraph two of the syllabus of Jones v. Stevens, which it adopts and applies. In Ohio the syllabus of a Supreme Court case states the law of the case for decisions of that era, and Samson Sales' own syllabus is not separately quoted here."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "non-competition",
+    "rule_id": "oh-raimonde-reasonableness-and-judicial-modification",
+    "question": "Will an Ohio court enforce this non-compete, and what happens if it is too broad?",
+    "rule": "A covenant restraining an employee from competing with his former employer upon termination of employment is reasonable if it is no greater than is required for the protection of the employer, does not impose undue hardship on the employee, and is not injurious to the public; a covenant that imposes unreasonable restrictions will be enforced to the extent necessary to protect the employer's legitimate interests; and courts are empowered to modify or amend employment agreements to achieve such results (Raimonde). Raimonde abandoned the 'blue pencil' test, under which unreasonable provisions could be stricken if divisible but not amended or modified, and under which an unreasonable and indivisible restriction meant the entire contract failed.",
+    "trap": "Because an Ohio court can rewrite the covenant rather than strike it, the drafting incentive runs the other way from a strict blue-pencil state — and Raimonde says so, answering the argument that a rule of reasonableness would let employers dictate restraints without fear. What the employer loses is control of the terms: the reasonableness inquiry is fact-heavy, and Raimonde lists the factors properly to be considered, including whether the employee is the sole contact with the customer, whether the employee is possessed with confidential information or trade secrets, whether the covenant seeks to eliminate unfair competition or merely ordinary competition, whether the benefit to the employer is disproportional to the detriment to the employee, whether the covenant operates as a bar to the employee's sole means of support, and whether the talent the employer seeks to suppress was actually developed during the employment.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "42 Ohio St.2d 21",
+        "name": "Raimonde v. Van Vlerah",
+        "court": "Ohio",
+        "decided": "1975",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "535eff0967573c46",
+            "cl_opinion_id": "6755445",
+            "quote": "A covenant restraining an employee from competing with his former employer upon termination of employment is reasonable if it is no greater than is required for the protection of the employer, does not impose undue hardship on the employee, and is not injurious to the public. Courts are empowered to modify or amend employment agreements to achieve such results.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "42 Ohio St.2d 21",
+        "name": "Raimonde v. Van Vlerah",
+        "court": "Ohio",
+        "decided": "1975",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "535eff0967573c46",
+            "cl_opinion_id": "6755445",
+            "quote": "The “blue pencil” test provides that if unreasonable provisions exist in such, a contract, they may be stricken, if divisible, but not amended or modified. It also provides that if restrictions are unreasonable and indivisible, the entire contract fails.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "42 Ohio St.2d 21",
+        "name": "Raimonde v. Van Vlerah",
+        "court": "Ohio",
+        "decided": "1975",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "535eff0967573c46",
+            "cl_opinion_id": "6755445",
+            "quote": "Appellee argues that adoption of a rule of reasonableness would allow employers to dictate restraints without fear, knowing that judges will rewrite contracts if they are taken to court. Such a contention is without merit.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "applies_to": [
+      "employment"
+    ],
+    "notes": "Raimonde: single published row, opinion for the Court. The factor list summarised in the trap is Raimonde quoting Extine v. Williamson Midwest at 406, which the Court adopts as the factors 'properly to be considered'. Tagged 'employment' because the holding sentence is expressly about a covenant restraining an employee from competing with his former employer; nothing here states the Ohio rule for a covenant given on the sale of a business. No Ohio statute governing non-competes was located or read: Ohio's statutes are outside our published shard."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "prompt-payment",
+    "rule_id": "oh-4113-61-ten-days-and-18-percent",
+    "question": "When does the general contractor have to pay us, and what does late payment cost it?",
+    "rule": "Under R.C. 4113.61(A)(1)(a), as the First District set it out, a contractor must, within ten calendar days after receipt of payment from the owner or construction manager for improvements to property, pay to the subcontractor an amount equal to the percentage of completion of the subcontractor's contract allowed by the owner for the amount of labour or work performed; failure to abide by that provision entitles the subcontractor to prejudgment interest at a rate of 18 percent per annum, and R.C. 4113.61(B)(1) allows the court to award attorney fees to a party that prevails on a prompt-pay claim (H & H Glass). Separately, R.C. 4113.62(C)(1) makes void and unenforceable as against public policy any provision of a construction contract that waives or precludes liability for delay, or waives any other remedy, when the cause of the delay is a proximate result of the owner's act or failure to act (IPS Electric Services).",
+    "trap": "The interest is not automatic on every unpaid invoice. H & H Glass records that the Supreme Court of Ohio held in Masiongale that prejudgment interest is not warranted under R.C. 4113.61 where the contractor, in good faith, withholds amounts over disputed performance of labour or furnishing of materials — so a genuine performance dispute, not a contract clause, is what usually defeats the claim. And R.C. 4113.62(C)(1) is narrower than a general ban on no-damages-for-delay wording: it reaches delay proximately resulting from the owner's act or failure to act, and in IPS Electric Services a clause limiting the state's liability for delay attributable to a separate contractor was held not to contain a prohibited provision.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2016-Ohio-3029",
+        "name": "H & H Glass, Inc. v. Empire Bldg. Co., L.L.C.",
+        "court": "Ohio Ct. App. 1st Dist.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "e65966f7823b3353",
+            "cl_opinion_id": "3204410",
+            "quote": "In pertinent part, R.C. 4113.61(A)(1)(a) provides that a contractor, within ten calendar days after receipt of payment from the owner or construction manager for improvements to property, shall pay to the subcontractor “an amount that is equal to the percentage of completion of the subcontractor’s contract allowed by the owner for the amount of labor or work 6 OHIO FIRST DISTRICT COURT OF APPEALS performed.” Failure to abide by this provision entitles a subcontractor to prejudgment interest at a rate of 18 percent per annum.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2016-Ohio-361",
+        "name": "IPS Elec, Servs., L.L.C. v. Univ. of Toledo",
+        "court": "Ohio Ct. App. 10th Dist.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "85b90e5bc26c19ad",
+            "cl_opinion_id": "3174469",
+            "quote": "R.C. 4113.62(C)(1) provides in pertinent part: \"Any provision of a construction contract * * * that waives or precludes liability for delay during the course of a construction contract when the cause of the delay is a proximate result of the owner's act or failure to act, or that waives any other remedy for a construction contract when the cause of the delay is a proximate result of the owner's act or failure to act, is void and unenforceable as against public policy.\"",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2016-Ohio-361",
+        "name": "IPS Elec, Servs., L.L.C. v. Univ. of Toledo",
+        "court": "Ohio Ct. App. 10th Dist.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "85b90e5bc26c19ad",
+            "cl_opinion_id": "3174469",
+            "quote": "Contrary to IPS's assertions, however, these provisions do not contain a clause prohibited by R.C. 4113.62(C)(1).",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "applies_to": [
+      "construction"
+    ],
+    "notes": "Both are Court of Appeals decisions (First and Tenth Districts) binding only their districts; they are used because Ohio statutes are outside our published shard. The H & H Glass quote reproduces the running header text ('6 OHIO FIRST DISTRICT COURT OF APPEALS') that sits inside the sentence in the published row. Masiongale Elec.-Mechanical, Inc. v. Constr. One, Inc., 102 Ohio St.3d 1, is cited in H & H Glass for the good-faith-withholding point and was not separately read; the trap attributes it to the H & H Glass court's own description. Tagged 'construction' because both sections apply, on the text quoted, to construction contracts and improvements to property. HOLDING SWEEP 2026-09-22 (fourth band, overlap 0.25-0.30): the holding the row paraphrases from IPS Elec, Servs., L.L.C. v. Univ. of Toledo is now blocked in the court's words."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "statute-of-frauds",
+    "rule_id": "oh-1335-05-land-and-one-year",
+    "question": "Does this deal have to be in writing and signed in Ohio?",
+    "rule": "R.C. 1335.05, as the Fifth District set it out, provides that no action shall be brought whereby to charge the defendant upon a contract or sale of lands, tenements, or hereditaments or interest in or concerning them, or upon an agreement that is not to be performed within one year from the making thereof, unless the agreement upon which such action is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith or some other person thereunto by him or her lawfully authorized (Yorkland).",
+    "trap": "The signed writing can be assembled from a chain of emails and still fail on intent. In Mezher an email exchange identified the sellers, the buyer, the property and the price and carried an electronic signature of the party to be charged, and the First District still had to decide 'whether the parties intended to enter into a contract at the time of the email exchanges', because the exchange contemplated that the parties would sign a formal document. Note also that the section as quoted refers to the agent's authority being given to that person 'lawfully authorized' — the quoted text does not say the agent's authority must itself be written, and this rule does not add that requirement. R.C. 1335.05 is one section of Ohio's statute of frauds; the writing requirement for a sale of goods, and R.C. 1335.02 for loan agreements, are not quoted in any authority listed here.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2025-Ohio-152",
+        "name": "Yorkland Ltd. v. Kildow",
+        "court": "Ohio Ct. App. 5th Dist.",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "394e17b20960e225",
+            "cl_opinion_id": "10784823",
+            "quote": "No action shall be brought whereby to charge the defendant * * * upon a contract or sale of lands, tenements, or hereditaments or interest in or concerning them, or upon an agreement that is not to be performed within one year from the making thereof; unless the agreement upon which such action is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith or some other person thereunto by him or her lawfully authorized.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2018-Ohio-3787",
+        "name": "Mezher v. Schrand",
+        "court": "Ohio Ct. App. 1st Dist.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "967cd19c79ae1599",
+            "cl_opinion_id": "4314314",
+            "quote": "An agreement can be specifically enforced even where the parties contemplated execution of a formal written document, so long as the parties have manifested an intent to be bound and their intentions are sufficiently definite.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Both are Court of Appeals decisions (Fifth and First Districts) binding only their districts; they are used because Ohio statutes are outside our published shard. The Mezher sentence rests on Normandy Place Assoc. v. Beyer, 2 Ohio St.3d 102, which was not separately read."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "oh-1333-61-d-definition-and-the-memorised-client-list",
+    "question": "Does our confidentiality clause actually protect this information in Ohio?",
+    "rule": "Ohio's Uniform Trade Secrets Act protects information only if it meets the statutory definition. R.C. 1333.61(D), as the Supreme Court of Ohio quoted it, covers information — including any business information or plans, financial information, or listing of names, addresses, or telephone numbers — that both (1) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use, and (2) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy (Al Minor & Associates). The Court also held that client information does not lose its status as a trade secret, or the protection of the Act, because it has been memorised by a former employee.",
+    "trap": "Both statutory limbs are doing work, and the second is the one a confidentiality clause can fail. Al Minor turned on a firm that maintained a confidential client list; the Court had earlier established a six-factor test for whether information constitutes a trade secret under R.C. 1333.61(D), including the extent to which the information is known outside the business, the extent to which it is known to employees, and the precautions taken by the holder to guard the secrecy of the information. A clause that labels everything confidential does not satisfy limb (2) by itself, because the statute asks what efforts were actually made. Note also that the employee in Al Minor had signed neither an employment contract nor a non-competition agreement, so the protection came from the statute rather than from a covenant.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "117 Ohio St.3d 58",
+        "name": "Al Minor & Associates, Inc. v. Martin",
+        "court": "Ohio",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "71c69114b11468b7",
+            "cl_opinion_id": "6791669",
+            "quote": "“(1) It derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use. {¶ 15} “(2) It is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.” R.C. 1333.61(D).",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "117 Ohio St.3d 58",
+        "name": "Al Minor & Associates, Inc. v. Martin",
+        "court": "Ohio",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "71c69114b11468b7",
+            "cl_opinion_id": "6791669",
+            "quote": "After review, we have concluded that the client information at issue in this case did not lose its status as a trade secret, or the protection of the UTSA, because it had been memorized by a former employee.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Al Minor & Associates: opinion by O'Donnell, J. (single published row). The six-factor test summarised in the trap is the Court restating State ex rel. The Plain Dealer v. Ohio Dept. of Ins., 80 Ohio St.3d at 524-525, which it applies; Plain Dealer was not separately read. The rule is left untagged for contract type because R.C. 1333.61(D) as quoted is not limited to employment."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "unconscionability",
+    "rule_id": "oh-both-prongs-and-the-clause-specific-challenge",
+    "question": "Can the other side get out of this clause by calling it unconscionable?",
+    "rule": "Only by proving both halves. Unconscionability includes both an absence of meaningful choice on the part of one of the parties together with contract terms which are unreasonably favourable to the other party, and the party asserting unconscionability of a contract bears the burden of proving that the agreement is both procedurally and substantively unconscionable (Taylor Building, quoting Lake Ridge Academy and Williams v. Walker-Thomas Furniture Co.). Whether a written contract is unconscionable is an issue of law, and the Supreme Court of Ohio applies de novo review to a determination whether an arbitration agreement alleged to be unconscionable is enforceable.",
+    "trap": "Aiming at the wrong document loses the point. In Taylor Building the appellate court had found the whole contract void and unenforceable in its entirety because several provisions besides the arbitration clause were unfair; the Supreme Court held that was incorrect, and that a party challenging an arbitration provision under R.C. 2711.01(A) must show that the arbitration clause itself is unconscionable, with unconscionability arguments about the rest of the contract left to the arbitrator in the first instance. The corollary matters to a drafter: the unfair terms elsewhere in the form are not what saves or sinks the clause under challenge.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "117 Ohio St.3d 352",
+        "name": "Taylor Building Corp. of America v. Benfield",
+        "court": "Ohio",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "c6b857d072b56d13",
+            "cl_opinion_id": "6791721",
+            "quote": "The *359 party asserting unconscionability of a contract bears the burden of proving that the agreement is both procedurally and substantively unconscionable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "117 Ohio St.3d 352",
+        "name": "Taylor Building Corp. of America v. Benfield",
+        "court": "Ohio",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "c6b857d072b56d13",
+            "cl_opinion_id": "6791721",
+            "quote": "Accordingly, we agree with the Ohio and federal courts that have applied a de novo standard of review to a determination whether an arbitration agreement alleged to be unconscionable is enforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "117 Ohio St.3d 352",
+        "name": "Taylor Building Corp. of America v. Benfield",
+        "court": "Ohio",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "c6b857d072b56d13",
+            "cl_opinion_id": "6791721",
+            "quote": "The appellate court in this case incorrectly determined that the entire contract was unconscionable based in part on that court’s view that several provisions in addition to the arbitration clause were unfair.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "FILE-LEVEL GOOD-LAW SCAN. One pass over docketx/us-caselaw-oh for opinions dated after each authority that mention its reporter citation, flagging any window of +/-350 characters containing overrul / disapprov / abrogat / supersed / recede / abandon / repudiat / 'decline to follow' / 'called into question' / 'limited to its facts' / 'no longer good law'. Result: no negative treatment of any Supreme Court of Ohio authority in this file. Later rows mentioning each cite / flag windows, all of which were read: Raimonde 95/4 (the windows are Raimonde itself overruling Extine v. Williamson Midwest in part, and 'assignment of error is overruled' noise); Samson Sales 138/7 (all unrelated cases sharing the numeral pattern, plus Stoebermann applying Samson Sales); Galmish 281/13 (all 'assignment of error is overruled' noise or later courts applying Galmish); Kennecorp 63/0; Glaspell 55/2 (Total Quality Logistics discussing Glaspell's construction of an indemnity agreement, not disapproving it); Wilborn 137/4 (Sixth Circuit cases overruled by other Sixth Circuit cases, and later Ohio cases following Wilborn); Nottingdale 166/11 (Nottingdale limiting Miller v. Kyle, and later cases applying Nottingdale); Schulke 73/1 (assignment-of-error noise); Taylor Building 214/2 (later courts applying it); Council of Smaller Enterprises 161/7 (later courts applying it); Bowen 171/21 (all citations of Bowen for summary-judgment and loss-of-consortium propositions); Williams v. Spitzer 38/6 (later courts applying it, one recording its paragraph two of the syllabus); Kendall 20/2 (a dissent calling reliance on Kendall misplaced, and a later court applying it); Al Minor 10/0; Preferred Capital 51/1 (assignment-of-error noise). A window scan does not find treatment that avoids those words, and does not find opinions citing only by name. Taylor Building: majority by Cupp, J.; Pfeifer, J. concurred in part and dissented in part in a separate row. The first quote carries the star-page marker '*359' inside the sentence, reproduced because the match is verbatim. The de novo sentence is about the standard of appellate review of an unconscionability determination, which is the question Taylor Building accepted; it is not a statement that unconscionability is reviewed de novo in every context."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "usury",
+    "rule_id": "oh-1343-01-a-eight-percent-on-a-promissory-note",
+    "question": "What interest rate can we charge, and what does the contract have to say to get it?",
+    "rule": "R.C. 1343.01(A), as the Ninth District set it out, provides that the parties to a promissory note may stipulate therein for the payment of interest upon the amount thereof at any rate not exceeding eight per cent per annum payable annually. Where R.C. 1343.01 does not apply, R.C. 1343.03(A) entitles the creditor, when money becomes due and payable upon a judgment for the payment of money arising out of a contract, to interest at the rate determined under R.C. 5703.47, unless a written contract provides a different rate of interest in relation to the money — so a judgment creditor is entitled to a contractual rate instead of the statutory rate when the parties have a written contract and that contract provides a rate of interest with respect to money that becomes due and payable.",
+    "trap": "The contractual rate has to be in the right document. In Designers Choice the asset purchase agreement stated a purchase price and said nothing about interest, while a separate promissory note dealt with interest; the argument over which instrument governed post-judgment interest is the whole of the fourth assignment of error. The eight per cent figure in R.C. 1343.01(A) is the ceiling that subsection sets for a stipulation in a promissory note, and the exemptions and licensee provisions that displace a general usury ceiling in other states are not quoted in any authority listed here — this store holds no Ohio statutes, so nothing in this rule tells you whether a particular lender or borrower is outside the section.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2020-Ohio-4617",
+        "name": "Designers Choice, Inc. v. Attractive Floorings, L.L.C.",
+        "court": "Ohio Ct. App. 9th Dist.",
+        "decided": "2020",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "3afeb5e020b944f4",
+            "cl_opinion_id": "4570267",
+            "quote": "Section 1343.01(A) provides that the parties to a promissory note “may stipulate therein for the payment of interest upon the amount thereof at any rate not exceeding eight per cent per annum payable annually * * *.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2020-Ohio-4617",
+        "name": "Designers Choice, Inc. v. Attractive Floorings, L.L.C.",
+        "court": "Ohio Ct. App. 9th Dist.",
+        "decided": "2020",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "3afeb5e020b944f4",
+            "cl_opinion_id": "4570267",
+            "quote": "“Therefore, a judgment creditor is entitled to a contractual interest rate instead of the statutory rate ‘when (1) the parties have a written contract, and (2) that contract provides a rate of interest with respect to money that becomes due and payable.’”",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Designers Choice is a Ninth District decision and binds only that district; it is used because Ohio statutes are outside our published shard. The second quote is that court quoting John Soliday Fin. Group, LLC v. Stutzman, which in turn quotes First Bank of Ohio v. Wigfield; neither was separately read, and the rule attributes the proposition no further than the Ninth District did."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "venue-selection",
+    "rule_id": "oh-kennecorp-three-prong-test-and-the-floating-forum",
+    "question": "Will an Ohio court hold the other side to the forum we picked?",
+    "rule": "In the commercial context, yes, subject to a three-part test. The Supreme Court of Ohio held forum selection clauses in arm's-length commercial transactions between business entities to be valid and enforceable irrespective of the number of contacts with the forum state, and rejected a minimum-contacts analysis for that question (Kennecorp). Preferred Capital describes the Kennecorp test as: (1) are both parties to the contract commercial entities? (2) is there evidence of fraud or overreaching? (3) would enforcement of the clause be unreasonable and unjust? The Court applied that same test to a 'floating forum' clause whose forum changes with the location of the entity holding the interest in the lease payments, and held the Kennecorp rule still applies.",
+    "trap": "Kennecorp draws its standard from The Bremen, and the Court set out both halves: such clauses should be enforced 'unless it is clearly shown that enforcement would be unreasonable and unjust, or that the clause was invalid as being a product of fraud or overreaching'. Two limits worth keeping in view. First, the first prong is real — Preferred Capital quotes appellate authority that 'in Ohio, forum-selection clauses are less readily enforceable against consumers' — and the Court rejected the small-business appellants' attempt to put themselves on the consumer side of that line on those facts. Second, Kennecorp expressly distinguishes Schulke Radio as a conflict-of-law case, so the choice-of-law test and the forum test are not the same test in Ohio.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "66 Ohio St.3d 173",
+        "name": "Kennecorp Mortgage Brokers, Inc. v. Country Club Convalescent Hospital, Inc.",
+        "court": "Ohio",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "58b281522bfae038",
+            "cl_opinion_id": "6767195",
+            "quote": "The determinative issue in this appeal is whether a forum selection clause contained in an arm’s-length commercial transaction between two business entities is valid and enforceable, irrespective of the number of contacts involved with the forum state. For the reasons that follow, we hold such clauses in the commercial contract context to be valid and enforceable",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "66 Ohio St.3d 173",
+        "name": "Kennecorp Mortgage Brokers, Inc. v. Country Club Convalescent Hospital, Inc.",
+        "court": "Ohio",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "58b281522bfae038",
+            "cl_opinion_id": "6767195",
+            "quote": "The high court in The Bremen also opined that such forum selection clauses in the commercial contract context should be enforced, unless it is clearly shown that enforcement would be unreasonable and unjust, or that the clause was invalid as being a product of fraud or overreaching.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "112 Ohio St.3d 429",
+        "name": "Preferred Capital, Inc. v. Power Engineering Group, Inc.",
+        "court": "Ohio",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "634481a073f45f11",
+            "cl_opinion_id": "6789931",
+            "quote": "In Kennecorp, we adopted a three-pronged test, similar to the test in Bremen, to determine the validity of a forum-selection clause: (1) Are both parties to the contract commercial entities? (2) Is there evidence of fraud or overreaching? (3) Would enforcement of the clause be unreasonable and unjust?",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Kennecorp: opinion by A. William Sweeney, J. (single published row). Preferred Capital: majority by Moyer, C.J. (row 634481a073f45f11); Lundberg Stratton, J. dissented in a separate row (a7d3369e166f36d1). Preferred Capital held the floating forum clause before it enforceable on its facts; this rule does not state that every floating forum clause is enforceable. The 'less readily enforceable against consumers' sentence is the Supreme Court quoting Information Leasing Corp. v. Jaskot, a First District decision, which was not separately read. Taylor Building records that a court of appeals had held contractual provisions requiring litigation or arbitration in another state void under R.C. 4113.62(D); that section's text is not in our corpus and the Supreme Court did not adopt the holding, so nothing about it is stated in this rule."
+  },
+  {
+    "jurisdiction": "oh",
+    "clause": "warranty-disclaimer",
+    "rule_id": "oh-1302-29-b-mention-merchantability-and-be-conspicuous",
+    "question": "Does our 'AS IS, NO WARRANTIES' language actually disclaim the implied warranties?",
+    "rule": "R.C. 1302.29(B), as the Fourth District set it out, provides that, subject to division (C) of the section, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous (Caterpillar Financial Services). R.C. 1302.27 supplies the implied warranty of merchantability and R.C. 1302.28 the implied warranty of fitness for a particular purpose.",
+    "trap": "Division (B) is expressly 'Subject to division (C) of this section', and division (C) is not quoted in any authority listed here, so this rule does not tell you what 'as is' or 'with all faults' language does in Ohio — the mention-merchantability and conspicuousness requirements are stated on division (B)'s own terms. The second trap is not about the wording at all: Caterpillar Financial Services held the contract-based implied warranty claim failed for lack of privity, because longstanding Ohio jurisprudence provides that purchasers may assert a contract claim for breach of implied warranty only against parties with whom they are in privity, and in Ohio vertical privity exists only between immediate links in the distribution chain. A manufacturer selling through a dealer may therefore never need the disclaimer, and a disclaimer in the manufacturer's paperwork may never reach the buyer's contract.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2015-Ohio-4884",
+        "name": "Caterpillar Fin. Servs. Corp. v. Harold Tatman & Son's Ents., Inc.",
+        "court": "Ohio Ct. App. 4th Dist.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "2ab347742cb5a4ea",
+            "cl_opinion_id": "3157731",
+            "quote": "(B) Subject to division (C) of this section, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2015-Ohio-4884",
+        "name": "Caterpillar Fin. Servs. Corp. v. Harold Tatman & Son's Ents., Inc.",
+        "court": "Ohio Ct. App. 4th Dist.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-oh",
+            "row_id": "2ab347742cb5a4ea",
+            "cl_opinion_id": "3157731",
+            "quote": "“[L]ongstanding Ohio jurisprudence provides that purchasers * * * may assert a contract claim for breach of implied warranty only against parties with whom they are in privity.”",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Caterpillar Financial Services is a Fourth District decision and binds only that district; it is used because Ohio statutes are outside our published shard. The privity quote is that court quoting Curl v. Volkswagen of Am., Inc., 114 Ohio St.3d 266, which was not separately read; the trap attributes it no further than the Fourth District did. Left untagged for contract type, following SCHEMA.md's rule that UCC Article 2 rows stay untagged."
+  }
+]

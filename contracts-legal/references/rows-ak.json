@@ -1,0 +1,1026 @@
+[
+  {
+    "jurisdiction": "ak",
+    "clause": "anti-assignment",
+    "rule_id": "ak-9-406-9-408-ineffective-as-to-receivables-and-general-intangibles",
+    "question": "Does a no-assignment clause block assignment of our right to receive payment (accounts, chattel paper, payment intangibles, promissory notes, or other general intangibles) under Alaska law?",
+    "rule": "Mostly no. A contract term between an account debtor and an assignor (or in a promissory note) is \"ineffective to the extent that it (1) prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note\" (AS 45.29.406(d)(1)). Alaska Statute 45.29.408(a) extends the same ineffectiveness to a broader category -- \"a term in a promissory note or in an agreement between an account debtor and a debtor that relates to a health care insurance receivable or a general intangible, including a contract, permit, license, or franchise\" -- to the extent the term \"(1) would impair the creation, attachment, or perfection of a security interest.\"",
+    "trap": "Both overrides have real limits a drafter can still use. AS 45.29.406(h) preserves a DIFFERENT rule for an account debtor who is an individual who incurred the obligation primarily for personal, family, or household purposes -- the override in (d) is not a consumer-protection rule and doesn't reach consumer account debtors the same way. AS 45.29.406(e) carves (d) out entirely for a SALE of a payment intangible or promissory note (other than a disposition under AS 45.29.610 or acceptance of collateral under AS 45.29.620) -- so a no-assignment clause can still be effective against certain outright sales of those asset types. AS 45.29.408(b) is narrower still: its override of promissory-note and general-intangible anti-assignment terms applies \"only if the security interest arises out of a sale\" of the payment intangible or promissory note -- an anti-assignment clause aimed at some other kind of transfer of a general intangible (for example, an ordinary contract-rights assignment that is not the sale of a payment intangible) is not shown by this text to be overridden by 408 at all.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.29.406",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_29_406",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it (1) prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.29.408",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_29_408",
+            "quote": "a term in a promissory note or in an agreement between an account debtor and a debtor that relates to a health care insurance receivable or a general intangible, including a contract, permit, license, or franchise, and that prohibits, restricts, or requires the consent of the person obligated on the promissory note or the account debtor to the assignment or transfer of, or creation, attachment, or perfection of a security interest in the promissory note, health care insurance receivable, or general intangible is ineffective to the extent that the term (1) would impair the creation, attachment, or perfection of a security interest",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.29.406 and AS 45.29.408 both read in full (9 and 5 subsections respectively). This row is statute-only; no Alaska appellate opinion applying either section to a contract's anti-assignment clause was searched for or found. AS 45.29.408(e) provides this section \"prevails over inconsistent provisions of other statutes unless the other statute contains an exemption that refers specifically to this section\" -- read but not quoted above since it addresses statute-vs-statute conflicts, not contract drafting (the same distinction the store's audit flagged for New Jersey's analogous 12A:9-406(j))."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "arbitration",
+    "rule_id": "ak-09-43-010-020-valid-agreements-plus-severability",
+    "question": "Is this arbitration clause enforceable in Alaska, and who decides if the underlying contract as a whole is void -- the court or the arbitrator?",
+    "rule": "A written arbitration provision is \"valid, enforceable, and irrevocable, except upon grounds that exist at law or in equity for the revocation of a contract\" (AS 09.43.010(a)), and once a party shows such an agreement and the other side's refusal to arbitrate, \"the court shall order the parties to proceed with arbitration,\" deciding only the narrow question of the agreement's existence if it is disputed (AS 09.43.020(a)). Lexington Marketing Group, Inc. v. Goldbelt Eagle, LLC held that Alaska's arbitration law follows the same severability doctrine as the Federal Arbitration Act: \"Based on both the statutory language and the policy behind Alaska's Arbitration Act, we hold that state arbitration law aligns with federal law and does not permit a court determining arbitrability to consider the validity of the underlying agreement.\" In other words, a challenge aimed at the arbitration clause itself is for the court; a challenge to the contract as a whole goes to the arbitrator.",
+    "trap": "AS 09.43.010(b) sharply limits which contracts this article even governs: \"AS 09.43.010 -- 09.43.180 do not apply to an agreement or a contract unless the agreement or contract is entered into before January 1, 2005, and is not otherwise subject to AS 09.43.300 -- 09.43.595,\" and a waiver of that effective-date cutoff is itself void. A post-2004 arbitration agreement is therefore governed by a DIFFERENT statutory regime (AS 09.43.300 et seq., the Revised Uniform Arbitration Act) -- check that regime directly for any contract entered on or after January 1, 2005, rather than assuming these sections answer the question.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 09.43.010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_43_010",
+            "quote": "A written agreement to submit an existing controversy to arbitration or a provision in a written contract to submit to arbitration a subsequent controversy between the parties is valid, enforceable, and irrevocable, except upon grounds that exist at law or in equity for the revocation of a contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 09.43.020",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_43_020",
+            "quote": "the court shall order the parties to proceed with arbitration, but if the opposing party denies the existence of the agreement to arbitrate, the court shall proceed summarily to the determination of the issue and if the agreement is found to exist shall order arbitration.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "157 P.3d 470",
+        "name": "Lexington Marketing Group, Inc. v. Goldbelt Eagle, LLC",
+        "court": "Alaska",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "6e60728f76d1a9f9",
+            "cl_opinion_id": "2632961",
+            "quote": "Based on both the statutory language and the policy behind Alaska's Arbitration Act, we hold that state arbitration law aligns with federal law and does not permit a court determining arbitrability to consider the validity of the underlying agreement.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 09.43.010 and AS 09.43.020 both read in full. Lexington Marketing Group read in the surrounding paragraphs, including its extended discussion of Prima Paint Corp. v. Conklin Mfg. Co., Southland Corp. v. Keating, and Buckeye Check Cashing, Inc. v. Cardegna as the federal severability line it adopts for state law. AS 09.43.300-.595 (the post-2005 regime referenced by AS 09.43.010(b)) was located by section-number probe but its text was NOT read for this pass -- recorded as an open item rather than guessed at, consistent with this store's practice of not extending a rule past what was actually read. DISTINCTIVE FINDING: the Lexington Marketing Group opinion itself repeatedly cites the operative sections as \"AS 09.48.010\" and \"AS 09.48.020\" throughout its own text (not \"AS 09.43\"), even while quoting language that matches AS 09.43.010/.020 as currently codified in this corpus -- an unresolved citation drift between the opinion's own numbering and the sections cited in this row, not investigated further here. AUDIT 2026-09-22 (full read of the Alaska pack): §§ 09.43.010(a)-(b) and 09.43.020 read whole; Lexington read at the holding and disposition (reversed). CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "attorney-fees",
+    "rule_id": "ak-civil-rule-82-party-agreement-overrides-default-schedule-but-unverifiable-as-a-rule-authority",
+    "question": "If our contract sets its own rule for who pays attorney's fees, does it displace Alaska Civil Rule 82's default fee-shifting schedule?",
+    "rule": "Yes -- Civil Rule 82's own text makes a contrary party agreement the first-listed override of its default schedule. HP Ltd. Partnership v. Kenai River Airpark, LLC quotes the rule directly: \"Under Alaska Civil Rule 82, 'Except as otherwise provided by law or agreed to by the parties, the prevailing party in a civil case shall be awarded attorney's fees calculated under this rule.'\"",
+    "trap": "This entry verifies only the opening sentence of Rule 82(a) -- that a party agreement is one of the two express overrides of the rule's default fee-shifting schedule (\"except as otherwise provided by law or agreed to by the parties\"). The rest of Rule 82's mechanics are real and should be checked directly, not assumed away by a general fee clause: a tiered percentage-of-judgment schedule for money judgments, a separate percentage rule for cases with no money judgment, a multi-factor test a court may use to vary any award, and a short post-judgment deadline for moving for fees. A contract fee clause displaces only what it actually addresses -- do not assume it silently zeroes out every part of Rule 82's default mechanics.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "270 P.3d 719",
+        "name": "HP Ltd. Partnership v. Kenai River Airpark, LLC",
+        "court": "Alaska",
+        "decided": "2012",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "bc1984b268310402",
+            "cl_opinion_id": "5156847",
+            "quote": "Under Alaska Civil Rule 82, \"Except as otherwise provided by law or agreed to by the parties, the prevailing party in a civil case shall be awarded attorney's fees calculated under this rule.\"",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Confirmed docketx/court-rules holds Alaska Civil Rule 82 in full (data/state/ak/rules.jsonl.gz, id AK_civ_82, rule_set \"civ\", rule_number \"82\") -- read in full on 2026-09-21: it sets the percentage-of-judgment fee schedule, the 30%/20% no-money-judgment fallback, an 11-factor variance test, a 10-day motion deadline, and an equitable-apportionment cross-reference to AS 09.17.080. None of that text is cited as a verified authority in this row because the DocketX contract-law store's corpusShapeProblems() rejects any \"rule\"-kind authority carrying a verified.corpus block outright, regardless of dataset -- this is a schema gap, not a corpus gap, and is recorded here rather than worked around by mislabeling the authority as a \"case\" or a \"statute\" it is not. The only reason this row can cite Rule 82's opening sentence at all is that an Alaska Supreme Court OPINION quotes it verbatim, which this store CAN corpus-verify as a case authority. HP Ltd. Partnership read in the surrounding paragraphs (a boundary/easement dispute); the quoted sentence appears in the prevailing-party-determination section and is offered only for its verbatim quotation of Rule 82(a), not for anything else the opinion holds. AUDIT 2026-09-22 (full read of the Alaska pack): HP Ltd. read at the Rule 82 sentence; verbatim. CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "choice-of-law",
+    "rule_id": "ak-45-01-301-plus-restatement-187-fundamental-policy-override",
+    "question": "Will Alaska honor this contract's choice of another state's law?",
+    "rule": "Presumptively yes, but Alaska common law recognizes a real limit. For a UCC transaction, AS 45.01.301(a) lets the parties choose the governing law \"when a transaction bears a reasonable relation to this state and also to another state or nation.\" For contracts generally, Long v. Holland America Line Westours, Inc. adopted the Restatement (Second) of Conflict of Laws § 187(2) test: the chosen law applies even on an issue the parties could not have resolved by explicit agreement, \"unless either (a) the chosen state has no substantial relationship to the parties or the transaction and there is no other reasonable basis for the parties' choice, or (b) application of the law of the chosen state would be contrary to a fundamental policy of a state which has a materially greater interest than the chosen state in the determination of the particular issue and which, under the rule of § 188, would be the state of the applicable law in the absence of an effective choice of law by the parties.\"",
+    "trap": "This is not a theoretical override -- Long applied it to strike down enforcement of a chosen state's law on the specific issue of a contractual limitations period, even though the chosen state (Washington) had a genuine, substantial relationship to the contract (the drafting party was headquartered there). The court found Alaska had a \"materially greater interest\" in uniform filing deadlines, in-state accident victims' access to its courts, and deterring in-state negligent conduct, and that enforcing the chosen law would offend those interests as \"fundamental policy.\" A choice-of-law clause therefore does not guarantee the chosen state's substantive rules will govern every disputed issue in Alaska -- particularly one Alaska courts treat as bound up with in-state litigants, in-state injuries, or in-state regulatory policy, as opposed to a purely private allocation-of-risk term between sophisticated commercial parties.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.01.301",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_01_301",
+            "quote": "when a transaction bears a reasonable relation to this state and also to another state or nation, the parties may agree that the law of this state or of the other state or nation shall govern the parties' rights and duties.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "26 P.3d 430",
+        "name": "Long v. Holland America Line Westours, Inc.",
+        "court": "Alaska",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "acde57e83b6143cf",
+            "cl_opinion_id": "9795136",
+            "quote": "(2) The law of the state chosen by the parties to govern their contractual rights and duties will be applied, even if the particular issue is one which the parties could not have resolved by an explicit provision in their agreement directed to that issue, unless either (a) the chosen state has no substantial relationship to the parties or the transaction and there is no other reasonable basis for the parties' choice, or (b) application of the law of the chosen state would be contrary to a fundamental policy of a state which has a materially greater interest than the chosen state in the determination of the particular issue",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "26 P.3d 430",
+        "name": "Long v. Holland America Line Westours, Inc.",
+        "court": "Alaska",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "acde57e83b6143cf",
+            "cl_opinion_id": "9795136",
+            "quote": "Because this case raises fundamental policy issues that are materially more interesting to Alaska than Washington, Alaska law applies. Under our law, the limitations clause was unenforceable without a showing of prejudice.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.01.301 read in full (3 subsections, (c) cross-references 7 other UCC choice-of-law sections not independently read here). Long v. Holland America read in full; its own choice-of-law analysis walks through all three Restatement § 187(2)(b) conditions (Alaska law would apply absent an effective choice; Alaska has a materially greater interest; enforcing the chosen law would offend Alaska's fundamental policy) and finds all three satisfied on the facts before it. HONEST NEGATIVE: AS 45.01.301(c) lists several UCC-specific provisions ((1) AS 45.02.402 through (7) AS 45.29.301-.307) whose own choice-of-law rules override subsections (a)-(b) when they apply; none of those seven sections was read for this row, so this rule does not account for whatever they separately require.\nHOLDING SWEEP 2026-09-22 (seventh band, overlap 0.40-0.45): Long's holding sentences added."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "ak-45-50-471-utpa-reaches-agreement-misrepresentation",
+    "question": "Can Alaska's Unfair Trade Practices Act reach a term in our contract, not just marketing or sales claims?",
+    "rule": "Yes, at least for one enumerated act. AS 45.50.471(a) declares \"[u]nfair methods of competition and unfair or deceptive acts or practices in the conduct of trade or commerce\" unlawful, and the enumerated list in (b) reaches contract language directly: it is an unfair or deceptive act or practice to engage in \"representing that an agreement confers or involves rights, remedies, or obligations that it does not confer or involve, or that are prohibited by law\" (AS 45.50.471(b)(14)).",
+    "trap": "The list in (b) is not exhaustive of what the Act reaches: subsection (c) states the listed acts \"are in addition to and do not limit the types of unlawful acts and practices actionable at common law or under other state statutes\" -- a contract term could be attacked as an unfair or deceptive practice on a theory that never appears in the (b) list at all. Conversely, do not over-read (b)(14): whether Alaska courts have actually applied (b)(14) to a contract CLAUSE, as opposed to a pre-contract sales representation, has not been confirmed here -- treat that specific application as an open question rather than a settled one.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.50.471",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_50_471",
+            "quote": "Unfair methods of competition and unfair or deceptive acts or practices in the conduct of trade or commerce are declared to be unlawful.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.50.471",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_50_471",
+            "quote": "representing that an agreement confers or involves rights, remedies, or obligations that it does not confer or involve, or that are prohibited by law",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.50.471",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_50_471",
+            "quote": "The unlawful acts and practices listed in (b) of this section are in addition to and do not limit the types of unlawful acts and practices actionable at common law or under other state statutes.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.50.471 read in full ((a) through (d), a 57-item list in (b); (d) is a bare \"[Repealed ...]\" stub). This row is statute-only. Pierce v. Catalina Yachts, Inc. (cited elsewhere in this file) references AS 45.50.471(b) and AS 45.50.531 in a footnote only, confirming the Pierces had an unfair-trade-practices claim in that case, but the footnote states no holding about (b)(14) or about contract terms specifically and is not cited here. HONEST NEGATIVE: the searches run for this row (\"45.50.471\", \"unfair trade practices\") turned up numerous Alaska opinions applying the UTPA to sales representations, financing disclosures, and lease terms, but none of the opinions actually read for this pass applied (b)(14) specifically to a contract clause. A second, related honest negative: no authority read for this row establishes whether a UTPA claim under (b)(14) is available to a business counterparty as opposed to a consumer -- that scope question was not resolved by any text read either. AUDIT 2026-09-22 (full read of the Alaska pack): § 45.50.471 read whole; (b)(14) and (c) verbatim, (c) now carries a block. CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "electronic-signature",
+    "rule_id": "ak-09-80-mutual-agreement-required-plus-ucc-scope-exclusions",
+    "question": "Is an electronically signed version of this contract valid in Alaska?",
+    "rule": "Generally yes, but only within a scope that both parties actually opted into. Alaska's Uniform Electronic Transactions Act \"applies only to transactions between parties each of whom has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct\" (AS 09.80.020(b)). And that agreement is not a one-way ratchet: \"A party who agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement\" (AS 09.80.020(c)).",
+    "trap": "The chapter carves out entire subject areas regardless of the parties' agreement to go electronic: \"This chapter does not apply to a transaction to the extent it is governed by (1) a law governing the creation and execution of wills, codicils, or testamentary trusts\" -- and, separately, most of the Uniform Commercial Code is excluded too: AS 09.80.010(b)(2) applies the chapter to the UCC \"other than AS 45.01.306, AS 45.02, AS 45.12, and, to the extent allowed by AS 45.07.113(c), AS 45.07\" -- meaning UETA's validation of electronic signatures reaches UCC Article 2 (sales, AS 45.02), Article 2A (AS 45.12, whose short title is \"the Uniform Commercial Code — Leases\"), AS 45.01.306 and a slice of Article 7 (AS 45.07, documents of title), but the REST of the UCC (including, notably, Article 9 secured transactions) is excluded from this chapter by its own text.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 09.80.010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_80_010",
+            "quote": "This chapter does not apply to a transaction to the extent it is governed by (1) a law governing the creation and execution of wills, codicils, or testamentary trusts",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 09.80.020",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_80_020",
+            "quote": "This chapter applies only to transactions between parties each of whom has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 09.80.020",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_80_020",
+            "quote": "A party who agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.12.101",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_12_101",
+            "quote": "This chapter may be cited as the Uniform Commercial Code — Leases.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 09.80.010",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_80_010",
+            "quote": "the Uniform Commercial Code other than AS 45.01.306 , AS 45.02 , AS 45.12 , and, to the extent allowed by AS 45.07.113 (c), AS 45.07 .",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 09.80.010 read in full (5 subsections, including the further carve-outs in (c) for certain notices under 15 U.S.C. 7001-7031, such as utility-service cancellation, default/foreclosure/eviction notices on a primary residence, health/life insurance cancellation, and product recalls -- read but not independently quoted above). AS 09.80.020 read in full (5 subsections). This row is statute-only; no case law was searched for it. AUDIT 2026-09-22 (full read of the Alaska pack): the trap called AS 45.12 'Article 5 (letters of credit)'; AS 45.12.101's short title is 'the Uniform Commercial Code — Leases' (Article 2A). Corrected, with the short-title section and the (b)(2) sentence added as blocks. OVERSTATED (L): a code chapter misidentified."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "entire-agreement",
+    "rule_id": "ak-45-02-202-plus-common-law-three-part-integration-test",
+    "question": "Does our integration/entire-agreement clause keep out evidence of prior or side agreements in Alaska?",
+    "rule": "For a sale of goods, AS 45.02.202 bars contradicting a final written expression with evidence of a prior or contemporaneous oral agreement, though the writing \"may be explained or supplemented\" by course of dealing, course of performance, or trade usage, and -- unless the writing was also intended as complete and exclusive -- by evidence of consistent additional terms. For contracts generally, Philbin v. Matanuska-Susitna Borough states Alaska's common-law parol evidence rule directly: \"The parol evidence rule states that an integrated written contract may not be varied or contradicted by prior negotiations or agreements.\" Applying it requires the court to work through three questions in order: \"(1) whether the contract is integrated, (2) what the contract means, and (3) whether the prior agreement conflicts with the integrated agreement.\"",
+    "trap": "The rule does not apply at all in two situations that have nothing to do with how the integration clause is worded: Philbin holds \"[t]he parol evidence rule does not apply 'where a contract has been formed as a result of misrepresentation or mutual mistake'\" -- there, the court admitted evidence of what the parties were told before signing, not to contradict the release's terms, but to show the parties never had a shared understanding of what it covered (mutual mistake), a permissible use of extrinsic evidence the rule does not block. And step (1) of the test is not automatic just because a document looks final: Philbin itself held a signed release was NOT an integrated agreement at all, noting the release \"contains no integration clause\" (the published text reads \"contains' no\", a scanning artefact) and there was no evidence it memorialized a previously reached agreement -- the ABSENCE of an integration clause was itself evidence against integration, meaning a boilerplate \"entire agreement\" clause is doing real work in this analysis, not merely restating a default.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.202",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_202",
+            "quote": "Terms with respect to which the confirmatory memoranda of the parties agree, or that are otherwise set out in a writing intended by the parties as a final expression of their agreement with respect to the terms included in the writing, may not be contradicted by evidence of a prior agreement or of a contemporaneous oral agreement",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "991 P.2d 1263",
+        "name": "Philbin v. Matanuska-Susitna Borough",
+        "court": "Alaska",
+        "decided": "1999",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "fb97550e6179f58e",
+            "cl_opinion_id": "9621576",
+            "quote": "The parol evidence rule states that an integrated written contract may not be varied or contradicted by prior negotiations or agreements.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "991 P.2d 1263",
+        "name": "Philbin v. Matanuska-Susitna Borough",
+        "court": "Alaska",
+        "decided": "1999",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "fb97550e6179f58e",
+            "cl_opinion_id": "9621576",
+            "quote": "Before the rule can be applied, three things must be determined: (1) whether the contract is integrated, (2) what the contract means, and (3) whether the prior agreement conflicts with the integrated agreement.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "991 P.2d 1263",
+        "name": "Philbin v. Matanuska-Susitna Borough",
+        "court": "Alaska",
+        "decided": "1999",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "fb97550e6179f58e",
+            "cl_opinion_id": "9621576",
+            "quote": "The parol evidence rule does not apply “where a contract has been formed as a result of misrepresentation or mutual mistake.”",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "991 P.2d 1263",
+        "name": "Philbin v. Matanuska-Susitna Borough",
+        "court": "Alaska",
+        "decided": "1999",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "fb97550e6179f58e",
+            "cl_opinion_id": "9621576",
+            "quote": "We agree with Philbin’s argument that the release is not an integrated agreement.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "991 P.2d 1263",
+        "name": "Philbin v. Matanuska-Susitna Borough",
+        "court": "Alaska",
+        "decided": "1999",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "fb97550e6179f58e",
+            "cl_opinion_id": "9621576",
+            "quote": "This was a permissible use of extrinsic evidence to prove mutual mistake.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.02.202 read in full (2 numbered exceptions). Philbin read in full; its misrepresentation/mutual-mistake exception is stated in the opinion as a direct quote with its own internal quotation marks (“where a contract has been formed as a result of misrepresentation or mutual mistake”) -- reproduced in the trap above but NOT added as a third separate corpus-verified authority quote in this pass, since the two quotes above already establish the rule and its three-part test; a fuller row could add it. HONEST NEGATIVE: no authority read for this row states whether Alaska treats a merger/integration clause's own PRESENCE as conclusive proof of integration (as opposed to strong evidence, which is what Philbin's discussion of the release's absence of such a clause supports by negative implication only). AUDIT 2026-09-22 (full read of the Alaska pack): Philbin read at the holding and disposition (REVERSE and REMAND): the trap's three quoted propositions were in prose with no block; blocks added. The corpus text of 'contains no integration clause' carries a stray apostrophe, so that phrase is described rather than quoted as a block. UNSUPPORTED block (L), fixed."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "force-majeure",
+    "rule_id": "ak-615-goods-excuse-plus-common-law-impracticability",
+    "question": "Will this force-majeure / impossibility clause excuse late or non-performance under Alaska law?",
+    "rule": "Yes, on two separate legal tracks that both land on the same substantive test. For a sale of goods, Alaska's UCC codifies the excuse directly: a seller's delay or nondelivery \"is not a breach of the seller's duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency, the nonoccurrence of which was a basic assumption on which the contract was made\" or by good-faith compliance with a governmental regulation or order (AS 45.02.615(1)). For contracts generally -- not limited to goods -- Alaska's common law recognizes the same substantive idea under the banner of \"commercial impracticability\": Northern Corporation v. Chugach Electric Ass'n holds that \"Alaska has adopted the Restatement doctrine whereby commercial impracticability may under certain circumstances justify regarding a contract as impossible to perform,\" discharging a party from its contract obligations, even where performance is technically possible, \"if the costs of performance would be so disproportionate to that reasonably contemplated by the parties as to make the contract totally impractical in a commercial sense.\"",
+    "trap": "AS 45.02.615's excuse is itself qualified at the threshold: it applies \"[e]xcept so far as a seller may have assumed a greater obligation\" -- a seller who contractually took on the risk of the very contingency that occurred gets no statutory excuse. The statutory excuse also comes with affirmative duties the clause does not waive on its own: if the contingency affects only part of the seller's capacity, the seller must allocate production fairly and reasonably among customers (AS 45.02.615(2)), and must seasonably notify the buyer of the delay or nondelivery and, where allocation applies, of the buyer's estimated quota (AS 45.02.615(3)) -- silence can forfeit the excuse even where impracticability genuinely exists. On the common-law side, Northern Corp.'s test requires costs \"so disproportionate\" to what was contemplated as to be \"totally impractical in a commercial sense\" -- nothing read here quantifies that threshold, and ordinary cost increases or unprofitability, without more, are not shown by this authority to qualify.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.615",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_615",
+            "quote": "delay in delivery or nondelivery in whole or in part by a seller who complies with (2) and (3) of this section is not a breach of the seller's duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency, the nonoccurrence of which was a basic assumption on which the contract was made",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "518 P.2d 76",
+        "name": "Northern Corporation v. Chugach Electric Ass'n",
+        "court": "Alaska",
+        "decided": "1974",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "0978d91b302a99dd",
+            "cl_opinion_id": "1128769",
+            "quote": "Alaska has adopted the Restatement doctrine whereby commercial impracticability may under certain circumstances justify regarding a contract as impossible to perform.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "518 P.2d 76",
+        "name": "Northern Corporation v. Chugach Electric Ass'n",
+        "court": "Alaska",
+        "decided": "1974",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "0978d91b302a99dd",
+            "cl_opinion_id": "1128769",
+            "quote": "a party is discharged from his contract obligations, even if it is technically possible to perform them, if the costs of performance would be so disproportionate to that reasonably contemplated by the parties as to make the contract totally impractical in a commercial sense.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.02.615 read in full (3 subsections). Northern Corp. v. Chugach Electric Ass'n, 518 P.2d 76, is the FULL opinion (row 0978d91b302a99dd, cl_opinion_id 1128769, 32,979 chars); a SEPARATE, shorter row for the same case name and same year (row 22c0819c2faf7863, cl_opinion_id 1163784, 10,348 chars) was also found in the corpus and contains 0 occurrences of \"impracticab\" -- read and confirmed it is a distinct, later order in the same litigation (denial of rehearing or similar), not the opinion stating the impracticability holding; not cited here. The full opinion in turn cites Merl F. Thomas Sons, Inc. v. State as an earlier Alaska application of the same impracticability doctrine (ice-road clearing contract) -- read in the surrounding paragraph but not independently re-verified as a separate authority here. HONEST NEGATIVE: no authority read for this row establishes what counts as sufficiently \"seasonable\" notice under AS 45.02.615(3), or quantifies the common-law \"so disproportionate\" threshold beyond the language quoted. AUDIT 2026-09-22 (full read of the Alaska pack): § 45.02.615 read whole; Northern Corp. read at both quotes and the disposition. CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "indemnity",
+    "rule_id": "ak-45-45-900-construction-void-for-indemnitees-sole-negligence",
+    "question": "Will Alaska enforce this construction-contract indemnity clause?",
+    "rule": "Yes, unless it tries to reach the indemnitee's own sole fault. AS 45.45.900 makes void and unenforceable, as against public policy, any construction-contract indemnity clause that purports to indemnify the promisee for death, bodily injury, property damage, or design-defect losses \"from the sole negligence or wilful misconduct of the promisee or the promisee's agents, servants, or independent contractors who are directly responsible to the promisee\" (with carve-outs for insurance/workers'-compensation contracts and for oil/hazardous-substance cleanup indemnities). Hoffman Construction Co. of Alaska v. U.S. Fabrication & Erection, Inc. confirms the statute's own limit and no more: \"Alaska Statute 45.45.900 limits the enforceability of indemnification clauses: it requires that such clauses not be enforced if they serve to indemnify the indemnitee from its own sole negligence or willful misconduct.\"",
+    "trap": "AS 45.45.900 only reaches a clause \"contained in, collateral to, or affecting a construction contract\" -- its own text is scoped to construction; nothing read here extends it to indemnity clauses in other kinds of contracts. And the statute bars indemnifying the promisee's SOLE negligence specifically -- Hoffman Construction shows a broadly worded clause (indemnity/defense for claims arising \"on account of\" or \"in connection with\" the indemnitor's work) is fully enforceable, and covers even the indemnitor's own employees' injury claims, as long as the claim does not turn out to rest on the indemnitee's sole fault; whether a claim falls within that broad SCOPE language is analyzed separately from, and before, the sole-negligence question, and Hoffman treats fault as \"immaterial\" to the scope question.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.45.900",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_45_900",
+            "quote": "A provision, clause, covenant, or agreement contained in, collateral to, or affecting a construction contract that purports to indemnify the promisee against liability for damages for (1) death or bodily injury to persons, (2) injury to property, (3) design defects, or (4) other loss, damage or expense arising under (1), (2), or (3) of this section from the sole negligence or wilful misconduct of the promisee or the promisee's agents, servants, or independent contractors who are directly responsible to the promisee, is against public policy and is void and unenforceable",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "32 P.3d 346",
+        "name": "Hoffman Construction Co. of Alaska v. U.S. Fabrication & Erection, Inc.",
+        "court": "Alaska",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "80048bbaca771010",
+            "cl_opinion_id": "2588674",
+            "quote": "Alaska Statute 45.45.900 limits the enforceability of indemnification clauses: it requires that such clauses not be enforced if they serve to indemnify the indemnitee from its own sole negligence or willful misconduct.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.45.900 read in full (one section, 986 chars). Hoffman Construction read in the surrounding paragraphs, including its reliance on prior Alaska decisions (Burgess and a case referred to as \"Duty Free Shoppers\" in the opinion's own shorthand) holding that a clause covering claims \"on account of\" or \"in connection with\" the indemnitor's work reaches injuries to the indemnitor's own employees regardless of fault; those prior cases were not independently pulled and verified as separate authorities for this row. HONEST NEGATIVE: this row does not address the separate \"nondelegable duties\" public-policy argument Hoffman also rejected on its facts (a different doctrine from AS 45.45.900 itself), and no case addressing a NON-construction indemnity clause under general Alaska common law was searched for or found."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "lien-waiver",
+    "rule_id": "ak-34-35-117-no-consideration-required-but-not-for-future-work-and-never-for-individual-laborers",
+    "question": "Is this upfront lien waiver in our subcontract or purchase agreement enforceable in Alaska?",
+    "rule": "Yes, without needing separate consideration -- a real departure from states that require the waiver be given in exchange for payment. AS 34.35.117(a): \"a written waiver of lien or stop-lending notice of rights created under AS 34.35.050 -- 34.35.120 signed by a claimant requires no consideration and is valid and binding.\" But it cannot reach ahead of the work: \"A waiver permitted under this section may not relate to labor, materials, services, or equipment furnished after the date the waiver is signed by the claimant.\"",
+    "trap": "AS 34.35.117(b) is an absolute, separate carve-out that a broadly worded corporate waiver cannot reach: \"An individual described in AS 34.35.120(10) may not waive right to claim a lien under AS 34.35.050 -- 34.35.120. A waiver that purports to waive the lien rights of that individual or class of individuals is void.\" AS 34.35.120(10) defines that protected class narrowly and specifically: \"'individual' means a natural person who actually performs labor upon a building or other improvement as an employee of the owner or any contractor furnishing labor, materials, services, or equipment for the construction, alteration, or repair of a building or other improvement.\" A subcontractor entity signing a blanket lien waiver therefore does not, and by this statute's own words cannot, waive its own individual employee-laborers' personal lien rights -- drafting the waiver more broadly does not change that outcome.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 34.35.117",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_34_35_117",
+            "quote": "a written waiver of lien or stop-lending notice of rights created under AS 34.35.050 — 34.35.120 signed by a claimant requires no consideration and is valid and binding. A waiver permitted under this section may not relate to labor, materials, services, or equipment furnished after the date the waiver is signed by the claimant.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 34.35.117",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_34_35_117",
+            "quote": "An individual described in AS 34.35.120 (10) may not waive right to claim a lien under AS 34.35.050 — 34.35.120. A waiver that purports to waive the lien rights of that individual or class of individuals is void.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 34.35.120",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_34_35_120",
+            "quote": "“individual” means a natural person who actually performs labor upon a building or other improvement as an employee of the owner or any contractor furnishing labor, materials, services, or equipment for the construction, alteration, or repair of a building or other improvement",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 34.35.117 read in full (2 subsections). AS 34.35.120 (\"Definitions\") read in full (17 definitions covering AS 34.35.050-.120). DISTINCTIVE FINDING: Alaska's no-consideration-required lien waiver rule is the opposite of the rule this store's audit already flagged as overstated for New Jersey (N.J.S.A. 2A:44A-38, waivers void unless given in consideration for payment) -- a genuine, verified cross-state contrast, not an inference. HONEST NEGATIVE: no case law was searched for this row; the rule rests on the statute text alone. AUDIT 2026-09-22 (full read of the Alaska pack): §§ 34.35.117 and 34.35.120(10) read whole; verbatim. CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "limitation-of-remedy",
+    "rule_id": "ak-719-essential-purpose-independent-from-consequential-bar",
+    "question": "If our limited repair-or-replace remedy fails, does the accompanying exclusion of consequential damages survive under Alaska law?",
+    "rule": "Usually yes, unless the exclusion is itself unconscionable -- Alaska treats the two questions as independent. AS 45.02.719 lets an agreement substitute or limit remedies, including making a repair-or-replace remedy exclusive (AS 45.02.719(a)); if that exclusive remedy then \"fail[s] of its essential purpose, remedy may be had as provided in the code\" (AS 45.02.719(b)); but \"[c]onsequential damages may be limited or excluded unless the limitation or exclusion is unconscionable\" (AS 45.02.719(c)). Pierce v. Catalina Yachts, Inc. resolved the resulting tension by adopting the majority \"independent approach\": a separate consequential-damages bar survives a failed limited remedy unless the bar itself is unconscionable, assessed on the circumstances -- there, \"[t]he contract at issue was a consumer sale, not a commercial transaction between sophisticated businesses with equivalent bargaining power,\" and the seller's own bad-faith breach of the limited warranty was decisive: \"we hold the superior court erred in ruling that it would be conscionable to enforce the warranty's bar against consequential damages.\"",
+    "trap": "A failed essential-purpose remedy does NOT, by itself, revive the buyer's right to consequential damages -- subsection (b)'s \"remedy ... as provided in the code\" does not automatically override subsection (c)'s separate bar; Pierce expressly rejected reading (b) that way. The unconscionability inquiry that decides the exclusion's survival is fact-intensive and outcome-sensitive to exactly the kind of thing a merger or boilerplate clause cannot fix by drafting alone: whether the transaction was consumer or commercial, whether the parties had equal bargaining power, whether the exclusion was pre-printed and unilaterally imposed, and -- critically in Pierce -- whether the seller acted in bad faith in letting the primary remedy fail. A seller relying on this clause after its own bad-faith breach of the underlying warranty should not assume the consequential-damages bar will hold.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.719",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_719",
+            "quote": "If circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the code.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.719",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_719",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2 P.3d 618",
+        "name": "Pierce v. Catalina Yachts, Inc.",
+        "court": "Alaska",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "006aa6627d0ab9e3",
+            "cl_opinion_id": "2636913",
+            "quote": "The contract at issue was a consumer sale, not a commercial transaction between sophisticated businesses with equivalent bargaining power.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2 P.3d 618",
+        "name": "Pierce v. Catalina Yachts, Inc.",
+        "court": "Alaska",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "006aa6627d0ab9e3",
+            "cl_opinion_id": "2636913",
+            "quote": "For these reasons, we hold the superior court erred in ruling that it would be conscionable to enforce the warranty's bar against consequential damages and in declining to allow the Pierces to present their consequential damages claim to the jury.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2 P.3d 618",
+        "name": "Pierce v. Catalina Yachts, Inc.",
+        "court": "Alaska",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "006aa6627d0ab9e3",
+            "cl_opinion_id": "2636913",
+            "quote": "We believe that the majority approach best serves the Uniform Commercial Code's underlying purposes",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2 P.3d 618",
+        "name": "Pierce v. Catalina Yachts, Inc.",
+        "court": "Alaska",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "006aa6627d0ab9e3",
+            "cl_opinion_id": "2636913",
+            "quote": "But the majority of jurisdictions view these subsections to be independent, ruling that when a warranty fails, a separate provision barring consequential damages will survive under subsection",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.02.719 read in full (3 subsections). Pierce v. Catalina Yachts read in the surrounding paragraphs, not just the quoted sentences; the opinion frames the question as one of first impression for Alaska and surveys other jurisdictions' approaches before adopting the independent approach as \"the most sensible rule in light of precedent, reason, and policy\" (footnote/page-break characters in that sentence made it a weaker verbatim candidate and it is not quoted here; the two sentences quoted above were independently verified verbatim). The opinion's own footnote 3 reproduces AS 45.02.719 in full and confirms it \"mirrors U.C.C. § 2-719.\" LATER TREATMENT was not independently scanned for this row given time constraints of this pass; flagged as an open item for a future pass rather than asserted. AUDIT 2026-09-22 (full read of the Alaska pack): Pierce read at the adoption sentence ('We therefore adopt the independent approach') and the survey before it; both now carry blocks (the adoption sentence carries a page marker in the corpus text, so the two clean sentences around it are quoted). CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "limitations-period",
+    "rule_id": "ak-09-10-053-three-years-textually-waivable-but-public-policy-limits-shortening",
+    "question": "How long do we have to sue on this contract in Alaska, and can the contract shorten that period?",
+    "rule": "Three years by default, and the statute's own text appears to let the parties change that by contract -- but Alaska's case law adds a real check on shortening it. AS 09.10.053: \"Unless the action is commenced within three years, a person may not bring an action upon a contract or liability, express or implied, ... or, except if the provisions of this section are waived by contract.\" Yet in Long v. Holland America Line Westours, Inc., the Alaska Supreme Court refused to enforce a tour contract's shortened contractual limitations period even though a chosen state's law would have upheld it, holding: \"In our view, public policy bars enforcement of the clause at issue here because Holland America has failed to allege or show that enforcement of the clause is necessary to avoid prejudice.\"",
+    "trap": "AS 09.10.053's text reads as a straightforward contractual waiver provision, but Long shows Alaska courts impose an UNWRITTEN prejudice-showing requirement on top of it: a defendant relying on a contractually shortened period must affirmatively show that enforcing the shorter period is necessary to avoid prejudice from a stale or hard-to-defend claim, not merely point to the parties' agreement. Long itself arose in a choice-of-law posture -- the tour contract chose Washington law, and the court applied Alaska public policy to override that choice rather than construing AS 09.10.053 directly against an Alaska-law contract. Whether the same prejudice-showing requirement constrains a shortened-limitations clause in a contract that is governed by Alaska law from the outset (no foreign-law detour) is not resolved by the text read for this rule -- recorded as an open question rather than assumed.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 09.10.053",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_10_053",
+            "quote": "Unless the action is commenced within three years, a person may not bring an action upon a contract or liability, express or implied, except as provided in AS 09.10.040 , or as otherwise provided by law, or, except if the provisions of this section are waived by contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "26 P.3d 430",
+        "name": "Long v. Holland America Line Westours, Inc.",
+        "court": "Alaska",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "acde57e83b6143cf",
+            "cl_opinion_id": "9795136",
+            "quote": "In our view, public policy bars enforcement of the clause at issue here because Holland America has failed to allege or show that enforcement of the clause is necessary to avoid prejudice.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 09.10.053 read in full (one sentence; it is a short section, 337 chars). Long v. Holland America read in the surrounding paragraphs, including its discussion of Johnson v. City of Fairbanks and Alaska Energy Authority v. Fairmont Insurance Co. as the prior insurance-policy-filing-limit cases whose reasoning it extends to this tour contract. HONEST NEGATIVE: no authority read for this row states whether AS 09.10.053's own text (predating or postdating Long) was amended in response to Long, or whether Long's prejudice requirement has since been confined to insurance-adjacent or personal-injury contexts; that later-treatment question was not scanned for this row."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "liquidated-damages",
+    "rule_id": "ak-718-goods-reasonable-estimate-or-void-as-penalty",
+    "question": "Will Alaska enforce this liquidated-damages clause, or strike it as a penalty?",
+    "rule": "For a sale of goods, AS 45.02.718(a) states the test directly: \"Damages for breach by either party may be liquidated in the agreement but only at an amount that is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.\"",
+    "trap": "AS 45.02.718(b)-(d) address a DIFFERENT scenario from an ordinary liquidated-damages clause -- they set a buyer's right to restitution when a seller justifiably withholds goods for the buyer's breach, capped by any liquidated-damages term or, absent one, by 20% of the buyer's total contract obligation or $500, whichever is smaller. Do not read those restitution-cap numbers as a general ceiling on what a liquidated-damages clause may specify; they bound the buyer's RECOVERY in that specific withheld-goods situation, not the enforceability of a liquidated-damages clause generally.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.718",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_718",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount that is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.02.718 read in full (4 subsections). HONEST NEGATIVE, and a genuinely searched one: the case-law searches run for this row (\"liquidated damages\", \"penalty\") returned dozens of Alaska opinions using those words, but every one actually read (A & G Const. Co. v. Reid Brothers Logging Co., 551 P.2d -- statute-of-frauds background fact only; Municipality of Anchorage v. Gregg and Alyeska Pipeline Service Co. v. Shook -- both STATUTORY liquidated damages under the Alaska Wage and Hour Act, not a negotiated contract clause) turned out not to state or apply a general common-law liquidated-damages/penalty test to an ordinary (non-goods) contract. No such authority is cited here. Wenzell v. Ingrim, 227 P.3d 738 (Alaska 2010) (row c59c1feb62b838fc), involves a $250,000 liquidated-damages clause in a dental-practice sale, but the portion read for this pass treats the clause's SIZE only as evidence of the parties' intent about the scope of a covenant not to compete, not as a ruling on the clause's own enforceability; it is not cited here. This row is statute-only for that reason, not because the search was skipped. AUDIT 2026-09-22 (full read of the Alaska pack): § 45.02.718 read whole; (b)(2)'s 20%/$500 as stated. CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "non-competition",
+    "rule_id": "ak-reasonable-alteration-good-faith-burden-on-drafter",
+    "question": "Will an Alaska court enforce this non-competition / non-solicitation covenant, and can the court narrow it if it's overbroad?",
+    "rule": "Yes, an Alaska court can reform (rather than void) an overbroad covenant -- but only if the party enforcing it drafted in good faith. Data Management, Inc. v. Greene surveyed three approaches used across jurisdictions (voiding any overbroad covenant outright; the mechanical \"blue pencil\" rule of deleting only offending words) and adopted a third: \"if an overbroad covenant not to compete can be reasonably altered to render it enforceable, then the court shall do so unless it determines the covenant was not drafted in good faith.\" Critically, \"[t]he burden of proving that the covenant was drafted in good faith is on the employer.\" The court noted this approach is consistent with AS 45.02.302, Alaska's UCC unconscionability provision, under which a court finding a contract or clause unconscionable \"may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable clause, or so limit the application of an unconscionable clause as to avoid an unconscionable result.\"",
+    "trap": "The reformation remedy is not automatic relief for a drafter who overreached: Data Management expressly warns that \"employers are encouraged to overreach\" under this rule because a court will normally just narrow what they wrote -- and the court's answer to that risk is to make good faith the gatekeeper, not a formality. If the trial court finds the employer \"overreached willfully,\" \"the court should refuse to alter the covenant\" -- meaning a covenant drafted in obvious bad faith (not merely one that turns out to be too broad) can lose the reformation remedy entirely and be struck down whole, the outcome the court otherwise rejected as too harsh. The opinion remanded for exactly that good-faith determination and did not itself decide where the line falls between an honest overreach and bad-faith drafting.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "757 P.2d 62",
+        "name": "Data Management, Inc. v. Greene",
+        "court": "Alaska",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "e87af4384f09fd7f",
+            "cl_opinion_id": "1350283",
+            "quote": "The third approach, and the one we adopt, is to hold that if an overbroad covenant not to compete can be reasonably altered to render it enforceable, then the court shall do so unless it determines the covenant was not drafted in good faith.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "757 P.2d 62",
+        "name": "Data Management, Inc. v. Greene",
+        "court": "Alaska",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "e87af4384f09fd7f",
+            "cl_opinion_id": "1350283",
+            "quote": "The burden of proving that the covenant was drafted in good faith is on the employer.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.302",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_302",
+            "quote": "If the court as a matter of law finds the contract or a clause of the contract was unconscionable at the time it was made, the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable clause, or so limit the application of an unconscionable clause as to avoid an unconscionable result.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Data Management v. Greene read in full (short opinion, ~10,379 chars including footnotes). AS 45.02.302 read in full (2 subsections); the case itself invokes this section by its Alaska citation (\"AS 45.02.302\") as consistent with the reasonable-alteration approach it adopts, which is why it is cited together with the case here rather than as an independent, unrelated authority. HONEST NEGATIVE: this row does not address the SALE-OF-BUSINESS / goodwill context specifically -- Wenzell v. Ingrim, 227 P.3d 738 (Alaska 2010) (row c59c1feb62b838fc), a dental-practice-sale non-compete, was read for this pass and turns on contract INTERPRETATION (what \"practice of dentistry\" means in the covenant) rather than the reasonable-alteration/blue-pencil question Data Management resolves; it is not cited here to avoid conflating two different holdings. Whether Data Management's reasonable-alteration rule applies identically to a sale-of-business covenant (as opposed to the pure employment covenant in Data Management itself) was not confirmed by any authority read for this row. AUDIT 2026-09-22 (full read of the Alaska pack): Data Management read whole (68 sentences): 'employers are encouraged to overreach', 'overreached willfully', the remand and the § 45.02.302 passage are all as stated. CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "statute-of-frauds",
+    "rule_id": "ak-09-25-010-general-list-plus-45-02-201-goods-500",
+    "question": "Does this contract need to be signed in writing to be enforceable in Alaska?",
+    "rule": "Only if it falls on one of two separate statutory lists. For contracts generally, AS 09.25.010(a) provides that in specified cases \"an agreement, promise, or undertaking is unenforceable unless it or some note or memorandum of it is in writing and subscribed by the party charged or by an agent of that party.\" Thirteen categories are listed, including \"an agreement for leasing for a longer period than one year, or for the sale of real property, or of any interest in real property, or to charge or encumber real property\" (AS 09.25.010(a)(6)), agreements not to be performed within a year, suretyship promises, marriage-consideration agreements, real-estate brokerage agreements, and loans or credit extensions over $50,000 by a person in the business of lending. Separately, for a sale of goods, AS 45.02.201(a) (the UCC statute of frauds) independently requires a writing wherever the price is $500 or more: such a contract \"is not enforceable by action or defense unless there is a writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought.\"",
+    "trap": "The general list's loan/credit category, AS 09.25.010(a)(13), is easy to misread: it reaches a lender in the business of lending $50,000+ NOT primarily for personal, family, or household purposes -- but the statute goes on to deem a loan secured solely by one-to-four-unit residential property to be \"a loan primarily for personal, family, or household purposes\" regardless of amount, pulling it back OUT of the writing requirement. On the goods side, AS 45.02.201 has real escape hatches from its own writing requirement: a merchant's unanswered written confirmation can bind the recipient within 10 days (AS 45.02.201(b)); and even with no writing at all, the contract is still enforceable for specially manufactured goods once the seller has begun manufacture or made procurement commitments, for a quantity admitted in a pleading or in court testimony, or for goods actually paid for and accepted (AS 45.02.201(c)(1)-(3)). AS 09.25.010(b) separately requires a writing for creating, transferring, or declaring most real-property interests -- a distinct real-property rule layered on top of (a)(6), not identical to it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 09.25.010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_25_010",
+            "quote": "an agreement, promise, or undertaking is unenforceable unless it or some note or memorandum of it is in writing and subscribed by the party charged or by an agent of that party",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 09.25.010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_09_25_010",
+            "quote": "an agreement for leasing for a longer period than one year, or for the sale of real property, or of any interest in real property, or to charge or encumber real property",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.201",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_201",
+            "quote": "a contract for the sale of goods, including the sale or transfer of a boat or vessel, for the price of $500 or more is not enforceable by action or defense unless there is a writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 09.25.010 read in full (both subsections, 13 categories in (a)); AS 45.02.201 read in full (3 subsections). This row is statute-only. Unlike Montana's MCA scheme (§ 28-2-903(4)), nothing read in AS 09.25.010 expressly carves UCC sales-of-goods contracts out of the general list; the two statutes are presented here as two independent, potentially overlapping writing requirements rather than as a general rule with a UCC carve-out, because no cross-reference to that effect was found in either section's text. HONEST NEGATIVE: no case law was searched for this row; the rule rests on the statute text alone. AUDIT 2026-09-22 (full read of the Alaska pack): § 09.25.010(a)(1)-(13) and (b), § 45.02.201(a)-(c) read whole; (a)(13)'s one-to-four-unit sentence and (c)(1)-(3) are as the trap states. CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "unconscionability",
+    "rule_id": "ak-45-02-302-refuse-sever-or-limit-plus-pierce-application",
+    "question": "Can an Alaska court refuse to enforce, or rewrite, an unconscionable contract or clause?",
+    "rule": "Yes. AS 45.02.302(a) gives the court three options once it finds a contract or clause unconscionable as a matter of law at the time it was made: \"the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable clause, or so limit the application of an unconscionable clause as to avoid an unconscionable result.\" The Alaska Supreme Court treats those three options as the model for judicial reformation beyond sales: in Data Management, Inc. v. Greene it adopted reasonable alteration of an overbroad non-compete because \"[t]his approach is consistent with U.C.C. § 2-302, as codified in Alaska under AS 45.02.302.\" The unconscionability inquiry itself is illustrated by Pierce v. Catalina Yachts, Inc., decided under the companion sales provision AS 45.02.719(c) rather than this section: \"unconscionability under AS 45.02.719(c) ultimately presents an issue of law for the court, rather than one of fact for the jury,\" and \"we hold the superior court erred in ruling that it would be conscionable to enforce the warranty's bar against consequential damages and in declining to allow the Pierces to present their consequential damages claim to the jury.\"",
+    "trap": "AS 45.02.302(a) anchors the unconscionability inquiry to the moment of contracting -- a clause is assessed as unconscionable (or not) \"at the time it was made\" -- yet the Pierce court, applying § 45.02.719(c)'s parallel unconscionability standard, leaned heavily on the seller's BAD-FAITH BREACH after the contract was formed (its failure to honor the limited warranty) as a circumstance making enforcement of the damages bar unconscionable. Nothing read in the statute or the case resolves this apparent tension between the statute's at-formation anchor and an after-the-fact breach driving the court's unconscionability conclusion; it is recorded here as unresolved rather than smoothed over. Separately, AS 45.02.302(b) requires the parties be given \"a reasonable opportunity to present evidence as to its commercial setting, purpose, and effect\" before an unconscionability finding is made -- a procedural step, not a formality that can be skipped even where the substantive answer seems obvious.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.302",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_302",
+            "quote": "If the court as a matter of law finds the contract or a clause of the contract was unconscionable at the time it was made, the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable clause, or so limit the application of an unconscionable clause as to avoid an unconscionable result.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2 P.3d 618",
+        "name": "Pierce v. Catalina Yachts, Inc.",
+        "court": "Alaska",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "006aa6627d0ab9e3",
+            "cl_opinion_id": "2636913",
+            "quote": "For these reasons, we hold the superior court erred in ruling that it would be conscionable to enforce the warranty's bar against consequential damages and in declining to allow the Pierces to present their consequential damages claim to the jury.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "757 P.2d 62",
+        "name": "Data Management, Inc. v. Greene",
+        "court": "Alaska",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "e87af4384f09fd7f",
+            "cl_opinion_id": "1350283",
+            "quote": "This approach is consistent with U.C.C. § 2-302, as codified in Alaska under AS 45.02.302, which states: (a) If the court as a matter of law finds the contract or a clause of the contract unconscionable at the time it was made, the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable clause, or so limit the application of an unconscionable clause as to avoid an unconscionable result.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2 P.3d 618",
+        "name": "Pierce v. Catalina Yachts, Inc.",
+        "court": "Alaska",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ak",
+            "row_id": "006aa6627d0ab9e3",
+            "cl_opinion_id": "2636913",
+            "quote": "We agree with Catalina that unconsciona-bility under AS 45.02.719(c) ultimately presents an issue of law for the court, rather than one of fact for the jury.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.02.302 read in full (2 subsections); the same statute and the same case are also cited in this file's non-competition and limitation-of-remedy rows respectively, for different sentences going to different points -- Data Management v. Greene invokes AS 45.02.302 as policy support for its non-compete reformation rule, while this row states AS 45.02.302's own remedy scheme directly; Pierce is quoted here for its unconscionability HOLDING where the essential-purpose row quotes it for its characterization of the transaction as a consumer sale. Reuse of the same authorities across rows for different textual points, rather than duplicated research, is intentional and each quote was independently corpus-verified for this row. AUDIT 2026-09-22 (full read of the Alaska pack): the rule said Pierce 'shows the provision [AS 45.02.302(a)] applied'; Pierce does not cite § 45.02.302 anywhere -- it decides unconscionability under § 45.02.719(c). Data Management v. Greene is the opinion that invokes § 45.02.302 (as the model for reforming an overbroad covenant); added with its sentence, and Pierce re-attributed to 719(c) with the sentence that says so. OVERSTATED (M): a case cited for a section it did not apply."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "usury",
+    "rule_id": "ak-45-45-010-legal-rate-and-25000-principal-exemption",
+    "question": "Does Alaska cap the interest rate this contract can charge?",
+    "rule": "Yes, with a size-based exemption. The default legal rate is \"10.5 percent a year and no more on money after it is due\" (AS 45.45.010(a)). For a contractually agreed rate, the cap is \"the greater of 10 percent or five percentage points above the annual rate charged member banks for advances by the 12th Federal Reserve District on the day on which the contract or loan commitment is made\" -- but \"[a] contract or loan commitment in which the principal amount exceeds $25,000 is exempt from the limitation of this subsection\" (AS 45.45.010(b)).",
+    "trap": "The $25,000 exemption in (b) is keyed to the PRINCIPAL amount of the contract or loan commitment, not to the aggregate interest that will ultimately be charged -- a small-principal, long-term loan stays subject to the rate cap even if total interest paid over time would exceed $25,000. Subsection (f) imposes a SEPARATE and different restriction on certain regulated lenders (a bank, credit union, savings and loan institution, pension fund, insurance company, or mortgage company): none of them \"may ... require or accept any percent of ownership or profits above its interest rate,\" subject to its own carve-outs for large loans ($1,000,000+, five-year+ term) and certain government-sponsored negatively amortizing loans secured by owner-occupied property. Do not conflate the rate-cap exemption in (b) with the equity/profit-participation restriction in (f) -- a $25,000+ loan can be exempt from the rate cap while the SAME lender, if it is one of the listed regulated institutions, is still barred by (f) from taking an equity or profit share on top of its interest.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.45.010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_45_010",
+            "quote": "The rate of interest in the state is 10.5 percent a year and no more on money after it is due except as provided in (b) of this section.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.45.010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_45_010",
+            "quote": "Interest may not be charged by express agreement of the parties in a contract or loan commitment that is more than the greater of 10 percent or five percentage points above the annual rate charged member banks for advances by the 12th Federal Reserve District on the day on which the contract or loan commitment is made. A contract or loan commitment in which the principal amount exceeds $25,000 is exempt from the limitation of this subsection.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.45.010 read in full (8 subsections, 3 of which -- (c), (d), (e) -- are bare \"[Repealed ...]\" stubs; confirmed by their text, not relied on for anything). This row is statute-only; no case law was searched for it. HONEST NEGATIVE: nothing read here addresses federal preemption of state usury limits for certain lenders (a topic this store's Delaware usury audit finding flagged for that state), and that question was not researched for Alaska. AUDIT 2026-09-22 (full read of the Alaska pack): § 45.45.010 read whole; (b) and (f) with its $1,000,000/five-year and negatively-amortizing carve-outs as stated. CORRECT."
+  },
+  {
+    "jurisdiction": "ak",
+    "clause": "warranty-disclaimer",
+    "rule_id": "ak-45-02-316-conspicuous-writing-or-as-is",
+    "question": "Will this \"AS IS\" / warranty-disclaimer clause exclude Alaska's implied warranties?",
+    "rule": "Only if it satisfies AS 45.02.316's own form requirements. To exclude or modify the implied warranty of merchantability, \"the language must mention merchantability and in case of a writing must be conspicuous,\" and to exclude or modify an implied warranty of fitness, \"the exclusion must be by a writing and conspicuous\" (AS 45.02.316(b)). Separately, \"as is\" language works on its own terms: \"unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like 'as is,' 'with all faults,' or other language that in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty\" (AS 45.02.316(c)(1)).",
+    "trap": "Subsection (a) limits how far a disclaimer can cut against an EXPRESS warranty in the same contract: words negating or limiting a warranty are read together with the words creating it \"where reasonable,\" but \"negation or limitation is inoperative to the extent that such construction is unreasonable\" -- a broad disclaimer cannot be stretched to silently swallow a specific express promise made elsewhere in the same document. Subsection (c)(2) adds a distinct, conduct-based exclusion having nothing to do with the disclaimer's wording: if the buyer examined the goods (or a sample/model) as fully as desired before contracting, or refused to examine them, there is no implied warranty as to defects an examination \"ought in the circumstances to have revealed.\" And subsection (d) is easy to conflate with this rule but is a different doctrine: remedies for breach of an UNexcluded warranty can still be separately limited under AS 45.02.718 and 45.02.719 -- a disclaimer under this section and a remedy-limitation clause under those sections are not the same protection and do not stand in for each other.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.316",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_316",
+            "quote": "to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify an implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "AS 45.02.316",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AKS_45_02_316",
+            "quote": "unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like “as is,” “with all faults,” or other language that in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "AS 45.02.316 read in full (5 subsections). HONEST NEGATIVE: the searches run for this row (\"conspicuous\", \"disclaimer of warranty\", \"disclaimer of warranties\") did not surface an Alaska appellate opinion applying AS 45.02.316's conspicuousness or \"as is\" requirements to a specific disclaimer -- the case-law hits for \"conspicuous\" in the AK corpus were overwhelmingly criminal-notice and unrelated-statute cases, not UCC warranty disputes. This row is statute-only; no case authority is claimed. Pierce v. Catalina Yachts, Inc., 2 P.3d 618 (2000) -- cited elsewhere in this file for AS 45.02.719 and AS 45.02.302 -- discusses a limited repair WARRANTY's failure of essential purpose and a consequential-damages EXCLUSION, not a 45.02.316 disclaimer of the implied warranties themselves; it was read for this row and is not cited here because it does not construe this section. AUDIT 2026-09-22 (full read of the Alaska pack): § 45.02.316(a)-(e) read whole; (a), (c)(2) and (d) as the trap states. CORRECT."
+  }
+]

@@ -1,0 +1,80 @@
+[
+ {
+  "jurisdiction": "tx",
+  "clause": "final-pay",
+  "rule_id": "tx-final-pay-six-days-if-discharged-and-the-next-payday-if-you-quit",
+  "question": "I was fired in Texas. When do they have to pay me my last cheque?",
+  "rule": "Quickly, and the deadline turns on how the job ended. Tex. Lab. Code § 61.014 provides that “An employer shall pay in full an employee who is discharged from employment not later than the sixth day after the date the employee is discharged.” The same section sets a different, later deadline for an employee who leaves voluntarily, tied to the next regularly scheduled payday.",
+  "trap": "The two deadlines are not interchangeable and the difference is the whole point: being discharged buys you a six-day clock, resigning does not. So how the separation is characterised in the employer's records matters to your own deadline, and a resignation you were pushed into will be recorded as a quit unless something says otherwise. Write down what you were actually told, and when.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Tex. Lab. Code § 61.014",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "tx-stat_9116c9a63b20a91b",
+      "quote": "An employer shall pay in full an employee who is discharged from employment not later than the sixth day after the date the employee is discharged.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The quote is subsection (a), the discharge limb. Subsection (b), the voluntary-separation limb, was read and is described rather than quoted. NOT ESTABLISHED HERE: what counts as wages under chapter 61, how a wage claim is filed with the Texas Workforce Commission, the deadline for filing one, and what penalties or interest attach to a late payment."
+ },
+ {
+  "jurisdiction": "tx",
+  "clause": "charge-filing-deadline",
+  "rule_id": "tx-tchra-complaint-180-days-and-it-is-not-the-same-clock-as-the-federal-one",
+  "question": "How long do I have to bring a discrimination complaint under Texas law?",
+  "rule": "180 days. Tex. Lab. Code § 21.202 provides that “a complaint under this subchapter must be filed not later than the 180th day after the date the alleged unlawful employment practice occurred.” The section opens ‘Except as provided by Subsection (a-1)’, so there is at least one exception in the statute's own text.",
+  "trap": "Do not assume the state and federal clocks are the same clock. The federal charge-filing row in this pack carries a different period and a different starting point, and a person who satisfies one has not necessarily satisfied the other. The safe reading is that the shortest applicable period is the one that matters, and that it may already be running from the day you were told.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Tex. Lab. Code § 21.202",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "tx-stat_48fa576c26fd6937",
+      "quote": "a complaint under this subchapter must be filed not later than the 180th day after the date the alleged unlawful employment practice occurred.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The quote is subsection (a). NOT ESTABLISHED HERE: what Subsection (a-1) provides, how the 180 days interacts with a federal charge filed with the EEOC, whether filing with one agency counts as filing with the other, and every question about tolling. A deadline row built from the statute's text alone is not a substitute for advice on your own dates. TREAT THIS AS A REASON TO CALL A LAWYER TODAY."
+ },
+ {
+  "jurisdiction": "tx",
+  "clause": "retaliation-whistleblower",
+  "rule_id": "tx-no-discharge-for-filing-a-workers-compensation-claim-in-good-faith",
+  "question": "I filed a workers' comp claim in Texas and then they fired me. Is that allowed?",
+  "rule": "Not on that basis. Tex. Lab. Code § 451.001 provides that “A person may not discharge or in any other manner discriminate against an employee because the employee has:\n(1) filed a workers' compensation claim in good faith;” and the section goes on to protect an employee who hired a lawyer to represent them in a claim, instituted a proceeding, or testified in one.",
+  "trap": "‘In good faith’ is doing work in that sentence. The protection attaches to the claim being made honestly, not to the claim being successful, so losing the compensation case does not by itself remove the protection. What it does not do is make you immune from an unrelated dismissal: the question is whether the claim was a cause of the discharge, and that is a fact fight in which contemporaneous records matter more than recollection.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "Tex. Lab. Code § 451.001",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "tx-stat_8b925b06c9bfae8f",
+      "quote": "A person may not discharge or in any other manner discriminate against an employee because the employee has:\n(1) filed a workers' compensation claim in good faith;",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The quote is the opening prohibition and the first protected act; the remaining protected acts in the section were read and are described rather than quoted. NOT ESTABLISHED HERE: what must be proved on causation, who bears the burden, the limitations period for a § 451.001 claim, and what remedies the chapter provides."
+ }
+]

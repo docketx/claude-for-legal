@@ -1,0 +1,1970 @@
+[
+  {
+    "jurisdiction": "nc",
+    "clause": "anti-assignment",
+    "rule_id": "nc-anti-assignment-ineffective-ucc-9-406",
+    "question": "Does this 'no assignment without our consent' clause stop the counterparty from assigning the money we owe it?",
+    "rule": "No, as to money, subject to the section's own exceptions. N.C.G.S. § 25-9-406(d) — which opens 'Except as otherwise provided in subsection (e) of this section and G.S. 25-2A-303 and G.S. 25-9-407, and subject to subsection (h) of this section' — makes a term in an agreement between an account debtor and an assignor, or in a promissory note, INEFFECTIVE to the extent that it prohibits, restricts or requires consent to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, an account, chattel paper, payment intangible or promissory note, or provides that such an assignment may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination or remedy. What the account debtor actually gets is the notification machinery of § 25-9-406(a)-(c), read in full: it may discharge by paying the assignor until, but not after, it receives a notification signed by the assignor or the assignee that the amount due has been assigned and that payment is to be made to the assignee; the notification is ineffective if it does not reasonably identify the rights assigned; and if the account debtor requests it, an assignee that does not seasonably furnish reasonable proof of the assignment leaves the account debtor free to keep paying the assignor.",
+    "trap": "The clause is not merely a breach that sounds in damages — it is ineffective, so the transfer happens and after a proper notification the account debtor discharges only by paying the assignee. Four limits in the same section, and one outside it, decide whether that is so. Subsection (e) pulls an outright SALE of a payment intangible or promissory note back out of subsection (d), other than a sale on a Section 9-610 disposition or a Section 9-620 acceptance of collateral, so a no-assignment clause can still bite there. Subsection (h) makes the whole section subject to other law that establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family or household purposes. Subsection (i) takes two things out of the section altogether — an assignment of a health-care-insurance receivable, and an interest in a partnership or limited liability company — so a transfer restriction on LLC membership interests is outside § 25-9-406 entirely. Subsection (l) switches off subsections (a), (b), (c) and (g) for a controllable account or controllable payment intangible. And because subsection (d) is itself subject to G.S. 25-2A-303 and G.S. 25-9-407, leases have their own rules: under § 25-2A-303(g), in a CONSUMER lease the language prohibiting transfer or making a transfer an event of default must be specific, by a writing, and conspicuous. Section 25-9-406 does nothing for non-monetary rights — a licence, a services obligation, or a change-of-control transfer — none of which is verified here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-9-406",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it does either of the following: (1) Prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-9-406",
+            "quote": "Subsection (d) of this section does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under G.S. 25-9-610 or an acceptance of collateral under G.S. 25-9-620.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-9-406",
+            "quote": "This section is subject to law other than this Article that establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-9-406",
+            "quote": "This section does not apply to an assignment of a health-care-insurance receivable or an interest in a partnership or limited liability company.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2A-303",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2A-303",
+            "quote": "In a consumer lease, to prohibit the transfer of an interest of a party under the lease contract or to make a transfer an event of default, the language must be specific, by a writing, and conspicuous.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. § 25-9-406 was read in full in the published row (subsections (a)-(l), including the opening exceptions of (d) and the subsections (e), (h), (i) and (l) that bound it), and G.S. 25-2A-303 and 25-9-407 — the two sections (d) says it is subject to — were read in full as well. § 25-9-407(a) makes a term in a LEASE agreement ineffective to the extent it restricts assignment of a party's interest or the lessor's residual interest, with the exceptions in (b); that is stated only as the reason leases are carved out of (d), not as a rule of this row. No North Carolina appellate opinion was searched for on this family; the statute states the rule. The published row's source line is '1945, c. 196, s. 6; ... 2013-284, s. 1(b); 2025-25, s. 91.' We hold no statute effective dates, so which version governed a given contract cannot be answered from the corpus."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "arbitration",
+    "rule_id": "nc-ruaa-validity-and-the-22b-3-out-of-state-seat-void",
+    "question": "Is this arbitration clause enforceable in North Carolina, and can we seat the arbitration in another state?",
+    "rule": "The agreement itself is enforceable; the out-of-state SEAT may not be. Under the Revised Uniform Arbitration Act, N.C.G.S. § 1-569.6(a), an agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable and irrevocable except upon a ground that exists at law or in equity for revoking a contract. The Act splits the gateway questions by statute: the COURT decides whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate (§ 1-569.6(b)), while the ARBITRATOR decides whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable (§ 1-569.6(c)). Before a controversy arises, § 1-569.4(b) forbids a party to waive or agree to vary the effect of a list of the Act's requirements, § 1-569.6(a) among them, and § 1-569.4(c) provides that a waiver contrary to that section is not effective but does not have the effect of voiding the agreement to arbitrate.",
+    "trap": "Two North Carolina statutes attack the place of the arbitration rather than the promise to arbitrate. N.C.G.S. § 22B-3 makes any provision in a contract ENTERED INTO IN NORTH CAROLINA that requires the arbitration of a dispute arising from the contract to be instituted or heard in another state against public policy and void and unenforceable; the section excepts non-consumer loan transactions, and an arbitration commenced in another state pursuant to a forum selection provision with the consent of all parties at the time the dispute arises. N.C.G.S. § 22B-2 does the same for any contract, subcontract or purchase order for the improvement of real property in this State, or the providing of materials for it, where the exclusive forum for any arbitration is located in another state. A third statute points the other way: § 22B-10 makes a contractual jury-trial waiver unconscionable as a matter of law and unenforceable, but says in terms that the section does not prohibit parties from entering into agreements to arbitrate. Whether the Federal Arbitration Act preempts § 22B-3 or § 22B-2 as applied to a contract evidencing interstate commerce was NOT verified in our corpus and is not asserted here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 1-569.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch1_1-569.6",
+            "quote": "An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for revoking a contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 1-569.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch1_1-569.6",
+            "quote": "The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate. (c) An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 1-569.4",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch1_1-569.4",
+            "quote": "Before a controversy arises that is subject to an agreement to arbitrate, a party to the agreement may not: (1) Waive or agree to vary the effect of the requirements of G.S. 1-569.5(a), 1-569.6(a), 1-569.8, 1-569.17(a), 1-569.17(b), 1-569.26, or 1-569.28;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-3",
+            "quote": "any provision in a contract entered into in North Carolina that requires the prosecution of any action or the arbitration of any dispute that arises from the contract to be instituted or heard in another state is against public policy and is void and unenforceable. This prohibition shall not apply to non-consumer loan transactions or to any action or arbitration of a dispute that is commenced in another state pursuant to a forum selection provision with the consent of all parties to the contract at the time that the dispute arises.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-2",
+            "quote": "A provision in any contract, subcontract, or purchase order for the improvement of real property in this State, or the providing of materials therefor, is void and against public policy if it makes the contract, subcontract, or purchase order subject to the laws of another state, or provides that the exclusive forum for any litigation, arbitration, or other dispute resolution process is located in another state.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-10",
+            "quote": "Any provision in a contract requiring a party to the contract to waive his right to a jury trial is unconscionable as a matter of law and the provision shall be unenforceable. This section does not prohibit parties from entering into agreements to arbitrate or engage in other forms of alternative dispute resolution.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. §§ 1-569.4 and 1-569.6 were read in full, including § 1-569.4(a) (the Act's requirements may otherwise be waived or varied to the extent provided by law), (b)(2)-(4) and (c) (the sections that may never be waived, and the sentence that a waiver contrary to the section 'shall not be effective but shall not have the effect of voiding the agreement to arbitrate'). §§ 22B-2, 22B-3 and 22B-10 were read in full. Unconscionability as a revocation ground is stated in the unconscionability row (Brenner, Tillman), not here, because Tillman's arbitration-specific reasoning has been described by the Court of Appeals as abrogated in part by AT&T Mobility LLC v. Concepcion — see that row's notes. FAA preemption of §§ 22B-2 and 22B-3 was not verified: no federal or North Carolina decision on that question was read, and none is cited. We hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "attorney-fees",
+    "rule_id": "nc-fee-shifting-unenforceable-unless-a-statute-authorises-it",
+    "question": "Can the prevailing party recover its attorney's fees under this North Carolina contract?",
+    "rule": "Only to the extent a statute allows it. In Stillwell the Supreme Court of North Carolina stated the general rule that 'a successful litigant may not recover attorneys' fees, whether as costs or as an item of damages, unless such a recovery is expressly authorized by statute', and recorded that even in the face of a carefully drafted contractual provision indemnifying a party for such fees as may be necessitated by a successful action on the contract itself, North Carolina courts have consistently refused to sustain such an award absent statutory authority. Two statutes supply that authority. N.C.G.S. § 6-21.2 makes an obligation to pay attorneys' fees 'upon any note, conditional sale contract or other evidence of indebtedness' valid, enforceable and collectible as part of the debt if the instrument is collected by or through an attorney at law after maturity; a promise of 'reasonable' fees with no percentage stated is construed to mean fifteen percent of the outstanding balance, and Stillwell holds that 'evidence of indebtedness' means any printed or written instrument, signed or otherwise executed by the obligor, which evidences on its face a legally enforceable obligation to pay money. N.C.G.S. § 6-21.6 makes RECIPROCAL attorneys' fees provisions in a business contract valid and enforceable for reasonable fees and expenses, but only if all of the parties sign the contract by hand or by one of the two signature methods subsection (b) lists.",
+    "trap": "Three North Carolina-specific limits. First, § 6-21.2(5) requires the holder, after maturity, to notify the obligor that the fee provision will be enforced and that the obligor has five days from the mailing of that notice to pay the outstanding balance without the fees; if the balance is paid in full before that time expires the fee obligation is void and no court shall enforce it. Second, § 6-21.6 reaches only a 'business contract', which the section defines as a contract entered into primarily for business or commercial purposes and which by its own words 'does not include a consumer contract, an employment contract, or a contract to which a government or a governmental agency of this State is a party' — so a prevailing-party clause in an employment agreement gets nothing from § 6-21.6. Third, even inside § 6-21.6 the clause does not fix the number: subsection (c) says the court or arbitrator 'may award' reasonable attorneys' fees in accordance with the terms of the contract and lists thirteen factors it may consider, subsection (d) provides that reasonable fees are not governed by any statutory presumption or by a contractual stated percentage, and subsection (f) caps the award at the amount in controversy in a suit, action, proceeding or arbitration primarily for the recovery of monetary damages.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "300 N.C. 286",
+        "name": "Stillwell Enterprises, Inc. v. Interstate Equipment Co.",
+        "court": "N.C.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "cd6557e05105581b",
+            "cl_opinion_id": "1265353",
+            "quote": "Thus the general rule has long obtained that a successful litigant may not recover attorneys’ fees, whether as costs or as an item of damages, unless such a recovery is expressly authorized by statute.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "300 N.C. 286",
+        "name": "Stillwell Enterprises, Inc. v. Interstate Equipment Co.",
+        "court": "N.C.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "cd6557e05105581b",
+            "cl_opinion_id": "1265353",
+            "quote": "we hold that the term “evidence of indebtedness” as used in G.S. 6-21.2 has reference to any printed or written instrument, signed or otherwise executed by the obligor(s), which evidences on its face a legally enforceable obligation to pay money.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 6-21.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch6_6-21.2",
+            "quote": "Obligations to pay attorneys' fees upon any note, conditional sale contract or other evidence of indebtedness, in addition to the legal rate of interest or finance charges specified therein, shall be valid and enforceable, and collectible as part of such debt, if such note, contract or other evidence of indebtedness be collected by or through an attorney at law after maturity, subject to the following provisions:",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 6-21.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch6_6-21.2",
+            "quote": "If such note, conditional sale contract or other evidence of indebtedness provides for the payment of reasonable attorneys' fees by the debtor, without specifying any specific percentage, such provision shall be construed to mean fifteen percent (15%) of the \"outstanding balance\" owing on said note, contract or other evidence of indebtedness.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 6-21.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch6_6-21.2",
+            "quote": "has five days from the mailing of such notice to pay the \"outstanding balance\" without the attorneys' fees. If such party shall pay the \"outstanding balance\" in full before the expiration of such time, then the obligation to pay the attorneys' fees shall be void, and no court shall enforce such provisions.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 6-21.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch6_6-21.6",
+            "quote": "Reciprocal attorneys' fees provisions in business contracts are valid and enforceable for the recovery of reasonable attorneys' fees and expenses only if all of the parties to the business contract sign the contract by hand or with one of the following:",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 6-21.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch6_6-21.6",
+            "quote": "Business contract. - A contract entered into primarily for business or commercial purposes. The term does not include a consumer contract, an employment contract, or a contract to which a government or a governmental agency of this State is a party.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 6-21.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch6_6-21.6",
+            "quote": "In any suit, action, proceeding, or arbitration primarily for the recovery of monetary damages, the award of reasonable attorneys' fees shall not exceed the amount in controversy.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. Stillwell was read in full: opinion by Exum, J.; no separate opinion appears in the published row (us-caselaw-nc row cd6557e05105581b, 19,341 normalised characters, both quotes at characters 4,350 and 14,728). §§ 6-21.2 and 6-21.6 were read in full, including § 6-21.2(1) (a stated percentage is enforceable up to but not in excess of 15% of the outstanding balance), (3)-(4) (what 'outstanding balance' means for loans and for security agreements), (6) (documents an assignee or debt buyer must put before the court) and the closing proviso (no notice needed where the debtor refuses on demand to surrender collateral and an ancillary claim and delivery proceeding is required); and § 6-21.6(c)'s thirteen factors, (d), (e) (the election between § 6-21.6 and § 6-21.2 where the business contract is also an evidence of indebtedness, recoverable only once), (f) and (g) (insurance contracts under Chapter 58 are untouched). Good-law scan of us-caselaw-nc for '300 N.C. 286' after 1980-06-03: 61 later opinions; the only windows carrying a negative word were Gouch v. Rotunno (Ct. App. 2022), citing Stillwell's appellate-procedure holding on abandoned arguments. No overruling, abrogation or disapproval found. The UDTPA fee award (§ 75-16.1) is in the consumer-protection-waiver row, not here. § 6-21.6's source line reads '2011-341, s. 2; 2015-264, s. 32.5; 2025-25, s. 43'; we hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "choice-of-law",
+    "rule_id": "nc-choice-of-law-given-effect-but-22b-2-voids-it-on-real-property-work",
+    "question": "Will a North Carolina court apply the law the parties chose in this contract?",
+    "rule": "Generally yes. In Tanglewood the Supreme Court of North Carolina stated that 'where parties to a contract have agreed that a given jurisdiction's substantive law shall govern the interpretation of the contract, such a contractual provision will be given effect', and on that basis applied Virginia law to decide the validity of a land sales contract; the Court stated in the same passage the default rule that 'the interpretation of a contract is governed by the law of the place where the contract was made'. What such a clause selects is substantive law: in Johnston County v. R. N. Rouse & Co. the Court described the choice of law provision as one that 'names a particular state and provides that the substantive laws of that jurisdiction will be used to determine the validity and construction of the contract, regardless of any conflicts between the laws of the named state and the state in which the case is litigated'. Inside the Uniform Commercial Code the freedom is narrower: N.C.G.S. § 25-1-301(a) lets the parties agree that the law of this State or of another state or nation governs only 'when a transaction bears a reasonable relation to this State and also to another state or nation'.",
+    "trap": "One statute takes a whole category of work out of the rule. N.C.G.S. § 22B-2 makes a provision in ANY contract, subcontract or purchase order for the improvement of real property in this State, or the providing of materials for it, void and against public policy if it makes the contract subject to the laws of another state — and the same sentence voids a provision fixing the exclusive forum for litigation, arbitration or other dispute resolution in another state. So the governing-law clause in a North Carolina subcontract is void by the statute's own words, whatever the parties' bargaining power. Two further limits sit next to the general rule. N.C.G.S. § 25-1-301(c) lists eight Chapter 25 sections whose own choice-of-law provisions govern, and provides that a contrary agreement is effective only to the extent permitted by the specified law. And the Rouse taxonomy matters in drafting: a choice-of-law clause, a consent to jurisdiction clause and a forum selection clause are three different provisions with very distinct purposes, and choosing another state's law does not by itself move the forum. Our published North Carolina statutes shard does NOT contain Chapter 1G — the chapter § 25-1-301(a) cross-refers to for business contracts — so nothing in this rule states what Chapter 1G requires or permits.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "299 N.C. 260",
+        "name": "Tanglewood Land Co., Inc. v. Byrd",
+        "court": "N.C.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "397d198277a52d60",
+            "cl_opinion_id": "1263820",
+            "quote": "This Court has held that where parties to a contract have agreed that a given jurisdiction's substantive law shall govern the interpretation of the contract, such a contractual provision will be given effect.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "299 N.C. 260",
+        "name": "Tanglewood Land Co., Inc. v. Byrd",
+        "court": "N.C.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "397d198277a52d60",
+            "cl_opinion_id": "1263820",
+            "quote": "the interpretation of a contract is governed by the law of the place where the contract was made.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "331 N.C. 88",
+        "name": "Johnston County v. R. N. Rouse & Co.",
+        "court": "N.C.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "19023a451bd7beac",
+            "cl_opinion_id": "1235706",
+            "quote": "The first type, the choice of law provision, names a particular state and provides that the substantive laws of that jurisdiction will be used to determine the validity and construction of the contract, regardless of any conflicts between the laws of the named state and the state in which the case is litigated.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-1-301",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-1-301",
+            "quote": "when a transaction bears a reasonable relation to this State and also to another state or nation the parties may agree that the law either of this State or of the other state or nation governs their rights and duties.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-2",
+            "quote": "A provision in any contract, subcontract, or purchase order for the improvement of real property in this State, or the providing of materials therefor, is void and against public policy if it makes the contract, subcontract, or purchase order subject to the laws of another state, or provides that the exclusive forum for any litigation, arbitration, or other dispute resolution process is located in another state.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. Tanglewood was read in full: the quoted sentences are in the opinion of Brock, J. (characters 416 and 793 of 18,943 normalised characters); Copeland, J., dissented (joined by Huskins, J.) from character 8,881 on, and nothing quoted here is from the dissent. Rouse was read in the parts bearing on the three clause types; opinion by Meyer, J.; no separate opinion in the published row. § 25-1-301 was read in full, including (b) and the eight sections listed in (c). LIMITS STATED, NOT INFERRED: (1) we did NOT verify a general North Carolina public-policy exception to an otherwise valid choice-of-law clause, and none is asserted — Tanglewood decided validity under the chosen law; (2) Chapter 1G (the chapter § 25-1-301(a) refers to for 'business contract as defined in G.S. 1G-2(1)') is absent from the published nc statutes shard (31,706 rows, 292 chapters, no chapter 1G), so its content is not stated. Good-law scan of us-caselaw-nc after each decision: '299 N.C. 260' 28 later opinions, the single negative-word window (Richard W. Cooper Agency, Ct. App. 1980) cites Tanglewood approvingly for the place-of-sale rule; '331 N.C. 88' 79 later opinions, all negative-word windows are 'superseded by statute' notes about Moses H. Cone or a Court of Appeals dissent about jury trial, none about Rouse. We hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "nc-udtpa-75-1-1-treble-damages-and-the-learned-profession-exclusion",
+    "question": "Can we contract out of North Carolina's unfair and deceptive trade practices statute?",
+    "rule": "Our corpus establishes the claim, its remedies and its scope — not a general anti-waiver rule. N.C.G.S. § 75-1.1(a) declares unfair methods of competition in or affecting commerce, and unfair or deceptive acts or practices in or affecting commerce, unlawful; § 75-1.1(b) defines 'commerce' to include all business activities, however denominated, 'but does not include professional services rendered by a member of a learned profession'. The remedy is not discretionary: under § 75-16 a person, firm or corporation injured by an act done in violation of Chapter 75 has a right of action, and 'if damages are assessed in such case judgment shall be rendered in favor of the plaintiff and against the defendant for treble the amount fixed by the verdict'. Fees are discretionary and one-sided in their triggers: § 75-16.1 lets the presiding judge, in his discretion, allow a reasonable attorney fee to the attorney for the prevailing party, but only on a finding either that the party charged willfully engaged in the act or practice and unwarrantedly refused to resolve the matter, or that the party who brought the action knew or should have known it was frivolous and malicious. On the merits, Marshall v. Miller holds that 'in determining whether a violation of G.S. 75-1.1 has occurred, the question of whether the defendant acted in bad faith is not pertinent', and states that 'a practice is unfair when it offends established public policy as well as when the practice is immoral, unethical, oppressive, unscrupulous, or substantially injurious to consumers'.",
+    "trap": "Two things a drafter gets wrong. First, § 75-1.1 is not a consumer statute: it reaches unfair or deceptive acts 'in or affecting commerce', and 'commerce' is all business activities however denominated, so a business-to-business supply agreement is inside it while a claim against a member of a learned profession for professional services is outside it — and under § 75-1.1(d) the party claiming to be exempt carries the burden of proof on that claim. Second, the limitation period is the pressure point rather than a waiver clause: § 75-16.2 bars any civil action brought under Chapter 75 unless commenced within four years after the cause of action accrues, and in Warren v. Cielo Ventures the Supreme Court of North Carolina enforced a one-year contractual limitation period against a UDTPA claim, holding that parties may agree to decrease the general limitation period if no statute forbids a shorter period and the shorter period is reasonable. We did NOT find, and do not assert, a North Carolina statute or Supreme Court holding in our corpus making § 75-1.1 rights non-waivable by contract.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 75-1.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch75_75-1.1",
+            "quote": "Unfair methods of competition in or affecting commerce, and unfair or deceptive acts or practices in or affecting commerce, are declared unlawful. (b) For purposes of this section, \"commerce\" includes all business activities, however denominated, but does not include professional services rendered by a member of a learned profession.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 75-16",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch75_75-16",
+            "quote": "such person, firm or corporation so injured shall have a right of action on account of such injury done, and if damages are assessed in such case judgment shall be rendered in favor of the plaintiff and against the defendant for treble the amount fixed by the verdict.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 75-16.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch75_75-16.1",
+            "quote": "In any suit instituted by a person who alleges that the defendant violated G.S. 75-1.1, the presiding judge may, in his discretion, allow a reasonable attorney fee to the duly licensed attorney representing the prevailing party, such attorney fee to be taxed as a part of the court costs and payable by the losing party, upon a finding by the presiding judge that:",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 75-16.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch75_75-16.2",
+            "quote": "Any civil action brought under this Chapter to enforce the provisions thereof shall be barred unless commenced within four years after the cause of action accrues.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "302 N.C. 539",
+        "name": "Marshall v. Miller",
+        "court": "N.C.",
+        "decided": "1981",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "0a5f206c223c9f94",
+            "cl_opinion_id": "1252319",
+            "quote": "Careful examination of the applicable precedent in this jurisdiction and our interpretation of the intent of the Legislature leads us to conclude that, in determining whether a violation of G.S. 75-1.1 has occurred, the question of whether the defendant acted in bad faith is not pertinent.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "302 N.C. 539",
+        "name": "Marshall v. Miller",
+        "court": "N.C.",
+        "decided": "1981",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "0a5f206c223c9f94",
+            "cl_opinion_id": "1252319",
+            "quote": "A practice is unfair when it offends established public policy as well as when the practice is immoral, unethical, oppressive, unscrupulous, or substantially injurious to consumers.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 203PA24 (N.C., filed 20 March 2026)",
+        "name": "Warren v. Cielo Ventures, Inc.",
+        "court": "N.C.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "346b4c3deba3aa28",
+            "cl_opinion_id": "11278539",
+            "quote": "Thus, parties may agree to decrease the general limitation period for bringing claims if: (1) no statute forbids a shorter period, and (2) the shorter period is reasonable.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. §§ 75-1.1, 75-16, 75-16.1 and 75-16.2 were read in full, including § 75-1.1(c) (the advertising-medium exemption) and (d) (burden of proof on a party claiming exemption), and § 75-16.2's second paragraph (suspension of the period during an Attorney General or district attorney proceeding). Marshall v. Miller was read in the parts bearing on the standard; opinion by Meyer, J.; no separate opinion appears in the published row; the quoted passages are at characters 8,680 and 18,182 of 23,366. Marshall is the case doing the overruling in its own line (it expressly overruled any implication in Trust Co. v. Smith that bad faith is required); good-law scan of us-caselaw-nc for '302 N.C. 539' after 1981-04-07 returned 177 later opinions and every negative-word window is a later court noting that Marshall overruled Smith. Warren v. Cielo Ventures carries NO reporter citation in our corpus and none in CourtListener's citation map as of the 2026-06-30 export, so the citation given is the opinion's own docket number and filing date, and the corpus check identifies the row by title and year; the opinion is by Berger, J., with a dissent, and the quoted sentence is in the majority (character 8,202 of 39,831, before the separate opinion). NOT ASSERTED: whether a release or an arbitration clause can waive a § 75-1.1 claim; no authority on that was read. This family is named for the Texas DTPA in some shards; for North Carolina it is read as consumer-protection waiver. We hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "electronic-signature",
+    "rule_id": "nc-ueta-66-317-and-the-chapter-25-and-notice-exclusions",
+    "question": "Is an electronic signature on this document as good as ink in North Carolina?",
+    "rule": "Yes, within the Uniform Electronic Transactions Act's scope and only between parties who agreed to transact electronically. N.C.G.S. § 66-317 provides that a record or signature may not be denied legal effect or enforceability solely because it is in electronic form; that a contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation; that if a law requires a record to be in writing an electronic record satisfies the law provided it complies with the Article; and that if a law requires a signature an electronic signature satisfies the law on the same condition. The gate is agreement: § 66-315(b) provides that the Article 'applies only to transactions between parties each of which has agreed to conduct transactions by electronic means', and that whether the parties so agreed 'is determined from the context and surrounding circumstances, including the parties' conduct'. 'Electronic signature' is defined by § 66-312(9) as an electronic sound, symbol or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.",
+    "trap": "The scope section is where North Carolina deals differ from the federal picture. Section 66-313(b) takes a transaction out of the Article to the extent it is governed by a law governing the creation and execution of wills, codicils or testamentary trusts; by Chapter 25 of the General Statutes — the Uniform Commercial Code — OTHER THAN G.S. 25-1-306, Article 2 and Article 2A; or by Article 11A of Chapter 66. So a sale of goods or a lease of goods is inside the Act, while a negotiable instrument, a secured transaction record or a letter of credit under the rest of Chapter 25 is outside it as to what those Articles govern. Section 66-313(e) removes five kinds of NOTICE from the Article no matter who agreed to what, including any notice of default, acceleration, repossession, foreclosure or eviction, or of the right to cure, under a credit agreement secured by, or a rental agreement for, an individual's primary residence — so the e-notice provision in a residential loan or lease does not get the Act's blessing. And § 66-315(c) gives a party who agreed to transact electronically the right to refuse to conduct OTHER transactions electronically, and says that right 'may not be waived by agreement', so a blanket consent-to-electronic-everything clause cannot bind a counterparty for the future. One North Carolina cross-reference worth knowing: § 6-21.6(b)(1) makes a reciprocal attorneys' fees clause in a business contract enforceable on an electronic signature 'as defined in G.S. 66-312' only where the signature originates from an affirmative action such as typing or drawing the party's signature.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-317",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-317",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. (b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. (c) If a law requires a record to be in writing, an electronic record satisfies the law provided it complies with the provisions of this Article.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-315",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-315",
+            "quote": "This Article applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-313",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-313",
+            "quote": "This Article does not apply to a transaction to the extent it is governed by: (1) A law governing the creation and execution of wills, codicils, or testamentary trusts. (2) Chapter 25 of the General Statutes other than G.S. 25-1-306, Article 2, and Article 2A. (3) Article 11A of Chapter 66 of the General Statutes.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-313",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-313",
+            "quote": "Any notice of default, acceleration, repossession, foreclosure or eviction, or the right to cure, under a credit agreement secured by, or a rental agreement for, a primary residence of an individual.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 6-21.6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch6_6-21.6",
+            "quote": "Reciprocal attorneys' fees provisions in business contracts are valid and enforceable for the recovery of reasonable attorneys' fees and expenses only if all of the parties to the business contract sign the contract by hand or with one of the following:",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. §§ 66-311 to 66-317 were read: the short title (66-311), the definitions (66-312, including 'electronic signature' at (9), 'consumer transaction' at (4) and 'record' at (14)), the scope section in full (66-313(a)-(e), including the other four notice exclusions in (e): utility cancellation or termination, cancellation or termination of health or life insurance or benefits excluding annuities, product recalls or material failures risking health or safety, and documents accompanying hazardous or toxic materials), prospective application (66-314), and 66-315 in full including (c)'s non-waivable right to refuse other electronic transactions and (d)'s default that the Article's provisions may be varied by agreement. § 6-21.6(b)(1)-(2) were read in full for the cross-reference. No North Carolina appellate opinion was searched for on this family; the statute states the rule. § 66-314 says the Article applies to electronic records and signatures created on or after the Article's effective date, and we hold no statute effective dates, so the date itself is not stated here."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "entire-agreement",
+    "rule_id": "nc-parol-evidence-and-the-integration-question",
+    "question": "Does our merger clause keep out evidence of what was said before signing?",
+    "rule": "Only to the extent the writing is a final, total integration — and that is the fight. In Rowe the Supreme Court of North Carolina stated that 'generally, evidence of prior and contemporaneous negotiations and agreements are not admissible to vary, add to, or contradict a written instrument', and then bounded the rule: 'the rule is intended to apply only to final, totally integrated writings; that is, those writings relating to a transaction which are intended to supersede all other agreements regarding that transaction. If the writing supersedes only a part of the transaction, it is a partial integration and other portions of the transaction may be shown by parol evidence.' For a sale of goods the Uniform Commercial Code states the same structure in statutory form: N.C.G.S. § 25-2-202 provides that terms set forth in a record intended by the parties as a final expression of their agreement as to the terms included in it may not be contradicted by evidence of a prior agreement or a contemporaneous oral agreement, but may be explained or supplemented by course of dealing, usage of trade or course of performance, and by evidence of consistent additional terms 'unless the court finds the record to have been intended also as a complete and exclusive statement of the terms of the agreement'.",
+    "trap": "The clause you are relying on is evidence of integration, not the conclusion. Rowe held that the writing before it was only a PARTIAL integration of a larger settlement and let the parol evidence in; nothing read here says that a merger clause makes a writing a total integration as a matter of law, and this rule does not assert it — Rowe's own opinion does not use the word 'merger'. Under § 25-2-202 the consistent-additional-terms branch turns on a finding by the COURT that the record was intended as a complete and exclusive statement, so in a goods contract the integration clause is addressed to the judge, not dispositive of the judge. And the first branch of § 25-2-202 is narrower than drafters assume: course of dealing, usage of trade and course of performance come in to explain or supplement the record whether or not it is fully integrated.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "305 N.C. 177",
+        "name": "Rowe v. Rowe",
+        "court": "N.C.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "bbcbba909ffa87e5",
+            "cl_opinion_id": "1266914",
+            "quote": "Generally, evidence of prior and contemporaneous negotiations and agreements are not admissible to vary, add to, or contradict a written instrument.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "305 N.C. 177",
+        "name": "Rowe v. Rowe",
+        "court": "N.C.",
+        "decided": "1982",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "bbcbba909ffa87e5",
+            "cl_opinion_id": "1266914",
+            "quote": "Further, the rule is intended to apply only to final, totally integrated writings; that is, those writings relating to a transaction which are intended to supersede all other agreements regarding that transaction. If the writing supersedes only a part of the transaction, it is a partial integration and other portions of the transaction may be shown by parol evidence.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-202",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-202",
+            "quote": "Terms with respect to which the confirmatory memoranda of the parties agree or that are otherwise set forth in a record intended by the parties as a final expression of their agreement with respect to the terms included in it shall not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented by the following:",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-202",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-202",
+            "quote": "By evidence of consistent additional terms unless the court finds the record to have been intended also as a complete and exclusive statement of the terms of the agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. Rowe was read in the parts bearing on the parol evidence rule: opinion by Britt, J.; Copeland, J., concurring in part and dissenting in part; the quoted passages are at characters 4,493 and 4,919 of 30,321, well before the separate opinion, which begins at character 14,676. Rowe is a domestic case about a consent order and a property settlement, and the rule quoted is stated as a general rule of contract law, not as a rule of family law; the row states no more than the quoted sentences. § 25-2-202 was read in full, including subdivision (1) (course of dealing, usage of trade, course of performance). NOT ASSERTED: that a merger clause does or does not establish total integration in North Carolina, and the effect of an anti-reliance clause on a fraud claim — no authority on either was read, and the word 'merger' does not appear in the Rowe row. Good-law scan of us-caselaw-nc for '305 N.C. 177' after 1982-03-03: 53 later opinions; the three negative-word windows (Henderson v. Henderson 1983, Cunningham 1996) concern consent judgments being 'superseded' by a court's adoption of an agreement, not treatment of Rowe. We hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "force-majeure",
+    "rule_id": "nc-impossibility-narrow-and-2-615-for-goods",
+    "question": "Will this force majeure clause excuse our performance in North Carolina?",
+    "rule": "Our corpus does not answer that for the clause; it answers the background doctrine the clause displaces. In Brenner the Supreme Court of North Carolina stated that 'impossibility of performance is recognized in this jurisdiction as excusing a party from performing under an executory contract if the subject matter of the contract is destroyed without fault of the party seeking to be excused from performance' — a narrow rule keyed to destruction of the subject matter, not to hardship. For a sale of goods there is a statutory excuse with its own conditions: N.C.G.S. § 25-2-615(1) provides that delay in delivery or non-delivery by a seller who complies with subdivisions (2) and (3) is not a breach of the seller's duty if performance as agreed has been made impracticable by the occurrence of a contingency the non-occurrence of which was a basic assumption on which the contract was made, or by good-faith compliance with any applicable foreign or domestic governmental regulation or order whether or not it later proves invalid; and the section opens 'Except so far as a seller may have assumed a greater obligation'.",
+    "trap": "The § 25-2-615 excuse is conditional on two duties the clause usually omits. Where the contingency affects only part of the seller's capacity, subdivision (2) requires the seller to ALLOCATE production and deliveries among its customers in any manner that is fair and reasonable, and subdivision (3) requires the seller to notify the buyer seasonably of the delay or non-delivery and, where allocation is required, of the buyer's estimated quota; a seller that does neither is outside the section on its own words. The section also runs in one direction only — it excuses a SELLER — and it yields to a greater obligation the seller has assumed, which is what a broadly drafted force-majeure clause may be. NOT ESTABLISHED HERE: whether a North Carolina court will read a force majeure clause to reach an event not named in it, whether commercial impracticability short of destruction excuses performance outside Article 2, and whether frustration of purpose is a North Carolina doctrine — Brenner records that a Court of Appeals judge dissented on frustration of purpose and that the Supreme Court agreed with his general discussion of the law while deciding the case on other grounds, which settles nothing for a drafter.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "302 N.C. 207",
+        "name": "Brenner v. Little Red School House, Ltd.",
+        "court": "N.C.",
+        "decided": "1981",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "53a481553975c859",
+            "cl_opinion_id": "1299057",
+            "quote": "Impossibility of performance is recognized in this jurisdiction as excusing a party from performing under an executory contract if the subject matter of the contract is destroyed without fault of the party seeking to be excused from performance.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-615",
+            "quote": "Delay in delivery or nondelivery in whole or in part by a seller who complies with subdivisions (2) and (3) [of this section] is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "302 N.C. 207",
+        "name": "Brenner v. Little Red School House, Ltd.",
+        "court": "N.C.",
+        "decided": "1981",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "53a481553975c859",
+            "cl_opinion_id": "1299057",
+            "quote": "While we agree with Judge Martin’s general discussion of the law concerning frustration of purpose, we hold that the doctrine does not apply to bring about a recission under the facts of this case.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. A full-text scan of the published us-caselaw-nc Supreme Court opinions (98,169 rows, court nc-nc) for 'force majeure' returned three opinions, all criminal cases using the phrase for involuntary intoxication (State v. Jones 1980, State v. Bunn 1973) or describing government action (Shelton v. Tuttle Motor Co. 1943); NONE construes a contractual force majeure clause. That is why this row states the background doctrine and says so. Brenner was read in full: opinion by Copeland, J.; no separate opinion in the published row; the quoted sentence is at character 689 of 15,820. The word 'dissent' at character 1,615 of that row is the Court describing the Court of Appeals judge who dissented below on frustration of purpose. § 25-2-615 was read in full, including subdivisions (2) and (3) and the opening 'Except so far as a seller may have assumed a greater obligation and subject to the preceding section [G.S. 25-2-614] on substituted performance'. Good-law scan of us-caselaw-nc for '302 N.C. 207' after 1981-02-02: 62 later opinions (latest CMD, LLC v. Keith, Ct. App. 2026), no negative-word window at all. We hold no statute effective dates. HOLDING SWEEP 2026-09-22 (every rule/trap sentence stating what a named cited case held, scored against the case's quoted blocks; the 120 lowest-overlap sentences read against the opinions on the corpus host): the trap's 'the Supreme Court agreed with his general discussion' is the opinion's sentence; block added."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "indemnity",
+    "rule_id": "nc-22b-1-construction-indemnity-and-the-defend-ban",
+    "question": "Is this indemnity in our construction subcontract enforceable in North Carolina?",
+    "rule": "Not for the promisee's own negligence, and not as a duty to defend a design professional. N.C.G.S. § 22B-1(a) makes provisions in, or in connection with, a construction agreement or design professional agreement that purport to require a promisor to indemnify or hold harmless the promisee, its independent contractors, agents, employees or indemnitees against liability for damages arising out of bodily injury or property damage proximately caused by or resulting from the negligence, in whole or in part, of the promisee or its people, against public policy, void and unenforceable — while the same subsection preserves an indemnity 'against liability for damages resulting from the sole negligence of the promisor, its agents or employees'. Subsection (b) adds a fault condition of its own: an indemnity against losses, damages or expenses is void unless the fault of the promisor or its derivative parties is a proximate cause of the loss, damage or expense indemnified. Subsection (c) bans the DEFEND obligation outright where design professional services are involved: a provision requiring a design professional to defend a promisee or its people against liability or claims for damages or expenses, including attorney's fees, proximately caused or allegedly caused by professional negligence in whole or in part of the promisor, the promisee or their derivative parties, whether the claim is brought in tort or in contract, is against public policy, void and unenforceable.",
+    "trap": "The scope sections decide more cases than the voiding sections. 'Construction agreement' is defined by § 22B-1(f)(1) as any promise or agreement in, or in connection with, a contract relative to the design, planning, construction, alteration, repair or maintenance of a building, structure, highway, road, appurtenance or appliance, including moving, demolition and excavating connected with it — so a pure supply or services contract untied to that work is outside the section, and this rule says nothing about it. Subsection (e) carves out two more things: the section does not affect an insurance contract, workers' compensation or any other agreement issued by an insurer, and it does not apply to lien or bond claims asserted under Chapter 44A. And subsection (d) is a saving provision drafters miss: attorneys' fees, litigation or arbitration expenses and court costs actually incurred by the promisee defending THIRD PARTY claims are not excluded from an indemnity enforceable under (a) and (b), if the fault of the promisor or its derivative parties is a proximate cause of those fees or costs. 'Fault' is itself defined by (f)(7) to include a breach of contract and a violation of applicable statutes or regulations, not only a tort.",
+    "applies_to": [
+      "construction"
+    ],
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-1",
+            "quote": "Provisions in, or in connection with, a construction agreement or design professional agreement purporting to require a promisor to indemnify or hold harmless the promisee, the promisee's independent contractors, agents, employees, or indemnitees against liability for damages arising out of bodily injury to persons or damage to property proximately caused by or resulting from the negligence, in whole or in part, of the promisee, its independent contractors, agents, employees, or indemnitees, is against public policy, void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-1",
+            "quote": "Nothing contained in this subsection shall prevent or prohibit a contract, promise or agreement whereby a promisor shall indemnify or hold harmless any promisee or the promisee's independent contractors, agents, employees or indemnitees against liability for damages resulting from the sole negligence of the promisor, its agents or employees.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-1",
+            "quote": "This section shall not affect an insurance contract, workers' compensation, or any other agreement issued by an insurer. This section shall not apply to lien or bond claims asserted under Chapter 44A of the General Statutes.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-1",
+            "quote": "Construction agreement. - Any promise or agreement in, or in connection with, a contract or agreement relative to the design, planning, construction, alteration, repair, or maintenance of a building, structure, highway, road, appurtenance, or appliance, including moving, demolition, and excavating connected therewith.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. § 22B-1 was read in full: (a)-(e) and all eight definitions in (f), including 'Defend' (f)(2), 'Derivative parties' (f)(3), 'Design professional' (f)(4) (a person or entity licensed under Chapters 83A, 89A, 89C, 89E or 89F), 'Design professional agreement' (f)(5), 'Design professional services' (f)(6), 'Fault' (f)(7) and 'Subcontractor' (f)(8). The row is tagged applies_to construction because every sentence rests on § 22B-1, whose own definitions confine it to construction agreements and design professional agreements. NOT ASSERTED: the North Carolina common law of indemnity outside § 22B-1 (no case was read), and whether an additional-insured endorsement achieves what (a) forbids. The published source line reads '1979, c. 597, s. 1; 1991, c. 636, s. 3; 1993, c. 553, s. 12; 2019-92, s. 1.'; we hold no statute effective dates, so which version governs a given contract cannot be answered from the corpus."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "lien-waiver",
+    "rule_id": "nc-22b-5-progress-payment-lien-waiver-void-beyond-the-payment-received",
+    "question": "Is the lien waiver our subcontract makes us sign to get a progress payment enforceable?",
+    "rule": "Only up to the payment actually received. N.C.G.S. § 22B-5(a) makes provisions in lien waivers, releases, construction agreements as defined in G.S. 22B-1(f)(1), or design professional agreements as defined in G.S. 22B-1(f)(5) that purport to require a promisor to submit a waiver or release of liens or claims as a condition of receiving interim or progress payments due from a promisee 'void and unenforceable unless limited to the specific interim or progress payment actually received by the promisor in exchange for the lien waiver'. The operative words are 'actually received': the statute does not merely require the waiver to be conditional in form, it voids any part of it that reaches beyond the progress payment the promisor in fact got.",
+    "trap": "Read subsection (b) before relying on the section. It takes two situations out of § 22B-5 entirely: lien waivers or releases for FINAL payments, and agreements to settle and compromise disputed claims after the claim has been identified by the claimant in writing, regardless of whether the promisor has started a civil action or an arbitration. So the broad release attached to the final application for payment is outside the protection, as is the release in a settlement of a claim the subcontractor has already put in writing. The section is also bounded by the definition it borrows: 'construction agreement' in G.S. 22B-1(f)(1) is a contract relative to the design, planning, construction, alteration, repair or maintenance of a building, structure, highway, road, appurtenance or appliance, including moving, demolition and excavating connected with it. NOT ESTABLISHED HERE: whether a lien waiver that recites payment the subcontractor never received is effective against an owner who relied on it, and the mechanics of the lien itself under Chapter 44A — no Chapter 44A section and no North Carolina opinion was read for this rule. Where this rule reaches for § 22B-1, that section stops short of two things: “This section shall not affect an insurance contract, workers' compensation, or any other agreement issued by an insurer. This section shall not apply to lien or bond claims asserted under Chapter 44A of the General Statutes.” The second matters most here, because a progress-payment lien waiver fight is a Chapter 44A fight, and § 22B-1 does not reach it.",
+    "applies_to": [
+      "construction"
+    ],
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-5",
+            "quote": "Provisions in lien waivers, releases, construction agreements as defined in G.S. 22B-1(f)(1), or design professional agreements as defined in G.S. 22B-1(f)(5) purporting to require a promisor to submit a waiver or release of liens or claims as a condition of receiving interim or progress payments due from a promisee under a construction agreement or design professional agreement are void and unenforceable unless limited to the specific interim or progress payment actually received by the promisor in exchange for the lien waiver.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-5",
+            "quote": "This section does not apply to the following: (1) Lien waivers or releases for final payments. (2) Agreements to settle and compromise disputed claims after the claim has been identified by the claimant in writing regardless of whether the promisor has initiated a civil action or arbitration proceeding.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-1",
+            "quote": "Construction agreement. - Any promise or agreement in, or in connection with, a contract or agreement relative to the design, planning, construction, alteration, repair, or maintenance of a building, structure, highway, road, appurtenance, or appliance, including moving, demolition, and excavating connected therewith.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-1",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-1",
+            "quote": "This section shall not affect an insurance contract, workers' compensation, or any other agreement issued by an insurer. This section shall not apply to lien or bond claims asserted under Chapter 44A of the General Statutes.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. § 22B-5 was read in full (subsections (a) and (b)), and the two definitions it incorporates were read in the § 22B-1(f) text. A full-text search of the published nc statutes shard for 'waiver of lien' returned § 22B-5 only; a search for 'lien rights' returned §§ 143-128.1C, 44A-11.2 and 44-50.1, none of which states a general anti-waiver rule. The published source line for § 22B-5 reads '(2022-1, s. 3(a).)'; we hold no statute effective dates, so whether the section reaches a given subcontract by date cannot be answered from the corpus. The row is tagged applies_to construction because § 22B-5 operates only on construction agreements and design professional agreements as § 22B-1(f) defines them. SCOPE AUDIT 2026-09-24: § 22B-1(e)'s two savings were missing from this row as they were from nc-exculpatory-clauses-enforceable-but-strictly-construed, which was corrected the same day. Three rules in this store cite row NCGS_ch22B_22B-1 and all three now state (e)."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "limitation-of-liability",
+    "rule_id": "nc-exculpatory-clauses-enforceable-but-strictly-construed",
+    "question": "Will a North Carolina court enforce this clause excluding our liability for our own negligence?",
+    "rule": "Usually, between private parties, subject to limits the courts have not exhaustively listed. In Hall the Supreme Court of North Carolina held that contracts exempting persons from liability for negligence are not favoured by the law and are strictly construed against those relying on them, but that 'the majority rule, to which we adhere, is that, subject to certain limitations hereinafter discussed, a person may effectively bargain against liability for harm caused by his ordinary negligence in the performance of a legal duty arising out of a contractual relation'. The Court grounded that in freedom of contract — 'the general rule rests on the broad policy of the law which accords to contracting parties freedom to bind themselves as they see fit' — qualified by the rule that contractual provisions violative of the law or contrary to some rule of public policy are void. The plaintiff in Hall lost because he made no claim of mistake, fraud or oppression and his allegations raised no question of unequal bargaining power, and the clause covered in clear, unambiguous language the very leakage he complained of.",
+    "trap": "Hall names the limitations without closing the list, and two of them decide most North Carolina fights. The Court recorded, quoting Insurance Asso. v. Parker, that the courts are in complete accord that a public service corporation or public utility cannot contract against its negligence in the regular course of its business or in performing one of its duties of public service, and that the limitation is likewise uniformly applied to the master-and-servant relationship; and that the general limitation embraces the principle that a party cannot protect himself by contract against liability for negligence in the performance of a duty of public service, or where a public duty is owed, or public interest is involved. The Court also identified relative bargaining power as a relevant factor, recognising Parker's statement that whether such a provision is enforceable 'depends upon the nature and the subject matter of the contract, the relation of the parties, the presence or absence of equality of bargaining power and the attendant circumstances', and observed that the trend of modern decision is toward placing further limitations on the general rule. Two North Carolina statutes hit clauses that sit next to a liability cap: § 22B-1 voids a construction or design professional indemnity for the promisee's own negligence, and § 22B-10 makes a contractual jury-trial waiver unconscionable as a matter of law and unenforceable — but that section carves out the route most commercial drafters take instead: “This section does not prohibit parties from entering into agreements to arbitrate or engage in other forms of alternative dispute resolution.”, so an arbitration or other alternative-dispute-resolution agreement is not caught by § 22B-10 even though it ends the jury trial. NOT ESTABLISHED HERE: whether a clause excluding liability for gross negligence or wilful conduct is enforceable in North Carolina, and whether the UCC's § 25-2-719(3) unconscionability test governs a cap in a mixed goods-and-services deal. § 22B-1 also stops short of two things worth knowing before a clause is redrafted around it: “This section shall not affect an insurance contract, workers' compensation, or any other agreement issued by an insurer.” and “This section shall not apply to lien or bond claims asserted under Chapter 44A of the General Statutes.” So the section does not disturb an additional-insured or other insurer-issued agreement, and it does not reach a lien or payment-bond claim, which is where a construction dispute usually ends up.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "242 N.C. 707",
+        "name": "Hall v. Sinclair Refining Company",
+        "court": "N.C.",
+        "decided": "1955",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "a27aa228a19b4255",
+            "cl_opinion_id": "1200968",
+            "quote": "the majority rule, to which we adhere, is that, subject to certain limitations hereinafter discussed, a person may effectively bargain against liability for harm caused by his ordinary negligence in the performance of a legal duty arising out of a contractual relation.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "242 N.C. 707",
+        "name": "Hall v. Sinclair Refining Company",
+        "court": "N.C.",
+        "decided": "1955",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "a27aa228a19b4255",
+            "cl_opinion_id": "1200968",
+            "quote": "The general rule rests on the broad policy of the law which accords to contracting parties freedom to bind themselves as they see fit,",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-10",
+            "quote": "Any provision in a contract requiring a party to the contract to waive his right to a jury trial is unconscionable as a matter of law and the provision shall be unenforceable. This section does not prohibit parties from entering into agreements to arbitrate or engage in other forms of alternative dispute resolution.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-1",
+            "quote": "Provisions in, or in connection with, a construction agreement or design professional agreement purporting to require a promisor to indemnify or hold harmless the promisee, the promisee's independent contractors, agents, employees, or indemnitees against liability for damages arising out of bodily injury to persons or damage to property proximately caused by or resulting from the negligence, in whole or in part, of the promisee, its independent contractors, agents, employees, or indemnitees, is against public policy, void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-10",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-10",
+            "quote": "This section does not prohibit parties from entering into agreements to arbitrate or engage in other forms of alternative dispute resolution.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-1",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-1",
+            "quote": "This section shall not affect an insurance contract, workers' compensation, or any other agreement issued by an insurer. This section shall not apply to lien or bond claims asserted under Chapter 44A of the General Statutes.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. Hall was read in full (8,303 normalised characters): opinion by Johnson, J.; Winborne and Higgins, JJ., took no part; there is no separate opinion. The two quoted sentences are at characters 3,012 and 3,593. The trap's public-utility, master-and-servant, public-duty and bargaining-power sentences are Hall's own text quoting Insurance Asso. v. Parker, 234 N.C. 20; that case was NOT separately read or added as an authority, so it is described here only as Hall describes it. The audit's lesson on § 22B-1 is applied deliberately: the statute voids a promise to indemnify ANOTHER person against that person's own negligence and does not by its words reach a clause limiting the promisor's own liability to its counterparty, and the trap says exactly that. Good-law scan of us-caselaw-nc for '242 N.C. 707' after 1955-10-12: 24 later opinions (latest Tsonev v. McAir, Ct. App. 2020), no negative-word window at all. We hold no statute effective dates. SCOPE AUDIT 2026-09-24: § 22B-10 was re-read in full (1,045 characters). Its second sentence is a carve-out the earlier version of this trap did not state, which left a reader able to think an arbitration clause fell with the jury-trial waiver; the sentence is now quoted in the trap and carried by its own verified block from row NCGS_ch22B_22B-10. SCOPE AUDIT 2026-09-24, second look: § 22B-1(e) holds two savings this row did not state, found by the rare-word sweep on 'insurer', 'issued' and 'workers'. The sibling nc-22b-1-construction-indemnity-and-the-defend-ban states them and this row did not, although both cite row NCGS_ch22B_22B-1. Both sentences are now quoted here with a verified block."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "limitation-of-remedy",
+    "rule_id": "nc-2-719-exclusive-remedy-essential-purpose-and-consumer-personal-injury",
+    "question": "Is our 'repair or replace is the sole remedy' clause good in North Carolina?",
+    "rule": "Yes as written, until it fails. Under N.C.G.S. § 25-2-719(a) the agreement may provide for remedies in addition to or in substitution for those provided in Article 2 and may limit or alter the measure of damages recoverable, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of non-conforming goods or parts; and resort to a remedy as provided is optional 'unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy'. Subsection (b) is the escape: 'Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this chapter.' Consequential damages are governed separately by subsection (c): they may be limited or excluded unless the limitation or exclusion is unconscionable, limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable, 'but limitation of damages where the loss is commercial is not'. All of subsection (a) is expressly subject to (b), to (c) and to § 25-2-718 on liquidation and limitation of damages.",
+    "trap": "Exclusivity is not the default — § 25-2-719(a)(2) requires the remedy to be EXPRESSLY agreed to be exclusive, so a clause that lists a repair remedy without saying it is the only one leaves the buyer the Article 2 remedies as well. The consumer-goods sentence in (c) creates a presumption, not a prohibition: it makes a limitation of consequential damages for personal injury in consumer goods PRIMA FACIE unconscionable, and says in the same sentence that a commercial loss limitation is not. And the drafting consequence most often assumed is not established here: whether a consequential-damages exclusion under (c) survives the failure of an exclusive remedy under (b) is a question no North Carolina authority in this rule answers.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-719",
+            "quote": "the agreement may provide for remedies in addition to or in substitution for those provided in this article and may limit or alter the measure of damages recoverable under this article, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and (2) resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-719",
+            "quote": "Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this chapter. (c) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. § 25-2-719 was read in full, including the opening words of (a) ('Subject to the provisions of subsections (b) and (c) of this section and of the preceding section [G.S. 25-2-718] on liquidation and limitation of damages'). § 25-2-718 was read in full and is the authority for the liquidated-damages row. NOT ASSERTED: whether a consequential-damages exclusion survives a failed exclusive remedy in North Carolina; no North Carolina opinion on that question was read. The row is left untagged for contract type because Article 2's own reach over a mixed goods-and-services or software transaction is a question this row does not answer. We hold no statute effective dates; the published source line reads '1965, c. 700, s. 1; 2025-25, s. 112.'"
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "limitations-period",
+    "rule_id": "nc-three-years-and-the-contractual-shortening-test",
+    "question": "How long do we have to sue on this contract, and can the contract shorten it?",
+    "rule": "Three years for most contracts, and yes it can be shortened if no statute forbids it and the shorter period is reasonable. N.C.G.S. § 1-52(1) gives three years for an action 'upon a contract, obligation or liability arising out of a contract, express or implied', except those mentioned in the preceding sections or in G.S. 1-53(1). Two carve-outs run longer: § 1-47(2) gives ten years on a sealed instrument or an instrument of conveyance of an interest in real property, against the principal to it, and § 25-2-725(a) gives four years for breach of a contract for sale of goods. On contractual shortening, the Supreme Court of North Carolina held in Warren v. Cielo Ventures that 'parties may agree to decrease the general limitation period for bringing claims if: (1) no statute forbids a shorter period, and (2) the shorter period is reasonable', noting that the Court 'acknowledged more than a century ago that individuals may agree to contractually shorten the time to bring claims arising out of the subject matter of that contract'; on that basis it enforced a one-year clause against an unfair and deceptive trade practices claim otherwise governed by the four-year period in § 75-16.2.",
+    "trap": "Both prongs of the Warren test bite. A statute DOES forbid a shorter period for a sale of goods: § 25-2-725(a) lets the original agreement reduce the four-year period 'to not less than one year but may not extend it', so a six-month claims clause in a supply agreement is ineffective as to the goods claims and an extension is ineffective in either direction. And North Carolina's construction repose period is not a limitation period the parties are shortening but an outside bar that runs independently: under § 1-50(a)(5)a no action to recover damages based upon or arising out of the defective or unsafe condition of an improvement to real property may be brought more than six years from the later of the defendant's specific last act or omission or substantial completion of the improvement, and subdivision (5)f says the three-year period in § 1-52 continues to run inside that six years. Note also what § 1-52(1) itself says — it yields to 'those mentioned in the preceding sections or in G.S. 1-53(1)' — so the three-year answer is a default that other sections displace.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 1-52",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch1_1-52",
+            "quote": "Upon a contract, obligation or liability arising out of a contract, express or implied, except those mentioned in the preceding sections or in G.S. 1-53(1).",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 1-47",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch1_1-47",
+            "quote": "Upon a sealed instrument or an instrument of conveyance of an interest in real property, against the principal thereto. Provided, however, that if action on an instrument is filed, the defendant or defendants in such action may file a counterclaim arising out of the same transaction or transactions as are the subject of plaintiff's claim, although a shorter statute of limitations would otherwise apply to defendant's counterclaim.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-725",
+            "quote": "An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 1-50",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch1_1-50",
+            "quote": "No action to recover damages based upon or arising out of the defective or unsafe condition of an improvement to real property shall be brought more than six years from the later of the specific last act or omission of the defendant giving rise to the cause of action or substantial completion of the improvement.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 203PA24 (N.C., filed 20 March 2026)",
+        "name": "Warren v. Cielo Ventures, Inc.",
+        "court": "N.C.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "346b4c3deba3aa28",
+            "cl_opinion_id": "11278539",
+            "quote": "Thus, parties may agree to decrease the general limitation period for bringing claims if: (1) no statute forbids a shorter period, and (2) the shorter period is reasonable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 203PA24 (N.C., filed 20 March 2026)",
+        "name": "Warren v. Cielo Ventures, Inc.",
+        "court": "N.C.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "346b4c3deba3aa28",
+            "cl_opinion_id": "11278539",
+            "quote": "this Court acknowledged more than a century ago that individuals may agree to contractually shorten the time to bring claims arising out of the subject matter of that contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 75-16.2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch75_75-16.2",
+            "quote": "Any civil action brought under this Chapter to enforce the provisions thereof shall be barred unless commenced within four years after the cause of action accrues.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. §§ 1-15, 1-47, 1-50 and 1-52 were read in full, including § 1-52(9) (fraud or mistake: accrual on discovery), § 1-52(16) (the ten-year outside bar on latent personal injury or property damage), § 1-50(a)(5)b-g (what counts as an action arising out of a defective improvement, the 'substantial completion' definition, the possession and fraud exceptions, and subdivision f's statement that the six years is an outside limitation inside which §§ 1-52 and 1-53 continue to run), and § 1-15(a). § 25-2-725 was read in full including (b) accrual on tender of delivery and the future-performance exception, (c) and (d). Warren was read in full: opinion by Berger, J.; there is a dissent, and the quoted sentences are in the majority at characters 8,202 and 7,007 of 39,831; the Court expressly did NOT reach the argument that one-year clauses are unreasonable for UDTPA claims ('As we did not grant discretionary review on this issue, we do not address it'), so this row does not say that a one-year clause is reasonable as a rule — it says the two-prong test and what the Court did on this record. Warren carries no reporter citation in our corpus or in CourtListener's 2026-06-30 citation map, so the citation is the opinion's own docket number and filing date and identity rests on title and year. We hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "liquidated-damages",
+    "rule_id": "nc-liquidated-damages-two-part-test-and-2-718",
+    "question": "Will this liquidated damages clause be enforced, or struck down as a penalty?",
+    "rule": "It is enforced only if it is a genuine pre-estimate. In Knutton the Supreme Court of North Carolina stated the test: 'whether a stipulated sum will be treated as a penalty or as liquidated damages may ordinarily be determined by applying one or more aspects of the following rule: \"[A] stipulated sum is for liquidated damages only (1) where the damages which the parties might reasonably anticipate are difficult to ascertain because of their indefiniteness or uncertainty and (2) where the amount stipulated is either a reasonable estimate of the damages which would probably be caused by a breach or is reasonably proportionate to the damages which have actually been caused by the breach.\"' If the clause passes, the Court said, 'it is the general rule that the amount stipulated in a contract as liquidated damages for a breach thereof, if regarded by the court as liquidated damages and not as a penalty, may be recovered in the event of a breach even though no actual damages are suffered.' For a sale of goods the rule is statutory: N.C.G.S. § 25-2-718(a) allows liquidation 'only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy', and provides that 'a term fixing unreasonably large liquidated damages is void as a penalty'.",
+    "trap": "Two things drafters get backwards. The test is disjunctive on the second limb but conjunctive overall: Knutton's rule requires BOTH that anticipated damages be difficult to ascertain AND that the sum be a reasonable estimate or reasonably proportionate to the damages actually caused — so a clause attached to a breach whose damages are easy to compute fails on the first limb however modest the number. And § 25-2-718(a) lets the court look at ACTUAL harm as well as anticipated harm, so a number that looked reasonable at signing can still be struck if it is unreasonably large against what in fact happened. North Carolina also caps the seller's side of a broken sale in the buyer's favour: § 25-2-718(b) gives a breaching buyer restitution of payments above the seller's liquidated damages, or, absent such a term, above twenty per cent of the value of the total performance or five hundred dollars, whichever is smaller (fifty dollars for a layaway contract at the seller's election), subject to the seller's offsets in (c).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "273 N.C. 355",
+        "name": "Knutton v. Cofield",
+        "court": "N.C.",
+        "decided": "1968",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "273bc3f875a788b9",
+            "cl_opinion_id": "1333964",
+            "quote": "Whether a stipulated sum will be treated as a penalty or as liquidated damages may ordinarily be determined by applying one or more aspects of the following rule: \"[A] stipulated sum is for liquidated damages only (1) where the damages which the parties might reasonably anticipate are difficult to ascertain because of their indefiniteness or uncertainty and (2) where the amount stipulated is either a reasonable estimate of the damages which would probably be caused by a breach or is reasonably proportionate to the damages which have actually been caused by the breach.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "273 N.C. 355",
+        "name": "Knutton v. Cofield",
+        "court": "N.C.",
+        "decided": "1968",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "273bc3f875a788b9",
+            "cl_opinion_id": "1333964",
+            "quote": "it is the general rule that the amount stipulated in a contract as liquidated damages for a breach thereof, if regarded by the court as liquidated damages and not as a penalty, may be recovered in the event of a breach even though no actual damages are suffered.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-718",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-718",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. Knutton was read in the parts bearing on liquidated damages: opinion by Huskins, J.; Bobbitt, J., dissented (Sharp, J., joining) from character 14,314 of 26,516, and both quoted passages are in the majority (characters 7,691 and 11,892). Knutton adopts the quoted rule from 22 Am.Jur.2d Damages § 214 and the row says so by quoting the Court's own framing sentence with it. § 25-2-718 was read in full ((a)-(d)). NOT ASSERTED: whether the Knutton test is applied at the time of contracting or at the time of breach in a modern North Carolina case, and whether a 'reasonable estimate' clause labelled as a fee rather than damages escapes the test — no later North Carolina Supreme Court decision on either point was read. Good-law scan of us-caselaw-nc for '273 N.C. 355' after 1968-03-27: 128 later opinions; every negative-word window cites Knutton for appellate-procedure abandonment or for the trial judge's power to choose among inferences, none for the liquidated-damages rule and none negatively. We hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "non-competition",
+    "rule_id": "nc-non-compete-five-elements-and-the-strict-blue-pencil",
+    "question": "Will a North Carolina court enforce — or narrow — this non-compete?",
+    "rule": "It enforces it whole or not at all. In an employment setting, Whittaker states that covenants not to compete 'are enforceable in this state if they are (1) in writing, (2) made part of a contract of employment, (3) based on valuable consideration, (4) reasonable both as to time and territory, and (5) not against public policy.' Where the covenant is made in connection with the SALE of a business, Beverage Systems states a different three-part test: the Court will enforce it '(1) if it is reasonably necessary to protect the legitimate interest of the purchaser; (2) if it is reasonable with respect to both time and territory; and (3) if it does not interfere with the interest of the public.' A statute adds a formal requirement for either kind: N.C.G.S. § 75-4 provides that no contract or agreement limiting the rights of any person to do business anywhere in the State of North Carolina is enforceable unless it is in writing duly signed by the party who agrees not to enter into that business within that territory. On remedy, North Carolina applies the strict blue pencil doctrine: as the Supreme Court restated it in 2026, 'North Carolina courts will only blue-pencil an unreasonable covenant that is \"separable\" or \"divisible\" from the reasonable, enforceable covenant', because of the traditional contract rule that 'the courts will not rewrite a contract if it is too broad but will simply not enforce it.'",
+    "trap": "You cannot buy reformation by contract. In Beverage Systems the agreement expressly authorised a court to rewrite overbroad temporal and territorial limits, and the Supreme Court refused: 'allowing litigants to assign to the court their drafting duties as parties to a contract would put the court in the role of scrivener, making judges postulate new terms that the court hopes the parties would have agreed to be reasonable at the time the covenant was executed or would find reasonable after the court rewrote the limitation. We see nothing but mischief in allowing such a procedure.' So the reformation clause every out-of-state form carries is worse than useless here: it does not save an overbroad territory, and striking the unreasonable territorial divisions can leave no territory in which to enforce the covenant at all. The drafting consequence is the divisibility of the text itself — a covenant written as separable territorial or temporal units can lose the bad units and keep the good ones, while one written as a single undivided restraint falls entire. NOT ESTABLISHED HERE: what consideration suffices for a covenant signed by an existing employee, and what duration is reasonable — neither question is answered by any authority in this rule.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "324 N.C. 523",
+        "name": "Whittaker General Medical Corp. v. Daniel",
+        "court": "N.C.",
+        "decided": "1989",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "e07bc269441a57d8",
+            "cl_opinion_id": "1205500",
+            "quote": "Such covenants are enforceable in this state if they are (1) in writing, (2) made part of a contract of employment, (3) based on valuable consideration, (4) reasonable both as to time and territory, and (5) not against public policy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "368 N.C. 693",
+        "name": "Beverage Systems of the Carolinas, LLC v. Associated Beverage Repair, LLC",
+        "court": "N.C.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "e0bc331219c99773",
+            "cl_opinion_id": "3186901",
+            "quote": "This Court will enforce a covenant not to compete made in connection with the sale of a business “(1) if it is reasonably necessary to protect the legitimate interest of the purchaser; (2) if it is reasonable with respect to both time and territory; and (3) if it does not interfere with the interest of the public.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "368 N.C. 693",
+        "name": "Beverage Systems of the Carolinas, LLC v. Associated Beverage Repair, LLC",
+        "court": "N.C.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "e0bc331219c99773",
+            "cl_opinion_id": "3186901",
+            "quote": "Allowing litigants to assign to the court their drafting duties as parties to a contract would put the court in the role of scrivener, making judges postulate new terms that the court hopes the parties would have agreed to be reasonable at the time the covenant was executed or would find reasonable after the court rewrote the limitation. We see nothing but mischief in allowing such a procedure.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 68A25 (N.C., filed 22 May 2026)",
+        "name": "Rel. Ins., Inc. v. Pilot Risk Mgmt. Consulting, LLC",
+        "court": "N.C.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "f7c9dcbf1b079091",
+            "cl_opinion_id": "11330790",
+            "quote": "North Carolina courts will only blue-pencil an unreasonable covenant that is “separable” or “divisible” from the reasonable, enforceable covenant.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 68A25 (N.C., filed 22 May 2026)",
+        "name": "Rel. Ins., Inc. v. Pilot Risk Mgmt. Consulting, LLC",
+        "court": "N.C.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "f7c9dcbf1b079091",
+            "cl_opinion_id": "11330790",
+            "quote": "strict application of the doctrine stems from our traditional contract law rule that “[t]he courts will not rewrite a contract if it is too broad but will simply not enforce it.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 75-4",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch75_75-4",
+            "quote": "No contract or agreement hereafter made, limiting the rights of any person to do business anywhere in the State of North Carolina shall be enforceable unless such agreement is in writing duly signed by the party who agrees not to enter into any such business within such territory:",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. THE TWO TESTS ARE KEPT APART on purpose (audit lesson 3): Whittaker states the five-element test for a covenant in a contract of EMPLOYMENT, Beverage Systems the three-part test for a covenant made in connection with the SALE OF A BUSINESS, and neither is served as the other. Whittaker: opinion by Webb, J.; no separate opinion in the published row; quote at character 225 of 8,738. Beverage Systems: opinion by Edmunds, J.; no separate opinion in the published row (the words 'dissenting' at characters 8,433-9,707 are the Court describing the Court of Appeals dissenter below); quotes at characters 11,234 and 16,547. § 75-4 was read in full, including its proviso that nothing in it legalises a contract that is otherwise illegal under Chapter 75. Rel. Ins. (N.C., 22 May 2026) was read in the parts restating the blue-pencil doctrine; it carries NO reporter citation in our corpus and none in CourtListener's 2026-06-30 citation map, so the citation given is the opinion's own docket number and filing date and the corpus check identifies the row by title and year. Good-law scans of us-caselaw-nc: '324 N.C. 523' 32 later opinions, all negative-word windows concern Whittaker's separate holding on novation (whether a second contract 'abrogates' the first), not the covenant test; '368 N.C. 693' 8 later opinions, no negative-word window; the latest opinion citing each is Rel. Ins. itself, which applies both. The row is left untagged for contract type because it mixes an employment rule, a sale-of-business rule and a statute that reaches any person's right to do business. We hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "prompt-payment",
+    "rule_id": "nc-22c-pay-if-paid-unenforceable-seven-days-and-the-residential-exclusion",
+    "question": "Is our 'we pay you when the owner pays us' clause enforceable against the subcontractor?",
+    "rule": "No, within Chapter 22C. N.C.G.S. § 22C-2 provides that performance by a subcontractor in accordance with the provisions of its contract entitles it to payment from the party with whom it contracts, that payment by the owner to a contractor is not a condition precedent for payment to a subcontractor and payment by a contractor to a subcontractor is not a condition precedent for payment to any other subcontractor, 'and an agreement to the contrary is unenforceable'. The clock is statutory: under § 22C-3, when a subcontractor has performed in accordance with its contract the contractor must pay it, and each subcontractor must pay its own subcontractor, within seven days of receipt of each periodic or final payment, the full amount received for that subcontractor's work and materials based on work completed or service provided. Late payment carries interest: § 22C-5 requires the payer to pay interest beginning on the eighth day at one percent per month or a fraction of a month on the unpaid balance.",
+    "trap": "The exclusion section is the first thing to read, not the last. Section 22C-6 makes the whole Chapter inapplicable to residential contractors as defined in G.S. 87-10(1a), to improvements to real property intended for residential purposes that are exempted from Chapter 83A by G.S. 83A-13(c)(1), and to improvements to real property intended for residential purposes 'which consist of 12 or fewer residential units' — so on a small residential job the pay-if-paid clause is not touched by § 22C-2 at all. Second, § 22C-2 kills the CONDITION PRECEDENT, not the contractor's ordinary defences: § 22C-4 preserves the contractor's right, at the time of application and certification to the owner, to withhold certification for payment to a subcontractor for unsatisfactory job progress, defective construction not remedied, disputed work, third party claims filed or reasonable evidence that a claim will be filed, the subcontractor's failure to make timely payments for labor, equipment and materials, damage to the contractor or another subcontractor, reasonable evidence that the subcontract cannot be completed for the unpaid balance, or a reasonable amount of retainage not exceeding the initial percentage the owner retained. Third, the seven-day clock in § 22C-3 runs from the contractor's RECEIPT of a payment, so it does not itself make the owner pay.",
+    "applies_to": [
+      "construction"
+    ],
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22C-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22C_22C-2",
+            "quote": "Performance by a subcontractor in accordance with the provisions of its contract shall entitle it to payment from the party with whom it contracts. Payment by the owner to a contractor is not a condition precedent for payment to a subcontractor and payment by a contractor to a subcontractor is not a condition precedent for payment to any other subcontractor, and an agreement to the contrary is unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22C-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22C_22C-3",
+            "quote": "When a subcontractor has performed in accordance with the provisions of his contract, the contractor shall pay to his subcontractor and each subcontractor shall pay to his subcontractor, within seven days of receipt by the contractor or subcontractor of each periodic or final payment, the full amount received for such subcontractor's work and materials based on work completed or service provided under the subcontract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22C-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22C_22C-5",
+            "quote": "Should any periodic or final payment to a subcontractor be delayed by more than seven days after receipt of periodic or final payment by the contractor or subcontractor, the contractor or subcontractor shall pay his subcontractor interest, beginning on the eighth day, at the rate of one percent (1%) per month or a fraction thereof on such unpaid balance as may be due.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22C-6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22C_22C-6",
+            "quote": "The provisions of this Chapter shall not be applicable to residential contractors as defined in G.S. 87 10(1a), or to improvements to real property intended for residential purposes which are exempted from the application of Chapter 83A of the General Statutes pursuant to G.S. 83A-13(c)(1), or to improvements to real property intended for residential purposes which consist of 12 or fewer residential units.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22C-4",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22C_22C-4",
+            "quote": "Nothing in this Chapter shall prevent the contractor, at the time of application and certification to the owner, from withholding such application and certification to the owner for payment to the subcontractor for: unsatisfactory job progress; defective construction not remedied; disputed work; third party claims filed or reasonable evidence that claim will be filed; failure of subcontractor to make timely payments for labor, equipment, and materials; damage to contractor or another subcontractor; reasonable evidence that subcontract cannot be completed for the unpaid balance of the subcontract sum; or a reasonable amount for retainage not to exceed the initial percentage retained by the owner.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. The whole of Chapter 22C was read: § 22C-1 (definitions of 'contractor', 'improve', 'improvement', 'owner', 'real property' and 'subcontractor'), §§ 22C-2 to 22C-6. The definitions confine the Chapter to a contract to improve real property, which is why the row is tagged applies_to construction. The published § 22C-6 text prints the cross-reference as 'G.S. 87 10(1a)' without the hyphen; the quote reproduces the published text verbatim. NOT ASSERTED: whether a 'pay-if-paid' clause is unenforceable outside Chapter 22C's scope (for example on a residential job of twelve or fewer units), whether § 22C-2 voids a risk-shifting clause drafted as a timing rather than a condition, and whether Chapter 22C applies to public works — no authority on any of those was read. The prompt-payment statutes for public contracts (Article 8 of Chapter 143) were not read. We hold no statute effective dates. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): § 22C-4 read in full (NCGS_ch22C_22C-4); block added."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "statute-of-frauds",
+    "rule_id": "nc-statute-of-frauds-land-suretyship-goods-and-commercial-loan-commitments",
+    "question": "Does this promise have to be in a signed writing to be enforceable in North Carolina?",
+    "rule": "For four common categories, yes. N.C.G.S. § 22-1 bars an action charging a defendant 'upon a special promise to answer the debt, default or miscarriage of another person' unless the agreement, or some memorandum or note of it, is in writing and signed by the party charged or by another person lawfully authorized by him. N.C.G.S. § 22-2 makes all contracts to sell or convey lands, tenements or hereditaments or any interest in or concerning them, and all leases and contracts for leasing land exceeding three years in duration from the making, VOID unless the contract or a memorandum or note of it is put in writing and signed by the party to be charged or by another person lawfully authorized. N.C.G.S. § 22-5 provides that no commercial loan commitment by a bank, savings and loan association or credit union for a loan in excess of fifty thousand dollars is binding unless the commitment is in writing and signed by the party to be bound. And for goods, § 25-2-201(a) makes a contract for the sale of goods for the price of five hundred dollars or more unenforceable by way of action or defense unless there is a record sufficient to indicate a contract for sale has been made and signed by the party against whom enforcement is sought or that party's authorized agent or broker, and not enforceable beyond the quantity of goods shown in the record.",
+    "trap": "The four sections do not fail the same way and do not have the same exceptions. Section 22-2 says such a contract is VOID, while § 22-1 and § 25-2-201 say no action may be brought or the contract is unenforceable — and § 25-2-201 is unenforceable 'by way of action or defense'. Section 25-2-201 carries three statutory escapes § 22-1 and § 22-2 do not: the merchant confirmation rule in (b), under which a record in confirmation received within a reasonable time binds the recipient unless it objects in a record within 10 days after receipt; and in (c), specially manufactured goods on which the seller has substantially begun manufacture or made commitments for procurement, an admission in the party's pleading or testimony (good only up to the quantity admitted), and goods for which payment has been made and accepted or which have been received and accepted. Section 22-5 defines its own subject: a 'commercial loan commitment' is an offer, agreement, commitment or contract to extend credit primarily for business or commercial purposes and does NOT include charge or credit card accounts, personal lines of credit, overdrafts or any other consumer account, and commitments for aquaculture, agricultural or farming purposes are expressly exempted. Section 22-2's three-year rule is about DURATION FROM THE MAKING, not the remaining term. NOT ESTABLISHED HERE: whether part performance takes a land contract out of § 22-2 in North Carolina, and whether a 'no oral modification' clause is enforceable — no authority on either was read.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22-1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22_22-1",
+            "quote": "No action shall be brought whereby to charge an executor, administrator or collector upon a special promise to answer damages out of his own estate or to charge any defendant upon a special promise to answer the debt, default or miscarriage of another person, unless the agreement upon which such action shall be brought, or some memorandum or note thereof, shall be in writing, and signed by the party charged therewith or some other person thereunto by him lawfully authorized.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22_22-2",
+            "quote": "All contracts to sell or convey any lands, tenements or hereditaments, or any interest in or concerning them, and all leases and contracts for leasing land for the purpose of digging for gold or other minerals, or for mining generally, of whatever duration; and all other leases and contracts for leasing lands exceeding in duration three years from the making thereof, shall be void unless said contract, or some memorandum or note thereof, be put in writing and signed by the party to be charged therewith, or by some other person by him thereto lawfully authorized.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22_22-5",
+            "quote": "No commercial loan commitment by a bank, savings and loan association, or credit union for a loan in excess of fifty thousand dollars ($50,000) shall be binding unless the commitment is in writing and signed by the party to be bound.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-201",
+            "quote": "a contract for the sale of goods for the price of five hundred dollars ($500.00) or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party's authorized agent or broker. A record is not insufficient because it omits or incorrectly states a term agreed upon but the contract is not enforceable under this subsection beyond the quantity of goods shown in the record.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. §§ 22-1, 22-2, 22-5 and 25-2-201 were each read in full, including § 25-2-201(b) (merchant confirmations and the 10-day objection) and (c)(1)-(3) (specially manufactured goods, admissions, payment or receipt and acceptance), and § 22-5's own definition and its aquaculture/agricultural/farming exemption. Chapter 66 Article 40 (UETA) bears on whether these writings can be electronic and is in the electronic-signature row: § 66-317(c)-(d) makes an electronic record and an electronic signature satisfy a writing or signature requirement where the Article applies, and § 66-313(b)(2) keeps Chapter 25 other than G.S. 25-1-306, Article 2 and Article 2A outside the Article. NOT ASSERTED: part performance, promissory estoppel, the leading-object rule for suretyship, and the enforceability of a no-oral-modification clause — no North Carolina authority on any of these was read. We hold no statute effective dates."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "nc-tspa-trade-secret-definition-and-the-three-year-clock",
+    "question": "Does our NDA protect this information in North Carolina, and what does the Trade Secrets Protection Act add?",
+    "rule": "The Act protects only what meets its definition, and only for three years from discoverability. Under N.C.G.S. § 66-152(3) a 'trade secret' is business or technical information, including but not limited to a formula, pattern, program, device, compilation of information, method, technique or process, that (a) derives independent actual or potential commercial value from not being generally known or readily ascertainable through independent development or reverse engineering by persons who can obtain economic value from its disclosure or use, and (b) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy. Section 66-153 gives the owner of a trade secret a civil action for misappropriation, which § 66-152(1) defines as acquisition, disclosure or use of another's trade secret without express or implied authority or consent, unless the trade secret was arrived at by independent development or reverse engineering or was obtained from a person with a right to disclose it. Section 66-157 requires an action for misappropriation to be commenced within three years after the misappropriation complained of is or reasonably should have been discovered.",
+    "trap": "The statutory definition does the work the NDA cannot. Information the contract labels 'Confidential Information' but which is readily ascertainable by independent development or reverse engineering is not a trade secret under § 66-152(3)a, and information the owner has not protected by efforts reasonable in the circumstances is not a trade secret under § 66-152(3)b — so the confidentiality programme, not the clause, decides the statutory claim. Section 66-155 puts a real burden on the defendant once the owner gets over a low bar: misappropriation is prima facie established by substantial evidence that the person both knows or should have known of the trade secret and has had a specific opportunity to acquire it for disclosure or use, or has acquired, disclosed or used it without consent — rebutted by substantial evidence of independent development, reverse engineering, or receipt from a person with a right to disclose. Fees run both ways under § 66-154(d): the court may award reasonable attorneys' fees to the prevailing party if a claim of misappropriation is made in bad faith OR if wilful and malicious misappropriation exists. NOT ESTABLISHED HERE: whether the Act displaces a parallel contract or common-law claim — the Article as read contains no displacement provision, and no North Carolina opinion on displacement was read — and whether a confidentiality covenant with no time limit is enforceable as to information that is not a trade secret, on which nothing was read.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-152",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-152",
+            "quote": "\"Trade secret\" means business or technical information, including but not limited to a formula, pattern, program, device, compilation of information, method, technique, or process that: a. Derives independent actual or potential commercial value from not being generally known or readily ascertainable through independent development or reverse engineering by persons who can obtain economic value from its disclosure or use; and b. Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-157",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-157",
+            "quote": "An action for misappropriation of a trade secret must be commenced within three years after the misappropriation complained of is or reasonably should have been discovered.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-154",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-154",
+            "quote": "If a claim of misappropriation is made in bad faith or if willful and malicious misappropriation exists, the court may award reasonable attorneys' fees to the prevailing party.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-153",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-153",
+            "quote": "The owner of a trade secret shall have remedy by civil action for misappropriation of his trade secret.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 66-155",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch66_66-155",
+            "quote": "This prima facie evidence is rebutted by the introduction of substantial evidence that the person against whom relief is sought acquired the information comprising the trade secret by independent development, reverse engineering, or it was obtained from another person with a right to disclose the trade secret.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. Article 24 of Chapter 66 was read section by section: § 66-152 (definitions, in full, including the closing sentence that a trade secret is not negated merely because the information has been independently developed, used or owned by more than one person or licensed to others), § 66-153, § 66-154 (remedies in full: injunction during and after the action, reasonable-royalty conditions, the good-faith-acquirer rule in (a)(2), actual damages measured by economic loss or unjust enrichment whichever is greater in (b), punitive damages in (c), fees in (d)), § 66-155 (burden of proof), § 66-156 (preservation of secrecy) and § 66-157. Sections 66-158 through 66-162 are reserved. There is NO displacement or preemption section in the Article as published, and the row says so rather than asserting either way. No North Carolina appellate opinion was read for this family. We hold no statute effective dates. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): §§ 66-153 and 66-155 read in full (NCGS_ch66_66-153, NCGS_ch66_66-155); blocks added."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "unconscionability",
+    "rule_id": "nc-unconscionability-procedural-and-substantive-and-the-jury-waiver-void",
+    "question": "Can the other side get out of this clause by calling it unconscionable in North Carolina?",
+    "rule": "Rarely, and only by proving both halves. In Brenner the Supreme Court of North Carolina stated that 'a court will generally refuse to enforce a contract on the ground of unconscionability only when the inequality of the bargain is so manifest as to shock the judgment of a person of common sense, and where the terms are so oppressive that no reasonable person would make them on the one hand, and no honest and fair person would accept them on the other', and that 'in determining whether a contract is unconscionable, a court must consider all the facts and circumstances of a particular case. If the provisions are then viewed as so one-sided that the contracting party is denied any opportunity for a meaningful choice, the contract should be found unconscionable.' Tillman states the two-part structure: 'a party asserting that a contract is unconscionable must prove both procedural and substantive unconscionability', where procedural unconscionability 'involves \"bargaining naughtiness\" in the form of unfair surprise, lack of meaningful choice, and an inequality of bargaining power' and 'substantive unconscionability, on the other hand, refers to harsh, one-sided, and oppressive contract terms'. The two trade off: Tillman notes that 'while the presence of both procedural and substantive problems is necessary for an ultimate finding of unconscionability, such a finding may be appropriate when a contract presents pronounced substantive unfairness and a minimal degree of procedural unfairness, or vice versa'. For a sale of goods the remedy is statutory: § 25-2-302(a) lets a court that finds a contract or clause unconscionable as a matter of law at the time it was made refuse to enforce the contract, enforce the remainder without the unconscionable clause, or limit the clause's application to avoid an unconscionable result.",
+    "trap": "North Carolina has one clause that is unconscionable by statute rather than by proof: under § 22B-10 'any provision in a contract requiring a party to the contract to waive his right to a jury trial is unconscionable as a matter of law and the provision shall be unenforceable', and the same section says it does not prohibit agreements to arbitrate or other alternative dispute resolution. So the jury-waiver paragraph in a standard commercial form is dead on arrival in a North Carolina court while an arbitration clause is not — no bargaining-power evidence required either way. Outside that statute the doctrine is demanding, and the words of the test are the reason: 'shock the judgment of a person of common sense' and terms 'no honest and fair person would accept'. Section 25-2-302(b) also gives both sides a procedural right the drafter should expect to use: when it is claimed or appears that a contract or clause may be unconscionable, the parties must be afforded a reasonable opportunity to present evidence of its commercial setting, purpose and effect. Do not carry Tillman's arbitration-specific findings into a clause the Federal Arbitration Act governs: the Court of Appeals in Torrence v. Nationwide Budget Finance held that \"the legal theories upon which Tillman's substantive unconscionability analysis is based have been undermined by subsequent decisions of the United States Supreme Court in the context of cases under the FAA\" (prohibitive arbitration costs, one-sidedness, a class-action bar) and that \"the one-sided quality of an arbitration agreement is not sufficient to find it substantively unconscionable.\" Tillman's two-part test itself is what Torrence applied; it is the arbitration holdings that fell.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "302 N.C. 207",
+        "name": "Brenner v. Little Red School House, Ltd.",
+        "court": "N.C.",
+        "decided": "1981",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "53a481553975c859",
+            "cl_opinion_id": "1299057",
+            "quote": "A court will generally refuse to enforce a contract on the ground of unconscionability only when the inequality of the bargain is so manifest as to shock the judgment of a person of common sense, and where the terms are so oppressive that no reasonable person would make them on the one hand, and no honest and fair person would accept them on the other.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "302 N.C. 207",
+        "name": "Brenner v. Little Red School House, Ltd.",
+        "court": "N.C.",
+        "decided": "1981",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "53a481553975c859",
+            "cl_opinion_id": "1299057",
+            "quote": "In determining whether a contract is unconscionable, a court must consider all the facts and circumstances of a particular case. If the provisions are then viewed as so one-sided that the contracting party is denied any opportunity for a meaningful choice, the contract should be found unconscionable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "362 N.C. 93",
+        "name": "Tillman v. Commercial Credit Loans, Inc.",
+        "court": "N.C.",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "3c63afbbe3004507",
+            "cl_opinion_id": "1224095",
+            "quote": "A party asserting that a contract is unconscionable must prove both procedural and substantive unconscionability.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "362 N.C. 93",
+        "name": "Tillman v. Commercial Credit Loans, Inc.",
+        "court": "N.C.",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "3c63afbbe3004507",
+            "cl_opinion_id": "1224095",
+            "quote": "According to Rite Color Chemical Co., procedural unconscionability involves \"bargaining naughtiness\" in the form of unfair surprise, lack of meaningful choice, and an inequality of bargaining power. 105 N.C.App. at 20 , 411 S.E.2d at 648 . Substantive unconscionability, on the other hand, refers to harsh, one-sided, and oppressive contract terms.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "362 N.C. 93",
+        "name": "Tillman v. Commercial Credit Loans, Inc.",
+        "court": "N.C.",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "3c63afbbe3004507",
+            "cl_opinion_id": "1224095",
+            "quote": "Therefore, we note that while the presence of both procedural and substantive problems is necessary for an ultimate finding of unconscionability, such a finding may be appropriate when a contract presents pronounced substantive unfairness and a minimal degree of procedural unfairness, or vice versa.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-10",
+            "quote": "Any provision in a contract requiring a party to the contract to waive his right to a jury trial is unconscionable as a matter of law and the provision shall be unenforceable. This section does not prohibit parties from entering into agreements to arbitrate or engage in other forms of alternative dispute resolution.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "232 N.C. App. 306",
+        "name": "Torrence v. Nationwide Budget Finance",
+        "court": "N.C. App.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "9b47e386801e3036",
+            "cl_opinion_id": "2729140",
+            "quote": "Thus, the legal theories upon which Tillman’s substantive unconscionability analysis is based have been undermined by subsequent decisions of the United States Supreme Court in the context of cases under the FAA.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "232 N.C. App. 306",
+        "name": "Torrence v. Nationwide Budget Finance",
+        "court": "N.C. App.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "9b47e386801e3036",
+            "cl_opinion_id": "2729140",
+            "quote": "We must therefore hold that the one-sided quality of an arbitration agreement is not sufficient to find it substantively unconscionable.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. GOOD-LAW CAVEAT, STATED BECAUSE IT MATTERS: Tillman held the arbitration clause in the plaintiffs' consumer loan agreements unconscionable, resting in part on the clause's prohibition of joinder and class actions. The North Carolina Court of Appeals has since described Tillman as abrogated on that point — Torrence v. Nationwide Budget Finance (Ct. App. 2014) addressed whether AT&T Mobility LLC v. Concepcion overruled Tillman, and Musselwhite v. Cheshire (Ct. App. 2019) cites Tillman's procedural/substantive definitions with the parenthetical 'abrogated as discussed in Torrence'. THIS ROW THEREFORE SERVES ONLY Tillman's general two-part unconscionability test, which those later opinions continue to apply, and does NOT serve its arbitration-specific or class-waiver reasoning. Neither Concepcion nor Torrence is an authority in this row: Concepcion was not read in our corpus and Torrence is a Court of Appeals decision, so both are recorded here rather than relied on. Tillman: opinion by Timmons-Goodson, J.; Edmunds, J., concurred in the result only from character 38,120 of 102,887; all three quoted passages are in the majority (characters 20,368, 21,591 and 22,165). The second Tillman quote reproduces the published row's inline citation to Rite Color Chemical Co. verbatim, because verbatim is the rule. Brenner: opinion by Copeland, J.; no separate opinion; quotes at characters 7,567 and 8,080 of 15,820. §§ 25-2-302 and 22B-10 were read in full. Good-law scan for '302 N.C. 207' after 1981-02-02: 62 later opinions, no negative-word window. We hold no statute effective dates. LATER-TREATMENT SCAN 2026-09-22 (the DocketX contract-law audit of 2026-09-22): Torrence v. Nationwide Budget Finance (N.C. App. 2014) reads Tillman's arbitration-clause holdings (cost, one-sidedness, class waiver) as undermined by Concepcion and Italian Colors where the FAA governs, while applying Tillman's procedural-plus-substantive structure itself. The rule uses only the structure; the trap now says which part fell. Two Torrence sentences added verbatim."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "usury",
+    "rule_id": "nc-usury-cap-with-the-exempt-loan-carve-out",
+    "question": "Is the interest rate in this North Carolina loan lawful, and can the borrower raise usury?",
+    "rule": "It depends first on whether the loan is exempt, and most business loans are. N.C.G.S. § 24-9(a)(3) defines an 'exempt loan' as one in which the loan amount is three hundred thousand dollars or more, OR the borrower is a person other than a natural person, OR the loan is obtained by a natural person primarily for a purpose other than a personal, family or household purpose. For such a loan § 24-9(b) provides that, notwithstanding any other provision of the Chapter or of State law, the borrower may agree to pay and the lender may charge and collect interest at any rate and fees and other charges in any amount that the borrower agrees to pay, and 'a claim or defense of usury is prohibited in an exempt loan transaction'. Outside the exemption, § 24-1.1(a) lets the parties to a loan, purchase money loan, advance, commitment for a loan or forbearance — other than a credit card, open-end or similar loan — contract in writing for interest not in excess of the rate set under subsection (c) where the principal is twenty-five thousand dollars or less, and any rate agreed upon where the principal is more than twenty-five thousand dollars. The remedy, where usury applies, is in § 24-2: knowingly taking, receiving, reserving or charging a greater rate than permitted forfeits the ENTIRE interest the note carries, and a person who has paid a greater rate may recover back twice the amount of interest paid.",
+    "trap": "The order of the questions is the trap. Because § 24-9(b) prohibits the claim or defense of usury outright in an exempt loan, a corporate or LLC borrower — a 'person other than a natural person' — has no usury defense at all, whatever the rate and whatever the size of the loan; so does any borrower on a loan of $300,000 or more, and any natural person borrowing primarily for a non-consumer purpose, which § 24-9(a)(3)c says is judged by the standards of the federal Truth In Lending Act. The $25,000 figure in § 24-1.1(a) is not a rate: below it the ceiling is the rate the Commissioner of Banks announces on the fifteenth of each month under subsection (c) — the latest published noncompetitive six-month U.S. Treasury bill rate plus six percent, rounded to the nearest half percent, or sixteen percent, whichever is greater — and that announced rate governs loans made in the following calendar month. Section 24-1's eight percent is the LEGAL rate that applies where no rate is contracted for, not a contract ceiling. And § 24-9(c) and (d) let a bank charge any agreed rate on a qualifying equity line of credit or a revolving credit card plan, subject to the sections they name. Federal preemption of State rate limits was not read and is not addressed here. One thing the section does not licence, whatever rate applies: “Nothing in this section authorizes the charging of interest on committed funds prior to the disbursement of the funds.” A commitment fee is not interest on money that has not gone out the door.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 24-9",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch24_24-9",
+            "quote": "\"Exempt loan\" means a loan in which: a. The loan amount is three hundred thousand dollars ($300,000) or more; or b. The borrower is a person other than a natural person; or c. The loan is obtained by a natural person primarily for a purpose other than a personal, family, or household purpose.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 24-9",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch24_24-9",
+            "quote": "any borrower in an exempt loan transaction may agree to pay, and any lender, including a bank, may charge and collect from the borrower, interest at any rate and fees and other charges in any amount that the borrower agrees to pay. A claim or defense of usury is prohibited in an exempt loan transaction.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 24-1.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch24_24-1.1",
+            "quote": "the parties to a loan, purchase money loan, advance, commitment for a loan, or forbearance, other than a credit card, open-end, or similar loan, may contract in writing for the payment of interest not in excess of the following: (1) Where the principal amount is twenty-five thousand dollars ($25,000) or less, the rate set under subsection (c) of this section. (2) Any rate agreed upon by the parties where the principal amount is more than twenty-five thousand dollars ($25,000).",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 24-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch24_24-2",
+            "quote": "The taking, receiving, reserving or charging a greater rate of interest than permitted by this chapter or other applicable law, either before or after the interest may accrue, when knowingly done, shall be a forfeiture of the entire interest which the note or other evidence of debt carries with it, or which has been agreed to be paid thereon. And in case a greater rate of interest has been paid, the person or his legal representatives or corporation by whom it has been paid, may recover back twice the amount of interest paid in an action in the nature of action for debt.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 24-1.1",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch24_24-1.1",
+            "quote": "Nothing in this section authorizes the charging of interest on committed funds prior to the disbursement of the funds.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. THIS ROW WAS WRITTEN AGAINST AUDIT FINDING 18 (the Delaware usury row served the opposite of the law for an entity borrower because it never read the section two doors down): § 24-9 was read FIRST and in full, including the definitions of 'bank', 'equity line of credit' and 'loan amount' in (a), the exempt-loan rule in (b), and the bank equity-line and credit-card rules in (c) and (d). §§ 24-1, 24-1.1 (in full, including the monthly announced rate in (c), the modification fee in (d), the origination fees and the 36% APR ceiling for small consumer loans in (e), and (f)'s statement that the section does not limit fees on loans over $300,000), 24-2 and 24-10 were also read in full. § 24-1's eight percent is expressly 'Except as otherwise provided in G.S. 136-113'. NOT ADDRESSED: federal preemption (National Bank Act, DIDMCA) of North Carolina rate limits, the high-cost home loan provisions of § 24-1.1E, and § 24-10.2 — none of these was read for this row. No North Carolina appellate opinion was read for this family. We hold no statute effective dates, so which version of § 24-1.1 or § 24-9 governed a given loan cannot be answered from the corpus. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "venue-selection",
+    "rule_id": "nc-22b-3-voids-out-of-state-forum-clauses-in-contracts-made-here",
+    "question": "Will North Carolina enforce our clause requiring suit in another state?",
+    "rule": "Not if the contract was entered into in North Carolina. N.C.G.S. § 22B-3 provides that, except as otherwise provided in the section, 'any provision in a contract entered into in North Carolina that requires the prosecution of any action or the arbitration of any dispute that arises from the contract to be instituted or heard in another state is against public policy and is void and unenforceable', and excepts non-consumer loan transactions and any action or arbitration commenced in another state pursuant to a forum selection provision with the consent of all parties at the time the dispute arises. Where § 22B-3 does not reach the contract, the common-law rule of Perkins governs: 'we embrace the modern view and hold that forum selection clauses are valid in North Carolina. A plaintiff who executes a contract that designates a particular forum for the resolution of disputes and then files suit in another forum seeking to avoid enforcement of a forum selection clause carries a heavy burden and must demonstrate that the clause was the product of fraud or unequal bargaining power or that enforcement of the clause would be unfair or unreasonable.' A second statute voids the clause by subject matter rather than by place of making: § 22B-2 voids a provision of any contract, subcontract or purchase order for the improvement of real property in this State, or the providing of materials for it, that makes another state the exclusive forum for any litigation, arbitration or other dispute resolution process.",
+    "trap": "Three distinctions decide these fights, and the boilerplate blurs all three. First, place of MAKING, not place of performance or of the parties, is what § 22B-3 turns on, and the section's own exceptions are narrow: a non-consumer loan transaction, and consent given at the time the dispute arises — a consent buried in the original contract is not consent 'at the time that the dispute arises'. Second, Perkins itself distinguishes a clause fixing venue in another STATE from one fixing venue within North Carolina: 'there is a difference between attempting to fix the venue by contract within the State of North Carolina, where the North Carolina legislature provides for venue in all cases' and fixing venue in another state, and the Court left the older rule against contractual venue-fixing inside North Carolina standing on its facts. Third, Johnston County v. R. N. Rouse & Co. holds these are three different clauses with very distinct purposes: the provision there, by which the contractor 'agrees to submit itself to the jurisdiction of the courts of the State of North Carolina', was 'a consent to jurisdiction clause, whereby the contractor, in this case Rouse, waived any right to challenge the North Carolina courts' exercise of personal jurisdiction over it' — not a forum selection clause at all. One more North Carolina clause to delete: § 22B-10 makes a contractual jury-trial waiver unconscionable as a matter of law and unenforceable. Delete that one only. The same section says “This section does not prohibit parties from entering into agreements to arbitrate or engage in other forms of alternative dispute resolution.”, which matters more here than anywhere else in this store, because the clause § 22B-10 does not touch is the arbitration agreement this rule is about — what North Carolina attacks there is the out-of-state seat under § 22B-3 and § 22B-2, not the promise to arbitrate.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-3",
+            "quote": "any provision in a contract entered into in North Carolina that requires the prosecution of any action or the arbitration of any dispute that arises from the contract to be instituted or heard in another state is against public policy and is void and unenforceable. This prohibition shall not apply to non-consumer loan transactions or to any action or arbitration of a dispute that is commenced in another state pursuant to a forum selection provision with the consent of all parties to the contract at the time that the dispute arises.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-2",
+            "quote": "A provision in any contract, subcontract, or purchase order for the improvement of real property in this State, or the providing of materials therefor, is void and against public policy if it makes the contract, subcontract, or purchase order subject to the laws of another state, or provides that the exclusive forum for any litigation, arbitration, or other dispute resolution process is located in another state.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-10",
+            "quote": "Any provision in a contract requiring a party to the contract to waive his right to a jury trial is unconscionable as a matter of law and the provision shall be unenforceable. This section does not prohibit parties from entering into agreements to arbitrate or engage in other forms of alternative dispute resolution.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "333 N.C. 140",
+        "name": "Perkins v. CCH Computax, Inc.",
+        "court": "N.C.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "4e412385286696f7",
+            "cl_opinion_id": "9625959",
+            "quote": "For the foregoing reasons, we embrace the modern view and hold that forum selection clauses are valid in North Carolina. A plaintiff who executes a contract that designates a particular forum for the resolution of disputes and then files suit in another forum seeking to avoid enforcement of a forum selection clause carries a heavy burden and must demonstrate that the clause was the product of fraud or unequal bargaining power or that enforcement of the clause would be unfair or unreasonable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "333 N.C. 140",
+        "name": "Perkins v. CCH Computax, Inc.",
+        "court": "N.C.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "4e412385286696f7",
+            "cl_opinion_id": "9625959",
+            "quote": "There is a difference between attempting to fix the venue by contract within the State of North Carolina, where the North Carolina legislature provides for venue in all cases",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "331 N.C. 88",
+        "name": "Johnston County v. R. N. Rouse & Co.",
+        "court": "N.C.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nc",
+            "row_id": "19023a451bd7beac",
+            "cl_opinion_id": "1235706",
+            "quote": "this provision is a consent to jurisdiction clause, whereby the contractor, in this case Rouse, waived any right to challenge the North Carolina courts’ exercise of personal jurisdiction over it.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 22B-10",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch22B_22B-10",
+            "quote": "This section does not prohibit parties from entering into agreements to arbitrate or engage in other forms of alternative dispute resolution.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. §§ 22B-2, 22B-3 and 22B-10 were read in full. Perkins was read in full: opinion by Meyer, J.; a dissent begins at character 13,265 of 14,652 and both quoted passages are in the majority (characters 12,764 and 4,634). Rouse: opinion by Meyer, J.; no separate opinion in the published row. ORDER OF AUTHORITY, STATED RATHER THAN GLOSSED: Perkins was decided 18 December 1992 and § 22B-3 was enacted the following year (published source line '1993, c. 436, s. 2; 1995, c. 100, s. 1'); the North Carolina Court of Appeals has said in terms that § 22B-3 'specifically overrules the holding in Perkins v. CCH Computax, Inc.' while noting that Perkins continues to be cited on the validity of forum selection clauses formed in this state (Szymczyk v. Signs Now Corp., Ct. App. 2005, found by the good-law scan). That Court of Appeals opinion is NOT an authority in this row; the row states the statute as the operative rule for a contract entered into in North Carolina and Perkins as the rule where the statute does not reach, which is what the two texts say. Good-law scan of us-caselaw-nc: '333 N.C. 140' 18 later opinions, the only negative-word window is the Szymczyk passage just described; '331 N.C. 88' 79 later opinions, no negative window touching Rouse's clause taxonomy. NOT VERIFIED: whether the Federal Arbitration Act preempts § 22B-3 as to an out-of-state arbitral seat, and whether § 22B-3 applies to a contract negotiated across state lines — no authority on either was read. We hold no statute effective dates. LATER-TREATMENT SCAN 2026-09-22 (the DocketX contract-law audit of 2026-09-22): a later Court of Appeals opinion notes that § 22B-3, 'passed in 1993, specifically overrules the holding in Perkins ... which held that forum selection clauses were valid in North Carolina, although this case has continued to be cited by this Court'. The rule already confines Perkins to contracts § 22B-3 does not reach, which is that relationship exactly. CORRECT. SCOPE AUDIT 2026-09-24: this row ended with the same half-quoted § 22B-10 sentence that was corrected the same day in nc-exculpatory-clauses-enforceable-but-strictly-construed, and here the omission was worse: a rule whose whole subject is arbitration and forum clauses told the reader to delete a jury-trial waiver without saying that the same section expressly leaves arbitration agreements alone. The carve-out is now quoted with its own verified block. Checked at the same time and NOT changed: nc-ruaa-validity-and-the-22b-3-out-of-state-seat-void already states the carve-out in its trap."
+  },
+  {
+    "jurisdiction": "nc",
+    "clause": "warranty-disclaimer",
+    "rule_id": "nc-2-316-conspicuous-disclaimer-and-the-totality-test-for-conspicuousness",
+    "question": "Is our 'AS IS, NO WARRANTIES' disclaimer effective in North Carolina?",
+    "rule": "Yes if it satisfies one of the two routes N.C.G.S. § 25-2-316 provides. Under subsection (b), which is itself expressly 'Subject to subsection (c)', to exclude or modify the implied warranty of merchantability the language must mention merchantability and, in a writing, must be conspicuous; to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Subsection (c)(1) is the alternative route and begins 'Notwithstanding subsection (b)': unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like 'as is', 'with all faults' or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty. Two more exclusions sit in the same subsection: (c)(2), where the buyer before entering the contract has examined the goods, sample or model as fully as desired or has refused to examine them, there is no implied warranty as to defects an examination ought to have revealed; and (c)(3), an implied warranty can be excluded or modified by course of dealing, course of performance or usage of trade.",
+    "trap": "North Carolina's conspicuousness test is not a typography rule. Section 25-1-201(b)(10) defines 'conspicuous', with reference to a term, as 'so written, displayed, or presented that, based on the totality of the circumstances, a reasonable person against which it is to operate ought to have noticed it', and adds that whether a term is conspicuous 'is a decision for the court' — so all-caps is evidence, not a safe harbour, and the judge decides. Two further points from the section itself. Subsection (a) subordinates the whole disclaimer to the parol evidence section: words or conduct creating an express warranty and words tending to negate or limit warranty are construed wherever reasonable as consistent, but 'subject to the provisions of this article on parol or extrinsic evidence (G.S. 25-2-202) negation or limitation is inoperative to the extent that such construction is unreasonable' — so a disclaimer cannot take back an express warranty the same document gives. And subsection (d) sends limits on the REMEDY for breach of warranty to §§ 25-2-718 and 25-2-719 rather than to this section, which is where a consequential-damages exclusion is judged.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-316",
+            "quote": "Subject to subsection (c) [of this section], to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-2-316",
+            "quote": "unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is,\" \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.C.G.S. § 25-1-201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NCGS_ch25_25-1-201",
+            "quote": "Conspicuous. - With reference to a term, means so written, displayed, or presented that, based on the totality of the circumstances, a reasonable person against which it is to operate ought to have noticed it. Whether a term is \"conspicuous\" or not is a decision for the court.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Written 2026-09-17 to the bar of the DocketX contract-law audit of 2026-09-17. § 25-2-316 was read in full ((a)-(d)), and the definition of 'conspicuous' was read in § 25-1-201(b)(10) — note that the published North Carolina definition is the totality-of-the-circumstances form, not the older 'a reasonable person against whom it is to operate ought to have noticed it' list of typographic safe harbours; the row states the published text and nothing more. §§ 25-2-718 and 25-2-719, which subsection (d) points to, are the authorities for the liquidated-damages and limitation-of-remedy rows. NOT ASSERTED: whether a disclaimer the buyer could not have seen before the sale is ineffective (the audit's finding 9 against the Illinois row), whether a post-sale disclaimer in a manual or shrink-wrap is effective, and whether North Carolina has a consumer-specific limit on disclaimers — no North Carolina opinion was read for this family and no such section was found in the published shard. The row is left untagged for contract type because whether Article 2 governs a mixed goods-and-services or software transaction is not a question this row answers. We hold no statute effective dates."
+  }
+]

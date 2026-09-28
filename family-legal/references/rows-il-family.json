@@ -1,0 +1,665 @@
+[
+ {
+  "jurisdiction": "il",
+  "clause": "residency-and-venue",
+  "rule_id": "il-ninety-days-residence-or-military-presence-and-county-of-either-partys-residence-for-venue",
+  "question": "How long must a spouse have a connection to Illinois before an Illinois court can grant a divorce, and which county?",
+  "rule": "Ninety days, not six months, and only one spouse has to meet it — either by residing in Illinois or by being stationed there as a member of the armed services. 750 ILCS 5/401(a): \"The court shall enter a judgment of dissolution of marriage when at the time the action was commenced one of the spouses was a resident of this State or was stationed in this State while a member of the armed services, and the residence or military presence had been maintained for 90 days next preceding the commencement of the action or the making of the finding:\". Venue lies in the county where the plaintiff OR the defendant resides. 750 ILCS 5/104: \"The proceedings shall be had in the county where the plaintiff or defendant resides, except as otherwise provided herein, but process may be directed to any county in the State. Objection to venue is barred if not made within such time as the defendant's response is due. In no event shall venue be deemed jurisdictional. In any case brought pursuant to this Act where neither the petitioner nor respondent resides in the county in which the initial pleading is filed, the petitioner shall file with the initial pleading a written motion, which shall be set for hearing and ruled upon before any other issue is taken up, advising that the forum selected is not one of proper venue and seeking an appropriate order from the court allowing a waiver of the venue requirements of this Section.\"",
+  "trap": "Texas requires six months of state domicile PLUS a separate 90-day county residency, both measured backward from filing, by either spouse (Tex. Fam. Code § 6.301; see rows-tx-family.json). Illinois is a single 90-day period, and it can be satisfied by military presence instead of residence. Also, Illinois venue is explicitly NOT jurisdictional (\"In no event shall venue be deemed jurisdictional\") — an objection to the wrong county is waived if not raised within the time the defendant's response is due, and if NEITHER party lives in the filing county, the Act supplies its own cure: the petitioner files a written motion seeking a court-ordered waiver of the venue requirement, resolved before any other issue. A litigant who assumes an Illinois divorce requires six months in the state, like Texas, will overstate the wait; a litigant who assumes a venue objection can be raised at any time will lose it by missing the response deadline.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/401",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-401",
+      "quote": "The court shall enter a judgment of dissolution of marriage when at\nthe time the action was commenced one of the spouses was a resident of this\nState or was stationed in this State while a member of the armed services,\nand the residence or military presence had been maintained for 90 days next\npreceding the commencement of the action or the making of the finding:",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/104",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-104",
+      "quote": "The proceedings shall be had in the county\nwhere the plaintiff or defendant resides,\nexcept as otherwise\nprovided herein, but process may be directed to any county in\nthe State. Objection to venue is barred if not made within\nsuch time as the defendant's response is\ndue. In no event shall venue be deemed jurisdictional.\nIn any case brought pursuant to this Act where neither the petitioner nor respondent resides in the county in which the initial pleading is filed, the petitioner shall file with the initial pleading a written motion, which shall be set for hearing and ruled upon before any other issue is taken up, advising that the forum selected is not one of proper venue and seeking an appropriate order from the court allowing a waiver of the venue requirements of this Section.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/401 (row ILCS_750_ILCS_5-401, the (a) lead-in through the colon that introduces the irreconcilable-differences finding) and 750 ILCS 5/104 (row ILCS_750_ILCS_5-104, quoted in full). Full-text search of the 750 ILCS 5/ shard (135 sections) confirms § 104 is the Act's only venue provision."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "grounds",
+  "rule_id": "il-irreconcilable-differences-alone-is-the-ground-with-an-irrebuttable-six-month-separation-presumption",
+  "question": "Does an Illinois divorce require proving fault, or is irreconcilable differences enough?",
+  "rule": "Illinois is a no-fault-only state: the sole ground in the current Act is irreconcilable differences, and living apart for six months creates an IRREBUTTABLE presumption that the ground is met. 750 ILCS 5/401(a): \"Irreconcilable differences have caused the irretrievable breakdown of the marriage and the court determines that efforts at reconciliation have failed or that future attempts at reconciliation would be impracticable and not in the best interests of the family.\" 750 ILCS 5/401(a-5): \"If the parties live separate and apart for a continuous period of not less than 6 months immediately preceding the entry of the judgment dissolving the marriage, there is an irrebuttable presumption that the requirement of irreconcilable differences has been met.\"",
+  "trap": "Texas keeps fault grounds (cruelty, adultery, three-years-apart, confinement) on the books alongside no-fault insupportability (Tex. Fam. Code §§ 6.001-6.007; see rows-tx-family.json). Illinois abolished fault grounds in the current Marriage and Dissolution of Marriage Act — irreconcilable differences under § 401(a) is the only ground stated in this Section, and the six-month separation presumption in (a-5) is IRREBUTTABLE, not merely rebuttable like most of the Act's other property and support presumptions (contrast 750 ILCS 5/503(a)'s marital-property presumption, which is overcome by clear and convincing evidence). A person expecting to contest \"whose fault this was\" as part of the grounds finding will find no fault-based grounds provision in this Section to contest.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/401",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-401",
+      "quote": "Irreconcilable differences have caused the irretrievable breakdown of the marriage and the court determines that efforts at reconciliation have failed or that future attempts at reconciliation would be impracticable and not in the best interests of the family.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/401",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-401",
+      "quote": "If the parties live separate and apart for a continuous period of not less than 6 months immediately preceding the entry of the judgment dissolving the marriage, there is an irrebuttable presumption that the requirement of irreconcilable differences has been met.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/503",
+    "verified": {
+     "checked": "2026-09-22",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-503",
+      "quote": "The presumption of marital property is overcome by showing through clear and convincing evidence that the property was acquired by a method listed in subsection (a) of this Section",
+      "checked": "2026-09-22"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/401, row ILCS_750_ILCS_5-401, subsections (a) (the finding sentence) and (a-5) (the six-month presumption), each quoted in full. This row does not reach whether Illinois case law recognizes any surviving fault-based ground outside this Section (none was searched for in docketx/us-caselaw-il for this pass) — NOT ESTABLISHED beyond what § 401's own text states. PACK PROSE-CITATION AND CORPUS-CLAIM SWEEP 2026-09-22: the trap contrasts § 503(a)'s marital-property presumption ('overcome by clear and convincing evidence') without citing § 503; section read and blocked."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "waiting-period",
+  "rule_id": "il-no-post-filing-waiting-period-in-the-act-only-a-post-trial-judgment-entry-deadline",
+  "question": "Is there a minimum number of days after filing before an Illinois court can grant the divorce, the way Texas has a 60-day floor?",
+  "rule": "NOT ESTABLISHED. A full-text search of every section of the Illinois Marriage and Dissolution of Marriage Act (750 ILCS 5/, 135 sections) for \"waiting period\" returns zero hits, and no section states that a judgment may not be entered before a fixed number of days after filing. The only day-count the Act ties to judgment timing runs the OPPOSITE direction and at a different stage: 750 ILCS 5/413(a) sets a deadline for the court to enter judgment AFTER trial, not a floor before it: \"A judgment of dissolution of marriage or of legal separation or of declaration of invalidity of marriage shall be entered within 60 days of the closing of proofs; however, if the court enters an order specifying good cause as to why the court needs an additional 30 days, the judgment shall be entered within 90 days of the closing of proofs, including any hearing under subsection (j) of Section 503 of this Act and submission of closing arguments.\"",
+  "trap": "Do not read the \"60 days\" in § 413(a) as Illinois's version of the Texas 60-day floor in Tex. Fam. Code § 6.702 (see rows-tx-family.json) — they run in opposite directions. The Texas clock is a MINIMUM wait measured from FILING before a decree can be signed at all. The Illinois clock in § 413(a) is a MAXIMUM the court may take to enter judgment, measured from the CLOSE OF PROOFS (i.e., after the evidence is in), not from filing, and it is a deadline on the court, not a floor for the parties. Nothing in this Act's text tells a litigant how soon, at the earliest, an uncontested Illinois divorce can be finalized after filing.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/413",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-413",
+      "quote": "A judgment of dissolution\nof marriage or of legal separation or of declaration of invalidity of marriage shall be entered within 60 days of the closing of proofs; however, if the court enters an order specifying good cause as to why the court needs an additional 30 days, the judgment shall be entered within 90 days of the closing of proofs, including any hearing under subsection (j) of Section 503 of this Act and submission of closing arguments.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "HONEST NEGATIVE, RECORDED. Every one of the 135 sections filed under 750 ILCS 5/ was searched (via an index built from docketx/us-statutes, jurisdiction il) for \"waiting period\", \"may not enter a judgment\"/\"may not enter judgment\", \"shall not enter a judgment\", and \"shall not be entered before\" — all zero hits within the Act. The § 413(a) quote above is cited to show what WAS found (a post-trial entry deadline) so the honest negative is not left bare; it does not answer the question asked. Status is marked 'verified' because the § 413(a) quote itself is corpus-verified, not because a waiting period was found."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "marital-vs-non-marital-property",
+  "rule_id": "il-marital-property-is-presumed-except-a-closed-nonmarital-list-and-commingling-follows-an-identity-test",
+  "question": "Is a given asset marital or non-marital property in an Illinois divorce?",
+  "rule": "Illinois presumes property acquired during the marriage is MARITAL, with a closed list of exceptions defining non-marital property, and a rebuttable presumption reinforces it. 750 ILCS 5/503(a): \"For purposes of this Act, \\\"marital property\\\" means all property, including debts and other obligations, acquired by either spouse subsequent to the marriage, except the following, which is known as \\\"non-marital property\\\":\" (the list includes gift/legacy/descent property, property acquired in exchange for pre-marital or excluded property, post-legal-separation acquisitions, and property excluded by a valid premarital or postnuptial agreement). 750 ILCS 5/503(b)(1): \"For purposes of distribution of property, all property acquired by either spouse after the marriage and before a judgment of dissolution of marriage or declaration of invalidity of marriage is presumed marital property.\" Commingled property follows an identity test under 750 ILCS 5/503(c): if contributed property \"loses its identity, the contributed property transmutes to the estate receiving the property, subject to the provisions of paragraph (2) of this subsection (c)\"; if it \"retains its identity, it does not transmute and remains property of the contributing estate.\"",
+  "trap": "The (a) list is a closed set of exceptions, not an open one — anything acquired during the marriage that doesn't fit gift/legacy/descent, an exchange for excluded property, post-separation acquisition, or a valid agreement's exclusion is marital, mirroring the Texas closed-list structure in Tex. Fam. Code §§ 3.001-3.002 (see rows-tx-family.json) but built the opposite way round: Texas defines separate property as the closed list and treats community property as everything else, while Illinois defines NON-marital property as the closed list and treats marital property as everything else — the practical effect on a given asset is similar, but the statutory default that must be overcome differs. The commingling test also turns on a fact question (did the contributed property keep its own identity or not), not simply on which spouse wrote the check; a spouse who assumes any deposit of separate funds into a joint account is automatically traceable and safe is wrong if the funds lost their separate identity.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/503",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-503",
+      "quote": "For purposes of this Act, \"marital property\" means all property, including debts and other obligations, acquired\nby either spouse subsequent to the marriage, except the following, which is\nknown as \"non-marital property\":",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/503",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-503",
+      "quote": "For purposes of distribution of property, all property acquired by either spouse after the marriage and before a\njudgment of dissolution of marriage or declaration of invalidity of marriage is presumed marital property.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/503",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-503",
+      "quote": "If the contributed property loses its identity, the contributed property\ntransmutes to the estate receiving the property, subject to the provisions of paragraph (2) of this subsection (c).",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/503",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-503",
+      "quote": "If the contributed property retains its identity, it does not transmute and\nremains property of the contributing estate.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/503, row ILCS_750_ILCS_5-503 (four quotes: the (a) intro, the (b)(1) presumption sentence, and the (c)(1)(A)(i)-(ii) identity-test sentences). The full (a) exception list (items (1)-(8)), the pension- and stock-option-specific presumptions in (b)(2)-(3), the life-insurance-beneficiary rules in (b-5), and the reimbursement mechanics in (c)(2) were read but not quoted in this row."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "division-standard",
+  "rule_id": "il-just-proportions-not-a-fifty-fifty-rule-and-not-texass-just-and-right-wording",
+  "question": "Does an Illinois divorce court have to split the marital estate 50/50?",
+  "rule": "No — the statute's own phrase is \"just proportions,\" a discretionary multi-factor standard, not an equal split. 750 ILCS 5/503(d): \"It also shall divide the marital property without regard to marital misconduct in just proportions considering all relevant factors, including:\" (the twelve listed factors include each party's contribution, dissipation, the property's value, the marriage's duration, each spouse's economic circumstances, prior-marriage obligations, prenuptial/postnuptial agreements, age/health/income/employability, custodial provisions, whether the division is in lieu of maintenance, future acquisition opportunity, and tax consequences).",
+  "trap": "\"Just proportions\" is Illinois's own wording — not Texas's \"just and right\" (Tex. Fam. Code § 7.001, see rows-tx-family.json). Both are discretionary, multi-factor standards on their face, and neither statute states a percentage presumption; the similarity should not be read as identical case law on how far from equal a court may go, which this rule does not reach (no Illinois case law on quantifying \"just proportions\" was checked for this pass). A comparison to California's community-property division standard is NOT ESTABLISHED in this rule — that jurisdiction's authority was not read for this pass.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/503",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-503",
+      "quote": "It also shall\ndivide the marital property without regard to marital misconduct in just\nproportions considering all relevant factors, including:",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/503(d), row ILCS_750_ILCS_5-503. The twelve numbered factors in (d)(1)-(12) were read in full but not quoted individually in this row (several fall below the 12-word verification minimum standing alone, e.g. \"the duration of the marriage;\"). Honest negative: this row does not state how much deviation from equal a court may order — that would require Illinois case law, not pursued in this pass."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "spousal-support",
+  "rule_id": "il-guideline-maintenance-under-500k-combined-income-fixed-formula-and-duration-multiplier-no-marriage-length-eligibility-floor",
+  "question": "Who qualifies for maintenance in Illinois, and how is the amount and duration calculated?",
+  "rule": "Eligibility has no marriage-length floor — the court first decides whether maintenance is appropriate at all, considering all relevant factors, and if it finds none is appropriate, maintenance is barred REGARDLESS of how long the marriage lasted. 750 ILCS 5/504(a): \"The court shall first make a finding as to whether a maintenance award is appropriate, after consideration of all relevant factors, including:\" (factors include each party's income/property, needs, present and future earning capacity, impairment of earning capacity from domestic duties, standard of living, marriage duration, age/health/employability, tax consequences, and contributions to the other spouse's career). 750 ILCS 5/504(b-1): \"Unless the court finds that a maintenance award is appropriate, it shall bar maintenance as to the party seeking maintenance regardless of the length of the marriage at the time the action was commenced.\" If maintenance IS found appropriate and the parties' combined gross annual income is under $500,000 with no prior support obligations, a guideline formula applies: 750 ILCS 5/504(b-1)(1): \"If the combined gross annual income of the parties is less than $500,000 and the payor has no obligation to pay child support or maintenance or both from a prior relationship, maintenance payable after the date the parties' marriage is dissolved shall be in accordance with subparagraphs (A) and (B) of this paragraph (1), unless the court makes a finding that the application of the guidelines would be inappropriate.\" The amount: \"The amount of maintenance under this paragraph (1) shall be calculated by taking 33 1/3% of the payor's net annual income minus 25% of the payee's net annual income. The amount calculated as maintenance, however, when added to the net income of the payee, shall not result in the payee receiving an amount that is in excess of 40% of the combined net income of the parties.\" The duration is a percentage of the marriage's length, tiered by a table of multipliers, with indefinite maintenance possible for long marriages: \"The duration of an award under this paragraph (1) shall be calculated by multiplying the length of the marriage at the time the action was commenced by whichever of the following factors applies: less than 5 years (.20); 5 years or more but less than 6 years (.24); 6 years or more but less than 7 years (.28); 7 years or more but less than 8 years (.32); 8 years or more but less than 9 years (.36); 9 years or more but less than 10 years (.40); 10 years or more but less than 11 years (.44); 11 years or more but less than 12 years (.48); 12 years or more but less than 13 years (.52); 13 years or more but less than 14 years (.56); 14 years or more but less than 15 years (.60); 15 years or more but less than 16 years (.64); 16 years or more but less than 17 years (.68); 17 years or more but less than 18 years (.72); 18 years or more but less than 19 years (.76); 19 years or more but less than 20 years (.80). For a marriage of 20 or more years, the court, in its discretion, shall order maintenance for a period equal to the length of the marriage or for an indefinite term.\"",
+  "trap": "Two contrasts with Texas (Tex. Fam. Code §§ 8.051, 8.054, 8.055; see rows-tx-family.json) are easy to get backwards. First, ELIGIBILITY: Texas requires one of a closed list of named triggers (a 10-year marriage plus an inability to earn sufficient income, family violence, disability, or a disabled child in the requesting spouse's care) before maintenance is even available. Illinois's § 504 states no such closed list and no marriage-length threshold — the statute says the bar applies \"regardless of the length of the marriage,\" meaning a short Illinois marriage is not automatically disqualified the way it effectively is in Texas. Second, the $500,000 figure is NOT an income cap on maintenance generally — it is the ceiling for the GUIDELINE FORMULA'S presumptive application; above it, or with prior support obligations, the court can still award non-guideline maintenance under (b-1)(2) using the (a) factors. Third, DURATION: Texas caps maintenance at a hard 5, 7, or 10 years depending on marriage length, with indefinite maintenance available only through the narrow disability/disabled-child-custodian exception in § 8.054(b). Illinois's duration is a straight percentage-of-marriage-length multiplier for marriages under 20 years, and for a marriage of 20 years or more the court has discretion to order maintenance for an INDEFINITE term — there is no Illinois analogue to Texas's hard year-cap for long marriages in this rule's authority.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/504",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-504",
+      "quote": "The court shall first make a finding as to whether a maintenance award is appropriate, after consideration of all relevant factors, including:",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/504",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-504",
+      "quote": "Unless the court finds that a maintenance award is appropriate, it shall bar maintenance as to the party seeking maintenance regardless of the length of the marriage at the time the action was commenced.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/504",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-504",
+      "quote": "If the combined gross annual income\nof the parties is less than $500,000 and the payor has no obligation to pay child support or maintenance or both from a prior relationship, maintenance payable after the date the parties' marriage is dissolved shall be in accordance with subparagraphs (A) and (B) of this paragraph (1), unless the court makes a finding that the application of the guidelines would be inappropriate.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/504",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-504",
+      "quote": "The amount of maintenance under this paragraph (1) shall be calculated by taking\n33 1/3% of the payor's net annual income minus 25% of the payee's net annual income. The amount calculated as maintenance, however, when added to the net income of the payee, shall not result in the payee receiving an amount that is in excess of 40% of the combined net income of the parties.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/504",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-504",
+      "quote": "The duration of an award under this paragraph (1) shall be calculated by\nmultiplying the length of the marriage at the time the action was commenced by whichever of the following factors applies: less than 5 years (.20); 5 years or more but less than 6 years (.24); 6 years or more but less than 7 years (.28); 7 years or more but less than 8 years (.32); 8 years or more but less than 9 years (.36); 9 years or more but less than 10 years (.40); 10 years or more but less than 11 years (.44); 11 years or more but less than 12 years (.48); 12 years or more but less than 13 years (.52); 13 years or more but less than 14 years (.56); 14 years or more but less than 15 years (.60); 15 years or more but less than 16 years (.64); 16 years or more but less than 17 years (.68); 17 years or more but less than 18 years (.72); 18 years or more but less than 19 years (.76); 19 years or more but less than 20 years (.80). For a marriage of 20 or more years, the court, in its discretion, shall order maintenance for a period equal to the length of the marriage or for an indefinite term.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/504, row ILCS_750_ILCS_5-504 (five quotes: the (a) factors intro, the (b-1) bar-regardless-of-length sentence, the (b-1)(1) $500,000/prior-obligation guideline trigger, the (b-1)(1)(A) 33 1/3%/25%/40% formula, and the (b-1)(1)(B) duration-multiplier table through the 20-year indefinite-term sentence). Not quoted: the full 14-item (a) factor list beyond the intro, the pre-2019 30%/20% modification formula in (A-1), the (b-2) mandatory-findings requirements, and the life-insurance security provisions in (f). This row does not state how a court decides maintenance is \"appropriate\" in the first instance beyond the factor list itself — that determination is fact-specific and not reducible to a further verified rule in this pass."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "child-support-guidelines",
+  "rule_id": "il-income-shares-child-support-with-net-income-defined-in-the-statute-and-the-schedule-set-by-agency-rule",
+  "question": "How is child support calculated under the Illinois guidelines?",
+  "rule": "Illinois uses an income-shares model: both parents' NET incomes are combined, a table amount is selected for that combined income and the number of children, and each parent's share is allocated by their percentage of the combined income — but the dollar table itself is set by agency rule, not written into the statute. 750 ILCS 5/505(1): \"The Illinois Department of Healthcare and Family Services shall adopt rules establishing child support guidelines which include worksheets to aid in the calculation of the child support obligations and a schedule of basic child support obligations that reflects the percentage of combined net income that parents living in the same household in this State ordinarily spend on their child.\" 750 ILCS 5/505(1.5): \"The court shall compute the basic child support obligation by taking the following steps: (A) determine each parent's monthly net income; (B) add the parents' monthly net incomes together to determine the combined monthly net income of the parents; (C) select the corresponding appropriate amount from the schedule of basic child support obligations based on the parties' combined monthly net income and number of children of the parties; and (D) calculate each parent's percentage share of the basic child support obligation.\" \"Net income\" is itself a defined, statutory term: 750 ILCS 5/505(3)(B): \"As used in this Section, \\\"net income\\\" means gross income minus either the standardized tax amount calculated pursuant to subparagraph (C) of this paragraph (3) or the individualized tax amount calculated pursuant to subparagraph (D) of this paragraph (3), and minus any adjustments pursuant to subparagraph (F) of this paragraph (3).\"",
+  "trap": "The single biggest structural difference from Texas (Tex. Fam. Code § 154.125; see rows-tx-family.json) is that Texas writes its guideline percentages (20%/25%/30%/35%/40% by number of children) directly into the statute's own text, while Illinois's § 505 delegates the actual dollar schedule to the Illinois Department of Healthcare and Family Services by rule — the ILCS text describes the STEPS (combine net incomes, look up the schedule amount, allocate by income share) but does not itself state the resulting dollar or percentage figures. A reader expecting to find an Illinois percentage table the way Texas has one in the statute itself will not find it in 750 ILCS 5/505 — that table exists only in the Department's adopted rule, which is outside the statutes we publish and was not located in this pass. \"Net income\" is also a defined, engineered term here (gross income minus a standardized or individualized tax amount and further adjustments) — not gross pay, and not a term left to case law the way some other states leave it. The section also says what the end of support does NOT end: “The order for support shall state that the termination date does not apply to any arrearage that may remain unpaid on that date.” A termination date closes the obligation going forward and leaves everything already unpaid standing, so a parent reading a support order as finished on its termination date can still owe every missed payment before it.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/505",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-505",
+      "quote": "The Illinois Department of Healthcare and Family Services\nshall adopt rules establishing child support guidelines which include worksheets to aid in the calculation of the child support obligations and a schedule of basic child support obligations that reflects the percentage of combined net income that parents living in the same household in this State ordinarily spend on their child.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/505",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-505",
+      "quote": "The court shall compute the\nbasic child support obligation by taking the following steps:\n(A) determine each parent's monthly net income;\n(B) add the parents' monthly net incomes together to determine the combined monthly\nnet income of the parents;\n(C) select the corresponding appropriate amount from the schedule of basic child\nsupport obligations based on the parties' combined monthly net income and number of children of the parties; and\n(D) calculate each parent's percentage share of the basic child support obligation.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/505",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-505",
+      "quote": "As used in this Section, \"net income\" means gross income minus either the\nstandardized tax amount calculated pursuant to subparagraph (C) of this paragraph (3) or the individualized tax amount calculated pursuant to subparagraph (D) of this paragraph (3), and minus any adjustments pursuant to subparagraph (F) of this paragraph (3).",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/505",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-505",
+      "quote": "The order for support shall state that the termination date does not apply to any arrearage that may remain unpaid on that date.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/505, row ILCS_750_ILCS_5-505 (three quotes: the (1) schedule-by-rule delegation, the (1.5) computation steps (A)-(D), and the (3)(B) net-income definition). HONEST NEGATIVE, RECORDED: the actual schedule of basic child support obligations (the dollar/percentage table itself) is not in this Section's text — it is adopted by the Illinois Department of Healthcare and Family Services under the rulemaking authority quoted above, which is outside docketx/us-statutes and was not located in this pass. Not quoted: the multi-family and spousal-maintenance income adjustments in (3)(F), the shared- and split-physical-care formulas in (3.8)-(3.9), the minimum and zero-dollar orders in (3.3a)-(3.3b), and the contempt/enforcement provisions in (b)-(i). SCOPE SWEEP 2026-09-25: found by a DocketX audit sweep pointed at the packs for the first time; none of ‘remain’, ‘unpaid’ or ‘termination’ appeared in this row. The arrearage sentence is now quoted with its own verified block. NOT ESTABLISHED HERE: how arrears are collected or enforced, what interest accrues on them, and the separate sentences in the same section about a statement's absence not affecting the order's validity, which were read and are not described here."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "custody-and-visitation",
+  "rule_id": "il-allocation-of-parental-responsibilities-and-parenting-time-replaced-custody-with-a-fitness-presumption",
+  "question": "Does Illinois presume parents split custody equally, the way some states presume joint conservatorship?",
+  "rule": "Illinois does not use \"custody\" or \"conservatorship\" terminology at all — decision-making and time with the child are allocated separately, and the presumption runs toward NOT restricting a fit parent's parenting time, not toward any particular time split. 750 ILCS 5/602.5(a): \"The court shall allocate decision-making responsibilities according to the child's best interests. Nothing in this Act requires that each parent be allocated decision-making responsibilities.\" 750 ILCS 5/602.7(b): \"It is presumed both parents are fit and the court shall not place any restrictions on parenting time as defined in Section 600 and described in Section 603.10, unless it finds by a preponderance of the evidence that a parent's exercise of parenting time would seriously endanger the child's physical, mental, moral, or emotional health.\" A written parenting plan is required from the parties (or ordered by the court if they cannot agree): 750 ILCS 5/602.10(a): \"All parents, within 120 days after service or filing of any petition for allocation of parental responsibilities, must file with the court, either jointly or separately, a proposed parenting plan.\"",
+  "trap": "Do not translate this into Texas's joint-managing-conservatorship framework (Tex. Fam. Code §§ 153.131, 153.252; see rows-tx-family.json) — Illinois abolished \"custody\" and \"visitation\" as legal terms in its current Act and replaced them with \"allocation of parental responsibilities\" (decision-making, § 602.5) and \"parenting time\" (physical schedule, § 602.7), decided separately. There is no Illinois statutory presumption in this rule's authority that decision-making be shared, the way Texas presumes joint managing conservatorship; instead, § 602.7(b)'s presumption is that a FIT parent's parenting time should not be RESTRICTED, which is a different legal question (whether to limit time) from a starting-point time split. Both parents being \"fit\" is itself presumed, and overcoming the no-restriction presumption requires a preponderance-of-the-evidence finding of serious endangerment — not simply a best-interest balancing.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/602.5",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-602.5",
+      "quote": "The court shall allocate decision-making responsibilities according to the child's best interests. Nothing in this Act requires that each parent be allocated decision-making responsibilities.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/602.7",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-602.7",
+      "quote": "It is presumed both parents are fit and the court shall not place any restrictions on parenting time as defined in Section 600 and described in Section 603.10, unless it finds by a preponderance of the evidence that a parent's exercise of parenting time would seriously endanger the child's physical, mental, moral, or emotional health.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/602.10",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-602.10",
+      "quote": "All parents, within 120 days after service or filing of any petition for allocation of parental responsibilities, must file with the court, either jointly or separately, a proposed parenting plan.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), rows ILCS_750_ILCS_5-602.5, ILCS_750_ILCS_5-602.7, and ILCS_750_ILCS_5-602.10. Not quoted: the full best-interest factor lists in 602.5(c) and 602.7(b), the deployed-parent substitute-visitation provisions in 602.7(d), and the parenting-plan content checklist in 602.10(f). This row does not state what the standard schedule looks like in practice (there is no Illinois analogue to Texas's statutory standard possession order in this Act's text) — NOT ESTABLISHED beyond the presumption and filing-deadline text quoted."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "required-disclosures",
+  "rule_id": "il-one-statewide-supreme-court-financial-affidavit-form-not-a-family-code-disclosure-duty",
+  "question": "What does the Illinois Marriage and Dissolution of Marriage Act itself require a spouse to disclose?",
+  "rule": "The Act requires ONE statewide financial affidavit form when temporary support is sought, but that form's design and requirements come from the Illinois Supreme Court, not from the Act's own text. 750 ILCS 5/501(a)(1): \"temporary maintenance or temporary support of a child of the marriage entitled to support, accompanied by an affidavit as to the factual basis for the relief requested. One form of financial affidavit, as determined by the Supreme Court, shall be used statewide. The financial affidavit shall be supported by documentary evidence including, but not limited to, income tax returns, pay stubs, and banking statements.\" The same Supreme Court-approved form is cross-referenced for the child support individualized-tax-amount procedure: 750 ILCS 5/505(3)(E)(II): \"the individualized tax amount shall be determined by the court on the basis of information contained in one or both parties' Supreme Court approved Financial Affidavit (Family & Divorce Cases) and relevant supporting documents under applicable court rules.\"",
+  "trap": "This is not a general, freestanding disclosure duty the way it might read at a glance — it is triggered specifically by a request for TEMPORARY maintenance or child support under § 501(a)(1), and the form itself (what it must contain, how it is served) is set by Illinois Supreme Court Rule, not by this Act. A full-text search of the entire 750 ILCS 5/ shard (135 sections) for \"financial affidavit\" returns exactly two hits — §§ 501 and 505 — both pointing to the same single statewide Supreme Court form, not to an independent Family-Code-level disclosure regime like a mandatory-discovery rule. Whether Illinois has a BROADER, non-temporary-relief financial disclosure duty is NOT ESTABLISHED by this rule: our published court rules hold 21,062 rules across 28 states including Illinois, but the verification tooling used for this pass (the DocketX corpus lookup tool) only indexes our published us-statutes corpus and our published us-caselaw corpus-<state> — it has no lookup index built for our published court-rules corpus, so the specific Illinois Supreme Court Rule number governing the Financial Affidavit (Family & Divorce Cases) form was not located or verified in this pass. That is a gap in this pass's tooling, not a claim that no such rule exists. The section also says what the end of support does NOT end: “The order for support shall state that the termination date does not apply to any arrearage that may remain unpaid on that date.” A termination date closes the obligation going forward and leaves everything already unpaid standing, so a parent reading a support order as finished on its termination date can still owe every missed payment before it.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/501",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-501",
+      "quote": "temporary maintenance or temporary support of a child of the marriage entitled to\nsupport, accompanied by an affidavit as to the factual basis for the relief requested. One form of financial affidavit, as determined by the Supreme Court, shall be used statewide. The financial affidavit shall be supported by documentary evidence including, but not limited to, income tax returns, pay stubs, and banking statements.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/505",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-505",
+      "quote": "the individualized tax amount shall be determined by the court on the basis of information contained in one or both parties' Supreme Court approved Financial Affidavit (Family & Divorce Cases) and relevant supporting documents under applicable court rules.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/505",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-505",
+      "quote": "The order for support shall state that the termination date does not apply to any arrearage that may remain unpaid on that date.",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/501 (row ILCS_750_ILCS_5-501) and 750 ILCS 5/505 (row ILCS_750_ILCS_5-505). HONEST NEGATIVE, RECORDED: unlike the Texas row required-disclosures in rows-tx-family.json, which found the general Rules of Civil Procedure entirely OUTSIDE the corpus, Illinois's general court-rules layer (docketx/court-rules) IS held in our published corpus and does cover Illinois per the DocketX holdings ledger -- but this pass's lookup tooling does not index that dataset, so the specific rule was checked for but not located. This is a tooling gap for a future pass to close, not a statement that Illinois has no such rule. SCOPE SWEEP 2026-09-25: found by a DocketX audit sweep pointed at the packs for the first time; none of ‘remain’, ‘unpaid’ or ‘termination’ appeared in this row. The arrearage sentence is now quoted with its own verified block. NOT ESTABLISHED HERE: how arrears are collected or enforced, what interest accrues on them, and the separate sentences in the same section about a statement's absence not affecting the order's validity, which were read and are not described here."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "temporary-orders",
+  "rule_id": "il-temporary-relief-requires-a-motion-and-is-discretionary-not-automatic-on-filing",
+  "question": "What can an Illinois court order while a divorce is pending, and does it happen automatically on filing?",
+  "rule": "Nothing is automatic — a party must petition or move for temporary relief, and the range of relief includes property-freeze injunctions as well as support. 750 ILCS 5/501(a)(2)(i) lets a party seek an order \"restraining any person from transferring, encumbering, concealing or otherwise disposing of any property except in the usual course of business or for the necessities of life, and, if so restrained, requiring him to notify the moving party and his attorney of any proposed extraordinary expenditures made after the order is issued.\" A temporary order's legal effect is limited and expressly non-final: 750 ILCS 5/501(d): \"(1) does not prejudice the rights of the parties or the child which are to be adjudicated at subsequent hearings in the proceeding; (2) may be revoked or modified before final judgment, on a showing by affidavit and upon hearing; and (3) terminates when the final judgment is entered or when the petition for dissolution of marriage or legal separation or declaration of invalidity of marriage is dismissed.\"",
+  "trap": "As with Texas's temporary-order power (Tex. Fam. Code § 6.502; see rows-tx-family.json), nothing in § 501 is self-executing — a party who assumes marital assets are automatically frozen, or support automatically starts, the moment a petition is filed will be surprised that both require a motion (and, for a restraining order issued without notice, a showing under § 501(b) that irreparable injury will result before the time for responding has elapsed). Section 501 also authorizes interim attorney's fees under a detailed procedure in subsection (c-1) and exclusive-possession-of-the-residence orders under (c-2), neither of which is quoted or further analyzed in this rule.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/501",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-501",
+      "quote": "restraining any person from transferring, encumbering, concealing or otherwise\ndisposing of any property except in the usual course of business or for the necessities of life, and, if so restrained, requiring him to notify the moving party and his attorney of any proposed extraordinary expenditures made after the order is issued",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/501",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-501",
+      "quote": "(1) does not prejudice the rights of the parties or the child which are to be\nadjudicated at subsequent hearings in the proceeding;\n(2) may be revoked or modified before final judgment, on a showing by affidavit and upon\nhearing; and\n(3) terminates when the final judgment is entered or when the petition for dissolution\nof marriage or legal separation or declaration of invalidity of marriage is dismissed.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/501, row ILCS_750_ILCS_5-501 (the (a)(2)(i) property-freeze clause and the (d) non-final-effect list). Not quoted: the ex parte TRO irreparable-injury standard in (b), the interim attorney's fees procedure in (c-1), the exclusive-use-of-residence provision in (c-2), and the companion-animal temporary-allocation provision in (f). This row overlaps with the financial-affidavit-and-disclosure row (also § 501, different subsection) by design, the same way the Texas rows temporary-orders and inventory-and-appraisement share one row_id with different quotes."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "mediation",
+  "rule_id": "il-mediation-is-mandatory-for-parenting-plan-disputes-not-a-general-settlement-mediation-duty",
+  "question": "Is mediation required in an Illinois divorce?",
+  "rule": "Only for parenting-plan disputes, and there it is mandatory unless the court finds an impediment — the Act does not impose a general duty to mediate property or maintenance disputes. 750 ILCS 5/602.10(c): \"The court shall order mediation to assist the parents in formulating or modifying a parenting plan or in implementing a parenting plan unless the court determines that impediments to mediation exist. Costs under this subsection shall be allocated between the parties pursuant to the applicable statute or Supreme Court Rule.\"",
+  "trap": "This is narrower than it may sound: the mandatory mediation order in § 602.10(c) is tied specifically to formulating, modifying, or implementing a PARENTING PLAN — it is not a general mediation requirement for the divorce as a whole, and it does not reach property division or maintenance disputes. this rule also found no Illinois analogue to Texas's mediated-settlement-agreement statute (Tex. Fam. Code § 6.602; see rows-tx-family.json): a full-text search of the entire 750 ILCS 5/ shard for \"mediated settlement agreement,\" \"revocation,\" \"not subject to revocation,\" and \"repudiat\" returns zero hits. Illinois's Act does not state, in this rule's authority, whether a signed mediated agreement on custody or property is binding and irrevocable the way a compliant Texas MSA is — that question is NOT ESTABLISHED here.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/602.10",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-602.10",
+      "quote": "The court shall order mediation to assist the parents in formulating or modifying a parenting plan or in implementing a parenting plan unless the court determines that impediments to mediation exist. Costs under this subsection shall be allocated between the parties pursuant to the applicable statute or Supreme Court Rule.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/602.10(c), row ILCS_750_ILCS_5-602.10. HONEST NEGATIVE, RECORDED: full-text search of the 750 ILCS 5/ shard (135 sections) for \"mediated settlement agreement\", \"repudiat\", \"revoke the agreement\", \"revocation\", \"not subject to revocation\", \"collaborative law\", and \"collaborative family law\" returns zero hits for every term. Illinois's Act, unlike Texas's, has no dedicated mediated-settlement-agreement-bindingness statute and no collaborative-law chapter analogous to Texas Family Code Chapter 15 in this corpus."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "settlement-agreements",
+  "rule_id": "il-marital-settlement-agreements-bind-unless-unconscionable-no-texas-style-mediated-agreement-statute",
+  "question": "Is a signed Illinois marital settlement agreement binding, and can maintenance terms be modified later?",
+  "rule": "The agreement's property, maintenance, and support terms bind the court unless the court finds them UNCONSCIONABLE; the parties control whether maintenance is modifiable, but property provisions in an agreement are never modifiable. 750 ILCS 5/502(b): \"The terms of the agreement, except those providing for the support and parental responsibility allocation of children, are binding upon the court unless it finds, after considering the economic circumstances of the parties and any other relevant evidence produced by the parties, on their own motion or on request of the court, that the agreement is unconscionable.\" 750 ILCS 5/502(f): \"The parties may provide that maintenance is non-modifiable in amount, duration, or both. If the parties do not provide that maintenance is non-modifiable in amount, duration, or both, then those terms are modifiable upon a substantial change of circumstances. Property provisions of an agreement are never modifiable.\"",
+  "trap": "Illinois's § 502 does not distinguish between an ordinary agreement and a formally mediated one the way Texas does (compare Tex. Fam. Code § 6.602's binding, non-revocable mediated settlement agreement against § 7.006's ordinary, revocable-until-decree settlement agreement; see rows-tx-family.json) — this rule's search of the full 750 ILCS 5/ shard found no separate mediated-settlement-agreement statute and no revocability provision at all in the Act's text (see the mediation row's honest negative). Section 502's single gate is unconscionability, applied the same way regardless of how the agreement was reached. Also note the child terms carve-out: support and parental-responsibility-allocation terms are NOT covered by the (b) binding-unless-unconscionable rule the same way property and maintenance terms are — those are governed instead by a best-interests / substantial-change-in-circumstances standard under (f) and 750 ILCS 5/610.5 (not quoted in this rule).",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/502",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-502",
+      "quote": "The terms of the agreement, except those providing for the support and parental responsibility allocation of children, are binding upon the court unless it finds, after\nconsidering the economic circumstances of the parties and any other relevant evidence\nproduced by the parties, on their own motion or on request of the court,\nthat the\nagreement is unconscionable.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/502",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-502",
+      "quote": "The parties may provide that maintenance is non-modifiable in amount, duration, or both. If the parties do not provide that maintenance is non-modifiable in amount, duration, or both, then those terms are modifiable upon a substantial change of circumstances. Property provisions of an agreement are never modifiable.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/502, row ILCS_750_ILCS_5-502, subsections (b) and (f) each quoted in full (modulo whitespace). Not quoted: the writing/oral-prove-up requirement in (a), the companion-animal agreement provision in (a), and the enforcement-as-contract-terms provision in (e). HONEST NEGATIVE, RECORDED: no Illinois analogue to a Texas-style binding, non-revocable mediated settlement agreement statute was found in this Act -- see the mediation row's full-text-search result."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "name-restoration",
+  "rule_id": "il-name-resumption-is-included-by-default-unless-the-party-declines-it-no-deadline-stated",
+  "question": "Does an Illinois divorce decree let a spouse resume a former or maiden name, and does the person have to ask for it at trial?",
+  "rule": "The authorization is included in the judgment BY DEFAULT, exercisable at any time the person later chooses, unless the person requests otherwise. 750 ILCS 5/413(c): \"Unless the person whose marriage is dissolved or declared invalid requests otherwise, the judgment under this Section shall contain a provision authorizing the person to resume the use of his or her former or maiden name, should he or she choose to do so, at any time he or she chooses to do so. If a judgment contains such a provision, the person resuming the use of his or her former or maiden name is not required to file a petition for a change of name under Article XXI of the Code of Civil Procedure.\" No separate publication notice is required either: \"If a person whose marriage is dissolved or declared invalid chooses to resume the use of his or her former or maiden name, he or she is not required to provide notice by publication.\"",
+  "trap": "This runs the opposite way from Texas's mechanism (Tex. Fam. Code § 6.706; see rows-tx-family.json), where the person must SPECIFICALLY REQUEST the name change and the court must state a reason to deny it. Illinois's default is that the authorization is IN the judgment automatically, and the person can choose not to have it (\"requests otherwise\") rather than having to affirmatively request it; there is also no deadline in this rule's authority for when the person must exercise the authorization — \"at any time he or she chooses to do so\" — unlike a name change under the general Code of Civil Procedure petition process, which this provision expressly says is not required. this rule does not reach whether Illinois courts read \"former or maiden name\" as limited to a name used before THIS marriage, or whether it can reach any earlier name a person used — that is NOT ESTABLISHED here.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/413",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-413",
+      "quote": "Unless the person whose marriage is dissolved or declared\ninvalid requests otherwise, the judgment under this Section shall contain a provision authorizing the person to resume the use of his or her former or maiden name, should he or she choose to do so, at any time he or she chooses to do so. If a judgment contains such a provision, the person resuming the use of his or her former or maiden name is not required to file a petition for a change of name under Article XXI of the Code of Civil Procedure.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/413",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-413",
+      "quote": "If a person whose marriage is dissolved or declared invalid chooses to resume the use of his or her former or maiden name, he or she is not required to provide notice by publication.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/413(c), row ILCS_750_ILCS_5-413 (this is the same row_id as the waiting-period row above, which quotes subsection (a) instead -- the same pattern the Texas rows temporary-orders/inventory-and-appraisement use for one row_id with two different quotes). Not quoted: the notice-to-the-county-clerk provisions in (b) and the judgment-finality/remarriage-pending-appeal provisions in (a)."
+ },
+ {
+  "jurisdiction": "il",
+  "clause": "joint-simplified-dissolution",
+  "rule_id": "il-joint-simplified-dissolution-eight-year-marriage-and-dollar-caps",
+  "question": "Is there a simplified, faster divorce track available in Illinois, and what are its eligibility limits?",
+  "rule": "Yes — a joint simplified dissolution petition is available, but only if the parties certify to a closed set of conditions, including an 8-year marriage-length cap and dollar limits on marital property and income. 750 ILCS 5/452 requires the parties to certify that \"Either party has met the residency or military presence requirement of Section 401 of this Act\" and \"The requirements of Section 401 regarding proof of irreconcilable differences have been met\" that \"[n]o children were born of the relationship of the parties or adopted by the parties during the marriage, and the wife, to her knowledge, is not pregnant by the husband. (e) The duration of the marriage does not exceed 8 years,\" that \"[n]either party has any interest in real property or retirement benefits unless the retirement benefits are exclusively held in individual retirement accounts and the combined value of the accounts is less than $10,000,\" and that \"[t]he total fair market value of all marital property, after deducting all encumbrances, is less than $50,000, the combined gross annualized income from all sources is less than $60,000, and neither party has a gross annualized income from all sources in excess of $30,000.\"",
+  "trap": "This track has no Texas analogue in rows-tx-family.json and is genuinely Illinois-distinctive — it is not simply \"an uncontested divorce,\" it is a separate certified-conditions procedure with hard numeric caps (8 years of marriage, no children born or adopted of the relationship and no current pregnancy, effectively no real property or retirement interest beyond a small IRA balance, and three separate dollar ceilings on marital property value and each party's and the couple's combined income). Both spouses must also waive maintenance entirely (750 ILCS 5/452(g), not quoted above) and have already disclosed all assets, liabilities, and tax returns to each other and executed a written division agreement (750 ILCS 5/452(i)-(j), not quoted above) before the joint petition is filed — this is a route for a specific, low-asset, short, childless marriage, not a shortcut generally available on request.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/452",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-452",
+      "quote": "Either party has met the residency or military presence requirement of Section 401\nof this Act.\n(c) The requirements of Section 401 regarding proof of irreconcilable differences have\nbeen met.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/452",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-452",
+      "quote": "No children were born of the relationship of the parties or adopted by the parties\nduring the marriage, and the wife, to her knowledge, is not pregnant by the husband.\n(e) The duration of the marriage does not exceed 8 years.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/452",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-452",
+      "quote": "Neither party has any interest in real property or retirement benefits unless the\nretirement benefits are exclusively held in individual retirement accounts and the combined value of the accounts is less than $10,000.",
+      "checked": "2026-09-21"
+     }
+    }
+   },
+   {
+    "kind": "statute",
+    "cite": "750 ILCS 5/452",
+    "verified": {
+     "checked": "2026-09-21",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "ILCS_750_ILCS_5-452",
+      "quote": "The total fair market value of all marital property, after deducting all\nencumbrances, is less than $50,000, the combined gross annualized income from all sources is less than $60,000, and neither party has a gross annualized income from all sources in excess of $30,000.",
+      "checked": "2026-09-21"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-21",
+  "status": "verified",
+  "notes": "Verified against docketx/us-statutes (jurisdiction il), 750 ILCS 5/452, row ILCS_750_ILCS_5-452 (four quotes: (b)-(c) residency/grounds cross-reference, (d)-(e) no-children/8-year-marriage conditions, (f) real-property/retirement limit, and (h) the three dollar ceilings). Not quoted: (a)'s support-waiver-willingness condition, (g)'s maintenance waiver, (i)'s asset-and-liability disclosure and tax-return condition, and (j)-(k)'s written division-and-companion-animal-agreement conditions -- all read in full and consistent with the rule stated. PACK QUOTE SWEEP 2026-09-22: the rule had joined § 452(b) and (c) into one bracketed quotation; now quoted as the two sentences the section prints."
+ }
+]

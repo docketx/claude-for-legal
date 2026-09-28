@@ -1,0 +1,1420 @@
+[
+  {
+    "jurisdiction": "ut",
+    "clause": "anti-assignment",
+    "rule_id": "ut-70a-9a-406-anti-assignment-ineffective-for-receivables",
+    "question": "Does a 'no assignment without consent' clause stop the counterparty from assigning the money we owe it under Utah law?",
+    "rule": "No, as to receivables. Under Utah Code § 70A-9a-406 a term in an agreement between an account debtor and an assignor, or in a promissory note, is ineffective to the extent it prohibits, restricts or requires the account debtor's consent to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, the account, chattel paper, payment intangible or promissory note, or makes that assignment a default, breach, right of recoupment, claim, defense, termination or remedy. The account debtor's protection is notification: it may discharge its obligation by paying the assignor until it receives an authenticated notification that the amount has been assigned and payment is to be made to the assignee, and after that it may not discharge by paying the assignor.",
+    "trap": "The clause is ineffective, not merely a covenant: after a proper notification, paying the original counterparty does not discharge the debt. The override does not reach the SALE of a payment intangible or promissory note (other than a disposition under § 70A-9a-610 or an acceptance under § 70A-9a-620), so an anti-assignment term can still matter there. And § 70A-9a-406 says nothing about assignment of non-monetary contract rights, which this rule does not address.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-9a-406",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_9a_406",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or provides that the assignment or transfer or the creation, attachment, perfection, or enforcement of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy under the account, chattel paper, payment intangible, or promissory note",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-9a-406",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_9a_406",
+            "quote": "Subsection (4) does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under Section 70A-9a-610 or an acceptance of collateral under Section 70A-9a-620",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-9a-406",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_9a_406",
+            "quote": "an account debtor on an account, chattel paper, or a payment intangible may discharge its obligation by paying the assignor until, but not after, the account debtor receives a notification, authenticated by the assignor or the assignee, that the amount due or to become due has been assigned and that payment is to be made to the assignee. After receipt of the notification, the account debtor may discharge its obligation by paying the assignee and may not discharge the obligation by paying the assignor.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "§ 70A-9a-406 read in full 2026-09-17; its published history line reads 'Amended by Chapter 322, 2026 General Session'. The section also defers to other law for an individual account debtor who incurred the obligation primarily for personal, family or household purposes, excludes health-care-insurance receivables, and makes the notification subsections inapplicable to a controllable account or controllable payment intangible (read, not quoted). Case law not relied on: SME Industries, Inc. v. Thompson, Ventulett, Stainback & Associates, 2001 UT 54 (read in part), treated whether an anti-assignment clause reached an assignment of a breach-of-contract claim as a question of the parties' intent; the passage stating the general rule appears in the court's description of the trial court's ruling and was not quoted. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "arbitration",
+    "rule_id": "ut-78b-11-107-arbitration-valid-court-decides-existence",
+    "question": "Is this arbitration clause enforceable in Utah, and who decides whether it exists?",
+    "rule": "Under the Utah Uniform Arbitration Act an agreement contained in a record to submit any existing or subsequent controversy to arbitration is valid, enforceable and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract. The court decides whether an agreement to arbitrate exists or a controversy is subject to it; the arbitrator decides whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable (§ 78B-11-107). The Act applies to agreements to arbitrate made on or after May 6, 2002, and to earlier agreements only if all parties agree on the record (§ 78B-11-104).",
+    "trap": "A challenge to the contract as a whole goes to the arbitrator, not the court: § 78B-11-107 reserves only existence and scope of the arbitration agreement for the court. For a Utah construction project with a Utah-domiciled party, a clause requiring the dispute to be resolved in a forum outside Utah is void (§ 13-8-3; see the venue-selection row), and for a veterinarian non-compete entered on or after May 6, 2026 an out-of-state forum provision is void (§ 34-51-201). Federal Arbitration Act preemption was not researched for this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 78B-11-107",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_78B_78B_11_107",
+            "quote": "An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract. The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate. An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 78B-11-104",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_78B_78B_11_104",
+            "quote": "This chapter applies to any agreement to arbitrate made on or after May 6, 2002. This chapter applies to any agreement to arbitrate made before May 6, 2002, if all the parties to the agreement or to the arbitration proceeding agree on the record.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-201",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_201",
+            "quote": "If a provision in a veterinarian non-compete agreement entered into on or after May 6, 2026, requires that the parties to a dispute arising under the veterinarian non-compete agreement resolve the dispute in a forum outside of this state, the provision: is void and unenforceable; and is considered against the public policy of this state.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 78B-11-104, 78B-11-107. The final sentence of § 78B-11-107 (the arbitration may continue while a court resolves a challenge to its existence, unless the court orders otherwise) was read, not quoted. A scan of Utah Supreme Court opinions for the Act found it applied in confirmation, vacatur and fee cases (e.g., Westgate Resorts v. Adel, 2016; Taylor v. Taylor, 2022; Hitorq v. TCC Veterinary Services, 2021) that were read only in scan snippets and are not relied on. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check. NUMBER SWEEP 2026-09-22 (every money, percentage, time-period and date figure in a statute-attributed sentence checked against the cited section's text): the May 6, 2026 veterinarian forum-provision rule is attributed to § 34-51-201, which this row did not cite; section read in full (UT_34_34_51_201, 2026 amendment) and subsection (3) says exactly that; block added."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "attorney-fees",
+    "rule_id": "ut-fees-only-by-statute-or-contract-and-reciprocal-statute",
+    "question": "Can the winner recover attorney fees on this Utah contract claim, and does a one-way fee clause bind only one side?",
+    "rule": "In Utah attorney fees are awardable only if authorized by statute or by contract (Wittingham v. TNE, 2024 UT 23, quoting Dixie State Bank v. Bracken). The reciprocal fee statute makes a one-way clause run both ways: a court may award costs and attorney fees to either party that prevails in a civil action based upon any promissory note, written contract or other writing executed after April 28, 1986, when its provisions allow at least one party to recover attorney fees (§ 78B-5-826). But the award is allowed only in accordance with the terms of the contract, and the provision must be broad enough in scope to cover fees incurred in the action in question.",
+    "trap": "Reciprocity does not enlarge the clause: in Wittingham the prevailing plaintiffs claimed fees through a trust-deed provision obliging the borrower to pay the lender's fees in defending actions affecting the security, and the question was whether that provision would have given the lender fees in a suit like the one brought; § 78B-5-826 helps only when the other side could have recovered under the clause in THIS action. The statute is discretionary ('may award'), and it reaches only writings executed after April 28, 1986.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2024 UT 23",
+        "name": "Wittingham, LLC v. TNE Limited Partnership",
+        "court": "Utah",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "e42d04c7816034b8",
+            "cl_opinion_id": "10473092",
+            "quote": "In Utah, attorney fees are awardable only if authorized by statute or by contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 78B-5-826",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_78B_78B_5_826",
+            "quote": "A court may award costs and attorney fees to either party that prevails in a civil action based upon any promissory note, written contract, or other writing executed after April 28, 1986, when the provisions of the promissory note, written contract, or other writing allow at least one party to recover attorney fees.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024 UT 23",
+        "name": "Wittingham, LLC v. TNE Limited Partnership",
+        "court": "Utah",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "e42d04c7816034b8",
+            "cl_opinion_id": "10473092",
+            "quote": "the award of attorney fees is allowed only in accordance with the terms of the contract,” R.T. Nielson Co. v. Cook, 2002 UT 11, ¶ 17, 40 P.3d 1119, and the contract provision must be “broad enough in scope to cover fees incurred in this . . . action",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "§ 78B-5-826 read in full 2026-09-17. Wittingham, LLC v. TNE Limited Partnership, 2024 UT 23: Pohlman, J., for a unanimous court (Durrant, C.J., Pearce, A.C.J., Petersen and Hagen, JJ.); both quotes are the court quoting earlier cases (Dixie State Bank v. Bracken, 764 P.2d 985 (Utah 1988); R.T. Nielson Co. v. Cook, 2002 UT 11; Loosle v. First Federal, 858 P.2d 999 (Utah 1993)). The description of the trust-deed clause in the trap is read from ¶¶ 68-70; how the court finally resolved the scope question was not established from the passage read and is not stated. The row text renders the wittingham-2 passage with an intervening citation, quoted as published. Good-law scan: 4 later opinions mention 2024 UT 23, none negative. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "choice-of-law",
+    "rule_id": "ut-choice-of-law-reasonable-relation-and-prows-single-state-limit",
+    "question": "Will a Utah court apply the law the parties chose?",
+    "rule": "For transactions within the Uniform Commercial Code, when a transaction bears a reasonable relation to Utah and also to another state or nation the parties may agree that the law of either governs their rights and duties (§ 70A-1a-301). Outside it, the Utah Supreme Court in Prows v. Pinpoint Retail Systems applied Restatement (Second) of Conflict of Laws § 187 through its comments: the rule of § 187(2) applies only when two or more states have an interest in the particular issue and does not apply when all contacts are in a single state, so a New York choice in an agreement signed and to be performed in Utah, where the alleged breach occurred and New York had no interest, was without effect and the court decided the question under Utah law.",
+    "trap": "A choice of law with no real connection to the deal buys nothing when every contact is in Utah, even if the drafter had a 'reasonable basis' for the choice (Prows: wanting to limit the forums in which it could be sued). Statutes also override the clause for particular contracts: an out-of-state forum clause in a Utah construction agreement (§ 13-8-3) and in a veterinarian non-compete entered on or after May 6, 2026 (§ 34-51-201) is void. § 70A-1a-301 itself lists provisions of the UCC (for example perfection and priority of security interests) whose own choice-of-law rules govern and limit a contrary agreement.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-1a-301",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_1a_301",
+            "quote": "when a transaction bears a reasonable relation to this state and also to another state or nation, the parties may agree that the law either of this state or of such other state or nation shall govern their rights and duties.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "868 P.2d 809",
+        "name": "Prows v. Pinpoint Retail Systems, Inc.",
+        "court": "Utah",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "22368acd48057636",
+            "cl_opinion_id": "1141064",
+            "quote": "The comments to section 187 state that the rule of subsection (2) “applies only when two or more states have an interest in the determination of the particular issue”; it does not apply “when all contacts are located in a single state and when, as a consequence, there is only one interested state.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-201",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_201",
+            "quote": "If a provision in a veterinarian non-compete agreement entered into on or after May 6, 2026, requires that the parties to a dispute arising under the veterinarian non-compete agreement resolve the dispute in a forum outside of this state, the provision: is void and unenforceable; and is considered against the public policy of this state.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-3",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_3",
+            "quote": "A provision in a construction agreement requiring a dispute arising under the agreement to be resolved in a forum outside of this state is void and unenforceable as against the public policy of this state if: one of the parties to the agreement is domiciled in this state; and work to be done and the equipment and materials to be supplied under the agreement involves a construction project in this state.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "§ 70A-1a-301 read in full 2026-09-17 (history line: 'Amended by Chapter 322, 2026 General Session'). Prows v. Pinpoint Retail Systems, Inc., 868 P.2d 809 (Utah 1993): Howe, A.C.J., for a unanimous court (Hall, C.J., Stewart, Durham, Zimmerman, JJ.); prows-1 is the court's own statement of the Restatement comment (char 6,426). The New York choice was examined for the validity of the forum clause, not for the whole contract. Good-law scan: 18 later opinions mention 868 P.2d 809, none negative. NOT established: a Utah Supreme Court statement of the § 187(2)(b) fundamental-policy exception for commercial contracts; Dahl v. Dahl, 2015 UT 79, declined to enforce a trust's choice of law on Utah public policy grounds but was read only in a scan snippet and involves trusts and marital property. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check. NUMBER SWEEP 2026-09-22 (every money, percentage, time-period and date figure in a statute-attributed sentence checked against the cited section's text): the May 6, 2026 veterinarian forum-provision rule is attributed to § 34-51-201, which this row did not cite; section read in full (UT_34_34_51_201, 2026 amendment) and subsection (3) says exactly that; block added. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): § 13-8-3 read in full (UT_13_13_8_3); block added."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "ut-ucspa-waiver-in-consumer-contract-is-deceptive-act",
+    "question": "Can a Utah consumer contract make the consumer waive the Consumer Sales Practices Act?",
+    "rule": "No, and including the waiver is itself a violation. A supplier that engages in a deceptive act or practice in connection with a consumer transaction violates the Utah Consumer Sales Practices Act, and a supplier commits a deceptive act or practice if it includes in any contract, receipt or other written documentation of a consumer transaction, or any addendum, any confession of judgment or any waiver of any of the rights to which a consumer is entitled under the Act (§ 13-11-4). A 'consumer transaction' is a sale, lease, assignment or other transfer of goods, services or other property (except securities and insurance) to a person for primarily personal, family or household purposes, and certain business-opportunity purchases (§ 13-11-3). Separately, under the Assistive Technology Warranty Act, any waiver by a consumer of rights under that chapter is void (§ 70A-2-807).",
+    "trap": "The drafting risk is not just an unenforceable clause: putting a UCSPA waiver or a confession of judgment into consumer paperwork is itself a listed deceptive act under § 13-11-4 (the Act's remedy sections were not read for this rule). The text read contains no intent element for this listed act. It protects only rights 'under this chapter'; whether a particular clause (for example an arbitration or limitation clause) is a 'waiver of rights' under the Act was not researched. Two savings sit at the end of the chapter and both change who can be sued. “This chapter shall not be construed as imposing any liability on an authorized dealer or lessor or as creating a cause of action by a consumer against a dealer or lessor, except regarding any express warranties made by the dealer or lessor apart from the manufacturer's warranties.” And “Nothing in this chapter shall limit or impair the rights or remedies which are otherwise available to a consumer under any other provision of law.” So the chapter neither manufactures a claim against a dealer or lessor beyond their own express warranties, nor takes away anything a consumer already has under other law.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-11-4",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_11_4",
+            "quote": "A supplier that engages in a deceptive act or practice in connection with a consumer transaction violates this chapter, whether the deceptive act or practice occurs before, during, or after the transaction. Without limiting the scope of Subsection (1) , a supplier commits a deceptive act or practice if the supplier:",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-11-4",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_11_4",
+            "quote": "includes in any contract, receipt, or other written documentation of a consumer transaction, or any addendum to any contract, receipt, or other written documentation of a consumer transaction, any confession of judgment or any waiver of any of the rights to which a consumer is entitled under this chapter;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-11-3",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_11_3",
+            "quote": "means a sale, lease, assignment, award by chance, or other written or oral transfer or disposition of goods, services, or other property, both tangible and intangible (except securities and insurance) to, or apparently to, a person for: primarily personal, family, or household purposes;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-807",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_807",
+            "quote": "Any waiver by a consumer of rights under this chapter is void. A consumer may bring an action in a court with jurisdiction under Title 78A, Judiciary and Judicial Administration, to enforce the consumer's rights under this chapter.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-807",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_807",
+            "quote": "This chapter shall not be construed as imposing any liability on an authorized dealer or lessor or as creating a cause of action by a consumer against a dealer or lessor, except regarding any express warranties made by the dealer or lessor apart from the manufacturer's warranties.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-807",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_807",
+            "quote": "Nothing in this chapter shall limit or impair the rights or remedies which are otherwise available to a consumer under any other provision of law.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 13-11-3, 13-11-4 (history line 'Amended by Chapter 394, 2026 General Session'), 70A-2-801 to -807 (Assistive Technology Warranty Act; § 70A-2-802 limits 'assistive technology' to devices with a retail price of $1,000 or more). State ex rel. Division of Consumer Protection v. GAF Corp. (Utah 1988), read in a scan snippet, said § 13-11-4 was amended in 1985 to require intent to deceive; the version we hold lists the waiver act under 'a supplier commits a deceptive act or practice if the supplier:' without an intent word, and we hold no effective dates, so which version governs a given transaction was not established. Other anti-waiver sections seen but not stated: § 31A-6b-303 (GAP waiver cancellation), § 57-28-207 (reverse mortgage cooling off), § 70A-9a-602. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "electronic-signature",
+    "rule_id": "ut-ueta-46-4-201-electronic-record-satisfies-writing",
+    "question": "Is an e-signed contract enforceable in Utah, and does it satisfy a writing requirement?",
+    "rule": "Yes, within Utah's Uniform Electronic Transactions Act. A record or signature may not be denied legal effect or enforceability solely because it is in electronic form; a contract may not be denied legal effect solely because an electronic record was used in its formation; an electronic record satisfies a law requiring a writing and an electronic signature satisfies a law requiring a signature (§ 46-4-201). The Act applies only to transactions between parties each of which has agreed to conduct transactions by electronic means, determined from the context and surrounding circumstances including the parties' conduct (§ 46-4-105).",
+    "trap": "The Act does not apply to wills, codicils and testamentary trusts, or to Title 70A (the Uniform Commercial Code) other than § 70A-1a-306 and the Sales and Leases chapters (§ 46-4-103), so it does not validate an electronic negotiable instrument or secured-transaction record. Consent to electronic dealing is a threshold, not a formality (§ 46-4-105).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 46-4-201",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_46_46_4_201",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. If a law requires a record to be in writing, an electronic record satisfies the law. If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 46-4-105",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_46_46_4_105",
+            "quote": "This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether or not the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 46-4-103",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_46_46_4_103",
+            "quote": "This chapter does not apply to: a transaction to the extent it is governed by a law governing the creation and execution of wills, codicils, or testamentary trusts; Title 70A, Uniform Commercial Code , other than: Section 70A-1a-306 ; and Title 70A, Chapter 2, Uniform Commercial Code - Sales , and Title 70A, Chapter 2a, Uniform Commercial Code - Leases",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 46-4-102, 46-4-103, 46-4-104 (applies to records created on or after May 1, 2000), 46-4-105, 46-4-201. § 46-4-103 also provides that nothing in the chapter requires a county recorder to accept an electronic instrument (read, not quoted). Anderson v. Bell (Utah 2010) discusses the UETA definition of electronic signature in an election-petition context and was read only in a scan snippet. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "entire-agreement",
+    "rule_id": "ut-integration-clause-bars-oral-side-deals-but-not-contemporaneous-writings",
+    "question": "Does an integration clause shut out side agreements in Utah?",
+    "rule": "Oral side agreements, yes: in the face of a clear integration clause, extrinsic evidence of a separate oral agreement is not admissible on the question of integration (Tangren Family Trust v. Tangren). Extrinsic evidence is still considered, even against a clear integration clause, where the contract is alleged to be a forgery, a joke, a sham, lacking in consideration, or voidable for fraud, duress, mistake or illegality (Tangren), and an integration clause does not bar extrinsic evidence where the language of the agreement is ambiguous (Watkins v. Ford). Written instruments are different: where two or more parties sign contemporaneous, executed instruments related to the same transaction, those agreements are construed together even where one contains a clear integration clause (Montes v. National Buick GMC, 2024).",
+    "trap": "An integration clause does not by itself knock out a separately signed same-day writing: in Montes (a car purchase agreement with an integration clause and a separately signed arbitration agreement) the court read Tangren's holding as limited to oral side agreements and required the two instruments to be construed together. Drafters who want a same-day document excluded cannot rely on the merger clause alone.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2008 UT 20",
+        "name": "Tangren Family Trust v. Tangren",
+        "court": "Utah",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "a0d4a4057d16ed8d",
+            "cl_opinion_id": "2567403",
+            "quote": "We hold today that in the face of a clear integration clause, extrinsic evidence of a separate oral agreement is not admissible on the question of integration.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2008 UT 20",
+        "name": "Tangren Family Trust v. Tangren",
+        "court": "Utah",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "a0d4a4057d16ed8d",
+            "cl_opinion_id": "2567403",
+            "quote": "We have held that extrinsic evi *331 dence is appropriately considered, even in the face of a clear integration clause, where the contract is alleged to be a forgery, a joke, a sham, lacking in consideration, or where a contract is voidable for fraud, duress, mistake, or illegality.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2013 UT 31",
+        "name": "Watkins v. Ford",
+        "court": "Utah",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "dfe042824acd02c1",
+            "cl_opinion_id": "873653",
+            "quote": "the integration clauses do not necessarily bar the introduction of extrinsic evidence. Tangren Family Trust v. Tangren, 2008 UT 20, ¶ 11, 182 P.3d 326. Despite a finding that an “agreement is integrated, . . . parol evidence may be admitted . . . if . . . the language of the agreement is ambiguous.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024 UT 42",
+        "name": "Montes v. National Buick GMC, Inc.",
+        "court": "Utah",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "2cf30e3fe3ed1b65",
+            "cl_opinion_id": "10758813",
+            "quote": "Where two or more parties sign contemporaneous, executed instruments related to the same transaction, those agreements should be construed together—even where one contains a clear integration clause.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Tangren Family Trust v. Tangren, 2008 UT 20: Durrant, J., for a unanimous court; both quotes are majority text (the row's OCR renders 'extrinsic evi *331 dence' with the star page, quoted as published); Tangren overruled prior cases to the extent they admitted extrinsic evidence of a separate oral agreement against a clear integration clause. Watkins v. Ford, 2013 UT 31: Parrish, J., for a unanimous court; the quote is the court's own text quoting Tangren ¶ 11 (row dfe042824acd02c1, dated 2013-05-31; two further rows dated 2013-08-06 carry the same passage and were not used). Montes v. National Buick GMC, Inc., 2024 UT 42: Pearce, A.C.J., for a unanimous court; the quote is from the conclusion (char 36,860), and ¶ 29 explains that Tangren 'was careful to specify that its holding applied only to oral side agreements'. Good-law scan: 50 later opinions mention 2008 UT 20 (the flag hits are cases noting Tangren overruled Spears v. Warr and Bullfrog Marina in part, and Montes narrowing it); 23 mention 2013 UT 31, none negative. Separately, § 25-5-4 requires every credit agreement to carry a notice that the written agreement is the final expression of the agreement (see the statute-of-frauds row)."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "force-majeure",
+    "rule_id": "ut-no-clause-impracticability-narrow-foreseeable-and-assumed-risks",
+    "question": "Without a force majeure clause, will Utah excuse performance because of an event that made it impracticable?",
+    "rule": "Only narrowly. In Central Utah Water Conservancy District v. Upper East Union Irrigation Co. the Utah Supreme Court held that a party is not excused for impracticability when the event leading to the impracticability was known to the parties before contracting, and held the failure to perform there not excused for independent reasons: the event was not unforeseen, the party did not show performance was impracticable because it did not even attempt to obtain the required permits, and it had assumed the risk of failing to obtain them.",
+    "trap": "A party that knew of the risk when it signed, or that took on the job of obtaining approvals, cannot later call that risk impracticability; it has to allocate it in the contract. The doctrine also requires an attempt to perform: failing even to try to obtain permits defeated the defense.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2013 UT 67",
+        "name": "Central Utah Water Conservancy District v. Upper East Union Irrigation Co.",
+        "court": "Utah",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "0cf68512b6eb7dfe",
+            "cl_opinion_id": "5177144",
+            "quote": "A party is not excused for impracticability, however, when the event leading to the impracticability was known to the parties prior to contracting.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2013 UT 67",
+        "name": "Central Utah Water Conservancy District v. Upper East Union Irrigation Co.",
+        "court": "Utah",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "0cf68512b6eb7dfe",
+            "cl_opinion_id": "5177144",
+            "quote": "failure to perform is not excused by the doctrine of impracticability for several independent reasons. First, CUWCD cannot establish that the event giving rise to the claim of impracticability was unforeseen. Second, CUWCD failed to show that performance was impracticable because it did not even attempt to obtain the required permits. Finally, even had it attempted to do so, CUWCD assumed the risk of failing to obtain the requisite permits.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Central Utah Water Conservancy District v. Upper East Union Irrigation Co., 2013 UT 67: Parrish, J., for a unanimous court (Durrant, C.J., Nehring, A.C.J., Durham and Lee, JJ.); quotes from row 0cf68512b6eb7dfe (a second row, ee81242c3018b09f titled 'CUWCD v. UEU', carries the same opinion; its ¶ 28 statement of the doctrine was read there but not found verbatim in the row quoted). Good-law scan: 8 later opinions mention 2013 UT 67, none negative. NOT established: how a Utah court construes an express force majeure clause. A full scan of Utah Supreme Court opinions for 'force majeure' found three: Bair v. Layton City Corp. (1957) and Bentley v. Potter (1984) quote clauses in the course of other issues; neither states a rule on them. No Utah statute on force majeure was searched for beyond that phrase."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "indemnity",
+    "rule_id": "ut-13-8-1-construction-indemnity-void-and-clear-and-unequivocal-rule",
+    "question": "Will a Utah court enforce a clause making one party indemnify the other for the other's own negligence?",
+    "rule": "Not in a construction contract: an indemnification provision in a construction contract is against public policy and void and unenforceable (§ 13-8-1(2)), 'indemnification provision' meaning a covenant in, in connection with, or collateral to a construction contract requiring the promisor to insure, hold harmless, indemnify or defend the promisee or others against liability for bodily injury, property damage or economic loss caused by or resulting from the fault of the promisee, indemnitee, others or their agents or employees. Outside construction, an indemnity agreement that purports to make a party respond for the negligence of another is strictly construed, and it is upheld where the intention to indemnify a person against his own negligence is clearly and unequivocally expressed (Freund v. Utah Power & Light; Shell Oil v. Brinkerhoff-Signal Drilling).",
+    "trap": "Specific words are not always required: in Freund the licensee's promise to indemnify against 'any and all' liabilities, with express carve-outs only for the licensor's intentional wrongdoing or willful negligence, was held a clear and unequivocal agreement to cover the licensor's negligence; Cunningham v. Weber County later said those carve-outs helped transform what might have been mistakable language into a clear and unmistakable expression of intent. Section 13-8-1's definition also reaches promises to 'insure' and to indemnify for 'economic loss', and § 13-8-1(3) apportions an owner's fault among the construction parties in some cases.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-1",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_1",
+            "quote": "an indemnification provision in a construction contract is against public policy and is void and unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-1",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_1",
+            "quote": "means a covenant, promise, agreement or understanding in, in connection with, or collateral to a construction contract requiring the promisor to insure, hold harmless, indemnify, or defend the promisee or others against liability if: the damages arise out of: bodily injury to a person; damage to property; or economic loss; and the damages are caused by or resulting from the fault of the promisee, indemnitee, others, or their agents or employees.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "793 P.2d 362",
+        "name": "Freund v. Utah Power & Light Co.",
+        "court": "Utah",
+        "decided": "1990",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "c69e2887f3c634b4",
+            "cl_opinion_id": "2608810",
+            "quote": "In a long line of cases spanning more than fifty years, we have repeatedly held that an indemnity agreement which purports to make a party respond for the negligence of another should be strictly construed.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "793 P.2d 362",
+        "name": "Freund v. Utah Power & Light Co.",
+        "court": "Utah",
+        "decided": "1990",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "c69e2887f3c634b4",
+            "cl_opinion_id": "2608810",
+            "quote": "We conclude that paragraph 21 as a whole expresses a clear and unequivocal intent by the parties that the licensee will indemnify the licensor from any and all liabilities, including the liability that arises because of the licensor’s negligence, except when liability arises because of the li-censor’s intentional wrongdoing or willful negligence",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "658 P.2d 1187",
+        "name": "Shell Oil Co. v. Brinkerhoff-Signal Drilling Co.",
+        "court": "Utah",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "702e6d6661d7cdcd",
+            "cl_opinion_id": "1174061",
+            "quote": "we have frequently adhered to the majority rule that where the intention to indemnify a person from losses attributable to his own negligence is “clearly and unequivocally expressed” in the contract language, an indemnity agreement will be upheld.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2022 UT 8",
+        "name": "Cunningham v. Weber County",
+        "court": "Utah",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "7791edc44443ad9f",
+            "cl_opinion_id": "6226905",
+            "quote": "the specific carveouts for intentional wrongdoing and willful negligence helped transform what might have been mistakable language into a clear and unmistakable expression of an intent to extend the indemnification to negligent acts.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "§ 13-8-1 read in full 2026-09-17 (history line 'Amended by Chapter 113, 1997 General Session'); subsection (3) (owner fault apportioned pro rata when the owner caused the damages in part other than while acting as a construction party) and the closing clause on contracts in existence at enactment were read, not quoted. Related sections read and not stated as the rule: § 13-8-6 (motor carrier transportation contracts: indemnity for the other party's negligence void) and § 13-8-7 (design professional services contracts with governmental entities). Freund v. Utah Power & Light Co., 793 P.2d 362 (Utah 1990): Howe, A.C.J., with Hall, C.J., Stewart, Durham and Zimmerman, JJ., concurring; both quotes majority text. Shell Oil Co. v. Brinkerhoff-Signal Drilling Co., 658 P.2d 1187 (Utah 1983): quote is the court's statement (char 3,223); vote line not separately checked. Cunningham v. Weber County, 2022 UT 8: see limitation-of-liability row. Good-law scan: 13 and 12 later opinions mention 793 P.2d 362 and 658 P.2d 1187, none negative. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "lien-waiver",
+    "rule_id": "ut-38-1a-lien-rights-not-waivable-except-signed-waiver-on-payment",
+    "question": "Can a Utah construction contract waive mechanic's lien rights in advance?",
+    "rule": "No. A right or privilege under the Preconstruction and Construction Liens chapter may not be waived or limited by contract, and a contract provision purporting to do so is void; a claimant may waive or limit a lien right only in consideration of payment as § 38-1a-802 provides (§ 38-1a-105). Under § 38-1a-802 a claimant's written consent that waives or limits its lien rights is enforceable only if the claimant executes a signed waiver and release (or a restrictive endorsement on a check in substantially the statutory form) AND receives payment of the amount identified, and for a progress payment only to the extent of the payment. If payment is made by check and the check fails to clear, the waiver and release is void and the claimant's lien, bond, contract and other payment rights are unaffected.",
+    "trap": "A waiver signed in exchange for a check that bounces is void by statute, and a progress-payment waiver releases only the amount actually paid. The statutory progress-payment form also excludes retention, pending change items, disputed claims and later-furnished items, and because a waiver is enforceable only once the claimant receives payment, a release signed before payment does not bind until the payment is received. Accord and satisfaction of a bona fide dispute, and settlement of a pending action, can still impair lien rights if in a writing signed by the claimant that specifically references the lien rights.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 38-1a-105",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_38_38_1a_105",
+            "quote": "A right or privilege under this chapter may not be waived or limited by contract. A provision of a contract purporting to waive or limit a right or privilege under this chapter is void. Notwithstanding Subsection (1) , a claimant may waive or limit, in whole or in part, a lien right under this chapter in consideration of payment as provided in Section 38-1a-802",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 38-1a-802",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_38_38_1a_802",
+            "quote": "a claimant's written consent that waives or limits the claimant's lien rights is enforceable only if the claimant: executes a waiver and release that is signed by the claimant or the claimant's authorized agent; or for a restrictive endorsement on a check, includes a restrictive endorsement on a check that is: signed by the claimant or the claimant's authorized agent; and in substantially the same form set forth in Subsection (4)(d) ; and receives payment of the amount identified in the waiver and release or check that includes the restrictive endorsement: including payment by a joint payee check; and for a progress payment, only to the extent of the payment.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 38-1a-802",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_38_38_1a_802",
+            "quote": "If the conditions of Subsection (3)(a) are met: the waiver and release described in Subsection (3)(a) is void; and the following will not be affected by the claimant's execution of the waiver and release: any lien; any lien right; any bond right; any contract right; or any other right to recover payment afforded to the claimant in law or equity.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 38-1a-105, 38-1a-802 (including the statutory forms 'UTAH CONDITIONAL WAIVER AND RELEASE UPON PROGRESS PAYMENT' and 'UTAH WAIVER AND RELEASE UPON FINAL PAYMENT', and subsection (5) on accord and satisfaction and settlement, described in the trap but not quoted). § 38-1a-802 history line: 'Renumbered and Amended by Chapter 278, 2012 General Session' and 'Amended by Chapter 347, 2012 General Session'. No Utah Supreme Court opinion construing § 38-1a-802 was searched for. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "limitation-of-liability",
+    "rule_id": "ut-preinjury-release-clear-and-unmistakable-no-gross-negligence",
+    "question": "Will a Utah court enforce a release or exculpatory clause against the drafter's own negligence?",
+    "rule": "Only if clear and unmistakable, and never for gross negligence. Utah respects the ability of parties bargaining at arm's length to agree that one may waive its ability to sue for injuries arising out of the other's negligence before any injury, but such arrangements are unenforceable unless they are clear and unmistakable about both parties' intentions; a release need not use specific words to be clear and unmistakable (Cunningham v. Weber County, 2022). On public policy grounds the Utah Supreme Court has disallowed liability waivers for grossly negligent acts while permitting those that release liability stemming from negligent acts (Ipsen v. Diamond Tree Experts, 2020).",
+    "trap": "A release that can reasonably be read two ways about what or whom it releases fails: Cunningham held the release there was not clear and unmistakable and so unenforceable, without reaching public policy. No drafting reaches gross negligence. Specific words are not required, but carve-outs matter: Cunningham described Freund's exclusion of intentional wrongdoing and willful negligence as what made the indemnity clear and unmistakable as to negligence.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2022 UT 8",
+        "name": "Cunningham v. Weber County",
+        "court": "Utah",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "7791edc44443ad9f",
+            "cl_opinion_id": "6226905",
+            "quote": "Although we respect the ability of two parties bargaining at arm‘s length to agree that one party may waive its ability to sue for injuries arising out of the other‘s negligence before any injury is suffered, such arrangements are unenforceable unless they are clear and unmistakable about both parties",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2022 UT 8",
+        "name": "Cunningham v. Weber County",
+        "court": "Utah",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "7791edc44443ad9f",
+            "cl_opinion_id": "6226905",
+            "quote": "That is not to say that a release must use specific words to make its intent clear and unmistakable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2020 UT 30",
+        "name": "Ipsen v. Diamond Tree Experts, Inc.",
+        "court": "Utah",
+        "decided": "2020",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "7d0a3f252562a5b0",
+            "cl_opinion_id": "4535885",
+            "quote": "On public policy grounds, we have disallowed liability waivers for grossly negligent acts while permitting those that release liability stemming from negligent acts.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2022 UT 8",
+        "name": "Cunningham v. Weber County",
+        "court": "Utah",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "7791edc44443ad9f",
+            "cl_opinion_id": "6226905",
+            "quote": "The preinjury release Cunningham signed was neither clear nor unmistakable and is therefore unenforceable.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Cunningham v. Weber County, 2022 UT 8: Pearce, J., for the court (Durrant, C.J., Lee, A.C.J., Himonas and Petersen, JJ.); Himonas, J., also filed a concurring opinion; quotes are ¶¶ 14 and 17 of the opinion of the court. Ipsen v. Diamond Tree Experts, Inc., 2020 UT 30: Himonas, J., for the court with Durrant, C.J., and Petersen, J.; Lee, A.C.J., with Pearce, J., dissented (3-2); the quote is ¶ 19 of the opinion of the court, describing prior law (citing Hawkins v. Peart, 2001 UT 94, noted as superseded by statute on other grounds as stated in Penunuri v. Sundance Partners, 2013 UT 22). Good-law scan: 4 later opinions mention 2022 UT 8 and 3 mention 2020 UT 30, none negative (the two flag hits cite Ipsen on unrelated points). NOT established from text read: the minor-release rule of Hawkins and Rutherford v. Talisker (a parent cannot release a minor's prospective negligence claims) is described in later opinions read only in scan snippets, and its statutory modification for equine and skiing activities was not researched; the Tunkl public-interest exception Cunningham mentions was not reached there. HOLDING SWEEP 2026-09-22 (fourth band, overlap 0.25-0.30): the holding the row paraphrases from Cunningham v. Weber County is now blocked in the court's words."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "limitation-of-remedy",
+    "rule_id": "ut-70a-2-719-exclusive-remedy-and-essential-purpose",
+    "question": "Will a Utah court enforce a repair-or-replace or other exclusive remedy clause in a sale of goods?",
+    "rule": "Yes if expressly agreed to be exclusive. The agreement may provide remedies in addition to or in substitution for the Code's and may limit the measure of damages, as by limiting the buyer to return and refund or to repair and replacement, but resort to the agreed remedy is optional unless it is expressly agreed to be exclusive, in which case it is the sole remedy. Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, the Code's remedies are available; consequential damages may be limited or excluded unless unconscionable, and limiting consequential damages for injury to the person with consumer goods is prima facie unconscionable while limiting damages where the loss is commercial is not (§ 70A-2-719).",
+    "trap": "A remedy clause that does not say 'exclusive' (or equivalent) is only an extra option. And a consequential-damages exclusion that is valid commercially is prima facie unconscionable for personal injury from consumer goods.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-719",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_719",
+            "quote": "the agreement may provide for remedies in addition to or in substitution for those provided in this chapter and may limit or alter the measure of damages recoverable under this chapter, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-719",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_719",
+            "quote": "Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this act. Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "§ 70A-2-719 read in full 2026-09-17 (history line 'Enacted by Chapter 154, 1965 General Session'). A scan of Utah Supreme Court opinions for '70A-2-719' and 'essential purpose' returned no contract opinion construing it among the hits reviewed (the hits used 'essential purpose' in other senses). This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "limitations-period",
+    "rule_id": "ut-six-years-written-contract-four-years-goods-reducible-to-one",
+    "question": "How long does a party have to sue on a written contract in Utah, and can the contract shorten it?",
+    "rule": "An action upon any contract, obligation or liability founded upon an instrument in writing may be brought within six years, except those mentioned in § 78B-2-311 (§ 78B-2-309). For a contract for the sale of goods an action for breach must be commenced within four years after the cause of action accrued, and by the original agreement the parties may reduce the period to not less than one year but may not extend it (§ 70A-2-725).",
+    "trap": "For goods, a cause of action accrues when the breach occurs regardless of the aggrieved party's knowledge, and a breach of warranty occurs on tender of delivery unless the warranty explicitly extends to future performance (§ 70A-2-725), so a latent defect can be time-barred before it is found. A clause shortening the goods period below one year, or extending it, is outside what § 70A-2-725 permits. For a credit agreement as defined in § 25-5-4, the six-year period begins at the latest of the debt arising, a written acknowledgment or promise to pay, or a payment (§ 78B-2-309). Whether a non-goods contract may shorten the six-year period was not verified.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 78B-2-309",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_78B_78B_2_309",
+            "quote": "An action may be brought within six years: for the mesne profits of real property; subject to Subsection (2) , upon any contract, obligation, or liability founded upon an instrument in writing, except those mentioned in Section 78B-2-311",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-725",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_725",
+            "quote": "An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 78B-2-309 (history line 'Amended by Chapter 107, 2019 General Session'), 70A-2-725. § 78B-2-311 was not read. A scan of Utah Supreme Court opinions for contractual or shortened limitation periods found Hoeppner v. Utah Farm Bureau Insurance Co. (1979, a policy's twelve-month suit clause) and Softsolutions v. Brigham Young University (2000, a one-year contractual period in an arbitration award context), read only in scan snippets; no general rule was taken from them. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "liquidated-damages",
+    "rule_id": "ut-liquidated-damages-presumed-enforceable-general-defenses-only",
+    "question": "Will a Utah court enforce this liquidated damages clause, or strike it as a penalty?",
+    "rule": "Utah presumes it enforceable. In Commercial Real Estate Investment v. Comcast (2012) the Utah Supreme Court clarified that liquidated damages clauses are not subject to any form of heightened judicial scrutiny: courts begin with the longstanding presumption that they are enforceable, and a party may challenge one only by pursuing a general contractual remedy such as mistake, fraud, duress or unconscionability. For a sale of goods, the Code allows damages to be liquidated only at an amount reasonable in light of the anticipated or actual harm, the difficulties of proof of loss and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy, and a term fixing unreasonably large liquidated damages is void as a penalty (§ 70A-2-718).",
+    "trap": "Two different tests: outside the Code the old Restatement 'reasonable forecast / difficult to estimate' test and the 'shock the conscience' penalty test no longer govern after Commercial Real Estate (later Utah Court of Appeals opinions describe earlier cases such as Reliance Insurance v. UDOT as abrogated), and the challenger must prove a general contract defense; but for goods, § 70A-2-718 still voids an unreasonably large amount as a penalty. In Commercial Real Estate the burden lay with the party challenging the clause.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2012 UT 49",
+        "name": "Commercial Real Estate Investment, L.C. v. Comcast of Utah II, Inc.",
+        "court": "Utah",
+        "decided": "2012",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "d7ebdddc5356195c",
+            "cl_opinion_id": "5157596",
+            "quote": "Thus we clarify that liquidated damages clauses are not subject to any form of heightened judicial serutiny. Instead, courts should begin with the longstanding presumption that liquidated damages clauses are enforceable. See, eg., Bair, 2001 UT 20 , 1 25, 20 P.3d 888 . A party may challenge the enforceability of a liquidated damages clause only by pursuing one of the general contractual remedies, such as mistake, fraud, duress, or unconscionahility.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-718",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_718",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Commercial Real Estate Investment, L.C. v. Comcast of Utah II, Inc., 2012 UT 49: Durham, J., for the court with Nehring, A.C.J., and Parrish, J.; Lee, J., concurred in part and in the judgment in a separate row (49cde1d08a1db81b); Durrant, C.J., recused and a district judge sat but retired; the quote is ¶ 40 of the opinion of the court (the row's OCR reads 'serutiny' and 'unconscionahility', quoted as published). That the burden lies with the challenger is read in ¶ 41 ('The burden lies with Comcast in challenging the enf[orceability]'), not quoted. Good-law scan: 22 later opinions mention 2012 UT 49; the six flag hits are Court of Appeals opinions describing Soffe v. Ridd, Reliance Insurance and similar cases as abrogated BY Commercial Real Estate (Brady v. Park, 2013 UT App; Smargon v. Grand Lodge Partners, 2012 UT App; Thatcher v. Lang, 2020 UT App), none questioning it. § 70A-2-718 read in full; subsections (2)-(4) on buyer restitution were read, not stated. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "non-competition",
+    "rule_id": "ut-34-51-one-year-cap-healthcare-and-veterinarian-bans",
+    "question": "Will a Utah court enforce this post-employment non-compete?",
+    "rule": "Only within the Post-Employment Restrictions Act and the common law. In the text we hold: in addition to any common-law requirements, for a non-compete entered into on or after May 10, 2016 an employer and employee may not enter into a non-compete for more than one year after employment ends; on or after May 6, 2026 a person and a healthcare worker may not enter into a healthcare non-compete at all; and a non-compete violating those rules is void (§ 34-51-201(1)). A 'non-compete agreement' excludes nonsolicitation, nondisclosure and confidentiality agreements (§ 34-51-102). Broadcasting non-competes are valid only for exempt broadcasting employees in a written contract of reasonable duration and only after termination for cause or the employee's breach, and last no longer than the earlier of one year or the end of the contract's original term; on or after May 6, 2026 a veterinarian non-compete is void unless the veterinarian owns at least 5% of the business, and an out-of-state forum clause in one is void (§ 34-51-201(2),(3)). The chapter does not prohibit a reasonable severance agreement made in good faith at or after termination, or a non-compete arising out of the sale of a business where the individual receives value from the sale (§ 34-51-202). If an employer seeks to enforce a non-compete, healthcare non-compete, nondisclosure clause or nonsolicitation agreement and it is determined unenforceable, the employer is liable for the employee's arbitration costs, attorney fees and court costs, and actual damages (§ 34-51-301). At common law the Utah Supreme Court has listed four requirements: consideration, no bad faith in negotiation, necessity to protect the goodwill of the business, and reasonableness in time and geographic area (Kasco Services v. Benson).",
+    "trap": "Currency is the trap: the healthcare and veterinarian bans and the healthcare nonsolicitation limit (§ 34-51-203: no nonsolicitation clause preventing a healthcare worker from telling patients where the worker now works or will work) are stated in the text as applying to agreements entered 'on or after May 6, 2026', and we hold no effective dates, so an older agreement is not reached by those sentences on their face. A 'healthcare worker' is a long list of licensed professionals practising under their license (§ 34-51-102). The fee-and-damages exposure of § 34-51-301 applies to a failed attempt to enforce even a nondisclosure or nonsolicitation clause, not only a non-compete, so an overreaching NDA is a litigation risk for the employer.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-201",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_201",
+            "quote": "Except as provided in Subsection (2) and in addition to any requirements imposed under common law, for a non-compete agreement entered into on or after May 10, 2016, an employer and an employee may not enter into a non-compete agreement for a period of more than one year from the day on which the employee is no longer employed by the employer. On or after May 6, 2026, a person and a healthcare worker may not enter into a healthcare non-compete agreement. A non-compete agreement that violates this Subsection (1) is void.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-102",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_102",
+            "quote": "means an agreement, written or oral, between an employer and employee under which the employee agrees that on or after the day on which the employer no longer employs the employee, the employee, either alone or as an employee of another person, will not compete with the employer in providing a product, process, or service that is similar to the employer's product, process, or service. \"Non-compete agreement\" does not include: a nonsolicitation agreement; a nondisclosure agreement; or a confidentiality agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-102",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_102",
+            "quote": "means an agreement between a person and a healthcare worker within which the healthcare worker agrees that, after the day on which the healthcare worker no longer works for or with the person, the healthcare worker will not engage in a service that the healthcare worker may provide under the scope of the healthcare worker's license: for a restricted period of time; or within a specific geographic area.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-201",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_201",
+            "quote": "a non-compete agreement between a broadcasting company and a broadcasting employee is valid only if: the broadcasting employee is an exempt broadcasting employee; the non-compete agreement is part of a written employment contract of reasonable duration, based on industry standards, the position, the broadcasting employee's experience, geography, and the parties' unique circumstances; and the broadcasting company terminates the broadcasting employee for cause; or the broadcasting employee breaches the employment contract in a manner that results in the broadcasting employee no longer being employed by the broadcasting company. A non-compete agreement described in Subsection (2)(a) is enforceable for no longer than the earlier of: one year after the day on which the broadcasting employee is no longer employed by the broadcasting company; or the day on which the original term of the employment contract containing the non-compete agreement ends.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-201",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_201",
+            "quote": "on or after May 6, 2026, a person and a veterinarian may not enter into a veterinarian non-compete agreement. Subsection (3)(a) does not apply if the veterinarian has at least a 5% ownership interest in the person's business. A veterinarian non-compete agreement that violates this Subsection (3) is void. If a provision in a veterinarian non-compete agreement entered into on or after May 6, 2026, requires that the parties to a dispute arising under the veterinarian non-compete agreement resolve the dispute in a forum outside of this state, the provision: is void and unenforceable; and is considered against the public policy of this state.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-203",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_203",
+            "quote": "On or after May 6, 2026, a person and a healthcare worker may not enter into nonsolicitation agreement that prevents a healthcare worker from informing a patient of any of the following: the healthcare worker's current place of employment; or the healthcare worker's future place of employment. A nonsolicitation agreement that violates Subsection (1) is void.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-202",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_202",
+            "quote": "This chapter does not prohibit: a reasonable severance agreement mutually and freely agreed upon in good faith at or after the time of termination that includes a non-compete agreement or a healthcare non-compete agreement; or a non-compete agreement or a healthcare non-compete agreement related to or arising out of the sale of a business, if the individual subject to the non-compete agreement or healthcare non-compete agreement receives value related to the sale of the business.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-301",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_301",
+            "quote": "If an employer seeks to enforce a non-compete agreement, healthcare non-compete agreement, nondisclosure clause, or nonsolicitation agreement through arbitration or by filing a civil action and it is determined that the non-compete agreement, healthcare non-compete agreement, nondisclosure clause, or nonsolicitation agreement is unenforceable, the employer is liable for the employee's: costs associated with arbitration; attorney fees and court costs; and actual damages.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "831 P.2d 86",
+        "name": "Kasco Services Corp. v. Benson",
+        "court": "Utah",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "bcb578b3152a220b",
+            "cl_opinion_id": "9620191",
+            "quote": "The four requirements are that (1) the covenant not to compete must be supported by consideration; (2) no bad faith may be shown in the negotiation of the contract; (3) the covenant must be necessary to protect the goodwill of the business; and (4) the covenant must be reasonable in its restrictions in terms of time and geographic area.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 34-51-102, 34-51-201, 34-51-202, 34-51-203, 34-51-205, 34-51-206, 34-51-301. The published history lines read 'Amended by Chapter 341, 2026 General Session' (§§ 34-51-102, -201, -202, -301), 'Enacted by Chapter 341, 2026 General Session' (§ 34-51-203) and 'Enacted by Chapter 66, 2026 General Session' (§§ 34-51-205, -206: on or after May 6, 2026, veterinarian nondisclosure clauses about the veterinarian's experience, and all veterinarian nonsolicitation agreements, are void; read, not quoted). § 34-51-102's 'exempt broadcasting employee' salary threshold ($913 per week or the FLSA exemption rate) was read, not stated. The pre-2026 text of these sections is not in our corpus, so what the one-year rule said before the 2026 amendments was not verified. Kasco Services Corp. v. Benson, 831 P.2d 86 (Utah 1992): Howe, A.C.J., with Hall, C.J., and Zimmerman, J.; Stewart, J., with Durham, J., dissented (3-2); the four requirements are in the majority's footnote (row bcb578b3152a220b), citing Allen v. Rose Park Pharmacy (Utah 1951). Good-law scan: 23 later opinions mention 831 P.2d 86, none negative; one Supreme Court opinion (Aston v. Chronicle-Progress, 2026) cites § 34-51-301 in a list of fee statutes. NOT established: how Utah courts treat an overlong covenant (reformation or voiding beyond the statute's 'void')."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "prompt-payment",
+    "rule_id": "ut-13-8-5-retention-cap-release-and-13-8-4-scheduled-payments",
+    "question": "What does Utah require about retainage and payment on a construction contract?",
+    "rule": "For nonresidential commercial or industrial construction, retention withheld from any payment may not exceed 5% of the payment (owner to original contractor, contractor to subcontractor, or between subcontractors) and total retention may not exceed 5% of the total construction price; retention and accrued interest must be released within 45 days from the later of listed events beginning with the owner's receipt of the contractor's billing statement; a contractor or subcontractor receiving retention must pay each subcontractor its share within 10 days; a party that knowingly and wrongfully withholds retention owes 2% per month on the amount in addition to other interest; and a party to a construction contract may not require any other party to waive any provision of the section (§ 13-8-5). On a Utah construction contract a party shall make all scheduled payments under its terms, and the existence of a contingent-payment provision (payment to a subcontractor contingent on the contractor being paid) is not a defense to a claim to enforce a construction lien (§ 13-8-4).",
+    "trap": "Currency: the only version of § 13-8-5 in our corpus carries the history line '1/1/2027 Amended by Chapter 42, 2026 General Session', which on its face is a version that takes effect January 1, 2027; we hold no effective dates and no other version, so the text above may not be the law in force before that date. § 13-8-5 is limited to nonresidential commercial or industrial projects (mixed projects pro rata by square footage) and does not apply to a construction lender. The owner may withhold what is reasonably necessary to cure a contractor's default, and on substantial completion up to twice the value of uncompleted work, but must describe the withheld work in writing within 45 days. Those § 13-8-4 sentences do not apply to private construction work on residential property of four units or less.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-5",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_5",
+            "quote": "means a written agreement between the parties relative to the design, construction, alteration, repair, or maintenance of a building, structure, highway, appurtenance, appliance, or other improvements to real property, including moving, demolition, and excavating for nonresidential commercial or industrial construction projects.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-5",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_5",
+            "quote": "the retention proceeds withheld and retained from any payment due under the terms of the construction contract may not exceed 5% of the payment: by the owner or public agency to the original contractor; by the original contractor to any subcontractor; or by a subcontractor. The total retention proceeds withheld may not exceed 5% of the total construction price.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-5",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_5",
+            "quote": "Any retention proceeds retained or withheld pursuant to this section and any accrued interest shall be released pursuant to a billing statement from the contractor within 45 days from the later of: the date the owner or public agency receives the billing statement from the contractor;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-5",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_5",
+            "quote": "shall pay each of its subcontractors from whom retention has been withheld each subcontractor's share of the retention received within 10 days from the day that all or any portion of the retention proceeds is received",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-5",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_5",
+            "quote": "Any owner, public agency, original contractor, or subcontractor who knowingly and wrongfully withholds a retention shall be subject to a charge of 2% per month on the improperly withheld amount, in addition to any interest otherwise due.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-5",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_5",
+            "quote": "A party to a construction contract may not require any other party to waive any provision of this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-4",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_4",
+            "quote": "A party to a construction contract shall make all scheduled payments under the terms of the construction contract. The existence of a contingent payment contract is not a defense to a claim to enforce a preconstruction or construction lien under Title 38, Chapter 1a, Preconstruction and Construction Liens",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 13-8-4 (history line 'Amended by Chapter 278, 2012 General Session'; applies to contracts executed on or after May 5, 1997), 13-8-5 (all subsections, including interest-bearing escrow of retention, the constructive trust, partial release on partial occupancy, the lien-waiver documentation requirement for release billings, and attorney fees to the successful party in a collection action), and Utah Prompt Payment Act §§ 15-6-1 to -3 (state agencies pay by the contract date or within 60 days of invoice, with interest; read, not stated). No Utah Supreme Court opinion construing § 13-8-5 was found in a scan for '13-8-5' and 'retention proceeds' (0 hits). This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "statute-of-frauds",
+    "rule_id": "ut-25-5-4-void-unless-signed-writing-including-credit-agreements",
+    "question": "Which Utah contracts must be in a signed writing?",
+    "rule": "Under § 25-5-4 these agreements are void unless the agreement, or a note or memorandum of it, is in writing signed by the party to be charged: an agreement that by its terms is not to be performed within one year; a promise to answer for the debt, default or miscarriage of another; an agreement made upon consideration of marriage (except mutual promises to marry); an executor's or administrator's special promise to pay the decedent's debts out of his own estate; an agreement authorizing or employing an agent or broker to buy or sell real estate for compensation; and every credit agreement. A debtor or creditor may not maintain an action on a credit agreement unless it is in writing, expresses consideration, sets forth the relevant terms and conditions, and is signed by the party against whom enforcement is sought.",
+    "trap": "'Credit agreement' means an agreement by a financial institution to lend, delay or modify repayment, otherwise extend credit, or make any other financial accommodation, so an oral promise by a bank to forbear, extend or refinance is not actionable; financial advice, consultation or a fiduciary relationship between creditor and debtor does not create a credit agreement unless the writing requirements are met, and each credit agreement must carry a notice that the writing is the final expression of the agreement. A real-estate commission agreement must also be signed. Under UETA an electronic record and signature can satisfy these requirements (see the electronic-signature row). The one-year clause reaches only agreements that 'by its terms' cannot be performed within a year.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 25-5-4",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_25_25_5_4",
+            "quote": "The following agreements are void unless the agreement, or some note or memorandum of the agreement, is in writing, signed by the party to be charged with the agreement: every agreement that by its terms is not to be performed within one year from the making of the agreement; every promise to answer for the debt, default, or miscarriage of another; every agreement, promise, or undertaking made upon consideration of marriage, except mutual promises to marry; every special promise made by an executor or administrator to answer in damages for the liabilities, or to pay the debts, of the testator or intestate out of his own estate; every agreement authorizing or employing an agent or broker to purchase or sell real estate for compensation; and every credit agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 25-5-4",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_25_25_5_4",
+            "quote": "a debtor or a creditor may not maintain an action on a credit agreement unless the agreement: is in writing; expresses consideration; sets forth the relevant terms and conditions; and is signed by the party against whom enforcement of the agreement would be sought.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 46-4-201",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_46_46_4_201",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. If a law requires a record to be in writing, an electronic record satisfies the law. If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "§ 25-5-4 read in full 2026-09-17 (history line 'Amended by Chapter 92, 2004 General Session'), including the credit-agreement definitions, the signed-application rule, the final-expression notice and the use-of-credit acceptance exception (read, described in the trap, not all quoted). § 25-5-3 (real property interests) and § 70A-2-201 (sale of goods) were not read. Case law: Utah Supreme Court opinions quoting the one-year clause (e.g., Colonial Leasing Co. v. Larsen Bros. Construction, 1986; Auerbach's, Inc. v. Kimball, 1977) were read only in scan snippets and are not relied on. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "ut-utsa-displaces-tort-not-contract-remedies",
+    "question": "Does Utah's trade secrets act displace our NDA or confidentiality claims?",
+    "rule": "Not contract claims. The Utah Uniform Trade Secrets Act displaces conflicting tort, restitutionary and other Utah law providing civil remedies for misappropriation of a trade secret, but it does not affect contractual remedies, whether or not based upon misappropriation of a trade secret, or other civil remedies not based upon misappropriation of a trade secret (§ 13-24-8). A trade secret is information, including a formula, pattern, compilation, program, device, method, technique or process, that derives independent economic value from not being generally known or readily ascertainable by proper means and is the subject of reasonable efforts to maintain its secrecy (§ 13-24-2).",
+    "trap": "The confidentiality agreement is the claim that survives: a tort claim built on misuse of trade secrets is displaced. Under the Post-Employment Restrictions Act, an employer that tries and fails to enforce a nondisclosure or nonsolicitation clause against an employee owes the employee's costs, attorney fees and actual damages (§ 34-51-301; see the non-competition row), and on or after May 6, 2026 certain veterinarian nondisclosure clauses are void.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-24-8",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_24_8",
+            "quote": "this chapter displaces conflicting tort, restitutionary, and other law of this state providing civil remedies for misappropriation of a trade secret. This chapter does not affect: contractual remedies, whether or not based upon misappropriation of a trade secret; other civil remedies that are not based upon misappropriation of a trade secret",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-24-2",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_24_2",
+            "quote": "means information, including a formula, pattern, compilation, program, device, method, technique, or process, that: derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use; and is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-301",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_301",
+            "quote": "If an employer seeks to enforce a non-compete agreement, healthcare non-compete agreement, nondisclosure clause, or nonsolicitation agreement through arbitration or by filing a civil action and it is determined that the non-compete agreement, healthcare non-compete agreement, nondisclosure clause, or nonsolicitation agreement is unenforceable, the employer is liable for the employee's: costs associated with arbitration; attorney fees and court costs; and actual damages.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 13-24-2, 13-24-8 (history line 'Enacted by Chapter 60, 1989 General Session'), 34-51-205, 34-51-301. Innosys, Inc. v. Mercer, 2015 UT 80, discusses § 13-24-8 at ¶ 96, but that passage is in Durham, J.'s dissent and was NOT used; the majority's treatment of UTSA displacement was not located. CDC Restoration & Construction v. Tradesmen Contractors, 2012 UT App 60 (quoted in that dissent) was not read. NOT established: whether Utah displaces claims about confidential information that is not a trade secret. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "unconscionability",
+    "rule_id": "ut-unconscionability-two-pronged-substantive-can-suffice",
+    "question": "When will a Utah court refuse to enforce a contract or clause as unconscionable?",
+    "rule": "Utah uses a two-pronged analysis: substantive unconscionability focuses on the agreement's contents and procedural unconscionability on its formation. Substantive unconscionability alone may support a finding of unconscionability, but procedural unconscionability without any substantive imbalance will rarely render a contract unconscionable (Ryan v. Dan's Food Stores). For a sale of goods, if the court as a matter of law finds the contract or a clause unconscionable at the time it was made it may refuse to enforce the contract, enforce the remainder without the clause, or limit the clause to avoid an unconscionable result (§ 70A-2-302).",
+    "trap": "Unfair process alone rarely wins in Utah; the challenger needs a substantively one-sided term. The Code test is measured at the time of contracting, and the parties must have a reasonable opportunity to present evidence of commercial setting, purpose and effect (§ 70A-2-302).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "972 P.2d 395",
+        "name": "Ryan v. Dan's Food Stores, Inc.",
+        "court": "Utah",
+        "decided": "1998",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "4f240c2786d052db",
+            "cl_opinion_id": "1224402",
+            "quote": "In determining whether a contract is unconscionable, we use a two-pronged analysis. See Sosa v. Paulos, 924 P.2d 357, 360 (Utah 1996). The first prong  substantive unconscionability  focuses on the agreement's contents. The second prong  procedural unconscionability  focuses on the formation of the agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "972 P.2d 395",
+        "name": "Ryan v. Dan's Food Stores, Inc.",
+        "court": "Utah",
+        "decided": "1998",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "4f240c2786d052db",
+            "cl_opinion_id": "1224402",
+            "quote": "We have acknowledged that substantive unconscionability alone may support a finding of unconscionability but that procedural unconscionability without any substantive imbalance will rarely render a contract unconscionable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-302",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Ryan v. Dan's Food Stores, Inc., 972 P.2d 395 (Utah 1998): Zimmerman, J., with Howe, C.J., and Russon, J.; Stewart, J., concurred in the result; Durham, A.C.J., concurred in the result but expressly joined 'the majority opinion and its result as to the issues of Ryan's at-will status and of unconscionability', so the quoted passages have four votes. ryan-1 cites Sosa v. Paulos, 924 P.2d 357 (Utah 1996); the row's text has lost the dashes around 'substantive unconscionability' and 'procedural unconscionability', quoted as published. Ryan applied the doctrine to an employee handbook acknowledgment. Good-law scan: 34 later opinions mention 972 P.2d 395; the two flag hits are Ray v. Wal-Mart (2015) dissent passages citing it on public policy. Commercial Real Estate v. Comcast (2012) treats unconscionability as the remaining check on liquidated damages (see that row). § 70A-2-302 read in full. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "usury",
+    "rule_id": "ut-15-1-1-any-agreed-rate-and-criminal-usury",
+    "question": "Is there a usury cap on a Utah loan?",
+    "rule": "Not a general one in the text we hold: the parties to a lawful written, verbal or implied contract may agree upon any rate of interest, including for a loan or forbearance of money, goods or services, and absent an expressly specified rate the legal rate is 10% per annum (§ 15-1-1). Criminal usury is committed by an actor who knowingly engages in, or finances, the business of making loans at a higher rate of interest or consideration than is authorized by law, a third degree felony (§ 76-6-520).",
+    "trap": "'Any rate' is not unlimited in every setting: the criminal usury section is keyed to rates 'authorized by law', so a lender subject to a specific rate statute elsewhere in the Code can still commit it; those rate statutes were not researched here. A contract silent on interest carries 10%, not zero.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 15-1-1",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_15_15_1_1",
+            "quote": "The parties to a lawful written, verbal, or implied contract may agree upon any rate of interest for the contract, including a contract for services, a loan or forbearance of any money, goods, or services, or a claim for breach of contract. Unless the parties to a lawful written, verbal, or implied contract expressly specify a different rate of interest, the legal rate of interest for the contract, including a contract for services, a loan or forbearance of any money, goods, or services, or a claim for breach of contract is 10% per annum.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 76-6-520",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_76_76_6_520",
+            "quote": "An actor commits criminal usury if the actor knowingly engages in, or directly or indirectly provides financing for, the business of making loans at a higher rate of interest or consideration therefor than is authorized by law. A violation of Subsection (2) is a third degree felony.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full 2026-09-17: §§ 15-1-1 (history line 'Amended by Chapter 437, 2019 General Session'; the section also states it does not affect contracts made before May 14, 1981, or tax interest), 76-6-520 ('Amended by Chapter 111, 2023 General Session'). A search of published Utah statutes for 'usur' found only § 76-6-520 as a usury rule. Consumer-credit and lender-licensing statutes (e.g., title 7 and title 70C) were not searched. Utah Supreme Court opinions citing § 15-1-1 (e.g., Brady v. Park, 2019 UT 16) concern prejudgment and postjudgment interest and were read only in scan snippets. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "venue-selection",
+    "rule_id": "ut-forum-clause-enforced-unless-unfair-or-unreasonable",
+    "question": "Will a Utah court enforce a forum selection clause?",
+    "rule": "Generally yes. In Prows v. Pinpoint Retail Systems the Utah Supreme Court adopted Restatement (Second) of Conflict of Laws § 80: the parties' agreement as to the place of the action will be given effect unless it is unfair or unreasonable, and a plaintiff who sues in violation of the clause bears the burden of proving that enforcing it is unfair or unreasonable. Statutes void two kinds of clause: in a construction agreement, a provision requiring disputes to be resolved in a forum outside Utah is void and unenforceable if one party is domiciled in Utah and the work involves a construction project in Utah (§ 13-8-3), and in a veterinarian non-compete entered on or after May 6, 2026 an out-of-state forum provision is void (§ 34-51-201).",
+    "trap": "The burden is heavy but not insurmountable: in Prows the plaintiff met it because enforcing the New York forum would have forced him to litigate the same conspiracy claim against one defendant in New York and another in Utah, which the court held unjust and for all practical purposes a denial of his day in court. A clause that would split a multi-party dispute across forums is vulnerable. § 13-8-3 applies to agreements executed, renewed or materially modified on or after May 5, 1997.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "868 P.2d 809",
+        "name": "Prows v. Pinpoint Retail Systems, Inc.",
+        "court": "Utah",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "22368acd48057636",
+            "cl_opinion_id": "1141064",
+            "quote": "The modern view adopted by a majority of courts and which we adopt today is set forth in section 80 of the Second Restatement of Conflict of Laws: The parties’ agreement as to the place of the action will be given effect unless it is unfair or unreasonable. Restatement (Second) of Conflict of Laws § 80 (Supp.1988). Under this section, a plaintiff who brings an action in violation of a choice-of-forum provision bears the burden of proving that enforcing the clause is unfair or unreasonable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "868 P.2d 809",
+        "name": "Prows v. Pinpoint Retail Systems, Inc.",
+        "court": "Utah",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ut",
+            "row_id": "22368acd48057636",
+            "cl_opinion_id": "1141064",
+            "quote": "Forcing Prows to shoulder this heavy burden of proof, standing alone, is unjust and for all practical purposes denies him his day in court.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 13-8-3",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_13_13_8_3",
+            "quote": "A provision in a construction agreement requiring a dispute arising under the agreement to be resolved in a forum outside of this state is void and unenforceable as against the public policy of this state if: one of the parties to the agreement is domiciled in this state; and work to be done and the equipment and materials to be supplied under the agreement involves a construction project in this state.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 34-51-201",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_34_34_51_201",
+            "quote": "on or after May 6, 2026, a person and a veterinarian may not enter into a veterinarian non-compete agreement. Subsection (3)(a) does not apply if the veterinarian has at least a 5% ownership interest in the person's business. A veterinarian non-compete agreement that violates this Subsection (3) is void. If a provision in a veterinarian non-compete agreement entered into on or after May 6, 2026, requires that the parties to a dispute arising under the veterinarian non-compete agreement resolve the dispute in a forum outside of this state, the provision: is void and unenforceable; and is considered against the public policy of this state.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Prows v. Pinpoint Retail Systems, Inc., 868 P.2d 809 (Utah 1993): Howe, A.C.J., for a unanimous court; prows-2 is the adoption of § 80 (char 9,013) and prows-3 the holding on the facts (char 11,936). Phone Directories Co. v. Henderson (Utah 2000) (Howe, C.J., concurring in the result), describes Prows as having decided the enforceability standard; read in a scan snippet only. Jacobsen Construction Co. v. Teton Builders, 2005 UT 4, enforced a clause for litigation in Utah under Wyoming law chosen by the parties; not quoted. Good-law scan: 18 later opinions mention 868 P.2d 809, none negative. § 13-8-3 read in full (history line 'Enacted by Chapter 60, 1997 General Session'). This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ut",
+    "clause": "warranty-disclaimer",
+    "rule_id": "ut-70a-2-316-merchantability-mention-and-conspicuous-or-as-is",
+    "question": "What does a Utah disclaimer of implied warranties in a sale of goods need to say?",
+    "rule": "Subject to subsection (3), to exclude or modify the implied warranty of merchantability the language must mention merchantability and, in a writing, must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous (§ 70A-2-316(2)). Notwithstanding subsection (2), unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like 'as is', 'with all faults' or other language that in common understanding calls the buyer's attention to the exclusion and makes plain there is no implied warranty (§ 70A-2-316(3)(a)).",
+    "trap": "Two routes, two sets of requirements: a merchantability disclaimer must name merchantability and (in writing) be conspicuous, while an 'as is' or 'with all faults' clause can exclude all implied warranties without naming them, unless the circumstances indicate otherwise. Examination of the goods before contracting also removes implied warranties as to defects an examination ought to have revealed, and course of dealing, performance or usage of trade can exclude them. Utah adds a livestock rule: absent a written statement on merchantability or fitness, there is no implied warranty that livestock are free from disease at sale.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-316",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_316",
+            "quote": "Subject to Subsection (3) , to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Utah Code § 70A-2-316",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "UT_70A_70A_2_316",
+            "quote": "Notwithstanding Subsection (2) unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is,\" \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty;",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "§ 70A-2-316 read in full 2026-09-17 (history line 'Amended by Chapter 276, 1981 General Session'); the examination, course-of-dealing and livestock sentences are described from the text read, not quoted. Utah Supreme Court opinions applying the section (Christopher v. Larson Ford Sales, 1976, on conspicuousness; Billings Yamaha v. Rick Warner Ford, 1984; Rawson v. Conover, 2001) were read only in scan snippets and are not relied on. This store holds no statute effective dates. Each published Utah row opens with the Legislature's own history line (for example 'Amended by Chapter 341, 2026 General Session'); any date above is read from that line or from the section's text, not from a currency check."
+  }
+]

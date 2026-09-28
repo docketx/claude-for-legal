@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "NE_form_sites_default_files_DC_3_01_pdf_03772fb2",
+    "kind": "form",
+    "title": "1. Type of Case - Check only one:                    These items will NOT print on your form.",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-3-01.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_3_02_pdf_3aab7672",
+    "kind": "form",
+    "title": "1. Type of Case - Check only one:                    These items will NOT print on your form.",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-3-02.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_3_04_pdf_d2f9fd52",
+    "kind": "form",
+    "title": "1. Type of Case - Check only one:                These items will NOT print on your form.",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-3-04.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_5_Non_IV_D_CP_Flyer_Final_applying_for_services_pdf_5ba67ab4",
+    "kind": "form",
+    "title": "Applying for Child Support",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/5-Non_IV-D_CP_Flyer_Final_applying_for_services.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_20a_pdf_319d293c",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT AND APPLICATION FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-20a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_25a_pdf_ced3badb",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT AND MOTION FOR BENCH WARRANT AND",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-25a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_15_7a_pdf_972d8675",
+    "kind": "form",
+    "title": "COMPLETING THE ANSWER AND COUNTERCLAIM TO",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-7a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_2a_pdf_8d2f73ba",
+    "kind": "form",
+    "title": "COMPLETING THE APPLICATION AND AFFIDAVIT FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-2a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_26a_pdf_ceae87d0",
+    "kind": "form",
+    "title": "COMPLETING THE BENCH WARRANT (Enforcement of Child Support Order)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-26a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_11a_pdf_01fb1337",
+    "kind": "form",
+    "title": "COMPLETING THE CONFIDENTIAL EMPLOYMENT AND",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-11a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_2a_pdf_421cb9d8",
+    "kind": "form",
+    "title": "COMPLETING THE FINANCIAL AFFIDAVIT FOR CHILD SUPPORT",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-2a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_24a_pdf_a0fe8fc2",
+    "kind": "form",
+    "title": "COMPLETING THE ORDER CHILD SUPPORT CONTEMPT",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-24a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_14_12_A_pdf_7cb0b55f",
+    "kind": "form",
+    "title": "COMPLETING THE ORDER FOR MODIFICATION OF CHILD SUPPORT",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-14-12-A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_2_2a_pdf_eca2c63d",
+    "kind": "form",
+    "title": "COMPLETING THE ORDER TERMINATING CHILD SUPPORT",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-2-2a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_2_1a_pdf_d4afd6b7",
+    "kind": "form",
+    "title": "COMPLETING THE WAIVER OF NOTICE ON TERMINATION OF CHILD SUPPORT",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-2-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_child_support_386c8ea8",
+    "kind": "self-help-guide",
+    "title": "Child Support",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/child-support",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_child_support_termination_90853b96",
+    "kind": "self-help-guide",
+    "title": "Child Support Termination",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/child-support-termination",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_enforcement_child_support_orders_bdd35cb8",
+    "kind": "self-help-guide",
+    "title": "Enforcement of Child Support Orders",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/enforcement-child-support-orders",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_34_pdf_dde900a3",
+    "kind": "form",
+    "title": "FILING TO ENFORCE AN ORDER WITHOUT PAYMENT OF FEES",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-34.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_23_pdf_adaa438b",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR ENFORCEMENT HEARING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-23.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_14_13_pdf_a36ac79a",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR HEARING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-14-13.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_15_9_pdf_8d5c6957",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR HEARING ON THE COMPLAINT FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-9.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_7_NCP_Flyer_Final_making_payment_pdf_a9a15fcb",
+    "kind": "form",
+    "title": "Making Child Support Payments",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/7-NCP_Flyer_Final_making-payment.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_14_3_pdf_e3cd1410",
+    "kind": "form",
+    "title": "Modification of Child Support",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-14-3.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_modification_child_support_d8259951",
+    "kind": "self-help-guide",
+    "title": "Modification of Child Support",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/modification-child-support",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_6_IV_D_CP_Flyer_Final_QA_pdf_d648236a",
+    "kind": "form",
+    "title": "Nebraska Child Support",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/6-IV-D_CP_Flyer_Final_QA.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_9_91_pdf_23c64d5f",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-9-91.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_9_92_pdf_f4bd9d64",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-9-92.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_1_15_pdf_d78c7db5",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-1-15.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_7_2_pdf_f1db55ec",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-7-2.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_3_27_pdf_d2d2c767",
+    "kind": "form",
+    "title": "Nebraska State Court Form 1. Type of Case - Check only one:             These items will NOT print on your form.",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-3-27.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_3_28_pdf_b895e805",
+    "kind": "form",
+    "title": "Nebraska State Court Form 1. Type of Case - Check only one:             These items will NOT print on your form.",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-3-28.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_11_pdf_ee3ff636",
+    "kind": "form",
+    "title": "PAYEE AFFIDAVIT FOR NON-MONETARY RECEIPT",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-11.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_worksheet5_0_pdf_af2e15f3",
+    "kind": "form",
+    "title": "Worksheet 5",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/worksheet5_0.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_7_1_pdf_05f8f3b0",
+    "kind": "form",
+    "title": "✔   Printing the form and handwriting",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-7-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_27a_pdf_c45918b5",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT AND APPLICATION FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-27a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_32a_pdf_d633c2ea",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT AND MOTION FOR BENCH WARRANT",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-32a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_33a_pdf_bdc9a422",
+    "kind": "form",
+    "title": "COMPLETING THE BENCH WARRANT (Visitation)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-33a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_15_8a_pdf_edebb57a",
+    "kind": "form",
+    "title": "COMPLETING THE ORDER FOR MODIFICATION (PARENTING PLAN)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-8a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_31a_pdf_3df7cbeb",
+    "kind": "form",
+    "title": "COMPLETING THE ORDER, VISITATION CONTEMPT",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-31a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_14a_pdf_5e70b3a8",
+    "kind": "form",
+    "title": "COMPLETING THE PARENTING PLAN (Absent Parent, Plaintiff’s Use)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-14a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_37a_pdf_3a96e8d8",
+    "kind": "form",
+    "title": "COMPLETING THE PARENTING PLAN, PARENT- CREATED",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-37a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_38a_pdf_92538a83",
+    "kind": "form",
+    "title": "COMPLETING THE PARENTING PLAN, PARENT- CREATED",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-38a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_39a_pdf_715b0f60",
+    "kind": "form",
+    "title": "COMPLETING THE PARENTING PLAN, PARENT- CREATED",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-39a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_10_1a_pdf_76ccd75c",
+    "kind": "form",
+    "title": "COMPLETING THE TEMPORARY DELEGATION OF PARENTAL POWERS",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-10-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_37_pdf_ecb5f652",
+    "kind": "form",
+    "title": "DC 6:5.37 Rev. 11/2019",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-37.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_38_pdf_624373a5",
+    "kind": "form",
+    "title": "DC 6:5.38 Rev. 11/2019",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-38.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_39_pdf_06d59313",
+    "kind": "form",
+    "title": "DC 6:5.39 Rev. 11/2019",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-39.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_enforcement_visitation_orders_f41c1d0f",
+    "kind": "self-help-guide",
+    "title": "Enforcement of Visitation Orders",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/enforcement-visitation-orders",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_30_pdf_d71443fc",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR ENFORCEMENT HEARING (Visitation)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-30.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_15_2_pdf_7c4bb9dd",
+    "kind": "form",
+    "title": "Modification of Custody or Parenting Plan",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-2.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_modification_custody_or_parenting_plan_6fdf3bef",
+    "kind": "self-help-guide",
+    "title": "Modification of Custody or Parenting Plan",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/modification-custody-or-parenting-plan",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_13_1_1_pdf_bd45b8ae",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-13-1-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_13_1_pdf_fbf1989a",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-13-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_15_20_pdf_e644c410",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-20.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_15_21_pdf_85d96e1d",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-21.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_15_22_pdf_145b4759",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-22.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_15_24_pdf_df10d7ec",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-24.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_15_29_pdf_428e89ed",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-29.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_15_31_pdf_337f784f",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-15-31.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_13_pdf_28f5ee8c",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-13.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_14_pdf_f81af47e",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-14.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_31_pdf_09ce9b01",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-31.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_8_pdf_ebb37c96",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-8.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_JC_14_11_10_0_pdf_c0ff3bb3",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/JC-14-11-10_0.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_JC_14_11_1_pdf_0202fa6d",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/JC-14-11-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_temporary_delegation_parental_powers_8cc5dc58",
+    "kind": "self-help-guide",
+    "title": "Temporary Delegation of Parental Powers",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/temporary-delegation-parental-powers",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_worksheet2_pdf_b16beb18",
+    "kind": "form",
+    "title": "Worksheet 2",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/worksheet2.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_worksheet3_pdf_129f785a",
+    "kind": "form",
+    "title": "Worksheet 3",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/worksheet3.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_20_pdf_1ce41f33",
+    "kind": "form",
+    "title": "A GUIDE TO FILING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-20.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_20_G2_pdf_63956fc6",
+    "kind": "form",
+    "title": "Alternate Service Guide for Divorce",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-20-G2.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_2a_pdf_ca54bb44",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT IN SUPPORT OF",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-2a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_8a_pdf_f641de43",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT OF MAILING PUBLISHED NOTICE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-8a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_10_1a_pdf_4069074c",
+    "kind": "form",
+    "title": "COMPLETING THE ANSWER AND COUNTERCLAIM FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-10-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_9_1a_pdf_2904dadf",
+    "kind": "form",
+    "title": "COMPLETING THE ANSWER AND COUNTERCLAIM FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-9-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_1a_pdf_108c7e72",
+    "kind": "form",
+    "title": "COMPLETING THE COMPLAINT FOR DISSOLUTION OF MARRIAGE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_1a_pdf_5ffaf603",
+    "kind": "form",
+    "title": "COMPLETING THE COMPLAINT FOR DISSOLUTION OF MARRIAGE/DIVORCE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_6a_pdf_df47acda",
+    "kind": "form",
+    "title": "COMPLETING THE DECREE FOR DISSOLUTION OF MARRIAGE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-6a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_7a_pdf_da8bebd2",
+    "kind": "form",
+    "title": "COMPLETING THE DECREE FOR DISSOLUTION OF MARRIAGE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-7a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_6a_pdf_6d92a4e6",
+    "kind": "form",
+    "title": "COMPLETING THE DECREE FOR DISSOLUTION of MARRIAGE/DIVORCE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-6a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_3a_pdf_944392dc",
+    "kind": "form",
+    "title": "COMPLETING THE DECREE OF DISSOLUTION OF MARRIAGE (With Child(ren))",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-3a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_1a_pdf_8800f638",
+    "kind": "form",
+    "title": "COMPLETING THE MOTION FOR SERVICE BY PUBLICATION",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_4_7a_pdf_fcc868d3",
+    "kind": "form",
+    "title": "COMPLETING THE MOTION TO DISMISS",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-4-7a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_4_5_pdf_6d0daa7b",
+    "kind": "form",
+    "title": "COMPLETING THE NOTICE OF DIVORCE PROCEEDING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-4-5.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_4_5_0_pdf_8be8c759",
+    "kind": "form",
+    "title": "COMPLETING THE NOTICE OF DIVORCE PROCEEDING (With Children)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-4-5_0.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_3a_pdf_8009bf38",
+    "kind": "form",
+    "title": "COMPLETING THE ORDER FOR SERVICE BY PUBLICATION",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-3a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_50_pdf_5431aef6",
+    "kind": "form",
+    "title": "DIVORCE WITH",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-50.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_worksheet_divorce_no_children_pdf_01093b49",
+    "kind": "form",
+    "title": "Divorce With No Children",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/worksheet-divorce-no-children.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_instructions_sites_default_files_Self_Help_worksheet_divorce_no_children_pdf_a6a3e398",
+    "kind": "instructions",
+    "title": "Divorce With No Children",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/Self-Help/worksheet-divorce-no-children.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_instructions_sites_default_files_Self_Help_worksheet_divorce_no_children_sp_pdf_532ec8e1",
+    "kind": "instructions",
+    "title": "Divorce With No Children",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/Self-Help/worksheet-divorce-no-children-sp.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_worksheet_divorce_children_pdf_7b51ec85",
+    "kind": "form",
+    "title": "Divorce with Children",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/worksheet-divorce-children.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_instructions_sites_default_files_Self_Help_worksheet_divorce_children_pdf_e1f02a09",
+    "kind": "instructions",
+    "title": "Divorce with Children",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/Self-Help/worksheet-divorce-children.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_instructions_sites_default_files_Self_Help_worksheet_divorce_children_sp_pdf_75f54f4f",
+    "kind": "instructions",
+    "title": "Divorce with Children              Divorcio con hijos",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/Self-Help/worksheet-divorce-children-sp.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_AD_2_33_pdf_4236026a",
+    "kind": "form",
+    "title": "Divorce with Children –",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/AD-2-33.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_AD_2_34_pdf_1841944f",
+    "kind": "form",
+    "title": "Divorce without Children –",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/AD-2-34.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_pdf_c9a3b791",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_pdf_8b3e812d",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR DIVORCE HEARING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6A_pdf_86872880",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR DIVORCE HEARING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6B_pdf_021dfd4b",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR DIVORCE HEARING WITH CHILDREN",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6B.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_general_court_forms_motion_dismiss_c2f82b22",
+    "kind": "self-help-guide",
+    "title": "Motion to Dismiss",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/general-court-forms/motion-dismiss",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_10_pdf_2e42f887",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-10.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_1_pdf_67174c64",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_6_pdf_6e918828",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-6.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_9_pdf_42c42229",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-9.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_1_pdf_6d9e98fa",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_3_pdf_d9bc62ac",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-3.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_1_pdf_f9741edc",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_3_pdf_b7d76712",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-3.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_6_pdf_16287221",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-6.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_9_1_pdf_74ce44db",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-9-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_2_pdf_e1de5753",
+    "kind": "form",
+    "title": "Nebraska State Court Form                            ✔    Printing the form and handwriting",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-2.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_instructions_sites_default_files_Self_Help_revoke_poa_pdf_513952f6",
+    "kind": "instructions",
+    "title": "REVOKING (CANCELING) A POWER OF ATTORNEY",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/Self-Help/revoke-poa.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_simple_divorce_no_children_45f5503c",
+    "kind": "self-help-guide",
+    "title": "Simple Divorce - No Children",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/simple-divorce-no-children",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_simple_divorce_children_08441681",
+    "kind": "self-help-guide",
+    "title": "Simple Divorce - With Children",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/simple-divorce-children",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_6_8_pdf_510445c5",
+    "kind": "form",
+    "title": "Type of Case - Check only one:",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-6-8.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_7_2a_pdf_dc64099b",
+    "kind": "form",
+    "title": "COMPLETING THE ORDER TO PROCEED IN FORMA PAUPERIS",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-7-2a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "fee-waiver"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_court_records_38c7b1be",
+    "kind": "self-help-guide",
+    "title": "Court Records",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/court-records",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "NE_form_sites_default_files_adoption_pdf_0e23ae90",
+    "kind": "form",
+    "title": "Department of Health & Human Services   Vital Statistics",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/adoption.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_17_7_pdf_137ef5a0",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-17-7.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "NE_form_sites_default_files_CC_3_30_pdf_a6f2b7e1",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/CC-3-30.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_19_9_pdf_c4bc6e3d",
+    "kind": "form",
+    "title": "PROTECTION ORDER INFORMATION - DOMESTIC ABUSE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-19-9.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_court_records_request_open_adoption_records_adoption_decree_or_medical_records_57acff19",
+    "kind": "self-help-guide",
+    "title": "Request to Open Adoption Records for Adoption Decree or Medical Records",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/court-records/request-open-adoption-records-adoption-decree-or-medical-records",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "NE_form_sites_default_files_worksheet1_pdf_a246c8db",
+    "kind": "form",
+    "title": "Worksheet 1",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/worksheet1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_name_change_adult_name_change_66e9480d",
+    "kind": "self-help-guide",
+    "title": "Adult Name Change",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/name-change/adult-name-change",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11a_pdf_65f4172e",
+    "kind": "form",
+    "title": "CHECKLIST FOR NAME CHANGE OF A MINOR CHILD OR CHILDREN",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_4a_pdf_a8701dfa",
+    "kind": "form",
+    "title": "COMPLETING THE CONFIDENTIAL PARTY INFORMATION FORM",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-4a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_7a_pdf_61f58bb4",
+    "kind": "form",
+    "title": "COMPLETING THE CONFIDENTIAL PARTY INFORMATION FORM –",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-7a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_3a_pdf_1baf51e2",
+    "kind": "form",
+    "title": "COMPLETING THE CONSENT FOR THE NAME CHANGE OF A MINOR CHILD",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-3a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_5a_pdf_b3f83dd5",
+    "kind": "form",
+    "title": "COMPLETING THE DECREE FOR NAME CHANGE OF A MINOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-5a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_3a_pdf_c2dc388b",
+    "kind": "form",
+    "title": "COMPLETING THE DECREE OF NAME CHANGE (ADULT)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-3a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_2a_pdf_ddf8102c",
+    "kind": "form",
+    "title": "COMPLETING THE LEGAL NOTICE FOR NAME CHANGE (ADULT)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-2a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_2a_pdf_13406687",
+    "kind": "form",
+    "title": "COMPLETING THE LEGAL NOTICE FOR NAME CHANGE OF A MINOR CHILD",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-2a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_4a_pdf_0b6e86d2",
+    "kind": "form",
+    "title": "COMPLETING THE NOTICE TO PARENT OF HEARING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-4a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_1a_pdf_73162746",
+    "kind": "form",
+    "title": "COMPLETING THE PETITION FOR NAME CHANGE (ADULT)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_1a_pdf_9d67cf2b",
+    "kind": "form",
+    "title": "COMPLETING THE PETITION FOR NAME CHANGE OF A",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_name_change_child_name_change_a19ffc0b",
+    "kind": "self-help-guide",
+    "title": "Child Name Change",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/name-change/child-name-change",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_6_pdf_b5bc40ea",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR MINOR CHILD(REN) NAME CHANGE HEARING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-6.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_a_pdf_9d717976",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR ADULT NAME CHANGE HEARING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_2_pdf_1a9b7743",
+    "kind": "form",
+    "title": "LEGAL NOTICE FOR NAME CHANGE OF A MINOR CHILD",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-2.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_2_fillable_pdf_bf7a83df",
+    "kind": "form",
+    "title": "LEGAL NOTICE – ADULT NAME CHANGE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-2-fillable.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_name_change_ea9d3bad",
+    "kind": "self-help-guide",
+    "title": "Name Change",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/name-change",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_NSBC_1_04_pdf_d457aba1",
+    "kind": "form",
+    "title": "Nebraska State Bar Commission",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/NSBC-1-04.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_1_pdf_793c8349",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_3_pdf_bcb4bc21",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-3.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_4_pdf_d82ac5f1",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-4.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_5_pdf_e53d7fcc",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-5.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_11_7_pdf_0c27b27d",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-11-7.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_1_pdf_5e341ffb",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-1.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_3_fillable_pdf_5c5ac980",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-3-fillable.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_4_pdf_ea6292a4",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-4.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_5_pdf_e31fc636",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-5.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_9_6_pdf_23d79c88",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-9-6.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_7_1a_pdf_dc588864",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT AND APPLICATION TO PROCEED IN FORMA",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-7-1a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_8_A_pdf_f94221e3",
+    "kind": "form",
+    "title": "COMPLETING THE ANSWER AND COUNTERCLAIM TO COMPLAINT FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-8-A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_14_4_A_pdf_959895d9",
+    "kind": "form",
+    "title": "COMPLETING THE COMPLAINT FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-14-4-A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_14_5_A_pdf_a45f4295",
+    "kind": "form",
+    "title": "COMPLETING THE COMPLAINT FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-14-5-A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_15_3a_pdf_fe1edcdf",
+    "kind": "form",
+    "title": "COMPLETING THE COMPLAINT FOR MODIFICATION",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-15-3a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_3A_pdf_d420a32c",
+    "kind": "form",
+    "title": "COMPLETING THE COMPLAINT FOR PATERNITY, CUSTODY, PARENTING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-3A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_10_A_pdf_3cabf3d6",
+    "kind": "form",
+    "title": "COMPLETING THE DECREE FOR PATERNITY, CUSTODY,",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-10-A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_5A_pdf_27e9b654",
+    "kind": "form",
+    "title": "COMPLETING THE NOTICE OF HEARING AND CERTIFICATE OF SERVICE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-5A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_12a_pdf_d4306570",
+    "kind": "form",
+    "title": "COMPLETING THE SOCIAL SECURITY NUMBERS,",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-12a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_3a_pdf_f9fb0207",
+    "kind": "form",
+    "title": "COMPLETING THE VOLUNTARY APPEARANCE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-3a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_5_A_pdf_62906486",
+    "kind": "form",
+    "title": "COMPLETING THE VOLUNTARY APPEARANCE LETTER",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-5-A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_1_Paternity_flyer_2022_pdf_14e1acb1",
+    "kind": "form",
+    "title": "Establishing Paternity For Your Child",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/1---Paternity-flyer-2022.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_establishment_paternity_7e08e40e",
+    "kind": "self-help-guide",
+    "title": "Establishment of Paternity",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/establishment-paternity",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_4_pdf_9da0a2c6",
+    "kind": "form",
+    "title": "FILING A CASE FOR PATERNITY, CUSTODY, PARENTING TIME, AND CHILD",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-4.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_11_pdf_a9139d0e",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR HEARING ON THE COMPLAINT FOR",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-11.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_3_pdf_6045e5fe",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-3.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_5_pdf_83f2a209",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-5.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_10_pdf_c84355f5",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-10.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_3_pdf_b915b0b8",
+    "kind": "form",
+    "title": "Nebraska State Court Form",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-3.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_2_pdf_cbf9e475",
+    "kind": "form",
+    "title": "Paternity, Custody, Parenting Time, and Child",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-2.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_8_5_pdf_3bbe196b",
+    "kind": "form",
+    "title": "✔   Case for Divorce/Modification/Paternity                             Case for Emancipation",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-8-5.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_20_G3_pdf_577c02b1",
+    "kind": "form",
+    "title": "Property Division Guide for Divorce Cases",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-20-G3.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "property"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_4_4A_pdf_905f191d",
+    "kind": "form",
+    "title": "COMPLETING THE PRAECIPE (REQUEST) FOR SUMMONS/PERSONAL SERVICE",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-4-4A.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "service"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_42a_pdf_d380fc42",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT AND APPLICATION FOR ORDER TO",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-42a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "spousal-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_47a_pdf_a9bbd84c",
+    "kind": "form",
+    "title": "COMPLETING THE AFFIDAVIT AND MOTION FOR BENCH WARRANT AND",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-47a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "spousal-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_45a_pdf_d255a1a0",
+    "kind": "form",
+    "title": "COMPLETING THE ORDER OF CONTEMPT (ALIMONY)",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-45a.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "spousal-support"
+  },
+  {
+    "id": "NE_self-help-guide_self_help_families_children_enforcement_alimony_or_property_settlement_orders_d6cb420a",
+    "kind": "self-help-guide",
+    "title": "Enforcement of Alimony or Property Settlement Orders",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/self-help/families-children/enforcement-alimony-or-property-settlement-orders",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "spousal-support"
+  },
+  {
+    "id": "NE_form_sites_default_files_DC_6_5_44_pdf_cbf44cdd",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR YOUR CONTEMPT HEARING",
+    "court": "Nebraska Judicial Branch (Nebraska Online Legal Self-Help Center)",
+    "source_url": "https://nebraskajudicial.gov/sites/default/files/DC-6-5-44.pdf",
+    "license": "official Nebraska Judicial Branch publication; no license asserted on the source",
+    "topic": "spousal-support"
+  }
+]

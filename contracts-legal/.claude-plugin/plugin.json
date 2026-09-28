@@ -1,0 +1,8 @@
+{
+  "name": "contracts-legal",
+  "version": "0.1.0",
+  "description": "State contract-law rules for clause review — indemnity, limitation of liability, liquidated damages, non-competition, warranty disclaimers, anti-assignment, arbitration, choice of law and venue, attorney fees, limitations periods, usury, statute of frauds and more — across 28 states, copied from DocketRouter's verified contract-law store: 601 rules and 3,597 authorities, every quote re-checked verbatim against our own published statute and case-law corpus, and only the rules the public API itself serves. Each rule carries the question it answers, the rule, the trap that makes a clause fail in that state specifically, and its authorities with quotes. A state or clause the store does not hold is reported as not covered, never answered from general knowledge. A draft for attorney review, not legal advice; CC0 data.",
+  "author": {
+    "name": "DocketX"
+  }
+}

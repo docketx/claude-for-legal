@@ -1,0 +1,2080 @@
+[
+  {
+    "jurisdiction": "wa",
+    "clause": "anti-assignment",
+    "rule_id": "wa-anti-assignment-no-verified-authority",
+    "question": "Does a 'no assignment without consent' clause stop the counterparty from assigning the money we owe it in Washington?",
+    "rule": "We could not verify a Washington rule on this from our published corpus.",
+    "trap": "The trap is on our side. The provision that normally answers this question for receivables, Washington's enactment of UCC 9-406, sits in RCW Title 62A, which we do not hold. The only Supreme Court of Washington statements about enforcing a contractual prohibition on assignment that the search found are pre-Code (Bethel v. Matthews, 1936). Stating them as current law would ignore the Code provision we cannot read.",
+    "authority": [],
+    "as_of": "2026-09-16",
+    "status": "no-verified-authority",
+    "notes": "RCW Title 62A (Washington's Uniform Commercial Code) is NOT in our published statutes: measured 2026-09-16, 0 of 51,174 rows in docketx/us-statutes data/wa have a section beginning '62A' (the Title-level count runs from 61 to 63 with nothing between). Searched us-caselaw-wa, court wa-wash (59,088 rows), for '9A-406', 'anti-assignment', 'nonassignment' and 'prohibiting assignment'. Found: Bethel v. Matthews (1936, row 5d919ddbedaf3649), where a nonassignment term in a real-estate contract was held 'lawful and enforceable'; nonassignment clauses in insurance policies (PUD No. 1 of Klickitat County v. International Insurance Co., 1994: consent clauses reach only assignments before loss); and leases. In wa-washctapp, Northwest Business Finance, LLC v. Able Contractor, Inc. (Div. III, 2016, row 1e2587368e205c8a) construes RCW 62A.9A-406(a)-(b) notification but does not quote subsection (d), which is the provision that makes an anti-assignment term ineffective. Not verified because: the governing statute is not in our corpus, and the pre-Code Supreme Court cases cannot be checked against it."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "arbitration",
+    "rule_id": "wa-arbitration-uaa-employment-carve-out-and-severance",
+    "question": "Is this arbitration clause enforceable in Washington, and what happens to a one-sided term inside it?",
+    "rule": "Under Washington's Uniform Arbitration Act an agreement contained in a record to submit any existing or subsequent controversy to arbitration is valid, enforceable and irrevocable except upon a ground that exists at law or in equity for the revocation of contract. The court decides whether an agreement to arbitrate exists or covers the controversy; the arbitrator decides whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable. The Act does not apply to any arbitration agreement between employers and employees or between employers and associations of employees. Unconscionable terms inside an arbitration agreement are generally severed so that the agreement to arbitrate survives, but where an employer engages in an 'insidious pattern' of inserting numerous unconscionable provisions, courts may decline to sever (Adler). Three more things the chapter says. A challenge to the existence or scope of the agreement does not stop the arbitration: \"the arbitration proceeding may continue pending final resolution of the issue by the court, unless the court otherwise orders\" (RCW 7.04A.060(4)). On a motion to compel, \"The court may not refuse to order arbitration because the claim subject to arbitration lacks merit or grounds for the claim have not been established\" (RCW 7.04A.070(3)). And the chapter does not apply to arbitration under chapter 7.06 RCW, the mandatory arbitration of smaller civil cases (RCW 7.04A.030(3)).",
+    "trap": "Two traps. First, an employment arbitration clause is outside chapter 7.04A RCW entirely, so a drafter who relies on the Act's machinery for an employee agreement is relying on a statute that says it does not apply. Second, severance is not guaranteed: in Adler two substantively unconscionable terms (a fee provision and a 180-day limitations period) were severed and arbitration compelled, but the court said a pattern of numerous unconscionable terms may sink the whole agreement. Before a dispute arises the parties also cannot waive or vary the provisions RCW 7.04A.040(2) lists, including 7.04A.060(1).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 7.04A.060",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-7.04A.060",
+            "quote": "(1) An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of contract. (2) The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate. (3) An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 7.04A.030",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-7.04A.030",
+            "quote": "(4) This chapter does not apply to any arbitration agreement between employers and employees or between employers and associations of employees.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 7.04A.040",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-7.04A.040",
+            "quote": "(2) Before a controversy arises that is subject to an agreement to arbitrate, the parties to the agreement may not: (a) Waive or vary the requirements of RCW 7.04A.050(1), 7.04A.060(1), 7.04A.080, 7.04A.170 (1) or (2), 7.04A.260, or 7.04A.280;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "153 Wash. 2d 331",
+        "name": "Adler v. Fred Lind Manor",
+        "court": "Wash.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "7b62edb58e6382bc",
+            "cl_opinion_id": "4713080",
+            "quote": "Nonetheless, we acknowledge that in instances where an employer engages in an “insidious pattern” of seeking to tip the scales in its favor in employment disputes by inserting numerous unconscionable provisions in an arbitration agreement, courts may decline to sever the unconscionable provisions.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "153 Wash. 2d 331",
+        "name": "Adler v. Fred Lind Manor",
+        "court": "Wash.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "7b62edb58e6382bc",
+            "cl_opinion_id": "4713080",
+            "quote": "However, we conclude that the attorney fees and limitations provisions of the arbitration agreement are substantively unconscionable but sever these provisions from the agreement thus preserving the parties’ intent to arbitrate their disputes.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 7.04A.060",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-7.04A.060",
+            "quote": "(4) If a party to a judicial proceeding challenges the existence of, or claims that a controversy is not subject to, an agreement to arbitrate, the arbitration proceeding may continue pending final resolution of the issue by the court, unless the court otherwise orders.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 7.04A.070",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-7.04A.070",
+            "quote": "(3) The court may not refuse to order arbitration because the claim subject to arbitration lacks merit or grounds for the claim have not been established.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 7.04A.030",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-7.04A.030",
+            "quote": "(3) This chapter does not apply to any arbitration governed by chapter 7.06 RCW. (4) This chapter does not apply to any arbitration agreement between employers and employees or between employers and associations of employees.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Washington audit, fourth stride #4, L-M): the row quoted § 7.04A.060(1)-(3), .030(4) and .040(2) and stopped; .060(4) (arbitration continues while the court decides existence or scope), .070(3) (no refusal to compel for want of merit) and .030(3) (chapter 7.06 mandatory arbitration is outside) were unquoted. Quoted. §§ 7.04A.030, .040, .060, .070 read in full; Adler's 'insidious pattern' sentence and its severance holding verbatim in context. LATER TREATMENT: 153 Wash. 2d 331 swept in stride 2 (18 citing opinions, none negative). Statutes read in full in the published rows 2026-09-16: RCW 7.04A.030, .040, .060 (all '[2005 c 433]'). Adler v. Fred Lind Manor, 153 Wn.2d 331 (2004): the cite resolves to two rows sharing cluster 4908388; both quotes are from row 7b62edb58e6382bc (58,708 chars), the opinion of the court, which ends 'Alexander, C.J., and Johnson, Sanders, Ireland, Chambers, Owens, and Fairhurst, JJ., concur'. The other row (18b643e3f2e73cad, 2,462 chars) is a separate concurrence emphasising that disagreement with arbitration terms signed on employment does not by itself invalidate them; nothing is quoted from it. Adler's arbitration agreement was governed by the FAA (the employment carve-out in 7.04A.030(4) is why); this row does NOT state when the FAA preempts a Washington unconscionability holding. Gandee v. LDL Freedom Enterprises (2013) held a consumer arbitration clause unconscionable and found no Concepcion preemption on its facts (see the unconscionability row). Good-law scan 2026-09-17 of all 150,274 us-caselaw-wa rows for '153 Wn.2d 331' / '153 Wash. 2d 331': 109 citing rows (26 Supreme Court); the only negative-treatment words near the cite belong to other cases (Moses H. Cone 'superseded on other grounds')."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "attorney-fees",
+    "rule_id": "wa-4-84-330-one-way-fee-clause-made-reciprocal",
+    "question": "Our contract gives only us attorney fees if we win. Does that hold up in Washington?",
+    "rule": "No. In any action on a contract or lease entered into after September 21, 1977 that specifically provides for attorneys' fees and costs incurred to enforce its provisions to be awarded to one of the parties, the prevailing party, whether or not it is the party specified in the contract, is entitled to reasonable attorneys' fees in addition to costs and necessary disbursements. The fees the section provides cannot be waived by the parties, and a contract provision waiving them is void. 'Prevailing party' means the party in whose favor final judgment is rendered.",
+    "trap": "A one-way fee clause drafted to favour the drafter becomes, by statute, a two-way clause: the counterparty who wins gets fees too. A second clause trying to waive that reciprocity is itself void. 'Prevailing party' is tied to final judgment, so a party that has not yet obtained one cannot claim fees under this section.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 4.84.330",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-4.84.330",
+            "quote": "In any action on a contract or lease entered into after September 21, 1977, where such contract or lease specifically provides that attorneys' fees and costs, which are incurred to enforce the provisions of such contract or lease, shall be awarded to one of the parties, the prevailing party, whether he or she is the party specified in the contract or lease or not, shall be entitled to reasonable attorneys' fees in addition to costs and necessary disbursements. Attorneys' fees provided for by this section shall not be subject to waiver by the parties to any contract or lease which is entered into after September 21, 1977. Any provision in any such contract or lease which provides for a waiver of attorneys' fees is void. As used in this section \"prevailing party\" means the party in whose favor final judgment is rendered.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 (Washington audit, third stride #3): CORRECT. RCW 4.84.330 read in full; the rule's four sentences are the section's four sentences, and the block covers them. LATER TREATMENT: statute-only row, no opinion to sweep. RCW 4.84.330 read in full in the published row 2026-09-16 (history '[2011 c 336 s 131; 1977 ex.s. c 203 s 1.]'); the quote is the whole section. This row does not address the American rule where a contract is silent, fee awards under other statutes (for example RCW 49.62.080 for noncompetition covenants or RCW 19.86.090 for the Consumer Protection Act), or how Washington courts decide who prevails when both sides win on some claims; none of that was read. This store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "choice-of-law",
+    "rule_id": "wa-choice-of-law-restatement-187-and-two-statutory-voids",
+    "question": "Will a Washington court apply the other state's law our contract picks?",
+    "rule": "Generally yes. The Supreme Court of Washington enforces contract choice-of-law provisions unless all three of these conditions are met: without the provision Washington law would apply; the chosen state's law violates a fundamental public policy of Washington; and Washington's interest in the determination of the issue materially outweighs the chosen state's interest. Two statutes override the clause outright: a provision in a noncompetition covenant signed by a Washington-based employee or independent contractor is void and unenforceable if it allows or requires the application of choice-of-law principles or the substantive law of any other jurisdiction (RCW 49.62.050(3)), and a nondisclosure or nondisparagement provision in any agreement signed by an employee who is a Washington resident is governed by Washington law (RCW 49.44.211(9)).",
+    "trap": "The three-part exception is conjunctive, which is why most commercial clauses survive; but McKee applied it to hold a New York choice-of-law clause in a consumer services agreement unenforceable, because New York law permitted a class-action ban that conflicted with Washington's Consumer Protection Act policy favouring class relief for small consumer claims. For employment covenants, no balancing is done at all: the two statutes above take the choice away. The same section leaves confidentiality alone: “This section does not prohibit an employer and an employee from protecting trade secrets, proprietary information, or confidential information that does not involve illegal acts.” So a nondisclosure covering trade secrets, proprietary or confidential information is not what this statute voids, provided it does not reach illegal acts.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "164 Wash. 2d 372",
+        "name": "McKee v. AT&T Corp.",
+        "court": "Wash.",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "2e47714b607777d1",
+            "cl_opinion_id": "4713957",
+            "quote": "We disregard the contract provision and apply Washington law if, without the provision, Washington law would apply; if the chosen state’s law violates a fundamental public policy of Washington; and if Washington’s interest in the determination of the issue materially outweighs the chosen state’s interest.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.050",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.050",
+            "quote": "A provision in a noncompetition covenant signed by an employee or independent contractor who is Washington-based is void and unenforceable: (1) If the covenant requires the employee or independent contractor to adjudicate a noncompetition covenant outside of this state; (2) To the extent it deprives the employee or independent contractor of the protections or benefits of this chapter; or (3) If it allows or requires the application of choice of law principles or the substantive law of any jurisdiction other than Washington state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.44.211",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.44.211",
+            "quote": "(9) A nondisclosure or nondisparagement provision in any agreement signed by an employee who is a Washington resident is governed by Washington law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.44.211",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.44.211",
+            "quote": "This section does not prohibit an employer and an employee from protecting trade secrets, proprietary information, or confidential information that does not involve illegal acts.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "164 Wash. 2d 372",
+        "name": "McKee v. AT&T Corp.",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "2e47714b607777d1",
+            "cl_opinion_id": "4713957",
+            "checked": "2026-09-26",
+            "quote": "Accordingly, we hold that Washington’s strong Consumer Protection Act policy favoring class adjudication of small-dollar claims is a “fundamental policy” contemplated by the Restatement, supra, § 187(2)(b)."
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "LATER TREATMENT 2026-09-26: 164 Wash. 2d 372 cited by 13 later docketx/us-caselaw-wa opinions, each read in a +/-350-char window for overrul/abrogat/disapprov/supersed/reced/decline-to-follow/called-into-question/limited-to-its-facts: none. AUDITED 2026-09-26 (Washington audit, first stride #6): CORRECT. McKee's three-condition test verbatim in context; the trap's class-action-ban reasoning is McKee's own holding sentence and now carries a block. RCW 49.62.050 and 49.44.211 (1)-(11) read in full. CURRENCY, recorded here because it bears on the neighbouring non-compete row (wa-noncompete-disclosure-and-earnings-floor) rather than on this one: the RCW 49.62 rows carry a second version headed '(Effective June 30, 2027.)' -- 2026 c 149 -- under which 'all noncompetition covenants are void and unenforceable regardless of when the parties entered into' them, with an employer notice duty by October 1, 2027. § 49.62.050's choice-of-law override, which this row quotes, is unchanged in the 2026 act. McKee v. AT&T Corp., 164 Wn.2d 372 (2008), row 2e47714b607777d1: majority opinion (the signature line reads '... Sanders, Owens, Fairhurst, and J.M. Johnson, JJ.; and Ellington, J. Pro Tem., concur. Madsen, J., concurs in result only.'). The test is McKee's own statement at ¶15, citing Erwin v. Cotter Health Centers, 161 Wn.2d 676 (2007) and Restatement (Second) of Conflict of Laws § 187; Erwin (row d19cefd8083d5e10) was read at the § 187(2)(b) passage and poses the same three questions. CAUTION NOT RESOLVED HERE: McKee's fundamental-policy finding rested on Washington's policy against class-action bans in consumer contracts (Scott v. Cingular Wireless, 2007). AT&T Mobility LLC v. Concepcion (U.S. 2011) later held the FAA preempts a state rule invalidating class waivers in ARBITRATION agreements; this row does not say how far McKee's application survives where the clause is an arbitration clause. The test sentence itself is not affected by that question. RCW 49.62.050 read in full (history '[2024 c 36 s 4; 2019 c 299 s 6.]'); RCW 49.44.211 read in full ('[2022 c 133 s 2.]'). RCW 62A.1-301 (the UCC's choice-of-law section) is not in our corpus: RCW Title 62A (Washington's Uniform Commercial Code) is NOT in our published statutes: measured 2026-09-16, 0 of 51,174 rows in docketx/us-statutes data/wa have a section beginning '62A' (the Title-level count runs from 61 to 63 with nothing between). GOOD LAW, FOUND IN THE SCAN: 87 rows cite 164 Wn.2d 372 (22 Supreme Court). Court of Appeals opinions cite McKee as 'abrogated on other grounds by AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)' (Master Builders Ass'n v. Flynn, 2024, row 2b8cfaf3f7dd93b0; Raab v. Nu Skin Enterprises, 2023; Kaiser Foundation Health Plan v. Maylone, 2022). That abrogation concerns McKee's arbitration class-waiver holding, which is exactly why the rule quotes only the test and flags the application above. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "wa-cpa-private-action-and-forum-clause-public-policy",
+    "question": "Can a consumer contract route Washington Consumer Protection Act claims away from Washington courts or class relief?",
+    "rule": "Not where doing so defeats the Act. Any person injured in business or property by a violation of RCW 19.86.020 (unfair or deceptive acts or practices) may sue in superior court to enjoin further violations and recover actual damages, costs and a reasonable attorney's fee, and the court may increase damages up to three times actual damages (for RCW 19.86.020 violations, not above $25,000). In Dix the Supreme Court of Washington held that a forum selection clause, although prima facie valid, is invalid where it precludes class actions and thereby significantly impairs Washington citizens' ability to seek relief under the CPA for small-value claims, because that violates the public policy underlying the CPA's dual enforcement scheme of attorney-general and private actions.",
+    "trap": "Dix does not void every out-of-state forum clause in a consumer contract. The holding turns on two facts the court named: the chosen forum precluded class actions for small-value CPA claims, and there was no feasible alternative avenue for relief. A forum clause that leaves CPA class relief available elsewhere is judged under the ordinary prima-facie-valid standard (see the venue-selection row).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 19.86.090",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.86.090",
+            "quote": "Any person who is injured in his or her business or property by a violation of RCW 19.86.020, 19.86.030, 19.86.040, 19.86.050, or 19.86.060, or any person so injured because he or she refuses to accede to a proposal for an arrangement which, if consummated, would be in violation of RCW 19.86.030, 19.86.040, 19.86.050, or 19.86.060, may bring a civil action in superior court to enjoin further violations, to recover the actual damages sustained by him or her, or both, together with the costs of the suit, including a reasonable attorney's fee. In addition, the court may, in its discretion, increase the award of damages up to an amount not to exceed three times the actual damages sustained: PROVIDED, That such increased damage award for violation of RCW 19.86.020 may not exceed twenty-five thousand dollars:",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "160 Wash. 2d 826",
+        "name": "Dix v. ICT Group, Inc.",
+        "court": "Wash.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "688f9abe9bec7dc5",
+            "cl_opinion_id": "4713676",
+            "quote": "If a forum selection clause precludes class actions and thereby significantly impairs Washington citizens’ ability to seek relief under the CPA for small-value claims, the clause violates the public policy underlying the CPA’s dual enforcement scheme expressed in the attorney general and private rights of action under the act. Because AOL’s forum selection clause precludes class actions for small-value CPA claims and there is no feasible alternative *843 avenue for seeking relief on such claims, the forum selection clause is invalid and unenforceable and dismissal was an abuse of discretion.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 (Washington audit, third stride #8): CORRECT. RCW 19.86.020 and 19.86.090 read in full; Dix's holding sentence verbatim in context. Read and deliberately not in the rule: § 19.86.090's district-court alternative (actual damages within the RCW 3.66.020 limit, trebled but capped at $25,000) and its 'person includes counties, municipalities' sentence; the 2009 c 371 application note (causes accruing on or after July 26, 2009). LATER TREATMENT 2026-09-26: 160 Wash. 2d 826 cited by 12 later opinions, each read in a +/-350-char window for negative-treatment words: none. RCW 19.86.090 read in full 2026-09-16 (history '[2009 c 371 s 1; ... 1961 c 216 s 9.]'; note '2009 c 371: This act applies to all causes of action that accrue on or after July 26, 2009'). The quote stops before the district-court proviso. Dix v. ICT Group, Inc., 160 Wn.2d 826 (2007), row 688f9abe9bec7dc5, is the opinion of the court by Madsen, J. ('Alexander, C.J., and C. Johnson, Sanders, Bridge, Chambers, Owens, Fairhurst, and J.M. Johnson, JJ., concur'); the quoted sentences are its CONCLUSION (¶37). Dix affirmed the Court of Appeals 'on narrower grounds' than that court's broader public-policy holding. We found NO Washington statute in the chapter 19.86 rows that expressly voids a contractual waiver of CPA rights (searched sections 19.86.* for 'waive'); this row does not claim one exists. Gandee v. LDL Freedom Enterprises, 176 Wn.2d 598 (2013) held a 30-day limit on CPA claims in an arbitration clause substantively unconscionable; recorded, not relied on here. Good-law scan 2026-09-17 (all us-caselaw-wa rows): 103 rows cite 160 Wn.2d 826 (13 Supreme Court); no overruling, abrogation or disapproval language near the cite."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "electronic-signature",
+    "rule_id": "wa-ueta-1-80-legal-recognition-and-agreement",
+    "question": "Is an e-signed contract enforceable in Washington?",
+    "rule": "Yes, where both parties agreed to transact electronically. Under chapter 1.80 RCW (Washington's Uniform Electronic Transactions Act, 2020) a record or signature may not be denied legal effect or enforceability solely because it is in electronic form; a contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation; an electronic record satisfies a law requiring a writing, and an electronic signature satisfies a law requiring a signature. The chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means, determined from the context and surrounding circumstances including the parties' conduct. Attribution is a separate question: an electronic record or signature \"is attributable to a person if it was the act of the person\", shown in any manner including the efficacy of a security procedure, and its effect is determined from the circumstances including the parties' agreement (RCW 1.80.080).",
+    "trap": "Scope is the trap. The chapter does not apply to a transaction to the extent it is governed by the law of wills, codicils or testamentary trusts, or by Title 62A RCW other than RCW 62A.1-306 and chapters 62A.2 and 62A.2A (so sales and leases of goods are in, but other UCC articles are out). And a party that agreed to transact electronically once may refuse to do so for other transactions, a right that cannot be waived by agreement.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 1.80.060",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-1.80.060",
+            "quote": "(1) A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. (2) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. (3) If a law requires a record to be in writing, an electronic record satisfies the law. (4) If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 1.80.040",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-1.80.040",
+            "quote": "(2) This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct. (3) A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 1.80.020",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-1.80.020",
+            "quote": "(2) This chapter does not apply to a transaction to the extent it is governed by: (a) A law governing the creation and execution of wills, codicils, or testamentary trusts. However, this chapter applies to nonjudicial settlement agreements under RCW 11.96A.220; and (b) Title 62A RCW other than RCW 62A.1-306 and chapters 62A.2 and 62A.2A RCW.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 1.80.040",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-1.80.040",
+            "quote": "(3) A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 1.80.080",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-1.80.080",
+            "quote": "(1) An electronic record or electronic signature is attributable to a person if it was the act of the person. The act of the person may be shown in any manner, including a showing of the efficacy of any security procedure applied to determine the person to which the electronic record or electronic signature was attributable.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 (Washington audit, fourth stride #19): CORRECT. §§ 1.80.020, .040, .060, .080 read in full; the trap reads the Title 62A exclusion list correctly -- chapters 62A.2 and 62A.2A are carved back in, so sales and leases of goods are inside the Act (the point Virginia's UETA row had wrong). The trap's non-waivable refusal right, stated from the text, now carries a block; § 1.80.080 attribution added. § 1.80.020(2)(a) (nonjudicial settlement agreements under RCW 11.96A.220 are inside) read and not carried. LATER TREATMENT: statute-only row, no opinion to sweep. Read in full in the published rows 2026-09-16: RCW 1.80.020 ('[2024 c 188 s 17; 2020 c 57 s 3.]'), 1.80.040 ('[2020 c 57 s 5.]'), 1.80.060 ('[2020 c 57 s 7.]'), and 1.80.050 and 1.80.070 for context. We do not hold Title 62A, so the UCC chapters the scope provision points to could not be read. The federal E-SIGN Act is not addressed. This store holds no statute effective dates; the '2020' is read from the history lines."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "entire-agreement",
+    "rule_id": "wa-integration-context-rule-and-false-recital",
+    "question": "Does our integration clause shut out evidence of what was said before signing, in Washington?",
+    "rule": "Only for adding or contradicting terms, and only if the writing really is an integration. The parol evidence rule applies only to a writing intended by the parties as a final expression of the terms of their agreement; whether it is, is a question of fact on which the trial court must hear all relevant extrinsic evidence, oral or written. If the writing is completely integrated the extrinsic evidence is disregarded; if only partially integrated, additional terms may be proved only insofar as they are not inconsistent with the written terms (Emrich). Separately, for INTERPRETATION Washington follows the context rule: extrinsic evidence is admissible as to the entire circumstances under which the contract was made, as an aid in ascertaining the parties' intent, whether or not the language is ambiguous (Berg v. Hudesman). That evidence is used to determine the meaning of specific words and terms used, not to show an intention independent of the instrument or to vary, contradict or modify the written word, and the parties' unexpressed subjective intent is generally irrelevant if intent can be determined from the words used (Hearst).",
+    "trap": "Two edges a boilerplate merger clause does not control. Integration is found as a fact after hearing extrinsic evidence, and in Black v. Evergreen Land Developers (as Emrich describes it) parol evidence was admitted to show a boilerplate integration clause was false, because a party is not bound by a false recital of fact. And the context rule lets surrounding circumstances in to interpret even an unambiguous integrated writing; what they cannot do is add a term that contradicts it.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "105 Wash. 2d 551",
+        "name": "Emrich v. Connell",
+        "court": "Wash.",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "f9cfe547f7de5b44",
+            "cl_opinion_id": "1169303",
+            "quote": "However, the parol evidence rule only applies to a writing intended by the parties as an \"integration\" of their agreement; i.e., a writing intended as a final expression of the terms of the agreement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "105 Wash. 2d 551",
+        "name": "Emrich v. Connell",
+        "court": "Wash.",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "f9cfe547f7de5b44",
+            "cl_opinion_id": "1169303",
+            "quote": "In making this preliminary determination of whether the parties intended the written document to be an integration of their agreement, which is a question of fact, the trial court must hear all relevant, extrinsic evidence, oral or written.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "105 Wash. 2d 551",
+        "name": "Emrich v. Connell",
+        "court": "Wash.",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "f9cfe547f7de5b44",
+            "cl_opinion_id": "1169303",
+            "quote": "If, however, the court finds that the parties intended the writing to be a final expression of the terms it contains but not a complete expression of all terms agreed upon — i.e., partially integrated — then the terms not included in the writing may be proved by extrinsic evidence only insofar as they are not inconsistent with the written terms.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "105 Wash. 2d 551",
+        "name": "Emrich v. Connell",
+        "court": "Wash.",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "f9cfe547f7de5b44",
+            "cl_opinion_id": "1169303",
+            "quote": "Although this court found that evidence of the oral covenant conflicted with the boilerplate integration clause, we held that parol evidence was admissible to show that the integration clause was false because \"'a party to a contract is not bound by a false recital of fact\".",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "115 Wash. 2d 657",
+        "name": "Berg v. Hudesman",
+        "court": "Wash.",
+        "decided": "1990",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "734871b5f0f636dd",
+            "cl_opinion_id": "1442443",
+            "quote": "We now hold that extrinsic evidence is admissible as to the entire circumstances under which the contract was made, as an aid in ascertaining the parties' intent.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "115 Wash. 2d 657",
+        "name": "Berg v. Hudesman",
+        "court": "Wash.",
+        "decided": "1990",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "734871b5f0f636dd",
+            "cl_opinion_id": "1442443",
+            "quote": "Whether or not ambiguity is apparent from the face of a contract, evidence of the circumstances of the making of the contract is admissible. We reject the plain meaning rule and expressly adopt the context rule as the applicable rule for *679 ascertaining the parties' intent and interpreting written contracts.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "154 Wash. 2d 493",
+        "name": "Hearst Communications, Inc. v. Seattle Times Co.",
+        "court": "Wash.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "f0e1b438756260c6",
+            "cl_opinion_id": "4713177",
+            "quote": "Since Berg , we have explained that surrounding circumstances and other extrinsic evidence are to be used “to determine the meaning of specific words and terms used” and not to “show an intention independent of the instrument” or to “vary, contradict or modify the written word.”",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "154 Wash. 2d 493",
+        "name": "Hearst Communications, Inc. v. Seattle Times Co.",
+        "court": "Wash.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "f0e1b438756260c6",
+            "cl_opinion_id": "4713177",
+            "quote": "Thus, when interpreting *504 contracts, the subjective intent of the parties is generally irrelevant if the intent can be determined from the actual words used.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "115 Wash. 2d 657",
+        "name": "Berg v. Hudesman",
+        "decided": "1990",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "734871b5f0f636dd",
+            "cl_opinion_id": "1442443",
+            "checked": "2026-09-26",
+            "quote": "We reject the plain meaning rule and expressly adopt the context rule as the applicable rule for *679 ascertaining the parties' intent and interpreting written contracts."
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "LATER TREATMENT 2026-09-26: citing opinions read in a +/-350-char window for negative-treatment words -- 105 Wash. 2d 551 (17), 115 Wash. 2d 657 (93), 154 Wash. 2d 493 (24): none. AUDITED 2026-09-26 (Washington audit, second stride #12): CORRECT. Emrich (four passages, including its account of Black's false-recital holding), Berg (two) and Hearst (two) verbatim in context. Berg's express adoption sentence added as a block ('*679' is a page marker in the corpus text). RCW 62A.2-202, which Emrich cites for the UCC parol evidence rule, is not in the corpus (no Washington UCC). All three are Supreme Court of Washington majority text. Emrich v. Connell, 105 Wn.2d 551 (1986), row f9cfe547f7de5b44, unanimous ('Dolliver, C.J., and Utter, Dore, Pearson, Andersen, Callow, Goodloe, and Durham, JJ., concur'); the false-recital sentence is Emrich DESCRIBING Black v. Evergreen Land Developers, 75 Wn.2d 241 (1969), and Emrich distinguished Black because there the oral covenant did not conflict with the substantive terms, while in Emrich it did and was excluded. Berg v. Hudesman, 115 Wn.2d 657 (1990), row 734871b5f0f636dd, unanimous; Berg 'need not reach the question of integration' on its facts. Hearst Communications v. Seattle Times, 154 Wn.2d 493 (2005), row f0e1b438756260c6: majority ('... Fairhurst, and J.M. Johnson, JJ., concur. Madsen, J. concurs in the result only.'); ¶20 says 'Our holding in Berg may have been misunderstood' and restates it, which is why Hearst is quoted beside Berg. The 'Since Berg' sentence is Hearst summarising Hollis v. Garwall, 137 Wn.2d 683 (1999). A second Hearst row (bb00cb4b83eb6aaa, cl 2576158) is a differently sourced copy; the quotes come from the 4713177 copy. This row does not address RCW 62A.2-202 (goods), which we do not hold. Good-law scan 2026-09-17 (all 150,274 us-caselaw-wa rows): Berg v. Hudesman cited in 427 rows (72 Supreme Court), Emrich in 72 (16), Hearst in 312 (24). Every negative-treatment hit runs the other way: earlier cases (St. Yves v. Mid State Bank, 1988; Boeing Airplane Co. v. Firemen's Fund, 1954) are cited as 'overruled on other grounds by Berg'. None of the three is itself disapproved."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "force-majeure",
+    "rule_id": "wa-force-majeure-no-verified-authority",
+    "question": "Does Washington law excuse performance under this force majeure clause, or where the contract has none?",
+    "rule": "We could not verify a Washington rule on this from our published corpus.",
+    "trap": "The trap is on our side. The statutory default for sales of goods (UCC 2-615, excuse by failure of presupposed conditions) is in RCW Title 62A, which we do not hold; and the Supreme Court of Washington opinions in our corpus that mention force majeure only recite contract or treaty language.",
+    "authority": [],
+    "as_of": "2026-09-16",
+    "status": "no-verified-authority",
+    "notes": "RCW Title 62A (Washington's Uniform Commercial Code) is NOT in our published statutes: measured 2026-09-16, 0 of 51,174 rows in docketx/us-statutes data/wa have a section beginning '62A' (the Title-level count runs from 61 to 63 with nothing between). Searched us-caselaw-wa, court wa-wash, for 'force majeure' (13 hits read): Spokane Airport Bd. v. Experimental Aircraft Ass'n (2021, lease listed force majeure among automatic termination events), Hearst Communications v. Seattle Times (2005, the JOA's clause is described, not construed), Sane Transit v. Sound Transit (2004, plan language), State v. Pang (1997, extradition treaty), Rains v. Department of Fisheries (1978, a flood described as force majeure in a takings case), City of Tacoma v. O'Brien (1975, statute text), Thompson v. Ezzell (1963, insurance policy). None states a rule for construing or applying a contractual force majeure clause. Impossibility/impracticability and frustration of purpose were not researched for this row."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "indemnity",
+    "rule_id": "wa-4-24-115-construction-indemnity-and-title-51-waiver",
+    "question": "Can a Washington construction subcontractor be made to indemnify the owner or GC for their own negligence?",
+    "rule": "Not for their sole negligence, and only partly for concurrent negligence. Under RCW 4.24.115 an indemnity promise in, or in connection with, a contract for construction, alteration, repair, improvement or maintenance of a structure or improvement attached to real estate (and in architectural, landscape architectural, engineering or land surveying services contracts and motor carrier transportation contracts), \"purporting to indemnify, including the duty and cost to defend\", against liability for damages arising from bodily injury or property damage: caused by the SOLE negligence of the indemnitee is against public policy and void; caused by the CONCURRENT negligence of indemnitee and indemnitor is valid only to the extent of the indemnitor's negligence and only if the agreement specifically and expressly provides for it. Such an agreement may waive the indemnitor's industrial insurance immunity under Title 51 RCW only if it specifically and expressly provides for that and the waiver was mutually negotiated. Subsection (1) applies to agreements entered into after June 11, 1986.",
+    "trap": "The Title 51 waiver is the one drafters miss. Without it, an employer-subcontractor's indemnity does not reach claims brought by its own injured employees, because the employer is immune under the Industrial Insurance Act. Brown v. Prime Construction held such an indemnity enforceable only if it clearly and specifically waives that immunity, either by saying so or by stating that the indemnitor assumes liability for actions brought by its own employees; the statute now also requires the waiver to be mutually negotiated. A general 'indemnify against all claims' clause, or one incorporated by reference from the prime contract, did not meet that test in Brown. Two more from the text and the case. The section voids the DUTY TO DEFEND on the same terms as the indemnity -- \"including the duty and cost to defend\" is in the operative words -- so a clause that shifts only defense costs for the indemnitee's sole negligence is as void as one shifting the judgment. And Brown's incorporation holding is specific: where the subcontract incorporated the prime contract's indemnity and said the subcontract controls in a conflict, the Court read the two \"together\" and found they \"fail to clearly express an intent on the part of Ace to waive its immunity\" -- so the prime's clause cannot be pulled down into the subcontract by reference to supply the specific waiver the statute demands.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 4.24.115",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-4.24.115",
+            "quote": "(a) Caused by or resulting from the sole negligence of the indemnitee, his or her agents or employees is against public policy and is void and unenforceable; (b) Caused by or resulting from the concurrent negligence of (i) the indemnitee or the indemnitee's agents or employees, and (ii) the indemnitor or the indemnitor's agents or employees, is valid and enforceable only to the extent of the indemnitor's negligence and only if the agreement specifically and expressly provides therefor, and may waive the indemnitor's immunity under industrial insurance, Title 51 RCW, only if the agreement specifically and expressly provides therefor and the waiver was mutually negotiated by the parties.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 4.24.115",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-4.24.115",
+            "quote": "A covenant, promise, agreement, or understanding in, or in connection with or collateral to, a contract or agreement relative to the construction, alteration, repair, addition to, subtraction from, improvement to, or maintenance of, any building, highway, road, railroad, excavation, or other structure, project, development, or improvement attached to real estate, including moving and demolition in connection therewith, a contract or agreement for architectural, landscape architectural, engineering, or land surveying services, or a motor carrier transportation contract, purporting to indemnify, including the duty and cost to defend, against liability for damages arising out of such services or out of bodily injury to persons or damage to property:",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "102 Wash. 2d 235",
+        "name": "Brown v. Prime Construction Co.",
+        "court": "Wash.",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "742b778feb6f7895",
+            "cl_opinion_id": "1434291",
+            "quote": "We hold that an indemnity clause of this type is enforceable only if it clearly and specifically contains a waiver of the immunity of the workers' compensa *240 tion act, either by so stating or by specifically stating that the indemnitor assumes potential liability for actions brought by its own employees.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "102 Wash. 2d 235",
+        "name": "Brown v. Prime Construction Co.",
+        "court": "Wash.",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "742b778feb6f7895",
+            "cl_opinion_id": "1434291",
+            "quote": "However, we have stated that (1) such agreements are disfavored and (2) any intent to provide indemnification must be clearly expressed in the agreement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 4.24.115",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-4.24.115",
+            "quote": "and may waive the indemnitor's immunity under industrial insurance, Title 51 RCW, only if the agreement specifically and expressly provides therefor and the waiver was mutually negotiated by the parties. This subsection applies to agreements entered into after June 11, 1986.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "102 Wash. 2d 235",
+        "name": "Brown v. Prime Construction Co.",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "742b778feb6f7895",
+            "cl_opinion_id": "1434291",
+            "checked": "2026-09-26",
+            "quote": "Finally, even if not manifestly ambiguous, both subcontract provisions, read together, fail to clearly express an intent on the part of Ace to waive its immunity under the workers' compensation provisions of RCW Title 51."
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "LATER TREATMENT 2026-09-26: 102 Wash. 2d 235 cited by 3 later docketx/us-caselaw-wa opinions, each read in a +/-350-char window for negative-treatment words: none. CORRECTED 2026-09-26 (Washington audit, second stride #2, M): the row's own lead-in block quoted 'purporting to indemnify, including the duty and cost to defend' and the prose never said it -- the served rule described 'an indemnity promise ... against liability for damages' and dropped the defense limb, which is usually the expensive one. Stated now, with (1)'s June 11, 1986 applicability sentence as a block. Brown's incorporation-by-reference reasoning, which the trap relied on, is the Court's own sentence and now a block. RCW 4.24.115 (1)-(2) read in full; (2)'s motor-carrier definition and its intermodal-equipment exclusion read and not in the rule; RCW 51.04.010 read for the immunity the waiver reaches. RCW 4.24.115 read in full 2026-09-16 (history '[2012 c 160 s 1; 2011 c 336 s 95; 2010 c 120 s 1; 1986 c 305 s 601; 1967 ex.s. c 46 s 2.]'); subsection (1)(b)'s last sentence reads 'This subsection applies to agreements entered into after June 11, 1986.' Subsection (2) defines motor carrier transportation contract. Brown v. Prime Construction Co., 102 Wn.2d 235 (1984), row 742b778feb6f7895, is unanimous ('Williams, C.J., and Rosellini, Utter, Dolliver, Dore, Dimmick, and Pearson, JJ., concur'). 'Such agreements' in the second Brown quote refers to indemnity agreements that in effect waive the employer's immunity under the Industrial Insurance Act (the preceding sentences discuss RCW 51.04.060). Brown predates the 1986 amendment that added 'mutually negotiated'; the statute is the controlling text now and Brown is quoted for what 'clearly and specifically' has meant. Brown itself held the subcontract's clause, read with a clause incorporated from the main contract, failed the test. General (non-construction) indemnity for the indemnitee's own negligence was not researched for this row. Good-law scan 2026-09-17: 22 rows cite 102 Wn.2d 235 (8 Supreme Court); the negative hits are Jones v. Robert E. Bayley Constr. Co. cited as 'overruled on other grounds in Brown v. Prime', not Brown itself."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "lien-waiver",
+    "rule_id": "wa-public-works-payment-rights-nonwaivable",
+    "question": "Can a Washington contract make a contractor or subcontractor give up its payment protections in advance?",
+    "rule": "On public works, no. RCW 39.04.900 provides that the rights provided in chapter 223, Laws of 1992 may not be waived by the parties and that a contract provision providing for waiver of those rights is void as against public policy, and that the chapter is to be liberally construed. RCW 39.04.901 makes RCW 39.76.011, 60.28.011, 60.28.021, 60.28.051, 39.04.250 and 39.04.900 applicable to all public works contracts entered into on or after September 1, 1992. Among those sections, RCW 60.28.011(2) gives every person performing labor or furnishing supplies toward completion of a public improvement contract a lien upon the retainage the public body reserves, with notice of the lien due within forty-five days of completion of the contract work. The retainage those liens attach to is bounded: public improvement contracts \"must provide, and public bodies must reserve, a contract retainage not to exceed five percent of the moneys earned by the contractor as a trust fund\" for claims under the contract and for state taxes (RCW 60.28.011(1)(a)), and sixty days after completion of all contract work the public body must release and pay it in full, subject to chapter 39.12 and this chapter (RCW 60.28.011(3)(b)).",
+    "trap": "This is a PUBLIC WORKS rule. Washington's private mechanics' lien chapter (RCW 60.04) contains no provision on advance waiver of lien rights in the rows we hold (searched every 60.04 section for 'waive': no hit), so this rule says nothing about whether a private construction contract's advance lien waiver is enforceable. Note also that retainage for contracts funded with federal transportation funds is replaced by reliance on the contract bond under 60.28.011(1)(b).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 39.04.900",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.04.900",
+            "quote": "(1) The rights provided in chapter 223, Laws of 1992 may not be waived by the parties and a contract provision that provides for waiver of the rights provided in chapter 223, Laws of 1992 is void as against public policy. (2) Chapter 223, Laws of 1992 is to be liberally construed to provide security for all parties intended to be protected by its provisions.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 39.04.901",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.04.901",
+            "quote": "RCW 39.76.011, 60.28.011, 60.28.021, 60.28.051, 39.04.250, and 39.04.900 are applicable to all public works contracts entered into on or after September 1, 1992, relating to the construction of any work of improvement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 60.28.011",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-60.28.011",
+            "quote": "(2) Every person performing labor or furnishing supplies toward the completion of a public improvement contract has a lien upon moneys reserved by a public body under the provisions of a public improvement contract. However, the notice of the lien of the claimant must be given within forty-five days of completion of the contract work, and in the manner provided in RCW 39.08.030.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 60.28.011",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-60.28.011",
+            "quote": "(1)(a) Except as provided in (b) of this subsection, public improvement contracts must provide, and public bodies must reserve, a contract retainage not to exceed five percent of the moneys earned by the contractor as a trust fund for the protection and payment of: (i) The claims of any person arising under the contract; and (ii) the state with respect to taxes, increases, and penalties imposed pursuant to Titles 50, 51, and 82 RCW which may be due from such contractor.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 60.28.011",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-60.28.011",
+            "quote": "(b) Sixty days after completion of all contract work the public body must release and pay in full the amounts retained during the performance of the contract subject to the provisions of chapter 39.12 RCW and this chapter.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Washington audit, first stride #16, L-M): the rule quoted the non-waiver section, the applicability list and the lien on retainage, and never what the retainage IS -- a trust fund capped at five percent -- or when it must be released (sixty days after completion). Both quoted. The trap's negative claim, that no RCW 60.04 section addresses waiver, was TESTED: all 33 RCW 60.04 rows in docketx/us-statutes scanned for 'waiv', 0 hits. RCW 39.04.250 (ten-day subcontractor payment, 150-percent withholding cap, interest and fees) is one of the sections 39.04.900 makes non-waivable and is carried by the prompt-payment row, not repeated here. §§ 39.04.900, 39.04.901, 39.04.250, 60.28.011 (1)-(5) read in full. Read in full 2026-09-16: RCW 39.04.900 ('[1992 c 223 s 6.]'), 39.04.901 ('[2009 c 219 s 1; 1992 c 223 s 7.]'), 60.28.011 (history ends '1994 c 101 s 1; 1992 c 223 s 2.]'), 60.28.021, 60.28.051. WHAT IS NOT ESTABLISHED: the code text we hold does not say which particular rights chapter 223, Laws of 1992 'provided' (the session law itself is not in our corpus). The rule therefore quotes 39.04.900 as written and links it to the listed sections only through 39.04.901's applicability statement and the history lines, which is an inference the reader should see. RCW 60.28.011(1)(b) (federal transportation funds) and the retainage percentage in (1)(a) were read and are summarised only as far as stated."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "limitation-of-liability",
+    "rule_id": "wa-exculpatory-clauses-three-exceptions-and-public-interest",
+    "question": "Will a Washington court enforce a clause releasing a party from liability for its own negligence?",
+    "rule": "Generally yes, with three exceptions: exculpatory clauses are enforceable unless (1) they violate public policy, (2) the negligent act falls greatly below the standard established by law for protection of others, or (3) they are inconspicuous. They are strictly construed and must be clear if the exemption is to be enforced, but the word 'negligence' is not required: Scott adopts the Court of Appeals' holding that the word \"is not essential to the effectiveness of an express release\", and treated 'hold harmless' as sufficient to release the ski school's own negligence. Releases of future negligence that exhibit the characteristics of a public-interest transaction identified in Tunkl v. Regents are invalid as against public policy (Wagenblast, school interscholastic athletics). A parent's release cannot bar the child's own cause of action for injuries from a third party's negligence (Scott). In a construction contract, an indemnity against the indemnitee's sole negligence is void by statute (RCW 4.24.115; see the indemnity row).",
+    "trap": "The public-policy exception is not limited to consumer contracts. Wagenblast struck down releases required of every student athlete because the districts had near-monopoly bargaining power, offered a standardised adhesion form with no option to pay for protection, and took students under their control. And 'falls greatly below the standard established by law' is Scott's own wording for conduct beyond ordinary negligence: a release does not reach it.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "119 Wash. 2d 484",
+        "name": "Scott v. Pacific West Mountain Resort",
+        "court": "Wash.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "0363dbd7f04ce7b7",
+            "cl_opinion_id": "1348783",
+            "quote": "The general rule in Washington is that exculpatory clauses are enforceable unless (1) they violate public policy, or (2) the negligent act falls greatly below the standard established by law for protection of others or (3) they are inconspicuous.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "119 Wash. 2d 484",
+        "name": "Scott v. Pacific West Mountain Resort",
+        "court": "Wash.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "0363dbd7f04ce7b7",
+            "cl_opinion_id": "1348783",
+            "quote": "Exculpatory clauses are strictly construed and must be clear if the exemption from liability is to be enforced.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "119 Wash. 2d 484",
+        "name": "Scott v. Pacific West Mountain Resort",
+        "court": "Wash.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "0363dbd7f04ce7b7",
+            "cl_opinion_id": "1348783",
+            "quote": "We hold that to the extent a parent's release of a third party's liability for negligence purports to bar a child's own cause of action, it violates public policy and is unenforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "110 Wash. 2d 845",
+        "name": "Wagenblast v. Odessa School District No. 105-157-166J",
+        "court": "Wash.",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "5361703a17b17825",
+            "cl_opinion_id": "1406040",
+            "quote": "Because of this, and for the aforesaid reasons, we hold that the releases in these consolidated cases are invalid as against public policy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "110 Wash. 2d 845",
+        "name": "Wagenblast v. Odessa School District No. 105-157-166J",
+        "court": "Wash.",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "5361703a17b17825",
+            "cl_opinion_id": "1406040",
+            "quote": "In exercising a superior bargaining power, the party confronts the public with a standardized adhesion contract of exculpation, and makes no provision whereby a purchaser may pay additional reasonable fees and obtain protection against negligence.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "119 Wash. 2d 484",
+        "name": "Scott v. Pacific West Mountain Resort",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "0363dbd7f04ce7b7",
+            "cl_opinion_id": "1348783",
+            "checked": "2026-09-26",
+            "quote": "Two Washington Court of Appeals cases have also held that the word \"negligence\" is not essential to *491 the effectiveness of an express release."
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Washington audit, final stride #10, L): the rule's 'the word negligence is not required (Scott)' was verbatim in substance but blockless and imprecise -- Scott adopts two Court of Appeals holdings to that effect and applies them to a 'hold harmless' clause. Now attributed and quoted ('*491' is a page marker in the corpus text). LATER TREATMENT 2026-09-26: 119 Wash. 2d 484 cited by 25 later opinions, 110 Wash. 2d 845 by 4, each read in a +/-350-char window for negative-treatment words: none. AUDITED 2026-09-26 (Washington audit, final stride #10): every quoted passage verbatim in context -- Scott's three-exception rule, its 'strictly construed' sentence and its parent-release holding; Wagenblast's holding and its recital of Tunkl factor 5 (adhesion form, no option to pay for protection), with all six Tunkl characteristics found. Scott v. Pacific West Mountain Resort, 119 Wn.2d 484 (1992), row 0363dbd7f04ce7b7: opinion of the court by Andersen, J. ('Dore, C.J., and Brachtenbach, Dolliver, Durham, Smith, Guy, and Johnson, JJ., concur'); the '(Hill, J., concurring)'/'(White, J., concurring)' markers in the row are citations inside footnotes, not separate opinions. The 'no magic word negligence' point is Scott's Issue One ('We agree' with Court of Appeals cases so holding). Wagenblast, 110 Wn.2d 845 (1988), row 5361703a17b17825, unanimous; the 'superior bargaining power' sentence is the fifth of the six Tunkl characteristics as the court applied them. Scott also holds the parents' OWN claim was barred by a conspicuous and clear release. The row does not state the law on releases of gross negligence beyond Scott's own words, and does not address limitation-of-damages caps in commercial contracts (see the limitation-of-remedy row). Donatelli v. D.R. Strong Consulting Engineers (2013) enforced-in-part a professional-liability cap; recorded, not read in full. Good-law scan 2026-09-17: Scott cited in 103 rows (23 Supreme Court), Wagenblast in 38 (13); no overruling language near either cite. One Court of Appeals hit records a party's argument that Wagenblast superseded Baker v. Seattle, which the court rejected."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "limitation-of-remedy",
+    "rule_id": "wa-consequential-damages-exclusion-prima-facie-conscionable",
+    "question": "Will a Washington court enforce our exclusion of consequential damages or cap at the purchase price?",
+    "rule": "In a commercial transaction, usually. Limitations on consequential damages are generally valid under the UCC unless they are unconscionable, and whether a limitation is unconscionable is a question of law. Exclusionary clauses in purely commercial transactions are prima facie conscionable and the burden of establishing unconscionability is on the party attacking it; the fact that an unfortunate result occurs after contracting (a latent defect) does not render an otherwise standard limitation of remedies clause substantively unconscionable (Mortenson). The Berg two-prong test (explicitly negotiated and set forth with particularity) governs consumer transactions and commercial sales of goods where there is sufficient evidence of unfair surprise; clauses limiting consequential damages in commercial transactions for services without such evidence get a totality-of-the-circumstances analysis (Puget Sound Financial).",
+    "trap": "Consumer deals are different: the clause has to have been explicitly negotiated and stated with particularity, and a printed exclusion that satisfies a commercial buyer can fail against a consumer. Also, the commercial presumption is only a presumption; conspicuousness and negotiation remain factors in the totality analysis.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "140 Wash. 2d 568",
+        "name": "M.A. Mortenson Co. v. Timberline Software Corp.",
+        "court": "Wash.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "5ce0b10bd55feb8a",
+            "cl_opinion_id": "4711894",
+            "quote": "Limitations on consequential damages are generally valid under the U.C.C. unless they are unconscionable. RCW 62A.2-719(3). Whether a limitation on consequential damages is unconscionable is a question of law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "140 Wash. 2d 568",
+        "name": "M.A. Mortenson Co. v. Timberline Software Corp.",
+        "court": "Wash.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "5ce0b10bd55feb8a",
+            "cl_opinion_id": "4711894",
+            "quote": "“Exclusionary clauses in purely commercial transactions . . . are prima facie conscionable and the burden of establishing unconscionability is on the party at *586 tacking it.”",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "140 Wash. 2d 568",
+        "name": "M.A. Mortenson Co. v. Timberline Software Corp.",
+        "court": "Wash.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "5ce0b10bd55feb8a",
+            "cl_opinion_id": "4711894",
+            "quote": "In a purely commercial transaction, especially involving an innovative product such as software, the fact an unfortunate result occurs after the contracting process does not render an otherwise standard limitation of remedies clause substantively unconscionable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "146 Wash. 2d 428",
+        "name": "Puget Sound Financial, L.L.C. v. Unisearch, Inc.",
+        "court": "Wash.",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "1e452273e3d0f4e9",
+            "cl_opinion_id": "4712237",
+            "quote": "In that case we confirmed the use of the two-prong Berg analysis for consumer transactions involving warranty disclaimers and in commercial transactions for the sale of goods where there is sufficient evidence of unfair surprise.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "146 Wash. 2d 428",
+        "name": "Puget Sound Financial, L.L.C. v. Unisearch, Inc.",
+        "court": "Wash.",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "1e452273e3d0f4e9",
+            "cl_opinion_id": "4712237",
+            "quote": "We thus also confirmed the Schroeder totality of the circumstances analysis for clauses excluding (or limiting) *440 liability for consequential damages in commercial transactions for services where there is insufficient evidence of unfair surprise.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "140 Wash. 2d 568",
+        "name": "M.A. Mortenson Co. v. Timberline Software Corp.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "5ce0b10bd55feb8a",
+            "cl_opinion_id": "4711894",
+            "checked": "2026-09-26",
+            "quote": "Whether a limitation on consequential damages is unconscionable is a question of law."
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "140 Wash. 2d 568",
+        "name": "M.A. Mortenson Co. v. Timberline Software Corp.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "5ce0b10bd55feb8a",
+            "cl_opinion_id": "4711894",
+            "checked": "2026-09-26",
+            "quote": "Thus, the presence of latent defects in the goods cannot render these clauses unconscionable."
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "LATER TREATMENT 2026-09-26: citing opinions read in a +/-350-char window for negative-treatment words -- 140 Wash. 2d 568 (16), 146 Wash. 2d 428 (7): none. AUDITED 2026-09-26 (Washington audit, second stride #7): CORRECT. Mortenson (three passages) and Puget Sound Financial (two) verbatim in context; the rule's 'question of law' and 'latent defect' sentences were verbatim but blockless and now carry blocks (the second is Mortenson quoting Tacoma Boatbuilding, as the opinion says). CORPUS HOLE, recorded: the Washington UCC, Title 62A, is NOT in docketx/us-statutes -- 0 rows -- so RCW 62A.2-719(3) and 62A.2-302(1), which this rule rests on, are held only through Mortenson's quotation of them. That is the honest construction and the row already used it. RCW Title 62A (Washington's Uniform Commercial Code) is NOT in our published statutes: measured 2026-09-16, 0 of 51,174 rows in docketx/us-statutes data/wa have a section beginning '62A' (the Title-level count runs from 61 to 63 with nothing between). RCW 62A.2-719 is therefore cited here only as the Supreme Court quoted it. M.A. Mortenson Co. v. Timberline Software Corp., 140 Wn.2d 568 (2000): the cite resolves to two rows of cluster 4907600; quotes are from row 5ce0b10bd55feb8a, the majority by Johnson, J. ('Guy, C.J., Smith, Madsen, Talmadge, and Ireland, JJ., and Brown, J. Pro Tem., concur'). Row d31a8940384cd626 is the dissent (Sanders, J., joined by Alexander, J.) on contract formation; nothing quoted from it. The 'prima facie conscionable' sentence is Mortenson QUOTING American Nursery Products v. Indian Wells Orchards, 115 Wn.2d 217, 222 (1990). Mortenson says it is 'questionable' whether such clauses in commercial contracts can ever be substantively unconscionable, citing a CONCURRENCE in American Nursery; that is not stated as law here. Puget Sound Financial v. Unisearch, 146 Wn.2d 428 (2002), row 1e452273e3d0f4e9, majority ('... Chambers, and Owens, JJ., concur'); the quoted sentences describe American Nursery's holding. A second copy (fef40b238792fba3) exists; not used. Good-law scan 2026-09-17: Mortenson cited in 56 rows (14 Supreme Court), Puget Sound Financial in 20 (2); no overruling language near either cite."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "limitations-period",
+    "rule_id": "wa-six-year-written-three-year-oral-and-unconscionable-shortening",
+    "question": "How long do we have to sue on a Washington contract, and can the contract shorten it?",
+    "rule": "An action upon a contract in writing, or liability express or implied arising out of a written agreement, must be commenced within six years (RCW 4.16.040(1)); an action upon a contract or liability, express or implied, which is not in writing and does not arise out of any written instrument, within three years (RCW 4.16.080(3)) -- except that an action \"upon an account receivable\", meaning \"any obligation for payment incurred in the ordinary course of the claimant's business or profession, whether arising from one or more transactions and whether or not earned by performance\", gets SIX years whether written or not (RCW 4.16.040(2)), and 4.16.080(3) says so in its own opening words. The six-year written rule also yields to RCW 64.04.007(2): a lender that releases its deed of trust or mortgage on owner-occupied real property for less than full payment must sue for the balance within three years of the release or forfeit it, for consumer debts only. A contractual provision shortening the period is subject to unconscionability review measured against the statutory period it displaces: in Tadych the Supreme Court held void a one-year limitation in a custom-home construction contract that deprived the owners of the six-year period under chapter 4.16 RCW, holding that a provision becomes substantively unconscionable when it eliminates otherwise established statutory rights, is one-sided in favour of the drafter, is not prominently set out, is not negotiated or bargained for, and provides no benefit to the affected party. In Adler a 180-day limitations provision in an employment arbitration agreement unreasonably favoured the employer and was substantively unconscionable.",
+    "trap": "The comparison is to the statutory period at issue, not to other clauses courts have upheld: Tadych expressly rejected the Court of Appeals' reasoning that a one-year period was 'twelve times longer' than the 30 days struck in Gandee. A short period buried in a 'warranty' paragraph of a boilerplate contract drafted by the stronger party is the fact pattern that failed. Two more edges. An unwritten trade account is not on the three-year track: the accounts-receivable limb of RCW 4.16.040 reaches it, so 'oral means three years' is wrong for the commonest unwritten commercial claim. And a sale of goods is governed by the UCC's own limitation section, RCW 62A.2-725, which our published corpus does not hold (it carries no Washington UCC at all), so this rule states the general periods and not the one that applies to a supply contract.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 4.16.040",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-4.16.040",
+            "quote": "The following actions shall be commenced within six years: (1) An action upon a contract in writing, or liability express or implied arising out of a written agreement, except as provided for in RCW 64.04.007(2).",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 4.16.080",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-4.16.080",
+            "quote": "(3) Except as provided in RCW 4.16.040(2), an action upon a contract or liability, express or implied, which is not in writing, and does not arise out of any written instrument;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "200 Wash. 2d 635",
+        "name": "Tadych v. Noble Ridge Construction, Inc.",
+        "court": "Wash.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "9851d58794cc30b8",
+            "cl_opinion_id": "11264603",
+            "quote": "A contract provision becomes substantively unconscionable when it eliminates otherwise established statutory rights and is one sided, benefiting the contract drafter, is also not prominently set out in the contract, is not negotiated or bargained for, and provides no benefit to the affected party. Based on this, we hold here that this limitation provision is void and unenforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "200 Wash. 2d 635",
+        "name": "Tadych v. Noble Ridge Construction, Inc.",
+        "court": "Wash.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "9851d58794cc30b8",
+            "cl_opinion_id": "11264603",
+            "quote": "This is an erroneous application of this analysis. The proper assessment requires a comparison of the contractual period with the statutorily established period at issue in the particular case.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "153 Wash. 2d 331",
+        "name": "Adler v. Fred Lind Manor",
+        "court": "Wash.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "7b62edb58e6382bc",
+            "cl_opinion_id": "4713080",
+            "quote": "Therefore, we hold that the 180-day limitations provision in the agreement unreasonably favors Fred Lind Manor and thus is substantively unconscionable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 4.16.040",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-4.16.040",
+            "quote": "(2) An action upon an account receivable. For purposes of this section, an account receivable is any obligation for payment incurred in the ordinary course of the claimant's business or profession, whether arising from one or more transactions and whether or not earned by performance.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 64.04.007",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-64.04.007",
+            "quote": "(2) If the beneficiary or mortgagee, or its assignees, of debt secured by owner-occupied real property intends to pursue collection of the outstanding debt, it must initiate a court action to collect the remaining debt within three years from the date on which it released its deed of trust or mortgage in the owner-occupied real property or else it forfeits any right to collect the remaining debt. (3) This section applies only to debts incurred by individuals primarily for personal, family, or household purposes.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "200 Wash. 2d 635",
+        "name": "Tadych v. Noble Ridge Construction, Inc.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "9851d58794cc30b8",
+            "cl_opinion_id": "11264603",
+            "checked": "2026-09-26",
+            "quote": "The proper assessment requires a comparison of the contractual period with the statutorily established period at issue in the particular case."
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "LATER TREATMENT 2026-09-26: citing opinions read in a +/-350-char window for negative-treatment words -- 200 Wash. 2d 635 (0 citing opinions in the corpus yet), 153 Wash. 2d 331 (18): none. CORRECTED 2026-09-26 (Washington audit, second stride #17, M): the rule served 'six years written, three years oral' and its own 4.16.080(3) block opens 'Except as provided in RCW 4.16.040(2)' -- the accounts-receivable limb that gives an unwritten trade account six years. The prose contradicted the carve-out its block carried (third such instance in Virginia and Washington). Also absent: RCW 64.04.007(2), the exception written into 4.16.040(1). Both quoted. Tadych's 'proper assessment' sentence, the trap's point, now a block. CORPUS HOLE: RCW 62A.2-725 (UCC four-year period for sales) is not in the corpus -- no Washington UCC -- and the trap now says so rather than leaving the goods case to the general periods. RCW 4.16.005, 4.16.040 (1)-(3), 4.16.080 (1)-(6), 4.16.130 read in full; Tadych and Adler verbatim in context. RCW 4.16.040 ('[2012 c 185 s 3; ... RRS s 157.]') and 4.16.080 read in full 2026-09-16. Tadych v. Noble Ridge Construction, Inc. (Wash. Oct. 27, 2022, No. 100049-9), row 9851d58794cc30b8: the row holds the order denying reconsideration (Jan. 6, 2023), the order amending the opinion (Dec. 29, 2022, adding a footnote on attorney fees), the majority by Johnson, J. (quoted), and a dissent by González, C.J., beginning at char ~24,300 of the normalised text; both quotes are before the dissent. The number of justices joining the majority is not legible in the row (the signature block is garbled). The second Tadych quote is from footnote 3 of the majority. IDENTITY: '200 Wash. 2d 635' does NOT resolve in the citation map we hold; the verifier identifies the row by name and year, not by reporter cite, and the reporter cite is recorded from research, not read off the row. Adler (2004) is the majority row described in the arbitration row. Broom v. Morgan Stanley DW (2010) contains the sentence 'parties may agree to a contractual limitations period that is shorter than provided by statute, provided that the shorter time frame is not unreasonable' — but in our corpus that sentence is in the DISSENT (Madsen, C.J., row 355c725e9ef058a9), so it is not relied on. RCW 4.16.310 and 4.16.326(1)(g) (construction accrual and repose) were read only as Tadych quotes them. UCC 2-725 is in Title 62A, which we do not hold. Good-law scan 2026-09-17: only 2 rows cite '200 Wn.2d 635' (later opinions in the corpus may cite Tadych by docket number, which the scan does not catch); no negative treatment found. Adler: see the arbitration row."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "liquidated-damages",
+    "rule_id": "wa-liquidated-damages-reasonable-forecast-judged-at-formation",
+    "question": "Will a Washington court enforce our liquidated damages clause?",
+    "rule": "Liquidated damages clauses are favored in Washington and will be upheld if the sums do not amount to a penalty or are not otherwise unlawful. The two-part test: first, the amount fixed must be a reasonable forecast of just compensation for the harm that is caused by the breach; second, the harm must be such that it is incapable or very difficult of ascertainment (Walter Implement). The central inquiry is whether the specified sum was reasonable at the time of contract formation: reasonableness is not determined retroactively by correspondence with actual damages, but by reference to the prospective difficulty of estimating possible damages (Watson). Labelling the sum 'liquidated damages, not a penalty' does not decide the issue.",
+    "trap": "A formula can be the defect. In Walter Implement a clause charging 20 percent of the unexpired rentals produced a larger sum the EARLIER the lessee defaulted, although the equipment came back sooner, bore no relation to anticipated damages, and was held a penalty despite the contract's 'not as a penalty' label. Conversely, a clause that was a reasonable forecast when signed is not defeated by showing the seller later suffered little or no actual loss (Watson).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "124 Wash. 2d 845",
+        "name": "Watson v. Ingram",
+        "court": "Wash.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "ac71722fcaba5256",
+            "cl_opinion_id": "1450869",
+            "quote": "Liquidated damages clauses are favored in Washington, and courts will uphold them if the sums involved do not amount to a penalty or are not otherwise unlawful.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "107 Wash. 2d 553",
+        "name": "Walter Implement, Inc. v. Focht",
+        "court": "Wash.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "c53bf33b059ace02",
+            "cl_opinion_id": "1118859",
+            "quote": "This court has adopted and applied a 2-part test to determine whether a liquidated damages clause is enforceable. First, the amount fixed must be a reasonable forecast of just compensation for the harm that is caused by the breach. Second, the harm must be such that it is incapable or very difficult of ascertainment.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "107 Wash. 2d 553",
+        "name": "Walter Implement, Inc. v. Focht",
+        "court": "Wash.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "c53bf33b059ace02",
+            "cl_opinion_id": "1118859",
+            "quote": "The designation in this contract that the additional amount is not a penalty but is liquidated damages, therefore, does not decide the issue.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "107 Wash. 2d 553",
+        "name": "Walter Implement, Inc. v. Focht",
+        "court": "Wash.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "c53bf33b059ace02",
+            "cl_opinion_id": "1118859",
+            "quote": "For example, using this formula, the earlier the default the greater the penalty although the equipment is returned sooner resulting in less depreciation of the equipment.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "124 Wash. 2d 845",
+        "name": "Watson v. Ingram",
+        "court": "Wash.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "ac71722fcaba5256",
+            "cl_opinion_id": "1450869",
+            "quote": "The central inquiry is whether the specified liquidated damages were reasonable at the time of contract formation. The reasonableness of liquidated damages is not determined retroactively by their correspondence with actual damages, but by reference to the prospective difficulty of estimating the possible damages that would flow from a breach.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "107 Wash. 2d 553",
+        "name": "Walter Implement, Inc. v. Focht",
+        "court": "Wash.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "c53bf33b059ace02",
+            "cl_opinion_id": "1118859",
+            "quote": "The clause provides for \"an amount equal to twenty (20) percent of the aggregate minimum rental charges for the unexpired portion of the term of this agreement, not as a penalty, but as and for liquidated damages\".",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "107 Wash. 2d 553",
+        "name": "Walter Implement, Inc. v. Focht",
+        "court": "Wash.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "c53bf33b059ace02",
+            "cl_opinion_id": "1118859",
+            "quote": "We affirm the Court of Appeals and find the liquidated damages clause is a penalty and unenforceable.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 (Washington audit, third stride #13): CORRECT. Watson (two passages) and Walter Implement (five) verbatim in context, including the 'not determined retroactively' sentence and the 'earlier the default the greater the penalty' reasoning. LATER TREATMENT 2026-09-26: 124 Wash. 2d 845 cited by 1 later opinion, 107 Wash. 2d 553 by 3, each read in a +/-350-char window for negative-treatment words: none. Walter Implement, Inc. v. Focht, 107 Wn.2d 553 (1987), row c53bf33b059ace02, unanimous ('Dolliver, C.J., and Utter, Brachtenbach, Dore, Pearson, Andersen, Callow, and Durham, JJ., concur'); an equipment lease, and the court applied the common-law test, not a UCC section. The row text has an OCR artefact ('con-, tracting') inside a nearby sentence, which is why that sentence is not quoted. Watson v. Ingram, 124 Wn.2d 845 (1994), row ac71722fcaba5256, unanimous; a real-estate earnest money case decided with Wallace Real Estate Investment v. Groves (footnote 1). Watson says the second factor 'loses independent significance' and becomes an element of reasonableness; the rule states both cases' formulations for that reason. RCW 64.04.005 (earnest money in real estate, the statutory 5% limit) was not read. UCC 2-718 is in Title 62A, which we do not hold. Good-law scan 2026-09-17: Walter Implement cited in 30 rows (9 Supreme Court), Watson in 7 (1); no overruling language near either cite. HOLDING SWEEP 2026-09-22 (third band, overlap 0.20-0.25): the trap's 'held a penalty despite the contract's not-as-a-penalty label' rests on the clause text and the holding, both now blocked."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "non-competition",
+    "rule_id": "wa-noncompete-disclosure-and-earnings-floor",
+    "question": "What makes a Washington noncompetition covenant void before anyone reaches reasonableness?",
+    "rule": "Until June 30, 2027: a noncompetition covenant is void and unenforceable unless the employer disclosed its terms in writing to the prospective employee no later than the time of the initial oral or written acceptance of the offer of employment — and, where the covenant was entered into after employment began, unless the employer provided independent consideration for it. It is also void unless the employee's earnings from the party seeking enforcement, annualized, exceed the statutory figure of one hundred thousand dollars per year, which RCW 49.62.040 requires to be adjusted annually for inflation (so the figure in force on any given day is higher than the one in the statute and is not stated here); 'earnings' is box 1 of the employee's W-2, annualized. A covenant is void against an employee terminated in a layoff unless enforcement includes compensation equivalent to base salary for the period of enforcement, less what the employee earns elsewhere in that period; and a duration longer than eighteen months after termination is presumed unreasonable and unenforceable, rebuttable only by clear and convincing evidence. FROM JUNE 30, 2027 the same section reads: 'all noncompetition covenants are void and unenforceable regardless of when the parties entered into the noncompetition covenant', it is a violation of the chapter to enforce, attempt to enforce, threaten to enforce or even represent the existence of one, and by October 1, 2027 an employer must make reasonable efforts to notify current and former employees and independent contractors in writing that their covenant is void. The chapter also prices a bad covenant. If a court or arbitrator finds a covenant violates the chapter, the violator pays the aggrieved person \"the greater of his or her actual damages or a statutory penalty of five thousand dollars, plus reasonable attorneys' fees, expenses, and costs\" -- and the same sum is owed by the party seeking enforcement whenever a court or arbitrator \"reforms, rewrites, modifies, or only partially enforces\" a covenant (RCW 49.62.080(2)-(3)); no action lies on a covenant signed before January 1, 2020 that is not being enforced or explicitly leveraged (49.62.080(4)). Against an independent contractor the earnings floor is two hundred fifty thousand dollars, inflation-adjusted the same way (RCW 49.62.030(1)), and an employee earning less than twice the state minimum hourly wage may not be barred from a second job or self-employment, subject to safety and scheduling limits (RCW 49.62.070).",
+    "trap": "These are threshold defects, not balancing factors: a covenant that is perfectly reasonable in duration and geography is still void if the disclosure was late or the earnings floor is not met. The floor is a statutory figure that is adjusted annually for inflation, so the number in the statute text (one hundred thousand dollars) is NOT the number in force — this store holds no statute effective dates and cannot tell you which adjusted figure applied on a given day. The bigger trap is the calendar: a covenant drafted today to run two or three years is planned into a regime that voids it outright on June 30, 2027, retroactively as to when it was signed, and makes attempting to enforce it a violation of the chapter. Note also what Washington does NOT treat as a noncompetition covenant — nonsolicitation agreements, confidentiality agreements and trade-secret covenants are carved out of the definition in RCW 49.62.010 — so the same page of a contract can survive while the noncompete on it does not. The remedies section is the trap inside the trap: because RCW 49.62.080(3) charges the enforcing party the $5,000-or-actual-damages penalty plus fees whenever a court merely REFORMS or PARTIALLY enforces the covenant, an over-broad covenant that a court trims is a losing proposition for the employer even when it wins the trimmed version -- draft to the floor, not to the ceiling. From June 30, 2027 the same section's remedy attaches to any violation of the chapter, including entering into or representing the existence of a covenant at all.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.020",
+        "verified": {
+          "retrievable": true,
+          "rank": 2,
+          "probe_query": "when is a noncompetition covenant void and unenforceable against an employee",
+          "index": "wa-statutes (staged on the corpus host; NOT publicly served)",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.020",
+            "quote": "(1) A noncompetition covenant is void and unenforceable: (a)(i) Unless the employer discloses the terms of the covenant in writing to the prospective employee no later than the time of the initial oral or written acceptance of the offer of employment and, if the agreement becomes enforceable only at a later date due to changes in the employee's compensation, the employer specifically discloses that the agreement may be enforceable against the employee in the future; or (ii) If the covenant is entered into after the commencement of employment, unless the employer provides independent consideration for the covenant; (b) Unless the employee's earnings from the party seeking enforcement, when annualized, exceed one hundred thousand dollars per year. This dollar amount must be adjusted annually in accordance with RCW 49.62.040; (c) If the employee is terminated as the result of a layoff, unless enforcement of the noncompetition covenant includes compensation equivalent to the employee's base salary at the time of termination for the period of enforcement minus compensation earned through subsequent employment during the period of enforcement. (2) A court or arbitrator must presume that any noncompetition covenant with a duration exceeding eighteen months after termination of employment is unreasonable and unenforceable. A party seeking enforcement may rebut the presumption by proving by clear and convincing evidence that a duration longer than eighteen months is necessary to protect the party's business or goodwill.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.020",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.020",
+            "quote": "(1) Beginning on June 30, 2027, all noncompetition covenants are void and unenforceable regardless of when the parties entered into the noncompetition covenant. (2) It is a violation of this chapter for an employer to enforce, attempt to enforce, or threaten to enforce against an employee or worker any noncompetition covenant, to represent that the employee or worker is subject to a noncompetition covenant, or to enter into or attempt to enter into a noncompetition covenant with an employee or worker. (3) By October 1, 2027, an employer must make reasonable efforts to provide written notice to all current and former employees and independent contractors whose noncompetition covenant is still within its effective time period, that their noncompetition covenant is void and unenforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.040",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.040",
+            "quote": "The dollar amounts specified in RCW 49.62.020 and 49.62.030 must be adjusted annually for inflation. Annually on September 30th the department of labor and industries must adjust the dollar amounts specified in this section by calculating to the nearest cent using the consumer price index for urban wage earners and clerical workers, CPI-W, or a successor index, for the twelve months prior to each September 1st as calculated by the United States department of labor. The adjusted dollar amount calculated under this section takes effect on the following January 1st.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.010",
+        "verified": {
+          "retrievable": true,
+          "rank": 1,
+          "probe_query": "noncompetition covenant is void and unenforceable unless disclosed in writing and employee earnings exceed threshold",
+          "index": "wa-statutes (staged on the corpus host; NOT publicly served)",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.010",
+            "quote": "(1) \"Earnings\" means the compensation reflected on box one of the employee's United States internal revenue service form W-2 that is paid to an employee over the prior year, or portion thereof for which the employee was employed, annualized and calculated as of the earlier of the date enforcement of the noncompetition covenant is sought or the date of separation from employment.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.080",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.080",
+            "quote": "(2) If a court or arbitrator determines that a noncompetition covenant violates this chapter, the violator must pay the aggrieved person the greater of his or her actual damages or a statutory penalty of five thousand dollars, plus reasonable attorneys' fees, expenses, and costs incurred in the proceeding. (3) If a court or arbitrator reforms, rewrites, modifies, or only partially enforces any noncompetition covenant, the party seeking enforcement must pay the aggrieved person the greater of his or her actual damages or a statutory penalty of five thousand dollars, plus reasonable attorneys' fees, expenses, and costs incurred in the proceeding. (4) A cause of action may not be brought regarding a noncompetition covenant signed prior to January 1, 2020, if the noncompetition covenant is not being enforced or explicitly leveraged.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.080",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.080",
+            "quote": "(2) If a court or arbitrator determines that a person has violated this chapter, the violator must pay the aggrieved person the greater of his or her actual damages or a statutory penalty of five thousand dollars, plus reasonable attorneys' fees, expenses, and costs incurred in the proceeding. [ 2026 c 149 s 5; 2024 c 36 s 5; 2019 c 299 s 9.]",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.030",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.030",
+            "quote": "(1) A noncompetition covenant is void and unenforceable against an independent contractor unless the independent contractor's earnings from the party seeking enforcement exceed two hundred fifty thousand dollars per year. This dollar amount must be adjusted annually in accordance with RCW 49.62.040.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.070",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.070",
+            "quote": "(1) Subject to subsection (2) of this section, an employer may not restrict, restrain, or prohibit an employee earning less than twice the applicable state minimum hourly wage from having an additional job, supplementing their income by working for another employer, working as an independent contractor, or being self-employed.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Washington audit, fourth stride #14, M-H): the row carried both versions of § 49.62.020, the inflation-adjustment section and the definitions, and never § 49.62.080 -- the remedies: $5,000 or actual damages plus fees against a violator, and the SAME sum against a party whose covenant a court merely reforms or partially enforces, which is the drafting trap beside the ban. Both the current (2)-(4) and the June 30, 2027 version's (2) are quoted, the latter with its session-law bracket so the two texts are told apart. Also absent: § 49.62.030(1) ($250,000 contractor floor) and § 49.62.070(1) (moonlighting protection). Quoted. Cites harmonised from 'Wash. Rev. Code §' to 'RCW' to match the other 45 Washington statute cites in the store (this row lives in rows-multistate.json, which is where the variant came from). §§ 49.62.030-.090 read in full in both versions where two exist. LATER TREATMENT: statute-only row, no opinion to sweep. A FIRST PROBE FOR THIS ROW FAILED AND THE FAILURE IS THE POINT. The query 'covenant not to compete void restraint on lawful profession trade or business' — which finds Cal. Bus. & Prof. Code § 16600 at rank 1 — did not surface RCW 49.62 at all in the top 6, and the chapter is plainly in the corpus (13 sections, RCW 49.62.005 through 49.62.090, confirmed by direct title query). The miss was the QUESTION, not the holdings: it was phrased in California's statutory vocabulary. Re-probed in Washington's own terms it comes back at rank 2. This is why probe_query is a required field — a retrievability claim that does not carry its question is not reproducible and, as here, can be wrong in either direction. RULE TEXT CORRECTED 2026-09-16. The rule was first paraphrased from RCW 49.62.020(1)(a)-(b) and 49.62.010(1) read out of the staged shard, where the .020(1)(b) earnings sentence was truncated; it stated only the disclosure, independent-consideration and earnings-floor defects, and it did not say that the section it describes is superseded in under a year. THE DATED CHANGE, read in the published row rcw-49.62.020 on 2026-09-16: that row carries TWO versions of the section, and the second is headed '(Effective June 30, 2027.)' [2026 c 149 s 4]. It is now quoted as a separate authority above, and the rule states both the version in force today and the one that arrives on June 30, 2027. The effective date is not inferred: RCW 49.62.005 carries the note 'Effective date—2026 c 149: \"This act takes effect June 30, 2027.\" [ 2026 c 149 s 9.]', together with that act's intent section, which says the legislature 'intends to ban noncompetition covenants for all Washington-based workers and businesses'. The same 2026 act rewrites RCW 49.62.010 effective the same day: the 2027 definitions drop 'Earnings' entirely (there is no longer a floor to measure), widen 'noncompetition covenant' to reach performer-venue covenants and forfeiture-for-competition provisions, and narrow the nonsolicitation carve-out to customer solicitation the employee developed, expiring within 18 months. The 'Earnings' definition quoted below is therefore the CURRENT one and does not survive June 30, 2027. THE DOLLAR FIGURE. The current .020(1)(b) sets the floor at 'one hundred thousand dollars per year'; RCW 49.62.040 (quoted above) requires the department of labor and industries to adjust it annually for inflation each September 30th, effective the following January 1st. The figure actually in force on any given day is therefore higher than the statutory one, and this store still cannot say which figure applied when: no statute effective dates, and the adjusted amounts are published by the department, not in the code text we hold. Neither new authority claims a retrieval rank: both are corpus-verified only (the .020 2027 version is in the same published row as the current version; RCW 49.62.040 was read in full and not probed against the staged index).",
+    "applies_to": [
+      "employment",
+      "services"
+    ]
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "prompt-payment",
+    "rule_id": "wa-public-body-interest-and-ten-day-subcontractor-payment",
+    "question": "When must a Washington public owner, and a contractor on public work, pay, and what happens if they don't?",
+    "rule": "For public bodies: every state agency, county, city, town, school district, board, commission or other public body must pay interest at one percent per month (at least one dollar per month) on amounts due on written contracts for public works, personal services, goods and services, equipment and travel when it fails to pay timely; payment is timely if made on the contract date but not later than thirty days after receipt of a properly completed invoice or receipt of goods or services, whichever is later (RCW 39.76.011). On public works, a contractor or subcontractor receiving payment must pay each subcontractor within ten days after receipt the amounts allowed on account of that subcontractor's work; in a good faith dispute no more than 150 percent of the disputed amount may be withheld, and those not party to the dispute are entitled to full and prompt payment; wrongful withholding carries interest at the highest rate allowed under RCW 19.52.025 and prevailing-party attorneys' fees (RCW 39.04.250). These rights may not be waived by contract (RCW 39.04.900). The withholding side has its own clock: on a public works contract a public body that withholds part or all of a payment \"shall notify the prime contractor in writing within eight working days after receipt of the payment request stating specifically why part or all of the payment is being withheld and what remedial actions must be taken\"; if the notice does not say that, interest runs \"from the ninth working day\" until a compliant notice arrives; and once the prime completes the remedial actions the withheld amount is due within thirty calendar days, with interest from the thirty-first day (RCW 39.76.011(2)(b)-(d)). In any action to collect the interest, the prevailing party recovers reasonable attorney fees (RCW 39.76.040).",
+    "trap": "Public works only. This rule states no Washington rule for private construction payment timing; none was found in the rows searched. RCW 39.76.020 excludes, among others, claims subject to a good faith dispute where notice of the dispute is given before the payment date by certified mail, personal delivery or the contract's procedures, and delinquencies from causes clearly beyond the public body's control.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 39.76.011",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.76.011",
+            "quote": "(1) Except as provided in RCW 39.76.020, every state agency, county, city, town, school district, board, commission, or any other public body shall pay interest at a rate of one percent per month, but at least one dollar per month, on amounts due on written contracts for public works, personal services, goods and services, equipment, and travel, whenever the public body fails to make timely payment. (2) For purposes of this section, payment shall be timely if: (a) Except as provided otherwise in this subsection, a check or warrant is mailed or is available on the date specified for the amount specified in the applicable contract documents but not later than thirty days of receipt of a properly completed invoice or receipt of goods or services, whichever is later.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 39.04.250",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.04.250",
+            "quote": "(1) When payment is received by a contractor or subcontractor for work performed on a public work, the contractor or subcontractor shall pay to any subcontractor not later than ten days after the receipt of the payment, amounts allowed the contractor on account of the work performed by the subcontractor, to the extent of each subcontractor's interest therein. (2) In the event of a good faith dispute over all or any portion of the amount due on a payment from the state or a municipality to the prime contractor, or from the prime contractor or subcontractor to a subcontractor, then the state or the municipality, or the prime contractor or subcontractor, may withhold no more than one hundred fifty percent of the disputed amount. Those not a party to a dispute are entitled to full and prompt payment of their portion of a draw, progress payment, final payment, or released retainage. (3) In addition to all other remedies, any person from whom funds have been withheld in violation of this section shall be entitled to receive from the person wrongfully withholding the funds, for every month and portion thereof that payment including retainage is not made, interest at the highest rate allowed under RCW 19.52.025. In any action for the collection of funds wrongfully withheld, the prevailing party shall be entitled to costs of suit and reasonable attorneys' fees.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 39.04.900",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.04.900",
+            "quote": "(1) The rights provided in chapter 223, Laws of 1992 may not be waived by the parties and a contract provision that provides for waiver of the rights provided in chapter 223, Laws of 1992 is void as against public policy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 39.76.020",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.76.020",
+            "quote": "(4) Claims subject to a good faith dispute, when before the date of timely payment, notice of the dispute is: (a) Sent by certified mail; (b) Personally delivered; or (c) Sent in accordance with procedures in the contract; (5) Delinquencies due to natural disasters, disruptions in postal or delivery service, work stoppages due to labor disputes, power failures, or any other cause resulting from circumstances clearly beyond the control of the unit of local government or state agency;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 39.76.011",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.76.011",
+            "quote": "(b) On written contracts for public works, when part or all of a payment is going to be withheld for unsatisfactory performance or if the payment request made does not comply with the requirements of the contract, the public body shall notify the prime contractor in writing within eight working days after receipt of the payment request stating specifically why part or all of the payment is being withheld and what remedial actions must be taken by the prime contractor to receive the withheld amount. (c) If the notification by the public body required by (b) of this subsection does not comply with the notice contents required under (b) of this subsection, the public body shall pay the interest under subsection (1) of this section from the ninth working day after receipt of the initial payment request until the contractor receives notice that does comply with the notice contents required under (b) of this subsection.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 39.76.011",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.76.011",
+            "quote": "(d) If part or all of a payment is withheld under (b) of this subsection, the public body shall pay the withheld amount within thirty calendar days after the prime contractor satisfactorily completes the remedial actions identified in the notice. If the withheld amount is not paid within the thirty calendar days, the public body shall pay interest under subsection (1) of this section from the thirty-first calendar day until the date paid.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 39.76.040",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-39.76.040",
+            "quote": "In any action brought to collect interest due under this chapter, the prevailing party is entitled to an award of reasonable attorney fees.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Washington audit, final stride #15, M): the rule served the one-percent interest, the thirty-day timeliness rule and the ten-day flow-down, and never § 39.76.011(2)(b)-(d) -- the eight-working-day withholding notice, interest from the ninth day on a deficient notice, and the thirty-day release after remedy -- nor § 39.76.040's fee-shifting. Quoted. The trap's negative claim ('no Washington rule for private construction payment timing ... in the rows searched') was TESTED against all 51,174 rows: outside Title 39 the only progress-payment language is in agency cost-reimbursement and DOT provisions (RCW 43.21A.690, 43.30.490, 43.300.080, 43.70.630, 47.28.030, 70A.15.1570), none a private prompt-pay statute; the claim stands. § 39.76.020 read in full: exclusions (1)-(3) and (6)-(7) read and not carried. §§ 39.76.011 (1)-(2)(e), 39.76.040, 39.04.250, 39.04.900 read in full. LATER TREATMENT: statute-only row, no opinion to sweep. Read in full 2026-09-16: RCW 39.76.011 ('[1992 c 223 s 1.]', effective-date note 'This act shall take effect September 1, 1992'), 39.76.020 ('[2009 c 219 s 5; 1981 c 68 s 2.]'), 39.04.250 ('[1992 c 223 s 5.]'), 39.04.900 and 39.04.901. RCW 39.76.011(2)(a) also sets a thirty-day rule for grant- or federally-funded contracts, and (2)(b)-(e) set public-works withholding notice and subcontractor notice procedures; read, summarised only as stated. The link between 39.04.900's 'rights provided in chapter 223, Laws of 1992' and these sections rests on their history lines and 39.04.901 (see the lien-waiver row). The interest rate under RCW 19.52.025 was not read. No private-construction prompt payment statute was found in the Washington rows searched (chapters 39.04, 39.76, 60.04, 60.28)."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "statute-of-frauds",
+    "rule_id": "wa-19-36-010-writing-requirement-and-real-estate-deed",
+    "question": "Which Washington agreements are void unless in writing?",
+    "rule": "Under RCW 19.36.010 an agreement, contract or promise is void unless it, or some note or memorandum of it, is in writing and signed by the party to be charged (or someone lawfully authorized) in five cases: (1) every agreement that by its terms is not to be performed in one year from its making; (2) every special promise to answer for the debt, default or misdoings of another person; (3) every agreement, promise or undertaking made upon consideration of marriage, except mutual promises to marry; (4) every special promise by an executor or administrator to answer damages out of his or her own estate; (5) an agreement authorizing or employing an agent or broker to sell or purchase real estate for compensation or a commission. Separately, every conveyance of real estate or any interest in it, and every contract creating or evidencing an encumbrance on real estate, must be by deed (RCW 64.04.010). A deed in turn \"shall be in writing, signed by the party bound thereby, and acknowledged\" (RCW 64.04.020). And Washington has a second statute of frauds a commercial drafter meets: under RCW 19.36.110 a \"credit agreement\" -- any promise to lend, extend credit, forbear, modify, release a guarantor or make any other financial accommodation (RCW 19.36.100) -- \"is not enforceable against the creditor unless the agreement is in writing and signed by the creditor\", the parties' rights are \"determined solely from the written agreement\" with prior oral agreements merged into it, and \"Partial performance of a credit agreement does not remove the agreement from the operation of this section.\"",
+    "trap": "Two Washington-specific edges. The statute says 'void', not merely unenforceable. And the broker clause in (5) means a real-estate commission agreement must be in writing and signed by the party to be charged; an unwritten agreement of that kind is void under this section. The one-year clause runs from the making of the agreement and asks whether it is 'by its terms' not performable within a year. The credit-agreement statute cuts one way only -- it protects the CREDITOR from oral commitments -- and it has two gates a borrower's counsel should check: it does not apply to credit cards or to consumer loans to a natural person for personal, family or household purposes (RCW 19.36.120), and it does not apply at all unless the creditor gave the conspicuous notice RCW 19.36.140 prescribes \"simultaneously with or before\" the agreement was made (RCW 19.36.130). A lender that skipped the notice has waived the statute's protection for that agreement.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 19.36.010",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.36.010",
+            "quote": "In the following cases, specified in this section, any agreement, contract, and promise shall be void, unless such agreement, contract, or promise, or some note or memorandum thereof, be in writing, and signed by the party to be charged therewith, or by some person thereunto by him or her lawfully authorized, that is to say: (1) Every agreement that by its terms is not to be performed in one year from the making thereof; (2) every special promise to answer for the debt, default, or misdoings of another person; (3) every agreement, promise, or undertaking made upon consideration of marriage, except mutual promises to marry; (4) every special promise made by an executor or administrator to answer damages out of his or her own estate; (5) an agreement authorizing or employing an agent or broker to sell or purchase real estate for compensation or a commission.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 64.04.010",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-64.04.010",
+            "quote": "Every conveyance of real estate, or any interest therein, and every contract creating or evidencing any encumbrance upon real estate, shall be by deed:",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 64.04.020",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-64.04.020",
+            "quote": "Every deed shall be in writing, signed by the party bound thereby, and acknowledged by the party before some person authorized by *this act to take acknowledgments of deeds.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.36.110",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.36.110",
+            "quote": "A credit agreement is not enforceable against the creditor unless the agreement is in writing and signed by the creditor. The rights and obligations of the parties to a credit agreement shall be determined solely from the written agreement, and any prior or contemporaneous oral agreements between the parties are superseded by, merged into, and may not vary the credit agreement. Partial performance of a credit agreement does not remove the agreement from the operation of this section.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.36.100",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.36.100",
+            "quote": "\"Credit agreement\" means an agreement, promise, or commitment to lend money, to otherwise extend credit, to forbear with respect to the repayment of any debt or the exercise of any remedy, to modify or amend the terms under which the creditor has lent money or otherwise extended credit, to release any guarantor or cosigner, or to make any other financial accommodation pertaining to a debt or other extension of credit.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.36.130",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.36.130",
+            "quote": "If a notice complying with RCW 19.36.140, is not given simultaneously with or before a credit agreement is made, RCW 19.36.100 through 19.36.140 and 19.36.900 shall not apply to the credit agreement.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Washington audit, first stride #1, M): the rule served RCW 19.36.010's five cases and RCW 64.04.010's deed requirement and never RCW 19.36.100-.140, the credit-agreement statute of frauds one section on -- the same gap Virginia's statute-of-frauds row had with § 26.02. Written-and-signed-by-the-creditor, merger, no partial-performance exception, consumer and credit-card exclusions, and the notice precondition are now quoted or stated from the text. RCW 64.04.020 (a deed must be signed AND acknowledged) added. RCW 64.04.010 carries a 2024 amendment (2024 c 27); the store holds no effective-date coverage. §§ 19.36.010, 19.36.100-.140, 64.04.010-.020 read in full. RCW 19.36.010 ('[2011 c 336 s 540; 1905 c 58 s 1; ...]') and RCW 64.04.010 ('[2024 c 27 s 2; 1929 c 33 s 1; ...]', with provisos on leases and recorded trusts) read in full 2026-09-16. The UCC's statute of frauds for goods (RCW 62A.2-201) is in Title 62A, which we do not hold. No Supreme Court of Washington case on part performance or on the 'by its terms' construction of the one-year clause was researched for this row; the trap's second sentence restates the statute's own words, not case law."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "wa-utsa-displacement-contracts-preserved-and-49-44-211",
+    "question": "Does Washington's trade secrets act wipe out our confidentiality clause, and what can an employee NDA not cover?",
+    "rule": "No. The Uniform Trade Secrets Act (chapter 19.108 RCW) displaces conflicting tort, restitutionary and other law of Washington pertaining to civil liability for misappropriation of a trade secret, but does not affect contractual or other civil liability or relief that is not based upon misappropriation of a trade secret (RCW 19.108.900); the Supreme Court has said a contractual provision designed to protect against disclosure is not subject to displacement by the Act (Boeing v. Sierracin). But under RCW 49.44.211 a provision in an agreement between an employer and an employee not to disclose or discuss conduct, or the existence of a settlement involving conduct, that the employee reasonably believed to be illegal discrimination, illegal harassment, illegal retaliation, a wage and hour violation, or sexual assault, or that is recognized as against a clear mandate of public policy, is void and unenforceable; the section does not prohibit protecting trade secrets, proprietary information or confidential information that does not involve illegal acts, nor a provision keeping a settlement amount confidential. What the Act displaces other law FOR is defined in it: \"misappropriation\" is acquisition by one who knows or has reason to know the secret was obtained by improper means, or disclosure or use without consent by one who used improper means or knew the knowledge came through improper means, under a duty of secrecy, or by accident or mistake -- and \"improper means\" includes \"breach or inducement of a breach of a duty to maintain secrecy\" (RCW 19.108.010). A complainant recovers actual loss and unjust enrichment, and for wilful and malicious misappropriation exemplary damages up to twice that award (RCW 19.108.030), with attorney's fees available for bad-faith claims or wilful and malicious misappropriation (RCW 19.108.040). The action must be brought within three years of when the misappropriation was or should have been discovered, and a continuing misappropriation is a single claim (RCW 19.108.060).",
+    "trap": "An employer that asks for, or tries to enforce, a prohibited nondisclosure or nondisparagement provision commits a violation and is liable for actual or statutory damages of $10,000, whichever is more, plus attorneys' fees (RCW 49.44.211(4), (5), (7)). 'Employee' includes current, former and prospective employees and independent contractors, so a confidentiality clause copied into a contractor agreement is within the section.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 19.108.900",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.108.900",
+            "quote": "(1) This chapter displaces conflicting tort, restitutionary, and other law of this state pertaining to civil liability for misappropriation of a trade secret. (2) This chapter does not affect: (a) Contractual or other civil liability or relief that is not based upon misappropriation of a trade secret; or (b) Criminal liability for misappropriation of a trade secret.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "108 Wash. 2d 38",
+        "name": "Boeing Co. v. Sierracin Corp.",
+        "court": "Wash.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "e047b31b6fa72888",
+            "cl_opinion_id": "1112101",
+            "quote": "Furthermore, a contractual provision designed to protect against disclosure would also not be subject to displacement by the Uniform Trade Secrets Act. RCW 19.108.900(2)(a).",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.44.211",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.44.211",
+            "quote": "(1) A provision in an agreement by an employer and an employee not to disclose or discuss conduct, or the existence of a settlement involving conduct, that the employee reasonably believed under Washington state, federal, or common law to be illegal discrimination, illegal harassment, illegal retaliation, a wage and hour violation, or sexual assault, or that is recognized as against a clear mandate of public policy, is void and unenforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.44.211",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.44.211",
+            "quote": "(2) This section does not prohibit the enforcement of a provision in any agreement that prohibits the disclosure of the amount paid in settlement of a claim.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.44.211",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.44.211",
+            "quote": "(6) This section does not prohibit an employer and an employee from protecting trade secrets, proprietary information, or confidential information that does not involve illegal acts. (7) An employer who violates this section after June 9, 2022, is liable in a civil cause of action for actual or statutory damages of $10,000, whichever is more, as well as reasonable attorneys' fees and costs. (8) For the purposes of this section, \"employee\" means a current, former, or prospective employee or independent contractor.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.108.010",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.108.010",
+            "quote": "(1) \"Improper means\" includes theft, bribery, misrepresentation, breach or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means; (2) \"Misappropriation\" means: (a) Acquisition of a trade secret of another by a person who knows or has reason to know that the trade secret was acquired by improper means; or (b) Disclosure or use of a trade secret of another without express or implied consent by a person who: (i) Used improper means to acquire knowledge of the trade secret; or (ii) At the time of disclosure or use, knew or had reason to know that his or her knowledge of the trade secret was (A) derived from or through a person who had utilized improper means to acquire it, (B) acquired under circumstances giving rise to a duty to maintain its secrecy or limit its use, or (C) derived from or through a person who owed a duty to the person seeking relief to maintain its secrecy or limit its use;",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.108.030",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.108.030",
+            "quote": "(1) In addition to or in lieu of injunctive relief, a complainant may recover damages for the actual loss caused by misappropriation. A complainant also may recover for the unjust enrichment caused by misappropriation that is not taken into account in computing damages for actual loss. (2) If wilful and malicious misappropriation exists, the court may award exemplary damages in an amount not exceeding twice any award made under subsection (1).",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.108.060",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.108.060",
+            "quote": "An action for misappropriation must be brought within three years after the misappropriation is discovered or by the exercise of reasonable diligence should have been discovered. For the purposes of this section, a continuing misappropriation constitutes a single claim.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.44.211",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.44.211",
+            "quote": "(7) An employer who violates this section after June 9, 2022, is liable in a civil cause of action for actual or statutory damages of $10,000, whichever is more, as well as reasonable attorneys' fees and costs. (8) For the purposes of this section, \"employee\" means a current, former, or prospective employee or independent contractor.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Washington audit, final stride #20, M): the row quoted the displacement section, Boeing's sentence and § 49.44.211(1), (2), (6), and never the Act's own definition of the wrong it displaces other law for, its damages (exemplary up to twice for wilful and malicious misappropriation), its fee rule, or its three-year discovery limitation with continuing misappropriation as one claim; the trap's $10,000 and its 'employee' definition were stated with no block. All quoted. § 49.44.211(11) (retroactive to June 9, 2022 to invalidate earlier provisions, not to settlement agreements) read and not carried. §§ 19.108.010, .030, .040, .060, .900 read in full. LATER TREATMENT 2026-09-26: 108 Wash. 2d 38 cited by 30 later opinions, each read in a +/-350-char window for negative-treatment words: none. RCW 19.108.900 ('[1981 c 286 s 7.]') and RCW 49.44.211 ('[2022 c 133 s 2.]') read in full 2026-09-16; subsection (11) makes the section retroactive from June 9, 2022 only to invalidate provisions in agreements made at the outset of or during employment, and not settlement agreements. Boeing Co. v. Sierracin Corp., 108 Wn.2d 38 (1987), row e047b31b6fa72888, unanimous ('... Andersen, Callow, Goodloe, and Durham, JJ., concur'). DATE DISCREPANCY: the published row is dated 2000-04-05; 108 Wn.2d places the decision in 1987 and the opinion cites nothing later than the mid-1980s. 'decided' records 1987 from the reporter volume; the corpus date is recorded here and not relied on. The Boeing sentence is the court's statement while rejecting Sierracin's argument that all claims should have been consolidated into one UTSA claim. Enforceability of a confidentiality covenant as a restraint (reasonableness, duration) was not researched; under RCW 49.62.010 confidentiality agreements are outside the definition of 'noncompetition covenant' (see the non-competition row in rows-multistate.json). Good-law scan 2026-09-17: 146 rows cite 108 Wn.2d 38 (48 Supreme Court); the only negative words nearby concern trial courts' fee awards being 'disapproved', not Boeing."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "unconscionability",
+    "rule_id": "wa-either-procedural-or-substantive-suffices",
+    "question": "What does it take to get a contract term struck as unconscionable in Washington?",
+    "rule": "Less than in most states: either substantive or procedural unconscionability is sufficient to void a contract (Gandee, following Adler's holding that substantive unconscionability alone can support a finding of unconscionability). Substantive unconscionability involves a clause or term alleged to be one-sided or overly harsh; procedural unconscionability relates to impropriety during the process of forming a contract (Nelson). A substantively unconscionable term is generally severed and the rest enforced (Adler; see the arbitration row).",
+    "trap": "Drafters used to the conjunctive test (both procedural AND substantive) can lose a clause here on substance alone, even where it was signed with full opportunity to read it. The Supreme Court's recent cases find substantive unconscionability where a term cuts down a STATUTORY right: a 180-day limit on discrimination claims (Adler), a 30-day limit on CPA claims (Gandee), a one-year limit on construction defect claims against a six-year statute (Tadych).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "176 Wash. 2d 598",
+        "name": "Gandee v. LDL Freedom Enterprises, Inc.",
+        "court": "Wash.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "47157019f74ba2b8",
+            "cl_opinion_id": "4714846",
+            "quote": "In Washington, either substantive or procedural unconscionability is sufficient to void a contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "153 Wash. 2d 331",
+        "name": "Adler v. Fred Lind Manor",
+        "court": "Wash.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "7b62edb58e6382bc",
+            "cl_opinion_id": "4713080",
+            "quote": "Accordingly, we *347 now hold that substantive unconscionability alone can support a finding of unconscionability. However, since Adler has yet to prove a valid claim of procedural unconscionability, we decline to consider whether it alone will support a claim of unconscionability.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "127 Wash. 2d 124",
+        "name": "Nelson v. McGoldrick",
+        "court": "Wash.",
+        "decided": "1995",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "29f16cb8f0dc9d96",
+            "cl_opinion_id": "1288212",
+            "quote": "Two classifications of unconscionability have generally been recognized: (1) substantive unconscionability, involving \"those cases where a clause or term in the contract is alleged to be one-sided or overly harsh”; and (2) procedural unconscionability, relating \"to impropriety during the process of forming a contract”.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 (Washington audit, fourth stride #9): CORRECT. Gandee, Adler ('we now hold that substantive unconscionability alone can support a finding of unconscionability') and Nelson verbatim in context; Gandee's 30-day provision and its CPA class-action posture confirmed in the opinion. LATER TREATMENT 2026-09-26: 176 Wash. 2d 598 has 0 citing opinions in docketx/us-caselaw-wa (a 2013 Supreme Court decision; recorded as a coverage question, not a treatment finding); 127 Wash. 2d 124 cited by 20, each read in a +/-350-char window for negative-treatment words: none. Gandee v. LDL Freedom Enterprises, Inc., 176 Wn.2d 598 (2013), row 47157019f74ba2b8: majority ('... J.M. Johnson, Stephens, Wiggins, and González, JJ.; and Chambers, J. Pro Tem., concur'); the sentence cites Adler, 153 Wn.2d at 347. NOTE THE STEP: Adler held substantive unconscionability alone suffices and expressly declined to decide whether procedural unconscionability alone does; Gandee's sentence states that either suffices, citing Adler, and Tadych (2022) repeats it citing Gandee. The rule states both. Gandee also held the FAA (as construed in AT&T Mobility v. Concepcion) did not preempt its holding on those facts. Nelson v. McGoldrick, 127 Wn.2d 124 (1995), row 29f16cb8f0dc9d96: majority ('Dolliver, Smith, Guy, and Talmadge, JJ., and Utter, J. Pro Tem., concur. Durham, C.J., concurs in the result.'); the definitions are Nelson quoting Schroeder v. Fageol Motors, 86 Wn.2d 256, 260 (1975). RCW 62A.2-302 is in Title 62A, which we do not hold. Good-law scan 2026-09-17: Gandee cited in 32 rows (3 Supreme Court), Nelson in 87 (22), Adler in 109 (26); no negative treatment of these three. A Court of Appeals opinion (Pinnacle Property Mgmt. v. Czerwinski, 2019) describes Schroeder v. Fageol Motors as 'abrogated on other grounds by Nelson v. McGoldrick' — Nelson's definitions quoted here are its own restatement."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "usury",
+    "rule_id": "wa-twelve-percent-cap-business-borrowers-barred",
+    "question": "What interest rate can a Washington contract charge, and who can raise usury?",
+    "rule": "Any rate is legal so long as it does not exceed the higher of twelve percent per annum or four percentage points above the average bill rate for twenty-six week treasury bills at the first auction of the calendar month before the rate is set by written agreement (or adjusted under a written agreement permitting adjustment) (RCW 19.52.020(1)). A contract for a greater rate is usurious but not void: the creditor is entitled only to principal less the interest accruing at the contract rate; if interest has been paid, principal less twice the interest paid and less accrued unpaid interest; and the debtor recovers costs and reasonable attorneys' fees (RCW 19.52.030(1)). Corporations, trusts, associations, partnerships, joint ventures, governments and others may not plead usury, and no person may plead it if the transaction was primarily for agricultural, commercial, investment or business purposes, except a consumer transaction (personal, family or household purposes) of any amount (RCW 19.52.080). Where no rate is agreed in writing, the loan bears twelve percent by default (RCW 19.52.010(1)). Two safe harbours sit in § 19.52.020(3): a loan made under a commitment to lend at a rate lawful when the commitment was made is not usurious, and open-end credit is not usurious if on any one day in the billing cycle the rate charged was lawful. And since 2019, prejudgment interest on medical debt may not exceed nine percent (RCW 19.52.020(4)).",
+    "trap": "The business-purpose bar is what removes usury from most commercial contracts: even an individual borrower cannot plead it if the loan was primarily for business. And a debtor may not sue under 19.52.030 on a loan to a corporation engaged in business for business purposes unless there is also personal liability of a natural person for more than principal plus lawful interest. The chapter also does not apply at all to a retail installment transaction as defined in RCW 63.14.010, \"whether or not it is construed to be a loan or forbearance\" (RCW 19.52.100) -- so the financed sale of goods is priced under chapter 63.14, not this one -- and a consumer lease, a lease-purchase agreement, or a lease that would be a consumer lease but for the lessee being an entity, the purpose being commercial, or the obligation exceeding $25,000 is not a loan or forbearance for this chapter (RCW 19.52.010(3)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "RCW 19.52.020",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.52.020",
+            "quote": "(1) Except as provided in subsection (4) of this section, any rate of interest shall be legal so long as the rate of interest does not exceed the higher of: (a) Twelve percent per annum; or (b) four percentage points above the equivalent coupon issue yield (as published by the Board of Governors of the Federal Reserve System) of the average bill rate for twenty-six week treasury bills as determined at the first bill market auction conducted during the calendar month immediately preceding the later of (i) the establishment of the interest rate by written agreement of the parties to the contract, or (ii) any adjustment in the interest rate in the case of a written agreement permitting an adjustment in the interest rate.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.52.030",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.52.030",
+            "quote": "(1) If a greater rate of interest than is allowed by statute shall be contracted for or received or reserved, the contract shall be usurious, but shall not, therefore, be void. If in any action on such contract proof be made that greater rate of interest has been directly or indirectly contracted for or taken or reserved, the creditor shall only be entitled to the principal, less the amount of interest accruing thereon at the rate contracted for; and if interest shall have been paid, the creditor shall only be entitled to the principal less twice the amount of the interest paid, and less the amount of all accrued and unpaid interest; and the debtor shall be entitled to costs and reasonable attorneys' fees plus the amount by which the amount the debtor has paid under the contract exceeds the amount to which the creditor is entitled: PROVIDED, That the debtor may not commence an action on the contract to apply the provisions of this section if a loan or forbearance is made to a corporation engaged in a trade or business for the purposes of carrying on said trade or business unless there is also, in connection with such loan or forbearance, the creation of liability on the part of a natural person or that person's property for an amount in excess of the principal plus interest allowed pursuant to RCW 19.52.020.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.52.080",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.52.080",
+            "quote": "Profit and nonprofit corporations, Massachusetts trusts, associations, trusts, general partnerships, joint ventures, limited partnerships, and governments and governmental subdivisions, agencies, or instrumentalities may not plead the defense of usury nor maintain any action thereon or therefor, and persons may not plead the defense of usury nor maintain any action thereon or therefor if the transaction was primarily for agricultural, commercial, investment, or business purposes: PROVIDED, HOWEVER, That this section shall not apply to a consumer transaction of any amount. Consumer transactions, as used in this section, shall mean transactions primarily for personal, family, or household purposes.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.52.100",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.52.100",
+            "quote": "This chapter shall not apply to a retail installment transaction, as defined by RCW 63.14.010, whether or not it is construed to be a loan or forbearance of any money, goods, or things in action.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.52.020",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.52.020",
+            "quote": "(3) Any loan made pursuant to a commitment to lend at an interest rate permitted at the time the commitment is made shall not be usurious. Credit extended pursuant to an open-end credit agreement upon which interest is computed on the basis of a balance or balances outstanding during a billing cycle shall not be usurious if on any one day during the billing cycle the rate at which interest is charged for the billing cycle is not usurious. (4)(a) Prejudgment interest charged or collected on medical debt, as defined in RCW 19.16.100, must not exceed nine percent.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.52.010",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.52.010",
+            "quote": "(1) Except as provided in subsection (2) of this section, every loan or forbearance of money, goods, or thing in action shall bear interest at the rate of twelve percent per annum where no different rate is agreed to in writing between the parties:",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 19.52.010",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-19.52.010",
+            "quote": "(3) A lease shall not be considered a loan or forbearance for the purposes of this chapter if: (a) It constitutes a \"consumer lease\" as defined in RCW 63.10.020; (b) It constitutes a lease-purchase agreement under chapter 63.19 RCW; or (c) It would constitute such \"consumer lease\" but for the fact that: (i) The lessee was not a natural person; (ii) The lease was not primarily for personal, family, or household purposes; or (iii) The total contractual obligation exceeded twenty-five thousand dollars.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 (Washington audit, third stride #18, M): the rule served the ceiling, the not-void remedy and the borrower bars, and never RCW 19.52.100 -- the chapter does not apply to a retail installment transaction at all -- nor § 19.52.020(3)'s commitment-rate and open-end safe harbours, (4)'s 2019 medical-debt cap, § 19.52.010(1)'s twelve-percent default where no written rate, or (3)'s lease exclusions. All quoted. §§ 19.52.005, .010, .020 (1)-(4), .030 (1)-(2), .080, .100 read in full; (2)'s setup-charge rule on loans under $500 read and not carried. LATER TREATMENT: statute-only row, no opinion to sweep. Read in full 2026-09-16: RCW 19.52.020 ('[2019 c 227 s 6; 1989 c 14 s 3; ...]'), 19.52.030 ('[1989 c 14 s 7; ...]'), 19.52.032, 19.52.080 ('[1981 c 78 s 2; ...]'). RCW 19.52.020(2)-(4) (setup charges on loans up to $500, commitment and open-end credit safe harbours, nine percent cap on prejudgment interest on medical debt) were read and are not summarised in the rule. RCW 19.52.032 limits a declaratory action on usury to six months after final payment is due or principal is paid; read, not summarised. The treasury-bill figure in force on any date is not in the code text and this store cannot supply it. Other exemptions in chapter 19.52 (for example regulated lenders under other titles) were not researched."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "venue-selection",
+    "rule_id": "wa-forum-clause-prima-facie-valid-public-policy-and-49-62-050",
+    "question": "Will a Washington court enforce a clause requiring suit elsewhere?",
+    "rule": "Usually. Forum selection clauses are prima facie valid, and the Supreme Court of Washington has adopted this analysis: the clause is presumptively valid and enforceable and the party resisting it bears the burden of demonstrating that it is unreasonable; enforcement may be denied on a clear showing that, in the particular circumstance, it would be unreasonable; and the clause may be unreasonable if induced by fraud or overreaching, if the chosen forum is so unfair and inconvenient as for all practical purposes to deprive the plaintiff of a remedy or its day in court, or if enforcement would contravene a strong public policy of the state where the action is filed, whether declared by statute or by judicial decision. By statute, a provision in a noncompetition covenant signed by a Washington-based employee or independent contractor is void and unenforceable if it requires adjudication of the covenant outside Washington (RCW 49.62.050(1)).",
+    "trap": "Public policy is a real exception, not a formula: Dix held AOL's Virginia forum clause invalid because Virginia did not allow class actions for small-value CPA claims and there was no feasible alternative (see the consumer-protection-waiver row). The challenging party must present evidence; the court does not accept the pleadings as true.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "160 Wash. 2d 826",
+        "name": "Dix v. ICT Group, Inc.",
+        "court": "Wash.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "688f9abe9bec7dc5",
+            "cl_opinion_id": "4713676",
+            "quote": "(1) [A] forum-selection clause is presumptively valid and enforceable and the party resisting it has the burden of demonstrating that it is unreasonable, (2) a court may deny enforcement of such a clause upon a clear showing that, in the particular circumstance, enforcement would be unreasonable, and (3) the clause may be found to be unreasonable if (i) it was induced by fraud or overreaching, (ii) the contractually selected forum is so unfair and inconvenient as, for all practical purposes, to deprive the plaintiff of a remedy or of its day in court, or (iii) enforcement would contravene a strong public policy of the State where the action is filed.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "160 Wash. 2d 826",
+        "name": "Dix v. ICT Group, Inc.",
+        "court": "Wash.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "688f9abe9bec7dc5",
+            "cl_opinion_id": "4713676",
+            "quote": "We agree with this analysis, which is generally in agreement with statements in this state’s appellate decisions.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "160 Wash. 2d 826",
+        "name": "Dix v. ICT Group, Inc.",
+        "court": "Wash.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "688f9abe9bec7dc5",
+            "cl_opinion_id": "4713676",
+            "quote": "We agree with the United States Supreme Court that “[a] contractual choice-of-forum clause should be held unenforceable if enforcement would contravene a strong public policy of the forum in which suit is brought, whether declared by statute or by judicial decision.”",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "RCW 49.62.050",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "rcw-49.62.050",
+            "quote": "A provision in a noncompetition covenant signed by an employee or independent contractor who is Washington-based is void and unenforceable: (1) If the covenant requires the employee or independent contractor to adjudicate a noncompetition covenant outside of this state;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "160 Wash. 2d 826",
+        "name": "Dix v. ICT Group, Inc.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "688f9abe9bec7dc5",
+            "cl_opinion_id": "4713676",
+            "checked": "2026-09-26",
+            "quote": "Because AOL’s forum selection clause precludes class actions for small-value CPA claims and there is no feasible alternative *843 avenue for seeking relief on such claims, the forum selection clause is invalid and unenforceable and dismissal was an abuse of discretion."
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "160 Wash. 2d 826",
+        "name": "Dix v. ICT Group, Inc.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "688f9abe9bec7dc5",
+            "cl_opinion_id": "4713676",
+            "checked": "2026-09-26",
+            "quote": "In assessing a forum selection clause for enforceability, the court does not accept the pleadings as true."
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "LATER TREATMENT 2026-09-26: 160 Wash. 2d 826 cited by 12 later docketx/us-caselaw-wa opinions, each read in a +/-350-char window for negative-treatment words: none. AUDITED 2026-09-26 (Washington audit, first stride #11): CORRECT. Dix's three quoted passages verbatim in context; the trap's 'no feasible alternative' and 'does not accept the pleadings as true' were the Court's own sentences and now carry blocks (the '*843' inside the first is a page marker in the corpus text). RCW 49.62.050 read in full. Dix v. ICT Group, Inc., 160 Wn.2d 826 (2007), row 688f9abe9bec7dc5, opinion of the court by Madsen, J., joined by all eight other justices. The three-part test is the court QUOTING Gilman v. Wheat, First Securities, 345 Md. 361, 378 (1997), which summarises The Bremen and Carnival Cruise Lines; the court then says 'We agree with this analysis' (¶17), which is why both sentences are quoted. The 'strong public policy' sentence is the court adopting The Bremen, 407 U.S. at 15. The 'prima facie valid' and 'does not accept the pleadings as true' points are in ¶15 and ¶18 with Court of Appeals citations; they are too short or too citation-laden to quote at 12 words and are carried here by the adopted test. Dix sets abuse-of-discretion review, de novo on a pure question of law. RCW 49.62.050 read in full ('[2024 c 36 s 4; 2019 c 299 s 6.]'). Whether the June 30, 2027 rewrite of chapter 49.62 changes 49.62.050 was not checked in this row (the 2027 versions in rcw-49.62.020 and .080 are recorded in the non-competition row). Good-law scan 2026-09-17: 103 rows cite 160 Wn.2d 826 (13 Supreme Court); no negative treatment found."
+  },
+  {
+    "jurisdiction": "wa",
+    "clause": "warranty-disclaimer",
+    "rule_id": "wa-berg-explicitly-negotiated-consumer-disclaimers",
+    "question": "Will a printed 'as is / no warranties' clause disclaim implied warranties in Washington?",
+    "rule": "Not against a consumer, unless it was bargained for. Waivers of implied warranties, being disfavored in law, are ineffectual unless explicitly negotiated between buyer and seller and set forth with particularity showing the particular qualities and characteristics of fitness which are being waived (Berg v. Stromme). The Supreme Court has since described Berg's rule as requiring warranty disclaimers to be both explicitly negotiated and set forth with particularity, with the burden on the party seeking to rely on the disclaimer, and has confirmed that two-prong test for consumer transactions and for commercial sales of goods where there is sufficient evidence of unfair surprise (Puget Sound Financial).",
+    "trap": "Berg is the Washington rule a UCC-trained drafter does not expect. Conspicuous 'AS IS' or 'merchantability' language is not enough against a consumer: in Berg the buyer of a new car, whose purchase order listed nearly 40 items of equipment handwritten in ink, was not bound by the printed disclaimers in the purchase order and conditional sale contract. In purely commercial transactions without unfair surprise, the analysis is the looser totality-of-circumstances test (see the limitation-of-remedy row).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "79 Wash. 2d 184",
+        "name": "Berg v. Stromme",
+        "court": "Wash.",
+        "decided": "1971",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "a7290af729177800",
+            "cl_opinion_id": "1185394",
+            "quote": "Waivers of such warranties, being disfavored in law, are ineffectual unless explicitly negotiated between buyer and seller and set forth with particularity showing the particular qualities and characteristics of fitness which are being waived.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "146 Wash. 2d 428",
+        "name": "Puget Sound Financial, L.L.C. v. Unisearch, Inc.",
+        "court": "Wash.",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "1e452273e3d0f4e9",
+            "cl_opinion_id": "4712237",
+            "quote": "According to the decision in Berg , warranty disclaimers in a contract must be both (1) explicitly negotiated and (2) set forth with particularity. Id. at 196 . The presumption leans against the warranty disclaimer, and the burden lies on the party seeking to include the disclaimer to prove its legality.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "146 Wash. 2d 428",
+        "name": "Puget Sound Financial, L.L.C. v. Unisearch, Inc.",
+        "court": "Wash.",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "1e452273e3d0f4e9",
+            "cl_opinion_id": "4712237",
+            "quote": "In that case we confirmed the use of the two-prong Berg analysis for consumer transactions involving warranty disclaimers and in commercial transactions for the sale of goods where there is sufficient evidence of unfair surprise.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "79 Wash. 2d 184",
+        "name": "Berg v. Stromme",
+        "decided": "1971",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wa",
+            "row_id": "a7290af729177800",
+            "cl_opinion_id": "1185394",
+            "checked": "2026-09-26",
+            "quote": "Nearly 40 separately listed items  handwritten in pen and ink on the same order form  described and priced the items of extra optional equipment to be added to the car, these running from a vanity mirror at $1.45 to air conditioning at $430.40, with such in-between devices as power brakes, $43; wind deflector, $26.90; power seat, $96.84; tilt steering, $43.04."
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORPUS NOTE: the Berg row carries a C1 control character (U+0097, a mis-decoded em dash) where the opinion's dashes were; the block reproduces it byte-for-byte because the verifier normalises whitespace only. AUDITED 2026-09-26 (Washington audit, final stride #5): CORRECT. Berg's holding sentence and Puget Sound Financial's two-prong restatement verbatim in context; the trap's 'nearly 40 items handwritten' facts are the opinion's own and now carry a block. LATER TREATMENT 2026-09-26: 79 Wash. 2d 184 cited by 4 later opinions, each read in a +/-350-char window for negative-treatment words: none (146 Wash. 2d 428 swept in stride 2). RCW Title 62A (Washington's Uniform Commercial Code) is NOT in our published statutes: measured 2026-09-16, 0 of 51,174 rows in docketx/us-statutes data/wa have a section beginning '62A' (the Title-level count runs from 61 to 63 with nothing between). RCW 62A.2-316 therefore could not be read. Berg v. Stromme, 79 Wn.2d 184 (1971): the cite resolves to three rows of cluster 1185394. The quote is from row a7290af729177800, the lead opinion by Hale, J., signed by Hamilton, C.J., Finley, Rosellini and Hunter, JJ. (five votes). Row c5ec4f1401545b6a is Neill, J.'s concurrence in the result, joined by Stafford and McGovern, JJ., which calls the 'explicitly negotiated' conclusion 'too restrictive'; so three of eight justices in the published rows did not join that sentence. IMPORTANT: Berg's footnote 2 says that at the time of the purchase the Uniform Sales Act (RCW 63.04.160) was in effect, so Berg itself was not decided under the UCC. Later Supreme Court opinions apply the rule under the Code: Puget Sound Financial (2002, row 1e452273e3d0f4e9, majority, quoted), American Nursery Products (1990) and Torgerson v. One Lincoln Tower (2009, describing it as 'provisions limiting remedies in a consumer transaction must be explicitly negotiated'). Travis v. Washington Horse Breeders Ass'n (1988) notes a 1982 amendment to RCW 62A.2-316(3)(d) for livestock; not addressed here. Good-law scan 2026-09-17: 45 rows cite 79 Wn.2d 184 (17 Supreme Court); no overruling language near the cite, and the Supreme Court restated the rule in 2002 and 2009."
+  }
+]

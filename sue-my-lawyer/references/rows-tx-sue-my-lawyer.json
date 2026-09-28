@@ -1,0 +1,716 @@
+[
+  {
+    "jurisdiction": "tx",
+    "clause": "elements-of-legal-malpractice",
+    "rule_id": "tx-negligence-based-duty-breach-causation-damages-no-subjective-good-faith-defense",
+    "question": "What must a client prove to win a legal malpractice claim in Texas?",
+    "rule": "A Texas legal malpractice claim is a negligence claim with the same four elements as any other: duty, breach, causation, and damages. Cosgrove v. Grimes: “An action for negligence is based on four elements. The plaintiff must prove that there is a duty owed to him by the defendant, a breach of that du[t]y, that the breach proximately caused the plaintiff injury and that damages occurred.” The standard is objective, not the lawyer's own sincerity: “There is no subjective good faith excuse for attorney negligence. A lawyer in Texas is held to the standard of care which would be exercised by a reasonably prudent attorney.” An attorney who makes a reasonable, if ultimately unsuccessful, tactical decision is not liable merely because the result was bad; the question is whether a reasonably prudent attorney could have made the same decision under the same circumstances.",
+    "trap": "“My lawyer meant well” is not a defense element and does not appear anywhere in the test — Cosgrove expressly disapproved the line of Texas cases that had allowed a lawyer's subjective good faith to excuse negligence, and held the standard is the objective conduct of a reasonably prudent attorney. The flip side is also a trap: not every bad outcome is malpractice. An attorney who makes a decision within the range a reasonably prudent attorney could make is not negligent just because the result was disappointing — that reasonableness inquiry, and the causation element, are litigated separately from breach, and (see the case-within-a-case and expert-testimony rows in this file) causation in particular usually cannot be proven by the client's own say-so.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "774 S.W.2d 662",
+        "name": "Cosgrove v. Grimes",
+        "decided": "1989-06-28",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "660769fdf7a6bf24",
+            "cl_opinion_id": "2405588",
+            "quote": "An action for negligence is based on four elements. The plaintiff must prove that there is a duty owed to him by the defendant, a breach of that duly, that the breach proximately caused the plaintiff injury and that damages occurred.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "774 S.W.2d 662",
+        "name": "Cosgrove v. Grimes",
+        "decided": "1989-06-28",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "660769fdf7a6bf24",
+            "cl_opinion_id": "2405588",
+            "quote": "There is no subjective good faith excuse for attorney negligence. A lawyer in Texas is held to the standard of care which would be exercised by a reasonably prudent attorney.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, Cosgrove v. Grimes, 774 S.W.2d 662 (Tex. 1989) (on rehearing), row 660769fdf7a6bf24, cl_opinion_id 2405588. The four-elements quote reproduces the corpus's own text exactly, including what reads as an OCR artifact ('duly' where the sense is plainly 'duty' — the source scan of the reporter volume) — quoted verbatim per this plugin's rule that a quote is never silently corrected. This row does not reach damages measurement (a separate topic — see the case-within-a-case row) or expert-testimony requirements (its own row). Cosgrove is a Texas Supreme Court opinion on motion for rehearing; the negligence-elements holding cites McKinley v. Stripling, 763 S.W.2d 407 (Tex. 1989), not independently verified in this pass."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "case-within-a-case-causation",
+    "rule_id": "tx-causation-requires-proving-the-underlying-case-would-have-been-won-negligence-alone-is-not-enough",
+    "question": "If my lawyer clearly messed up, isn't that enough to win a malpractice case?",
+    "rule": "No — proving the lawyer was negligent is only half the case. The client must separately prove causation: that but for the lawyer's negligence, the underlying matter would have turned out better — the so-called “case within a case.” Alexander v. Turtur & Associates, Inc. framed the causation question as “whether the jury needed expert testimony to determine whether the client would have prevailed in an underlying trial but for its attorneys' alleged negligence in preparing and trying the case.” The Court was explicit that the two inquiries do not collapse into one: “Breach of the standard of care and causation are separate inquiries, however, and an abundance of evidence as to one cannot substitute for a deficiency of evidence as to the other.” And critically: “Thus, even when negligence is admitted, causation is not presumed.”",
+    "trap": "Clients (and sometimes their new lawyers) assume that once the old lawyer's mistake is obvious — missed a deadline, filed against the wrong party, failed to introduce key evidence — the malpractice case is basically won. Alexander says the opposite: an “abundance of evidence” on the mistake itself does not make up for a shortfall of proof that the mistake actually changed the outcome, and causation is never simply assumed from the breach, even when the lawyer concedes the breach. In practice this second half of the case — what the original case, arbitration, or transaction would have looked like without the error — is often the harder half to prove, and (see the expert-testimony row) frequently cannot be proven without a qualified expert.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "146 S.W.3d 113",
+        "name": "Alexander v. Turtur & Associates, Inc.",
+        "decided": "2004-08-27",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "f768b98ca7f4764e",
+            "cl_opinion_id": "894583",
+            "quote": "The principal issue in this legal malpractice case is whether the jury needed expert testimony to determine whether the client would have prevailed in an underlying trial but for its attorneys' alleged negligence in preparing and trying the case.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "146 S.W.3d 113",
+        "name": "Alexander v. Turtur & Associates, Inc.",
+        "decided": "2004-08-27",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "f768b98ca7f4764e",
+            "cl_opinion_id": "894583",
+            "quote": "Breach of the standard of care and causation are separate inquiries, however, and an abundance of evidence as to one cannot substitute for a deficiency of evidence as to the other. Thus, even when negligence is admitted, causation is not presumed.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, Alexander v. Turtur & Associates, Inc., 146 S.W.3d 113 (Tex. 2004), row f768b98ca7f4764e, cl_opinion_id 894583 (the majority opinion; two other corpus rows for the same cluster_id, 4f455b43bbb89b47 and 30ae107ff98cd267, were not used here and were not read for this pass). The underlying matter in Alexander was a bankruptcy adversary proceeding tried before a judge, not a jury, and the case addresses trial malpractice specifically; this row does not extend the quoted holdings to non-litigation (transactional) malpractice, which is a different fact pattern addressed in this file's Hughes-tolling row via Erikson v. Renda's 'prosecution or defense of a claim' limitation."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "expert-testimony-requirement",
+    "rule_id": "tx-expert-testimony-required-whenever-the-causal-link-is-beyond-lay-understanding",
+    "question": "Do I need an expert witness to prove my Texas legal malpractice case?",
+    "rule": "In most cases, yes — particularly on causation. Alexander v. Turtur & Associates, Inc.: “And when the causal link is beyond the *120 jury's common understanding, expert testimony is necessary.” The Court explained why breach and causation testimony are not interchangeable: “Proof of causation of injury often requires expert testimony concerning what the attorney should have done under the circumstances. The expert testimony must be tied to the specific conduct that is in issue.”",
+    "trap": "A malpractice plaintiff sometimes assumes that testimony on the standard of care (what a competent lawyer should have done) doubles as proof of causation (what would have happened if the lawyer had done it) — Alexander says expert testimony on one does not substitute for the other, and the causation expert testimony has to be tied to the specific conduct actually at issue, not offered in general terms. this rule does not establish a categorical rule that expert testimony is required in every Texas legal malpractice case — Alexander itself frames the requirement as tied to whether the causal link is 'beyond the jury's common understanding,' which is fact-specific, and the opinion's own survey of other jurisdictions (not independently verified in this rule) shows some cases proceed without an expert when causation is obvious from the record.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "146 S.W.3d 113",
+        "name": "Alexander v. Turtur & Associates, Inc.",
+        "decided": "2004-08-27",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "f768b98ca7f4764e",
+            "cl_opinion_id": "894583",
+            "quote": "And when the causal link is beyond the *120 jury's common understanding, expert testimony is necessary.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "146 S.W.3d 113",
+        "name": "Alexander v. Turtur & Associates, Inc.",
+        "decided": "2004-08-27",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "f768b98ca7f4764e",
+            "cl_opinion_id": "894583",
+            "quote": "Proof of causation of injury often requires expert testimony concerning what the attorney should have done under the circumstances. The expert testimony must be tied to the specific conduct that is in issue.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, Alexander v. Turtur & Associates, Inc., 146 S.W.3d 113 (Tex. 2004), row f768b98ca7f4764e, cl_opinion_id 894583. The '*120' in the first quote is the reporter's own page-break marker embedded in the corpus text at that point; reproduced verbatim rather than edited out, consistent with this plugin's rule against silently altering a quote. This row does not attempt to state a bright-line rule for when expert testimony can be skipped — Alexander's holding is that the record in THAT case required it; the opinion's concurrence (Hecht, J., joined by Wainwright, J.) raises further doubt whether a jury can ever properly find causation in a trial-malpractice case, verified as present in the corpus but not relied on here as a holding of the Court."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "anti-fracturing-rule",
+    "rule_id": "tx-anti-fracturing-rule-bars-recasting-a-negligence-claim-as-fraud-contract-fiduciary-duty-or-dtpa",
+    "question": "Can I sue my lawyer for fraud, breach of contract, breach of fiduciary duty, or a DTPA violation instead of (or in addition to) negligence?",
+    "rule": "Only if the claim is genuinely independent of the quality of the legal work — Texas's anti-fracturing rule bars relabeling what is really a negligence claim as something else. Won Pak v. Harris: “The anti-fracturing rule prevents plaintiffs from converting what are actually professional negligence claims against an attorney into other claims such as fraud, breach of contract, breach of fiduciary duty, or violations of the DTPA.” The test turns on what the complaint is actually about: “For the anti-fracturing rule to apply, however, the gravamen of appellants' complaints must focus on the quality or adequacy of the attorney's representation.”",
+    "trap": "Pleading five causes of action instead of one does not multiply the claim or dodge negligence-specific defenses (like the expert-testimony requirement in this file) if every one of those claims, at bottom, is really about whether the lawyer did competent work — courts look at the gravamen (the real substance) of the complaint, not the label on the cause of action. The flip side is also a trap: this rule does not mean a client can ONLY ever sue for negligence. A claim that is genuinely about something other than the quality of representation — for example, a lawyer's self-dealing or disloyalty, which is what the fee-forfeiture row in this file addresses — is not automatically fractured just because it arose from the same representation.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "Won Pak v. Harris (Tex. App.—Dallas 2010, pet. denied)",
+        "name": "Won Pak v. Harris",
+        "decided": "2010-06-15",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "4fb19fe1b14b5b61",
+            "cl_opinion_id": "1890582",
+            "quote": "The anti-fracturing rule prevents plaintiffs from converting what are actually professional negligence claims against an attorney into other claims such as fraud, breach of contract, breach of fiduciary duty, or violations of the DTPA.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Won Pak v. Harris (Tex. App.—Dallas 2010, pet. denied)",
+        "name": "Won Pak v. Harris",
+        "decided": "2010-06-15",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "4fb19fe1b14b5b61",
+            "cl_opinion_id": "1890582",
+            "quote": "For the anti-fracturing rule to apply, however, the gravamen of appellants’ complaints must focus on the quality or adequacy of the attorney’s representation.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, Won Pak v. Harris, row 4fb19fe1b14b5b61, cl_opinion_id 1890582, court tx-txctapp5 (Dallas Court of Appeals), decided 2010-06-15. This is a court of appeals opinion, not a Texas Supreme Court opinion; the corpus row's own citation field is empty (measured: 0 of 664,012 Texas caselaw rows carry a populated citation field), so no reporter volume/page is asserted here — the parenthetical disposition ('pet. denied') reflects the case caption convention only and was not independently re-verified against a reporter. A companion Court of Appeals opinion making the same point at greater length, Deutsch v. Hoover, Bax & Slovacek, L.L.P. (Tex. App.—Houston [14th Dist.] 2002/2003, two rows in the corpus: bf0ce2f0e374ec5d and 878c3439775cf436), was read but not cited here to avoid duplicating the same rule from two courts of appeals."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "breach-of-fiduciary-duty-and-fee-forfeiture",
+    "rule_id": "tx-clear-and-serious-violation-of-fiduciary-duty-can-forfeit-some-or-all-of-the-fee-even-without-damages",
+    "question": "If my lawyer breached a fiduciary duty to me (self-dealing, an undisclosed conflict of interest), can I get the fee back even if I can't prove I was damaged?",
+    "rule": "Yes — fee forfeiture for breach of fiduciary duty is a distinct, equitable remedy that does not require proof of damages the way a negligence claim does. Burrow v. Arce, applying and quoting the proposed Restatement (Third) of The Law Governing Lawyers § 49: “A lawyer engaging in clear and serious violation of duty to a client may be required to forfeit some or all of the lawyer's compensation for the matter.” The Texas Supreme Court held this is a question for the court, not the jury, once the underlying facts are found: “Thus, when forfeiture of an attorney's fee is claimed, a trial court must determine from the parties whether factual disputes exist that must be decided by a jury before the court can determine whether a clear and serious violation of duty has occurred, whether forfeiture is appropriate, and if so, whether all or only part of the attorney's fee should be forfeited.”",
+    "trap": "People assume 'no harm, no foul' — that without provable damages there is nothing to recover. Fee forfeiture is different from a damages remedy: Burrow holds Texas has long recognized fee forfeiture as available for an agent's breach of fiduciary duty with or without actual damages, because the point of forfeiture is not to compensate the client but to remove the incentive for a lawyer to put personal interest ahead of the client's. The other trap runs the other way: forfeiture is not automatic or total merely because SOME breach occurred — it takes a 'clear and serious' violation, and the amount (if any) depends on multiple factors the court weighs. this rule does not restate every factor from Burrow's full analysis, and does not establish that every breach-of-fiduciary-duty claim against a lawyer survives the anti-fracturing rule in this file — fee forfeiture reaches disloyalty and self-dealing, not a recast negligence claim.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "997 S.W.2d 229",
+        "name": "Burrow v. Arce",
+        "decided": "1999-07-01",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "c5ff67bede3f85b3",
+            "cl_opinion_id": "2419918",
+            "quote": "A lawyer engaging in clear and serious violation of duty to a client may be required to forfeit some or all of the lawyer’s compensation for the matter.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "997 S.W.2d 229",
+        "name": "Burrow v. Arce",
+        "decided": "1999-07-01",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "c5ff67bede3f85b3",
+            "cl_opinion_id": "2419918",
+            "quote": "Thus, when forfeiture of an attorney’s fee is claimed, a trial court must determine from the parties whether factual disputes exist that must be decided by a jury before the court can determine whether a clear and serious violation of duty has occurred, whether forfeiture is appropriate, and if so, whether all or only part of the attorney’s fee should be forfeited.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "997 S.W.2d 229",
+        "name": "Burrow v. Arce",
+        "decided": "1999-07-01",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "c5ff67bede3f85b3",
+            "cl_opinion_id": "2419918",
+            "quote": "The principal question in this case is whether an attorney who breaches his fiduciary duty to his client may be required to forfeit all or part of his fee, irrespective of whether the breach caused the client actual damages.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, Burrow v. Arce, 997 S.W.2d 229 (Tex. 1999), row c5ff67bede3f85b3, cl_opinion_id 2419918. This row does not reproduce the full multi-factor list the court of appeals identified and the Supreme Court largely adopted (nature of the wrong, culpability, harm, offense to public sense of justice and propriety, adequacy of other remedies) — read in the corpus text but not quoted here to keep the row focused on the standard and who decides it; a fuller factor-by-factor row was not built in this pass. NOT ESTABLISHED in this row: a specific dollar-amount or percentage outcome (Burrow remanded for that factual determination rather than fixing an amount as a matter of law). HOLDING SWEEP 2026-09-22 (packs): the trap's 'with or without actual damages' is Burrow's framing of the principal question, answered in the affirmative; block added."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "limitations-two-year-period",
+    "rule_id": "tx-two-year-limitations-period-applies-to-legal-malpractice-as-a-personal-injury-negligence-claim",
+    "question": "How long do I have to sue my Texas lawyer for malpractice?",
+    "rule": "Two years, under the general personal-injury/negligence limitations statute — Texas has no legal-malpractice-specific limitations section. Tex. Civ. Prac. & Rem. Code § 16.003(a): “a person must bring suit for trespass for injury to the estate or to the property of another, conversion of personal property, taking or detaining the personal property of another, personal injury, forcible entry and detainer, and forcible detainer not later than two years after the day the cause of action accrues.” Texas courts apply this catch-all two-year period to legal malpractice because, as the elements-of-legal-malpractice row in this file shows, a malpractice claim sounds in negligence — Hughes v. Mahaney & Higgins refers to the claim before it as governed by 'the two year statute of limitations. TEX.CIV.PRAC. & REM.CODE § 16.003(a).'",
+    "trap": "The two years does not necessarily start counting on the date of the lawyer's mistake, and it does not necessarily run continuously without interruption — see the discovery-rule row and the Hughes-tolling row in this file, both of which change when the clock starts or whether it is paused. Do not calculate a deadline from § 16.003(a) alone without also checking both of those rows. This is the single most dangerous fact in this whole plugin: the clock may already be running on your claim right now. This plugin states the statute and the tolling/discovery rules as the corpus's own text states them; it does not calculate your personal deadline, and you should talk to a Texas legal malpractice attorney immediately, not after reading this.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Civ. Prac. & Rem. Code § 16.003",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_88b08f306dd74220",
+            "quote": "a person must bring suit for trespass for injury to the estate or to the property of another, conversion of personal property, taking or detaining the personal property of another, personal injury, forcible entry and detainer, and forcible detainer not later than two years after the day the cause of action accrues.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "821 S.W.2d 154",
+        "name": "Hughes v. Mahaney & Higgins",
+        "decided": "1992-02-05",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "debc35a65602e0f5",
+            "cl_opinion_id": "2448179",
+            "quote": "A cause of action for legal malpractice accrues when the client sustains a legal injury or, in cases governed by the discovery rule, when the client discovers or should have discovered the facts establishing the elements of a cause of action.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx), Tex. Civ. Prac. & Rem. Code § 16.003, row tx-stat_88b08f306dd74220 (subsection (a) quoted in full; subsection (b), death actions, was read but is not relevant here); and docketx/us-caselaw-tx, Hughes v. Mahaney & Higgins, 821 S.W.2d 154 (Tex. 1992), row debc35a65602e0f5, cl_opinion_id 2448179. IMPORTANT LIMIT ON THIS ROW: § 16.003's own text does not mention legal malpractice or attorneys at all — it is a general personal-injury/property catch-all. That the TWO-YEAR PERIOD from this section is the one Texas courts apply to legal malpractice is established here by Hughes's own citation to '§ 16.003(a)' in the course of applying the two-year period to a malpractice claim, not by § 16.003's text naming malpractice. See the discovery-rule and Hughes-tolling rows in this file for when the two years starts and whether it pauses."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "hughes-tolling-rule",
+    "rule_id": "tx-hughes-tolling-rule-pauses-limitations-during-appeals-of-the-underlying-litigated-claim-limited-to-prosecution-or-defense-of-a-claim",
+    "question": "If my lawyer's malpractice happened during a lawsuit that is still on appeal, does the two-year clock run while the appeal is pending?",
+    "rule": "No — the Hughes tolling rule pauses the malpractice limitations clock for the whole time the underlying litigated claim is still being appealed. Hughes v. Mahaney & Higgins: “we hold that when an attorney commits malpractice in the prosecution or defense of a claim that results in litigation, the statute of limitations on the malpractice claim against the attorney is tolled until all appeals on the underlying claim are exhausted.” The Texas Supreme Court reaffirmed and clarified this rule in Apex Towing Co. v. Tolin, extending the stopping point beyond just 'appeals exhausted': “When an attorney commits malpractice in the prosecution or defense of a claim that results in litigation, the statute of limitations on a malpractice claim against that attorney is tolled until all appeals on the underlying claim are exhausted or the litigation is otherwise finally concluded.” Apex Towing also held that continued representation by the same lawyer is NOT required for tolling to apply, and that the rule applies categorically rather than case-by-case. Erikson v. Renda later sharpened the boundary on the OTHER side — the malpractice has to be IN the prosecution or defense of a claim, not merely connected to litigation that later happens: “Legal work only incidentally related to activities undertaken to prosecute or defend a claim is not encompassed within the Hughes paradigm.”",
+    "trap": "Do not assume tolling only helps if the SAME lawyer keeps representing you through the appeal — Apex Towing squarely rejected a continued-representation requirement (the client had already hired new counsel, and the rule still applied). Do not assume the clock restarts only when every possible appeal is formally exhausted on paper either — Apex Towing broadened the stopping point to when the underlying litigation is 'otherwise finally concluded' (there, a settlement plus dismissal of a pending appeal). And do not assume Hughes tolling reaches every kind of legal work that is loosely connected to litigation — Erikson v. Renda held it does NOT cover transactional or advisory work that is only 'incidentally related' to prosecuting or defending a claim, even if litigation eventually results from that work. This is genuinely complicated, fact-specific doctrine with real deadlines attached — the clock on your claim may already be running, or it may be paused, and you should consult a Texas legal malpractice attorney now rather than count days yourself from this rule.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "821 S.W.2d 154",
+        "name": "Hughes v. Mahaney & Higgins",
+        "decided": "1992-02-05",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "debc35a65602e0f5",
+            "cl_opinion_id": "2448179",
+            "quote": "we hold that when an attorney commits malpractice in the prosecution or defense of a claim that results in litigation, the statute of limitations on the malpractice claim against the attorney is tolled until all appeals on the underlying claim are exhausted.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "41 S.W.3d 118",
+        "name": "Apex Towing Co. v. Tolin",
+        "decided": "2001-04-26",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "91b360fdfb45e31e",
+            "cl_opinion_id": "2355258",
+            "quote": "When an attorney commits malpractice in the prosecution or defense of a claim that results in litigation, the statute of limitations on a malpractice claim against that attorney is tolled until all appeals on the underlying claim are exhausted or the litigation is otherwise finally concluded.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Erikson v. Renda (Tex. 2019)",
+        "name": "Erikson v. Renda",
+        "decided": "2019-12-20",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "c0aed775a034f4b9",
+            "cl_opinion_id": "4467612",
+            "quote": "Legal work only incidentally related to activities undertaken to prosecute or defend a claim is not encompassed within the Hughes paradigm.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "41 S.W.3d 118",
+        "name": "Apex Towing Co. v. Tolin",
+        "decided": "2001-04-26",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "91b360fdfb45e31e",
+            "cl_opinion_id": "2355258",
+            "quote": "We conclude that Murphy did not modify the rule we announced in Hughes , and today we reaffirm that rule:",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "41 S.W.3d 118",
+        "name": "Apex Towing Co. v. Tolin",
+        "decided": "2001-04-26",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "91b360fdfb45e31e",
+            "cl_opinion_id": "2355258",
+            "quote": "The court then determined that “[inasmuch as Apex had replaced the ap-pellees with new counsel by no later than January 27, 1995, the rule as originally stated in Hughes no longer applied.”",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx: Hughes v. Mahaney & Higgins, 821 S.W.2d 154 (Tex. 1992), row debc35a65602e0f5, cl_opinion_id 2448179; Apex Towing Co. v. Tolin, 41 S.W.3d 118 (Tex. 2001), row 91b360fdfb45e31e, cl_opinion_id 2355258; and the case captioned in full in the corpus as 'Brian Erikson and Quilling, Selander, Lownds, Winslett & Moser, P.C. v. Oscar Renda' (Tex. 2019-12-20), row c0aed775a034f4b9, cl_opinion_id 4467612. IMPORTANT: the corpus row's citation field for the Erikson case is empty and this plugin's tooling found no reporter-citation match in the CourtListener citation map for a guessed cite ('590 S.W.3d 557' and '592 S.W.3d 557' were both tried and matched nothing) — so no reporter volume/page is asserted for Erikson here; the case is identified only by name and decision date (both independently confirmed against the row), per this plugin's rule against inventing an unverified citation. This row also does not reach Murphy v. Mullin (964 S.W.2d 269), which Apex Towing discusses at length in distinguishing Hughes from an accounting-malpractice case; that case was read in the course of research but is not independently cited as an authority in this row. HOLDING SWEEP 2026-09-22 (packs): the trap's 'Apex Towing squarely rejected a continued-representation requirement' -- the opinion recites the court of appeals' holding that the rule no longer applied once Apex hired new counsel, concludes Murphy did not modify Hughes, reaffirms the rule and reverses; both sentences blocked."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "discovery-rule-malpractice",
+    "rule_id": "tx-discovery-rule-applies-clock-starts-when-client-discovers-or-should-have-discovered-the-facts",
+    "question": "If I didn't find out about my lawyer's malpractice until years later, has my claim already expired?",
+    "rule": "Not necessarily — the discovery rule applies to Texas legal malpractice claims, so the two-year clock does not necessarily start on the date of the lawyer's error. Willis v. Maverick: “we hold that the statute of limitations for legal malpractice actions does not begin to run until the claimant discovers or should have discovered through the exercise of reasonable care and diligence the facts establishing the elements of his cause of action.”",
+    "trap": "'I didn't know' is not automatically enough — the standard is not pure subjective discovery, it is discovery “through the exercise of reasonable care and diligence,” meaning a client who should have found out earlier with reasonable diligence does not get the benefit of a later actual-discovery date. this rule also does not establish exactly what counts as 'reasonable care and diligence' on any particular set of facts — that is inherently fact-specific and was not further researched in this pass. Do not treat 'the discovery rule probably saves my claim' as a safe assumption; see the limitations-two-year-period row for the baseline rule this modifies, and talk to a malpractice attorney about your specific dates now.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "760 S.W.2d 642",
+        "name": "Willis v. Maverick",
+        "decided": "1988-07-06",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "59d6685e417c1a5c",
+            "cl_opinion_id": "2402827",
+            "quote": "we hold that the statute of limitations for legal malpractice actions does not begin to run until the claimant discovers or should have discovered through the exercise of reasonable care and diligence the facts establishing the elements of his cause of action.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, Willis v. Maverick, 760 S.W.2d 642 (Tex. 1988), row 59d6685e417c1a5c, cl_opinion_id 2402827 (the main opinion; three other corpus rows for the same cluster_id — 6e8e52c572b52bca, 7b46c2498f0b023b, db61813d9b50ee41, apparently a per curiam order and separate concurrence/dissent text — were not used here). NOT ESTABLISHED in this row: Willis itself ultimately affirmed a take-nothing judgment against the plaintiff because her OWN requested jury issue on discovery was worded incorrectly (omitted the 'should have discovered' element) and error was therefore not preserved — a procedural trap this row does not further analyze, but which shows that winning on the discovery-rule LAW is not the same as winning the CASE."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "peeler-doctrine-criminal-malpractice",
+    "rule_id": "tx-peeler-doctrine-requires-exoneration-before-a-former-criminal-defendant-can-sue-trial-counsel-for-malpractice",
+    "question": "I was convicted of a crime and think my defense lawyer's mistakes contributed — can I sue my criminal defense lawyer for malpractice?",
+    "rule": "Only if you have first been exonerated — by direct appeal, post-conviction relief, or otherwise. Peeler v. Hughes & Luce: “Because of public policy, we side with the majority of courts and hold that plaintiffs who have been convicted of a criminal offense may negate the sole proximate cause bar to *498 their claim for legal malpractice in connection with that conviction only if they have been exonerated on direct appeal, through post-conviction relief, or otherwise.” The Court explained the underlying rule this way: “The public policy of this State dictates that Peeler's own conduct is the sole cause of her indictment and conviction. Consequently, without first establishing that she has been exonerated by direct appeal, post-conviction relief, or otherwise, Peeler cannot sue her attorney.” Exoneration only clears a threshold, however — it does not itself win the case: “We note that whether the plaintiff has been exonerated is merely the threshold inquiry. Once the bar is removed, plaintiffs must still meet their burden of proving all elements of legal malpractice, including obtaining a fact finding that but for the legal negligence, plaintiffs would not have been convicted.”",
+    "trap": "This is a CIVIL malpractice-suit rule, and it is a completely different legal standard from the constitutional test for whether your defense was so bad it violated your Sixth Amendment rights (see the Strickland/ineffective-assistance row in this file) — do not blend the two. Peeler bars the CIVIL claim for money damages against the lawyer entirely, categorically, unless and until exoneration happens first; Strickland is the standard a court uses to decide whether to REVERSE A CRIMINAL CONVICTION on direct appeal or habeas review because of ineffective counsel. Succeeding under Strickland (getting relief from the conviction) is one road to the exoneration Peeler requires before a malpractice suit for money can even proceed — but exoneration under Peeler and a Strickland finding are not defined by the same words in this corpus, and this rule does not establish that every form of post-conviction relief under Strickland automatically satisfies Peeler's exoneration requirement.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "909 S.W.2d 494",
+        "name": "Peeler v. Hughes & Luce",
+        "decided": "1995-10-27",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "1b164b4c0ef2bebf",
+            "cl_opinion_id": "2452134",
+            "quote": "Because of public policy, we side with the majority of courts and hold that plaintiffs who have been convicted of a criminal offense may negate the sole proximate cause bar to *498 their claim for legal malpractice in connection with that conviction only if they have been exonerated on direct appeal, through post-conviction relief, or otherwise.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "909 S.W.2d 494",
+        "name": "Peeler v. Hughes & Luce",
+        "decided": "1995-10-27",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "1b164b4c0ef2bebf",
+            "cl_opinion_id": "2452134",
+            "quote": "The public policy of this State dictates that Peeler's own conduct is the sole cause of her indictment and conviction. Consequently, without first establishing that she has been exonerated by direct appeal, post-conviction relief, or otherwise, Peeler cannot sue her attorney.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "909 S.W.2d 494",
+        "name": "Peeler v. Hughes & Luce",
+        "decided": "1995-10-27",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "1b164b4c0ef2bebf",
+            "cl_opinion_id": "2452134",
+            "quote": "We note that whether the plaintiff has been exonerated is merely the threshold inquiry. Once the bar is removed, plaintiffs must still meet their burden of proving all elements of legal malpractice, including obtaining a fact finding that but for the legal negligence, plaintiffs would not have been convicted.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, Peeler v. Hughes & Luce, 909 S.W.2d 494 (Tex. 1995), row 1b164b4c0ef2bebf, cl_opinion_id 2452134. The '*498' in the first quote is the reporter's own page-break marker embedded in the corpus text; reproduced verbatim. The third quote (the 'threshold inquiry' footnote) is drawn from the opinion's own footnote 3. This row does not address Peeler's separate holding on Peeler's breach-of-contract and breach-of-warranty claims (part V of the opinion, read but not quoted here) or the plurality/concurrence structure of the opinion beyond the quotes given."
+  },
+  {
+    "jurisdiction": "us",
+    "clause": "strickland-ineffective-assistance",
+    "rule_id": "us-strickland-two-prong-deficient-performance-and-prejudice-standard-for-ineffective-assistance",
+    "question": "What is the federal constitutional standard for 'ineffective assistance of counsel' in a criminal case, and how is it different from a civil malpractice claim?",
+    "rule": "Strickland v. Washington sets a two-part test, both parts of which a defendant must prove. First, deficient performance: “First, the defendant must show that counsel's performance was deficient. This requires showing that counsel made errors so serious that counsel was not functioning as the “counsel” guaranteed the defendant by the Sixth Amendment. Second, the defendant must show that the deficient performance prejudiced the defense.” The performance prong is judged objectively: “the defendant must show that counsel's representation fell below an objective standard of reasonableness.” The prejudice prong requires more than showing the errors might have mattered: “The defendant must show that there is a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different. A reasonable probability is a probability sufficient to undermine confidence in the outcome.”",
+    "trap": "Do not blend Strickland with the Peeler doctrine in this file — they are different standards serving different purposes. Strickland is the federal constitutional test a court applies on direct appeal or habeas/post-conviction review to decide whether a conviction should be set aside because counsel was constitutionally ineffective; it does not itself authorize a civil damages lawsuit against the lawyer. Peeler is the Texas rule for whether a former criminal defendant may bring a CIVIL malpractice suit for money against the defense lawyer at all, and it categorically requires exoneration first. A defendant can in principle win Strickland relief (a new trial, a vacated conviction) without ever bringing, or being entitled to bring, a Peeler-compliant malpractice suit, and the wording of the two tests is not identical — this rule does not establish that a Strickland victory by itself satisfies Peeler's exoneration requirement.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "466 U.S. 668",
+        "name": "Strickland v. Washington",
+        "decided": "1984-06-25",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-scotus",
+            "row_id": "cbee2345595691c6",
+            "cl_opinion_id": "9429592",
+            "quote": "First, the defendant must show that counsel’s performance was deficient. This requires showing that counsel made errors so serious that counsel was not functioning as the “counsel” guaranteed the defendant by the Sixth Amendment. Second, the defendant must show that the deficient performance prejudiced the defense.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "466 U.S. 668",
+        "name": "Strickland v. Washington",
+        "decided": "1984-06-25",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-scotus",
+            "row_id": "cbee2345595691c6",
+            "cl_opinion_id": "9429592",
+            "quote": "the defendant must show that counsel’s representation fell below an objective standard of reasonableness.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "466 U.S. 668",
+        "name": "Strickland v. Washington",
+        "decided": "1984-06-25",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-scotus",
+            "row_id": "cbee2345595691c6",
+            "cl_opinion_id": "9429592",
+            "quote": "The defendant must show that there is a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different. A reasonable probability is a probability sufficient to undermine confidence in the outcome.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-scotus, Strickland v. Washington, 466 U.S. 668 (1984), row cbee2345595691c6, cl_opinion_id 9429592 (three other corpus rows for the same cluster_id — 1da5a1c335b5729b, 7f30b61867483527, 9069f0682cdaaf06, likely a syllabus and separate opinions — were not used here). This plugin's scope is otherwise Texas-only; this single federal row is an intentional, narrow exception because Strickland is the controlling federal constitutional standard referenced by the was-my-defense-ineffective skill, cited from docketx/us-caselaw-scotus (the federal tier), not from a state shard. This row does not analyze how a Texas court applies Strickland procedurally (habeas corpus practice, Tex. Code Crim. Proc. art. 11.07, etc.) — NOT ESTABLISHED here; route that question to a criminal-appeals or post-conviction attorney."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "right-to-the-file",
+    "rule_id": "tx-lawyer-may-retain-a-copy-but-must-surrender-the-client-file-subject-to-a-no-prejudice-condition",
+    "question": "Can I get my file back from my Texas lawyer, and can the lawyer keep a copy?",
+    "rule": "A Texas court of appeals, quoting Rule 1.15(d) of the Texas Disciplinary Rules of Professional Conduct, has stated the lawyer's retention right this way: “An attorney is permitted to retain a copy of the client's file, including the attorney's own correspondence related to the matter.” Quoting the rule directly: “The lawyer may retain papers relating to the client to the extent permitted by other law only if such retention will not prejudice the client in the subject matter of the representation.”",
+    "trap": "The rule, as quoted by the court, is a conditional permission to RETAIN a COPY — it is not a permission to withhold the original file from the client, and the condition ('only if such retention will not prejudice the client') means the lawyer's right to keep anything is itself limited by whether keeping it would hurt the client's ongoing matter. this rule cannot state the rule's FULL text or its other subsections (what must be turned over, on what timeline, whether a fee dispute can be used to hold the file hostage) as an independently verified quote of the Texas Disciplinary Rules of Professional Conduct themselves — see the notes for exactly why, and do not assume this single quoted sentence is the complete rule.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "In re Cokinos, Boisien & Young (Tex. App. 2017)",
+        "name": "In re Cokinos, Boisien & Young",
+        "decided": "2017-07-25",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "d9ab253b9c8a30f7",
+            "cl_opinion_id": "5287435",
+            "quote": "An attorney is permitted to retain a copy of the client’s file, including the attorney’s own correspondence related to the matter.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "In re Cokinos, Boisien & Young (Tex. App. 2017)",
+        "name": "In re Cokinos, Boisien & Young",
+        "decided": "2017-07-25",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "d9ab253b9c8a30f7",
+            "cl_opinion_id": "5287435",
+            "quote": "The lawyer may retain papers relating to the client to the extent permitted by other law only if such retention will not prejudice the client in the subject matter of the representation.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "HONEST NEGATIVE, RECORDED, READ CAREFULLY: the Texas Disciplinary Rules of Professional Conduct and the Texas Rules of Disciplinary Procedure are NOT held in this plugin's tooling as an independently verifiable dataset. docketx/court-rules does publish a Texas file (data/state/tx/rules.jsonl.gz, 1,553 rows, fetched and read directly for this pass), but its rule_set values are limited to trcp (Rules of Civil Procedure), trap (Rules of Appellate Procedure), tre (Rules of Evidence), txcprc, txbcc, txprop, and txfin (assorted code excerpts) — measured 2026-09-21, a full count of every rule_set value in that file. There is no tdrpc or trdp rule_set: the Disciplinary Rules of Professional Conduct and the Rules of Disciplinary Procedure are NOT held for Texas in this corpus. Separately, even for the rule_sets that ARE held, the DocketX corpus verifier only verifies authorities against docketx/us-statutes and docketx/us-caselaw-<state> — it does not support docketx/court-rules as a dataset at all (confirmed by reading the script: an authority naming any other dataset fails verification outright), a limitation already documented for a different plugin's Illinois row (plugins/family-legal/references/rows-il-family.json, clause financial-affidavit-and-disclosure). This row therefore does NOT cite the Disciplinary Rules directly. What it DOES do, and what IS verified against docketx/us-caselaw-tx per the DocketX corpus verifier, is quote Rule 1.15(d)'s text exactly as a Texas court of appeals itself quoted it while deciding a mandamus proceeding, In re Cokinos, Boisien & Young, row d9ab253b9c8a30f7, cl_opinion_id 5287435 — a verified case-law quote of the rule's own words, not a verified rules-corpus citation. That case's own procedural posture (a discovery dispute in litigation involving a deceased former client's estate, not a live client's request for the file) is different from the ordinary 'please send me my file' scenario, and is not itself further analyzed here."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "fee-disputes-and-grievance-process",
+    "rule_id": "tx-state-bar-runs-a-model-fee-dispute-procedure-and-a-separate-attorney-discipline-system-neither-is-a-lawsuit-for-money",
+    "question": "I have a dispute with my Texas lawyer over fees, or I want to complain to the State Bar — what does that actually get me, and is it the same as suing?",
+    "rule": "Texas Gov't Code Chapter 81 gives the State Bar two SEPARATE, LIMITED roles here, and neither one is a lawsuit for money damages. First, fee disputes: § 81.112: “The state bar shall establish a standard fee dispute resolution procedure that may be used by a bar committee or other organization as a model for a fee dispute resolution program.” Second, attorney discipline (the grievance system): § 81.072(d): “Each attorney is subject to the Texas Rules of Disciplinary Procedure and the Texas Disciplinary Rules of Professional Conduct.” The Supreme Court of Texas administers that disciplinary system through minimum standards the statute requires it to set: § 81.072(b): “The supreme court shall establish minimum standards and procedures for the attorney disciplinary and disability system.” That system's own described outcomes are things like private reprimands, findings of “just cause,” and (per § 81.072(b)(7)) referral toward “an administrative system for attorney disciplinary and disability findings” or “a trial in a district court” on the disciplinary complaint itself — not an award of money to the complaining former client.",
+    "trap": "A grievance and a civil malpractice lawsuit are two completely different tracks with two completely different outcomes, and filing one is not the same as filing, or a substitute for, the other. A successful State Bar grievance can result in the LAWYER being disciplined (reprimanded, suspended, disbarred) — it does not, by itself, put money in the client's pocket, and § 81.072 nowhere describes damages or a fee refund as an outcome of the disciplinary process. To recover MONEY — a refund of fees, or damages — a client generally needs the civil claims covered elsewhere in this file (malpractice, breach of fiduciary duty and fee forfeiture) or the fee dispute resolution procedure under § 81.112, which is itself only a 'standard' MODEL procedure that other organizations (like a local bar committee) 'may use' — the statute's own words do not make a specific dispute-resolution program mandatory, binding, or automatically available in every county, and this rule does not establish what any particular local program's rules are, whether its outcome is binding, or whether it is arbitration versus mediation. HONEST NEGATIVE: this rule does not establish the day-to-day mechanics of filing a grievance (where, what form, what deadline) — that is outside what § 81.072 and § 81.112 themselves state, and those procedural details live in the Texas Rules of Disciplinary Procedure, which (see the right-to-the-file row in this file) are not held in this plugin's verifiable corpus.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Tex. Gov't Code § 81.112",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_cfb1f666554b210d",
+            "quote": "The state bar shall establish a standard fee dispute resolution procedure that may be used by a bar committee or other organization as a model for a fee dispute resolution program.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Gov't Code § 81.072",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_ecd1d1d0c65679ed",
+            "quote": "Each attorney is subject to the Texas Rules of Disciplinary Procedure and the Texas Disciplinary Rules of Professional Conduct.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Tex. Gov't Code § 81.072",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "tx-stat_ecd1d1d0c65679ed",
+            "quote": "The supreme court shall establish minimum standards and procedures for the attorney disciplinary and disability system.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction tx): Tex. Gov't Code § 81.112, row tx-stat_cfb1f666554b210d (the section's complete, one-sentence operative text); and § 81.072, row tx-stat_ecd1d1d0c65679ed (subsections (d) and the lead sentence of (b), each quoted in full; subsections (b)(1)-(12), (b-1)-(b-3), (c), and (e)-(o), covering matters like private-reprimand limits, complainant notice timing, panel-quorum rules, and post-dismissal expunction, were read in full but are not independently quoted in this row). METHOD: § 81.112 was located by a full-text scan of all 20,063 'Government Code' rows in docketx/us-statutes (jurisdiction tx) for the phrase 'fee dispute', which returned exactly one hit; no other Government Code section mentioning attorney fee disputes was found. A guessed section number, § 81.0361, returned zero rows and was discarded rather than asserted. HONEST NEGATIVE: no statute in this corpus was found stating whether a local fee dispute resolution program's decision is binding, what its procedure is, or a specific deadline to invoke it — § 81.112 only requires the State Bar to have a MODEL procedure available for others to use."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "assignability-of-malpractice-claims",
+    "rule_id": "tx-legal-malpractice-claims-arising-from-litigation-are-not-assignable",
+    "question": "Can I buy, sell, or assign a legal malpractice claim against a lawyer — for example, as part of settling an underlying lawsuit?",
+    "rule": "No, not one arising out of litigation — Texas does not allow it. Zuniga v. Groce, Locke & Hebdon: “The issue in this case is whether a client may assign his cause of action for legal malpractice arising out of litigation. For the reasons stated below, we hold that he may not.” The court's holding: “We hold that an assignment of a legal malpractice action arising from litigation is invalid.” The court explained why an assignment is barred even between someone with privity and a stranger to the representation: “Ordinarily, a nonclient cannot sue a lawyer for malpractice because there is no privity of contract” (quoted verbatim from the corpus, which carries an apparent OCR rendering of 'nonclient' as 'nonelient' at this point) — assignment was the device by which the original client in Zuniga tried to let someone outside that privity relationship (a settling co-defendant) step into the malpractice claim.",
+    "trap": "This rule blocks a common settlement-structuring idea: a defendant who can't pay a judgment agreeing to assign their malpractice claim against their OWN lawyer to the plaintiff, in exchange for the plaintiff not collecting against the defendant personally. Zuniga specifically rejected this as a 'transparent device to replace a judgment-proof, uninsured defendant with a solvent defendant,' reasoning that it would force the assignee-plaintiff into a 'suit within a suit' that demands taking the opposite factual position from the one taken in the underlying case. this rule is a Texas court of appeals opinion (San Antonio), not a Texas Supreme Court opinion, and it expressly says the Texas Supreme Court had 'expressly left open the question' when it denied review in an earlier case (Drabek, not independently verified in this rule) — so this rule does not claim Texas Supreme Court authority for the no-assignment rule, only San Antonio Court of Appeals authority. The rule is also expressly limited to malpractice 'arising from litigation' — this rule does not establish whether the same rule reaches a malpractice claim arising from purely transactional legal work.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "878 S.W.2d 313",
+        "name": "Zuniga v. Groce, Locke & Hebdon",
+        "decided": "1994-05-31",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "5603a03df6f89393",
+            "cl_opinion_id": "2410411",
+            "quote": "The issue in this case is whether a client may assign his cause of action for legal malpractice arising out of litigation. For the reasons stated below, we hold that he may not.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "878 S.W.2d 313",
+        "name": "Zuniga v. Groce, Locke & Hebdon",
+        "decided": "1994-05-31",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "5603a03df6f89393",
+            "cl_opinion_id": "2410411",
+            "quote": "We hold that an assignment of a legal malpractice action arising from litigation is invalid.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "878 S.W.2d 313",
+        "name": "Zuniga v. Groce, Locke & Hebdon",
+        "decided": "1994-05-31",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "5603a03df6f89393",
+            "cl_opinion_id": "2410411",
+            "quote": "Ordinarily, a nonelient cannot sue a lawyer for malpractice because there is no privity of contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, Zuniga v. Groce, Locke & Hebdon, 878 S.W.2d 313 (Tex. App.—San Antonio 1994), row 5603a03df6f89393, cl_opinion_id 2410411. IMPORTANT CORRECTION recorded here because the case name is easy to get wrong from memory: the law firm's name in the corpus's own title and throughout the opinion text is 'Groce, Locke & Hebdon' — NOT 'Groce, Locke & Purnell.' The 'nonelient' spelling in the third quote is reproduced exactly as it appears in the corpus text (an apparent OCR rendering of 'nonclient'), per this plugin's rule against silently correcting a quote. This is a Court of Appeals opinion, not a Texas Supreme Court opinion — the opinion itself states the Supreme Court had 'expressly left open the question whether a legal malpractice cause of action is assignable' when it denied review in Zuniga v. Groce, Drabek (a different, earlier case), which is described but not independently verified as a corpus authority in this row."
+  },
+  {
+    "jurisdiction": "tx",
+    "clause": "attorney-client-privilege-after-relationship-ends",
+    "rule_id": "tx-privilege-generally-survives-the-representation-and-can-be-claimed-by-a-successor-but-the-malpractice-specific-exception-is-a-tooling-gap",
+    "question": "Once I fire my lawyer, or the case ends, does the attorney-client privilege over our old communications go away — and can I use privileged communications against my own lawyer in a malpractice or fee dispute?",
+    "rule": "The privilege itself does not simply evaporate when the representation ends. The Texas Supreme Court, describing the privilege's scope under the predecessor evidence rule (substantively the same categories now codified at Tex. R. Evid. 503), stated: “This privilege protects: confidential communications made for the purpose of facilitating the rendition of professional legal services to the client” across a defined list of communication channels between the client, the client's representatives, the lawyer, and the lawyer's representatives. National Tank Co. v. Brotherton, 851 S.W.2d 193 (Tex. 1993).",
+    "trap": "The question most people actually care about — does suing my OWN lawyer, or disputing a fee with my own lawyer, let either side use our otherwise-privileged communications in that specific dispute — is answered by a SPECIFIC exception in Tex. R. Evid. 503(d)(3) for communications 'relevant to an issue of breach of duty by a lawyer to the client or by a client to the lawyer.' This plugin CANNOT currently verify that exception's exact text against its own corpus tooling, and says so rather than guessing: see the notes for exactly what was checked and why. Do not assume this rule's general privilege-scope quote from National Tank Co. tells you what happens in a malpractice or fee dispute specifically — it does not reach that question at all.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "851 S.W.2d 193",
+        "name": "National Tank Co. v. Brotherton",
+        "decided": "1993-04-07",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-tx",
+            "row_id": "7f1228e86a478e95",
+            "cl_opinion_id": "1471456",
+            "quote": "This privilege protects: confidential communications made for the purpose of facilitating the rendition of professional legal services to the client",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-tx, National Tank Co. v. Brotherton, 851 S.W.2d 193 (Tex. 1993), row 7f1228e86a478e95, cl_opinion_id 1471456. The full sentence continues by listing five communication channels the privilege covers, quoting the rule then numbered Tex.R.Civ.Evid. 503(a)-(b); this row does not reproduce that full list. HONEST NEGATIVE, RECORDED: the specific 'breach of duty by a lawyer to the client' exception (now Tex. R. Evid. 503(d)(3)) was read directly from docketx/court-rules' published Texas file (data/state/tx/rules.jsonl.gz, rows tre-503-1/2/3, fetched and read for this pass) and its text says: 'This privilege does not apply: ... (3) Breach of Duty By a Lawyer or Client. If the communication is relevant to an issue of breach of duty by a lawyer to the client or by a client to the lawyer.' That text is NOT included as a verified authority in this row because the DocketX corpus verifier does not support docketx/court-rules as a dataset at all (confirmed by reading the script), the same tooling gap already documented in plugins/family-legal/references/rows-il-family.json. A targeted search of docketx/us-caselaw-tx (National Tank Co., read in full) did not turn up a Texas Supreme Court opinion quoting or applying the breach-of-duty exception itself; a further search was not completed in this pass given the scope of this plugin's other 13 rows. Whether the privilege more generally 'survives' termination of the relationship for purposes OTHER than the breach-of-duty exception (for example, a successor lawyer's access) is also NOT independently established by this row beyond National Tank's list of who may hold or invoke the privilege, which was read but is not quoted here."
+  }
+]

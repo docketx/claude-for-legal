@@ -1,0 +1,1815 @@
+[
+  {
+    "jurisdiction": "ct",
+    "clause": "anti-assignment",
+    "rule_id": "ct-antiassignment-clause-limits-right-not-power",
+    "question": "Does a 'this contract may not be assigned' clause stop the counterparty from assigning its rights under Connecticut law?",
+    "rule": "Usually not. In Rumbin the Connecticut Supreme Court adopted the modern approach of Restatement (Second) of Contracts § 322: a clause that says payments may not be assigned limits the party's RIGHT to assign but not its POWER to do so, so where the provision does not contain express language limiting the power to assign or voiding the assignment itself, the assignment is valid and enforceable despite the breach. The obligor's remedy is an action for damages for breach of contract against the assignor.",
+    "trap": "A plain prohibition ('no payment under this contract may be assigned') is a covenant, not a disabling clause: the transfer still happens and the non-assigning party is left to prove damages. Rumbin turned on the absence of express language that limits the power to assign or voids the assignment, so a drafter who wants the transfer itself to fail has to say that in terms. Connecticut's UCC § 42a-9-406 rule for accounts and payment intangibles was not verified here (see notes), so nothing in this rule speaks to receivables financing.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "254 Conn. 259",
+        "name": "Rumbin v. Utica Mutual Insurance Co.",
+        "court": "Conn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "114718f4fd011bbe",
+            "cl_opinion_id": "7846831",
+            "quote": "This antiassignment provision limited the plaintiffs right to assign, but not his power to do so. The provision did not contain any express language to limit the power to assign or to void the assignment itself. Therefore, in accordance with the modem approach, we conclude that the plaintiffs assignment to Wentworth is valid and enforceable despite the plaintiffs breach of the contract",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "254 Conn. 259",
+        "name": "Rumbin v. Utica Mutual Insurance Co.",
+        "court": "Conn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "114718f4fd011bbe",
+            "cl_opinion_id": "7846831",
+            "quote": "We further conclude, however, that Safeco is free to sue for any damages that it might sustain as a result of the assignment by bringing an action for breach of contract against the plaintiff as assignor.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "Rumbin v. Utica Mutual Ins. Co. read in context: Vertefeuille, J., for the court, Borden and Palmer, Js., concurring (a three-justice majority of five); Norcott, J., with Katz, J., dissented in a separate row (1b7f502161a64de8), agreeing § 52-225f does not invalidate antiassignment provisions but disagreeing on the common-law holding. Both quotes are from the majority (chars 25,362 and 25,779 of 39,249; the majority ends at 26,998). The case concerned a structured-settlement annuity and General Statutes § 52-225f; the common-law holding is stated generally. Good-law scan: 26 later Connecticut opinions mention 254 Conn. 259; the three with nearby flag words cite it only for strict construction of statutes in derogation of the common law; no overruling or disapproval found. NOT established: whether later amendments to § 52-225f change the structured-settlement result (not researched); the effect of an anti-assignment clause on receivables under § 42a-9-406. Title 42a (Connecticut's Uniform Commercial Code) is NOT in our published docketx/us-statutes/ct: a scan of all 29,710 published ct rows found no § 42a-* section and no text of the UCC provision, so no § 42a section is cited as an authority anywhere in this file."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "arbitration",
+    "rule_id": "ct-arbitration-52-408-valid-and-consent-required",
+    "question": "Is this arbitration clause enforceable in Connecticut, and can a non-consenting party be made to arbitrate?",
+    "rule": "A written agreement to arbitrate future controversies arising out of a written contract is 'valid, irrevocable and enforceable, except when there exists sufficient cause at law or in equity for the avoidance of written contracts generally' (General Statutes § 52-408). But arbitration rests on consent: a person can be compelled to arbitrate a dispute only if, to the extent that, and in the manner which, he has agreed to do so, and the arbitration provision is treated as an agreement separate and distinct from the broader contract, so a court may enforce only the arbitration agreement the parties actually made (MBNA America Bank v. Boata).",
+    "trap": "Two limits from the texts read. First, for a construction contract for work on a construction site located in Connecticut, a clause requiring disputes to be arbitrated 'in or under the laws of a state other than Connecticut' is void under § 42-158m, regardless of whether the contract was executed in Connecticut; 'construction contract' is defined in § 42-158i as a contract for construction, renovation or rehabilitation in Connecticut on or after October 1, 1999, and excludes public works or other building contracts with the state, the United States, another state or a municipality, HUD-funded or HUD-insured contracts or projects, owner-contractor contracts of $25,000 or less and the subcontracts that result from them, and buildings intended for residential occupancy containing four or fewer units. Second, consent is a threshold question for the court: Boata quotes the rule that 'a party who contests the making of a contract containing an arbitration provision cannot be compelled to arbitrate the threshold issue of the existence of an agreement to arbitrate', and treats the arbitration provision as an agreement separate and distinct from the broader contract. Federal Arbitration Act preemption was not researched for this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 52-408",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_909_sec_52_408",
+            "quote": "An agreement in any written contract, or in a separate writing executed by the parties to any written contract, to settle by arbitration any controversy thereafter arising out of such contract, or out of the failure or refusal to perform the whole or any part thereof, or a written provision in the articles of association or bylaws of an association or corporation of which both parties are members to arbitrate any controversy which may arise between them in the future, or an agreement in writing between two or more persons to submit to arbitration any controversy existing between them at the time of the agreement to submit, or an agreement in writing between the parties to a marriage to submit to arbitration any controversy between them with respect to the dissolution of their marriage shall be valid, irrevocable and enforceable, except when there exists sufficient cause at law or in equity for the avoidance of written contracts generally",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "283 Conn. 381",
+        "name": "MBNA America Bank, N.A. v. Boata",
+        "court": "Conn.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "6a5cadecbfe4ca1d",
+            "cl_opinion_id": "1910445",
+            "quote": "[A] person can be compelled to arbitrate a dispute only if, to the extent that, and in the manner which, he has agreed so to do.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "283 Conn. 381",
+        "name": "MBNA America Bank, N.A. v. Boata",
+        "court": "Conn.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "6a5cadecbfe4ca1d",
+            "cl_opinion_id": "1910445",
+            "quote": "Therefore, the arbitration provision in an agreement is effectively an agreement that is separate and distinct from the broader contract, and a court of law may enforce only those agreements that the parties actually make.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158m",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158m",
+            "quote": "Any provision in a construction contract for the performance of work on a construction site located in this state that purports to require that any dispute arising under the construction contract be mediated, arbitrated or otherwise adjudicated in or under the laws of a state other than Connecticut shall be void and of no effect, regardless of whether the construction contract was executed in this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158i",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158i",
+            "quote": "“Construction contract” or “contract” means any contract for the construction, renovation or rehabilitation in this state on or after October 1, 1999, including any improvements to real property that are associated with such construction, renovation or rehabilitation, or any subcontract for construction, renovation or rehabilitation between an owner and a contractor, or between a contractor and a subcontractor or subcontractors, or between a subcontractor and any other subcontractor. “Construction contract” or “contract” does not include (A) any public works or other building contract entered into with this state, the United States, any other state, and any municipality or other political subdivision of this state or any other state, (B) a contract or project funded or insured by the United States Department of Housing and Urban Development, (C) a contract between an owner and a contractor for an amount of twenty-five thousand dollars or less or a subcontract which results from such a contract, or (D) a contract for a building intended for residential occupancy containing four or less units.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap called these 'Two Connecticut-specific defeaters' (a comparison with other states that no authority here supports) and said that 'proof that the broader contract exists does not by itself prove an agreement to arbitrate', an inference Boata does not state; it now gives Boata's own sentence (quoting Nussbaum, 271 Conn. 65, 72-73; row 6a5cadecbfe4ca1d, char ~6,900). The § 42-158m sentence pointed to another row for the statute's exclusions; § 42-158i ('As used in sections 42-158i to 42-158n') is now an authority here and its definition and four exclusions are stated. § 52-408 read in full 2026-09-16 (it also covers association bylaws and marital-dissolution arbitration, subject to § 46b-66(e)). MBNA America Bank, N.A. v. Boata read in context: unanimous ('In this opinion the other justices concurred'); the first quote is the court quoting Nussbaum v. Kimberly Timbers, Ltd., 271 Conn. 65, 72 (2004), and the second is the court's own sentence. The opinion states that questions of arbitrability implicating the existence of an agreement to arbitrate are reviewed de novo; the facts of the case are not stated as the rule. Good-law scan: 22 later opinions mention 283 Conn. 381, none with overruling language. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "attorney-fees",
+    "rule_id": "ct-american-rule-and-42-150bb-consumer-reciprocity",
+    "question": "Can the winner recover attorney's fees on this Connecticut contract claim, and does a one-way fee clause bind only the consumer?",
+    "rule": "Only if a contract or statute provides for them: under the well established American rule attorney's fees are not available to a prevailing party unless provided by contract or statute (Meadowbrook Center v. Buchman). In a consumer contract or lease entered into on or after October 1, 1979 (money, property or services primarily for personal, family or household purposes) that makes the consumer pay the commercial party's attorney's fee, § 42-150bb makes the clause run both ways: a fee 'shall be awarded as a matter of law to the consumer who successfully prosecutes or defends an action or a counterclaim based upon the contract or lease.' In Centrix Management Co. v. Fosberg (2024) the court held trial courts have discretion to award the prevailing consumer a reasonable fee when it is not practicable to base the award on the contractual terms governing the commercial party's recovery.",
+    "trap": "A consumer form that caps or fixes the landlord's or lender's fee does not necessarily cap the consumer's award: § 42-150bb sizes the consumer's fee 'as far as practicable' on the commercial party's terms, and Centrix lets the court depart when that is not practicable. § 42-150bb also bars any fee to a commercial party represented by its own salaried employee. The commercial party's own contractual fee is separately limited: under § 42-150aa the holder of such a consumer contract or lease (entered into on or after October 1, 1979) may not collect attorney's fees for a salaried-employee attorney or before a lawsuit is commenced, and where a lawsuit claiming money damages is commenced by an attorney who is not its salaried employee may collect 'not more than fifteen per cent of the amount of any judgment which is entered'. Both sections reach only contracts and leases for personal, family or household purposes; a business-to-business fee clause gets no reciprocity from it.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "328 Conn. 586",
+        "name": "Meadowbrook Center, Inc. v. Buchman",
+        "court": "Conn.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "b88f7950d5160f9b",
+            "cl_opinion_id": "6356091",
+            "quote": "Under the well established \"American rule,\" attorney's fees are not available to a prevailing party unless provided by contract or statute.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-150bb",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_741d_sec_42_150bb",
+            "quote": "Whenever any contract or lease entered into on or after October 1, 1979, to which a consumer is a party, provides for the attorney's fee of the commercial party to be paid by the consumer, an attorney's fee shall be awarded as a matter of law to the consumer who successfully prosecutes or defends an action or a counterclaim based upon the contract or lease.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-150bb",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_741d_sec_42_150bb",
+            "quote": "Except as hereinafter provided, the size of the attorney's fee awarded to the consumer shall be based as far as practicable upon the terms governing the size of the fee for the commercial party. No attorney's fee shall be awarded to a commercial party who is represented by its salaried employee.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-150bb",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_741d_sec_42_150bb",
+            "quote": "The provisions of this section shall apply only to contracts or leases in which the money, property or service which is the subject of the transaction is primarily for personal, family or household purposes.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Conn. S.C. 20927 (July 18, 2024)",
+        "name": "Centrix Management Co., LLC v. Fosberg",
+        "court": "Conn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "2e20de50e8dfc944",
+            "cl_opinion_id": "10598303",
+            "quote": "Although we conclude that trial courts have discretion to award a prevailing consumer reasonable attorney’s fees pursuant to § 42-150bb when the court determines that it is not practicable to base the award upon the contractual terms governing the commercial party",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-150aa",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_741d_sec_42_150aa",
+            "quote": "shall not receive, claim or collect any payment for attorney's fees (1) for an attorney who is a salaried employee of such holder or (2) prior to the commencement of a lawsuit.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-150aa",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_741d_sec_42_150aa",
+            "quote": "such holder may receive or collect attorney's fees, if not otherwise prohibited by law, of not more than fifteen per cent of the amount of any judgment which is entered.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the row answered 'can the winner recover attorney's fees' for a consumer contract without the section next to § 42-150bb. § 42-150aa (row CT_chap_741d_sec_42_150aa, read in full) bars any fee for the holder's salaried-employee attorney or before suit and caps the holder's fee at 'not more than fifteen per cent of the amount of any judgment which is entered'; both subsections are now authorities and stated in the trap. § 42-150bb's own 'entered into on or after October 1, 1979' date was omitted from the rule and is now stated. § 42-150bb read in full 2026-09-16 (the definitions of 'commercial party' and 'consumer' and the salaried-employee reasonable-fee sentence are in the section but not quoted). Meadowbrook Center, Inc. v. Buchman, 328 Conn. 586 (2018): unanimous; the American-rule sentence cites Aaron Manor, Inc. v. Irving, 307 Conn. 608 (2013); the holding was that the thirty-day Practice Book § 11-21 deadline for fee motions is directory. Centrix Management Co., LLC v. Fosberg (Conn. July 18, 2024, docket SC 20927): the quote is from the opinion of Dannehy, J., for a unanimous court, not from the syllabus that precedes it in the row; our citation map holds no reporter cite for it, so identity rests on name and year (the cite field records the docket number). Good-law scan: 45 later opinions mention 328 Conn. 586 (none negative; two flag hits are Strand/BRC Group quoting its 'does not specifically invalidate' language); one later opinion mentions Centrix by name. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "choice-of-law",
+    "rule_id": "ct-restatement-187-choice-honored-unless-two-exceptions",
+    "question": "Will a Connecticut court apply the law the parties chose?",
+    "rule": "Generally yes. In Elgar v. Elgar the Connecticut Supreme Court held, in accordance with Restatement (Second) of Conflict of Laws § 187, that parties to a contract generally are allowed to select the law that will govern their contract, unless (a) the chosen state has no substantial relationship to the parties or the transaction and there is no other reasonable basis for the choice, or (b) applying the chosen law would be contrary to a fundamental policy of a state with a materially greater interest in the particular issue whose law would apply absent the choice. The court described its prior cases as giving effect to an express choice of law provided that it was made in good faith.",
+    "trap": "One statute read here displaces the parties' choice: for a construction contract for work on a construction site located in Connecticut, a clause requiring disputes to be mediated, arbitrated or adjudicated 'in or under the laws of a state other than Connecticut' is void under § 42-158m, regardless of whether the contract was executed in Connecticut; 'construction contract' is defined in § 42-158i as a contract for construction, renovation or rehabilitation in Connecticut on or after October 1, 1999, and excludes public works or other building contracts with the state, the United States, another state or a municipality, HUD-funded or HUD-insured contracts or projects, owner-contractor contracts of $25,000 or less and the subcontracts that result from them, and buildings intended for residential occupancy containing four or fewer units. Elgar also holds that misrepresentation, undue influence or mistake in the making of the contract defeats the choice-of-law provision only if it was responsible for the complaining party's adherence to that provision; otherwise the provision is given effect if it meets § 187.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "238 Conn. 839",
+        "name": "Elgar v. Elgar",
+        "court": "Conn.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "7246b9a9c539d478",
+            "cl_opinion_id": "7844461",
+            "quote": "We conclude, in accordance with § 187 of the Restatement, that parties to a contract generally are allowed to select the law that will govern their contract, unless either: “(a) the chosen state has no substantial relationship to the parties or the transaction and there is no other reasonable basis for the parties’ choice, or (b) application of the law of the chosen state would be contrary to a fundamental policy of a state which has a materially greater interest than the chosen state in the determination of the particular issue and which, under the rule of § 188, would be the state of the applicable law in the absence of an effective choice of law by the parties.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "238 Conn. 839",
+        "name": "Elgar v. Elgar",
+        "court": "Conn.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "7246b9a9c539d478",
+            "cl_opinion_id": "7844461",
+            "quote": "Our conclusion is consistent with our prior case law in which we have given effect to an express choice of law by the parties to a contract provided that it was made in good faith.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "238 Conn. 839",
+        "name": "Elgar v. Elgar",
+        "court": "Conn.",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "7246b9a9c539d478",
+            "cl_opinion_id": "7844461",
+            "quote": "In evaluating a choice of law provision, we conclude, in accordance with comment (c) to § 201 of the Restatement, that “[t]he fact that a contract was entered into by reason of misrepresentation, undue influence or mistake does not necessarily mean that a choice-of-law provision contained therein will be denied effect. This will only be done if the misrepresentation, undue influence or mistake was responsible for the complainant’s adherence to the provision (see § 187, Comment [b] and Illustrations 1 and 2). Otherwise, the choice-of-law provision will be given effect provided that it meets the requirements of § 187.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158m",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158m",
+            "quote": "Any provision in a construction contract for the performance of work on a construction site located in this state that purports to require that any dispute arising under the construction contract be mediated, arbitrated or otherwise adjudicated in or under the laws of a state other than Connecticut shall be void and of no effect, regardless of whether the construction contract was executed in this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158i",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158i",
+            "quote": "“Construction contract” or “contract” means any contract for the construction, renovation or rehabilitation in this state on or after October 1, 1999, including any improvements to real property that are associated with such construction, renovation or rehabilitation, or any subcontract for construction, renovation or rehabilitation between an owner and a contractor, or between a contractor and a subcontractor or subcontractors, or between a subcontractor and any other subcontractor. “Construction contract” or “contract” does not include (A) any public works or other building contract entered into with this state, the United States, any other state, and any municipality or other political subdivision of this state or any other state, (B) a contract or project funded or insured by the United States Department of Housing and Urban Development, (C) a contract between an owner and a contractor for an amount of twenty-five thousand dollars or less or a subcontract which results from such a contract, or (D) a contract for a building intended for residential occupancy containing four or less units.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap said 'Construction contracts are carved out by statute' and sent the reader to another row for § 42-158i's exclusions. § 42-158m applies only to a § 42-158i 'construction contract' (the definitions govern 'sections 42-158i to 42-158n'), which excludes public works, HUD-funded or HUD-insured work, owner-contractor contracts of $25,000 or less and residential buildings of four or fewer units; § 42-158i is now an authority here and the definition and exclusions are stated in the served text. Elgar v. Elgar, 238 Conn. 839 (1996), read in context: unanimous; the contract was an antenuptial agreement choosing New York law, and the § 187 holding is stated for 'parties to a contract' generally. The quoted § 187 test is the court's own conclusion (char 15,537) followed by its quotation of § 187(2); the misrepresentation point applies Restatement § 201 comment (c) (char 11,758). Good-law scan: 16 later opinions mention 238 Conn. 839, none with overruling language. NOT established: how Connecticut applies the 'fundamental policy' exception to a commercial contract (Elgar found none for antenuptial agreements); the UCC's reasonable-relation rule in § 42a-1-301. Title 42a (Connecticut's Uniform Commercial Code) is NOT in our published docketx/us-statutes/ct: a scan of all 29,710 published ct rows found no § 42a-* section and no text of the UCC provision, so no § 42a section is cited as an authority anywhere in this file. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "ct-plain-language-rights-and-home-warranty-not-waivable",
+    "question": "Can a Connecticut consumer contract make the consumer waive statutory protections?",
+    "rule": "Not the ones these statutes protect. Under the plain-language chapter, 'A consumer may not waive the rights provided by this chapter, and any such waiver shall be void' (§ 42-157(c)); a consumer contract that violates the chapter nonetheless remains enforceable, and the chapter does not take away any other claim or defense (§ 42-157(a),(b)). The chapter's 'consumer contract' is a written agreement entered primarily for personal, family or household purposes in which the consumer borrows or receives credit up to $25,000, agrees to pay up to $25,000 to buy or lease personal property or services, or leases any residential dwelling (§ 42-151(b)); the chapter applies to consumer contracts made, entered into or signed by the consumer in Connecticut after June 30, 1980, and 'Mortgages, deeds of real estate, insurance policies and documents relating to securities transactions are not consumer contracts' (§ 42-153). Separately, a seller of a new mobile manufactured, modular or prefabricated home must give a written manufacturer's warranty, and 'The seller or manufacturer shall not require the buyer to waive his rights under this chapter and any waiver shall be deemed contrary to public policy and shall be void and unenforceable' (§ 21-86).",
+    "trap": "The plain-language anti-waiver clause protects only the chapter's own rights and does not make a non-plain-language contract void: § 42-157(a) keeps the contract enforceable. It also stops at $25,000 of credit or purchase price (any residential lease qualifies regardless of amount), and it never reaches a mortgage, a deed of real estate, an insurance policy or a securities-transaction document, or a contract the consumer did not make, enter into or sign in Connecticut (§ 42-153). No Connecticut statute or Supreme Court opinion in our corpus was found stating that CUTPA (§ 42-110a et seq.) claims cannot be waived by contract, so this rule does not say so.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-157",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742_sec_42_157",
+            "quote": "A consumer contract shall remain enforceable, even though it violates this chapter. (b) Other consumer rights. Nothing in this chapter shall preclude a consumer from making any claim or raising any defense which would have been available to the consumer if this chapter were not in effect. (c) Waiver. A consumer may not waive the rights provided by this chapter, and any such waiver shall be void.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-151",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742_sec_42_151",
+            "quote": "A consumer enters into the agreement primarily for personal, family or household purposes; and (2) The agreement is one in which the consumer: (A) Borrows up to twenty-five thousand dollars or receives up to twenty-five thousand dollars in credit from a person who lends money or extends credit in the ordinary course of business; or (B) agrees to pay up to twenty-five thousand dollars to buy or lease personal property or services from a person who is acting in the ordinary course of business; or (C) leases any residential dwelling.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 21-86",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_413_sec_21_86",
+            "quote": "No person shall sell at retail a new mobile manufactured home or a new modular or prefabricated home in this state without a written manufacturer's warranty to the buyer",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 21-86",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_413_sec_21_86",
+            "quote": "The seller or manufacturer shall not require the buyer to waive his rights under this chapter and any waiver shall be deemed contrary to public policy and shall be void and unenforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-153",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742_sec_42_153",
+            "quote": "This chapter shall apply to all consumer contracts made, entered into or signed by the consumer in this state after June 30, 1980. (b) Exclusions. Mortgages, deeds of real estate, insurance policies and documents relating to securities transactions are not consumer contracts.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the rule defined the chapter's 'consumer contract' from § 42-151(b) alone. § 42-153 'Coverage' (row CT_chap_742_sec_42_153, read in full) limits the chapter to 'consumer contracts made, entered into or signed by the consumer in this state after June 30, 1980' and provides that 'Mortgages, deeds of real estate, insurance policies and documents relating to securities transactions are not consumer contracts'; it is now an authority and both limits are stated. § 42-155 (limits on the chapter's statutory-damages action) was also read; it does not change the anti-waiver sentence. Read in full 2026-09-16: §§ 42-151, 42-152, 42-156, 42-157, 42-158 (chapter 742, plain language) and § 21-86 (chapter 413). Searched: all published ct statute rows for waiver + void/unenforceable/public policy near buyer/consumer/borrower (three hits: § 21-86, § 36a-789, § 42-157; § 36a-789 is a debt-waiver product definition, not an anti-waiver rule); Connecticut Supreme Court opinions for CUTPA near waive/waiver (five hits, none holding CUTPA non-waivable). Other anti-waiver sections seen in the scan but not read in full and not stated: § 31-40o, § 36a-868, § 42-484, § 47-102, § 47a-41. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "electronic-signature",
+    "rule_id": "ct-ueta-1-272-electronic-record-satisfies-writing",
+    "question": "Is an e-signed contract enforceable in Connecticut, and does it satisfy a writing requirement?",
+    "rule": "Yes, within the Uniform Electronic Transactions Act as enacted at §§ 1-266 to 1-286, which apply to an electronic record or signature created, generated, sent, communicated, received or stored on or after October 1, 2002 (§ 1-269). A record or signature may not be denied legal effect or enforceability solely because it is in electronic form; a contract may not be denied legal effect solely because an electronic record was used in its formation; if a law requires a writing an electronic record satisfies it, and if a law requires a signature an electronic signature satisfies it (§ 1-272). The Act applies only to transactions between parties each of which has agreed to conduct transactions by electronic means, determined from the context and surrounding circumstances including the parties' conduct (§ 1-270(b)).",
+    "trap": "Consent is an element, not a formality: § 1-270(b) makes the Act apply only between parties who agreed to transact electronically. And the Act does not reach everything: § 1-268(b) excludes wills, codicils and testamentary trusts, and the Uniform Commercial Code other than § 42a-1-306 and Articles 2 and 2A, so a transaction is outside the Act to the extent the rest of the Uniform Commercial Code governs it. The UCC exclusion is itself 'Except to the extent provided in section 1-281': an electronic record that would be a note under article 3 or a document under article 7 if it were in writing, and that the issuer expressly has agreed is a transferable record, is dealt with by § 1-281. § 1-268(c) also excludes a notice to the extent it is governed by a law requiring notice of cancellation or termination of utility services; of default, acceleration, repossession, foreclosure or eviction, or the right to cure, under a credit agreement secured by, or a rental agreement for, an individual's primary residence; of cancellation or termination of health insurance or benefits or life insurance benefits (excluding annuities); of a product recall or material failure that risks endangering health or safety; or any document required to accompany the transportation or handling of hazardous materials, unless the notice is subject to 15 USC 7003. § 1-268(d) excludes the rules of court practice and procedure under the Connecticut Practice Book.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 1-272",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_015_sec_1_272",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because the record or signature is in electronic form. (b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in the formation of the contract. (c) If a law requires a record to be in writing, an electronic record satisfies the law. (d) If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 1-270",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_015_sec_1_270",
+            "quote": "apply only to transactions between parties each of which has agreed to conduct transactions by electronic means.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 1-268",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_015_sec_1_268",
+            "quote": "do not apply to a transaction to the extent it is governed by: (1) A law governing the creation and execution of wills, codicils or testamentary trusts; or (2) Except to the extent provided in section 1-281 , the Uniform Commercial Code, other than section 42a-1-306 and articles 2 and 2A of title 42a.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 1-281",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_015_sec_1_281",
+            "quote": "means an electronic record that: (1) Would be a note under article 3 of title 42a, or other similar law, or a document under article 7 of title 42a, or other similar law, if the electronic record were in writing; and (2) The issuer of the electronic record expressly has agreed is a transferable record.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 1-269",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_015_sec_1_269",
+            "quote": "apply to any electronic record or electronic signature created, generated, sent, communicated, received or stored on or after October 1, 2002.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap said 'an electronic negotiable instrument or secured-transaction record is outside' the Act. § 1-268(b)(2) excludes the UCC 'Except to the extent provided in section 1-281', and § 1-281 (row CT_chap_015_sec_1_281, read) creates the 'transferable record', an electronic record that 'Would be a note under article 3 of title 42a ... or a document under article 7' and that the issuer has expressly agreed is one; so the flat statement about electronic negotiable instruments was wrong and is replaced by the statute's words, with § 1-281 added as an authority. The § 1-268(c) notice list was paraphrased loosely ('insurance cancellation', omitting hazardous-materials documents and the Practice Book exclusion in (d)) and now follows the text. The October 1, 2002 application date (§ 1-269) was in notes only; it is now in the rule with § 1-269 as an authority. Read in full 2026-09-16: §§ 1-267, 1-268, 1-269 (applies to records created on or after October 1, 2002), 1-270, 1-272. The § 1-268(c) notice exclusions are described from the section as read but not quoted. No Connecticut Supreme Court opinion construing § 1-272 was found in a scan of us-caselaw-ct for '1-272' and 'electronic signature' (hits concerned motor-vehicle police reports and a statute-of-frauds aside in U.S. Bank v. Eichten, Conn. App. 2018). This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "entire-agreement",
+    "rule_id": "ct-merger-clause-bars-extrinsic-evidence-with-four-exceptions",
+    "question": "Does a merger clause shut out prior negotiations and side promises in Connecticut?",
+    "rule": "For unambiguous terms, yes: the Connecticut Supreme Court continues to adhere to the general principle that the unambiguous terms of a written contract containing a merger clause may not be varied or contradicted by extrinsic evidence, provided the writing is integrated, that is, intended by the parties to contain the whole agreement (Tallmadge Bros. v. Iroquois Gas). The court recognizes exceptions under which, in its words, extrinsic evidence 'may be admissible': to explain an ambiguity appearing in the instrument; to prove a collateral oral agreement which does not vary the terms of the writing; to add a missing term in a writing which indicates on its face that it does not set forth the complete agreement; or to show mistake or fraud.",
+    "trap": "Two things decide whether the clause works. The bar applies only if the writing is integrated, and in Tallmadge, where the parties had relatively equal bargaining power and signed only after a lengthy drafting process with the advice of counsel, the court held the insertion of the merger clauses 'conclusive evidence of their intent to create fully integrated contracts'; it observed that disagreement over the weight of a merger clause has mostly arisen with unequal bargaining power, fraud, duress or contracts contrary to public policy, none of which was present. And 'A merger clause, of course, will not operate as a bar to the introduction of evidence of fraud by one of the contracting parties.' In Tallmadge the trial court's reliance on extrinsic evidence (the parties' conduct during negotiations and afterwards) to determine intent could not be reconciled with the merger clause, and the judgment was reversed.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "252 Conn. 479",
+        "name": "Tallmadge Bros., Inc. v. Iroquois Gas Transmission System, L.P.",
+        "court": "Conn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "6ba73bf48728eb23",
+            "cl_opinion_id": "7846551",
+            "quote": "we continue to adhere to the general principle that the unambiguous terms of a written contract containing a merger clause may not be varied or contradicted by extrinsic evidence.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "252 Conn. 479",
+        "name": "Tallmadge Bros., Inc. v. Iroquois Gas Transmission System, L.P.",
+        "court": "Conn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "6ba73bf48728eb23",
+            "cl_opinion_id": "7846551",
+            "quote": "In order for the bar against the introduction of extrinsic evidence to apply, the writing at issue must be integrated, that is, it must have been intended by the parties",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "252 Conn. 479",
+        "name": "Tallmadge Bros., Inc. v. Iroquois Gas Transmission System, L.P.",
+        "court": "Conn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "6ba73bf48728eb23",
+            "cl_opinion_id": "7846551",
+            "quote": "extrinsic evidence may be admissible: “(1) to explain an ambiguity appearing in the instrument; (2) to prove a collateral oral agreement which does not vary the terms of the writing; (3) to add a missing term in [a] writing which indicates on its face that it does not set forth the complete agreement; or (4) to show mistake or fraud.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "252 Conn. 479",
+        "name": "Tallmadge Bros., Inc. v. Iroquois Gas Transmission System, L.P.",
+        "court": "Conn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "6ba73bf48728eb23",
+            "cl_opinion_id": "7846551",
+            "quote": "We conclude, therefore, that the parties’ insertion of the merger clauses into the settlement agreements is *505 conclusive evidence of their intent to create fully integrated contracts, and that the trial court’s subsequent consideration of extrinsic evidence was improper.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "252 Conn. 479",
+        "name": "Tallmadge Bros., Inc. v. Iroquois Gas Transmission System, L.P.",
+        "court": "Conn.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "6ba73bf48728eb23",
+            "cl_opinion_id": "7846551",
+            "quote": "A merger clause, of course, will not operate as a bar to the introduction of evidence of fraud by one of the contracting parties.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap opened 'The clause does not work by itself', which is against the opinion: in part II B (row 6ba73bf48728eb23, char 31,056) the majority held that, between parties of relatively equal bargaining power who had counsel through a lengthy drafting process, 'the parties’ insertion of the merger clauses into the settlement agreements is *505 conclusive evidence of their intent to create fully integrated contracts'. The trap also said the fraud exception 'keeps evidence of mistake or fraud admissible'; footnote 14 says only that such evidence 'may be admissible', while the text (char 31,333) says a merger clause 'will not operate as a bar to the introduction of evidence of fraud by one of the contracting parties' (fraud, not mistake). Both passages are now authorities and the trap states them; the closing gloss 'evidence of what the parties meant or did is no substitute for an ambiguity in the text' was cut as not the court's words. Tallmadge Bros., Inc. v. Iroquois Gas Transmission System, L.P., 252 Conn. 479 (2000): opinion by Peters, J., with Borden, Norcott and Katz, Js.; McDonald, C. J., dissented in a separate row (4b78b43ad1f80b19) on the construction of the agreements, not on the rule. The first two quotes are majority text (char 28,460); the exceptions list is the court's footnote 14 quoting TIE Communications, Inc. v. Kopp, 218 Conn. 281, 288-89 (1991), and sits in the footnote section of the row (char 55,086). Good-law scan: 90 later opinions mention 252 Conn. 479; the two flag hits (Bank of America v. Hanlon, Lux v. Environmental Warranty) cite it approvingly. Later Supreme Court opinions quote the same rule (Alstom Power v. Balcke-Durr, 2004; Perricone v. Perricone, 2009). NOT established: how Connecticut treats an anti-reliance clause against a fraud claim (not researched)."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "force-majeure",
+    "rule_id": "ct-no-clause-covid-orders-not-impossibility-or-frustration",
+    "question": "Without a force majeure clause, will Connecticut excuse performance because of a government shutdown or pandemic?",
+    "rule": "In AGW Sono Partners v. Downtown Soho (2022) the Connecticut Supreme Court held that the COVID-19 executive orders did not relieve a restaurant tenant of its lease obligations: the doctrine of impossibility or impracticability did not excuse performance (use of the premises was not rendered factually impossible where curbside or takeout service remained permitted and the lease did not prohibit it), and, given the narrowness of the frustration of purpose doctrine, the purpose of the lease was not frustrated even by orders that barred indoor dining entirely. The court noted the lease lacked a force majeure clause that would govern the parties' obligations in a crisis beyond their control.",
+    "trap": "AGW is a decision on one lease, not a rule that a government order can never excuse performance. The court said the restrictions 'simply raised the cost of performance for the defendants in a manner that rendered it perhaps highly burdensome, but not factually impossible', and it rested that on a lease that did not limit the tenant to a particular kind of dining and did not prohibit the takeout and outdoor service the orders still allowed. In its impossibility analysis the court also read the lease itself as suggesting that events of the magnitude of the pandemic were not entirely unforeseeable: the lease had no force majeure clause, and its only crisis clause (an 'unavoidable delay' provision) excused only the landlord's obligations. A tenant whose lease restricts use more tightly is not addressed by the holding.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "343 Conn. 309",
+        "name": "AGW Sono Partners, LLC v. Downtown Soho, LLC",
+        "court": "Conn.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "5a1d9aa5e31e07f2",
+            "cl_opinion_id": "6339454",
+            "quote": "Applying these principles, we conclude that the doc- trine of impossibility or impracticability did not excuse the defendants from their obligations to the plaintiff under the lease agreement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "343 Conn. 309",
+        "name": "AGW Sono Partners, LLC v. Downtown Soho, LLC",
+        "court": "Conn.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "5a1d9aa5e31e07f2",
+            "cl_opinion_id": "6339454",
+            "quote": "Given the narrowness of the frustration of purpose doctrine, we conclude that the purpose of the lease agreement was not frustrated by the pandemic restric- tions imposed by the executive orders, even those that barred indoor dining entirely.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "343 Conn. 309",
+        "name": "AGW Sono Partners, LLC v. Downtown Soho, LLC",
+        "court": "Conn.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "5a1d9aa5e31e07f2",
+            "cl_opinion_id": "6339454",
+            "quote": "The lease agreement lacks a force majeure clause that would govern the parties’ mutual obligations in the event of a crisis situa- tion beyond their control",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "343 Conn. 309",
+        "name": "AGW Sono Partners, LLC v. Downtown Soho, LLC",
+        "court": "Conn.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "5a1d9aa5e31e07f2",
+            "cl_opinion_id": "6339454",
+            "quote": "Second, the language of the lease agreement suggests that events of the magnitude of the COVID-19 pandemic were not entirely unforeseeable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "343 Conn. 309",
+        "name": "AGW Sono Partners, LLC v. Downtown Soho, LLC",
+        "court": "Conn.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "5a1d9aa5e31e07f2",
+            "cl_opinion_id": "6339454",
+            "quote": "Instead, they simply raised the cost of performance for the defendants in a manner that rendered it perhaps highly burdensome, but not factually impossible",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap said 'Economic hardship from a government order, even severe, is not impossibility in Connecticut; relief has to be bargained for' and that a one-sided crisis clause 'can therefore be used against the other's claim'. The opinion holds less: the restrictions 'did not, by themselves, make performance under the lease agreement impossible or commercially impracticable as a matter of law' (char ~38,300), on a lease that 'was not limited to a certain type of dining' and 'did not preclude the takeout and subsequent outdoor dining' (char ~45,400), and it contrasts sister-state leases with more restrictive use clauses. The general statements were cut and the trap now gives the court's own sentence (added as an authority, char 38,555) and the lease facts it turned on. AGW Sono Partners, LLC v. Downtown Soho, LLC, 343 Conn. 309 (2022): unanimous (Robinson, C. J., McDonald, D'Auria, Mullins, Kahn, Ecker and Keller, Js.); the row begins with the Reporter of Judicial Decisions' syllabus, and all four quotes are from the opinion text after it (chars 35,496, 38,929, 39,069, 45,134; the opinion ends at 60,881). That the unavoidable-delay clause excused only the landlord is read from the passage following agw-2 (char 39,097) and is not separately quoted. The opinion discusses what force majeure clauses do only in a footnote quoting federal decisions and a law-review article; that is not stated here as Connecticut law. Good-law scan: 7 later opinions mention 343 Conn. 309, none negative. NOT established: how a Connecticut court construes an express force majeure clause (whether a pandemic or government order is covered, notice requirements); Milford Power Co. v. Alstom Power, Inc. (Conn. 2003), read in the scan snippet only, decided ripeness of a force majeure dispute. No Connecticut statute on force majeure was found (one hit, § 32-655, is agency powers)."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "indemnity",
+    "rule_id": "ct-52-572k-construction-indemnity-for-own-negligence-void",
+    "question": "Will a Connecticut court enforce a clause making the subcontractor indemnify the owner or GC for the owner's or GC's own negligence?",
+    "rule": "Not in construction. Any covenant or agreement collateral to a contract for the construction, alteration, repair or maintenance of any building, structure or appurtenances (including moving, demolition and excavating) that purports to indemnify or hold harmless the promisee against liability for bodily injury or property damage caused by or resulting from the negligence of the promisee, its agents or employees is against public policy and void (§ 52-572k(a)), without affecting insurance contracts, workers' compensation agreements or other agreements issued by a licensed insurer. Outside that statute, the Connecticut Supreme Court has said that indemnification agreements give rise to the same issues as releases and are interpreted in a similar fashion, and for releases it requires language that expressly releases a party from its own future negligence (Hyson).",
+    "trap": "§ 52-572k's text reaches indemnity against liability caused by or resulting from the negligence of the promisee, its agents or employees; it expressly does not affect any insurance contract, workers' compensation agreement or other agreement issued by a licensed insurer. Whether a clause is saved to the extent it covers only the indemnitor's own negligence was not established. Hyson's express-language holding was made for a release; its statement that indemnity agreements are interpreted in a similar fashion is the court's, but Hyson did not decide an indemnity case.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 52-572k",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_925_sec_52_572k",
+            "quote": "Any covenant, promise, agreement or understanding entered into in connection with or collateral to a contract or agreement relative to the construction, alteration, repair or maintenance of any building, structure or appurtenances thereto including moving, demolition and excavating connected therewith, that purports to indemnify or hold harmless the promisee against liability for damage arising out of bodily injury to persons or damage to property caused by or resulting from the negligence of such promisee, such promisee's agents or employees, is against public policy and void",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "265 Conn. 636",
+        "name": "Hyson v. White Water Mountain Resorts of Connecticut, Inc.",
+        "court": "Conn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "72c25146eb88d715",
+            "cl_opinion_id": "7848221",
+            "quote": "Indemnification agreements give rise to the same issues and are interpreted in a similar fashion.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "265 Conn. 636",
+        "name": "Hyson v. White Water Mountain Resorts of Connecticut, Inc.",
+        "court": "Conn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "72c25146eb88d715",
+            "cl_opinion_id": "7848221",
+            "quote": "we conclude that the better rule is that a party cannot be released from liability for injuries resulting from its future negligence in the absence of language that expressly so provides.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "§ 52-572k read in full 2026-09-16; subsection (b) applies it to agreements entered on or after the thirtieth day after October 1, 1977. Hyson v. White Water Mountain Resorts of Connecticut, Inc., 265 Conn. 636 (2003): opinion of the court with Palmer, Vertefeuille and Zarella, Js.; Katz, J., concurred in the result; Norcott, J., dissented in a separate row (19f52d6fb23dee3f). Both quotes are majority text (chars 5,821 and 6,542; the majority ends at 7,816). Good-law scan: 6 later opinions mention 265 Conn. 636, none negative; Hanks v. Powder Ridge (2005) applied it. A scan of Connecticut Supreme Court opinions found none construing § 52-572k. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "lien-waiver",
+    "rule_id": "ct-42-158l-advance-lien-and-bond-waiver-void",
+    "question": "Can a Connecticut construction contract or periodic lien waiver give up mechanic's lien or payment bond rights in advance?",
+    "rule": "No, for work not yet performed and paid for. Any provision in a construction contract, or any periodic lien waiver issued under one, that purports to waive or release a contractor's, subcontractor's or supplier's right to claim a mechanic's lien or make a claim against a payment bond for services, labor or materials which have not yet been performed and paid for is void and of no effect (§ 42-158l(a)). Subordination of a mechanic's lien to a mortgage or security interest, and enforcement of an agreement to subordinate, remain permitted (§ 42-158l(b)).",
+    "trap": "The statute voids only waivers for work not yet performed AND paid for, so a waiver limited to paid work is outside it. And it applies only to a 'construction contract' as defined in § 42-158i: it does not reach public works contracts with the state, the United States, another state or a municipality, HUD-funded or HUD-insured projects, owner-contractor contracts of $25,000 or less (and their subcontracts), or buildings for residential occupancy of four or fewer units.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158l",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158l",
+            "quote": "Any provision in a construction contract or any periodic lien waiver issued pursuant to a construction contract that purports to waive or release the right of a contractor, subcontractor or supplier engaged to perform services, perform labor or furnish materials under the construction contract to (1) claim a mechanic's lien, or (2) make a claim against a payment bond, for services, labor or materials which have not yet been performed and paid for shall be void and of no effect.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158i",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158i",
+            "quote": "“Construction contract” or “contract” means any contract for the construction, renovation or rehabilitation in this state on or after October 1, 1999, including any improvements to real property that are associated with such construction, renovation or rehabilitation, or any subcontract for construction, renovation or rehabilitation between an owner and a contractor, or between a contractor and a subcontractor or subcontractors, or between a subcontractor and any other subcontractor. “Construction contract” or “contract” does not include (A) any public works or other building contract entered into with this state, the United States, any other state, and any municipality or other political subdivision of this state or any other state, (B) a contract or project funded or insured by the United States Department of Housing and Urban Development, (C) a contract between an owner and a contractor for an amount of twenty-five thousand dollars or less or a subcontract which results from such a contract, or (D) a contract for a building intended for residential occupancy containing four or less units.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "Read in full 2026-09-16: §§ 42-158i, 42-158l (both subsections). § 42-158i defines 'construction contract' as a contract for construction, renovation or rehabilitation in Connecticut on or after October 1, 1999. The published row title renders the section as '42-158 l'. Case law: Alstom Power, Inc. v. Balcke-Durr, Inc. (Conn. 2004) concerned whether § 42-158l applied to an agreement formed before October 1, 1999; it was read only in the scan snippet and is not cited. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "limitation-of-liability",
+    "rule_id": "ct-release-needs-express-negligence-and-may-violate-public-policy",
+    "question": "Will a Connecticut court enforce a release or exculpatory clause against the drafter's own negligence?",
+    "rule": "Two hurdles. First, a party cannot be released from liability for injuries resulting from its future negligence in the absence of language that expressly so provides (Hyson). Second, even a well-drafted release may be unenforceable as against public policy: in Hanks the court held that enforcing an agreement that expressly released a snowtube operator from prospective liability for personal injuries caused by its negligence violated public policy, applying a totality-of-the-circumstances analysis guided, but not limited, by the Tunkl factors and informed by any other relevant factors and current societal expectations.",
+    "trap": "Drafting the word 'negligence' into the release (the Hanks form used it three times, in capitals) satisfies Hyson but does not answer Hanks: the court found the agreement violated public policy because, among other reasons, the operator invited the public generally regardless of ability and patrons were under its care and control as a result of an economic transaction. Hanks is expressly limited: its conclusion does not extend to the risks inherent in the activity. These cases concern personal-injury releases in recreational settings; a negotiated commercial cap on contract damages was not addressed and is not stated here.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "265 Conn. 636",
+        "name": "Hyson v. White Water Mountain Resorts of Connecticut, Inc.",
+        "court": "Conn.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "72c25146eb88d715",
+            "cl_opinion_id": "7848221",
+            "quote": "we conclude that the better rule is that a party cannot be released from liability for injuries resulting from its future negligence in the absence of language that expressly so provides.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "276 Conn. 314",
+        "name": "Hanks v. Powder Ridge Restaurant Corp.",
+        "court": "Conn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "3a5c7098dfc4316f",
+            "cl_opinion_id": "9637464",
+            "quote": "We conclude that the agreement expressly and unambiguously purports to release the defendants from prospective liability for negligence.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "276 Conn. 314",
+        "name": "Hanks v. Powder Ridge Restaurant Corp.",
+        "court": "Conn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "3a5c7098dfc4316f",
+            "cl_opinion_id": "9637464",
+            "quote": "namely, whether the enforcement of a well drafted exculpatory agreement purporting to release a snowtube operator from prospective liability for personal injuries sustained as a result of the operator’s negligent conduct violates public policy. We conclude that it does",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "276 Conn. 314",
+        "name": "Hanks v. Powder Ridge Restaurant Corp.",
+        "court": "Conn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "3a5c7098dfc4316f",
+            "cl_opinion_id": "9637464",
+            "quote": "Thus, our analysis is guided, but not limited, by the Tunkl factors, and is informed by any other factors that may be relevant given the factual circumstances of the case and current societal expectations.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "276 Conn. 314",
+        "name": "Hanks v. Powder Ridge Restaurant Corp.",
+        "court": "Conn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "3a5c7098dfc4316f",
+            "cl_opinion_id": "9637464",
+            "quote": "we conclude today that the agreement at issue in this case violates public policy, not solely because of the volume of public participation, but because: (1) the defendants invite the public generally to snowtube at their facility, regardless of snowtubing ability; (2) snowtubers are under the care and control of the defendants as a result of an economic transaction;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "276 Conn. 314",
+        "name": "Hanks v. Powder Ridge Restaurant Corp.",
+        "court": "Conn.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "3a5c7098dfc4316f",
+            "cl_opinion_id": "9637464",
+            "quote": "We clarify that our conclusion does not extend to the risks inherent in the activity of snowtubing.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "Hanks v. Powder Ridge Restaurant Corp., 276 Conn. 314 (2005): Sullivan, C. J., for the court with Katz, Vertefeuille and Zarella, Js.; Norcott, J., with Borden and Palmer, Js., dissented (4-3). Quotes are from row 3a5c7098dfc4316f, which carries only the majority opinion (the dissent is row 022ffef863abc1cf; row 03b3a08444a52b97 carries both); hanks-5 and hanks-4 are from the majority's footnotes (chars 44,039 and 47,105); hanks-5 lists only the first two of the court's reasons. The majority itself acknowledges its conclusion is the 'distinct minority view' among states. Hyson: see the indemnity row for the vote. Good-law scan: 31 later opinions mention 276 Conn. 314 and 6 mention 265 Conn. 636, none with overruling language; Reardon v. Windswept Farm, LLC (Conn. 2006) and Brown v. Soh (Conn. 2006) discuss them (read only in scan snippets). NOT established: whether Connecticut permits exculpation of gross negligence or intentional conduct; limitation-of-liability caps in commercial contracts; § 52-572k for construction (see indemnity row)."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "limitation-of-remedy",
+    "rule_id": "ct-agreed-remedy-enforced-unless-it-fails-essential-purpose",
+    "question": "Will a Connecticut court enforce a repair-or-replace or other exclusive remedy clause?",
+    "rule": "Between commercial parties, generally yes. Commercial contracting parties have considerable freedom to determine the remedial rights that will ensue upon breach, authority expressly conferred on buyers and sellers of goods by § 42a-2-719, and absent some cogent reason such as mistake or unconscionability there is no reason a court should not enforce the bargain the parties have made (Mack Financial Corp. v. Crossley). But the Code recognizes that it is the very essence of a sales contract that at least minimum adequate remedies be available: in Conte the limited repair remedy failed of its essential purpose because after numerous attempts to repair the car still did not operate as a new automobile should, and the buyer could resort to the Code's other remedies.",
+    "trap": "A repair-or-replace remedy can fail: in Conte (a consumer's new car) the limited remedy had failed of its essential purpose 'because even after numerous attempts to repair, the automobile still did not operate as a new automobile should, free from defects', and the buyer recovered the price paid on a justified revocation of acceptance. Conte does not say how many attempts or how much time is enough. The enforcement principle in Mack is also bounded by its own exceptions, mistake and unconscionability. The text of § 42a-2-719 itself, including any rule on consequential-damages exclusions, is not in our published statutes and is not stated here.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "209 Conn. 163",
+        "name": "Mack Financial Corp. v. Crossley",
+        "court": "Conn.",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "790fc8843a74eec9",
+            "cl_opinion_id": "7840591",
+            "quote": "Commercial contracting parties have considerable freedom to determine the remedial rights that will ensue upon breach. Such authority is expressly conferred upon buyers and sellers of goods in article 2 of the Uniform Commercial Code, General Statutes § 42a-2-719. 5 Absent some cogent reason such as mistake or unconscionability, there is no reason why a court should not enforce the bargain that the parties have made.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "172 Conn. 112",
+        "name": "Conte v. Dwan Lincoln-Mercury, Inc.",
+        "court": "Conn.",
+        "decided": "1976",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "df5625b4c8c6bcaa",
+            "cl_opinion_id": "1964448",
+            "quote": "recognizes that it is the very essence of a sales contract that at least minimum adequate remedies be available. § 42a-2-719; Uniform Commercial Code § 2-719, comment 1. In this case, the limited remedy of the warranty had failed of its essential purpose because even after numerous attempts to repair, the automobile still did not operate as a new automobile should, free from defects.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the rule's 'Generally yes' had no scope, but Mack's sentence is about 'Commercial contracting parties' (row title Mack Financial Corp. v. Crossley, char 7,431) and was made in enforcing a security agreement's notice term, while Conte was a consumer sale; the rule now says 'Between commercial parties'. The trap turned Conte's facts into a rule ('once repeated attempts fail ... the limited remedy has failed'); it now states what Conte held on its facts and that the opinion sets no number of attempts. Mack Financial Corp. v. Crossley, 209 Conn. 163 (1988): unanimous; the court held the parties' bargain required the seller or its assignee to comply with the § 42-98 consumer notice procedures although the truck was equipment, and the quoted passage is the court's own statement. Conte v. Dwan Lincoln-Mercury, Inc., 172 Conn. 112 (1976): unanimous; the quote is majority text (char 15,998 of 21,722; the opinion ends at 20,711). Good-law scan: 12 and 17 later opinions mention 209 Conn. 163 and 172 Conn. 112, none with overruling language; Latham & Associates v. William Raveis Real Estate (Conn. 1991) and Web Press v. New London Motors (Conn. 1987) cite § 42a-2-719(2) on failure of essential purpose (read only in scan snippets). Title 42a (Connecticut's Uniform Commercial Code) is NOT in our published docketx/us-statutes/ct: a scan of all 29,710 published ct rows found no § 42a-* section and no text of the UCC provision, so no § 42a section is cited as an authority anywhere in this file."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "limitations-period",
+    "rule_id": "ct-52-576-six-years-written-contract-not-goods",
+    "question": "How long does a party have to sue on a written contract in Connecticut?",
+    "rule": "Six years: no action for an account, or on any simple or implied contract, or on any contract in writing, shall be brought but within six years after the right of action accrues (§ 52-576(a)), with three years after becoming legally capable for a person legally incapable when the right accrued (§ 52-576(b)). A separate section sets three years for an action 'founded upon any express contract or agreement which is not reduced to writing, or of which some note or memorandum is not made in writing and signed by the party to be charged' (§ 52-581(a)), so the six-year answer is for a contract in writing. Neither section applies to a cause of action governed by article 2 of title 42a (§§ 52-576(c), 52-581(b)), that is, contracts for the sale of goods, and § 52-576 does not apply to actions on judgments.",
+    "trap": "A contract for goods is not on the six-year clock: § 52-576(c) sends it to Article 2, whose limitation section (§ 42a-2-725) is not in our published statutes and is not stated here. A CUTPA claim pleaded alongside the contract claim has its own period: an action under § 42-110g 'may not be brought more than three years after the occurrence of a violation' (§ 42-110g(f)). How Connecticut courts divide oral contracts between § 52-576's 'simple or implied contract' and § 52-581 was not read and is not stated here. Whether and how far a Connecticut contract may shorten the six-year period was not verified.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 52-576",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_926_sec_52_576",
+            "quote": "No action for an account, or on any simple or implied contract, or on any contract in writing, shall be brought but within six years after the right of action accrues",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 52-576",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_926_sec_52_576",
+            "quote": "The provisions of this section shall not apply to actions upon judgments of any court of the United States or of any court of any state within the United States, or to any cause of action governed by article 2 of title 42a.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 52-581",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_926_sec_52_581",
+            "quote": "No action founded upon any express contract or agreement which is not reduced to writing, or of which some note or memorandum is not made in writing and signed by the party to be charged therewith or his agent, shall be brought but within three years after the right of action accrues. (b) This section shall not apply to causes of action governed by article 2 of title 42a.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-110g",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_735a_sec_42_110g",
+            "quote": "An action under this section may not be brought more than three years after the occurrence of a violation of this chapter.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the rule recited § 52-576(a)'s six years for 'any simple or implied contract' without the neighbouring § 52-581 (row CT_chap_926_sec_52_581, read in full), which sets three years for an action on an express contract not reduced to writing or evidenced by a signed memorandum; § 52-581 is now an authority and the rule confines the six-year answer to a contract in writing. The trap quoted § 42-110g(f) with no authority on the row ('read but not quoted'); the subsection is now an authority with its verbatim text. § 52-576 read in full 2026-09-16, and § 42-110g read in full. Searched Connecticut Supreme Court and Appellate Court opinions for contractual limitation provisions ('suit clause', 'limitation provision ... reasonable'): no hit stating a general rule on contractual shortening; Serrano v. Aetna (1995) and Bayusik v. Nationwide (1995) held an insurance policy's two-year limitation unenforceable under a specific 1993 public act, which is not generalisable. Title 42a (Connecticut's Uniform Commercial Code) is NOT in our published docketx/us-statutes/ct: a scan of all 29,710 published ct rows found no § 42a-* section and no text of the UCC provision, so no § 42a section is cited as an authority anywhere in this file. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "liquidated-damages",
+    "rule_id": "ct-liquidated-damages-three-conditions-else-penalty",
+    "question": "Will a Connecticut court enforce this liquidated damages clause, or strike it as a penalty?",
+    "rule": "A term calling for a penalty for breach is contrary to public policy and invalid, but a provision fixing the damages payable on breach is enforceable if it satisfies certain conditions. The label does not control; the parties' intention does, and the provision is ordinarily construed as liquidated damages if three conditions are satisfied: (1) the damage to be expected from a breach was uncertain in amount or difficult to prove; (2) the parties intended to liquidate damages in advance; and (3) the amount stipulated was reasonable in the sense that it was not greatly disproportionate to the presumable loss as the parties looked forward (Bellemare v. Wachovia Mortgage Corp., quoting American Car Rental). In a written contract for the purchase or lease of goods or services primarily for personal, family or household purposes, a liquidated damages provision is in addition unenforceable unless the contract contains, immediately following the provision, a statement in boldface type at least twelve points in size, 'I ACKNOWLEDGE THAT THIS CONTRACT CONTAINS A LIQUIDATED DAMAGES PROVISION', and the person against whom it is to be enforced signs or initials next to that statement (§ 42-150u(a)); the section does not validate a clause that is a penalty.",
+    "trap": "Calling the sum 'liquidated damages (and not a penalty)' buys nothing: the courts 'are not controlled by the fact that the phrase \"liquidated damages\" or the word \"penalty\" is used.' The third condition is stated looking forward: the amount must not be greatly disproportionate to the presumable loss 'as the parties looked forward'. What a court does when actual damages later prove much larger or smaller was not read and is not stated here. For consumer contracts, § 42-150u(c) takes out of the boldface-acknowledgment requirement contracts with a state, local or federal agency, negotiable instruments, provisions for late fees, prepayment penalties or default interest rates, contracts originated or held by institutions regulated by the Department of Banking or a federal bank regulatory agency (and certain subsidiaries and affiliates), and contracts originated or held by motor-vehicle dealers and repairers licensed under § 14-52 or § 14-67a.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "284 Conn. 193",
+        "name": "Bellemare v. Wachovia Mortgage Corp.",
+        "court": "Conn.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "91c4d9c3f6d1352d",
+            "cl_opinion_id": "1953363",
+            "quote": "a term in a contract calling for the imposition of a penalty for the breach of the contract is contrary to public policy and invalid, but a contractual provision fixing the amount of damages to be paid in the event of a breach is enforceable if it satisfies certain conditions.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "284 Conn. 193",
+        "name": "Bellemare v. Wachovia Mortgage Corp.",
+        "court": "Conn.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "91c4d9c3f6d1352d",
+            "cl_opinion_id": "1953363",
+            "quote": "such a provision is ordinarily to be construed as one for liquidated damages if three conditions are satisfied: (1) The damage which was to be expected as a result of a breach of the contract was uncertain in amount or difficult to prove; (2) there was an intent on the part of the parties to liquidate damages in advance; and (3) the amount stipulated was reasonable in the sense that it was not greatly disproportionate to the amount of the damage which, as the parties looked forward, seemed to be the presumable loss which would be sustained by the contractee in the event of abreach of the contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-150u",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_741c_sec_42_150u",
+            "quote": "No provision in a written contract for the purchase or lease of goods or services primarily for personal, family or household purposes that provides for the payment of liquidated damages in the event of a breach of the contract shall be enforceable unless (1) the contract contains a statement in boldface type at least twelve points in size immediately following such liquidated damages provision stating “I ACKNOWLEDGE THAT THIS CONTRACT CONTAINS A LIQUIDATED DAMAGES PROVISION”, and (2) the person against whom such provision is to be enforced signs such person's name or writes such person's initials next to such statement.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the row never read the statutes around its subject. § 42-150u (row CT_chap_741c_sec_42_150u, read in full) makes a liquidated damages provision in a written consumer contract for goods or services unenforceable unless a boldface twelve-point acknowledgment immediately follows it and is signed or initialled, with five exclusions in (c); it is now an authority and is stated in the rule and trap. The trap's sentence that an amount unrelated to foreseeable loss 'fails even if actual damages later turn out large' was an inference no passage read supports (Bellemare only quotes the forward-looking third condition, char 13,998) and was cut. Bellemare v. Wachovia Mortgage Corp., 284 Conn. 193 (2007): unanimous; the quotes are the court quoting American Car Rental, Inc. v. Commissioner of Consumer Protection, 273 Conn. 296, 306-307 (2005), in holding that General Statutes § 49-8 (release of mortgage) is not akin to a liquidated damages clause. The 'not controlled by the label' sentence in the trap is in the same quoted passage (char 14,078) but between the two quotes and not itself quoted. Good-law scan: 60 later opinions mention 284 Conn. 193; the one flag hit (Cedar Mountain v. D & M Screw Machine, Conn. App. 2012) cites it for the penalty rule. Earlier Connecticut Supreme Court cases state the same rule (Hanson Development Co. v. East Great Plains Shopping Center, Conn. 1985, read in the scan snippet); HH East Parcel, LLC v. Handy & Harman (2008) and Dept. of Transportation v. White Oak (2015) arose in arbitration and were not read. NOT established: who bears the burden of proving a penalty."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "non-competition",
+    "rule_id": "ct-noncompete-five-factor-reasonableness-and-occupational-statutes",
+    "question": "Will a Connecticut court enforce this employee non-compete?",
+    "rule": "At common law, if the restraint is reasonable, judged on five factors: (1) the length of time the restriction operates; (2) the geographical area covered; (3) the fairness of the protection accorded to the employer; (4) the extent of the restraint on the employee's opportunity to pursue his occupation; and (5) the extent of interference with the public's interests; time and geographic restrictions are valid if reasonably limited and fairly protecting the interests of both parties (Robert S. Weiss & Associates v. Wiederlight, applying Scott v. General Iron & Welding). Statutes override that test for specific occupations: a physician covenant is valid only if necessary to protect a legitimate business interest, reasonably limited, and otherwise consistent with law and public policy, with the enforcing party bearing the burden, and one entered, amended, extended or renewed on or after July 1, 2016 may not restrict competition for more than one year or beyond fifteen miles from the primary practice site, and is unenforceable if the employment agreement was not made in anticipation of or as part of a partnership or ownership agreement and expires without a bona fide renewal offer, or if the employer terminates the relationship other than for cause (§ 20-14p(b)(2)); a physician covenant entered, amended, extended or renewed on or after October 1, 2023 is also unenforceable if the physician does not agree to a proposed material change to the compensation terms before or at extension or renewal and the contract then expires unrenewed or is terminated by the employer other than for cause, a rule that does not apply to a covenant with a group practice of not more than thirty-five physicians majority-owned by physicians (§ 20-14p(b)(3)); physician assistants and advanced practice registered nurses have the same validity test, one-year/fifteen-mile limit and expiry and termination rules for covenants entered, amended, extended or renewed on or after October 1, 2023 (§§ 20-12k, 20-101d); a broadcast industry employer's employment contract with a broadcast employee (an employee of a broadcast television or radio station owner or operator, other than one whose services primarily include sales or management functions; cable stations and cable networks are not covered employers) may not require the employee to refrain from obtaining employment in a specified geographical area for a specified period after termination (§ 31-50b); a security guard (a person employed in standard occupational classification 339032) may not be required to agree not to engage in the same or a similar job at the same location for another employer or as a self-employed person unless the employer proves the guard obtained trade secrets (§ 31-50a); and any covenant not to compete restricting an individual from providing companion, home health or homemaker services is void (§§ 20-670(4), 20-681).",
+    "trap": "The occupational statutes are date-gated in their own text: § 20-14p's one-year/fifteen-mile limit applies to physician covenants entered, amended, extended or renewed on or after July 1, 2016, and its separate-signature requirement to those on or after that date; the physician-assistant and APRN versions start October 1, 2023; § 31-50b applies to broadcast contracts entered, renewed or extended on or after July 1, 2007, and § 31-50a to security-guard agreements on or after October 1, 2007. Under §§ 20-14p, 20-12k and 20-101d an amendment, extension or renewal on or after the date brings an older covenant under the rule (§§ 31-50a and 31-50b say 'entered into, renewed or extended'). For a physician covenant entered, amended, extended or renewed on or after July 1, 2016, termination by the employer other than for cause makes it unenforceable regardless of how reasonable it is, as does expiry without a bona fide renewal offer where the agreement was not made in anticipation of or as part of a partnership or ownership agreement. The remainder of a contract survives a covenant voided under §§ 20-14p, 20-12k or 20-101d, including damages provisions.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "208 Conn. 525",
+        "name": "Robert S. Weiss & Associates, Inc. v. Wiederlight",
+        "court": "Conn.",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "25ef969ac8cf92a1",
+            "cl_opinion_id": "7840510",
+            "quote": "The five factors to be considered in evaluating the reasonableness of a restrictive covenant ancillary to an employment agreement are: (1) the length of time the restriction operates; (2) the geographical area covered; (3) the fairness of the protection accorded to the employer; (4) the extent of the restraint on the employee’s opportunity to pursue his occupation; and (5) the extent of interference with the public",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "208 Conn. 525",
+        "name": "Robert S. Weiss & Associates, Inc. v. Wiederlight",
+        "court": "Conn.",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "25ef969ac8cf92a1",
+            "cl_opinion_id": "7840510",
+            "quote": "time and geographic restrictions in a covenant not to compete are valid if they are reasonably limited and fairly protect the interests of both parties.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 20-14p",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_370_sec_20_14p",
+            "quote": "A covenant not to compete is valid and enforceable only if it is: (A) Necessary to protect a legitimate business interest; (B) reasonably limited in time, geographic scope and practice restrictions as necessary to protect such business interest; and (C) otherwise consistent with the law and public policy. The party seeking to enforce a covenant not to compete shall have the burden of proof in any proceeding.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 20-14p",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_370_sec_20_14p",
+            "quote": "A covenant not to compete that is entered into, amended, extended or renewed on or after July 1, 2016, shall not: (A) Restrict the physician's competitive activities (i) for a period of more than one year, and (ii) in a geographic region of more than fifteen miles from the primary site where such physician practices; or (B) be enforceable against a physician if (i) such employment contract or agreement was not made in anticipation of, or as part of, a partnership or ownership agreement and such contract or agreement expires and is not renewed, unless, prior to such expiration, the employer makes a bona fide offer to renew the contract on the same or similar terms and conditions, or (ii) the employment or contractual relationship is terminated by the employer, unless such employment or contractual relationship is terminated for cause.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 20-12k",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_370_sec_20_12k",
+            "quote": "A covenant not to compete that is entered into, amended, extended or renewed on or after October 1, 2023, shall not: (A) Restrict the physician assistant's competitive activities (i) for a period of more than one year, and (ii) in a geographic region of more than fifteen miles from the primary site where such physician assistant practices",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 20-101d",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_378_sec_20_101d",
+            "quote": "A covenant not to compete that is entered into, amended, extended or renewed on or after October 1, 2023, shall not: (A) Restrict the advanced practice registered nurse's competitive activities (i) for a period of more than one year, and (ii) in a geographic region of more than fifteen miles from the primary site where such advanced practice registered nurse practices",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 31-50b",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_557_sec_31_50b",
+            "quote": "No broadcast industry employer employment contract for the services of a broadcast employee may contain a provision requiring that such broadcast employee: (1) Refrain from obtaining employment in a specified geographical area for a specified period of time after termination of employment with that broadcast industry employer;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 31-50a",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_557_sec_31_50a",
+            "quote": "No employer may require any person employed in the classification 339032 of the standard occupational classification system of the Bureau of Labor Statistics of the United States Department of Labor to enter into an agreement prohibiting such person from engaging in the same or a similar job, at the same location at which the employer employs such person, for another employer or as a self-employed person, unless the employer proves that such person has obtained trade secrets, as defined in subsection (d) of section 35-51 , of the employer.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 20-670",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_400o_sec_20_670",
+            "quote": "“Covenant not to compete” means any agreement or contract that restricts the right of an individual to provide companion services, home health services or homemaker services (A) in any geographic area of the state for any period of time, or (B) to a specific individual.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 20-681",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_400o_sec_20_681",
+            "quote": "Any covenant not to compete is against public policy and shall be void and unenforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the statutory summaries dropped limits that are in the sections' own text (all re-read in full 2026-09-17). § 31-50b covers only a 'broadcast employee' of a 'broadcast industry employer', defined to exclude 'those employees whose services primarily include sales or management functions' and 'cable stations or cable networks'; the rule said 'broadcast employee contracts' without either limit. § 31-50a reaches 'the same or a similar job ... for another employer or as a self-employed person' for classification 339032; the rule said 'the same job ... for another employer'. The trap stated the physician termination-without-cause rule with no date, but § 20-14p(b)(2) applies it only to covenants 'entered into, amended, extended or renewed on or after July 1, 2016', and said 'A renewal or amendment can pull an old covenant under the new rule' for all five statutes although §§ 31-50a and 31-50b do not say 'amended'. § 20-14p(b)(3) (October 1, 2023 compensation-change rule, with its thirty-five-physician group-practice exception) was in notes only and is now in the rule; the PA and APRN sections carry the same validity test and expiry/termination rules, not only the one-year/fifteen-mile limit. Read in full 2026-09-16: §§ 20-14p, 20-12k, 20-101d, 31-50a, 31-50b, 20-681, and § 20-670 subdivisions (1)-(7). A scan of all published ct statute rows for 'covenant not to compete|noncompet|non-compet' found no general Connecticut statute restricting employee non-competes; the occupational sections above are all it returned besides regulatory and definitional hits. § 20-14p(b)(3) adds a 2023 rule on material compensation changes, not stated here. Robert S. Weiss & Associates, Inc. v. Wiederlight, 208 Conn. 525 (1988) (row title 'Weiss v. Wiederlight'): unanimous; weiss-2 is majority text (char 7,199) and the five-factor list weiss-1 is the court's footnote 2 (char 29,246), citing Scott v. General Iron & Welding Co., 171 Conn. 132, 137 (1976), which is in our corpus (row 366924bc4b4208b4) but was not quoted. The row title does not carry the full party name, so the name check may rest on shared words. Good-law scan: 27 later opinions mention 208 Conn. 525 and 18 mention 171 Conn. 132, none with overruling language; the Appellate Court still applies the five factors (National Waste Associates v. Scharf, 2018; Deleo v. Equale & Cirone, 2021). NOT established: whether Connecticut courts blue-pencil or reform an overbroad covenant; non-solicitation covenants. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "prompt-payment",
+    "rule_id": "ct-42-158j-thirty-and-twenty-five-day-payment-and-interest",
+    "question": "How fast must a Connecticut private construction owner or contractor pay, and what happens if it does not?",
+    "rule": "Every construction contract must require the owner to pay amounts due to its contractor (or a sub or supplier in direct contract with the contractor) not later than thirty days after a written request for payment, and the contractor to pay its subcontractors and suppliers not later than twenty-five days after receiving the owner's payment covering their work, with the same twenty-five-day flow-down to lower tiers (§ 42-158j(a)). An unpaid party sets forth its claim by registered or certified mail notice; ten days after receipt of that notice the late payer is liable for interest at one per cent per month, and 'Such interest shall accrue beginning on the date any such notice is received' (§ 42-158j(c)(4)). Amounts due from the owner under (c)(1) and (a)(1) are limited to the amount the owner owes the contractor for work performed at the date of the notice. The late payer on written demand must place the amount of the claim plus that interest in an interest-bearing escrow account in a Connecticut bank; one that refuses and is found to have unreasonably withheld payment is liable for the funds, reasonable attorneys' fees and the one per cent interest, and one found to have withheld in bad faith is liable for ten per cent damages. No payment may be withheld from a subcontractor or supplier because of a dispute between the contractor and another party (§ 42-158j(d)), and retainage may not exceed five per cent of a progress payment (§ 42-158k).",
+    "trap": "The statutory interest does not run from the due date: it accrues from the date the registered or certified mail notice is received, and liability for it attaches ten days after receipt. The section provides for notice 'by registered or certified mail' and says nothing about any other form of notice. The payer may refuse to escrow on the ground that the work was not substantially performed or the funds are not due. And the scheme reaches only § 42-158i 'construction contracts': public works, HUD-funded or HUD-insured projects, owner-contractor contracts of $25,000 or less and the subcontracts that result from them, and buildings intended for residential occupancy containing four or fewer units are excluded, and the definition covers construction, renovation or rehabilitation in Connecticut on or after October 1, 1999.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158j",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158j",
+            "quote": "A requirement that the owner pay any amounts due to any contractor in a direct contractual relationship with the owner, or due to any subcontractor or supplier in a direct contractual relationship with the contractor, whether for labor performed or materials furnished, not later than thirty days after the date any written request for such payment has been made to the owner by such contractor, subcontractor or supplier;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158j",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158j",
+            "quote": "a requirement that the contractor pay any amounts due any subcontractor or supplier, whether for labor performed or materials furnished, not later than twenty-five days after the date the contractor receives payment from the owner which encompasses labor performed or materials furnished by such subcontractor or supplier;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158j",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158j",
+            "quote": "Ten days after the receipt of any notice specified in subdivisions (1), (2) and (3) of this subsection, the owner, contractor, subcontractor or supplier, as the case may be, shall be liable for interest on the amount due and owing at the rate of one per cent per month.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158j",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158j",
+            "quote": "No payment may be withheld from a subcontractor or supplier for work performed or materials furnished because of a dispute between a contractor and another contractor, subcontractor or supplier.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158k",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158k",
+            "quote": "No construction contract may provide for any retainage in an amount that exceeds five per cent of the estimated amount of a progress payment for the life of the construction project.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158i",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158i",
+            "quote": "“Construction contract” or “contract” means any contract for the construction, renovation or rehabilitation in this state on or after October 1, 1999, including any improvements to real property that are associated with such construction, renovation or rehabilitation, or any subcontract for construction, renovation or rehabilitation between an owner and a contractor, or between a contractor and a subcontractor or subcontractors, or between a subcontractor and any other subcontractor. “Construction contract” or “contract” does not include (A) any public works or other building contract entered into with this state, the United States, any other state, and any municipality or other political subdivision of this state or any other state, (B) a contract or project funded or insured by the United States Department of Housing and Urban Development, (C) a contract between an owner and a contractor for an amount of twenty-five thousand dollars or less or a subcontract which results from such a contract, or (D) a contract for a building intended for residential occupancy containing four or less units.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158j",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158j",
+            "quote": "Such interest shall accrue beginning on the date any such notice is received.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap said the interest clock 'starts ten days after the unpaid party's registered or certified mail notice'. § 42-158j(c)(4) says the payer 'shall be liable for interest' ten days after receipt but 'Such interest shall accrue beginning on the date any such notice is received' (row CT_chap_742b_sec_42_158j, char 3,884, now an authority); the rule and trap now state both. 'an unpaid sub who only emails gets no statutory interest' was an inference and is replaced by what the text says about the form of notice. The owner's exposure cap in (c)(1) ('limited to the amount owed to the contractor by the owner for work performed under the contract at the date such notice is provided') was omitted and is now stated. The § 49-41a public-works sentence had no authority on the row and was cut from the served text (the section was read 2026-09-16; see below). The exclusions now track § 42-158i(2)(C) ('or a subcontract which results from such a contract'). Read in full 2026-09-16: §§ 42-158i, 42-158j (subsections (a)-(e)), 42-158k, and § 49-41a (public works: thirty days after the general contractor is paid, one per cent per month interest ten days after notice). The escrow, attorneys'-fee and ten-per-cent bad-faith sentences of § 42-158j(c)(4) and the direct-payment demand in (e) are described from the text read, not quoted. No Connecticut Supreme Court opinion construing § 42-158j was found in a scan of us-caselaw-ct. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "statute-of-frauds",
+    "rule_id": "ct-52-550-writing-and-narrow-one-year-clause",
+    "question": "Which Connecticut contracts must be in a signed writing, and how far does the one-year clause reach?",
+    "rule": "Under § 52-550(a) no civil action may be maintained, unless the agreement or a memorandum of it is in writing and signed by the party to be charged or its agent, on: an executor's or administrator's special promise to answer damages out of his own property; a special promise to answer for the debt, default or miscarriage of another; an agreement made upon consideration of marriage; an agreement for the sale of real property or any interest in or concerning real property; an agreement that is not to be performed within one year from its making; or an agreement for a loan exceeding $50,000. The section does not apply to a parol lease of real property for one year or less under which the premises have been or are actually occupied (§ 52-550(b)). The one-year clause is read narrowly: a contract is not within it unless its terms are so drawn that it cannot by any possibility be performed fully within one year, and an oral contract that does not say, in express terms, that performance is to have a specific duration beyond one year is as a matter of law the functional equivalent of a contract of indefinite duration and outside the statute (C. R. Klewin v. Flagship Properties).",
+    "trap": "The list includes a loan agreement over $50,000, which must be in a writing signed by the party to be charged or its agent. Conversely, an oral agreement for work that will obviously take years is outside the one-year clause unless its terms expressly fix a duration beyond one year (Klewin: such a contract is outside the statute 'regardless of how long completion of performance will actually take'); Klewin construed only the one-year clause, not the other five categories. Where the Uniform Electronic Transactions Act applies (it covers only transactions between parties who have agreed to conduct them electronically, and has its own exclusions), an electronic record and signature satisfy a law requiring a writing and a signature (§ 1-272). The goods-contract statute of frauds (§ 42a-2-201) is not in our published statutes.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 52-550",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_923_sec_52_550",
+            "quote": "No civil action may be maintained in the following cases unless the agreement, or a memorandum of the agreement, is made in writing and signed by the party, or the agent of the party, to be charged: (1) Upon any agreement to charge any executor or administrator, upon a special promise to answer damages out of his own property; (2) against any person upon any special promise to answer for the debt, default or miscarriage of another; (3) upon any agreement made upon consideration of marriage; (4) upon any agreement for the sale of real property or any interest in or concerning real property; (5) upon any agreement that is not to be performed within one year from the making thereof; or (6) upon any agreement for a loan in an amount which exceeds fifty thousand dollars.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "220 Conn. 569",
+        "name": "C. R. Klewin, Inc. v. Flagship Properties, Inc.",
+        "court": "Conn.",
+        "decided": "1991",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "1d1e48237d5b6f53",
+            "cl_opinion_id": "7841972",
+            "quote": "It is the law of this state, as it is elsewhere, that a contract is not within this clause of the statute unless its terms are so drawn that it cannot by any possibility be performed fully within one year.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "220 Conn. 569",
+        "name": "C. R. Klewin, Inc. v. Flagship Properties, Inc.",
+        "court": "Conn.",
+        "decided": "1991",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "1d1e48237d5b6f53",
+            "cl_opinion_id": "7841972",
+            "quote": "We therefore hold that an oral contract that does not say, in express terms, that performance is to have a specific duration beyond one year is, as a matter of law, the functional equivalent of a contract of indefinite duration for the purposes of the statute of frauds. Like *584 a contract of indefinite duration, such a contract is enforceable because it is outside the proscriptive force of the statute regardless of how long completion of performance will actually take.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 1-272",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_015_sec_1_272",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because the record or signature is in electronic form. (b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in the formation of the contract. (c) If a law requires a record to be in writing, an electronic record satisfies the law. (d) If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap said an oral agreement for multi-year work 'is still enforceable' under Klewin; Klewin holds such a contract is 'outside the proscriptive force of the statute' as to the one-year clause (row title C. R. Klewin, char 22,644) and says nothing about the other categories of § 52-550(a), so 'enforceable' became 'outside the one-year clause'. 'a category many drafters miss' was a gloss with no authority and was cut. The § 1-272 sentence was unconditional although §§ 1-268 and 1-270(b) limit the Act; the condition is now stated. § 52-550(b) (occupied parol leases of one year or less) was in notes only and is now in the rule. § 52-550 read in full 2026-09-16 (subsection (b) excludes parol leases of one year or less where the premises are occupied). C. R. Klewin, Inc. v. Flagship Properties, Inc., 220 Conn. 569 (1991): Peters, C. J., for a unanimous court on questions certified by the Second Circuit; klewin-1 quotes Burkle v. Superflow Mfg. Co., 137 Conn. 488, 492 (1951), which the court reaffirmed; klewin-2 is the court's holding (char 22,644), including the star-page marker '*584' as published. Good-law scan: 9 later opinions mention 220 Conn. 569; the one flag hit (Jacobs v. Thomas, Conn. App. 1991) follows it. Title 42a (Connecticut's Uniform Commercial Code) is NOT in our published docketx/us-statutes/ct: a scan of all 29,710 published ct rows found no § 42a-* section and no text of the UCC provision, so no § 42a section is cited as an authority anywhere in this file. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "ct-cutsa-displaces-noncontract-claims-but-not-contract",
+    "question": "Does Connecticut's trade secrets act wipe out our NDA or confidentiality claims?",
+    "rule": "Not the contract. Unless otherwise agreed by the parties, CUTSA supersedes conflicting tort, restitutionary or other law pertaining to civil liability for misappropriation of a trade secret, but it does not affect contractual or other civil liability or relief not based on misappropriation of a trade secret (§ 35-57). In Dur-A-Flex v. Dy (2024) the Connecticut Supreme Court held that CUTSA preempts noncontractual civil claims against a former employee based on the acquisition, disclosure or use of confidential information that does not rise to the level of a trade secret, so a noncontractual claim for misappropriation of commercial information by a former employee must be brought under CUTSA or not at all, while CUTSA does not preclude parties from protecting sensitive information contractually if it does not meet the statutory definition of a trade secret.",
+    "trap": "Without a contract, a former employee owes no Connecticut common-law duty to keep confidential commercial information that falls short of a trade secret: Dur-A-Flex rejected a two-tier system and concluded that its dictum in Allen Mfg. Co. v. Loika suggesting such a duty no longer reflects the law. The court limited that: CUTSA does not preclude parties from protecting such information by contract, 'Nor does it foreclose actions in which the misuse of confidential information may be implicated but is not the wrong actually being alleged' (its examples are a current employee's duty of loyalty and the attorney-client duty of confidence). A trade secret is information that derives independent economic value from not being generally known or readily ascertainable and is the subject of efforts that are reasonable under the circumstances to maintain its secrecy (§ 35-51(d)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 35-57",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_625_sec_35_57",
+            "quote": "Unless otherwise agreed by the parties, the provisions of this chapter supersede any conflicting tort, restitutionary, or other law of this state pertaining to civil liability for misappropriation of a trade secret. (b) This chapter does not affect: (1) Contractual or other civil liability or relief that is not based upon misappropriation of a trade secret;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 35-51",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_625_sec_35_51",
+            "quote": "means information, including a formula, pattern, compilation, program, device, method, technique, process, drawing, cost data or customer list that: (1) Derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use, and (2) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "349 Conn. 513",
+        "name": "Dur-A-Flex, Inc. v. Dy",
+        "court": "Conn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "920466207fb126ab",
+            "cl_opinion_id": "10598309",
+            "quote": "We conclude, therefore, that CUTSA preempts non- contractual civil claims against a former employee based on the acquisition, disclosure, or use of confiden- tial information that does not rise to the level of a trade secret. A noncontractual claim based on the misappro- priation of commercial information by a former employee must be brought under CUTSA or not at all.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "349 Conn. 513",
+        "name": "Dur-A-Flex, Inc. v. Dy",
+        "court": "Conn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "920466207fb126ab",
+            "cl_opinion_id": "10598309",
+            "quote": "CUTSA, however, does not preclude parties from protecting sensitive infor- mation contractually if it does not meet the statutory definition of a trade secret.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "349 Conn. 513",
+        "name": "Dur-A-Flex, Inc. v. Dy",
+        "court": "Conn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "920466207fb126ab",
+            "cl_opinion_id": "10598309",
+            "quote": "we conclude that our dic- tum in Allen Mfg. Co. suggesting that a former employee has a common-law duty to maintain the confidentiality of information that does not constitute a trade secret no longer reflects the law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "349 Conn. 513",
+        "name": "Dur-A-Flex, Inc. v. Dy",
+        "court": "Conn.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "920466207fb126ab",
+            "cl_opinion_id": "10598309",
+            "quote": "Nor does it foreclose actions in which the misuse of confidential information may be implicated but is not the wrong actually being alleged.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap said non-trade-secret information 'has no Connecticut common-law protection against a departing employee' and closed with 'an NDA that is never enforced in practice can undercut the reasonable efforts element'. Dur-A-Flex's holding is about 'a former employee' and its footnote 46 (row 920466207fb126ab, char 188,168, now an authority) reserves 'actions in which the misuse of confidential information may be implicated but is not the wrong actually being alleged', naming a current employee's duty of loyalty; 'departing' became 'former' and the reservation is stated. The NDA-enforcement sentence was an inference from § 35-51(d) (the old notes admitted it) and was cut. §§ 35-51 and 35-57 read in full 2026-09-16. Dur-A-Flex, Inc. v. Dy, 349 Conn. 513 (2024): Alexander, J., for a unanimous court; row 920466207fb126ab opens with the official-release notice and syllabus, and the quotes are from the opinion (durflex-1 at char 202,029; durflex-2 is the court's footnote 46 at char 187,820). durflex-3 (char 194,283) is the opinion's own conclusion about Allen Mfg. Co. v. Loika, 145 Conn. 509 (1958); the syllabus says the same at char 26,906 but is not quoted. The court expressly did not address whether other claims involving breach of confidence not focused on commercially valuable information are preempted. Good-law scan: 9 later opinions mention 349 Conn. 513, none negative. The 'reasonable efforts' point in the trap is an inference from § 35-51(d), not a holding. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "unconscionability",
+    "rule_id": "ct-unconscionability-one-sided-at-formation-case-by-case",
+    "question": "When will a Connecticut court refuse to enforce a contract or clause as unconscionable?",
+    "rule": "When, in the light of the general commercial background and the commercial needs of the particular trade or case, the clauses involved are so one-sided as to be unconscionable under the circumstances existing at the time of the making of the contract; the determination is made case by case, taking into account all the relevant facts and circumstances (Cheshire Mortgage Service v. Montes). Substantive unconscionability focuses on the content of the contract; procedural unconscionability focuses on the process by which the allegedly offensive terms found their way into the agreement.",
+    "trap": "The test is measured at the time of the making of the contract, and it is fact-bound: in Cheshire Mortgage the borrowers argued illiteracy in English, lack of business acumen and no counsel, and the court said that 'Were the defendants’ arguments *90 based upon favorable factual findings, they might well have prevailed'; but the trial court had found them intelligent persons who understood the legal and financial systems and who defaulted because their marriage broke down, not because they misunderstood the loan or lacked income. Monthly mortgage payments of 67 percent of the income stated on the loan application did not make the loans unconscionable on that record, though the court noted a mortgagor might prevail where a court has found an intentional reaping of equity.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "223 Conn. 80",
+        "name": "Cheshire Mortgage Service, Inc. v. Montes",
+        "court": "Conn.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "ae518d49ce44ef3f",
+            "cl_opinion_id": "7842373",
+            "quote": "[t]he basic test is whether, in the light of the general commercial background and the commercial needs of the particular trade or case, the clauses involved are so one-sided as to be unconscionable under the circumstances existing at the time of the making of the contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "223 Conn. 80",
+        "name": "Cheshire Mortgage Service, Inc. v. Montes",
+        "court": "Conn.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "ae518d49ce44ef3f",
+            "cl_opinion_id": "7842373",
+            "quote": "The determination of unconscionability is to be made on a case-by-case basis, taking into account all of the relevant facts and circumstances.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "223 Conn. 80",
+        "name": "Cheshire Mortgage Service, Inc. v. Montes",
+        "court": "Conn.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "ae518d49ce44ef3f",
+            "cl_opinion_id": "7842373",
+            "quote": "Substantive unconscionability focuses on the “content of the contract,” as distinguished from procedural unconscionability, which focuses on the “process by which the allegedly offensive terms found their way into the agreement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "223 Conn. 80",
+        "name": "Cheshire Mortgage Service, Inc. v. Montes",
+        "court": "Conn.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "ae518d49ce44ef3f",
+            "cl_opinion_id": "7842373",
+            "quote": "Were the defendants’ arguments *90 based upon favorable factual findings, they might well have prevailed",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap described 'a payment that consumed nearly all their income' and said the claims failed because the trial court 'made no finding that the lender expected default'. The opinion's figure is that $806 of monthly mortgage payments 'represented 67 percent of their $1195 monthly income listed on the loan application' (row ae518d49ce44ef3f, char ~54,800), and what it says about the lender is that 'in a case where the court has found an intentional reaping of equity a mortgagor might prevail ... this record does not compel such an inference' (char ~16,500). Both facts are now stated as the opinion states them; the court's 'might well have prevailed' sentence (char 10,706) is added as an authority; the closing gloss 'needs findings, not just a lopsided result' was cut. Cheshire Mortgage Service, Inc. v. Montes, 223 Conn. 80 (1992): Borden, J., for the court with Shea, Callahan and Glass, Js.; Berdon, J., dissented in part and concurred in part in a separate row (6926f1d11ffc76e1). cheshire-1 is the court quoting Texaco, Inc. v. Golart (quoting Hamm v. Taylor and UCC § 2-302 official comment 1); cheshire-2 is the court's own sentence; cheshire-3 is from the majority's footnotes (char 53,791) quoting Calamari & Perillo. Skakel v. Commissioner (2018) lists Cheshire Mortgage among cases decided on reconsideration; the row read is the published opinion. The facts in the trap are read from the majority (chars 9,942-15,000). Good-law scan: 54 later opinions mention 223 Conn. 80, none overruling; the Appellate Court still quotes the basic test (e.g., Larobina v. Altice Media Solutions, 2024). Smith v. Mitsubishi Motors Credit of America (Conn. 1998) applies both aspects and was read only in the scan snippet. Title 42a (Connecticut's Uniform Commercial Code) is NOT in our published docketx/us-statutes/ct: a scan of all 29,710 published ct rows found no § 42a-* section and no text of the UCC provision, so no § 42a section is cited as an authority anywhere in this file."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "usury",
+    "rule_id": "ct-37-4-twelve-percent-37-8-no-action-and-37-9-exemptions",
+    "question": "What rate cap applies to a Connecticut loan, and what happens if the lender exceeds it?",
+    "rule": "No person, firm or corporation other than a pawnbroker as provided in § 21-44 may loan money and charge, or agree to receive, interest greater than twelve per cent per annum (§ 37-4), and 'No action shall be brought to recover principal or interest, or any part thereof' on a loan prohibited by §§ 37-4 to 37-6, or on any cause arising from its negotiation (§ 37-8): the bar reaches principal as well as interest. Section 37-9 lists loans the cap does not affect, including loans by any bank as defined in § 36a-2, by an out-of-state bank that maintains a branch in Connecticut, by a wholly-owned subsidiary of either (except a loan for consumer purposes) and by Connecticut or federal credit unions; any bona fide mortgage of real property for a sum over $5,000; commercial loans over $10,000 up to $250,000 at not more than the deposit index plus seventeen per cent; and commercial loans over $250,000 with no rate limit in the text. In Ferrigno the court held § 37-9(3) exempts a bona fide real estate mortgage LOAN over $5,000, so a deficiency judgment may be had on it despite an interest rate over twelve per cent.",
+    "trap": "The penalty is total: § 37-8 bars an action for principal as well as interest, so an unsecured private loan above twelve per cent to an individual can be uncollectable in full. The business-loan exemptions in § 37-9(4) depend on facts, not labels: a borrower 'engaged primarily in commercial, manufacturing, industrial or nonconsumer pursuits' whose funds are used in its business and not for consumer purposes. A loan to an individual for consumer purposes is outside them. 'Interest' for § 37-9 does not include attorney's fees, title search, closing, survey or recording fees paid by the borrower, but § 37-6 counts expenses of inquiry into the borrower's financial responsibility and of negotiating the loan toward the twelve per cent.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 37-4",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_673_sec_37_4",
+            "quote": "No person and no firm or corporation or agent thereof, other than a pawnbroker as provided in section 21-44 , shall, as guarantor or otherwise, directly or indirectly, loan money to any person and, directly or indirectly, charge, demand, accept or make any agreement to receive therefor interest at a rate greater than twelve per cent per annum.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 37-8",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_673_sec_37_8",
+            "quote": "No action shall be brought to recover principal or interest, or any part thereof, on any loan prohibited by sections 37-4 , 37-5 and 37-6 , or upon any cause arising from the negotiation of such loan.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 37-9",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_673_sec_37_9",
+            "quote": "any loan made by (A) any bank, as defined in section 36a-2 , or any out-of-state bank, as defined in section 36a-2 , that maintains in this state a branch",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 37-9",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_673_sec_37_9",
+            "quote": "any bona fide mortgage of real property for a sum in excess of five thousand dollars",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 37-9",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_673_sec_37_9",
+            "quote": "any loan made to a foreign or domestic corporation, statutory trust, limited liability company, general, limited or limited liability partnership or association organized for a profit or any individual, provided such corporation, trust, company, partnership, association or individual is engaged primarily in commercial, manufacturing, industrial or nonconsumer pursuits and provided further that the funds received by such corporation, trust, company, partnership, association or individual are utilized in such entity's business or investment activities and are not utilized for consumer purposes and provided further that the original indebtedness to be repaid is in excess of two hundred fifty thousand dollars",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "244 Conn. 189",
+        "name": "Ferrigno v. Cromwell Development Associates",
+        "court": "Conn.",
+        "decided": "1998",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "e837f779ec15b167",
+            "cl_opinion_id": "7845408",
+            "quote": "We conclude that § 37-9 (3) exempts a bona fide real estate mortgage loan of over $5000 from the purview of § 37-4 and consequently permits a deficiency judgment on such a loan with an interest rate in excess of 12 percent per annum.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 37-6",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_673_sec_37_6",
+            "quote": "No person and no firm or corporation, or agent thereof, shall charge a borrower with any expense of inquiry as to his financial responsibility or expense of negotiating a loan, or charge, at the time of making the loan, the expense of collecting the interest and principal of the loan, unless the total of such charges and of the interest agreed upon is, during any one year, twelve per cent of the loan or less.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the rule described § 37-9(2) as 'loans by banks with a Connecticut branch'; the text exempts 'any bank, as defined in section 36a-2, or any out-of-state bank ... that maintains in this state a branch' (the branch condition attaches only to out-of-state banks). § 37-4's own exception ('other than a pawnbroker as provided in section 21-44') was omitted. 'the lender forfeits principal' became the statute's own effect (no action may be brought); 'facts the lender must be able to prove' assigned a burden of proof that no text read states and was cut. §§ 37-5, 37-6 and 37-7 were read in full 2026-09-17 (the old notes said 37-5 and 37-6 were not read): § 37-5 forbids taking a note for more than was loaned with intent to evade § 37-4, § 37-6 forbids charging inquiry, negotiation or collection expenses unless those charges plus interest are twelve per cent of the loan or less in any year, § 37-7 is the criminal penalty. Read in full 2026-09-16: §§ 37-4, 37-8, 37-9 (all nine subdivisions; the deposit-index-plus-seventeen-per-cent band in (4)(A) is described from the text, not quoted; (7) motor vehicle, (8) student and (9) plan loans are not stated). § 37-9's closing sentence excludes attorney's fees, closing costs and similar charges from 'interest'. § 37-5 and § 37-6 were not read. Ferrigno v. Cromwell Development Associates, 244 Conn. 189 (1998): Callahan, C. J., for a unanimous court; it overruled in part Atlas Realty Corp. v. House, 120 Conn. 661 (1936). Good-law scan: 41 later opinions mention 244 Conn. 189; all ten flag hits describe Ferrigno as the case that overruled the earlier interpretation of § 37-9(3), none questions it. NOT established: whether federal preemption or Connecticut small-loan and consumer-credit licensing statutes (title 36a) change the answer for a particular lender. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. PROSE-CITATION SWEEP 2026-09-22: § 37-6 read in full (CT_chap_673_sec_37_6); block added for the expenses-count-toward-twelve-per-cent point."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "venue-selection",
+    "rule_id": "ct-42-158m-out-of-state-construction-forum-void",
+    "question": "Will a Connecticut court enforce a clause sending a construction dispute to another state's courts or arbitrators?",
+    "rule": "Not for a Connecticut construction site: any provision in a construction contract for work on a construction site located in Connecticut that purports to require that any dispute arising under the contract be mediated, arbitrated or otherwise adjudicated in or under the laws of a state other than Connecticut is void and of no effect, regardless of whether the contract was executed in Connecticut (§ 42-158m). 'Construction contract' is defined in § 42-158i as a contract for construction, renovation or rehabilitation in Connecticut on or after October 1, 1999, and excludes public works or other building contracts with the state, the United States, another state or a municipality, HUD-funded or HUD-insured contracts or projects, owner-contractor contracts of $25,000 or less and the subcontracts that result from them, and buildings intended for residential occupancy containing four or fewer units. In an action to enforce § 42-158m a court may award court costs and reasonable attorney's fees to the prevailing party (§ 42-158r).",
+    "trap": "The statute voids the forum and the chosen law together, and it cannot be avoided by signing the contract outside Connecticut. It is also the only Connecticut forum-clause rule verified here: outside construction, whether and when a Connecticut court enforces a forum selection clause was not established from our corpus (see notes), so this rule says nothing about ordinary commercial forum clauses.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158m",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158m",
+            "quote": "Any provision in a construction contract for the performance of work on a construction site located in this state that purports to require that any dispute arising under the construction contract be mediated, arbitrated or otherwise adjudicated in or under the laws of a state other than Connecticut shall be void and of no effect, regardless of whether the construction contract was executed in this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158i",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158i",
+            "quote": "“Construction contract” or “contract” means any contract for the construction, renovation or rehabilitation in this state on or after October 1, 1999, including any improvements to real property that are associated with such construction, renovation or rehabilitation, or any subcontract for construction, renovation or rehabilitation between an owner and a contractor, or between a contractor and a subcontractor or subcontractors, or between a subcontractor and any other subcontractor. “Construction contract” or “contract” does not include (A) any public works or other building contract entered into with this state, the United States, any other state, and any municipality or other political subdivision of this state or any other state, (B) a contract or project funded or insured by the United States Department of Housing and Urban Development, (C) a contract between an owner and a contractor for an amount of twenty-five thousand dollars or less or a subcontract which results from such a contract, or (D) a contract for a building intended for residential occupancy containing four or less units.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Conn. Gen. Stat. § 42-158r",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "CT_chap_742b_sec_42_158r",
+            "quote": "In an action to enforce the provisions of section 42-158k , 42-158m or 42-158p , a court may award court costs and reasonable attorney's fees to the prevailing party.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the rule gave § 42-158i's exclusions but not the definition's own date ('construction, renovation or rehabilitation in this state on or after October 1, 1999'), and did not read the rest of the chapter: § 42-158r (row CT_chap_742b_sec_42_158r) lets a court award costs and reasonable attorney's fees to the prevailing party 'In an action to enforce the provisions of section 42-158k , 42-158m or 42-158p'. Both are now stated and § 42-158r is an authority. §§ 42-158n to 42-158q were read and do not bear on § 42-158m. Read in full 2026-09-16: §§ 42-158i, 42-158m. Searched Connecticut Supreme Court and Appellate Court opinions for 'forum selection clause' near enforce/unreasonable/overreaching (10 hits): the Supreme Court hits concern personal jurisdiction over a nonsignatory (Meribear Productions v. Frank, 2021-22), a dissent in North Sails Group v. Boards & More (2021), and class certification (Standard Petroleum v. Faugno, 2018); none states Connecticut's test for enforcing a forum clause, so no general rule is stated. Appellate Court decisions (Connors v. Rolls-Royce, 2015; General Electric Capital v. Metz Family Enterprises, 2013) were not read in full. No Connecticut statute was found voiding forum clauses outside construction (search for venue/forum near 'another state' and void). This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "ct",
+    "clause": "warranty-disclaimer",
+    "rule_id": "ct-merchantability-disclaimer-must-mention-and-be-conspicuous",
+    "question": "What does a Connecticut disclaimer of implied warranties need to say to work?",
+    "rule": "To exclude or modify the implied warranty of merchantability the language must mention merchantability and, in a writing, must be conspicuous; to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous (§ 42a-2-316(2) as quoted in Western Dermatology Consultants v. VitalWorks). The Connecticut Supreme Court upheld a finding of no implied warranty of merchantability where the purchase order contained a provision expressly disclaiming it, conspicuously placed in large type on the reverse side (Web Press Services v. New London Motors), and the Appellate Court held effective a software contract's disclaimer that named merchantability and fitness and was set entirely in capital letters, in contrast with the mixed-case provisions around it (Western Dermatology).",
+    "trap": "A written disclaimer that does not mention merchantability, or is not conspicuous, does not meet the subsection (2) text quoted; the quoted text is expressly 'Subject to subsection (3)', whose other routes to exclusion were not verified. Web Press accepted a disclaimer on the reverse side of the purchase order that was 'conspicuously placed in large type'; it did not say which of placement or type size was decisive. The full text of § 42a-2-316, including subsection (3) (the 'as is' and examination rules), is not in our published statutes and is not stated here.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "203 Conn. 342",
+        "name": "Web Press Services Corp. v. New London Motors, Inc.",
+        "court": "Conn.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "7ec7d892a54443d4",
+            "cl_opinion_id": "7839998",
+            "quote": "conclusion that no implied warranty of merchantability existed, however, is adequately supported by the record because the purchase order for the vehicle contained a provision expressly disclaiming any implied warranty of merchantability. This provision was conspicuously placed in large type on the reverse side of the purchase order.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "146 Conn. App. 169",
+        "name": "Western Dermatology Consultants, P.C. v. VitalWorks, Inc.",
+        "court": "Conn. App.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "2d4acbf2b2aa7f8e",
+            "cl_opinion_id": "7864463",
+            "quote": "to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "146 Conn. App. 169",
+        "name": "Western Dermatology Consultants, P.C. v. VitalWorks, Inc.",
+        "court": "Conn. App.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ct",
+            "row_id": "2d4acbf2b2aa7f8e",
+            "cl_opinion_id": "7864463",
+            "quote": "The language in provision 9.2 mentions merchantability in satisfaction of § 42a-2-316 (2). Because *193 the disclaimer is in writing, it must also be conspicuous under",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17: the trap said Web Press accepted the reverse-side disclaimer 'because it was in large type'; the court's sentence is only that the provision 'was conspicuously placed in large type on the reverse side of the purchase order' (row title Web Press, char 18,914) and gives no reason. The Western Dermatology sentence now states what the panel relied on ('the language of the entire provision is in capital letters ... in contrast with the language of other provisions', char ~38,300) and that the disclaimer also named fitness. Web Press Services Corp. v. New London Motors, Inc., 203 Conn. 342 (1987): unanimous; the quote is majority text (char 18,914; the opinion ends at 35,107). Western Dermatology Consultants, P.C. v. VitalWorks, Inc., 146 Conn. App. 169 (2013): Flynn, J., for a unanimous Appellate Court panel; the statute is quoted there at char 36,855. The Supreme Court affirmed in part and reversed in part on other grounds, 322 Conn. 541 (2016) (row e57454195490963e, read in context: it reformulated the certified questions to the CUTPA choice-of-law issue and did not disturb the warranty-disclaimer holding). Koellmer v. Chrysler Motors Corp. (1970) and Emlee Equipment Leasing v. Waterbury Transmission (Conn. App. 1993) quote the same subsection and were not read in full. Good-law scan: 38 later opinions mention 203 Conn. 342, none with overruling language. Title 42a (Connecticut's Uniform Commercial Code) is NOT in our published docketx/us-statutes/ct: a scan of all 29,710 published ct rows found no § 42a-* section and no text of the UCC provision, so no § 42a section is cited as an authority anywhere in this file."
+  }
+]

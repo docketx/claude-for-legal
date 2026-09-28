@@ -1,0 +1,1143 @@
+[
+  {
+    "jurisdiction": "sd",
+    "clause": "anti-assignment",
+    "rule_id": "sd-57a-9-406-408-ineffective-for-accounts-general-intangibles",
+    "question": "Does our no-assignment clause stop the other side from assigning its right to be paid, or its rights under a license, permit, or franchise?",
+    "rule": "Mostly no, for the categories South Dakota's secured-transactions article protects. SDCL 57A-9-406(d) provides that, subject to listed exceptions, \"a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) Prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or (2) Provides that the assignment or transfer or the creation, attachment, perfection, or enforcement of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy.\" SDCL 57A-9-408(a) extends a parallel override to promissory notes, health-care-insurance receivables, and general intangibles -- expressly including \"a contract, permit, license, or franchise\" -- to the extent a restriction would impair the creation, attachment, or perfection of a security interest, or trigger a default merely because of the assignment.",
+    "trap": "Both overrides are narrower than \"any anti-assignment clause is unenforceable.\" Section 57A-9-406(e) carves the override back out for an outright SALE of a payment intangible or promissory note (as opposed to a security interest arising from one), other than a sale under the statute's own disposition or acceptance-of-collateral provisions -- so a straight sale of a note can still be blocked by a no-assignment clause in a fact pattern the override does not reach. Section 57A-9-408(b) is narrower still on its own terms: its override of a promissory-note or general-intangible anti-assignment term applies \"only if the security interest arises out of a sale\" of the payment intangible or promissory note. And even where a restriction is made ineffective, § 57A-9-408(d) strips the override of most of its practical force for the assignee: the resulting security interest is still \"not enforceable against\" the account debtor, imposes no duty on the account debtor to recognize it, pay the assignee, or accept the assignee's performance, and gives the secured party no right to the debtor's related information, trade secrets, or confidential materials. Neither section governs a security interest in an ownership interest in a general partnership, limited partnership, or limited liability company, and no South Dakota appellate opinion applying either section's ineffectiveness override to a contract's anti-assignment clause was located here -- treat the rule as statute-only until one is found.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-9-406",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_9_406",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) Prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-9-408",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_9_408",
+            "quote": "Would impair the creation, attachment, or perfection of a security interest; or",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 57A-9-406 and 57A-9-408 both read in full (12 and 7 subsections respectively). This row is statute-only. Fin-Ag, Inc. v. Feldman Bros. (2007 SD 105, docketx/us-caselaw-sd row b5af11cad07c69b5) was read and applies SDCL 57A-9-406, but only subsection (a)'s account-debtor discharge-by-payment rule ('an account debtor... may discharge its obligation by paying the assignor until... the account debtor receives a notification... that payment is to be made to the assignee'), and the opinion itself says 'A review of case law reveals no case directly on point' before turning to the statute for guidance by analogy -- it does not construe subsection (d)'s anti-assignment override at all, so it is not cited as authority for THIS rule's proposition. HONEST NEGATIVE: a full-text search of docketx/us-caselaw-sd for '57A-9-406' and '57A-9-408' found no opinion applying either section's ineffectiveness-of-anti-assignment-terms language to a contract's own no-assignment clause; that gap is reported rather than papered over."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "arbitration",
+    "rule_id": "sd-21-25a-1-valid-covers-employment-excludes-insurance",
+    "question": "Is this arbitration clause enforceable in South Dakota, and does it matter that this is an employment contract or an insurance policy?",
+    "rule": "A written arbitration agreement is presumptively valid, and South Dakota's version of the Uniform Arbitration Act expressly reaches employment agreements while excluding insurance policies. SDCL 21-25A-1: \"A written agreement to submit any existing controversy to arbitration or a provision in a written contract to submit to arbitration any controversy thereafter arising between the parties is valid, enforceable and irrevocable, save upon such grounds as exist at law or in equity for the revocation of any contract. This chapter also applies to arbitration agreements between employers and employees or between their respective representatives.\" Once a valid agreement is shown, SDCL 21-25A-5 makes enforcement close to automatic: \"On application of a party showing an agreement described in § 21-25A-1, and the opposing party's refusal to arbitrate, the court shall order the parties to proceed with arbitration.\" Rossi Fine Jewelers, Inc. v. Gunderson confirms the resulting presumption: \"If there is doubt whether a case should be resolved by traditional judicial means or by arbitration, arbitration will prevail.\"",
+    "trap": "South Dakota's Act takes the opposite position from states whose arbitration statutes exclude employer-employee agreements by default -- SDCL 21-25A-1's second sentence affirmatively brings employment arbitration agreements INTO the chapter rather than carving them out, so a drafter should not assume an opt-in clause is needed to make an employee arbitration agreement subject to this chapter. Insurance is treated the opposite way: SDCL 21-25A-3 removes insurance policies from the chapter entirely and goes further, making an arbitration or forum-limiting clause in an insurance policy affirmatively VOID: \"This chapter does not apply to insurance policies and every provision in any such policy requiring arbitration or restricting a party thereto or beneficiary thereof from enforcing any right under it by usual legal proceedings in ordinary tribunals or limiting the time to do so is void and unenforceable.\" That voiding rule has its own exception, though -- the same section preserves arbitration clauses between insurance companies themselves: \"nothing in this chapter may be deemed to impair the enforcement of or invalidate a contractual provision for arbitration entered into between insurance companies.\" A drafter should confirm which side of the insurance-policy line a clause falls on before assuming either the general validity rule or the insurance-policy voiding rule applies.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 21-25A-1",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_21_25A_1",
+            "quote": "A written agreement to submit any existing controversy to arbitration or a provision in a written contract to submit to arbitration any controversy thereafter arising between the parties is valid, enforceable and irrevocable, save upon such grounds as exist at law or in equity for the revocation of any contract. This chapter also applies to arbitration agreements between employers and employees or between their respective representatives.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 21-25A-3",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_21_25A_3",
+            "quote": "This chapter does not apply to insurance policies and every provision in any such policy requiring arbitration or restricting a party thereto or beneficiary thereof from enforcing any right under it by usual legal proceedings in ordinary tribunals or limiting the time to do so is void and unenforceable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "648 N.W.2d 812",
+        "name": "Rossi Fine Jewelers, Inc. v. Gunderson",
+        "court": "sd-sd",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "f0e2313209c85eda",
+            "cl_opinion_id": "900926",
+            "quote": "If there is doubt whether a case should be resolved by traditional judicial means or by arbitration, arbitration will prevail.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 21-25A-5",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_21_25A_5",
+            "quote": "On application of a party showing an agreement described in § 21-25A-1 , and the opposing party's refusal to arbitrate, the court shall order the parties to proceed with arbitration",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 21-25A-1, 21-25A-3, and 21-25A-5 all read in full; the chapter (21-25A-1 through 21-25A-38) surveyed by title to confirm scope. Rossi Fine Jewelers read in the surrounding paragraphs; the same day's companion case Nature's 10 Jewelers v. Gunderson (docketx/us-caselaw-sd rows 8d0e3a714620995e / f1fb118c71a26cc6) carries the identical holding and was not separately corpus-verified since it duplicates Rossi's text. Masteller v. Champion Home Builders, Co. (2006, docketx/us-caselaw-sd row daf0e1db67164504) confirms the chapter operates alongside the Federal Arbitration Act in consumer transactions but was not read in full or added as a formal authority here. DISTINCTIVE FINDING: § 21-25A-1's employer-employee inclusion is the opposite of Idaho's Uniform Arbitration Act carve-out for employer-employee agreements (Idaho Code § 7-901, this store's Idaho arbitration row), even though both states adopted the same uniform act -- confirmed by reading each state's own published text rather than assumed from the shared uniform-act lineage. HONEST NEGATIVE: no authority read for this row addresses severability (whether a challenge to the arbitration clause itself is for the court while a challenge to the whole contract goes to the arbitrator); that question was not researched for South Dakota. AUDIT 2026-09-22 (third pass, full read): the rule quoted § 21-25A-5 with no authority block behind it; added, verbatim (the corpus text carries a space before the comma after '§ 21-25A-1'). The law stated was right; the citation was incomplete."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "attorney-fees",
+    "rule_id": "sd-15-17-38-freedom-of-contract-fee-clauses-enforceable",
+    "question": "Can the prevailing party recover attorney fees in this South Dakota contract dispute, or does the contract have to say so?",
+    "rule": "South Dakota leaves attorney fees to the parties' own agreement outside a short list of specific statutory contexts. SDCL 15-17-38's first sentence states the default: \"The compensation of attorneys and counselors at law for services rendered in civil and criminal actions and special proceedings is left to the agreement, express or implied, of the parties.\" Stern Oil Co. v. Brown confirms that default operates as an independent basis for a fee award in an ordinary commercial dispute, not just as background policy: \"But an award of attorneys' fees is allowed when authorized by the parties' agreement or by statute.\" \"Thus, even if no statute authorizes an award of attorneys' fees, 'they are recoverable if the parties' contract so provides.'\"",
+    "trap": "SDCL 15-17-38's remaining sentences give the court DISCRETION to award fees, and only in a narrow list of proceedings: “The court, if appropriate, in the interests of justice, may award payment of attorneys' fees” -- divorce, annulment, paternity, custody, visitation, separate maintenance, support or alimony, trust administration, probate and guardianship, and mortgage foreclosure -- and that list does not include ordinary commercial contract litigation. The same section also carries the general route most fee statutes actually run through — “attorneys' fees may be taxed as disbursements if allowed by specific statute” — so “no fee clause” does not by itself mean “no fees” if some other statute allows them. Outside those listed proceedings, a party with no fee clause in its contract and no other specific fee statute on point recovers no attorney fees at all in South Dakota regardless of who prevails; Stern Oil's holding that fees are \"recoverable if the parties' contract so provides\" is also, read the other way, a statement that they are NOT recoverable if it does not. A drafter relying on a general \"prevailing party\" norm from another state should not assume South Dakota has a background statute that reaches a commercial dispute the way, for example, a mandatory commercial-transaction fee statute does elsewhere -- no such general commercial fee-shifting statute was located for South Dakota in the research for this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 15-17-38",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_15_17_38",
+            "quote": "The compensation of attorneys and counselors at law for services rendered in civil and criminal actions and special proceedings is left to the agreement, express or implied, of the parties.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "908 N.W.2d 144",
+        "name": "Stern Oil Co. v. Brown",
+        "court": "sd-sd",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "b61a7f967102a7ab",
+            "cl_opinion_id": "4245313",
+            "quote": "But an award of attorneys’ fees is allowed when authorized by the parties’ agreement or by statute.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL § 15-17-38 read in full (one section, several sentences covering the general rule plus the specific proceedings listed in the trap). Stern Oil Co. v. Brown (2018 SD 15) read in the surrounding paragraphs; the opinion itself quotes and applies Credit Collection Servs., Inc. v. Pesicka, 2006 S.D. 81, ¶ 6, for the second sentence ('they are recoverable if the parties' contract so provides') -- Pesicka was not independently corpus-verified for this row since Stern Oil's own row carries the sentence verbatim as its holding. Plains Commerce Bank v. Beck (docketx/us-caselaw-sd, located in the same citing search) was also read and confirms fee awards under § 15-17-38 come from either a contractual right or a specific authorizing statute, consistent with this rule; not added as a separate authority to keep the row focused, since Stern Oil states the same two-track rule more directly. HONEST NEGATIVE: no authority read for this row identifies a general South Dakota commercial-transaction fee-shifting statute comparable to Idaho's Idaho Code § 12-120(3); the search run here did not locate one, and this rule does not assume one exists. AUDIT 2026-09-22: the trap had described the listed proceedings as MANDATORY fee authority; § 15-17-38 says the court 'may award' and only 'if appropriate, in the interests of justice', so the word was replaced with the statute's own. The trap had also omitted the section's 'taxed as disbursements if allowed by specific statute' sentence, which is the route other fee statutes use; added."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "choice-of-law",
+    "rule_id": "sd-53-1-4-default-only-express-choice-of-law-clause-controls",
+    "question": "Will South Dakota honor this contract's governing-law clause, and what law applies if the contract is silent?",
+    "rule": "Yes, a party-chosen governing-law clause controls; South Dakota's statutory default rule fills the gap only when the contract has none. Culhane v. Thovson, addressing an agreement with no choice-of-law provision, explains what controls when one IS present: \"See also Restatement (Second) Conflict of L. § 187 (1971) (generally '[t]he law of the state chosen by the parties to govern their contractual rights and duties will be applied').\" Where the contract has no such clause, SDCL 53-1-4 supplies the default: \"A contract is to be interpreted according to the law and usage of the place where it is to be performed or, if it does not indicate a place of performance, according to the law and usage of the place where it is made.\" Culhane confirms that SDCL 53-1-4 is a gap-filler for contract interpretation, not the general choice-of-law rule for every contract question: \"SDCL 53-1-4 expressly relates to the law to be applied in interpreting a contract, and here, we are tasked with determining the enforceability or validity of the LSAs as written.\"",
+    "trap": "SDCL 53-1-4 applies only \"[i]n the absence of an effective choice of law by the parties\" -- Culhane's own framing, following Restatement (Second) of Conflict of Laws § 187 -- so a drafter cannot assume the statute's place-of-performance-then-place-of-contracting sequence overrides an express governing-law clause the parties actually wrote into the contract; it is the reverse: the express clause controls, and § 53-1-4 only fills a genuine silence. Culhane also flags that SDCL 53-1-4 is limited to CONTRACT INTERPRETATION questions on its own words, while a different Restatement framework (§§ 186-207, including § 196 for the validity of a services contract) may govern a question about a contract's ENFORCEABILITY OR VALIDITY rather than its meaning -- the two inquiries are not automatically the same body of law, though Culhane itself concluded the two approaches reached the same result on its facts. Separately, South Dakota's most-significant-relationship test from Chambers v. Dakotah Charter, Inc. (Restatement (Second) of Conflict of Laws § 145) is, by its own terms, a TORT choice-of-law test, not a contract one -- citing Chambers for a contract choice-of-law question, rather than the contract-specific Restatement sections, is citing the wrong body of law even though both arise under the same Restatement.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-1-4",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_1_4",
+            "quote": "A contract is to be interpreted according to the law and usage of the place where it is to be performed or, if it does not indicate a place of performance, according to the law and usage of the place where it is made.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2026 S.D. 23",
+        "name": "Culhane v. Thovson",
+        "court": "sd-sd",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "437510e32ebbc857",
+            "cl_opinion_id": "11311318",
+            "quote": "See also Restatement (Second) Conflict of L. § 187 (1971) (generally “[t]he law of the state chosen by the parties to govern their contractual rights and duties will be applied”).",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2026 S.D. 23",
+        "name": "Culhane v. Thovson",
+        "court": "sd-sd",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "437510e32ebbc857",
+            "cl_opinion_id": "11311318",
+            "quote": "SDCL 53-1-4 expressly relates to the law to be applied in interpreting a contract, and here, we are tasked with determining the enforceability or validity of the LSAs as written.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL § 53-1-4 read in full (one sentence). Culhane v. Thovson read in the surrounding pages (86,148 chars); as of this pass the opinion carries only a neutral South Dakota public-domain citation (2026 S.D. 23, decided 2026-04-15) with no North Western Reporter volume yet assigned, consistent with its recency -- the neutral citation is used in place of a reporter cite for that reason, following this store's practice for a very recent decision (see, e.g., this store's North Dakota Roth v. Meyer row). The case itself involved a contract with NO choice-of-law clause, so its holding that South Dakota law applied rests on SDCL 53-1-4's place-of-contracting branch and the parallel Restatement §§ 188/196 analysis, not on enforcing an express clause; the Restatement § 187 principle quoted here is the court's own statement of the rule that WOULD apply had the contract contained such a clause, cited by the court itself as the framework it was not able to use on these facts. Green v. Clinic Masters, Inc., 272 N.W.2d 813 (S.D. 1978) is referenced within Culhane ('We determined that such an intention was manifested through a choice of law provision... which we upheld') as an earlier case where South Dakota did enforce an express choice-of-law clause; Green was not independently corpus-verified for this row and is noted here as background, not cited as a formal authority. Briggs v. United Services Life Insurance Co., 117 N.W.2d 804, 807 (S.D. 1962), supplies the 'last act... necessary to complete the contract' test for place-of-contracting under § 53-1-4, quoted within Culhane; also not independently corpus-verified and not cited as a separate authority here. HONEST NEGATIVE: no authority read for this row states how South Dakota resolves a genuine conflict between an express choice-of-law clause and South Dakota's own strong public policy on a specific issue (the kind of override some states recognize); that question was not researched."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "sd-37-24-6-deceptive-act-reaches-more-than-consumers-plus-door-to-door-waiver-void",
+    "question": "Can a contract term cut off a South Dakota deceptive-trade-practices claim, and does the Act protect only individual consumers?",
+    "rule": "The Act's reach is broader than \"consumers\" alone, and for door-to-door sales specifically, putting a waiver of the buyer's rights into the contract is itself a deceptive act: SDCL 37-24-5.5 makes it “a deceptive act or practice, within the meaning of § 37-24-6, for any seller to include in any door to door contract or receipt any confession of judgment or any waiver of any of the rights to which the buyer is entitled under this chapter.” SDCL 37-24-6 makes it a deceptive act or practice to \"[k]nowingly act, use, or employ any deceptive act or practice, fraud, false pretense, false promises, or misrepresentation or to conceal, suppress, or omit any material fact in connection with the sale or advertisement of any merchandise... regardless of whether any person has in fact been misled, deceived, or damaged thereby,\" among other enumerated practices. Moss v. Guttormson confirms the private right of action under SDCL 37-24-31 is not limited to consumers in the ordinary sense: \"While SDCL Chapter 37-24 obviously assists consumers seeking relief as victims of deceptive trade practices, the broad statutory language includes more than only consumers.\" For door-to-door sales specifically, SDCL 37-24-5.5 makes any waiver of the buyer's statutory rights itself a deceptive act: \"It is a deceptive act or practice... for any seller to include in any door to door contract or receipt any confession of judgment or any waiver of any of the rights to which the buyer is entitled under this chapter including specifically his right to cancel the sale in accordance with the provisions of this chapter.\"",
+    "trap": "Moss's \"more than only consumers\" holding cuts against assuming a business-to-business contract is automatically outside the Act's reach the way it would be under a statute expressly limited to personal, family, or household purchasers -- SDCL 37-24-31's \"[a]ny person who claims to have been adversely affected\" language is broader on its face, and Moss read it that way. The door-to-door anti-waiver rule in § 37-24-5.5 is narrower in scope than it might first appear, though: it applies specifically to a \"door to door sale\" as SDCL 37-24-5.1 defines that term, and SDCL 37-24-5.2 excludes several common transaction types from that definition entirely -- a sale following the buyer's visit to a seller's fixed retail location, a sale already subject to Truth in Lending Act rescission rights, a buyer-initiated emergency repair with a signed waiver statement, a sale by mail or telephone with no other contact, and sales of real property, insurance, securities, motor vehicles, metal buildings, farm machinery, or mobile homes by a dealer with a fixed location. A contract that falls into one of those exclusions is not a \"door to door sale\" for § 37-24-5.5 purposes even if it was in fact negotiated away from the seller's place of business.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 37-24-6",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_37_24_6",
+            "quote": "Knowingly act, use, or employ any deceptive act or practice, fraud, false pretense, false promises, or misrepresentation or to conceal, suppress, or omit any material fact in connection with the sale or advertisement of any merchandise or the solicitation of contributions for charitable purposes, regardless of whether any person has in fact been misled, deceived, or damaged thereby;",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 37-24-5.5",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_37_24_5_5",
+            "quote": "It is a deceptive act or practice, within the meaning of § 37-24-6 , for any seller to include in any door to door contract or receipt any confession of judgment or any waiver of any of the rights to which the buyer is entitled under this chapter including specifically his right to cancel the sale in accordance with the provisions of this chapter.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "551 N.W.2d 14",
+        "name": "Moss v. Guttormson",
+        "court": "sd-sd",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "fdc390798c533145",
+            "cl_opinion_id": "1302397",
+            "quote": "the broad statutory language includes more than only consumers. The statute provides,",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 37-24-6 and 37-24-5.5 read in full; § 37-24-5.1 (door-to-door sale definition) and § 37-24-5.2 (exclusions) also read in full and relied on for the trap. Moss v. Guttormson read in the surrounding paragraphs; the opinion also quotes SDCL 37-24-31's 'any person who claims to have been adversely affected' text and SDCL 37-24-1(8)'s broad 'person' definition (natural person, partnership, LLC, corporation, trust, association, 'and any other legal entity') to support its holding that the Act reaches more than individual consumers. Nygaard v. Sioux Valley Hospitals & Health System (2007, docketx/us-caselaw-sd row 0999d0b0ffd1f7d0) and Wyman v. Terry Schulte Chevrolet, Inc. (1998, row 65f5b04a05b60aa7) were also read and apply § 37-24-6(1) in contract-adjacent disputes but are not added as separate authorities to keep the row focused, since Moss's holding on the Act's scope is the more directly useful proposition for a contract-drafting question. HONEST NEGATIVE: no authority read for this row addresses whether a general (non-door-to-door) consumer contract can waive Chapter 37-24 rights by its own terms; the anti-waiver rule confirmed here is specific to door-to-door sales under § 37-24-5.5, and no broader anti-waiver provision reaching every transaction under the chapter was located. AUDIT 2026-09-22 (force-word pass over the 13 rules the sampled audit did not reach): the rule had said a door-to-door contract 'cannot waive the buyer's statutory rights at all'; § 37-24-5.5 does not say the waiver is void or ineffective -- it makes INCLUDING one a deceptive act or practice, with the chapter's remedies. Rewritten to the section's own words. Same shape as the three sampled corrections: a force the statute does not state. The rule_id's 'waiver-void' is left as the key; the prose no longer claims it."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "electronic-signature",
+    "rule_id": "sd-53-12-uniform-electronic-transactions-act-opt-in-by-agreement",
+    "question": "Is an electronically signed version of this contract valid in South Dakota, and do both sides have to agree to sign electronically?",
+    "rule": "Yes, South Dakota's Uniform Electronic Transactions Act gives an electronic record or signature the same legal effect as a paper one, but the chapter applies only as between parties who have agreed to transact electronically. SDCL 53-12-2: \"Except as otherwise provided in § 53-12-3, this chapter applies to electronic records and electronic signatures relating to a transaction.\" That coverage is conditioned by SDCL 53-12-8: \"This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.\"",
+    "trap": "The chapter's applicability turns entirely on agreement-in-fact between both sides, not on a party's mere capacity to transact electronically -- silence, or one party's unilateral practice of sending documents by email, does not by itself satisfy § 53-12-8's \"agreed to conduct transactions by electronic means\" test, which looks at context and conduct on both sides. SDCL 53-12-3 also excludes several categories from the chapter entirely regardless of the parties' agreement: the Uniform Probate Code and other law governing wills, codicils, or testamentary trusts; most of the Uniform Commercial Code (everything except §§ 57A-1-107, 57A-1-206, and chapters 57A-2, 57A-2A, and 57A-9); and transactions under the Unified Judicial System's own rules. A drafter relying on the Act for a document within one of those excluded categories -- a will, a negotiable instrument outside Article 2/2A/9, or a court filing -- is relying on a chapter that, by its own § 53-12-3, does not reach it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-12-2",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_12_2",
+            "quote": "Except as otherwise provided in § 53-12-3 , this chapter applies to electronic records and electronic signatures relating to a transaction.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-12-8",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_12_8",
+            "quote": "This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-12-3",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_12_3",
+            "quote": "This chapter does not apply to a transaction to the extent it is governed by: (1) The Uniform Probate Code or other law governing the creation and execution of wills, codicils, or testamentary trusts;",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 53-12-1 through 53-12-8 read in full; the chapter as a whole (53-12-1 through 53-12-45) surveyed by title, including § 53-12-1's definitions of 'blockchain technology' and 'electronic signature' expressly including a signature 'secured through blockchain technology' -- a more recent addition than the ND/ID sibling chapters this store has covered, not relied on for this rule but noted as a currency observation. This row is statute-only. HONEST NEGATIVE, genuinely searched: full-text scans of docketx/us-caselaw-sd for '53-12-8', 'Uniform Electronic Transactions Act', and 'UETA' each returned zero on-point South Dakota opinions. No South Dakota appellate opinion applying Chapter 53-12 was located in this corpus."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "lien-waiver",
+    "rule_id": "sd-44-9a-lien-waiver-only-by-joint-check-and-separate-agreement",
+    "question": "Is this construction lien-waiver clause effective in South Dakota?",
+    "rule": "Chapter 44-9A is not the only way a South Dakota lien can be waived, and it does not say a waiver outside it is void: it supplies ONE route, expressly “in addition to all other means presently existing under law by which such liens may be waived.” What the chapter does do is set out that route exactly, and a waiver that claims to use it must meet both of its requirements. SDCL 44-9A-1: \"Liens for materials, supplies, equipment, and services furnished under construction contracts to contractors or subcontractors and arising under Title 5 or Title 44 of the South Dakota Codified Laws or by virtue of the common law of this state may be expressly waived as provided in this chapter in addition to all other means presently existing under law by which such liens may be waived.\" The chapter's own mechanism, under SDCL 44-9A-2, is that a lien \"may be waived to the extent provided in this chapter... by the endorsement of a joint check wherein the payees include the contractor or subcontractor and the person or corporation furnishing materials, supplies, equipment, and services and by the execution of a separate agreement of waiver between the maker of the joint check and such person or corporation.\" SDCL 44-9A-4 confirms the effect: \"The endorsement of a joint check as provided herein and the execution of a separate written agreement of waiver... shall constitute an express waiver of all rights and claims under Title 5 and Title 44 of the South Dakota Codified Laws and the common law of this state against the owner or contractor and his surety to the extent of, and as of the date of, the joint check endorsed.\"",
+    "trap": "Chapter 44-9A's own mechanism requires TWO things together -- a joint check naming both the contractor/subcontractor and the materials/services supplier as payees, AND a separate written waiver agreement between the check's maker and that supplier -- so a waiver clause buried in a purchase order or general contract, without both the joint check and the separate agreement, has not used the chapter's own waiver route. SDCL 44-9A-3 adds a drafting requirement even for parties using the joint-check route: the joint check itself must carry a CONSPICUOUS provision on its reverse side referencing the separate waiver agreement and stating that the payees, by endorsing, waive their claims to the extent of the check's date and amount -- a joint check without that conspicuous reverse-side language does not satisfy the chapter on its own words. Chapter 44-9A also does not displace \"all other means presently existing under law\" by which a lien may be waived, so a waiver executed some other way is not necessarily invalid merely because it did not follow this chapter's specific route -- but no South Dakota appellate opinion applying or construing Chapter 44-9A was located, so how a court weighs a non-conforming waiver against this chapter's specific mechanism is not established here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 44-9A-1",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_44_9A_1",
+            "quote": "Liens for materials, supplies, equipment, and services furnished under construction contracts to contractors or subcontractors and arising under Title 5 or Title 44 of the South Dakota Codified Laws or by virtue of the common law of this state may be expressly waived as provided in this chapter in addition to all other means presently existing under law by which such liens may be waived.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 44-9A-2",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_44_9A_2",
+            "quote": "may be waived to the extent provided in this chapter by such person or corporation by the endorsement of a joint check wherein the payees include the contractor or subcontractor and the person or corporation furnishing materials, supplies, equipment, and services and by the execution of a separate agreement of waiver between the maker of the joint check and such person or corporation.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 44-9A-4",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_44_9A_4",
+            "quote": "The endorsement of a joint check as provided herein and the execution of a separate written agreement of waiver by a person or corporation furnishing materials, supplies, equipment, and services to an owner, contractor, or a subcontractor shall constitute an express waiver of all rights and claims under Title 5 and Title 44 of the South Dakota Codified Laws and the common law of this state against the owner or contractor and his surety to the extent of, and as of the date of, the joint check endorsed.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 44-9A-1 through 44-9A-5 (the whole chapter) read in full. This row is statute-only. DISTINCTIVE FINDING: South Dakota's mechanics'-lien-waiver chapter is structurally different from the payment-triggers-effectiveness model this store has recorded for other states (e.g., New Jersey's N.J.S.A. 2A:44A-38, effective 'only upon and to the extent that such payment is actually received') -- South Dakota instead conditions waiver on a specific TRANSACTIONAL FORM (joint check plus separate written agreement, with a conspicuous reverse-side legend), not on a payment-received test as such; this was confirmed by reading the chapter's own text rather than assumed from another state's lien-waiver structure. HONEST NEGATIVE: a full-text search of docketx/us-caselaw-sd for '44-9A' and 'joint check' (lien context) returned zero on-point opinions. No South Dakota appellate opinion applying Chapter 44-9A was located in this corpus. AUDIT 2026-09-22: the rule opened 'Only if it follows South Dakota's specific joint-check-plus-separate-agreement mechanism', which contradicts the quote in the rule's own body — § 44-9A-1 makes the chapter's route additive, 'in addition to all other means presently existing under law by which such liens may be waived.' A reader relying on the old sentence would have concluded an ordinary contractual waiver is ineffective in South Dakota, which § 44-9A-1 does not say. Opening sentence rewritten to the statute's own scope; the two-part mechanism and the trap are unchanged."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "limitation-of-liability",
+    "rule_id": "sd-53-9-3-exculpatory-void-only-for-fraud-willful-injury-violation-of-law",
+    "question": "Will South Dakota enforce this clause releasing or capping our liability to the other party?",
+    "rule": "Yes, for ordinary negligence -- SDCL 53-9-3 voids an exculpatory clause only for a narrower set of misconduct. The statute provides: \"All contracts which have for their object, directly or indirectly, to exempt anyone from responsibility for his own fraud or willful injury to the person or property of another or from violation of law whether willful or negligent, are against the policy of the law.\" Domson, Inc. v. Kadrmas Lee & Jackson, Inc. confirms the negative implication directly: \"Although SDCL 20-9-1 mandates responsibility for injury caused by willful acts or want of ordinary care or skill, nothing in this statute prohibits one party from agreeing by contract to release a third party from liability for ordinary negligence.\"",
+    "trap": "Section 53-9-3's three categories -- the drafter's own fraud, willful injury, and a willful OR negligent violation of law -- are not the same as \"any negligence claim.\" In Domson the Supreme Court rejected the CONTRACTOR-plaintiff's attempt to void the engineering contract's exculpatory clause under § 53-9-3 where its own claim was professional negligence: the court held that \"Domson's suit against Dakota Engineering and KLJ alleges professional negligence, not a willful or negligent violation of law,\" so the clause fell outside the statute's third category even though ordinary negligence in the broad sense was involved. A clause releasing the drafter from its own ORDINARY negligence is therefore enforceable in South Dakota unless the claim can be recharacterized as fraud, willful injury, or a violation of some other law (willful or negligent) distinct from the general duty of ordinary care in SDCL 20-9-1. Nothing read for this rule addresses whether SDCL 53-9-3 treats GROSS negligence differently from ordinary negligence, or how a clause fares against a personal-injury claim as opposed to the professional-negligence claim in Domson; those are open questions this rule does not resolve.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-9-3",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_9_3",
+            "quote": "All contracts which have for their object, directly or indirectly, to exempt anyone from responsibility for his own fraud or willful injury to the person or property of another or from violation of law whether willful or negligent, are against the policy of the law.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "918 N.W.2d 396",
+        "name": "Domson, Inc. v. Kadrmas Lee & Jackson, Inc.",
+        "court": "sd-sd",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "43d921887c5dbe00",
+            "cl_opinion_id": "4313817",
+            "quote": "Although SDCL 20-9-1 mandates responsibility for injury caused by willful acts or want of ordinary care or skill, nothing in this statute prohibits one party from agreeing by contract to release a third party from liability for ordinary negligence.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL § 53-9-3 read in full (one sentence). Domson read in the surrounding paragraphs (39,187 chars); the opinion also quotes SDCL 20-9-1 in full ('Every person is responsible for injury to the person, property, or rights of another caused by his willful acts or caused by his want of ordinary care or skill...') and Lee v. Beauchene, 337 N.W.2d 827, 829 (S.D. 1983), for the same proposition that a contractual release is not prohibited by § 20-9-1; Lee v. Beauchene was not independently corpus-verified for this row since Domson's own holding covers the point. Domson also notes the argument was arguably waived below (not raised until a motion for reconsideration) but the court reached the merits anyway; the waiver point is procedural and not part of this rule. HONEST NEGATIVE: no authority read for this row addresses gross negligence, personal-injury (as opposed to commercial/professional-negligence) claims, or whether an exculpatory clause must be conspicuous or separately bargained-for to be enforced under § 53-9-3; none of the text read imposes such a requirement, but none was searched for specifically either. AUDIT 2026-09-22 (second pass, full read): the trap had said Domson rejected 'an engineering firm's attempt to void its own exculpatory clause'; the opinion records the opposite parties -- Domson, Inc., the contractor-plaintiff, moved for reconsideration 'assert[ing] that Paragraph 9.09 was unlawful under SDCL 53-9-3', and the court rejected Domson's argument ('nothing in this statute prohibits one party from agreeing by contract to release a third party from liability for ordinary negligence'). The holding quoted in the row is unchanged; the sentence describing who argued what is corrected."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "limitation-of-remedy",
+    "rule_id": "sd-57a-2-719-essential-purpose-and-57a-2-302-unconscionability",
+    "question": "Will South Dakota enforce this clause limiting our remedy or excluding consequential damages?",
+    "rule": "Yes, subject to two limits stated in SDCL 57A-2-719. First, failure of essential purpose: \"Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title.\" Second, unconsionability, stated asymmetrically: \"Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.\" SDCL 57A-2-302 supplies the procedural test a court uses to decide unconscionability, including for a remedy-limitation clause: \"If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.\" Schmaltz v. Nissen, quoting Durham v. Ciba-Geigy Corp. with approval, shows how South Dakota courts have applied that test against a one-sided remedy: \"One sided agreements whereby one party is left without a remedy for another party's breach are oppressive and should be declared unconscionable.\"",
+    "trap": "Subsection (3)'s asymmetry means a drafter cannot assume South Dakota treats a consequential-damages exclusion the same regardless of context: a consumer-goods personal-injury exclusion starts PRESUMED unconscionable, while an identical clause limiting only commercial loss is not. Schmaltz and its predecessor Hanson v. Funk Seeds International both held a seed-supplier's disclaimer-plus-remedy-limitation unconscionable even in a commercial farming transaction, reasoning (through Durham) that leaving the buyer \"without any substantial recourse for his loss\" is oppressive -- so \"commercial\" alone does not immunize a limitation clause the way it does the consumer/commercial line in subsection (3) itself. SDCL 57A-2-302(2) also imposes its own procedural requirement independent of the clause's wording: once unconscionability is claimed or appears to the court, the parties must be given \"a reasonable opportunity to present evidence as to its commercial setting, purpose and effect,\" so a court cannot rule on unconscionability from the contract's face alone without that opportunity. Nothing read for this rule states how South Dakota treats a clause that separates the exclusive-remedy provision from the consequential-damages exclusion into two distinct sentences; that drafting question is not resolved here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-2-719",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_2_719",
+            "quote": "Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-2-719",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_2_719",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-2-302",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_2_302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "431 N.W.2d 657",
+        "name": "Schmaltz v. Nissen",
+        "court": "sd-sd",
+        "decided": "1988",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "a8b2b5752102e613",
+            "cl_opinion_id": "2224809",
+            "quote": "One sided agreements whereby one party is left without a remedy for another party's breach are oppressive and should be declared unconscionable.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 57A-2-719 and 57A-2-302 both read in full. Schmaltz read in full (29,590 chars); the quoted sentence is Schmaltz reproducing Durham v. Ciba-Geigy Corp., 315 N.W.2d 696, 700 (S.D. 1982), with approval, and Schmaltz's own holding affirms the trial court's unconscionability finding on that authority -- Durham itself was not independently corpus-verified for this row since Schmaltz's row carries the same sentence verbatim and is the row identified as authority. Hanson v. Funk Seeds International (1985, docketx/us-caselaw-sd rows e13ac43d3c29933f / b0af2fbe6b83e825) was also read and confirms the same 'disclaimer clause to control liability... restrict the type of remedy' framework a year before Schmaltz applied it; not added as a separate authority to keep the row focused, since Schmaltz's own text discusses and adopts Hanson's holding. HONEST NEGATIVE: no authority read for this row states whether a South Dakota court would find a remedy-limitation clause unconscionable in a transaction between two sophisticated commercial parties of comparable bargaining power, as opposed to the farmer-versus-seed-supplier disparity present in both Schmaltz and Hanson; that question is left open rather than assumed either way."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "limitations-period",
+    "rule_id": "sd-15-2-13-six-year-contract-57a-2-725-four-year-goods-no-shortening-clause",
+    "question": "How long do we have to sue on this contract in South Dakota, and can the contract shorten that period?",
+    "rule": "Six years for a contract generally, four years for a sale of goods. SDCL 15-2-13(1) provides that, except where a different limitation is specially prescribed, \"[a]n action upon a contract, obligation, or liability, express or implied\" \"can be commenced only within six years after the cause of action shall have accrued.\" For a sale of goods, SDCL 57A-2-725(1) instead gives four years: \"An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued.\" Subsection (2) fixes accrual at breach regardless of discovery, with one exception: \"A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach. A breach of warranty occurs when tender of delivery is made, except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered.\"",
+    "trap": "South Dakota's own published text of SDCL 57A-2-725(1) does NOT carry the sentence found in the UCC's uniform text and in neighboring states' versions of this same section letting the ORIGINAL agreement shorten the four-year period to as little as one year -- the South Dakota subsection reads only \"must be commenced within four years after the cause of action has accrued,\" with no reduce-or-extend clause at all. A drafter assuming South Dakota follows the common UCC pattern of allowing a contractual reduction to one year is relying on text this statute does not contain, and that assumption is not resolved or extended here from any other state's version. Separately, subsection (3) lets a timely-commenced action that terminates without reaching a merits judgment be refiled within six months of that termination for the same breach, \"unless the termination resulted from voluntary discontinuance or from dismissal for failure or neglect to prosecute\" -- a safety valve a drafter relying only on the four-year headline number could overlook. Nothing read for this rule states whether a contract clause purporting to shorten the general six-year period under SDCL 15-2-13, outside the sale-of-goods context, is enforceable or void; that question is not addressed by any authority located here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 15-2-13",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_15_2_13",
+            "quote": "An action upon a contract, obligation, or liability, express or implied, excepting those mentioned in §§ 15-2-6 to 15-2-8 , inclusive, and subdivisions 15-2-15(3) and (4);",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-2-725",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_2_725",
+            "quote": "A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach. A breach of warranty occurs when tender of delivery is made, except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL § 15-2-13 read in full (7 subdivisions). SDCL § 57A-2-725 read in full (4 subsections). This row is statute-only for its rule text. Numerous South Dakota opinions apply § 15-2-13's six-year period in ordinary contract disputes (e.g., Johnson v. Johnson, 2024, docketx/us-caselaw-sd row 488b3cfaf9486f27: 'A breach of contract action is subject to a six-year statute of limitations, which begins when the cause of action accrues. SDCL 15-2-13.'; Sherman v. Sherman, 2000 SD 96, docketx/us-caselaw-sd row d00a54d7c9e869b1, applies § 57A-2-725's four-year period to a mixed goods/receivables transaction under the predominant-purpose test) but neither was corpus-verified as a formal authority here since the statutes' own text already states the rule cleanly; they are noted to show the periods are actively litigated, not to smuggle in an unverified gloss. DISTINCTIVE FINDING, stated in the trap: the absence of § 2-725's reduce-to-one-year sentence from South Dakota's published text was checked against the full text of SDCL § 57A-2-725 read for this row and is not an oversight in this research -- it is the section as currently published. HONEST NEGATIVE: no authority read for this row states whether SDCL 15-2-13's six-year period can be contractually shortened outside the sale-of-goods context (the North Dakota sibling rule for this store located N.D.C.C. § 9-08-05, a general anti-shortening statute; no South Dakota equivalent was searched for or found in this pass)."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "liquidated-damages",
+    "rule_id": "sd-53-9-4-5-liquidated-damages-question-of-law-burden-on-proponent",
+    "question": "Will South Dakota enforce this liquidated-damages clause, or treat it as a void penalty?",
+    "rule": "Only if it is a genuine pre-estimate of an otherwise hard-to-fix loss, and the burden of proving that is on the party relying on the clause. SDCL 53-9-4 provides: \"Penalties imposed by contract for any nonperformance thereof are void. This section does not void obligations penal in form such as heretofore have been commonly used, but it voids their penal clauses.\" SDCL 53-9-5 then supplies the narrow exception: \"Every contract in which amount of damage or compensation for breach of an obligation is determined in anticipation thereof is void to that extent except the parties may agree therein upon an amount presumed to be the damage for breach in cases where it would be impracticable or extremely difficult to fix actual damage.\" BankWest, N.A. v. Groseclose confirms how a court resolves which side of that line a clause falls on: \"Whether a forfeiture provision is a liquidated damages provision or an unenforceable penalty is a question of law for the court.\"",
+    "trap": "Section 53-9-4's default is void, not valid -- a forfeiture or default clause is presumptively an unenforceable penalty, and SDCL 53-9-5's escape hatch is available only where fixing actual damage in advance would have been impracticable or extremely difficult; a round number chosen for convenience, with no such showing, does not qualify. Because whether a clause is liquidated damages or a penalty is a question of LAW rather than a factual label the parties can settle by calling it \"liquidated damages\" in the contract, the label a drafter chooses does not control the outcome. Wandler v. Lewis and Safari, Inc. v. Verdoorn both apply §§ 53-9-4 and 53-9-5 to default provisions in contracts for deed, confirming the two sections reach real-property installment sales as well as ordinary commercial contracts; neither was independently corpus-verified for this rule since BankWest's holding covers the operative test. Council of Higher Education v. South Dakota Board of Regents also shows §§ 53-9-4 and 53-9-5 have been applied outside ordinary bilateral commercial contracts (there, a public employer's unilaterally imposed liquidated-damages clause in a labor dispute), though that case's ultimate holding on whether the sections reach collective bargaining agreements at all was not read for this rule and is not relied on here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-9-4",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_9_4",
+            "quote": "Penalties imposed by contract for any nonperformance thereof are void. This section does not void obligations penal in form such as heretofore have been commonly used, but it voids their penal clauses.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-9-5",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_9_5",
+            "quote": "Every contract in which amount of damage or compensation for breach of an obligation is determined in anticipation thereof is void to that extent except the parties may agree therein upon an amount presumed to be the damage for breach in cases where it would be impracticable or extremely difficult to fix actual damage.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "535 N.W.2d 860",
+        "name": "BankWest, N.A. v. Groseclose",
+        "court": "sd-sd",
+        "decided": "1995",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "8e10a8bba5fd3654",
+            "cl_opinion_id": "2001616",
+            "quote": "Whether a forfeiture provision is a liquidated damages provision or an unenforceable penalty is a question of law for the court.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "535 N.W.2d 860",
+        "name": "BankWest, N.A. v. Groseclose",
+        "court": "sd-sd",
+        "decided": "1995",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "8e10a8bba5fd3654",
+            "cl_opinion_id": "2001616",
+            "quote": "The burden of proving that a forfeiture clause is valid as a liquidated damages clause _ is upon the party relying on the clause.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 53-9-4 and 53-9-5 both read in full. BankWest read in the surrounding paragraphs (17,917 chars); it cites Safari, Inc. v. Verdoorn, 446 N.W.2d 44, 46 (S.D. 1989), for the question-of-law holding and states the burden of proving a forfeiture clause valid as liquidated damages is on the party relying on it -- that burden sentence carries what appears to be an OCR footnote-marker artifact (a literal underscore) in the published row's text and was not quoted directly for that reason; the question-of-law sentence quoted here is clean and independently sufficient. Council of Higher Education v. South Dakota Board of Regents (2002 SD 55, docketx/us-caselaw-sd rows f47881888e4f50a7 / 4c58821023a7ded6 / 3b772ad95cc0d958) was read for context showing §§ 53-9-4 and 53-9-5 litigated outside ordinary bilateral contracts, including a dissent stating 'SDCL 53-9-4 voids liquidated damages. SDCL 53-9-5 applies this public policy to \"every contract\" unless the parties agree to liquidated damages'; the majority/dissent split there turns on whether a collective bargaining agreement is a 'contract' for these sections' purposes, a question not resolved here and not needed for this rule's ordinary-commercial-contract scope. HONEST NEGATIVE: no authority read for this row states what specific factors (beyond impracticability of proof) a court weighs in deciding whether a stipulated amount was a genuine pre-estimate, such as the actual-vs-anticipated harm comparison North Dakota's Shull v. Walcker performs; that comparison was not located in any South Dakota opinion read here. AUDIT 2026-09-22: the rule's headline placed the burden on the party relying on the clause, but the quoted passage carried only the question-of-law holding, so the rule's own claim rested on text no quote showed. BankWest states it verbatim one sentence later; that sentence is now its own corpus quote on a second BankWest entry (including the opinion's stray underscore, reproduced as published) -- the two sentences are not adjacent in the opinion, and joining them into one quote failed verification, as it should."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "non-competition",
+    "rule_id": "sd-53-9-8-to-12-reasonableness-turns-on-quit-vs-fired",
+    "question": "Will a South Dakota court enforce this employee non-competition covenant?",
+    "rule": "Yes, within a two-year cap, but how much a court scrutinizes it depends on how the employment ended. SDCL 53-9-8 makes any contract restraining a lawful profession, trade, or business void \"except as provided by §§ 53-9-9 to 53-9-12, inclusive.\" SDCL 53-9-11 supplies the employment exception: an employee may agree, at hiring or at any time during employment, \"not to engage directly or indirectly in the same business or profession as that of the employer for any period not exceeding two years from the date of termination of the agreement and not to solicit existing customers of the employer within a specified county, first- or second-class municipality, or other specified area for any period not exceeding two years,\" so long as the employer keeps carrying on a like business there. Central Monitoring Service, Inc. v. Zakinski then supplies the enforcement rule that decides most disputes: \"We hold that if an employee voluntarily quits his employment or is fired for good cause, Centrol, Inc. and American Rim & Brake will control and no further showing of reasonableness will be necessary as long as the non-compete or non-disclosure agreement complies with SDCL 53-9-11. However, if an employee is fired for no fault of his own, the court needs to go further to determine whether the agreement is reasonable.\"",
+    "trap": "A covenant that fits inside SDCL 53-9-11's two-year cap and the specified-area requirement is not automatically enforced the way it would be against an employee who quit or was fired for cause -- Zakinski reversed an injunction and remanded for the trial court to weigh the Restatement (Second) of Contracts § 188 factors (no greater than needed to protect the employer, not unduly harsh on the employee, not injurious to the public) precisely because the employee there was fired through no fault of his own. Whether an employee's termination was voluntary, for cause, or without fault is therefore a threshold fact question that changes the entire legal test, not a detail collateral to enforceability. Separately, SDCL 53-9-11 itself is subject to SDCL 53-9-11.2 for contracts entered on or after July 1, 2023 (or July 1, 2026 for community services providers): a covenant restricting a \"practitioner\" as defined in § 53-9-11.1 from providing professional services after employment ends is voidable notwithstanding § 53-9-11, regardless of quit/fired status -- a category this rule does not otherwise cover.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-9-8",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_9_8",
+            "quote": "Any contract restraining exercise of a lawful profession, trade, or business is void to that extent, except as provided by §§ 53-9-9 to 53-9-12 , inclusive.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-9-11",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_9_11",
+            "quote": "an employee may agree with an employer at the time of employment or at any time during employment not to engage directly or indirectly in the same business or profession as that of the employer for any period not exceeding two years from the date of termination of the agreement and not to solicit existing customers of the employer within a specified county, first- or second-class municipality, or other specified area for any period not exceeding two years from the date of termination of the agreement, if the employer continues to carry on a like business therein.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "553 N.W.2d 513",
+        "name": "Central Monitoring Service, Inc. v. Zakinski",
+        "court": "sd-sd",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "c45918ef84586129",
+            "cl_opinion_id": "899991",
+            "quote": "We hold that if an employee voluntarily quits his employment or is fired for good cause, Centrol, Inc. and American Rim &amp; Brake will control and no further showing of reasonableness will be necessary as long as the non-eompete or non-disclosure agreement complies with SDCL 53-9-11.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "553 N.W.2d 513",
+        "name": "Central Monitoring Service, Inc. v. Zakinski",
+        "court": "sd-sd",
+        "decided": "1996",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "c45918ef84586129",
+            "cl_opinion_id": "899991",
+            "quote": "We hold that if an employee voluntarily quits his employment or is fired for good cause",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-9-11.2",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_9_11_2",
+            "quote": "Notwithstanding § 53-9-11 , a provision of a contract, entered into on or after July 1, 2023, is voidable if it restricts a practitioner, as defined in § 53-9-11.1 , from practicing or otherwise providing professional services in accordance with the applicable scope of practice, after the conclusion of the practitioner's employment or after the dissolution of a partnership or other form of professional relationship.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-9-11.2",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_9_11_2",
+            "quote": "Notwithstanding § 53-9-11 , a provision of a contract, entered into on or after July 1, 2026, is voidable if it restricts a community services provider, as defined in § 27B-1-17 , from employment in or otherwise providing services to individuals with developmental disabilities",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-9-11.1",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_9_11_1",
+            "quote": "For purposes of § 53-9-11.2 , a practitioner means: (1) A physician licensed in accordance with chapter 36-4 ; (2) A physician assistant licensed in accordance with chapter 36-4A ;",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 53-9-8 through 53-9-12 read in full, current text, plus § 53-9-11.2 (the 2023/2026 practitioner voidability exception referenced in the trap). Zakinski read in full (31,356 chars). The quoted corpus text carries an OCR artifact: the row's own text reads 'non-eompete' where the opinion says 'non-compete', and renders the ampersand in 'American Rim & Brake' as the literal entity '&amp;'; both are reproduced verbatim here because the store's quote rule is whitespace-only normalization -- retyping either as clean text fails verification against the published row. DISTINCTIVE FINDING, and the reason this row was not modeled on North Dakota's sibling non-competition row despite both states deriving § 9-08-06/53-9-8 from the same Field Code ancestor: North Dakota's statute has NO general exception for an ordinary employee non-compete (only sale-of-goodwill and partnership-dissolution exceptions), so a North Dakota employee covenant is void '§ 9-08-06... to that extent, full stop' outside those two narrow categories. South Dakota's § 53-9-11 is the opposite -- it is itself the employee-covenant exception, capped at two years -- and Zakinski confirms the quit/fired distinction as the operative test rather than a uniform reasonableness requirement. Zakinski's own citations show the quit/fired line traces to American Rim & Brake, Inc. v. Zoellner (382 N.W.2d 421) and Centrol, Inc. v. Morrow (1992, docketx/us-caselaw-sd row 7566b3a2724ac37e) for the quit/no-further-showing branch, and to 1st American Systems, Inc. v. Rezatto for the fired-without-fault balancing branch; neither of those two predecessor cases was independently corpus-verified for this row since Zakinski restates and applies both holdings directly. HONEST NEGATIVE: no authority read for this row addresses whether a covenant that specifies NO geographic area at all (as opposed to an area broader than 'specified') satisfies § 53-9-11's 'specified county, first- or second-class municipality, or other specified area' language for the non-solicitation branch; that question was not researched. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): Central Monitoring's holding was quoted with no block; the corpus text carries '&amp;' and an OCR'd 'non-eompete' inside the sentence, so its opening is quoted as a block. NUMBER SWEEP 2026-09-22 (every money, percentage, time-period and date figure in a statute-attributed sentence checked against the cited section's text): the trap's July 1, 2023 and July 1, 2026 dates and the practitioner definition are attributed to §§ 53-9-11.2 and 53-9-11.1, which the row did not cite; both read (SD_53_9_11_2 in full, SD_53_9_11_1 lead and list); blocks added."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "statute-of-frauds",
+    "rule_id": "sd-53-8-2-general-list-plus-57a-2-201-goods-500-threshold",
+    "question": "Does this contract need to be in writing to be enforceable in South Dakota?",
+    "rule": "Only if it falls on one of two overlapping lists. For contracts generally, SDCL 53-8-2 makes the following unenforceable by action \"unless the contract or some memorandum thereof is in writing and subscribed by the party to be charged or his agent, as authorized in writing\": (1) an agreement not to be performed within a year of its making; (2) an agreement made upon consideration of marriage, other than a mutual promise to marry; (3) an agreement for sale of real estate, or a lease of the same, for a period longer than one year; and (4) \"an agreement for a loan of money or for an extension of credit,\" with no dollar threshold at all, though the agreement \"may be enforced by a beneficiary for whom the agreement was made\" and certain regulated loans are specifically exempt. For a sale of goods, SDCL 57A-2-201(1) independently requires a signed record wherever the price is $500 or more: \"a contract for the sale of goods for the price of five hundred dollars or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party's authorized agent or broker.\"",
+    "trap": "Section 53-8-2(4)'s loan-and-credit-extension clause has NO dollar floor -- unlike Idaho's $50,000 threshold or North Dakota's $25,000 aggregate-loan threshold for their general statutes of frauds, South Dakota's text reaches an oral loan or credit extension of any size, subject only to the specific carve-out for loans under SDCL 51A-12-12 or chapter 54-11. A drafter importing a form from a state whose general statute of frauds stops at the classic categories (year, marriage, real property) will miss this. Separately, SDCL 57A-2-201 has its own real escape hatches a drafter relying on the general rule can overlook: subsection (2) lets a merchant's unanswered written confirmation bind the recipient within ten days, and subsection (3) makes the contract enforceable without any writing for specially manufactured goods once the seller has begun manufacture, for a quantity admitted in pleadings or testimony, or for goods actually paid for and accepted -- and subsection (3)(d) supplies South Dakota-specific rules for grain, grain sorghums, beans, pulse crops, and oil seeds that have no counterpart in most other states' UCC text.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-8-2",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_8_2",
+            "quote": "The following contracts are not enforceable by action unless the contract or some memorandum thereof is in writing and subscribed by the party to be charged or his agent, as authorized in writing:",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 53-8-2",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_53_8_2",
+            "quote": "An agreement for a loan of money or for an extension of credit, which agreement may be enforced by a beneficiary for whom the agreement was made, including, but not limited to, vendors of agricultural goods, services or products.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-2-201",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_2_201",
+            "quote": "Except as otherwise provided in this section a contract for the sale of goods for the price of five hundred dollars or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party's authorized agent or broker.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL § 53-8-2 read in full (4 categories). SDCL § 57A-2-201 read in full (3 subsections, including the (3)(d) grain/pulse-crop-specific confirmation rules). This row is statute-only for its rule text; the standing task instruction to record a statute-vs-opinion disagreement as unresolved rather than resolve it applies to a genuine finding here: Melstad v. Kovac (2006, docketx/us-caselaw-sd row 728298351ba6ee26, 2006 SD 122) quotes what it calls 'a provision of the Uniform Commercial Code codified in SDCL 57A-1-206(1)' -- a $5,000 catch-all statute of frauds for the sale of personal property 'not otherwise covered' by the goods (§ 57A-2-201), securities (§ 57A-8-113), or security-agreement (§ 57A-9-203) statutes of frauds. The CURRENT published text of SDCL § 57A-1-206 in this corpus is unrelated ('Presumptions': a rule about how a trier of fact treats a statutory presumption), indicating the residual personal-property statute of frauds Melstad applied in 2006 was renumbered or repealed when South Dakota later adopted Revised UCC Article 1. Melstad is NOT cited as an authority in this row because the text it construes is not the law as currently published; this is flagged so a later pass can confirm whether South Dakota's residual personal-property statute of frauds still exists elsewhere or was dropped outright, following this store's practice of correcting rather than assuming a section's content from an older case or a sibling state. HONEST NEGATIVE: no authority read for this row confirms whether § 53-8-2's real-property or not-within-a-year categories can overlap with, and require satisfying in addition to, § 57A-2-201's goods threshold for a single mixed transaction; that interplay (the same open question North Dakota's and Idaho's sibling rows flag) is left open here as well."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "sd-37-29-trade-secret-definition-and-contract-remedies-preserved",
+    "question": "Does South Dakota's Uniform Trade Secrets Act displace our contractual confidentiality remedies, and what counts as a protectable trade secret?",
+    "rule": "No -- the Act displaces only tort and restitutionary remedies for misappropriation, and expressly preserves contractual remedies. SDCL 37-29-7 provides: \"(a) Except as provided in subsection (b), this chapter displaces conflicting tort, restitutionary, and other law of this state providing civil remedies for misappropriation of a trade secret. (b) This chapter does not affect: (1) Contractual remedies, whether or not based upon misappropriation of a trade secret.\" Whether information actually qualifies as a trade secret is a separate, fact-intensive question under SDCL 37-29-1(4): the information must \"[d]erive[] independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use\" and be \"the subject of efforts that are reasonable under the circumstances to maintain its secrecy.\" DT-Trak Consulting, Inc. v. Kolda shows that generic skill and knowledge an employee develops on the job, and materials that change too often to hold stable value, can fail that test even when a confidentiality agreement labels them proprietary: the court, quoting the employee's own brief with approval, described the protocol notes as having \"changed daily[,] if not hourly, were not always customer specific,\" granted her summary judgment on that count, and concluded of the notes and her accumulated experience that \"neither meet the definition of a trade secret enunciated in SDCL 37-29-1(4)(i).\"",
+    "trap": "Labeling information \"Confidential Information\" or a \"trade secret\" in the contract does not make it one -- DT-Trak confirms that \"[t]he existence of a trade secret is a mixed question of law and fact,\" with the legal threshold question (could this information even qualify under § 37-29-1(4)'s first part) decided independent of the parties' own contractual label, and the remaining factual question (was it actually kept secret) decided separately. An employee's own accumulated skill, experience, and general industry know-how -- as opposed to the employer's own compiled proprietary information -- is the kind of thing DT-Trak found does not qualify, even where a confidentiality agreement purported to cover it. Because § 37-29-7(b)(1) preserves contractual remedies \"whether or not based upon misappropriation of a trade secret,\" a confidentiality or non-disclosure clause can still be enforced on its own contractual terms even where the specific information at issue turns out not to meet the statutory trade-secret definition -- but that contractual claim is a different cause of action from a misappropriation claim under the Act, and DT-Trak's own summary judgment ruling addressed only the statutory misappropriation counts, not a separate contract claim.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 37-29-7",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_37_29_7",
+            "quote": "Except as provided in subsection (b), this chapter displaces conflicting tort, restitutionary, and other law of this state providing civil remedies for misappropriation of a trade secret.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 37-29-7",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_37_29_7",
+            "quote": "This chapter does not affect: (1) Contractual remedies, whether or not based upon misappropriation of a trade secret;",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 37-29-1",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_37_29_1",
+            "quote": "Derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use; and",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "979 N.W.2d 304",
+        "name": "Dt-Trak Consulting, Inc. v. Kolda",
+        "court": "sd-sd",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "0a876c41c56bce55",
+            "cl_opinion_id": "9974640",
+            "quote": "existence of a trade secret is a mixed question of law and fact.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "979 N.W.2d 304",
+        "name": "Dt-Trak Consulting, Inc. v. Kolda",
+        "court": "sd-sd",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "0a876c41c56bce55",
+            "cl_opinion_id": "9974640",
+            "quote": "we conclude that neither meet the definition of a trade secret enunciated in SDCL 37-29-1(4)(i).",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "979 N.W.2d 304",
+        "name": "Dt-Trak Consulting, Inc. v. Kolda",
+        "court": "sd-sd",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "0a876c41c56bce55",
+            "cl_opinion_id": "9974640",
+            "quote": "the protocol notes, as Kolda emphasizes in her brief, “changed daily[,] if not hourly, were not always customer specific, and are not used by [Kolda] at San Carlos.” For this reason, we conclude that Kolda is entitled to summary judgment as a matter of law on Count 4.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "979 N.W.2d 304",
+        "name": "Dt-Trak Consulting, Inc. v. Kolda",
+        "court": "sd-sd",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "0a876c41c56bce55",
+            "cl_opinion_id": "9974640",
+            "quote": "it is difficult to conceive how these documents and Kolda’s work experience could be trade secrets or further, how Kolda is using, disclosing, or misappropriating any trade secret",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 37-29-1 and 37-29-7 both read in full; the whole chapter (37-29-1 through 37-29-11) surveyed by title. DT-Trak Consulting, Inc. v. Kolda read in the surrounding paragraphs (31,142 chars); the opinion also addresses and rejects a separate non-competition count on unrelated grounds (the employee's new job did not compete with the employer's business), not repeated here since that is this store's separate South Dakota non-competition row's subject. Daktronics, Inc. v. McAfee, 1999 S.D. 113 (cited within DT-Trak for the mixed-question-of-law-and-fact framing) was not independently corpus-verified since DT-Trak's own row states and applies the same rule directly. HONEST NEGATIVE: no authority read for this row states how South Dakota treats a covenant that combines a trade-secret confidentiality clause with a broader confidentiality clause reaching non-trade-secret proprietary information, beyond DT-Trak's fact-specific holding that daily-changing, non-customer-specific protocol notes did not qualify as a trade secret on the facts before it; a more general test for that distinction was not located. AUDIT 2026-09-22 (third pass, full read): the rule attributed the 'changed daily, if not hourly' words to the court as a holding; in the opinion they are Kolda's brief, quoted by the court 'as Kolda emphasizes in her brief' and relied on to grant summary judgment on Count 4. Rewritten to say who said it; the sentence added as a corpus quote so the rule's inline quotation is backed. HOLDING SWEEP 2026-09-22 (every rule/trap sentence stating what a named cited case held, scored against the case's quoted blocks; the 120 lowest-overlap sentences read against the opinions on the corpus host): the trap's DT-Trak point (an employee's own experience is not the employer's trade secret) is the opinion's; block added."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "usury",
+    "rule_id": "sd-54-3-1-1-no-usury-cap-by-written-agreement",
+    "question": "Does South Dakota cap the interest rate this contract can charge?",
+    "rule": "Not if the rate is set by a written agreement -- South Dakota abolished its general usury cap for written agreements outright. SDCL 54-3-1.1: \"Unless a maximum interest rate or charge is specifically established elsewhere in the code, there is no maximum interest rate or charge, or usury rate restriction between or among persons, corporations, limited liability companies, estates, fiduciaries, associations, or any other entities if they establish the interest rate or charge by written agreement. A written agreement is a document in writing, whether in physical or electronic form, in which the parties have demonstrated their agreement to the terms and conditions of an extension of credit, including the rate of interest.\" Only where the parties have NOT fixed a rate in writing do South Dakota's default statutory rates apply: SDCL 54-3-4 caps interest on an obligation to pay interest with no rate specified — “at a maximum rate of the Category C rate of interest as established in § 54-3-16” — which § 54-3-16(3) fixes at “twelve percent per year”, and SDCL 54-3-5 sets the default rate on money overdue on a written instrument, absent an express contract fixing a different rate, at the Category F rate, which § 54-3-16(6) fixes at “fifteen percent per year”, while § 54-3-5 adds that “[a]ny interest rate appearing on a bill, statement, or invoice may not exceed eighteen percent.”",
+    "trap": "Section 54-3-1.1's no-cap rule is conditioned entirely on there being a WRITTEN agreement fixing the rate -- an oral agreement to pay interest, or silence on rate altogether, falls back to SDCL 54-3-2's presumption that a loan of money is made upon interest \"unless it is otherwise expressly stipulated at the time in writing,\" and then to SDCL 54-3-4's or 54-3-5's capped default rates, not to an uncapped rate. The no-cap rule is also expressly subordinate to any OTHER rate cap \"specifically established elsewhere in the code\" -- a drafter should confirm no more specific statute (for a particular kind of lender or loan) sets a different ceiling before relying on § 54-3-1.1's general no-cap rule. Nothing read for this rule addresses federal preemption of any residual state usury restriction, and no South Dakota appellate opinion construing § 54-3-1.1's written-agreement no-cap rule was located in the research for this rule -- an honest gap, not a resolved one.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 54-3-1.1",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_54_3_1_1",
+            "quote": "there is no maximum interest rate or charge, or usury rate restriction between or among persons, corporations, limited liability companies, estates, fiduciaries, associations, or any other entities if they establish the interest rate or charge by written agreement.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 54-3-2",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_54_3_2",
+            "quote": "Whenever a loan of money is made it is presumed to be made upon interest, unless it is otherwise expressly stipulated at the time in writing.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 54-3-5",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_54_3_5",
+            "quote": "Any interest rate appearing on a bill, statement, or invoice may not exceed eighteen percent.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 54-3-4",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_54_3_4",
+            "quote": "Under an obligation to pay interest, no rate being specified, interest is payable from date of incurrence of debt, unless the parties have otherwise agreed, at a maximum rate of the Category C rate of interest as established in § 54-3-16 , and in the like proportion for a longer or shorter term.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 54-3-16",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_54_3_16",
+            "quote": "(3) Category C rate of interest is twelve percent per year; (4) Category D rate of interest is one percent per month or fraction thereof; (5) Category E rate of interest is four percent per year; (6) Category F rate of interest is fifteen percent per year;",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 54-3-5",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_54_3_5",
+            "quote": "Any interest rate appearing on a bill, statement, or invoice may not exceed eighteen percent.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL §§ 54-3-1.1, 54-3-2, 54-3-4, 54-3-5, and 54-3-16 (the official rate table) all read in full. This row is statute-only. DISTINCTIVE FINDING: § 54-3-1.1's written-agreement no-cap rule is the South Dakota provision (enacted in the early 1980s banking-deregulation era) that is popularly credited with drawing national credit-card issuers to charter in South Dakota; the current text was read directly rather than assumed from that reputation. Older case law applying a hard statutory usury ceiling and a four-part usury test -- Rollinger v. J.C. Penney Company (1971, docketx/us-caselaw-sd row fef64be85859f532) and State ex rel. Meierhenry v. Spiegel, Inc. (1979, row 90d02a9ce5d1b73c) -- predates § 54-3-1.1 and its holdings on the specific rate ceiling then in force are NOT cited as authority for current law here, since that ceiling no longer applies to a rate fixed by written agreement; citing pre-1.1 case law for a current cap would overstate the law. HONEST NEGATIVE: a full-text search of docketx/us-caselaw-sd for '54-3-1.1' returned zero opinions; no South Dakota appellate case construing the no-cap rule directly was located. AUDIT 2026-09-22 (third pass, full read): the rule stated the 12%, 15% and 18% figures from §§ 54-3-4, 54-3-16 and 54-3-5 without authority blocks for 54-3-4 or 54-3-16 and without the 54-3-5 cap sentence; all three added verbatim. Also: § 54-3-4 says 'at a MAXIMUM rate of the Category C rate', not that it 'sets the default rate at' it -- a ceiling, not a fixed default; the sentence now says so in the statute's words."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "venue-selection",
+    "rule_id": "sd-forum-selection-clause-enforced-unless-unfair-or-unreasonable",
+    "question": "Will a South Dakota court enforce this forum-selection clause requiring suit to be filed in a particular court?",
+    "rule": "Yes, South Dakota gives effect to a forum-selection clause unless enforcement would be unfair or unreasonable. Klenz v. AVI International states the rule, quoting Green v. Clinic Masters, Inc.: \"when the parties to a contract agree that actions arising from that contract will be brought in a particular jurisdiction, that agreement should be given effect unless it is shown that to do so would be unfair or unreasonable.\" Northland Capital Financial Services, LLC v. Robinson shows how a South Dakota court applies unambiguous, mandatory forum language: where a lease provided that \"any suit by either of the parties pursuant to this Lease... shall be in Stearns County District Court, Stearns County, Minnesota,\" the court held the clause \"unambiguously provides\" for that forum, and \"[t]he mandatory language for filing suit in Stearns County, Minnesota, applies to both parties\" -- enforcing the clause to require dismissal of a suit the plaintiff had filed in South Dakota instead.",
+    "trap": "\"Unfair or unreasonable\" is a real, fact-dependent standard, not a rubber stamp -- Klenz itself put the burden on the party resisting the clause and affirmed its enforcement for want of a showing — “We reverse Issue 2), but affirm Issue 3) on the basis that there is no sufficient showing that the forum selection clause is invalid” — while saying in the same opinion that “it remains difficult to determine whether the forum selection clause is unfair or unreasonable under South Dakota law because of the undeveloped record,” the record not specifying the litigation expenses, where the parties and witnesses were, or where the contract was executed and performed. So the standard is real, but the party invoking it has to build the record; a bare objection loses. A drafter should not read Northland Capital's easy enforcement of a mandatory, unambiguous clause between two commercial parties as meaning every forum clause will be enforced regardless of the circumstances; Green v. Clinic Masters' own authority (quoted within Klenz) cautions that such clauses \"are less likely to be sustained if they appear in adhesion contracts prepared in advance by one of the parties, and will generally be disregarded if genuine inconvenience or inadequacy of remedy would ensue from them.\" Mandatory language (\"shall be in\") matters to the analysis, as Northland Capital shows -- a permissive clause naming a forum without requiring suit to be brought only there presents a different question this rule does not address.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "647 N.W.2d 734",
+        "name": "Klenz v. AVI International",
+        "court": "sd-sd",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "d61f1109c943aa5e",
+            "cl_opinion_id": "900936",
+            "quote": "when the parties to a contract agree that actions arising from that contract will be brought in a particular jurisdiction, that agreement should be given effect unless it is shown that to do so would be unfair or unreasonable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "976 N.W.2d 252",
+        "name": "Northland Captial v. Robinson",
+        "court": "sd-sd",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "e76c7f16e65f0ffe",
+            "cl_opinion_id": "9974658",
+            "quote": "The forum selection clause in the Lease unambiguously provides that “any suit by either of the parties pursuant to this Lease . . . shall be in Stearns County District Court, Stearns County, Minnesota.”",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "976 N.W.2d 252",
+        "name": "Northland Captial v. Robinson",
+        "court": "sd-sd",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "e76c7f16e65f0ffe",
+            "cl_opinion_id": "9974658",
+            "quote": "The mandatory language for filing suit in Stearns County, Minnesota, applies to both parties.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "647 N.W.2d 734",
+        "name": "Klenz v. AVI International",
+        "court": "sd-sd",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "d61f1109c943aa5e",
+            "cl_opinion_id": "900936",
+            "quote": "We reverse Issue 2), but affirm Issue 3) on the basis that there is no sufficient showing that the forum selection clause is invalid.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "647 N.W.2d 734",
+        "name": "Klenz v. AVI International",
+        "court": "sd-sd",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "d61f1109c943aa5e",
+            "cl_opinion_id": "900936",
+            "quote": "it remains difficult to determine whether the forum selection clause is unfair or unreasonable under South Dakota law because of the undeveloped record and incomplete reasoning on the part of the trial court.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "647 N.W.2d 734",
+        "name": "Klenz v. AVI International",
+        "court": "sd-sd",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "d61f1109c943aa5e",
+            "cl_opinion_id": "900936",
+            "quote": "They are less likely to be sustained if they appear in adhesion contracts prepared in advance by one of the parties, and will generally",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "This row is case-only; no South Dakota statute governing the general enforceability of a private contract's forum-selection clause was located (SDCL 15-5's venue chapter addresses where an action may be brought absent a contractual clause, a different question not researched for this row). Klenz v. AVI International read in the surrounding paragraphs (28,149 chars); the majority applied the Green v. Clinic Masters rule and Bremen v. Zapata Off-Shore Co., 407 U.S. 1, 10 (1972) ('prima facie valid and should be enforced unless enforcement is shown by the resisting party to be unreasonable'), but remanded for further findings; a sharp concurrence (Sabers, J.) argued the record was adequate and the clause should have been enforced outright, which is recorded here to show the majority's remand was not unanimous, though the concurrence's own reasoning was not corpus-verified as a separate authority. Northland Capital v. Robinson read in the surrounding paragraphs (29,769 chars); note the case name is styled 'Northland Captial v. Robinson' (sic) in the published row's own title field, reproduced here exactly rather than silently corrected. Green v. Clinic Masters, Inc., 272 N.W.2d 813 (S.D. 1978), is quoted within Klenz's own text and was not independently corpus-verified as a separate row; its 'adhesion contracts' and 'genuine inconvenience' language used in the trap is Klenz's own quotation of Green, present verbatim in the Klenz row. HONEST NEGATIVE: no authority read for this row addresses a PERMISSIVE (non-mandatory) forum clause, or a clause selecting a forum outside the United States generally as opposed to the France-specific facts in Klenz; those variations are not resolved here. AUDIT 2026-09-22 (third pass, full read): the trap said Klenz 'remanded rather than assume enforceability'; the opinion has no remand -- it reversed on personal jurisdiction and AFFIRMED the forum clause 'on the basis that there is no sufficient showing that the forum selection clause is invalid', while noting the undeveloped record. The disposition was described backwards; rewritten, with both sentences added as corpus quotes. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): the Green sentence Klenz quotes carried no block (a page marker inside it); added up to the marker."
+  },
+  {
+    "jurisdiction": "sd",
+    "clause": "warranty-disclaimer",
+    "rule_id": "sd-57a-2-316-conspicuous-merchantability-or-as-is-alternate-route",
+    "question": "Does this \"AS IS\" / warranty-disclaimer clause validly exclude South Dakota's implied warranties?",
+    "rule": "Yes, through either of two independent routes under SDCL 57A-2-316. Route one, subsection (2): \"Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.\" Route two, subsection (3)(a), works without mentioning merchantability at all: \"unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like 'as is,' 'with all faults' or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty.\" James River Equipment Co. v. Beadle County Equipment, Inc. confirms route two is the only mechanism the UCC provides for an \"as is\" clause specifically: \"The UCC contemplates that only implied warranties can be disclaimed by use of 'as is' clauses.\"",
+    "trap": "James River's own framing is also the limit: \"as is\" language under subsection (3)(a) can exclude only IMPLIED warranties, never an express warranty the seller separately made -- a drafter who wants to disclaim implied warranties while an express warranty survives is using the right tool, but a drafter hoping \"as is\" also cancels a stray express representation is not. Subsection (3)(a) is itself qualified by \"unless the circumstances indicate otherwise,\" so surrounding facts can defeat even squarely worded \"as is\" language. Subsection (3)(b) is a separate, fact-driven route that has nothing to do with how the clause is worded: when the buyer before contracting has examined the goods (or a sample) as fully as desired, or has refused an offered examination, there is no implied warranty as to defects the examination ought to have revealed. Remedies for a warranty that is NOT excluded are governed separately by SDCL 57A-2-718 and 57A-2-719, not by this section.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-2-316",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_2_316",
+            "quote": "Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "SDCL § 57A-2-316",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "SD_57A_2_316",
+            "quote": "unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is,\" \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty; and",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "646 N.W.2d 265",
+        "name": "James River Equipment Co. v. Beadle County Equipment, Inc.",
+        "court": "sd-sd",
+        "decided": "2002",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-sd",
+            "row_id": "792d8519c00f8376",
+            "cl_opinion_id": "900946",
+            "quote": "The UCC contemplates that only implied warranties can be disclaimed by use of “as is” clauses.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "SDCL § 57A-2-316 read in full (subsections 1-4). James River Equipment read in the surrounding paragraphs; the opinion also cites the UCC official comment to § 2-316(3)(a) for the same 'only implied' limitation and applies it in a seller/buyer dispute over farm equipment. Schmaltz v. Nissen and Hanson v. Funk Seeds International (both docketx/us-caselaw-sd, cited in the limitation-of-remedy row below) also confirm SDCL 57A-2-316 disclaimers can independently be tested for unconscionability under SDCL 57A-2-302 even where conspicuousness is satisfied; that unconscionability layer is covered in this store's limitation-of-remedy row for South Dakota rather than repeated here. HONEST NEGATIVE: no authority read for this row addresses whether South Dakota treats a disclaimer printed on a delivery receipt or invoice, rather than the sales contract itself, as satisfying the 'conspicuous... in case of a writing' requirement; that packaging/timing question (the subject of Illinois's Razor line in this store) was not researched for South Dakota."
+  }
+]

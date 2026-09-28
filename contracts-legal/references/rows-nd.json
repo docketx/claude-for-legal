@@ -1,0 +1,1331 @@
+[
+  {
+    "jurisdiction": "nd",
+    "clause": "anti-assignment",
+    "rule_id": "nd-41-09-68-9-406-41-09-70-9-408-ineffective-for-accounts-general-intangibles",
+    "question": "Does our no-assignment clause stop the other side from assigning its right to be paid, or its rights under a license, permit, or franchise?",
+    "rule": "Mostly no, for the categories North Dakota's secured-transactions article protects. N.D.C.C. § 41-09-68 (UCC 9-406) provides that, subject to listed exceptions, \"a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: [p]rohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or\" it makes the assignment trigger a default or similar remedy. N.D.C.C. § 41-09-70 (UCC 9-408) extends a parallel override to promissory notes, health care insurance receivables, and general intangibles -- expressly including \"a contract, permit, license, or franchise\" -- to the extent a restriction \"[w]ould impair the creation, attachment, or perfection of a security interest; or\" trigger a default.",
+    "trap": "Both overrides are narrower than \"any anti-assignment clause is unenforceable.\" Section 41-09-68(5) carves the override back out for an outright SALE of a payment intangible or promissory note (as opposed to a security interest arising from one), other than a sale under the statute's own disposition or acceptance-of-collateral provisions -- so a straight sale of a note can still be blocked by a no-assignment clause in a fact pattern the override does not reach. Section 41-09-70(2) is narrower still on its own terms: its override of a promissory-note or general-intangible anti-assignment term applies \"only if the security interest arises out of a sale\" of the payment intangible or promissory note. And even where a restriction is made \"ineffective,\" § 41-09-70(4) strips the override of most of its practical force for the assignee: the resulting security interest is still \"not enforceable against\" the account debtor, imposes no duty on the account debtor to recognize it, pay the assignee, or accept the assignee's performance, and gives the secured party no right to the debtor's related information, trade secrets, or confidential materials. Neither section governs a security interest in an ownership interest in a general partnership, limited partnership, or limited liability company, and no North Dakota appellate opinion applying either section to a contract's anti-assignment clause was found here -- treat the rule as statute-only until one is found.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-09-68",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-09-68",
+            "quote": "Prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-09-70",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-09-70",
+            "quote": "Would impair the creation, attachment, or perfection of a security interest; or",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 41-09-68 and § 41-09-70 both read in full (12 and 6 subsections respectively; § 41-09-68 is unusually long because North Dakota's own numbering folds the 9-406/9-407 government-restriction override, the controllable-account/controllable-payment-intangible carve-out, and cross-references to § 41-02.1-33 (the equipment-lease analogue) into the same section). This row is statute-only. HONEST NEGATIVE: a keyword search of docketx/us-caselaw-nd for '41-09-68' returned zero opinions; a broader search was not run for '9-406' or '9-408' alone given the volume of unrelated hits those short strings would return in a full-text scan, so the absence of case law is reported as a search-scope limitation, not a certainty. Correcting the task brief's assumed section numbers: N.D.C.C. §§ 41-09-86/41-09-88 are NOT the anti-assignment sections -- they are (9-515) duration/lapse of a financing statement and (9-517) effect of indexing errors; the correct sections, located by a title search of the published statute file, are §§ 41-09-68 and 41-09-70."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "arbitration",
+    "rule_id": "nd-32-29-3-06-07-valid-agreements-court-decides-existence",
+    "question": "Is this arbitration clause enforceable in North Dakota, and who decides whether the underlying agreement exists?",
+    "rule": "A written arbitration agreement is presumptively valid and the court -- not the arbitrator -- decides the threshold question of whether one exists. N.D.C.C. § 32-29.3-06(1): \"An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract.\" Section 32-29.3-06(2) assigns that threshold question to the court: \"The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate.\" Once shown, N.D.C.C. § 32-29.3-07(1)(b) makes enforcement close to automatic if a party opposes: \"[T]he court shall proceed summarily to decide the issue and order the parties to arbitrate unless it finds that there is no enforceable agreement to arbitrate.\" Schwarz v. Gierke confirms this framework governs ordinary commercial and insurance-agency disputes: \"Chapter 32-29.3, N.D.C.C., contains the North Dakota Uniform Arbitration Act.\"",
+    "trap": "Chapter 32-29.3 is not the only North Dakota arbitration statute -- Chapter 32-29.4 is a separate act for family-law disputes (its definitions open: \"'Arbitration agreement' means an agreement that subjects a family law dispute to arbitration\"), so a commercial contract's clause is governed by Chapter 32-29.3 and a family-law arbitration is not. Section 32-29.3-04 also makes a list of the chapter's own protections NON-waivable before a controversy arises, including the validity rule of § 32-29.3-06(1) itself, the right to provisional remedies under § 32-29.3-08, and a party's right to be represented by a lawyer under § 32-29.3-16 (subject to a narrower carve-out letting an employer and a labor organization waive lawyer-representation in a labor arbitration) -- an arbitration clause that purports to waive any of these in advance is ineffective as to that term even if the rest of the clause is enforced.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 32-29.3-06",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_32-29_3-06",
+            "quote": "An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 32-29.3-07",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_32-29_3-07",
+            "quote": "If the refusing party opposes the motion, the court shall proceed summarily to decide the issue and order the parties to arbitrate unless it finds that there is no enforceable agreement to arbitrate.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "788 N.W.2d 302",
+        "name": "Schwarz v. Gierke",
+        "court": "nd-nd",
+        "decided": "2010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "e42c3c540c9a4c62",
+            "cl_opinion_id": "898787",
+            "quote": "Chapter 32-29.3, N.D.C.C., contains the North Dakota Uniform Arbitration Act. When an arbitration clause is at issue,",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 32-29.4-01",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_32-29_4-01",
+            "quote": "\"Arbitration agreement\" means an agreement that subjects a family law dispute to arbitration.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 32-29.3-04",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_32-29_3-04",
+            "quote": "Before a controversy arises that is subject to an agreement to arbitrate, a party to the agreement may not: - Waive or agree to vary the effect of the requirements of subsection 1 of section 32-29.3-05, subsection 1 of section 32-29.3-06, section 32-29.3-08, subsections 1 and 2 of section 32-29.3-17, or section 32-29.3-26 or 32-29.3-28;",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. §§ 32-29.3-04, 32-29.3-06, and 32-29.3-07 read in full; the chapter as a whole (32-29.3-01 through -30) was surveyed by title to confirm its scope and to identify Chapter 32-29.4 as a materially different act (titles alone -- 'Protection of party or child', 'Party participation', 'Temporary order or award' -- were read, not the full text of 32-29.4, which is an honest gap flagged in the trap rather than papered over). Schwarz v. Gierke read in the surrounding paragraphs (31,213 chars); the case holds the district court erred in denying a motion to compel arbitration brought by an insurance agent found to be the insurer's agent. Pagel v. Weikum (2023 ND, rows d2393559a23bde97/3ddf4e4c0a042937) and Kramlich v. Hale (2017 ND, row 9cc79ff57ff8461a) were also read and confirm § 32-29.3-06(2)'s court-decides-existence rule in later disputes but are not added as separate formal authorities to keep the row focused. HONEST NEGATIVE: no authority read for this row addresses severability (whether a challenge to the arbitration clause itself is for the court while a challenge to the whole contract goes to the arbitrator, the question Alaska's Lexington Marketing Group row in this store resolves) -- that question was not researched for North Dakota. AUDIT 2026-09-22 (full read of the North Dakota pack): the trap treated Chapter 32-29.4 as an unknown; its definitions say it is the family-law arbitration act (added verbatim). It also called § 32-29.3-06(1) 'the court's authority to decide arbitrability' -- that is subsection 2; subsection 1 is the validity rule, which is what § 32-29.3-04(2) makes non-waivable (added). Schwarz read at the holding (reversed; arbitration compelled). OVERSTATED (L)."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "attorney-fees",
+    "rule_id": "nd-28-26-01-freedom-of-contract-plus-frivolous-claim-fee-shifting",
+    "question": "Can the prevailing party recover attorney fees in North Dakota even if our contract is silent on fees, or does a fee clause need particular wording?",
+    "rule": "North Dakota leaves attorney fees to the parties' own agreement, with one statutory backstop that applies whether or not the contract addresses fees at all. N.D.C.C. § 28-26-01(1): \"Except as provided in subsection 2, the amount of fees of attorneys in civil actions must be left to the agreement, express or implied, of the parties.\" Subsection 2 then supplies a mandatory, fault-based exception operating independently of any contract clause: \"In civil actions the court shall, upon a finding that a claim for relief was frivolous, award reasonable actual and statutory costs, including reasonable attorney's fees to the prevailing party.\"",
+    "trap": "Subsection 1's freedom-of-contract default cuts both ways: North Dakota has no general statute making a one-way contractual fee clause reciprocal (unlike, for example, California's Civil Code § 1717), so a fee provision that by its own terms runs only in favor of one party is not read to run both ways absent language saying so or a separate reciprocity statute this rule did not locate. Subsection 2's frivolous-claim award is not limited to contract cases and does not require the losing party to have acted in bad faith -- its own text says the award applies \"regardless of the good faith of the attorney or party making the claim for relief if there is such a complete absence of actual facts or law that a reasonable person could not have thought a court would render judgment in that person's favor,\" but only if \"the prevailing party has in responsive pleading alleged the frivolous nature of the claim,\" and the subsection expressly does not reach a claim \"unwarranted under existing law\" that is \"supported by a good-faith argument for an extension, modification, or reversal of the existing law.\" A contractual fee clause and the frivolous-claim statute are two independent bases and can both be in play in the same case.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 28-26-01",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_28-26-01",
+            "quote": "Except as provided in subsection 2, the amount of fees of attorneys in civil actions must be left to the agreement, express or implied, of the parties.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 28-26-01",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_28-26-01",
+            "quote": "In civil actions the court shall, upon a finding that a claim for relief was frivolous, award reasonable actual and statutory costs, including reasonable attorney's fees to the prevailing party.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 28-26-01 read in full (2 subsections). This row is statute-only. Numerous North Dakota opinions apply subsection 2 to real fee awards (e.g., Sanderson v. Agotness, 2024 ND, row aa681cc4de21d29f; Bolinske v. Sandstrom, 2024 ND, row 9d1102d8de5923b0; Nelson v. Lindvig, 2024 ND, rows 80d82968623931e3/febeea4a7107ba3a) but none of these was corpus-verified or resolved to a reporter citation in this pass, so none is added as a formal authority; they are noted here only to show the subsection is actively litigated, not to smuggle in an unverified claim. HONEST NEGATIVE: no North Dakota appellate opinion applying subsection 1 to a specific contractual attorney-fee clause (as opposed to reciting the statute) was located or verified for this row. AUDIT 2026-09-22 (full read of the North Dakota pack): § 28-26-01(1)-(2) read whole; the trap's three quoted conditions are the subsection's own. CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "choice-of-law",
+    "rule_id": "nd-osborne-forum-and-choice-of-law-voided-to-evade-9-08-06-public-policy",
+    "question": "Will North Dakota honor this contract's choice of another state's law and forum, even where the other state would let a clause our own law voids be enforced?",
+    "rule": "Not if the effect is to let the parties evade a strong North Dakota public policy. Osborne v. Brown & Saenger, Inc. addressed a North Dakota employee's contract that chose South Dakota law and a South Dakota forum, and that also contained a non-compete clause void under N.D.C.C. § 9-08-06. Because South Dakota law would have let the employer enforce a limited non-compete that North Dakota's statute voids outright, the North Dakota Supreme Court refused to let the choice-of-law and forum-selection clauses accomplish that result: \"The non-compete clause is unenforceable under N.D.C.C. § 9-08-06 to the extent it limits Osborne from exercising a lawful profession, trade, or business in North Dakota,\" and, on the forum and choice-of-law clauses themselves, \"one may not contract for application of another state's law or forum if the natural result is to allow enforcement of a non-compete agreement in violation of North Dakota's longstanding and strong public policy against non-compete agreements.\"",
+    "trap": "Osborne's holding is expressly tied to the strength of North Dakota's specific public policy against non-competes -- the court traced that policy back to the 1866 Dakota Territory Civil Code and called § 9-08-06 one of the state's oldest and most continuous public-policy rules -- and nothing read for this rule extends the same override to an ordinary commercial risk-allocation choice-of-law clause that does not implicate a comparably strong North Dakota policy. A choice-of-law and forum clause chosen for garden-variety reasons (a lender's home-state law, a vendor's standard terms) is not shown by any authority read here to fail simply because North Dakota law would reach a different result on the merits; Osborne's rule is a public-policy override for a specific, well-established category of North Dakota law, not a general rule that North Dakota courts ignore parties' choice-of-law clauses whenever the chosen law is more permissive.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "904 N.W.2d 34",
+        "name": "Osborne v. Brown & Saenger, Inc.",
+        "court": "nd-nd",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "a6bd019576712bf0",
+            "cl_opinion_id": "4226848",
+            "quote": "The non-compete clause is unenforceable under N.D.C.C. § 9-08-06 to the extent it limits Osborne from exercising a lawful profession, trade, or business in North Dakota.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "904 N.W.2d 34",
+        "name": "Osborne v. Brown & Saenger, Inc.",
+        "court": "nd-nd",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "a6bd019576712bf0",
+            "cl_opinion_id": "4226848",
+            "quote": "one may not contract for application of another state’s law or forum if the natural result is to allow enforcement of a non-compete agreement in violation of North Dakota’s longstanding and strong public policy against non-compete agreements.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-08-06",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-08-06",
+            "quote": "A contract by which anyone is restrained from exercising a lawful profession, trade, or business of any kind is to that extent void, except:",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "904 N.W.2d 34",
+        "name": "Osborne v. Brown & Saenger, Inc.",
+        "court": "nd-nd",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "a6bd019576712bf0",
+            "cl_opinion_id": "4226848",
+            "quote": "The relevant portion of § 9-08-06 cited above was drawn-from the Field Code and originally enacted as a part of the Dakota Territory Civil Code of 1866.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "904 N.W.2d 34",
+        "name": "Osborne v. Brown & Saenger, Inc.",
+        "court": "nd-nd",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "a6bd019576712bf0",
+            "cl_opinion_id": "4226848",
+            "quote": "We have previously stated that § 9-08-06 “represents one of the oldest and most continuous applications of public policy in contract law.”",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Osborne v. Brown & Saenger, Inc. read in full (12,965 chars). The opinion applies N.D.C.C. § 28-04.1-03(5) (North Dakota's forum-non-conveniens-style statute allowing a forum-selection clause to be set aside if enforcement would be unfair or unreasonable) as the procedural vehicle, surveying Georgia's Lapolla Industries, Inc. v. Hess decision as persuasive out-of-state authority for the same evasion concern; § 28-04.1-03(5) itself was not independently read in full and is not cited as a separate authority here. QUOTE-QUALITY CAUTION: the opinion's OCR/extracted text is visibly degraded in several nearby sentences (e.g., 'we hold -the Choice' of Law/Forum clause', 'Osborne-. from exercising', 'publie policy', 'arid North Dakota') -- the two case quotes used in this row were deliberately chosen from cleaner sentences elsewhere in the same opinion and independently verified character-for-character (including the curly apostrophes ’ the row's own text uses) rather than reproducing the garbled passages. HONEST NEGATIVE: no authority read for this row addresses whether the same override applies to a contract governed by North Dakota law from the outset (no foreign-law detour), or to a choice-of-law clause that does not implicate § 9-08-06 specifically -- both are open questions, consistent with how this store's Alaska row (Long v. Holland America) flags the same kind of scope limit. AUDIT 2026-09-22 (full read of the North Dakota pack): Osborne read at the holding and at the trap's two historical claims, which now carry blocks. CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "nd-51-15-02-unlawful-sales-practices-act-seller-conduct-only-merchandise-scope",
+    "question": "Can North Dakota's Unlawful Sales or Advertising Practices Act reach a misrepresentation connected to our contract?",
+    "rule": "Yes, but only against the party who sold or advertised the merchandise, and only for conduct connected to that sale. N.D.C.C. § 51-15-02: \"The act, use, or employment by any person of any deceptive act or practice, fraud, false pretense, false promise, or misrepresentation, with the intent that others rely thereon in connection with the sale or advertisement of any merchandise, whether or not any person has in fact been misled, deceived, or damaged thereby, is declared to be an unlawful practice.\" Thimjon Farms Partnership v. First International Bank & Trust confirms the Act's private cause of action is limited to the selling party's own conduct: \"We construed the Act to apply 'only to the conduct of the person who sells or advertises merchandise.'\"",
+    "trap": "Thimjon Farms shows the Act does not reach a deceptive statement simply because it influenced a transaction the plaintiff was harmed by -- there, a bank's alleged misrepresentation was made to a THIRD PARTY (not to the plaintiffs) about future financing, and because that statement was not made \"in connection with the sale or advertisement of any merchandise\" by the bank TO the plaintiffs, the court held \"the provisions of the Act creating a private cause of action are inapplicable.\" A misrepresentation embedded in contract negotiations can still fall outside § 51-15-02 if the person who made it was not the one selling or advertising merchandise to the party now suing, or if the statement was not made in connection with that sale -- proximity between the deceptive statement and an actual sale to the plaintiff is doing real work in this test, not just the statement's falsity.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 51-15-02",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_51-15-02",
+            "quote": "The act, use, or employment by any person of any deceptive act or practice, fraud, false pretense, false promise, or misrepresentation, with the intent that others rely thereon in connection with the sale or advertisement of any merchandise, whether or not any person has in fact been misled, deceived, or damaged thereby, is declared to be an unlawful practice.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "837 N.W.2d 327",
+        "name": "Thimjon Farms Partnership v. First International Bank & Trust",
+        "court": "nd-nd",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "32c75912870d7478",
+            "cl_opinion_id": "1040151",
+            "quote": "We construed the Act to apply “only to the conduct of the person who sells or advertises merchandise.”",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 51-15-02 read in full (2 sentences). Thimjon Farms read in the surrounding paragraphs (39,534 chars); the opinion itself quotes and relies on Benz Farm, LLP v. Cavendish Farms, Inc., 2011 ND 184, ¶¶ 18, 20, 803 N.W.2d 818, for the 'only to the conduct of the person who sells or advertises merchandise' construction -- Benz Farm was not independently read or corpus-verified this pass, so the quote is sourced to Thimjon Farms's own restatement of it, which is itself a verified quote from a North Dakota Supreme Court opinion. HONEST NEGATIVE: no authority read for this row states whether a business buyer (as opposed to an individual consumer) can bring a § 51-15-02 claim -- N.D.C.C. § 51-15-01(5)'s definition of 'sale' was read only in the excerpt quoted within Thimjon Farms ('any charitable solicitation or any sale, offer for sale, or attempt to sell any merchandise [including services] for any consideration') and was not independently read in full from the statute file for this row. AUDIT 2026-09-22 (full read of the North Dakota pack): § 51-15-02 whole (its second, unconscionable-practice sentence is not used by the rule); Thimjon read at the holding and disposition (affirmed). CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "electronic-signature",
+    "rule_id": "nd-9-16-04-06-uniform-electronic-transactions-act-opt-in-by-agreement",
+    "question": "Is an electronically signed version of this contract valid in North Dakota, and do both sides have to agree to sign electronically?",
+    "rule": "Yes, North Dakota's Uniform Electronic Transactions Act gives an electronic record or signature the same legal effect as a paper one, but only as between parties who have agreed to transact electronically. N.D.C.C. § 9-16-06(1)-(2): \"A record or signature may not be denied legal effect or enforceability solely because the record or signature is in electronic form,\" and \"[a] contract may not be denied legal effect or enforceability solely because an electronic record was used in the contract's formation.\" That coverage is conditioned by N.D.C.C. § 9-16-04(2): \"This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct transactions by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.\"",
+    "trap": "The chapter's applicability turns entirely on agreement-in-fact, not on a party's mere capacity to transact electronically -- silence, or one party's unilateral practice of sending documents by email, does not by itself satisfy § 9-16-04(2)'s 'agreed to conduct transactions by electronic means' test, which looks at context and conduct on both sides. And even a party who has agreed to conduct SOME transactions electronically keeps a non-waivable right to refuse to do so for other transactions: § 9-16-04(3) states that right 'may not be varied by agreement.' Separately, § 9-16-06(3)-(4) only satisfies a writing or signature REQUIREMENT found in other law -- it does not, on its own text, address a requirement that a record be an ORIGINAL or that a signature be witnessed or acknowledged in a particular way; those questions are addressed by other sections of the same chapter (§§ 9-16-10, 9-16-11) that were not read for this rule. Consent is per transaction, not once and for all: “If a party agrees to conduct a transaction by electronic means, this chapter does not prohibit the party from refusing to conduct other transactions by electronic means.” So agreeing to sign one document electronically does not commit a party to the next one.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-16-06",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-16-06",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because the record or signature is in electronic form.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-16-04",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-16-04",
+            "quote": "This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct transactions by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-16-04",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-16-04",
+            "quote": "If a party agrees to conduct a transaction by electronic means, this chapter does not prohibit the party from refusing to conduct other transactions by electronic means.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. §§ 9-16-04 and 9-16-06 both read in full; §§ 9-16-01 through 9-16-19 surveyed by title to confirm chapter scope, including § 9-16-19 (a 2020s-era addition on blockchain-secured signatures and smart contracts, not read in full and not relied on here). This row is statute-only. HONEST NEGATIVE, genuinely searched: full-text scans of docketx/us-caselaw-nd for 'Electronic Transactions Act', 'N.D.C.C. ch. 9-16', and 'UETA' each returned zero on-point North Dakota opinions (three stray 'UETA' hits were unrelated OCR noise from other statutes and a 1932 tax case, not this chapter). No North Dakota appellate opinion applying Chapter 9-16 was located in this corpus. AUDIT 2026-09-22 (full read of the North Dakota pack): §§ 9-16-04 and 9-16-06 whole; (3) 'may not be varied by agreement' verbatim. CORRECT. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "entire-agreement",
+    "rule_id": "nd-41-02-09-ucc-parol-evidence-liberalized-no-integration-presumption",
+    "question": "Does our integration / entire-agreement clause keep out evidence of prior or side agreements in North Dakota?",
+    "rule": "For a sale of goods, N.D.C.C. § 41-02-09 (UCC 2-202) bars contradicting a final written expression with evidence of a prior or contemporaneous oral agreement, though the writing \"may be explained or supplemented\" by course of dealing, course of performance, or usage of trade, and -- unless the writing was also intended as complete and exclusive -- by evidence of consistent additional terms: \"Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a record intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:\". Herman Oil, Inc. v. Peterman confirms this is a real departure from ordinary common-law contract doctrine: \"Section 41-02-09, N.D.C.C., changes the common law of contracts and liberalizes the application of the parol evidence rule to writings evidencing a .contract for the sale of goods.\"",
+    "trap": "There is no assumption in North Dakota that a writing is final or exclusive just because it looks complete -- Herman Oil states the opposite default applies absent an express finding: \"There is no assumption that the parties intended a writing to be final or exclusive and, in fact, the assumption is to the contrary, unless the court expressly finds that the parties intended the contract to be completely integrated.\" In Herman Oil itself, invoices with no merger clause were held NOT to be a final expression of the parties' agreement, letting the court consider extrinsic evidence of a special payment arrangement -- meaning an entire-agreement clause is doing real, load-bearing work in a North Dakota integration analysis, not merely restating a default the court would apply anyway. Even where a writing IS found final, § 41-02-09 still lets a court consider course of dealing and course of performance to explain or supplement it -- an entire-agreement clause does not, by this section's own text, shut out that category of evidence.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-09",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-09",
+            "quote": "Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a record intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "518 N.W.2d 184",
+        "name": "Herman Oil, Inc. v. Peterman",
+        "court": "nd-nd",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "e5ca792f5c37348b",
+            "cl_opinion_id": "2196546",
+            "quote": "Section 41-02-09, N.D.C.C., changes the common law of contracts and liberalizes the application of the parol evidence rule to writings evidencing a .contract for the sale of goods.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "518 N.W.2d 184",
+        "name": "Herman Oil, Inc. v. Peterman",
+        "court": "nd-nd",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "e5ca792f5c37348b",
+            "cl_opinion_id": "2196546",
+            "quote": "There is no assumption that the parties intended a writing to be final or exclusive and, in fact, the assumption is to the contrary, unless the court expressly finds that the parties intended the contract to be completely integrated.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "518 N.W.2d 184",
+        "name": "Herman Oil, Inc. v. Peterman",
+        "court": "nd-nd",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "e5ca792f5c37348b",
+            "cl_opinion_id": "2196546",
+            "quote": "We hold that the trial court’s implicit determination that Herman Oil and Peter-man Oil did not intend written invoices to be a final expression of their agreement was not clearly erroneous and permitted the court to rely on extrinsic evidence to determine the terms of that agreement.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 41-02-09 read in full (2 numbered points). Herman Oil read in full (23,446 chars); the '.contract' typo (stray leading period) in the first case quote is reproduced verbatim from the corpus row's own OCR'd text, confirmed character-for-character via the verifier rather than corrected, per the store's rule that only whitespace is normalised when matching a quote. The opinion's holding turned on the absence of a merger clause in Herman Oil's invoices as evidence AGAINST integration -- the same inference this store's Alaska row (Philbin v. Matanuska-Susitna Borough) draws from an absent integration clause, now confirmed independently for North Dakota. Campbell Farms v. Wald (1998 ND, row a36b3b1d86ecb52e) and Dawn Enterprises v. Luna (1987 ND, row 5b5efe61f98209f8) were also read and restate the same 'liberalizes ... the parol evidence rule' language, confirming it is settled doctrine rather than a one-off characterization; not added as separate authorities to keep the row focused. HONEST NEGATIVE: no authority read for this row addresses North Dakota's common-law integration doctrine for a NON-goods contract (services, real property, etc.) as distinct from § 41-02-09's UCC-specific rule; that question was not researched here. AUDIT 2026-09-22 (full read of the North Dakota pack): Herman Oil read at the holding (now quoted) and disposition (affirmed). CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "indemnity",
+    "rule_id": "nd-22-02-01-07-field-code-indemnity-definitions-and-interpretive-defaults",
+    "question": "How will a North Dakota court read our indemnity clause if the contract does not spell out every detail?",
+    "rule": "Through a set of Field Code default rules that fill gaps unless the contract itself says otherwise. N.D.C.C. § 22-02-01 defines the concept broadly: \"Indemnity is a contract by which one engages to save another from a legal consequence of the conduct of one of the parties or of some other person.\" N.D.C.C. § 22-02-07 then supplies interpretive defaults \"unless a contrary intention appears,\" including that \"[u]pon an indemnity against liability, expressly or in other equivalent terms, the person indemnified is entitled to recover upon becoming liable\" (rather than having to wait until an actual payment is made), and that \"[t]he person indemnifying is bound, on the request of the person indemnified, to defend actions or proceedings brought against the latter in respect to the matters embraced by the indemnity, but the person indemnified has the right to conduct such defense if that person chooses to do so.\" Northstar Center, LLC v. Lukenbill Family Partnership, LLLP confirms courts apply § 22-02-07 directly to a contract's indemnity language: \"Section 22-02-07, N.D.C.C., governs interpretation of an indemnity contract, unless a contrary intention appears.\"",
+    "trap": "Every one of § 22-02-07's defaults is exactly that -- a DEFAULT the parties can override by drafting a contrary term, so a clause silent on when the duty to recover or defend arises gets the statutory answer, while a clause that says something different controls instead; Northstar Center itself held the parties' own clause \"clear and unambiguous\" and found its terms \"comply with N.D.C.C. § 22-02-07 and do not reveal any contrary intentions\" -- and still reversed the summary judgment awarding indemnity, because whether the indemnitor could raise equitable estoppel turned on a disputed fact, its good-faith-purchaser status. A clean clause settles what the promise means; it does not settle every defence to enforcing it. A separate pair of sections outside § 22-02-07 turns on TIMING rather than drafting: § 22-02-02 voids an agreement to indemnify a person against an act \"thereafter to be done\" if the act was \"known by such person at the time of doing it to be unlawful,\" while § 22-02-03 validates an indemnity against an act ALREADY DONE, \"even though the act was known to be wrongful, unless it was a felony\" -- the same wrongful conduct can be indemnifiable or not depending on whether the indemnity was promised before or after the act, a distinction easy to miss when drafting a forward-looking indemnity clause meant to cover conduct not yet known to be unlawful.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 22-02-01",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_22-02-01",
+            "quote": "Indemnity is a contract by which one engages to save another from a legal consequence of the conduct of one of the parties or of some other person.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 22-02-07",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_22-02-07",
+            "quote": "Upon an indemnity against liability, expressly or in other equivalent terms, the person indemnified is entitled to recover upon becoming liable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 22-02-07",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_22-02-07",
+            "quote": "The person indemnifying is bound, on the request of the person indemnified, to defend actions or proceedings brought against the latter in respect to the matters embraced by the indemnity, but the person indemnified has the right to conduct such defense if that person chooses to do so.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024 ND 212",
+        "name": "Northstar Center, LLC v. Lukenbill Family Partnership, LLLP",
+        "court": "nd-nd",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "1262af3e1fd0a4f4",
+            "cl_opinion_id": "10787313",
+            "quote": "Section 22-02-07, N.D.C.C., governs interpretation of an indemnity contract, unless a contrary intention appears.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024 ND 212",
+        "name": "Northstar Center, LLC v. Lukenbill Family Partnership, LLLP",
+        "court": "nd-nd",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "1262af3e1fd0a4f4",
+            "cl_opinion_id": "10787313",
+            "quote": "The terms of the indemnity clause are clear and unambiguous. The terms comply with N.D.C.C. § 22-02-07 and do not reveal any contrary intentions.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024 ND 212",
+        "name": "Northstar Center, LLC v. Lukenbill Family Partnership, LLLP",
+        "court": "nd-nd",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "1262af3e1fd0a4f4",
+            "cl_opinion_id": "10787313",
+            "quote": "For the reasons discussed above, we conclude genuine issues of material fact exist regarding whether Tundra was a good-faith purchaser, making the district court’s grant of summary judgment denying Tundra’s equitable estoppel defense improper.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 22-02-02",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_22-02-02",
+            "quote": "An agreement to indemnify a person against an act thereafter to be done is void if the act is known by such person at the time of doing it to be unlawful.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 22-02-03",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_22-02-03",
+            "quote": "An agreement to indemnify a person against an act already done is valid, even though the act was known to be wrongful, unless it was a felony.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. §§ 22-02-01 through 22-02-10 read as one chapter. Northstar Center read in the surrounding paragraphs; it is a 'Substitute Opinion' (pages 7-15 and page 24 refiled 2025-01-24) whose own text embeds the full official caption confirming the neutral citation '2024 ND 212' -- the store's citation-map has no reporter-volume entry yet for this recent cluster (10320725), consistent with recency; the neutral citation is used as the cite for that reason. The row's cl_opinion_id (10787313) and cluster_id (10320725) are distinct in this corpus's metadata -- confirmed by direct lookup, not assumed -- which is why the reverse citation lookup had to use the cluster_id rather than the opinion id. HONEST NEGATIVE: no authority read for this row addresses North Dakota's oilfield or construction-specific anti-indemnity statutes (if any exist) that might override § 22-02-07's general defaults for a particular industry; that question was not researched here and this row's rule should not be read to cover an oilfield-services or construction-specific indemnity without checking further. AUDIT 2026-09-22 (full read of the North Dakota pack): the trap said Northstar 'enforced' the indemnity language; the Court held the clause clear and § 22-02-07-compliant but REVERSED the indemnity judgment on a disputed equitable-estoppel defence. Rewritten; both sentences added verbatim. §§ 22-02-01, -02, -03, -07 read whole and match. OVERSTATED (L). QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): §§ 22-02-02 and -03 were quoted with no block; added."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "lien-waiver",
+    "rule_id": "nd-35-27-02-waiver-of-lien-no-consideration-requirement-stated",
+    "question": "Is a construction lien waiver signed by our subcontractor enforceable in North Dakota, even one signed before payment?",
+    "rule": "Yes, on the statute's own words, regardless of when it is signed or whether payment has actually been made. N.D.C.C. § 35-27-02(3): \"If the owner, trustee, or agent of the owner has received a valid waiver of lien, signed by the person that improves the real estate, a lien is not allowed.\" Spier v. Power Concrete, Inc. read and applied the 1979-amended version of the same rule: \"Provided further that if the owner or an agent of the owner has received a waiver of lien signed by the person who improves the real estate by the contribution of labor, skill, or materials, no lien shall be allowed.\"",
+    "trap": "Unlike New Jersey's construction-lien-waiver statute, N.J.S.A. 2A:44A-38, which makes a waiver void unless given in consideration for payment and effective only to the extent payment is actually received, nothing in N.D.C.C. § 35-27-02's text conditions a waiver's effectiveness on consideration, on payment, or on timing; a signed waiver defeats the lien on its face whether it was signed before or after the work was done or paid for. No North Dakota appellate opinion read here addresses whether a court would nonetheless require consideration, find an unsupported waiver unconscionable, or otherwise imply a payment condition despite the statute's silence -- that is an open question, not a settled 'no' to the possibility.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 35-27-02",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_35-27-02",
+            "quote": "If the owner, trustee, or agent of the owner has received a valid waiver of lien, signed by the person that improves the real estate, a lien is not allowed.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "304 N.W.2d 68",
+        "name": "Spier v. Power Concrete, Inc.",
+        "court": "nd-nd",
+        "decided": "1981",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "ee44a58b73b61fc0",
+            "cl_opinion_id": "2062361",
+            "quote": "Provided further that if the owner or an agent of the owner has received a waiver of lien signed by the person who improves the real estate by the contribution of labor, skill, or materials, no lien shall be allowed.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 35-27-02 read in full (5 subsections). Spier v. Power Concrete read in full (18,456 chars); the quoted passage is the court's own recitation of the 1979-amended statute text, not a holding applying a waiver to the facts before it (the case concerned other lien issues) -- used here to confirm the no-consideration-condition wording has been stable since at least 1979, not as a holding that a specific waiver in the case was enforced. DISTINCTIVE FINDING: the opinion notes 'Section 35-27-03, NDCC, was not amended in 1979,' confirming the 1979 amendment specifically targeted § 35-27-02's waiver and payment language. HONEST NEGATIVE, genuinely searched: a full-text scan for 'waiver of lien' across docketx/us-caselaw-nd returned 6 opinions; the other 5 (First Union National Bank v. RPB 2, LLC, 2004; Rolla Community Hospital v. Dunseith Community Nursing Home, 1984) either apply a DIFFERENT lien statute (the farm-laborer, threshing, or sugar-beet liens in Title 35) or were not confirmed to be North Dakota Supreme Court opinions construing § 35-27-02 itself, and neither is cited as authority here."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "limitation-of-liability",
+    "rule_id": "nd-9-08-02-exculpatory-clause-void-for-fraud-willful-injury-or-negligent-violation-of-law",
+    "question": "Will North Dakota enforce this clause releasing or limiting our liability, or does it run into the state's public-policy statute?",
+    "rule": "Only within real limits, and North Dakota's version of the rule is broader than the classic \"fraud or willful injury\" formulation found in many other states. N.D.C.C. § 9-08-02: \"All contracts which have for their object, directly or indirectly, the exempting of anyone from responsibility for that person's own fraud or willful injury to the person or property of another, or violation of law, whether willful or negligent, are against the policy of the law.\" James Vault & Precast Co. v. B&B Hot Oil Serv., Inc. confirms the third category -- \"violation of law\" -- reaches ordinary NEGLIGENT violations, not just willful or fraudulent conduct: \"We conclude that a contractual provision purporting to exempt anyone from responsibility for a willful or negligent violation of statutory or regulatory law is against the policy of law and not enforceable.\"",
+    "trap": "A liability release drafted to cover \"any and all claims\" can still be defeated without any showing of intent or fraud -- James Vault held the statute's \"violation of law\" language is \"not limited to an intentional or willful violation of law,\" applying it to a commercial-lease waiver clause where the alleged violation was a building/fire-code storage requirement, not a personal-injury release of the kind most exculpatory-clause disputes involve. The statute's source note traces § 9-08-02 to Cal. Civ. Code § 1668, the same Field Code lineage as North Dakota's non-compete statute, § 9-08-06 -- meaning California decisions construing § 1668 are treated as persuasive (though not binding) authority for construing § 9-08-02, which can pull in case law from a state whose courts have applied the \"violation of law\" language to safety-code and regulatory violations well beyond the personal-injury-release context most drafters have in mind.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-08-02",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-08-02",
+            "quote": "All contracts which have for their object, directly or indirectly, the exempting of anyone from responsibility for that person's own fraud or willful injury to the person or property of another, or violation of law, whether willful or negligent, are against the policy of the law.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "927 N.W.2d 452",
+        "name": "James Vault & Precast Co. v. B&B Hot Oil Serv., Inc.",
+        "court": "nd-nd",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "ed5b311362cd52ef",
+            "cl_opinion_id": "8253946",
+            "quote": "We conclude that a contractual provision purporting to exempt anyone from responsibility for a willful or negligent violation of statutory or regulatory law is against the policy of law and not enforceable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "927 N.W.2d 452",
+        "name": "James Vault & Precast Co. v. B&B Hot Oil Serv., Inc.",
+        "court": "nd-nd",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "ed5b311362cd52ef",
+            "cl_opinion_id": "8253946",
+            "quote": "the plain language of N.D.C.C. § 9-08-02 applies to \"violation of law, whether willful or negligent,\" and is not limited to an intentional or willful violation of law.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 9-08-02 read in full (one sentence). James Vault read in the surrounding paragraphs (41,574 chars); the opinion states it is a case of first impression on the 'violation of law, whether willful or negligent' clause specifically ('We have previously discussed the \"fraud or willful injury\" language ... but we have not heretofore considered the \"violation of law, whether willful or negligent\" language in that statute'), confirming this is a genuinely new holding, not a restatement of settled law. Hillerson v. Bismarck Public Schools (2013 ND, rows 6dfbe8eb8ae21f67/7ddc5ed42ac80141/d659fc6818ffe7d1) is quoted within James Vault for the general proposition that 'the law does not favor contracts exonerating parties from liability for their conduct' and was read for background but not independently corpus-verified as a second authority here to keep the row focused on the case that actually resolves the violation-of-law question. HONEST NEGATIVE: no authority read for this row states whether an exculpatory clause that survives § 9-08-02 (because it does not touch fraud, willful injury, or a law violation) can still be attacked on ordinary unconscionability grounds under § 41-02-19 or general common law; that interaction was not researched here."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "limitation-of-remedy",
+    "rule_id": "nd-41-02-98-essential-purpose-and-unconscionability-of-consequential-damages-exclusion",
+    "question": "Will North Dakota enforce this clause limiting our remedy or excluding consequential damages?",
+    "rule": "Yes, subject to two limits stated in N.D.C.C. § 41-02-98 (UCC 2-719). First, failure of essential purpose: \"If circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title.\" Second, unconscionability, stated asymmetrically: \"Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.\" Construction Associates, Inc. v. Fargo Water Equipment Co. shows the unconscionability limit reaches even a purely commercial transaction between businesses: the Supreme Court held that on the facts before it -- a limited-remedy clause that would have left the buyer with replacement pipe useless for the actual repair method needed -- \"[t]he circumstances of this case demonstrate elements of procedural and substantive unconscionability which, when viewed in totality, adequately support the trial court's conclusion that the clause limiting remedies and excluding consequential damages was unconscionable under the relevant statutory provisions.\"",
+    "trap": "Subsection 3's asymmetry means a drafter cannot assume North Dakota treats a consequential-damages exclusion the same way regardless of context: the statute starts a consumer-goods personal-injury exclusion off PRESUMED unconscionable, while an identical clause limiting only commercial loss is not. Construction Associates is also a reminder that \"commercial\" does not mean \"safe\" -- the court found unconscionability even though the dispute was between two businesses, resting in part on a real disparity in size and sophistication (a small local contractor against \"an enormous, highly diversified, international conglomerate\") and on the limited remedy leaving the buyer, in the trial court's words, with a remedy that \"amount[ed] to nothing whatsoever\" for the actual defect. The court expressly did not need to reach the SEPARATE failure-of-essential-purpose question because unconscionability alone was enough -- the two doctrines in § 41-02-98 are independent grounds, either of which can defeat the same clause, and a drafter should not assume defeating one leaves the clause otherwise safe.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-98",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-98",
+            "quote": "If circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-98",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-98",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "446 N.W.2d 237",
+        "name": "Construction Associates, Inc. v. Fargo Water Equipment Co.",
+        "court": "nd-nd",
+        "decided": "1989",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "de0b0a4141cc47cf",
+            "cl_opinion_id": "2200647",
+            "quote": "The circumstances of this case demonstrate elements of procedural and substantive unconscionability which, when viewed in totality, adequately support the trial court's conclusion that the clause limiting remedies and excluding consequential damages was unconscionable under the relevant statutory provisions.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 41-02-98 read in full (3 numbered points; point 1 states the general remedy-limitation power and is described but not independently quoted since the rule sentence above already covers it via the essential-purpose and unconscionability provisions). Construction Associates read in full (29,633 chars); the trial court's 'amount[ed] to nothing whatsoever' finding and the 'enormous, highly diversified, international conglomerate' description are the court's own characterization of the record, quoted in the trap as background, not as a second independently-verified corpus quote (kept to one strong holding quote per the store's quote-selection practice). The opinion expressly declines to reach failure-of-essential-purpose 'because we conclude that the trial court did not err in determining that the limitation of remedies was unconscionable' -- this independence between the two § 41-02-98 doctrines is stated in the trap. HONEST NEGATIVE: no authority read for this row states how North Dakota treats a clause that separates the exclusive-remedy provision from the consequential-damages exclusion into two distinct sentences (the drafting question Alaska's Pierce v. Catalina Yachts row in this store addresses); that question was not researched for North Dakota. AUDIT 2026-09-22 (full read of the North Dakota pack): § 41-02-98 whole; Construction Associates read at 'enormous, highly diversified, international conglomerate', 'nothing whatsoever', and 'unnecessary to address the separate issue of failure of essential purpose'; affirmed. CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "limitations-period",
+    "rule_id": "nd-28-01-16-six-year-contract-41-02-104-four-year-goods-9-08-05-void-shortening",
+    "question": "How long do we have to sue on this contract in North Dakota, and can the contract shorten that period?",
+    "rule": "Six years for a contract generally, four years for a sale of goods, and a clause shortening either is presumptively void. N.D.C.C. § 28-01-16(1): an action \"upon a contract, obligation, or liability, express or implied\" must be commenced \"within six years after the claim for relief has accrued,\" subject to §§ 28-01-15 and 41-02-104. For a sale of goods, N.D.C.C. § 41-02-104(1) (UCC 2-725) instead gives four years: \"An action for breach of any contract for sale must be commenced within four years after the claim for relief has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.\" And a clause that tries to shorten either period outside that UCC allowance runs into N.D.C.C. § 9-08-05: \"Every stipulation or condition in a contract by which any party thereto is restricted from enforcing that party's rights under the contract by the usual legal proceedings in the ordinary tribunals or which limits the time within which that party thus may enforce that party's rights is void, except as otherwise specifically permitted by the laws of this state.\"",
+    "trap": "Section 41-02-104's own text is the only shortening North Dakota's statutes confirm here is 'specifically permitted' for § 9-08-05 purposes -- it lets the ORIGINAL agreement (not a later amendment) reduce the goods-sale period to not less than one year, and it may never be extended by agreement. Nothing read for this rule confirms whether § 9-08-05 permits a contract OUTSIDE the sale of goods to shorten the general six-year period at all, or whether § 9-08-05's 'except as otherwise permitted' clause reaches only statutory permissions like § 41-02-104's or also a court-made exception; that question is left open rather than assumed either way. Section 41-02-104(2) also carries its own accrual trap: a breach of warranty accrues at TENDER OF DELIVERY, not at discovery, \"except that if a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the claim for relief accrues when the breach is or should have been discovered\" -- a future-performance warranty is the narrow exception, not the rule, and the statute expressly disclaims any change to tolling law.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 28-01-16",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_28-01-16",
+            "quote": "An action upon a contract, obligation, or liability, express or implied, subject to the provisions of sections 28-01-15 and 41-02-104.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-104",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-104",
+            "quote": "An action for breach of any contract for sale must be commenced within four years after the claim for relief has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-08-05",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-08-05",
+            "quote": "Every stipulation or condition in a contract by which any party thereto is restricted from enforcing that party's rights under the contract by the usual legal proceedings in the ordinary tribunals or which limits the time within which that party thus may enforce that party's rights is void, except as otherwise specifically permitted by the laws of this state.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. §§ 28-01-16, 41-02-104, and 9-08-05 each read in full. This row is statute-only. Niles v. Eldridge (2013 ND, rows e4a021b9194ccf3f/4ffc7eb1725642a6) states plainly that § 28-01-16(1) 'limits actions on contracts to six years' and Kittleson v. Grynberg Petroleum Co. (2016 ND 44, rows cff76ce6bfee219d/d713c5db28d04503) shows North Dakota courts test whether a specific statute (there, the ten-year oil-and-gas-royalty period in § 28-01-15(2)) displaces the general six-year rule before applying it -- both were read for this pass but their holdings turn on facts (a pleading-amendment ruling; an oil-and-gas royalty characterization) collateral to the ordinary contract-limitations question this row answers, so neither is added as a formal case authority; their citations were independently confirmed via the store's citation-map (Niles/Eldridge cluster 898529? not verified -- see caution below). CAUTION: the case citations mentioned in this note (Niles v. Eldridge, Kittleson v. Grynberg) were NOT run through the corpus-quote verifier and are not committed as authorities; they are background only. HONEST NEGATIVE: no North Dakota appellate opinion applying § 9-08-05 to a contractual limitations-shortening clause (as opposed to some other kind of enforcement restriction) was located in the searches run for this row. AUDIT 2026-09-22 (full read of the North Dakota pack): §§ 28-01-16, 41-02-104 and 9-08-05 read whole; verbatim. CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "liquidated-damages",
+    "rule_id": "nd-9-08-04-general-void-plus-41-02-97-goods-reasonable-estimate",
+    "question": "Will North Dakota enforce this liquidated-damages clause?",
+    "rule": "On two tracks, and both start from a presumption AGAINST the clause rather than for it. For contracts generally, N.D.C.C. § 9-08-04 makes a liquidated-damages clause void by default: \"Every contract by which the amount of damages to be paid, or other compensation to be made, for a breach of an obligation is determined in anticipation thereof is to that extent void, except that the parties may agree therein upon an amount presumed to be the damage sustained by a breach in cases in which it would be impracticable or extremely difficult to fix the actual damage.\" For a sale of goods, N.D.C.C. § 41-02-97 (UCC 2-718) instead asks whether the amount is reasonable: \"Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.\" Shull v. Walcker first held that two earnest-money clauses did not cap the seller's remedies at all -- \"nothing in the agreement's two earnest money clauses precluded Shull from seeking additional remedies\" -- and then added that § 9-08-04 would not have made the deposit liquidated damages either, because the exception requires a genuine effort to estimate the loss: \"Our case law requires that there be a reasonable endeavor by the parties to fix the compensation for the breach of contract.\"",
+    "trap": "Section 9-08-04's structure is the reverse of the more familiar \"presumptively valid unless a penalty\" rule: a North Dakota liquidated-damages clause outside a sale of goods is void UNLESS the drafter can show it was impracticable or extremely difficult to fix the actual damage at the time of contracting -- silence on that point, or a clause that looks like a simple round number, is not enough. Shull illustrates how a court tests that showing without direct evidence of negotiation (its primary holding was that the clauses were part payment, not a remedy cap, and the seller recovered actual damages of over $30,000): the earnest money there ($1,000) was compared to the full contract price ($179,900) and found inadequate as a pre-estimate, and the court noted \"[n]o evidence was presented ... that the earnest money amount was the result of a negotiation between the parties to be a reasonable pre-estimate of such damages.\" A goods contract does not get this narrower default-void treatment -- § 41-02-97 asks only whether the fixed amount is reasonable, not whether estimating actual damages was impracticable -- so which of the two statutes applies can decide the case by itself.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-08-04",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-08-04",
+            "quote": "Every contract by which the amount of damages to be paid, or other compensation to be made, for a breach of an obligation is determined in anticipation thereof is to that extent void, except that the parties may agree therein upon an amount presumed to be the damage sustained by a breach in cases in which it would be impracticable or extremely difficult to fix the actual damage.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-97",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-97",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "770 N.W.2d 274",
+        "name": "Shull v. Walcker",
+        "court": "nd-nd",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "7de9bdebdf3e1a4a",
+            "cl_opinion_id": "898540",
+            "quote": "Our case law requires that there be a reasonable endeavor by the parties to fix the compensation for the breach of contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "770 N.W.2d 274",
+        "name": "Shull v. Walcker",
+        "court": "nd-nd",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "7de9bdebdf3e1a4a",
+            "cl_opinion_id": "898540",
+            "quote": "Here, nothing in the agreement’s two earnest money clauses precluded Shull from seeking additional remedies.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "770 N.W.2d 274",
+        "name": "Shull v. Walcker",
+        "court": "nd-nd",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "7de9bdebdf3e1a4a",
+            "cl_opinion_id": "898540",
+            "quote": "No evidence was presented before the trial court that the earnest money amount was the result of a negotiation between the parties to be a reasonable pre-estimate of such damages.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 9-08-04 read in full (one sentence). N.D.C.C. § 41-02-97 read in full (4 subsections); subsections 2-4 address a buyer's restitution when the seller withholds goods, a different scenario, and are not relied on here (same distinction this store's Alaska row draws for AS 45.02.718(b)-(d)). Shull v. Walcker read in the surrounding paragraphs (24,575 chars); the court applied § 9-08-04 to an earnest-money clause in a real-estate purchase agreement, confirming the section reaches contracts outside the sale of goods. Ray Farmers Union Elevator Co. v. Weyrauch (1975 ND, rows 98e2adaf5b0b2007/4f06a67a0d64f56c) was also read and confirms a liquidated-damages clause under § 41-02-98 is not automatically an EXCLUSIVE remedy absent express agreement -- a related but separate limitation-of-remedy question, not repeated here to keep the row focused. HONEST NEGATIVE: no authority read for this row quantifies how a court decides 'impracticable or extremely difficult to fix the actual damage' beyond Shull's own facts; the threshold is not stated more precisely by any text read. AUDIT 2026-09-22 (full read of the North Dakota pack): Shull read whole at the earnest-money section: the primary holding is that the clauses did not limit remedies ('simply considered part payment'); § 9-08-04 and the 'reasonable endeavor' rule are the court's closing point. The rule presented the closing point as the holding; reordered, both sentences added verbatim. OVERSTATED (L)."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "non-competition",
+    "rule_id": "nd-9-08-06-restraint-of-business-void-goodwill-and-dissolution-exceptions",
+    "question": "Will a North Dakota court enforce this non-competition or non-solicitation covenant?",
+    "rule": "Almost never, outside two narrow exceptions. N.D.C.C. § 9-08-06 provides: \"A contract by which anyone is restrained from exercising a lawful profession, trade, or business of any kind is to that extent void, except:\" (1) a seller of a business's goodwill, together with \"the person's partners, members, or shareholders,\" may agree with the buyer to refrain from competing within a reasonable geographic area and for a reasonable time, so long as the buyer keeps operating a like business there; and (2) partners, members, or shareholders may agree not to compete upon or in anticipation of a dissolution, or a partner's or member's dissociation, again within a reasonable geographic area. Warner Co. v. Solberg confirms North Dakota's courts apply the statute strictly rather than reading in a general reasonableness exception the way many other states do: the Supreme Court \"decline[d]\" to follow California decisions and an Eighth Circuit prediction under North Dakota law that let \"less burdensome restrictions\" survive, explaining that decision rested on \"the plain language of the statute, the history of legislation in North Dakota concerning this issue, and because North Dakota has enacted trade-secrets legislation.\"",
+    "trap": "North Dakota has no general \"ancillary and reasonable\" safe harbor for an ordinary employee non-compete the way Texas, Idaho, or most other states do -- an employee covenant that is not a sale-of-goodwill agreement or a partner/member/shareholder dissociation agreement is void under § 9-08-06 \"to that extent,\" full stop, regardless of how narrowly it is drawn in time or geography. Warner v. Solberg held that even a narrowly drawn customer-retention clause (barring only an attempt to \"affect the discontinuance\" of existing policies) still fell inside the statute's broad prohibition and outside both exceptions. The two exceptions have since been amended: the version Warner quoted in 2001 let a goodwill-seller agree not to compete only \"within a specified county, city, or a part of either\"; the current text instead allows a \"reasonable geographic area\" and expressly covers LLC members and corporate shareholders, not just partners -- the amendment widened who may use the two exceptions and how their scope is measured, without creating any new exception for an ordinary employment non-compete.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-08-06",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-08-06",
+            "quote": "A contract by which anyone is restrained from exercising a lawful profession, trade, or business of any kind is to that extent void, except:",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-08-06",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-08-06",
+            "quote": "A person that sells the goodwill of a business and the person's partners, members, or shareholders may agree with the buyer to refrain from carrying on a similar business within a reasonable geographic area and for a reasonable length of time, if the buyer or any person deriving title to the goodwill from the buyer carries on a like business in that area.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "634 N.W.2d 65",
+        "name": "Warner Co. v. Solberg",
+        "court": "nd-nd",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "86dd17e7b09d52dc",
+            "cl_opinion_id": "896854",
+            "quote": "We hold a portion of the contract does violate N.D.C.C. § 9-08-06 and there are genuine issues of material fact precluding summary judgment with respect to the remaining portions of the contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "634 N.W.2d 65",
+        "name": "Warner Co. v. Solberg",
+        "court": "nd-nd",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "86dd17e7b09d52dc",
+            "cl_opinion_id": "896854",
+            "quote": "Because of the plain language of the statute, the history of legislation in North Dakota concerning this issue, and because North Dakota has enacted trade-secrets legislation, we decline to do so.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "634 N.W.2d 65",
+        "name": "Warner Co. v. Solberg",
+        "court": "nd-nd",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "86dd17e7b09d52dc",
+            "cl_opinion_id": "896854",
+            "quote": "One who sells the goodwill of a business may agree with the buyer to refrain from carrying on a similar business within a specified county, city, or a part of either, so long as the buyer or any person deriving title to the goodwill from him carries on a like business therein.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 9-08-06 read in full, current text. Warner Co. v. Solberg read in full (32,893 chars); its footnote 1 states the section derives from the Field Code, the same source as Cal. Bus. & Prof. Code § 16600, and that California decisions construing that section are 'entitled to respectful consideration' though not binding -- the opinion nonetheless declines to follow the California/Kovarik 'less burdensome restriction' line. DISTINCTIVE FINDING: § 9-08-06's two exceptions were amended by 2019 N.D. Sess. Laws ch. 87 -- confirmed by Munson v. Indigo Acquisition Holdings, LLC (2019 ND, row dc4396ec598a7dc6), which cites 'N.D.C.C. § 9-08-06 (amended by 2019 N.D. Sess. Laws ch. 87 (H.B. ...))'; Warner (2001) and Berg v. North Dakota State Board of Registration (2018 ND, rows fa9a9fb213f14fa1/c658f9051bb0d17f/53ea21cfc1a0e38a) both quote the PRE-amendment exception text ('within a specified county, city, or a part of either' / 'within the same city where the partnership business has been transacted'), which the currently published statute text no longer contains -- the current text instead reads 'reasonable geographic area' and covers LLC members/corporate shareholders. This is recorded as a statute-vs-older-case difference explained by the confirmed 2019 amendment, not left unresolved. CITATION NOTE: Osborne v. Brown & Saenger, Inc. (2017 ND 288, row a6bd019576712bf0) cites Warner as '2001 ND 166'; the SolarBee, Inc. v. Walker opinion (2013 ND, row 25de263c4eb2bfee) cites it as '2001 ND 156'; the store's own citation-map reverse lookup (cluster_id 896854) confirms '2001 ND 156' and '634 N.W.2d 65' are the official citation -- Osborne's '166' is an isolated digit-transposition, not investigated further since the reporter cite used here is independently confirmed. HONEST NEGATIVE: no authority read for this row addresses whether an LLC operating agreement's non-compete (as opposed to an employment contract) falls within § 9-08-06 or one of its exceptions in the first instance -- Munson v. Indigo Acquisition Holdings raised exactly that question but the row read here only confirms the amendment citation, not a resolution of the merits (the case proceeded on other grounds). AUDIT 2026-09-22 (full read of the North Dakota pack): the trap dated the amendment ('2019 (N.D. Sess. Laws ch. 87)') and said Berg v. North Dakota State Board of Registration (2018 ND 274, in the corpus) construed the old text; Berg cites § 9-08-06(1) and (2) in a licensing dispute and never quotes the geographic language, and the session-law cite is not in any text held. Both dropped; the change is now proved from the corpus itself -- Warner's 2001 quotation of the old text (added as a block) against the current section. Warner read at every attributed sentence. OVERSTATED (L): two facts stated from outside the corpus."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "statute-of-frauds",
+    "rule_id": "nd-9-06-04-general-list-plus-41-02-08-goods-500-and-25k-loan-exception",
+    "question": "Does this contract need to be in writing to be enforceable in North Dakota?",
+    "rule": "Only if it falls on one of two overlapping lists. For contracts generally, N.D.C.C. § 9-06-04 provides that specified agreements \"are invalid, unless the same or some note or memorandum thereof is in writing and subscribed by the party to be charged, or by the party's agent\": an agreement not performable within a year; a suretyship promise (subject to an exception in § 22-01-05); a lease over one year or a sale of real property or an interest in it; and, distinctively, \"[a]n agreement or promise for the lending of money or the extension of credit in an aggregate amount of twenty-five thousand dollars or greater,\" along with a parallel rule for a promise to alter repayment or forgive a debt of that size. Roth v. Meyer applied the $25,000 loan clause to bar recovery on two oral loans that together exceeded the threshold: \"Oral contracts that, in aggregate, loan over $25,000 must be in writing, and if not, are unenforceable under the statute of frauds.\" For a sale of goods, N.D.C.C. § 41-02-08 (UCC 2-201) independently requires a signed record wherever the price is $500 or more: \"a contract for the sale of goods for the price of five hundred dollars or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party's authorized agent or broker.\"",
+    "trap": "Section 9-06-04's $25,000 aggregate-loan clause is easy to miss when importing a form from a state whose general statute of frauds stops at the classic categories (year, suretyship, marriage, real property) -- it reaches an INFORMAL, oral extension of credit regardless of who is lending, and Roth shows courts AGGREGATE separate loans between the same parties rather than testing each one against the threshold alone; two loans of $50,000 and $2,500, made two years apart, were combined to trigger the statute. Separately, § 41-02-08 has real escape hatches from its own writing requirement that a drafter relying on the general rule can overlook: a merchant's unanswered written confirmation can bind the recipient within ten days, and the contract is enforceable without any writing at all for specially manufactured goods once the seller has begun manufacture, for a quantity admitted in pleadings or testimony, or for goods actually paid for and accepted. Nothing read for this rule states whether § 9-06-04's own categories (for example, an agreement not performable within a year) and § 41-02-08's $500 goods threshold apply cumulatively to a single transaction that satisfies both descriptions -- that interplay is an open question, not resolved here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-08",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-08",
+            "quote": "Except as otherwise provided in this section, a contract for the sale of goods for the price of five hundred dollars or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party's authorized agent or broker.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 9-06-04",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_9-06-04",
+            "quote": "An agreement or promise for the lending of money or the extension of credit in an aggregate amount of twenty-five thousand dollars or greater.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2024 ND 113",
+        "name": "Roth, et al. v. Meyer, et al.",
+        "court": "nd-nd",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "e5b84416ac06cb28",
+            "cl_opinion_id": "10597754",
+            "quote": "Oral contracts that, in aggregate, loan over $25,000 must be in writing, and if not, are unenforceable under the statute of frauds.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 9-06-04 read in full (5 categories). N.D.C.C. § 41-02-08 read in full (3 subsections). Roth v. Meyer read in the surrounding paragraphs; the opinion also quotes First State Bank of Goodrich v. Oster, 500 N.W.2d 593, 594-95 (N.D. 1993), for the same aggregation principle ('holding oral agreement for three loans due 18 months apart were in aggregate greater than $25,000 and unenforceable under N.D.C.C. § 9-06-04(4)') -- Oster itself was not independently read or corpus-verified this pass and is not added as a separate authority. CORPUS NOTE: this row's cite 'Roth, et al. v. Meyer, et al.' identifies row e5b84416ac06cb28 (cl_opinion_id 10597754, dated 2024-06-06 in the corpus); the store's own citation-map (cluster_id 10131153) confirms the neutral citation '2024 ND 113' for this cluster; no West reporter volume/page has been assigned in this corpus snapshot, consistent with the case's recency -- the neutral citation is used as the cite in place of a reporter cite for that reason, following the store's practice for a very recent, not-yet-reported decision. Multiple duplicate rows for the same opinion exist in the corpus (row_ids 0e56d91e1297c7be and 2c1898b138ab0560 carry identical text); row e5b84416ac06cb28 was used arbitrarily among them. HONEST NEGATIVE: no authority read for this row states whether § 9-06-04(4)'s aggregation rule looks at all loans ever made between the parties or only those forming a single course of dealing; Roth's facts (two loans, two years apart, no dispute they were related) do not resolve that boundary. AUDIT 2026-09-22 (full read of the North Dakota pack): §§ 9-06-04 and 41-02-08 whole; Roth read at the $2,500 and $50,000 checks (2007 and 2009), the aggregate argument and the disposition (judgments that the loans are enforceable reversed). CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "nd-47-25-1-utsa-definitions-injunctive-relief-exclusive-misappropriation-remedy",
+    "question": "Can we bring a misappropriation claim over information this contract was supposed to keep confidential, and does it have to be a trade secret?",
+    "rule": "Yes, if the information meets North Dakota's Uniform Trade Secrets Act definition, and North Dakota courts treat \"misappropriation\" as tied exclusively to that Act. N.D.C.C. § 47-25.1-01 defines a \"trade secret\" as information \"that: - Derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use; and - Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.\" N.D.C.C. § 47-25.1-02(1) then gives injunctive relief for a violation: \"Actual or threatened misappropriation may be enjoined. Upon application to the court, an injunction must be terminated when the trade secret has ceased to exist, but the injunction may be continued for an additional reasonable period of time to eliminate commercial advantage that otherwise would be derived from the misappropriation.\" McColl Farms, LLC v. Pflaum confirms the scope of a \"misappropriation\" claim is narrow: the trial court's dismissal rested on the premise that \"misappropriation is a cause of action that relates exclusively to the wrongful acquisition or disclosure of a trade secret under N.D.C.C. § 47-25.1-01.\"",
+    "trap": "McColl Farms shows a plaintiff cannot use the label \"misappropriation\" to reach conduct that is really conversion, embezzlement, or another tort just because the money or property taken had value -- the trial court dismissed a misappropriation claim as redundant of a conversion claim on exactly that reasoning, and the Supreme Court's review did not disturb the premise that misappropriation under the Act is confined to trade secrets as § 47-25.1-01 defines them. A confidentiality or non-disclosure clause protecting information that does NOT meet the Act's two-part definition (independent economic value from secrecy, plus reasonable efforts to keep it secret) gets no relief from this Act at all -- the contract's own confidentiality promise, not the UTSA, is what would have to carry that protection.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 47-25.1-01",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_47-25_1-01",
+            "quote": "\"Trade secret\" means information, including a formula, pattern, compilation, program, device, method, technique, or process, that:",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 47-25.1-02",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_47-25_1-02",
+            "quote": "Actual or threatened misappropriation may be enjoined. Upon application to the court, an injunction must be terminated when the trade secret has ceased to exist, but the injunction may be continued for an additional reasonable period of time to eliminate commercial advantage that otherwise would be derived from the misappropriation.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "837 N.W.2d 359",
+        "name": "McColl Farms, LLC v. Pflaum",
+        "court": "nd-nd",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "8438f727d6d3cc67",
+            "cl_opinion_id": "1042080",
+            "quote": "misappropriation is a cause of action that relates exclusively to the wrongful acquisition or disclosure of a trade secret under N.D.C.C. § 47-25.1-01",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. §§ 47-25.1-01 through 47-25.1-08 read as one chapter (the whole Uniform Trade Secrets Act as adopted in North Dakota). McColl Farms read in the surrounding paragraphs (35,453 chars); the quoted premise is the TRIAL court's stated reasoning as recited by the Supreme Court in the course of reviewing the dismissal, not a freestanding holding sentence of the Supreme Court's own -- flagged here rather than presented as an unqualified Supreme Court pronouncement; the Supreme Court's own disposition of the misappropriation-claim issue was not independently re-verified beyond this recitation in this pass. Warner Co. v. Solberg (cited elsewhere in this file for non-competition) also discusses Chapter 47-25.1 as the reason North Dakota courts have grown skeptical of a judicial customer-list exception to § 9-08-06 -- not repeated here. HONEST NEGATIVE: no authority read for this row states whether a claim can proceed under the Act's own text for a NEGLIGENT (rather than knowing) acquisition of a trade secret by 'improper means' -- that question was not independently traced through § 47-25.1-01's 'knows or has reason to know' language for this row. AUDIT 2026-09-22 (full read of the North Dakota pack): §§ 47-25.1-01 and -02 whole; McColl read at the disposition (dismissal of misappropriation affirmed) and the quoted premise, which the rule already attributes to the trial court. CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "unconscionability",
+    "rule_id": "nd-41-02-19-ucc-scope-question-cook-v-hansen",
+    "question": "Can we challenge this contract clause as unconscionable under North Dakota law, even outside a sale of goods?",
+    "rule": "For a sale of goods, N.D.C.C. § 41-02-19 (UCC 2-302) states the test directly: \"If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made, the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.\" Whether that same section reaches a contract outside the sale of goods is genuinely unsettled: Cook v. Hansen involved a lease exchanging the use of land for the care of cattle, and the North Dakota Supreme Court questioned the section's reach on those facts: \"[I]f the trial court were thinking of unconscionability in terms of the Uniform Commercial Code (U.C.C.) and Section 41-02-19, N.D.C.C., we question whether the U.C.C. provision addressing unconscionable contracts is applicable to this situation.\"",
+    "trap": "Section 41-02-19 sits inside Title 41, North Dakota's UCC -- it is not a freestanding general unconscionability statute -- and Cook v. Hansen shows the state's own Supreme Court has doubted, without definitively resolving, whether the section applies to a contract that is not a sale of goods (there, a land-use-for-cattle-care exchange). A drafter defending or attacking a services, real-property, or other non-goods contract clause on unconscionability grounds should not assume § 41-02-19 supplies the test; nothing read for this rule identifies what general common-law unconscionability standard, if any, North Dakota applies outside the UCC's reach. Within the UCC itself, § 41-02-19(2) adds a procedural requirement often overlooked: before ruling on unconscionability, \"the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose, and effect to aid the court in making the determination\" -- a court that rules on unconscionability without that opportunity has skipped a step the statute requires.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-19",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-19",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made, the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "499 N.W.2d 94",
+        "name": "Cook v. Hansen",
+        "court": "nd-nd",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "6182559394421932",
+            "cl_opinion_id": "2068024",
+            "quote": "if the trial court were thinking of unconscionability in terms of the Uniform Commercial Code (U.C.C.) and Section 41-02-19, N.D.C.C., we question whether the U.C.C. provision addressing unconscionable contracts is applicable to this situation.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 41-02-19 read in full (2 subsections). Cook v. Hansen read in the surrounding paragraphs; the quoted passage is genuinely a question the court raised about the trial court's reasoning, not a holding either way -- reproduced here as an open scope question, consistent with the store's practice of recording a statute-vs-case scope doubt as unresolved rather than guessing at the answer. Construction Associates, Inc. v. Fargo Water Equipment Co. (cited elsewhere in this file for limitation-of-remedy) applies § 41-02-19 alongside § 41-02-98 in an unambiguous sale-of-goods setting and is not repeated here. Darby v. Swenson, Inc. (2009 ND, row dd7d4fe741d72103) also references § 41-02-19 in a sale-of-goods context without resolving the scope question Cook raises; not cited as a second authority to keep the row focused. HONEST NEGATIVE: no authority read for this row identifies a North Dakota common-law unconscionability doctrine operating independently of § 41-02-19 for a non-UCC contract. AUDIT 2026-09-22 (full read of the North Dakota pack): § 41-02-19 whole; Cook v. Hansen read at the facts (land use for cattle care) and the quoted doubt. CORRECT."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "usury",
+    "rule_id": "nd-13-01-14-late-payment-charge-1-75pct-cap-intent-and-notice-conditions",
+    "question": "Can we charge a monthly late-payment finance charge on this account under North Dakota law, and does our contract need to say so?",
+    "rule": "Yes, without a contractual finance-charge clause, but only within statutory limits and conditions. N.D.C.C. § 13-01-14(1)-(2): \"A creditor may charge, receive, and collect a late payment charge on all money due on account from thirty days after the obligation of the debtor to pay has been incurred,\" and \"[t]he late payment charge allowed under this section may not exceed one and three-fourths percent per month.\" Titan Machinery, Inc. v. Patterson Enterprises, Inc. confirms the statute operates independently of the contract's own terms: \"This Court has recognized N.D.C.C. §§ 13-01-14 and 13-01-15 apply to finance charges on accounts receivable when no contractual provision explicitly authorizes the finance charges.\"",
+    "trap": "The 1.75%-per-month cap is not the only condition -- § 13-01-14(3) makes the charge unavailable at all \"unless, when the obligation was incurred, the creditor did not intend to extend any credit beyond thirty days and any late payment of the obligation was unanticipated,\" a fact-specific, at-formation intent test that a creditor who knowingly extends longer-term credit cannot satisfy. The section separately requires the creditor to \"promptly suppl[y] the debtor with a statement as of the end of each monthly period ... in which there is any unpaid balance\" under § 13-01-15 before the charge may be collected. And the statute carves out three categories entirely -- retail installment contracts, revolving charge accounts, and medical-bill accounts receivable, each governed by its own separate chapter -- so this section does not answer a late-fee question for those transaction types.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 13-01-14",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_13-01-14",
+            "quote": "A creditor may charge, receive, and collect a late payment charge on all money due on account from thirty days after the obligation of the debtor to pay has been incurred.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 13-01-14",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_13-01-14",
+            "quote": "The late payment charge allowed under this section may not be charged unless, when the obligation was incurred, the creditor did not intend to extend any credit beyond thirty days and any late payment of the obligation was unanticipated.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "874 N.W.2d 317",
+        "name": "Titan Machinery, Inc. v. Patterson Enterprises, Inc.",
+        "court": "nd-nd",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "a4e969d4a7efc066",
+            "cl_opinion_id": "3171323",
+            "quote": "This Court has recognized N.D.C.C. §§ 13-01-14 and 13-01-15 apply to finance charges on accounts receivable when no contractual provision explicitly authorizes the finance charges.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 13-01-15",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_13-01-15",
+            "quote": "The percentage amount of the late payment charge which will be charged beginning thirty days after the obligation is incurred for purposes of section 13-01-14, or beginning after the billed medical services become delinquent for purposes of section 13-01-14.1.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 13-01-14 read in full (4 subsections; the current 1.75%/month cap replaced an earlier 1.5%/month cap referenced in older case law, e.g. Royal Jewelers, Inc. v. Kopp, 365 N.W.2d 525 (N.D. 1985), which construed the pre-amendment rate -- confirmed by comparing the statute's current text against the rate quoted in Titan Machinery's own recitation of Royal Jewelers). Titan Machinery read in the surrounding paragraphs (31,407 chars); the court reversed and remanded for findings on late-payment charges because the trial court did not address the predicate facts required by § 13-01-14(3). Royal Jewelers is discussed within Titan Machinery's own text but was not independently read or corpus-verified this pass and is not cited as a separate authority. HONEST NEGATIVE: no authority read for this row states whether § 13-01-14's 'money due on account' reaches a running trade-credit relationship between businesses generally, as opposed to the equipment-lease and open-account facts in the cases actually read. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): § 13-01-15 read (NDCC_13-01-15); block added."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "usury",
+    "rule_id": "nd-47-14-09-floating-rate-cap-and-47-14-05-post-maturity-distinct-regime",
+    "question": "Does North Dakota cap the interest rate this contract can charge, and does it matter whether the interest runs before or after maturity?",
+    "rule": "Yes, but the cap and its penalty apply only to PRE-maturity interest, and a different, separate statute governs interest after maturity. N.D.C.C. § 47-14-09 caps agreed interest at \"five and one-half percent per annum higher than the current cost of money as reflected by the average rate of interest payable on United States treasury bills maturing in six months\" for North Dakota, with a floor of seven percent, and bars charging interest on overdue interest except by a separate contract to pay a lawful rate on interest already overdue: \"A contract may not provide for the payment of interest on interest overdue, but this section does not apply to a contract to pay interest at a lawful rate on interest that is overdue at the time such contract is made.\" A violation carries a real penalty under N.D.C.C. § 47-14-10: \"The taking, receiving, reserving, or charging of a rate of interest greater than is allowed by the laws of this state relative to usury shall be deemed a forfeiture of the entire interest which the note, bill, or other evidence of debt carries with it or which has been agreed to be paid thereon, and in addition thereto, a forfeiture of twenty-five percent of the principal thereof.\" T.F. James Co. v. Vakoch confirms § 47-14-09 governs only interest charged before maturity: \"interest before maturity is compensation for the use of money and is regulated by Section 47-14-09, N.D.C.C., and that interest allowed after maturity is considered compensation for damages for the wrongful detention of money and is regulated by Section 47-14-05, N.D.C.C.\"",
+    "trap": "A late-fee or post-maturity interest clause is NOT tested against § 47-14-09's usury cap or § 47-14-10's forfeiture penalty at all -- T.F. James held that once interest is characterized as compensation for the wrongful detention of money after maturity rather than compensation for the use of money before it, \"section 47-14-05, N.D.C.C., applies to the transaction, not N.D.C.C. § 47-14-09,\" and § 47-14-05 -- \"Interest for any legal indebtedness must be at the rate of six percent per annum unless a different rate not to exceed the rate specified in section 47-14-09 is contracted for in writing,\" with contracts bearing \"the same rate of interest after maturity as they bear before maturity\" unless otherwise agreed in writing -- carries no usury label and no § 47-14-10 forfeiture of its own; T.F. James reversed the usury penalties and remanded for § 47-14-05 to be applied. Section 47-14-09 also carries its own wide exclusions that a drafter should check before assuming the floating cap applies: it does not reach a loan made to a corporation, LLC, cooperative, or trust; a loan to a partnership or association that files a partnership tax return; a loan or forbearance over $35,000; or a loan by a regulated lending institution -- and state-chartered banks and the Bank of North Dakota may instead charge whatever rate is lawful for national banks or federally chartered savings institutions operating in the state.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 47-14-09",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_47-14-09",
+            "quote": "A contract may not provide for the payment of interest on interest overdue, but this section does not apply to a contract to pay interest at a lawful rate on interest that is overdue at the time such contract is made.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 47-14-10",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_47-14-10",
+            "quote": "The taking, receiving, reserving, or charging of a rate of interest greater than is allowed by the laws of this state relative to usury shall be deemed a forfeiture of the entire interest which the note, bill, or other evidence of debt carries with it or which has been agreed to be paid thereon, and in addition thereto, a forfeiture of twenty-five percent of the principal thereof.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "604 N.W.2d 459",
+        "name": "T.F. James Co. v. Vakoch",
+        "court": "nd-nd",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "a3349e2375d3e9b4",
+            "cl_opinion_id": "1614652",
+            "quote": "interest before maturity is compensation for the use of money and is regulated by Section 47-14-09, N.D.C.C., and that interest allowed after maturity is considered compensation for damages for the wrongful detention of money and is regulated by Section 47-14-05, N.D.C.C.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 47-14-05",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_47-14-05",
+            "quote": "Interest for any legal indebtedness must be at the rate of six percent per annum unless a different rate not to exceed the rate specified in section 47-14-09 is contracted for in writing. Unless otherwise agreed by the parties in writing, all contracts must bear the same rate of interest after maturity as they bear before maturity.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "604 N.W.2d 459",
+        "name": "T.F. James Co. v. Vakoch",
+        "court": "nd-nd",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "a3349e2375d3e9b4",
+            "cl_opinion_id": "1614652",
+            "quote": "Because the lease is not subject to North Dakota’s usury statute, we reverse.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. §§ 47-14-09 and 47-14-10 both read in full (§ 47-14-09 has 8 numbered exclusions in its exceptions list, all read). T.F. James Co. v. Vakoch read in full (11,827 chars); it quotes Oil Inv., Inc. v. Dallea Petroleum Corp., 152 N.W.2d 415, 418, 420 (N.D. 1967), as the source of the pre-/post-maturity distinction and applies it to hold an 18%-after-maturity lease clause was NOT usurious. The opinion also states, citing 45 Am. Jur. 2d Interest and Usury § 130, that '[a] lease is neither a loan nor a forbearance subject to the usury statutes' -- read and considered but not added as a second corpus-verified quote because it is the opinion's own restatement of a secondary source, not an independent North Dakota holding, and the bracketed '[a]' would need to be reproduced exactly to verify; omitted to keep the authority list to independently-verified North Dakota holdings. Royal Jewelers, Inc. v. Kopp, 365 N.W.2d 525, 527 (N.D. 1985), is described within T.F. James as holding a creditor who cannot satisfy § 13-01-14's late-payment-charge conditions 'would be limited to the presumed rate of interest of 6% per annum under N.D.C.C. § 47-14-05' -- relevant background for the separate late-payment-charge row in this store, not repeated as a formal authority here. HONEST NEGATIVE: no authority read for this row addresses federal preemption of the state usury cap for federally chartered lenders; that question was not researched for North Dakota. AUDIT 2026-09-22 (full read of the North Dakota pack): the trap called § 47-14-05 a '(lower) post-maturity cap'; the section sets six percent unless a rate not exceeding § 47-14-09's is contracted in writing, and says nothing lower. Rewritten to the text, § 47-14-05 added, T.F. James's disposition quoted. OVERSTATED (L)."
+  },
+  {
+    "jurisdiction": "nd",
+    "clause": "warranty-disclaimer",
+    "rule_id": "nd-41-02-33-conspicuous-merchantability-or-as-is-alternate-route",
+    "question": "Does this \"AS IS\" / warranty-disclaimer clause validly exclude North Dakota's implied warranties?",
+    "rule": "Yes, through either of two independent routes under N.D.C.C. § 41-02-33. Route one, subsection 2: \"Subject to subsection 3, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.\" Route two, subsection 3(a), works without mentioning merchantability at all: \"Unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like 'as is', 'with all faults', or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty.\" Ward Farms Partnership v. Enerbase Cooperative Resources applied route two to a signed auction bill of sale reading \"All items sold As-Is, Where-Is,\" holding: \"We conclude the district court correctly determined the bill of sale fulfilled the requirements of N.D.C.C. § 41-02-33(3)(a).\"",
+    "trap": "A disclaimer that fails route one's conspicuous-and-mentions-merchantability test has not necessarily failed to exclude the warranty -- Ward Farms shows an \"as is\" clause can independently satisfy route two even where the buyer separately argued the clause was part of an unequal, adhesion-style bargain; the Supreme Court affirmed the denial of leave to add that unconscionability claim, and did not read the 'as is' language any differently for it. Two further, ND-specific limits sit in the same section and have nothing to do with how a disclaimer is worded: subsection 3(b) removes the implied warranty as to any defect the buyer's own pre-contract examination (or refused examination) \"ought in the circumstances to have revealed\"; and subsection 3(e) carves out a species-specific rule found in few other states' UCC text -- there is no implied warranty that cattle, hogs, sheep, or horses are free from sickness or disease at the time of sale, conditioned on the seller's compliance with state and federal animal-health regulations. Remedies for a warranty that is NOT excluded are governed separately by §§ 41-02-97 and 41-02-98, not by this section.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-33",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-33",
+            "quote": "Subject to subsection 3, to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "N.D.C.C. § 41-02-33",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NDCC_41-02-33",
+            "quote": "Unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is\", \"with all faults\", or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "863 N.W.2d 868",
+        "name": "Ward Farms Partnership v. Enerbase Cooperative Resources",
+        "court": "nd-nd",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "056048b6cf63453d",
+            "cl_opinion_id": "2804004",
+            "quote": "We conclude the district court correctly determined the bill of sale fulfilled the requirements of N.D.C.C. § 41-02-33(3)(a).",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "863 N.W.2d 868",
+        "name": "Ward Farms Partnership v. Enerbase Cooperative Resources",
+        "court": "nd-nd",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-nd",
+            "row_id": "056048b6cf63453d",
+            "cl_opinion_id": "2804004",
+            "quote": "Ward Farms also argues either the bill of sale or the bidder contract amounts to an adhesion contract as it was offered on a “take it or leave it” basis, and the “as is” language is unconscionable and against public policy.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "N.D.C.C. § 41-02-33 read in full (7 numbered points, including the blood/tissue and livestock-disease carve-outs). Ward Farms read in full (18,051 chars); the opinion also rejects an adhesion-contract argument built on the same 'as is' language at ¶28, a separate holding not needed for and not cited as authority for this row's warranty question. Darby v. Swenson, Inc. (2009 ND, row dd7d4fe741d72103) was also read and states 'Section 41-02-33, N.D.C.C., governs the exclusion or modification of warranties' while analyzing subsection 2's conspicuousness requirement on a summary-judgment record, but the passage read did not yield a clean holding-level sentence distinct from the statute text itself and is not added as a second case authority to keep the row focused. HONEST NEGATIVE: no authority read for this row addresses whether subsection 3(a)'s 'as is' route can be defeated by an express warranty made elsewhere in the same transaction (the interaction the store's Alaska row flags via AS 45.02.316(a)); no North Dakota case construing that interaction was located in the searches run. AUDIT 2026-09-22 (full read of the North Dakota pack): § 41-02-33(1)-(4) whole including 3(e) livestock; Ward Farms read at the adhesion argument ('experienced farmer and attorney') and disposition (affirmed). CORRECT. HOLDING SWEEP 2026-09-22: OVERSTATED (L): the trap said the court 'rejected that argument on the facts (an experienced farmer and attorney familiar with auctions)'; the opinion (row 056048b6cf63453d) records the adhesion/unconscionability point as a late motion to amend, denied by the district court and the denial affirmed as within its discretion -- the parenthetical facts were not found in the opinion; reworded and blocked."
+  }
+]

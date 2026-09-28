@@ -1,0 +1,1362 @@
+[
+  {
+    "jurisdiction": "wi",
+    "clause": "anti-assignment",
+    "rule_id": "wi-anti-assignment-post-loss-assignment-and-the-chapter-409-gap",
+    "question": "Does the no-assignment clause in this agreement stop the counterparty transferring its rights without our consent?",
+    "rule": "The Wisconsin authority verified here answers the question for insurance recovery rights. The Court of Appeals held in Pepsi-Cola that, consistent with long-standing Wisconsin law, an anti-assignment provision is not enforceable as to a post-loss assignment: notwithstanding language requiring insurer consent, such consent is not required for an assignment of insurance recovery rights made after a loss has occurred under an occurrence-based policy. The court traced that rule to Dogge v. Northwestern National Insurance Co. (1880), which it quoted as holding that a policy clause avoiding the contract on an assignment without consent applies only to an assignment before a loss, and that after a loss the claim, like any other chose in action, may be assigned without affecting the insurer's liability.",
+    "trap": "The rule is about timing, not about drafting. Before the loss the same clause does work, and Pepsi-Cola decided a coverage dispute under occurrence-based liability policies where the 'loss' was the asbestos exposure during the policy periods — so identifying when the loss occurred is the whole question. Outside insurance this rule says nothing: Wisconsin's enactment of UCC 9-406, Wis. Stat. § 409.406, is published in our statute corpus as a fragment of a single subsection and its text could not be read, so nothing here tells you whether an anti-assignment term is effective against an assignment of an account or other receivable.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2022 WI App 45",
+        "name": "Pepsi-Cola Metropolitan Bottling Company, Inc. v. Employers Insurance Company of Wausau",
+        "court": "Wis. Ct. App.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "0452bbfb542aca47",
+            "cl_opinion_id": "10577242",
+            "quote": "We conclude that consistent with long- standing Wisconsin law, the anti-assignment provisions in Wausau’s policies are not enforceable as to these assignments because the assignments are “post-loss.” We hold that notwithstanding the language in the anti-assignment clauses requiring insurer consent, such consent is not required for an assignment of insurance recovery rights made after a “loss” has occurred under an occurrence-based policy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2022 WI App 45",
+        "name": "Pepsi-Cola Metropolitan Bottling Company, Inc. v. Employers Insurance Company of Wausau",
+        "court": "Wis. Ct. App.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "0452bbfb542aca47",
+            "cl_opinion_id": "10577242",
+            "quote": "[A]lthough the policy provides that an assignment thereof, without the consent of the company, will avoid the contract, yet the law is well settled that this only applies to an assignment before a loss under it. After a loss, the claim, like any other chose in action, may be assigned without affecting the insurer’s liability.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "WISCONSIN STATUTE-TEXT CAVEAT, which governs several rows in this file: docketx/us-statutes publishes Wisconsin (14,534 sections), but the published text of some sections is truncated where a cross-reference appears, and a few rows carry only the editorial annotations. Measured 2026-09-17: § 409.406 is 118 characters, § 402.719 is 90, § 402.725 is 220, § 779.135 holds only an annotation, and § 893.43(1) drops the words that state the period. No rule in this file quotes a section whose text could not be read, and where a section is unreadable the row says so. Chapter 134 is published but § 134.90 is absent from the shard. Pepsi-Cola is a published Court of Appeals decision (2022 WI App 45, marked PUBLISHED OPINION in the row) and binds all districts of the Court of Appeals, subject to the Supreme Court. Good-law scan of the Wisconsin corpus is recorded in the unconscionability row's notes."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "arbitration",
+    "rule_id": "wi-788-01-valid-irrevocable-with-the-employment-exclusion",
+    "question": "Will a Wisconsin court enforce this arbitration clause?",
+    "rule": "Wis. Stat. § 788.01 makes a provision in any written contract to settle by arbitration a controversy thereafter arising out of the contract valid, irrevocable and enforceable except upon such grounds as exist at law or in equity for the revocation of any contract. The same section then excludes a class of agreements from the chapter: it does not apply to contracts between employers and employees, or between employers and associations of employees, except as provided in s. 111.10, nor to agreements to arbitrate disputes under s. 292.63 (6s) or 230.44 (4) (bm).",
+    "trap": "The 'grounds for revocation of any contract' is where Wisconsin arbitration clauses actually die, and the Supreme Court of Wisconsin has used it: in Wisconsin Auto Title Loans the court held an arbitration provision unconscionable and unenforceable, and decided the challenge itself even though the clause said validity was for the arbitrator. Note also what § 788.01 does and does not do. The employment exclusion is a statement about the scope of ch. 788, not about whether an employment arbitration agreement is enforceable under other law, and no authority in this rule addresses the Federal Arbitration Act's effect on that exclusion.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 788.01",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_788_01",
+            "quote": "A provision in any written contract to settle by arbitration a controversy thereafter arising out of the contract, or out of the refusal to perform the whole or any part of the contract, or an agreement in writing between 2 or more persons to submit to arbitration any controversy existing between them at the time of the agreement to submit, shall be valid, irrevocable and enforceable except upon such grounds as exist at law or in equity for the revocation of any contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 788.01",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_788_01",
+            "quote": "This chapter shall not apply to contracts between employers and employees, or between employers and associations of employees, except as provided in s. 111.10 , nor to agreements to arbitrate disputes under s. 292.63 (6s) or 230.44 (4) (bm) .",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2006 WI 53",
+        "name": "Wisconsin Auto Title Loans, Inc. v. Jones",
+        "court": "Wis.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "0fc510bcfcd07331",
+            "cl_opinion_id": "9742833",
+            "quote": "The challenge to the validity of the arbitration provision is to be decided by the courts, even though the arbitration provision in the instant contract provides that the validity of the arbitration provision is to be decided in arbitration.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2006 WI 53",
+        "name": "Wisconsin Auto Title Loans, Inc. v. Jones",
+        "court": "Wis.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "0fc510bcfcd07331",
+            "cl_opinion_id": "9742833",
+            "quote": "We hold that the arbitration provision of the loan agreement between Wisconsin Auto Title Loans and the borrower is unconscionable.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Wisconsin Auto Title Loans: majority by Abrahamson, C.J. (row 0fc510bcfcd07331); Butler, J. concurred (524a7b8e7e64710c) and Roggensack, J. dissented (5c33e7b22398f97f); the full-report row is 8362af90de3af087. The quote is from the majority row. The court noted that Wisconsin Auto Title Loans did not argue that validity had to be decided in arbitration, which is why this rule states the holding and not a general rule about delegation clauses. The store holds no statute effective dates.\nHOLDING SWEEP 2026-09-22 (fifth band, overlap 0.30-0.35): Wisconsin Auto Title Loans holding sentence added."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "attorney-fees",
+    "rule_id": "wi-american-rule-and-the-legislative-authorization-exception",
+    "question": "Who pays the legal costs if we end up in court over this contract?",
+    "rule": "Under the American Rule, as the Supreme Court of Wisconsin stated it in Kolupar, the parties to a lawsuit bear the cost of their own attorney fees absent legislative authorization to shift costs, and the court listed Wisconsin statutes that do authorise fee awards, among them Wis. Stat. § 100.18(11)(b) (Deceptive Trade Practices Act), § 218.0171(7) (Lemon Law) and § 425.308 (Wisconsin Consumer Act). The Rule has exceptions beyond statute: in Estate of Kriefall the court denied a party attorney fees because 'the exception to the American Rule stated in Weinhagen v. Hayes' did not apply on those facts.",
+    "trap": "Kolupar's formulation names legislative authorization, and Kriefall confirms there is at least one judge-made exception, but neither authority in this rule decides whether a prevailing-party clause in a contract shifts fees in Wisconsin, or on what terms — so a clause drafted on the assumption that it plainly will is drafted on something this rule does not establish. Where a statute does authorise fees, the amount is still the court's: Kolupar is a decision about how a circuit court must set a reasonable fee, and its reasonableness analysis has been the ground of later reversals.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2004 WI 112",
+        "name": "Kolupar v. Wilde Pontiac Cadillac, Inc.",
+        "court": "Wis.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "ed928c20d4eb65d1",
+            "cl_opinion_id": "9572860",
+            "quote": "Under the American Rule, the parties to a lawsuit bear the cost of their own attorney fees absent legislative authorization to shift costs.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2012 WI 70",
+        "name": "Estate of Kriefall v. Sizzler USA Franchise, Inc.",
+        "court": "Wis.",
+        "decided": "2012",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "7f36f06452e2653c",
+            "cl_opinion_id": "8203879",
+            "quote": "Sizzler may not recover attorney fees from Excel because the exception to the American Rule stated in Weinhagen v. Hayes, 179 Wis. 62 , 190 N.W 1002 (1922), does not apply here.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Kolupar: majority by Prosser, J. (row ed928c20d4eb65d1); Abrahamson, C.J. dissented (8169502683a55701); the full-report row is 1e854189332f3dc3. Kriefall: majority by Roggensack, J. (row 7f36f06452e2653c); Abrahamson, C.J. concurred in part and dissented in part (348fcb2172ab39a1). Weinhagen v. Hayes was not read for this rule, so the content of that exception is not stated. The statutes Kolupar lists were not separately read."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "choice-of-law",
+    "rule_id": "wi-choice-of-law-honored-unless-it-displaces-a-fundamental-wisconsin-policy",
+    "question": "Will a Wisconsin court apply the law we chose, or Wisconsin law?",
+    "rule": "Wisconsin courts have acknowledged that parties to a contract may expressly agree that the law of a particular jurisdiction shall control their contractual relations, but the Supreme Court of Wisconsin held in Bush that the proposition is by no means unqualified: because the Wisconsin Fair Dealership Law embodies a strong state public policy, parties cannot avoid it by including a contrary choice-of-law provision in their contract. The court described the kind of law that does this work: statutes or common law which make a particular type of contract enforceable, such as usury laws, or which make a particular contract provision unenforceable, such as laws prohibiting covenants not to compete, or that are designed to protect a weaker party against the unfair exercise of superior bargaining power, are likely to embody an important state public policy.",
+    "trap": "The test is not whether the chosen state's law is worse for the objecting party but whether Wisconsin's policy is fundamental. In Bush the defendant argued that Minnesota also protected franchises against unfair termination; that did not save the clause, because the legislature had declared the Fair Dealership Law fundamental policy and had specifically provided that its effect cannot be varied by contract. The category the court described is a description of the kinds of law likely to embody such a policy, not a list of clauses that are void, and the authority here decides only the Fair Dealership Law.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "139 Wis.2d 635",
+        "name": "Bush v. National School Studios, Inc.",
+        "court": "Wis.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "68f036305a806586",
+            "cl_opinion_id": "9575422",
+            "quote": "We further conclude that because the WFDL embodies a strong state public policy, parties cannot avoid it by including a contrary choice of law provision in their contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "139 Wis.2d 635",
+        "name": "Bush v. National School Studios, Inc.",
+        "court": "Wis.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "68f036305a806586",
+            "cl_opinion_id": "9575422",
+            "quote": "In general, however, statutes or common law which make a particular type of contract enforceable, e.g., usury laws, or which make a particular contract provision unenforceable, e.g., laws prohibiting covenants not to compete, or that are designed to protect a weaker party against the unfair exercise of superior bargaining power by another party, are likely to embody an important state public policy.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Bush: majority by Bablitch, J. (row 68f036305a806586); Steinmetz, J. dissented (3268a49a8882a12f); the full-report row is 5e010d769f0a20e4. Both quotes are from the majority row. Wisconsin's Fair Dealership Law (ch. 135) was not read section by section for this rule; the rule states only what the court held about it."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "wi-421-106-customer-may-not-waive-and-the-100-18-untrue-statement",
+    "question": "Does the waiver-and-release language in our consumer paperwork hold?",
+    "rule": "Not for a transaction the Wisconsin Consumer Act covers. Wis. Stat. § 421.106(1) provides that, except as otherwise provided in chs. 421 to 427, a customer may not waive or agree to forego rights or benefits under chs. 421 to 427. A disputed claim may still be settled by agreement under § 421.106(2), but § 421.106(4) makes a settlement in which the customer waives or agrees to forego those rights invalid if the court as a matter of law finds the settlement unconscionable at the time it was made, and it lists what the court may consider, including the customer's education, ability to speak and read the language of the contract, prior consumer experience, any deception or coercion, the legal advice received and the value of the consideration. Separately, Wis. Stat. § 100.18(1) makes it unlawful to place before the public an advertisement, announcement, statement or representation containing any assertion, representation or statement of fact which is untrue, deceptive or misleading.",
+    "trap": "The two statutes do not cover the same ground and neither is a general consumer-contract rule. Section 421.106 operates only on rights and benefits 'under chs. 421 to 427', so it protects a customer in a transaction those chapters reach and the row does not establish which transactions those are — the definitions in ch. 421 were not read here. Section 100.18(1) is about a statement made to the public in connection with a sale, not about a waiver clause at all, and its own words ('with intent to sell ... to the public') carry a scope this rule does not enlarge. § 100.18 also exempts the messenger rather than the seller: it does not apply to the owner, publisher, printer, agent or employee of a newspaper or other publication, periodical or circular, or of a radio or television station, who publishes or takes part in publishing the advertisement in good faith and without knowledge of its falsity or deceptive character. The liability the section creates is the advertiser's, not the medium's. § 100.18 also steps back from licensed real estate work: “This section does not apply to a person licensed as a broker or salesperson under s. 452.09 while that person is engaged in real estate practice, as defined in s. 452.01 (6) ,” unless that person personally made, published, disseminated, circulated or placed the assertion before the public with knowledge of its falsity. So the section reaches a broker only through their own knowing statement.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 421.106",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_421_106",
+            "quote": "Except as otherwise provided in chs. 421 to 427 , a customer may not waive or agree to forego rights or benefits under chs. 421 to 427 .",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 421.106",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_421_106",
+            "quote": "A settlement in which the customer waives or agrees to forego rights or benefits under chs. 421 to 427 is invalid if the court as a matter of law finds the settlement to be unconscionable at the time it was made.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 100.18",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_100_18",
+            "quote": "an advertisement, announcement, statement or representation of any kind to the public relating to such purchase, sale, hire, use or lease of such real estate, merchandise, securities, service or employment or to the terms or conditions thereof, which advertisement, announcement, statement or representation contains any assertion, representation or statement of fact which is untrue, deceptive or misleading.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 100.18",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_100_18",
+            "quote": "This section does not apply to the owner, publisher, printer, agent or employee of a newspaper or other publication, periodical or circular, or of a radio or television station, who in good faith and without knowledge of the falsity or deceptive character thereof, publishes, causes to be published or takes part in the publication of such advertisement.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 100.18",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_100_18",
+            "quote": "This section does not apply to a person licensed as a broker or salesperson under s. 452.09 while that person is engaged in real estate practice, as defined in s. 452.01 (6) ,",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Both sections were read in full in the published rows, including § 421.106(2) and (3) (settlement of a disputed claim, and settlement for less than the amount claimed) and § 100.18(2)'s combined-sale rules. The rule is deliberately untagged for contract type: the Wisconsin Consumer Act's own definition of a customer and of the transactions chs. 421 to 427 reach (ch. 421 definitions, § 421.202 exclusions) was not read, and § 100.18 reaches sales of real estate, securities, employment and services as well as goods. The store holds no statute effective dates. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; none of the limit's most distinctive words appeared in this row. The exemption is § 100.18(9)(b). SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row. The exclusion is § 100.18(12)(b) and its closing condition is described rather than quoted."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "electronic-signature",
+    "rule_id": "wi-137-15-electronic-form-is-not-a-defence-subject-to-137-12",
+    "question": "Is this agreement unenforceable because it was signed electronically?",
+    "rule": "No, within ch. 137's scope. Wis. Stat. § 137.15 provides that a record or signature may not be denied legal effect or enforceability solely because it is in electronic form, and that a contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. Section 137.11(8) defines an electronic signature as an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.",
+    "trap": "Section 137.12 takes whole categories out of the chapter, and they are the ones people forget. The chapter does not apply to a transaction to the extent it is governed by any law governing the execution of wills or the creation of testamentary trusts, or by chs. 401 and 403 to 410 (the Wisconsin UCC other than Articles 2 and 2A, and other than s. 401.306); § 137.12(2m) excludes records governed by adoption, divorce or other family law, court notices, court orders and official court documents; and § 137.12(2r) excludes certain statutory notices, including notice of cancellation of utility service and notice of default, acceleration, repossession, foreclosure or eviction under a credit agreement secured by, or a rental agreement for, an individual's primary residence. The definition also carries a fact question the form of the signature cannot answer: it must have been executed or adopted 'with the intent to sign the record'. Wisconsin also carves notices out by subject matter: § 137.12(2r) provides that, “To the extent that it is excluded from the scope of 15 USC 7003 , this chapter does not apply to a notice to the extent that it is governed by a law requiring the furnishing of any notice of:” and then lists them. So a notice governed by one of those laws is outside the chapter to that extent, unless 15 USC 7003 brings it back.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 137.15",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_137_15",
+            "quote": "(1) A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. 137.15(2) (2) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 137.12",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_137_12",
+            "quote": "this chapter does not apply to a transaction to the extent it is governed by: 137.12(2)(a) (a) Any law governing the execution of wills or the creation of testamentary trusts; 137.12(2)(b) (b) Chapters 401 and 403 to 410 , other than s. 401.306 .",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 137.11",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_137_11",
+            "quote": "“Electronic signature” means an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 137.12",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_137_12",
+            "quote": "To the extent that it is excluded from the scope of 15 USC 7003 , this chapter does not apply to a notice to the extent that it is governed by a law requiring the furnishing of any notice of:",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Sections 137.11, 137.12 and 137.15 were read in full in the published rows, which is why the trap states § 137.12(2m) and (2r) although only (2) is quoted as an authority. Section 137.12(2p) also provides that the chapter applies to a transaction governed by the federal E-SIGN Act but is not intended to limit, modify or supersede 15 USC 7001(c); that interaction is not analysed here. The store holds no statute effective dates. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row. The enumerated notice types in § 137.12(2r) were read and are NOT reproduced here."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "entire-agreement",
+    "rule_id": "wi-merger-clause-excludes-prior-understandings-when-the-writing-is-unambiguous",
+    "question": "Does our merger clause keep the other side's emails and term sheets out of the case?",
+    "rule": "Where the writing is unambiguous and fully integrated, yes, on the authority verified here. In Town Bank the Supreme Court of Wisconsin concluded that the term credit agreement was an unambiguous, fully integrated agreement, and agreed that it contained an unambiguous merger clause which precluded the counterparty from introducing any evidence of prior understandings or agreements that may have existed between the parties, including the earlier commitment letter. Because the agreement should have been enforced on summary judgment, the case should not have proceeded to a jury trial.",
+    "trap": "A merger clause settles what the writing covers, not what a separate contract on a different subject provides. Town Bank went on to assume, without deciding, that the commitment letter was a separate and enforceable contract, and then held that the bank was within its rights to terminate it because the borrower had not fulfilled at least two of its conditions — so the outcome turned on the conditions, not only on the clause. The case also shows what the clause has to be paired with: the court's route to summary judgment ran through the agreement being unambiguous, and an ambiguous writing with a merger clause still goes to trial on meaning.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2010 WI 134",
+        "name": "Town Bank v. City Real Estate Development, LLC",
+        "court": "Wis.",
+        "decided": "2010",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "732d48e3f8f85ca6",
+            "cl_opinion_id": "8203380",
+            "quote": "We agree with Town Bank that the TCA contains an unambiguous merger clause which precluded City Real Estate from introducing any evidence of prior understandings or agreements that may have existed between the parties, including the commitment letter.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2010 WI 134",
+        "name": "Town Bank v. City Real Estate Development, LLC",
+        "court": "Wis.",
+        "decided": "2010",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "732d48e3f8f85ca6",
+            "cl_opinion_id": "8203380",
+            "quote": "Even assuming, without deciding, that the commitment letter constitutes a separate and enforceable contract for financing, we conclude that Town Bank was within its rights to terminate the agreement. It is undisputed that City Real Estate did not fulfill at least two of the conditions set forth in the commitment letter.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Town Bank: majority by Ziegler, J. (row 732d48e3f8f85ca6); Ann Walsh Bradley, J. dissented (111db6783c4e36e5). The 2010-03-09 row cbb011f6fa11ecc1 is a 180-character stub, not the decision. Later Wisconsin decisions, including Midwest Neurosciences (2018), cite Town Bank for its definition of a merger clause as a written provision which expressly negatives collateral or antecedent understandings; that definition was located in the later opinions rather than quoted from Town Bank here."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "force-majeure",
+    "rule_id": "wi-frustration-of-purpose-three-elements-narrow-and-sparingly-applied",
+    "question": "Can our counterparty stop performing because the deal's purpose was destroyed by an outside event?",
+    "rule": "Rarely. Wisconsin defines the frustration defence, tracking Restatement (Second) of Contracts § 265, as requiring that (1) the party's principal purpose in making the contract is frustrated; (2) without that party's fault; (3) by the occurrence of an event, the non-occurrence of which was a basic assumption on which the contract was made (Convenience Store Leasing, quoting Ryan v. Sheppard). The Court of Appeals recorded that the doctrine is given a narrow construction and applied sparingly, because it renders null the explicit terms of the contract and is counter to the strong impulse in the law to enforce contracts as written, and that the party asserting the defence bears the burden of proving it.",
+    "trap": "Foreseeability and allocated risk defeat the defence before the elements are reached: the court recorded that the doctrine does not apply where the risk of the supervening event was reasonably foreseeable and could and should have been anticipated by the parties and provision made for it in the agreement. And 'frustrated' does not mean unprofitable — the Restatement illustration the court quoted has a gas-station lessee who can still operate at a substantial loss, whose principal purpose is therefore not substantially frustrated and who remains liable for rent, with the same result where the loss is caused by a government regulation or the termination of the supply franchise. The frustrating event must strike at the foundation of the contract so that performance would be virtually worthless and meaningless.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2019 WI App 40",
+        "name": "Convenience Store Leasing and Management v. Annapurna Marketing",
+        "court": "Wis. Ct. App.",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "ec56dae84a94bf7a",
+            "cl_opinion_id": "10575500",
+            "quote": "our cases define the elements of this defense as follows: “(1) the party’s principal purposes in making the contract is frustrated; (2) without that party’s fault; (3) by the occurrence of an event, the non-occurrence of which was a basic assumption on which the contract was made.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2019 WI App 40",
+        "name": "Convenience Store Leasing and Management v. Annapurna Marketing",
+        "court": "Wis. Ct. App.",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "ec56dae84a94bf7a",
+            "cl_opinion_id": "10575500",
+            "quote": "The doctrine of frustration is “given a narrow construction” and “applied sparingly.” 17A AM. JUR. 2D Contracts § 641 (2016). This is so because it renders null the explicit terms of the contract and is counter to the strong impulse in the law to enforce contracts as written.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2019 WI App 40",
+        "name": "Convenience Store Leasing and Management v. Annapurna Marketing",
+        "court": "Wis. Ct. App.",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "ec56dae84a94bf7a",
+            "cl_opinion_id": "10575500",
+            "quote": "“The doctrine does not apply where the risk of the event that has supervened to cause the alleged 9 No. 2017AP1505 frustration was reasonably foreseeable and could and should have been anticipated by the parties and provision made for it in the agreement.”",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Convenience Store Leasing is a published Court of Appeals decision (2019 WI App 40, marked PUBLISHED OPINION in the row), authored by Hagedorn, J. for a three-judge panel; the row contains no separate opinion. The third quote reproduces the page marker '9 No. 2017AP1505' that sits inside the sentence in the published row. The narrow-construction and foreseeability propositions are the court quoting American Jurisprudence, which it adopts and applies; the elements are the court quoting Ryan v. Sheppard. The court reversed, holding the defence not made out on those facts. Wisconsin's sale-of-goods excuse provision is not in our published statute shard as usable text, so nothing here speaks to a contract for the sale of goods."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "indemnity",
+    "rule_id": "wi-895-447-construction-tort-limits-void-and-what-it-does-not-reach",
+    "question": "Will this indemnity or liability-limiting clause in a construction contract survive in Wisconsin?",
+    "rule": "Wis. Stat. § 895.447(1) makes against public policy and void any provision to limit or eliminate tort liability as part of or in connection with any contract, covenant or agreement relating to the construction, alteration, repair or maintenance of a building, structure, or other work related to construction, including any moving, demolition or excavation. The section states its own exceptions: it does not apply to any insurance contract or worker's compensation plan (§ 895.447(2)), and it does not apply to any provision of a contract, covenant or agreement entered into prior to July 1, 1978 (§ 895.447(3)).",
+    "trap": "The operative words are 'limit or eliminate tort liability', and the Supreme Court of Wisconsin has read them narrowly. In Rural Mutual the court concluded that § 895.447 does not void a subrogation waiver in a construction contract because the waiver does not limit or eliminate tort liability, and separately that the subrogation waiver is not an unenforceable exculpatory contract contrary to public policy. So a clause that reallocates who bears an insured loss can sit inside a Wisconsin construction contract where a clause that caps or excludes the contractor's tort liability cannot, and the drafting question is which of the two the words actually do.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 895.447",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_895_447",
+            "quote": "Any provision to limit or eliminate tort liability as a part of or in connection with any contract, covenant or agreement relating to the construction, alteration, repair or maintenance of a building, structure, or other work related to construction, including any moving, demolition or excavation, is against public policy and void.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 895.447",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_895_447",
+            "quote": "895.447(2) (2) This section does not apply to any insurance contract or worker’s compensation plan. 895.447(3) (3) This section shall not apply to any provision of any contract, covenant or agreement entered into prior to July 1, 1978.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2019 WI 70",
+        "name": "Rural Mutual Insurance Company v. Lester Buildings, LLC",
+        "court": "Wis.",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "b4ea11e805f242df",
+            "cl_opinion_id": "9888747",
+            "quote": "We conclude that Wis. Stat. § 895.447 does not void the subrogation waiver in Lester Buildings' contract because the waiver does not limit or eliminate tort liability. We also conclude that the subrogation waiver is not an unenforceable exculpatory contract contrary to public policy.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "applies_to": [
+      "construction"
+    ],
+    "notes": "Section 895.447 was read in full in the published row, including its history line and annotations; the annotations record Gerdmann v. United States Fire Insurance Co. (Ct. App. 1984) holding the section did not void an indemnity clause, which is why this rule does not say that every construction indemnity is void. Rural Mutual: majority by Dallet, J. (row b4ea11e805f242df); Kelly, J. dissented (623fac064094eb43); the full-report rows are a9ff1f3e56b8cf55 and e6d5294332899eb8. Tagged 'construction' because the section's own words limit it to contracts relating to construction, alteration, repair or maintenance of a building, structure or other work related to construction."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "lien-waiver",
+    "rule_id": "wi-779-135-voids-the-clause-but-a-waiver-actually-given-still-binds",
+    "question": "Is the advance lien-waiver requirement in our subcontract enforceable, and does signing a waiver before payment give up the lien?",
+    "rule": "The clause is void and the waiver is not. The Court of Appeals in Tri-State Mechanical recorded that Wis. Stat. § 779.135(1) voids a provision that requires a subcontractor to waive its right to a construction lien before it can get paid, and that the policy behind the statute was to ensure that contractors and subcontractors were paid for their work before they were required to produce a lien waiver. But the court held that the waiver the subcontractor actually furnished was not void as a result: Wis. Stat. § 779.05(1) allows a subcontractor who has signed a contract containing a lien waiver provision to refuse to furnish a waiver unless paid in full for the work or material to which the waiver relates, so the legislature gave the subcontractor a choice, and a subcontractor who tenders the waiver before payment has made it.",
+    "trap": "That is the trap in one sentence: voiding the clause does not undo the waiver. Jones argued that reading § 779.135(1) this way places an unreasonable level of legal sophistication on subcontractors, and the court answered that every person, sophisticated or otherwise, is presumed to know the law. A subcontractor in Wisconsin therefore has to act on the void clause at the moment it is asked for a waiver, not litigate about it afterwards, and the owner's reliance on the waiver is not what the analysis turns on.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2004 WI App 100",
+        "name": "Tri-State Mechanical, Inc. v. Northland College",
+        "court": "Wis. Ct. App.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "13ec2efea174ac2b",
+            "cl_opinion_id": "2039051",
+            "quote": "We also agree with Jones' assertion that the policy behind the statute was to ensure that contractors and subcontractors were paid for their work before they were required to produce a lien waiver.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2004 WI App 100",
+        "name": "Tri-State Mechanical, Inc. v. Northland College",
+        "court": "Wis. Ct. App.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "13ec2efea174ac2b",
+            "cl_opinion_id": "2039051",
+            "quote": "However, we do not agree that the construction lien waiver filed by Jones is consequently void. Wisconsin Stat. § 779.05(1) specifically allows a subcontractor who has signed a contract containing a lien waiver provision to \"refuse to furnish a waiver unless paid in full for the work or material to which the waiver relates.\"",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2004 WI App 100",
+        "name": "Tri-State Mechanical, Inc. v. Northland College",
+        "court": "Wis. Ct. App.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "13ec2efea174ac2b",
+            "cl_opinion_id": "2039051",
+            "quote": "However, as a general proposition, every person, sophisticated or otherwise, is presumed to know the law.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "applies_to": [
+      "construction"
+    ],
+    "notes": "Tri-State Mechanical is a published Court of Appeals decision (2004 WI App 100), by Cane, C.J.; the row contains no separate opinion. The text of Wis. Stat. § 779.135 could not be read: the published row for that section in docketx/us-statutes carries only the editorial annotation, not the statutory text, so what § 779.135(1) provides is stated here as the Court of Appeals stated it and no other subsection of § 779.135 is described. The quoted § 779.05(1) language is likewise the court's quotation. Tagged 'construction'."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "limitation-of-liability",
+    "rule_id": "wi-exculpatory-clauses-void-on-a-combination-of-factors",
+    "question": "Will this release or liability waiver actually protect us in Wisconsin?",
+    "rule": "Wisconsin does not have a single test; it invalidates exculpatory contracts on a combination of factors. In Richards the Supreme Court of Wisconsin held a release void as against public policy because of three factors, none of which alone would necessarily invalidate the release: the contract served two purposes, not clearly identified or distinguished; the release was extremely broad and all-inclusive; and the release was in a standardized agreement printed on the company's form, offering little or no opportunity for negotiation or free and voluntary bargaining. Atkins applied the same approach and added a drafting point: using the word 'fault' did not make clear to the signer that she was releasing others from intentional, as well as negligent, acts.",
+    "trap": "Every one of the three Richards factors describes an ordinary commercial form. Atkins found the waiver overly broad and all-inclusive, found that a form serving two functions and not requiring a separate signature failed to highlight the waiver so that it was uncertain whether the signer was fully notified about the nature and significance of the document, and found the lack of any opportunity to bargain itself contrary to public policy — the signer would not have been allowed to swim had she refused. Note the reach of these two decisions before relying on them: both involve an individual signing a provider's standard form, not a negotiated allocation of risk between businesses, and neither states a rule for a commercial limitation-of-liability clause.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "181 Wis.2d 1007",
+        "name": "Richards v. Richards",
+        "court": "Wis.",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "bf972277069da7b6",
+            "cl_opinion_id": "9694966",
+            "quote": "An examination of the principles underlying the determination of the validity of exculpatory contracts leads us to the conclusion that the form is an unenforceable exculpatory contract due to a combination of three factors. None of these factors alone would necessarily invalidate the release; however, taken together they demand the conclusion that the contract is void as against public policy. First, the contract serves two purposes, not clearly identified or distinguished. Second, the release is extremely broad and all-inclusive. Third, the release is in a standardized agreement printed on the Company's form, offering little or no opportunity for negotiation or free and voluntary bargaining.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2005 WI 4",
+        "name": "Atkins v. Swimwest Family Fitness Center",
+        "court": "Wis.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "02bb36980bbabc1a",
+            "cl_opinion_id": "9531341",
+            "quote": "We conclude that the exculpatory language in Swimwest's form is unenforceable, since it is contrary to public policy. The waiver of liability language is, first, overly broad and all-inclusive. The use of the word \"fault\" on the form did not make clear to Wilson that she was releasing others from intentional, as well as negligent, acts.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2005 WI 4",
+        "name": "Atkins v. Swimwest Family Fitness Center",
+        "court": "Wis.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "02bb36980bbabc1a",
+            "cl_opinion_id": "9531341",
+            "quote": "Finally, Wilson did not have any opportunity to bargain. If she had decided not to sign the guest registration and waiver form, she would not have been allowed to swim. The lack of such opportunity is also contrary to public policy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2005 WI 4",
+        "name": "Atkins v. Swimwest Family Fitness Center",
+        "court": "Wis.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "02bb36980bbabc1a",
+            "cl_opinion_id": "9531341",
+            "quote": "Second, the form, serving two functions and not requiring a separate signature for the exculpatory clause, thus not sufficiently highlighting that clause, does not provide the signer adequate notification of the waiver's nature and significance.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Richards: majority by Abrahamson, J. (row bf972277069da7b6); Day, J. dissented (d480b78ed3562e4b); the full-report row is 5b6c944b06125053. Atkins: majority by Crooks, J. (row 02bb36980bbabc1a); Roggensack, J. concurred (19af0f87e652ee09) and Wilcox, J. dissented (eb36f08cbb68cfd8); the full-report row is 5e2447097095f65a. Good-law scan: the flagged windows for Richards are later opinions noting that a different case (Arnold v. Shawano County Agricultural Society) was overruled on other grounds, and a law-review observation quoted in Rainbow Country Rentals that every exculpatory contract this court had examined in 25 years had been held unenforceable. No negative treatment of Richards or Atkins.\nHOLDING SWEEP 2026-09-22 (fifth band, overlap 0.30-0.35): Atkins second factor (two-function form, no separate signature) now quoted."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "limitation-of-remedy",
+    "rule_id": "wi-402-719-exclusive-remedy-as-quoted-by-the-court-of-appeals",
+    "question": "Will our repair-or-replace remedy be the buyer's only remedy on a sale of goods?",
+    "rule": "Under Article 2 as the Court of Appeals set it out in Buddy's Plant Plus, buyers and sellers may, subject to limits, make other remedies available in their contract, including limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts (Wis. Stat. § 402.719(1)(a)); and where a contractually specified remedy is expressly agreed to be exclusive, it is the sole remedy (§ 402.719(1)(b)). Absent such a clause the Code's own damages measure applies, but §§ 402.713 and 402.715 are not in our published Wisconsin statutes and no authority read for this rule quotes them, so that measure is not stated here.",
+    "trap": "'Expressly agreed to be exclusive' is the whole of subsection (1)(b), and the dispute in Buddy's Plant Plus was about which breach the limited remedy attached to: the buyer argued the warranty clause could not govern the seller's failure to deliver the machine at all, because the UCC provides different remedies for non-delivery and for breach of warranty. So a remedy clause drafted inside a warranty section may not reach a failure to deliver, a repudiation or a breach that is not a warranty breach. What § 402.719 does when an exclusive remedy fails of its essential purpose is not stated here: the published text of Wis. Stat. § 402.719 in our corpus is a 90-character fragment and no authority read for this rule quoted that subsection.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "Wis. Ct. App. No. 2023AP2428",
+        "name": "Buddy's Plant Plus Corporation v. Viking Masek Global Packaging Technologies, LLC",
+        "court": "Wis. Ct. App.",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "4dff3d1992422620",
+            "cl_opinion_id": "11110984",
+            "quote": "However, Article 2 allows buyers and sellers, subject to certain limits discussed below, to make other remedies available in their contract, including “limiting the buyer’s remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts.” WIS. STAT. § 402.719(1)(a). Where a contractually specified remedy “is expressly agreed to be exclusive, … it is the sole remedy.” Sec. 402.719(1)(b).",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Wis. Ct. App. No. 2023AP2428",
+        "name": "Buddy's Plant Plus Corporation v. Viking Masek Global Packaging Technologies, LLC",
+        "court": "Wis. Ct. App.",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "4dff3d1992422620",
+            "cl_opinion_id": "11110984",
+            "quote": "Buddy’s relies on the distinction drawn in the UCC and the contract between breaches of contract and breaches of warranty and the remedies available for each. For example, Buddy’s notes that the UCC provides different remedies for nondelivery of goods and a breach of warranty.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "The published row for this decision is a slip opinion whose header says the opinion is recommended for publication but carries no official 20XX WI App number, so it is cited here by its Court of Appeals docket number (No. 2023AP2428), which is in the row itself. It is quoted because Wis. Stat. § 402.719's own text is not usable in our published statute shard (90 characters, heading only). The second quote records the losing party's argument as the court framed it, which is why the trap presents it as the shape of the dispute and not as a holding. Left untagged for contract type, following SCHEMA.md's rule that UCC Article 2 rows stay untagged. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): UNSUPPORTED (L): the rule stated § 402.713(1)'s market-price measure; neither § 402.713 nor § 402.715 is in the wi shard and no cited opinion quotes them; reworded to disclose."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "limitations-period",
+    "rule_id": "wi-six-years-running-from-breach-not-from-discovery",
+    "question": "How long do we have to sue on this contract, and when does the clock start?",
+    "rule": "Six years, running from the breach. The Supreme Court of Wisconsin described Wis. Stat. § 893.43 as Wisconsin's six-year statute of limitations for contract actions and held that under that section a contract cause of action accrues at the moment the contract is breached, regardless of whether the injured party knew or should have known that the breach occurred (CLL Associates). The court recorded that this holding rests on a 90-year line of precedent.",
+    "trap": "There is no discovery rule for contract claims in Wisconsin, which is the opposite of the default many drafters assume: a latent defect or a quiet breach can run the period out before anyone could have found it, and a warranty or audit-rights clause that assumes the clock starts on discovery does not change the statute. This rule states the accrual holding and the six-year description as the Supreme Court stated them; the words of § 893.43(1) itself are not quoted, because the published text of that section in our corpus drops the words that state the period, and § 893.43(2) sets a different three-year period for an action upon a motor vehicle insurance policy described in s. 632.32(1). Nothing here addresses whether a contract may shorten the period.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "174 Wis.2d 604",
+        "name": "CLL Associates Ltd. Partnership v. Arrowhead Pacific Corp.",
+        "court": "Wis.",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "134ae32ed02a6fab",
+            "cl_opinion_id": "9695039",
+            "quote": "We hold that under sec. 893.43, a contract cause of action accrues at the moment the contract is breached, regardless of whether the injured party knew or should have known that the breach occurred.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "174 Wis.2d 604",
+        "name": "CLL Associates Ltd. Partnership v. Arrowhead Pacific Corp.",
+        "court": "Wis.",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "134ae32ed02a6fab",
+            "cl_opinion_id": "9695039",
+            "quote": "There is one issue presented in this case. When does a contract cause of action \"accrue,\" as that term is used in sec. 893.43, Stats., 1 Wisconsin's six-year statute of limitations for contract actions?",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "CLL Associates: majority by Steinmetz, J. (row 134ae32ed02a6fab); Abrahamson, J. dissented (745b91abfb6f3468); the full-report row is e7379979412b0684. The second quote reproduces the footnote marker '1' that sits inside the sentence in the published row. Good-law scan: 38 later Wisconsin opinions mention 174 Wis.2d 604 and every flagged window was read; the closest is Estate of Makos (1997), where the court was asked to overrule CLL and declined ('We disagree'), and the most recent is Wascher v. Carved Stone Creations (2022), which applies CLL. No negative treatment. Section 893.43's subsection (2) three-year period for a motor vehicle insurance policy is readable in the published row and is noted in the trap. The store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "liquidated-damages",
+    "rule_id": "wi-wassenaar-reasonable-under-the-totality-of-circumstances",
+    "question": "Will our liquidated-damages figure be enforced, or struck down as a penalty?",
+    "rule": "The Supreme Court of Wisconsin applies one test: the overall single test of validity is whether the clause is reasonable under the totality of circumstances (Wassenaar). Validity is a question of law for the trial judge rather than a mixed question for the jury, but the label does not relieve the trial court of its duty to consider evidence: in deciding whether a stipulated damages clause is valid the trial judge should inquire into all relevant circumstances, including the existence and extent of the anticipated and actual injury to the non-breaching party. The burden is on the party challenging the clause, consistent with the general principle that the law assumes bargains are enforceable.",
+    "trap": "Wassenaar also decides what happens after the clause is upheld, and it cuts against the breaching party: where the stipulated damages clause is a valid provision for liquidated damages, the doctrine of mitigation of damages is not applicable to determine the damages awarded the non-breaching party, and on those facts the employee's earnings after the breach did not reduce the award. Note the vocabulary the court uses, because it is how Wisconsin opinions are written: 'stipulated damages' is the clause the parties wrote, and 'liquidated damages' is a stipulated damages clause a court has held reasonable and will enforce.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "111 Wis.2d 518",
+        "name": "Wassenaar v. Panos",
+        "court": "Wis.",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "d10fd6e942363359",
+            "cl_opinion_id": "1614194",
+            "quote": "We turn now to the test that the trial court (and the appellate court) should apply in deciding whether a stipulated damages clause is valid. The overall single test of validity is whether the clause is reasonable under the totality of circumstances.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "111 Wis.2d 518",
+        "name": "Wassenaar v. Panos",
+        "court": "Wis.",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "d10fd6e942363359",
+            "cl_opinion_id": "1614194",
+            "quote": "In deciding whether a stipulated damages clause is valid, then, the trial judge should inquire into all relevant circumstances, including such matters as the existence and extent of the anticipated and actual injury to the nonbreaching party.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "111 Wis.2d 518",
+        "name": "Wassenaar v. Panos",
+        "court": "Wis.",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "d10fd6e942363359",
+            "cl_opinion_id": "1614194",
+            "quote": "We conclude that where the stipulated damages clause is a valid provision for liquidated damages, the doctrine of mitigation of damages is not applicable to determine the damages awarded the nonbreaching party.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Wassenaar: opinion by Abrahamson, J.; the published row contains no separate opinion. The case concerns a stipulated damages clause in an employment contract, and the mitigation holding was decided in that setting; the reasonableness test itself is stated generally. Good-law scan: 85 later Wisconsin opinions mention 111 Wis.2d 518, one flagged window, which is a footnote in Siva Truck Leasing (1991) where the flag word belongs to an unrelated citation. No negative treatment."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "non-competition",
+    "rule_id": "wi-103-465-reasonably-necessary-and-the-all-or-nothing-consequence",
+    "question": "Will this non-compete or customer non-solicit hold up in Wisconsin?",
+    "rule": "Wis. Stat. § 103.465 makes a covenant by an assistant, servant or agent not to compete with the employer or principal, during or after the employment or agency, within a specified territory and during a specified time, lawful and enforceable only if the restrictions imposed are reasonably necessary for the protection of the employer or principal; and any covenant described in that section imposing an unreasonable restraint is illegal, void and unenforceable even as to any part of the covenant or performance that would be a reasonable restraint. Star Direct applied that standard clause by clause, holding the customer and confidentiality clauses reasonably necessary and therefore enforceable while the business clause was overbroad and unenforceable, and holding the two good clauses divisible from the bad one and enforceable on their own terms. Consideration is not the obstacle it was once thought to be: Runzheimer holds that an employer's forbearance in exercising its right to terminate an at-will employee constitutes lawful consideration for signing a restrictive covenant.",
+    "trap": "The statute's last clause is the one that decides Wisconsin cases: an unreasonable restraint is void 'even as to any part of the covenant or performance that would be a reasonable restraint', so there is no blue-pencilling and no judicial narrowing inside a single covenant. Star Direct's answer is structural — separate, independently meaningful clauses can survive their neighbour's failure — and drafting one omnibus restriction gives the court nothing to save. On consideration, Runzheimer's holding comes with a qualification the court itself supplied: an employer that terminates shortly after obtaining the signature leaves the employee protected by other contract formation principles such as fraudulent inducement or good faith and fair dealing, so that the covenant could not be enforced. Runzheimer decided consideration only; the court declined to address the reasonableness of that covenant's terms.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 103.465",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_103_465",
+            "quote": "A covenant by an assistant, servant or agent not to compete with his or her employer or principal during the term of the employment or agency, or after the termination of that employment or agency, within a specified territory and during a specified time is lawful and enforceable only if the restrictions imposed are reasonably necessary for the protection of the employer or principal. Any covenant, described in this section, imposing an unreasonable restraint is illegal, void and unenforceable even as to any part of the covenant or performance that would be a reasonable restraint.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2009 WI 76",
+        "name": "Star Direct, Inc. v. Dal Pra",
+        "court": "Wis.",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "4dd91744a4301a91",
+            "cl_opinion_id": "9687731",
+            "quote": "We conclude that the customer and confidentiality clauses are reasonably necessary to protect Star Direct and therefore enforceable. The business clause, however, is overbroad and unenforceable. We also hold that the customer and confidentiality clauses are divisible from the business clause and enforceable on their own terms.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2015 WI 45",
+        "name": "Runzheimer International, Ltd. v. David Friedlen",
+        "court": "Wis.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "501bb92b7ebfa813",
+            "cl_opinion_id": "9807103",
+            "quote": "We hold that an employer's forbearance in exercising its right to terminate an at-will employee constitutes lawful consideration for signing a restrictive covenant. Although, theoretically, an employer could terminate an employee's employment shortly after having the employee sign a restrictive covenant, *107 the employee would then be protected by other contract formation principles such as fraudulent inducement or good faith and fair dealing, so that the restrictive covenant could not be enforced.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2015 WI 45",
+        "name": "Runzheimer International, Ltd. v. David Friedlen",
+        "court": "Wis.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "501bb92b7ebfa813",
+            "cl_opinion_id": "9807103",
+            "quote": "In this case, the circuit court made no determination as to the reasonableness of the covenant's terms. Because the record and arguments before us are undeveloped on the issue of reasonableness, we decline to address it.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "applies_to": [
+      "employment"
+    ],
+    "notes": "Section 103.465 was read in full in the published row, including its annotations (Holsen v. Marshall & Ilsley Bank and Estate of Schroeder v. Gateway Transportation, both applying it to pension and profit-sharing forfeiture provisions). Star Direct: majority by Gableman, J. (row 4dd91744a4301a91); Ann Walsh Bradley, J. concurred in part and dissented in part (695b4af29772c4f2) and Abrahamson, C.J. dissented (1e609b5199885070); the full-report row is 9d77bb86c14e3179. Runzheimer: majority by Prosser, J. (row 501bb92b7ebfa813); Abrahamson, C.J. concurred (f3b2f04e5060415b). The Runzheimer quote reproduces the star-page marker '*107' inside the sentence. Tagged 'employment' because § 103.465's own words reach a covenant by an assistant, servant or agent not to compete with an employer or principal; whether it reaches a covenant given on the sale of a business is not answered here. HOLDING SWEEP 2026-09-22 (fourth band, overlap 0.25-0.30): the holding the row paraphrases from Runzheimer International, Ltd. v. David Friedlen is now blocked in the court's words."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "prompt-payment",
+    "rule_id": "wi-779-02-5-construction-payments-are-a-trust-fund",
+    "question": "What happens in Wisconsin if the contractor above us takes the owner's money and does not pay us?",
+    "rule": "It is theft. Wis. Stat. § 779.02(5) makes the proceeds of a mortgage paid to a prime contractor or subcontractor for improvements, and all moneys paid to a prime contractor or subcontractor by an owner for improvements, a trust fund in the hands of that contractor to the amount of all claims due or to become due for labour, services, materials, plans and specifications used for the improvements, until all the claims have been paid — and not a trust fund in the hands of any other person. Using those moneys for any other purpose before the claims are paid in full, or proportionally in cases of a deficiency, is theft punishable under s. 943.20, and where the contractor is a corporation, limited liability company or other entity the misappropriation is also deemed theft by the officers, directors, members, partners or agents responsible for it.",
+    "trap": "The trust is not a payment deadline and it does not follow the money. It attaches only in the hands of the prime contractor or subcontractor who received it, and the statute says so expressly, so a claim against the owner or the lender is not this claim. The statute carves out amounts that are the subject of a bona fide dispute, and only to the extent of the amount actually in dispute — which is the answer a contractor will give. And the lien machinery has its own preconditions: under § 779.02(2)(b) a person other than a prime contractor has the lien and remedy under the subchapter only if, within 60 days after first performing or furnishing labour, services, materials, plans or specifications, that person serves a written notice in two signed copies on the owner or authorised agent.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 779.02",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_779_02",
+            "quote": "The proceeds of any mortgage on land paid to any prime contractor or any subcontractor for improvements upon the mortgaged premises, and all moneys paid to any prime contractor or subcontractor by any owner for improvements, constitute a trust fund only in the hands of the prime contractor or subcontractor to the amount of all claims due or to become due or owing from the prime contractor or subcontractor for labor, services, materials, plans, and specifications used for the improvements, until all the claims have been paid, and shall not be a trust fund in the hands of any other person.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 779.02",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_779_02",
+            "quote": "The use of any such moneys by any prime contractor or subcontractor for any other purpose until all claims, except those which are the subject of a bona fide dispute and then only to the extent of the amount actually in dispute, have been paid in full or proportionally in cases of a deficiency, is theft by the prime contractor or subcontractor of moneys so misappropriated and is punishable under s. 943.20 .",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 779.02",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_779_02",
+            "quote": "Every person other than a prime contractor who performs, furnishes, or procures labor, materials, plans, or specifications for an improvement shall have the lien and remedy under this subchapter only if within 60 days after performing, furnishing, or procuring the first labor, services, materials, plans, or specifications the person serves a written notice, in 2 signed copies, on the owner or authorized agent at the last-known post-office address.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "applies_to": [
+      "construction"
+    ],
+    "notes": "Section 779.02 was read in the published row, including the exceptions to the notice requirement in § 779.02(1) — among them a laborer or mechanic employed by a prime contractor or subcontractor, a claimant who contracted directly with the owner, and work of improvement providing more than 4 family living units or any partly or wholly nonresidential improvement — which is why the trap states the 60-day notice as a requirement on 'a person other than a prime contractor' and not on everyone. This rule is about the trust fund and the lien notice; Wisconsin's separate prompt-payment deadlines were not located as readable statutory text in our corpus and nothing is stated about them. Tagged 'construction'. The store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "statute-of-frauds",
+    "rule_id": "wi-241-02-706-and-402-201-three-writing-requirements",
+    "question": "Does this deal have to be in writing and signed in Wisconsin?",
+    "rule": "Three separate provisions can require it. Wis. Stat. § 241.02(1) makes void, unless the agreement or a note or memorandum of it expressing the consideration is in writing and subscribed by the party charged, every agreement that by its terms is not to be performed within one year from the making of it, every special promise to answer for the debt, default or miscarriage of another person, and every agreement made upon consideration of marriage other than mutual promises to marry. Chapter 706 governs land: § 706.001(1) provides that, subject to the exclusions in sub. (2), the chapter governs every transaction by which any interest in land is created, aliened, mortgaged, assigned or may otherwise be affected in law or in equity. And Wis. Stat. § 402.201(1) makes a contract for the sale of goods for the price of $500 or more unenforceable by way of action or defence unless there is some writing sufficient to indicate that a contract for sale has been made, signed by the party against whom enforcement is sought or by that party's authorised agent or broker.",
+    "trap": "Each provision carries its own carve-outs and they do not line up. Chapter 706 excludes transactions where an interest in land is affected by act or operation of law, by will, by non-probate transfer on death under s. 705.15, or by a lease for a term limited to one year or less (and certain short contracts or options to lease). Section 402.201 is expressly 'except as otherwise provided in this section', and its subsections (2) and (3) let a merchant's confirmation, specially manufactured goods, an admission in pleading or testimony, or payment and acceptance take a contract out of the writing requirement — with the contract still unenforceable beyond the quantity shown in the writing or admitted. And Wisconsin has a fourth rule aimed at lenders: § 241.02(3)(b) bars an action against a financial institution or its affiliate on a commitment to lend, extend credit, or renew, extend, modify or permit a delay in repayment unless it is in writing setting out relevant terms, signed with an authorised signature and delivered — and § 241.02(3)(c) provides that such a commitment may not be enforced under the doctrine of promissory estoppel.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 241.02",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_241_02",
+            "quote": "In the following case every agreement shall be void unless such agreement or some note or memorandum thereof, expressing the consideration, be in writing and subscribed by the party charged therewith: 241.02(1)(a) (a) Every agreement that by its terms is not to be performed within one year from the making thereof. 241.02(1)(b) (b) Every special promise to answer for the debt, default or miscarriage of another person.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 241.02",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_241_02",
+            "quote": "An offer, promise, agreement, or commitment by a financial institution or its affiliate described in par. (b) may not be enforced under the doctrine of promissory estoppel.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 706.001",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_706_001",
+            "quote": "Subject to the exclusions in sub. (2) , this chapter shall govern every transaction by which any interest in land is created, aliened, mortgaged, assigned or may be otherwise affected in law or in equity.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 402.201",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_402_201",
+            "quote": "Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party’s authorized agent or broker.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Sections 241.02, 706.001 and 402.201 were read in the published rows, including § 241.02(2) (marital property agreements under ch. 766 are outside sub. (1)), § 241.02(3)(d)-(f) (the lender provision does not apply to credit transactions subject to chs. 421 to 427, to credit cards, and does not prohibit an action under s. 100.18 or for common-law fraudulent misrepresentation), and § 402.201(2)-(3). Wis. Stat. § 706.02, which sets out the formal requisites of a conveyance, is published in our corpus with its subsection (1) truncated, so this rule quotes § 706.001's scope section instead and states no requirement from § 706.02. The store holds no statute effective dates."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "wi-134-90-6-does-not-displace-common-law-claims-for-other-confidential-information",
+    "question": "If the information our NDA protects is not a trade secret, is there anything left to sue on?",
+    "rule": "Yes, in Wisconsin. The Supreme Court of Wisconsin held in Burbank Grease that Wis. Stat. § 134.90(6)(a) does not preclude all other civil remedies based on the misappropriation of confidential information where the information does not meet the statutory definition of a trade secret under § 134.90(1)(c), and that § 134.90(6)(b)2 permits civil tort remedies based on the misappropriation of that other confidential information. Because the plaintiff's complaint stated other common-law claims and material facts relevant to them were disputed, dismissing the complaint was error.",
+    "trap": "That is the opposite of the displacement rule in most Uniform Trade Secrets Act states, so a confidentiality clause drafted on the assumption that everything outside the statutory definition is unprotected understates what a Wisconsin plaintiff can plead — and a defendant who wins the trade-secret point has not won the case. Burbank Grease decided a second question the other way in the same opinion: Wis. Stat. § 943.70(2) does not apply when an individual lawfully obtains computer-stored confidential information and later misappropriates it, so the computer-crime route was properly dismissed. The statutory definition itself could not be read for this rule: Wis. Stat. § 134.90 is absent from our published Wisconsin statute shard, so nothing here states what information qualifies as a trade secret.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2006 WI 103",
+        "name": "Burbank Grease Services, LLC v. Sokolowski",
+        "court": "Wis.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "caf49c0455d568df",
+            "cl_opinion_id": "9690333",
+            "quote": "We conclude that § 134.90(6)(a) does not preclude all other civil remedies based on the misappropriation of confidential information, if the information does not meet the statutory definition of a trade secret under § 134.90(l)(c). Accordingly, in the case before us, § 134.90(6)(b)2 permits civil tort remedies based on the misappropriation of confidential information.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2006 WI 103",
+        "name": "Burbank Grease Services, LLC v. Sokolowski",
+        "court": "Wis.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "caf49c0455d568df",
+            "cl_opinion_id": "9690333",
+            "quote": "However, we also conclude that § 943.70(2) does not apply when an individual lawfully obtains computer-stored confidential information, but later misappropriates it.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Burbank Grease: majority by Roggensack, J. (row caf49c0455d568df); Ann Walsh Bradley, J. dissented (dfe620a732ecdce6); the full-report row is 58cdeed2fd93a787. The first quote reproduces the published row's OCR of the subsection as '§ 134.90(l)(c)' with a lowercase letter l. Good-law scan: 53 later Wisconsin opinions mention 2006 WI 103 and every flagged window was read; all six record that Burbank Grease itself abrogated or partially overruled Aon Risk Services v. Liebenstein. Burbank Grease is the case doing the overruling; there is no negative treatment of it."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "unconscionability",
+    "rule_id": "wi-both-procedural-and-substantive-plus-402-302-and-421-106",
+    "question": "Can the other side get out of this clause by calling it unconscionable?",
+    "rule": "Only with a quantum of both halves. In Wisconsin Auto Title Loans the Supreme Court of Wisconsin held an arbitration provision unconscionable because 'a sufficient quantum of both procedural and substantive unconscionability exists to render the arbitration provision invalid'. On the substantive side the court identified a broad, one-sided, unfair 'save and except' parenthetical that gave the lender full access to the courts free of arbitration while limiting the borrower to arbitration; on the procedural side it relied on the lender's experience in drafting such agreements, its substantially greater bargaining power, the borrower's indigence and need for cash, and the contract being an adhesion contract presented on a take-it-or-leave-it basis. For a sale of goods, Wis. Stat. § 402.302(1) lets the court refuse to enforce the contract, enforce the remainder without the unconscionable clause, or limit the application of the clause to avoid an unconscionable result.",
+    "trap": "The doctrine is procedural in a second sense that decides cases: under § 402.302(2), when it is claimed or appears that a contract or clause may be unconscionable the parties must be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect — so a court asked to strike a clause on the papers may have to take evidence first. The Wisconsin Consumer Act has its own version in Wis. Stat. § 421.106(4) for a settlement in which a customer gives up rights under chs. 421 to 427, and it lists factors including the customer's education and ability to read the language of the contract. Note the reach of the case before relying on it: Wisconsin Auto Title Loans is a short-term consumer title loan, and the procedural findings that carried it are findings about that borrower and that lender.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2006 WI 53",
+        "name": "Wisconsin Auto Title Loans, Inc. v. Jones",
+        "court": "Wis.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "0fc510bcfcd07331",
+            "cl_opinion_id": "9742833",
+            "quote": "Thus a sufficient quantum of both procedural and substantive unconscionability exists to render the arbitration provision invalid.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2006 WI 53",
+        "name": "Wisconsin Auto Title Loans, Inc. v. Jones",
+        "court": "Wis.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "0fc510bcfcd07331",
+            "cl_opinion_id": "9742833",
+            "quote": "The broad, one-sided, unfair \"save and except\" parenthetical in the arbitration provision of the loan agreement allowing Wiscónsin Auto Title Loans *523 full access to the courts, free of arbitration, while limiting the borrower to arbitration renders the arbitration provision substantively unconscionable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 402.302",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_402_302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 402.302",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_402_302",
+            "quote": "When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "FILE-LEVEL GOOD-LAW SCAN. One pass over docketx/us-caselaw-wi for opinions dated after each of the 16 authorities that mention its citation, flagging windows of +/-350 characters containing overrul / disapprov / abrogat / supersed / recede / abandon / repudiat / 'decline to follow' / 'called into question' / 'limited to its facts' / 'no longer good law'. Every flagged window was read; none is negative treatment of an authority in this file. Later rows mentioning / flag windows: Wassenaar 85/1, Richards 20/4, Atkins 18/0, Bush 28/1, Wisconsin Auto Title Loans 35/2, Star Direct 19/1, Town Bank 69/7, Rural Mutual 2/0, Burbank Grease 53/6, CLL 38/7, Tri-State 10/0, Convenience Store Leasing 1/0, Converting/Biophile 13/0, Runzheimer 7/0, Kolupar 65/3, Kriefall 32/0. The recurring pattern is the cited case doing the overruling (Burbank Grease over Aon Risk Services) or a flag word belonging to a different citation in the same window. A window scan does not find treatment that avoids those words, and does not find opinions citing only by name. The second quote reproduces the published row's OCR ('Wiscónsin') and the star-page marker '*523'. Wisconsin Auto Title Loans: majority by Abrahamson, C.J.; Roggensack, J. dissented in a separate row, agreeing with the majority's statement of the rule of law."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "usury",
+    "rule_id": "wi-138-05-twelve-per-hundred-except-as-authorized-by-other-statutes",
+    "question": "What interest rate can we charge on this loan in Wisconsin?",
+    "rule": "Wis. Stat. § 138.05(1) provides that, except as authorized by other statutes, no person shall directly or indirectly contract for, take or receive, in money, goods or things in action or in any other way, any greater sum or greater value for the loan or forbearance of money, goods or things in action than the rate of $12 upon $100 for one year computed upon the declining principal balance, with alternative computations in paragraphs (b) and (c) for loans repayable in installments. The same subsection adds a drafting rule: in computing interest upon any bond, note, or other instrument or agreement, interest shall not be compounded, nor shall the interest bear interest, unless an agreement to that effect is clearly expressed in writing and signed by the party to be charged. Read no further and that is the wrong answer, because the section then withdraws itself from most lending. Subsection (5): “This section shall not apply to loans to corporations or limited liability companies.” Subsection (7): “This section does not apply to any loan or forbearance in the amount of $150,000 or more made after May 26, 1978 unless secured by an encumbrance on a one- to four-family dwelling which the borrower uses as his or her principal place of residence.” And subsection (8)(c): “This section does not apply to any loan or forbearance which is made on or after November 1, 1981, or to any refinancing, renewal, extension, modification or prepayment on or after November 1, 1981, of any loan or forbearance, except this section does apply to forbearances occurring primarily for personal, family or household purposes for which the only charge is a penalty or late charge for nonpayment when due.” On the section’s own words, then, a loan made today is outside § 138.05 altogether unless it is a forbearance primarily for personal, family or household purposes whose only charge is a late charge for nonpayment.",
+    "trap": "The $12 upon $100 figure is not a live cap on a loan you are writing now, and reading subsection (1) alone is how a drafter gets that wrong. Subsection (8)(c) takes the whole section off any loan or forbearance made on or after 1 November 1981, and off any refinancing, renewal, extension, modification or prepayment on or after that date, keeping only the consumer-forbearance late-charge case. Subsections (5) and (7) remove corporate and limited-liability-company borrowers and loans of $150,000 or more (after 26 May 1978) that are not secured by the borrower’s one- to four-family principal residence, and subsection (6) removes transactions governed by chs. 421 to 427 and 429 and discounts described in s. 422.201(8). Everything else § 138.05 appears to give a drafter travels with the section and is withdrawn with it: the compounding rule quoted above sits inside subsection (1), and the borrower’s right in § 138.05(2) to prepay a loan bearing more than $10 per $100 per year, with a refund of unearned interest, sits inside the same section, so neither reaches a post-1981 loan on these words. NOT ESTABLISHED HERE: what does set the enforceable rate on a Wisconsin loan made today. The opening words ‘except as authorized by other statutes’ point outside this section, and the statutes they point to — the Wisconsin Consumer Act in chs. 421 to 427, and the bank and licensed-lender provisions elsewhere in ch. 138 — were not read for this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 138.05",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_138_05",
+            "quote": "Except as authorized by other statutes, no person shall, directly or indirectly, contract for, take or receive in money, goods or things in action, or in any other way, any greater sum or any greater value, for the loan or forbearance of money, goods or things in action, than: 138.05(1)(a) (a) At the rate of $12 upon $100 for one year computed upon the declining principal balance of the loan or forbearance;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 138.05",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_138_05",
+            "quote": "In the computation of interest upon any bond, note, or other instrument or agreement, interest shall not be compounded, nor shall the interest thereon be construed to bear interest, unless an agreement to that effect is clearly expressed in writing, and signed by the party to be charged therewith.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 138.05",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_138_05",
+            "quote": "Any loan for which the rate of interest charged exceeds $10 per $100 for one year computed upon the declining principal balance may be prepaid by the borrower at any time in whole or in part.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 138.05",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_138_05",
+            "quote": "This section shall not apply to loans to corporations or limited liability companies.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 138.05",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_138_05",
+            "quote": "This section does not apply to any loan or forbearance in the amount of $150,000 or more made after May 26, 1978 unless secured by an encumbrance on a one- to four-family dwelling which the borrower uses as his or her principal place of residence.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 138.05",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_138_05",
+            "quote": "This section does not apply to any loan or forbearance which is made on or after November 1, 1981, or to any refinancing, renewal, extension, modification or prepayment on or after November 1, 1981, of any loan or forbearance, except this section does apply to forbearances occurring primarily for personal, family or household purposes for which the only charge is a penalty or late charge for nonpayment when due.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Section 138.05 is a long section (9,360 characters in the published row) and the subsections beyond (1) and (2)(a) were not read line by line; the rule therefore states only what those subsections say, and the trap says out loud that the statutes that authorise other rates were not read. The section's own heading is 'Maximum rate; prepayment, disclosure; corporations', which signals a corporate provision this rule does not describe. The store holds no statute effective dates, so nothing here says when any of this text took effect. SCOPE AUDIT 2026-09-24: § 138.05 was re-read in full (9,360 characters) for its own limits, and the earlier version of this rule stated the $12 cap and the compounding rule without them. Subsections (5), (7) and (8)(c) are now quoted in the rule and each is carried by its own verified block from row WIS_138_05. The previous note that the section’s heading ‘signals a corporate provision this rule does not describe’ is superseded: that provision is subsection (5) and it is now stated. Subsections (3), (4), (8)(a) and (8)(b) were read in this pass and are not described here; (8)(a) and (8)(b) are spent windows (April 1980 to November 1981, and commitments made in that window)."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "venue-selection",
+    "rule_id": "wi-forum-clauses-read-strictly-permissive-unless-the-words-are-mandatory",
+    "question": "Does our forum clause actually require the other side to sue in the place we named?",
+    "rule": "Only if the words say so. In Converting/Biophile the Court of Appeals reversed a dismissal that had treated a forum-selection provision in the seller's invoices as mandating that all claims from the parties' commercial transaction be brought in Ohio: the court read the clauses as permissive, not mandatory, and remanded for further proceedings on the complaint. Separately, a Wisconsin forum or choice-of-law term cannot be used to escape a Wisconsin statute that embodies fundamental state policy — Bush held that because the Fair Dealership Law embodies a strong state public policy, parties cannot avoid it by including a contrary choice-of-law provision in their contract.",
+    "trap": "The clause has to be mandatory on its face and it has to be part of the contract. Converting/Biophile's clause lived in the seller's invoices rather than in a negotiated agreement, and the procedural posture matters too: because the motion to dismiss rested on material outside the complaint, the court treated it as one for summary judgment. So 'jurisdiction and venue shall lie in' language buried in trailing paperwork is doing less work in Wisconsin than a drafter assumes, and the second half of this rule limits even a well-drafted clause where a fundamental Wisconsin policy is in play.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "2006 WI App 187",
+        "name": "Converting/Biophile Laboratories, Inc. v. Ludlow Composites Corp.",
+        "court": "Wis. Ct. App.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "078f64bd0114f830",
+            "cl_opinion_id": "1570669",
+            "quote": "The circuit court dismissed CBL's action as improvidently commenced in Wisconsin because it read a forum-selection provision in Ludlow's invoices to CBL as mandating that all claims resulting from the parties' commercial transaction be brought in Ohio. We disagree. We read the clauses as permissive, not mandatory.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2006 WI App 187",
+        "name": "Converting/Biophile Laboratories, Inc. v. Ludlow Composites Corp.",
+        "court": "Wis. Ct. App.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "078f64bd0114f830",
+            "cl_opinion_id": "1570669",
+            "quote": "Here, however, the motion to dismiss was granted based on the forum-selection clause in the invoices, a matter not alleged in CBL's complaint. When, on a motion to dismiss, parties present matters outside the pleadings, the motion should be processed as one for summary judgment.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "139 Wis.2d 635",
+        "name": "Bush v. National School Studios, Inc.",
+        "court": "Wis.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-wi",
+            "row_id": "68f036305a806586",
+            "cl_opinion_id": "9575422",
+            "quote": "We further conclude that because the WFDL embodies a strong state public policy, parties cannot avoid it by including a contrary choice of law provision in their contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Converting/Biophile is a published Court of Appeals decision (2006 WI App 187), by Nettesheim, J.; the row contains no separate opinion. The 2006-06-14 row 49082e1d6225ba86 is a 287-character stub. Bush is quoted here for a choice-of-law holding, which is a different clause from a forum clause; the rule says so rather than treating the two as one. No Wisconsin statute voiding an out-of-state forum clause is quoted here: Wis. Stat. § 779.135's text is not readable in our published statute shard."
+  },
+  {
+    "jurisdiction": "wi",
+    "clause": "warranty-disclaimer",
+    "rule_id": "wi-402-316-mention-merchantability-subject-to-sub-3",
+    "question": "Does our 'AS IS' or 'no warranties' language actually disclaim the implied warranties?",
+    "rule": "Wis. Stat. § 402.316(2) provides that, subject to sub. (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and, in the case of a writing, must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous; and that language to exclude all implied warranties of fitness is sufficient if it states, for example, that 'There are no warranties which extend beyond the description on the face hereof.' Subsection (3)(a) then provides that, unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like 'as is', 'with all faults' or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty.",
+    "trap": "The two subsections pull in different directions and (3) wins where it applies: subsection (2) is expressly 'Subject to sub. (3)', so 'as is' can carry a disclaimer that would fail subsection (2)'s mention-merchantability and conspicuousness tests — but only 'unless the circumstances indicate otherwise', which is a fact question, not a drafting one. Subsection (3) contains three more routes a seller may not have noticed: a buyer who has examined the goods, the sample or the model as fully as desired, or who has refused to examine them, gets no implied warranty as to defects an examination ought to have revealed; an implied warranty can be excluded or modified by course of dealing, course of performance or usage of trade; and para. (c) has a livestock rule of its own for cattle, hogs, sheep and horses, subject to s. 95.195.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 402.316",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_402_316",
+            "quote": "Subject to sub. (3) , to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that “There are no warranties which extend beyond the description on the face hereof.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 402.316",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_402_316",
+            "quote": "Unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like “as is”, “with all faults” or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Wis. Stat. § 402.316",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "WIS_402_316",
+            "quote": "When the buyer before entering into the contract has examined the goods or the sample or model as fully as the buyer desired or has refused to examine the goods there is no implied warranty with regard to defects which an examination ought in the circumstances to have revealed to the buyer.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Section 402.316 was read in the published row, which carries subsections (1) through (4) and (3)(a)-(d). Two parts of that row are truncated where a cross-reference appears: subsection (1) breaks at 'subject to s.' and subsection (4) at 'Remedies for breach of warranty can be limited in accordance with ss.', so this rule states nothing about how a disclaimer interacts with an express warranty under (1) or about remedy limitation under (4). Left untagged for contract type, following SCHEMA.md's rule that UCC Article 2 rows stay untagged. The store holds no statute effective dates."
+  }
+]

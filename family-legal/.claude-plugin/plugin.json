@@ -1,0 +1,8 @@
+{
+  "name": "family-legal",
+  "version": "0.1.0",
+  "description": "Answers family-law questions for the states it holds a verified reference for — Texas, California, Washington, Illinois, Virginia, Iowa, Utah and Nebraska — divorce grounds and residency, the property regime and division standard, spousal support or maintenance, child support guidelines, custody or parenting arrangements, disclosures, temporary orders and related procedure — from per-state reference files of statute sections, each quote checked verbatim against our own published statute corpus. Starts by pseudonymising the user's case file on their own machine with legal-scrambler. Every output is a draft for attorney review, not legal advice. Any state without a verified file is reported as not covered rather than answered from general knowledge. Protective orders, safety planning, and other family-violence matters are out of scope and are routed to a hotline and an attorney, never answered directly.",
+  "author": {
+    "name": "DocketX"
+  }
+}

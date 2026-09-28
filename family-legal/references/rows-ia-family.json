@@ -1,0 +1,522 @@
+[
+  {
+    "jurisdiction": "ia",
+    "clause": "residency-and-venue",
+    "rule_id": "ia-one-year-residency-required-in-the-petition-unless-respondent-is-an-iowa-resident-served-by-personal-service-dismissal-on-failure-of-proof",
+    "question": "How long must a petitioner live in Iowa before an Iowa court can grant a divorce?",
+    "rule": "One year, ordinarily — the petition itself must allege a full year of Iowa residency, and if that allegation isn't proved, the case is dismissed outright, not merely delayed. Iowa Code § 598.5(1)(k) requires the petition to \"state that the petitioner has been for the last year a resident of the state, specifying the county in which the petitioner has resided and the length of such residence in the state after deducting all absences from the state, and that the maintenance of the residence has been in good faith and not for the purpose of obtaining a dissolution of marriage only.\" But that entire showing is excused by the same sentence's own lead-in when a narrower condition is met: \"Except where the respondent is a resident of this state and is served by personal service,\" the petitioner need not plead or prove any residency period at all. Iowa Code § 598.9 supplies the consequence if residency isn't proved: \"If the averments as to residence are not fully proved, the hearing shall proceed no further, and the action be dismissed by the court.\"",
+    "trap": "Two traps. First, the residency requirement does not live in a standalone \"no action may be maintained unless...\" bar section — it is written as a pleading requirement inside the petition-contents statute, § 598.5(1)(k), made operative by § 598.9's dismissal consequence for a failure of proof; a reader looking for a single bright-line jurisdictional-bar sentence like Texas's Fam. Code § 6.301 won't find one under that heading here. Second, and RECORDED SO IT ISN'T REPEATED: the residency requirement used to sit at Iowa Code § 598.6 (\"Additional contents\"), but that section was repealed by 2005 Acts, ch 69, § 58, with the statute's own cross-reference reading \"See § 598.5\" — a citation to the old § 598.6 for residency is stale and points at a repealed, empty section. The exception's own condition is narrow: it requires BOTH that the respondent is an Iowa resident AND that the respondent is served by personal service — service by publication or acceptance/waiver of the respondent does not trigger it on this text.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.5",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_5",
+            "quote": "Except where the respondent is a resident of this state and is served by personal service, state that the petitioner has been for the last year a resident of the state, specifying the county in which the petitioner has resided and the length of such residence in the state after deducting all absences from the state, and that the maintenance of the residence has been in good faith and not for the purpose of obtaining a dissolution of marriage only.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.9",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_9",
+            "quote": "If the averments as to residence are not fully proved, the hearing shall proceed no further, and the action be dismissed by the court.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.5 (row IA_598_5, subdivision (1)(k) in full) and § 598.9 (row IA_598_9, full text, a one-sentence section). § 598.6 (row IA_598_6) was independently pulled and reads in full: '598.6 Additional contents.\\nRepealed by 2005 Acts, ch 69, §58. See §598.5.' — confirming the repeal and the redirection to § 598.5 rather than assuming it from memory. Subdivisions (1)(a)-(j) and (2)-(3) of § 598.5 (the rest of the petition's required contents, verification, and evidentiary-support requirements) were read but not quoted here as a separate topic."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "grounds",
+    "rule_id": "ia-no-fault-breakdown-of-the-marriage-relationship-is-the-sole-ground-recrimination-not-a-bar",
+    "question": "Does an Iowa divorce require proving someone did something wrong?",
+    "rule": "No — Iowa's sole statutory ground is a no-fault finding that the marriage relationship has broken down beyond repair, and even mutual fault does not bar the decree. Iowa Code § 598.17(1): \"A decree dissolving the marriage may be entered when the court is satisfied from the evidence presented that there has been a breakdown of the marriage relationship to the extent that the legitimate objects of matrimony have been destroyed and there remains no reasonable likelihood that the marriage can be preserved. The decree shall state that the dissolution is granted to the parties, and shall not state that it is granted to only one party.\" Iowa Code § 598.18 removes fault as a defense entirely: \"If, upon the trial of an action for dissolution of marriage, both of the parties are found to have committed an act or acts which would support or justify a decree of dissolution of marriage, such dissolution may be decreed, and the acts of one party shall not negate the acts of the other, nor serve to bar the dissolution decree in any way.\"",
+    "trap": "The decree itself is barred from naming a \"winner\": § 598.17(1)'s own last sentence requires the decree to state dissolution is \"granted to the parties,\" and forbids stating it is \"granted to only one party\" — so even the paperwork resists a fault framing. § 598.18's title names the common-law defense it eliminates by name (\"recrimination\"): under the old fault-based approach, one spouse's own wrongdoing could be used to bar their spouse's claim for divorce, and this section says a finding that BOTH parties did something that would justify dissolution does not cancel out or bar the decree. This rule does not establish, and does not search for, any residual fault-based ground anywhere else in Iowa Code chapter 598 beyond § 598.17 and § 598.18 — NOT ESTABLISHED beyond what these two sections state.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.17",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_17",
+            "quote": "A decree dissolving the marriage may be entered when the court is satisfied from the evidence presented that there has been a breakdown of the marriage relationship to the extent that the legitimate objects of matrimony have been destroyed and there remains no reasonable likelihood that the marriage can be preserved. The decree shall state that the dissolution is granted to the parties, and shall not state that it is granted to only one party.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.18",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_18",
+            "quote": "If, upon the trial of an action for dissolution of marriage, both of the parties are found to have committed an act or acts which would support or justify a decree of dissolution of marriage, such dissolution may be decreed, and the acts of one party shall not negate the acts of the other, nor serve to bar the dissolution decree in any way.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.17 (row IA_598_17, subsection 1 in full; subsections 2-3, covering a respondent's own evidence-of-breakdown option and a mental-illness support carve-out, were read but not quoted, a separate topic) and § 598.18 (row IA_598_18, full text, a one-sentence section). § 598.5(1)(g), the petition's own breakdown allegation requirement, was read but not quoted here as it restates the same no-fault ground at the pleading stage rather than adding a new one."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "waiting-period",
+    "rule_id": "ia-ninety-day-wait-from-service-publication-or-waiver-or-until-court-ordered-conciliation-completes-whichever-is-longer",
+    "question": "How soon after filing can an Iowa divorce decree actually be entered?",
+    "rule": "Not until ninety days have run from whichever of three triggering events happens — service, the last day of publication, or the filing of a waiver or acceptance of notice — AND, if the court has ordered conciliation, not until that conciliation is completed, whichever of the two takes longer. Iowa Code § 598.19: \"No decree dissolving a marriage shall be granted in any proceeding before ninety days shall have elapsed from the day the original notice is served, or from the last day of publication of notice, or from the date that waiver or acceptance of original notice is filed or until after any court-ordered conciliation is completed, whichever period shall be longer. However, the court may in its discretion, on written motion supported by affidavit setting forth grounds of emergency or necessity and facts which satisfy the court that immediate action is warranted or required to protect the substantive rights or interests of any party or person who might be affected by the decree, hold a hearing and grant a decree dissolving the marriage prior to the expiration of the applicable period, provided that requirements of notice have been complied with. In such case the grounds of emergency or necessity and the facts with respect thereto shall be recited in the decree unless otherwise ordered by the court. The court may enter an order finding the respondent in default and waiving any court-ordered conciliation when the respondent has failed to file an appearance within the time set forth in the original notice.\"",
+    "trap": "The 90-day floor is not measured from a single fixed event the way it is in other states' flat filing-date clocks — the statute lists three alternative start triggers (service, the last day of publication, or a filed waiver/acceptance) and then adds a fourth, independent floor tied to any court-ordered conciliation actually finishing, and the decree must wait for WHICHEVER of those periods is longer, not whichever is shorter. The court's own emergency-waiver power is narrow: it requires a WRITTEN motion supported by AFFIDAVIT showing emergency or necessity, and the facts must still be recited in the decree unless the court orders otherwise — it is not a general discretion to shorten the wait for convenience. The last sentence supplies its own separate shortcut: a defaulting respondent (one who never appears) lets the court both find default AND waive any court-ordered conciliation, which removes the conciliation-completion floor from that case even though it does not by its own words shorten the underlying 90 days from service or publication.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.19",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_19",
+            "quote": "No decree dissolving a marriage shall be granted in any proceeding before ninety days shall have elapsed from the day the original notice is served, or from the last day of publication of notice, or from the date that waiver or acceptance of original notice is filed or until after any court-ordered conciliation is completed, whichever period shall be longer. However, the court may in its discretion, on written motion supported by affidavit setting forth grounds of emergency or necessity and facts which satisfy the court that immediate action is warranted or required to protect the substantive rights or interests of any party or person who might be affected by the decree, hold a hearing and grant a decree dissolving the marriage prior to the expiration of the applicable period, provided that requirements of notice have been complied with. In such case the grounds of emergency or necessity and the facts with respect thereto shall be recited in the decree unless otherwise ordered by the court. The court may enter an order finding the respondent in default and waiving any court-ordered conciliation when the respondent has failed to file an appearance within the time set forth in the original notice.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.19, row IA_598_19, full text (the entire section, one paragraph, no content skipped). Section 598.16, which supplies the conciliation mechanism this section's floor cross-references, is verified separately in the conciliation row of this file."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "conciliation",
+    "rule_id": "ia-court-may-order-conciliation-for-up-to-sixty-days-weighing-history-of-abuse-and-its-completion-can-extend-the-waiting-period",
+    "question": "When can an Iowa court order the parties into conciliation, and does that affect the divorce timeline?",
+    "rule": "A court may order conciliation on its own motion or on a party's motion, for up to sixty days, and must weigh whether a history of abuse or violence exists before doing so — it is discretionary, not automatic. Iowa Code § 598.16: \"2. The court may on its own motion or upon the motion of a party require the parties to participate in conciliation efforts for a period of sixty days or less following the issuance of an order setting forth the conciliation procedure and the conciliator. In making a determination under this section, the court shall consider all relevant factors including but not limited to whether a history of abuse or violence exists.\" The same section authorizes, but does not require, a judicial district to set up a dedicated division for this purpose: \"1. A majority of the judges in any judicial district, with the cooperation of any county board of supervisors in the district, may establish a domestic relations division of the district court of the county where the board is located. The division shall offer counseling and related services to persons before the court.\"",
+    "trap": "Conciliation under this section is capped at \"sixty days or less\" by the order itself, but its practical effect on timing can run longer than that cap suggests: this plugin's waiting-period row (Iowa Code § 598.19) makes the 90-day decree floor run until \"any court-ordered conciliation is completed,\" whichever is longer than the other listed triggers — so an ordered conciliation effectively extends, rather than shortens, how soon a decree can be entered. \"Shall consider... whether a history of abuse or violence exists\" is a factor the court must weigh in deciding WHETHER to order conciliation at all; this rule does not state, and this section's text does not say, that a finding of abuse automatically bars a conciliation order the way it does for joint custody elsewhere in this chapter (§ 598.41(1)(b)) — NOT ESTABLISHED here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.16",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_16",
+            "quote": "1. A majority of the judges in any judicial district, with the cooperation of any county board of supervisors in the district, may establish a domestic relations division of the district court of the county where the board is located. The division shall offer counseling and related services to persons before the court.\n2. The court may on its own motion or upon the motion of a party require the parties to participate in conciliation efforts for a period of sixty days or less following the issuance of an order setting forth the conciliation procedure and the conciliator. In making a determination under this section, the court shall consider all relevant factors including but not limited to whether a history of abuse or violence exists.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.19",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_19",
+            "quote": "or until after any court-ordered conciliation is completed, whichever period shall be longer.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.16, row IA_598_16, subsections 1-2 quoted as a contiguous span. Subsections 3-5 (the conciliator's written-report requirement, cost allocation between parties and county, and the conciliator's non-employee status) were read but not quoted here, a separate operational topic. § 598.7A, a since-repealed 'Mediation' section (2005 Acts, ch 69, §58; redirected to § 598.7), was independently checked and is not conciliation-adjacent despite the historical numbering proximity. PACK QUOTE SWEEP 2026-09-22 (every quoted phrase in the family-law pack's rules and traps checked against the cited texts on the corpus host; 320 spans, 275 corpus blocks re-verified 275/275): the trap quotes § 598.19's 'any court-ordered conciliation is completed' from another row; the block is on this row now (IA_598_19)."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "division-standard",
+    "rule_id": "ia-equitable-not-equal-division-of-all-property-after-weighing-thirteen-factors",
+    "question": "How does an Iowa court divide property in a divorce?",
+    "rule": "Iowa's statute uses \"equitably,\" not \"equally\" — the court divides the property subject to division between the parties after weighing a list of thirteen factors, not a bare, unstructured discretion. Iowa Code § 598.21(5): \"Division of property. The court shall divide all property, except inherited property or gifts received or expected by one party, equitably between the parties after considering all of the following: a. The length of the marriage. b. The property brought to the marriage by each party. c. The contribution of each party to the marriage, giving appropriate economic value to each party's contribution in homemaking and child care services. d. The age and physical and emotional health of the parties. e. The contribution by one party to the education, training, or increased earning power of the other. f. The earning capacity of each party, including educational background, training, employment skills, work experience, length of absence from the job market, custodial responsibilities for children, and the time and expense necessary to acquire sufficient education or training to enable the party to become self-supporting at a standard of living reasonably comparable to that enjoyed during the marriage. g. The desirability of awarding the family home or the right to live in the family home for a reasonable period to the party having custody of the children, or if the parties have joint legal custody, to the party having physical care of the children. h. The amount and duration of an order granting support payments to either party pursuant to section 598.21A and whether the property division should be in lieu of such payments. i. Other economic circumstances of each party, including pension benefits, vested or unvested. Future interests may be considered, but expectancies or interests arising from inherited or gifted property created under a will or other instrument under which the trustee, trustor, trust protector, or owner has the power to remove the party in question as a beneficiary, shall not be considered. j. The tax consequences to each party. k. Any written agreement made by the parties concerning property distribution. l. The provisions of an antenuptial agreement. m. Other factors the court may determine to be relevant in an individual case.\"",
+    "trap": "\"Equitably\" is the statute's own word — not \"equally,\" and not a discretionary multi-factor \"just and right\" standard framed as pure judicial discretion with no named factors; Iowa's thirteen lettered factors, ending in a catch-all at (m), are the text a court is actually weighing. This same sentence carves inherited property and gifts received or expected by one party OUT of what gets divided under this factor list in the first place — that carve-out, and its own exception, is answered as a separate property-regime question, not restated here. This rule does not restate § 598.21(1)-(4), (7)-(8) (the mechanics of transferring title, protecting children's property in a separate fund, and the rule that property divisions are \"not subject to modification\") as part of the division standard itself, though the non-modification rule in subsection 7 is a related, separate topic this rule flags rather than answers.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.21",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_21",
+            "quote": "5. Division of property. The court shall divide all property, except inherited property or gifts received or expected by one party, equitably between the parties after considering all of the following:\na. The length of the marriage.\nb. The property brought to the marriage by each party.\nc. The contribution of each party to the marriage, giving appropriate economic value to each party’s contribution in homemaking and child care services.\nd. The age and physical and emotional health of the parties.\ne. The contribution by one party to the education, training, or increased earning power of the other.\nf. The earning capacity of each party, including educational background, training, employment skills, work experience, length of absence from the job market, custodial responsibilities for children, and the time and expense necessary to acquire sufficient education or training to enable the party to become self-supporting at a standard of living reasonably comparable to that enjoyed during the marriage.\ng. The desirability of awarding the family home or the right to live in the family home for a reasonable period to the party having custody of the children, or if the parties have joint legal custody, to the party having physical care of the children.\nh. The amount and duration of an order granting support payments to either party pursuant to section 598.21A and whether the property division should be in lieu of such payments.\ni. Other economic circumstances of each party, including pension benefits, vested or unvested. Future interests may be considered, but expectancies or interests arising from inherited or gifted property created under a will or other instrument under which the trustee, trustor, trust protector, or owner has the power to remove the party in question as a beneficiary, shall not be considered.\nj. The tax consequences to each party.\nk. Any written agreement made by the parties concerning property distribution.\nl. The provisions of an antenuptial agreement.\nm. Other factors the court may determine to be relevant in an individual case.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.21, row IA_598_21, subsection 5 quoted in full (all thirteen lettered factors, contiguous, none skipped). Subsections 1-4 (general transfer-of-title mechanics, county recorder and clerk duties, and setting aside property for children) and 7-8 (property divisions are 'not subject to modification'; the order's required demographic content) were read but not quoted, a separate topic from the division standard itself. Subsection 6, the inherited/gifted-property exclusion this subsection's own opening clause carves out, is verified separately in this file's marital-vs-non-marital-property row rather than duplicated here."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "marital-vs-non-marital-property",
+    "rule_id": "ia-inherited-and-gifted-property-is-excluded-from-division-unless-refusing-to-divide-it-would-be-inequitable",
+    "question": "Is inherited or gifted property divided along with everything else in an Iowa divorce?",
+    "rule": "No, not by default — property either party inherited or received (or expects to receive) as a gift is carved out of the equitable-division factor list entirely, and stays that party's own property, unless the court finds that refusing to divide it would be inequitable to the other spouse or to the children. Iowa Code § 598.21(5)'s own lead-in states the carve-out first: \"The court shall divide all property, except inherited property or gifts received or expected by one party, equitably between the parties.\" Iowa Code § 598.21(6) states the rule and its exception directly: \"Inherited and gifted property. Property inherited by either party or gifts received by either party prior to or during the course of the marriage is the property of that party and is not subject to a property division under this section except upon a finding that refusal to divide the property is inequitable to the other party or to the children of the marriage.\"",
+    "trap": "The exclusion is not absolute despite its own opening words (\"is the property of that party and is not subject to a property division\") — the same sentence ends with its own carve-out: \"except upon a finding that refusal to divide the property is inequitable to the other party or to the children of the marriage,\" so a party cannot assume inherited or gifted property is untouchable purely because of its source. The timing of the gift or inheritance does not narrow the rule: it covers property received \"prior to or during the course of the marriage,\" not only property received during the marriage. A related but separate carve-out lives in the division-standard factor list itself, at § 598.21(5)(i) (not quoted in full here): future interests may be considered as an economic circumstance, but \"expectancies or interests arising from inherited or gifted property created under a will or other instrument under which the trustee, trustor, trust protector, or owner has the power to remove the party in question as a beneficiary, shall not be considered\" — a narrower rule about a still-revocable future interest, not the same question as property already inherited or gifted outright.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.21",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_21",
+            "quote": "6. Inherited and gifted property. Property inherited by either party or gifts received by either party prior to or during the course of the marriage is the property of that party and is not subject to a property division under this section except upon a finding that refusal to divide the property is inequitable to the other party or to the children of the marriage.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.21, row IA_598_21, subsection 6 in full. The division-standard row in this file verifies subsection 5, whose own opening clause states the same carve-out this row answers in depth; quoted once here rather than duplicated as a separate authority entry on both rows. Subsection 5(i)'s narrower revocable-future-interest rule was read but not quoted as a separate authority here, described in the trap instead."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "spousal-support",
+    "rule_id": "ia-discretionary-support-for-a-limited-or-indefinite-length-of-time-after-weighing-ten-factors-no-duration-formula-in-the-text",
+    "question": "What does an Iowa court weigh in deciding whether to award spousal support, and for how long?",
+    "rule": "Spousal support in Iowa is discretionary — the court \"may\" grant it, for either \"a limited or indefinite length of time,\" after weighing a list of factors with no formula or fixed-year schedule in the text. Iowa Code § 598.21A(1): \"Criteria for determining support. Upon every judgment of annulment, dissolution, or separate maintenance, the court may grant an order requiring support payments to either party for a limited or indefinite length of time after considering all of the following: a. The length of the marriage. b. The age and physical and emotional health of the parties. c. The distribution of property made pursuant to section 598.21. d. The educational level of each party at the time of marriage and at the time the action is commenced. e. The earning capacity of the party seeking maintenance, including educational background, training, employment skills, work experience, length of absence from the job market, responsibilities for children under either an award of custody or physical care, and the time and expense necessary to acquire sufficient education or training to enable the party to find appropriate employment. f. The feasibility of the party seeking maintenance becoming self-supporting at a standard of living reasonably comparable to that enjoyed during the marriage, and the length of time necessary to achieve this goal. g. The tax consequences to each party. h. Any mutual agreement made by the parties concerning financial or service contributions by one party with the expectation of future reciprocation or compensation by the other party. i. The provisions of an antenuptial agreement. j. Other factors the court may determine to be relevant in an individual case.\"",
+    "trap": "\"May grant\" is discretionary, not mandatory, and \"for a limited or indefinite length of time\" means the statute itself contemplates support that never ends on a fixed schedule — this rule does not find, and did not search elsewhere in this pass, for any dollar or percentage cap or a fixed-year duration table comparable to a maintenance-caps regime; NOT ESTABLISHED here beyond the bare text of § 598.21A. The section's own heading calls this \"spousal support,\" but factor (e) and (f) both use the word \"maintenance\" instead (\"the party seeking maintenance\") — the statute uses the two terms interchangeably within the same section, which is a real drafting fact about the text, not a distinction between two different kinds of relief. Factor (c) cross-references the property division made under § 598.21, meaning support and property division are not decided in isolation from each other on this text — a reader evaluating one should read the other.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.21A",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_21A",
+            "quote": "1. Criteria for determining support. Upon every judgment of annulment, dissolution, or separate maintenance, the court may grant an order requiring support payments to either party for a limited or indefinite length of time after considering all of the following:\na. The length of the marriage.\nb. The age and physical and emotional health of the parties.\nc. The distribution of property made pursuant to section 598.21.\nd. The educational level of each party at the time of marriage and at the time the action is commenced.\ne. The earning capacity of the party seeking maintenance, including educational background, training, employment skills, work experience, length of absence from the job market, responsibilities for children under either an award of custody or physical care, and the time and expense necessary to acquire sufficient education or training to enable the party to find appropriate employment.\nf. The feasibility of the party seeking maintenance becoming self-supporting at a standard of living reasonably comparable to that enjoyed during the marriage, and the length of time necessary to achieve this goal.\ng. The tax consequences to each party.\nh. Any mutual agreement made by the parties concerning financial or service contributions by one party with the expectation of future reciprocation or compensation by the other party.\ni. The provisions of an antenuptial agreement.\nj. Other factors the court may determine to be relevant in an individual case.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.21A, row IA_598_21A, subsection 1 in full (all ten lettered factors, contiguous, none skipped). Subsection 2 (the order's required demographic content) was read but not quoted. A search for a fixed dollar or percentage cap, or a marriage-length-to-duration schedule, was not run in this pass; that gap is not established either way here, distinct from California's row in this plugin, which ran and recorded a specific zero-hit search for its own state."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "child-support-guidelines",
+    "rule_id": "ia-supreme-court-guidelines-rebuttable-presumption-of-correctness-written-finding-required-to-deviate-schedule-not-in-the-statute-text",
+    "question": "How is presumptive child support determined in Iowa, and can a court deviate from it?",
+    "rule": "The Iowa Supreme Court, not the legislature's own text, maintains the guideline formula and schedule; the statute states a rebuttable presumption that the guideline amount is correct, and bars any deviation without a written, reasoned finding. Iowa Code § 598.21B(1)(a): \"The supreme court shall maintain uniform child support guidelines and criteria and review the guidelines and criteria at least once every four years, pursuant to the federal Family Support Act of 1988, Pub. L. No. 100-485.\" Iowa Code § 598.21B(2)(c): \"Rebuttable presumption in favor of guidelines. There shall be a rebuttable presumption that the amount of child support which would result from the application of the guidelines prescribed by the supreme court is the correct amount of child support to be awarded.\" Iowa Code § 598.21B(2)(d): \"Variation from guidelines. A variation from the guidelines shall not be considered by a court without a record or written finding, based on stated reasons, that the guidelines would be unjust or inappropriate as determined under the criteria prescribed by the supreme court.\"",
+    "trap": "HONEST NEGATIVE, RECORDED: the statute directs the supreme court to \"maintain uniform child support guidelines\" — it does not itself set out a percentage table, an income schedule, or a calculation formula in this section's own text, so this rule does not state, and cannot state from this corpus of statutes, what the actual dollar guideline amounts are; those live in the guidelines the supreme court promulgates separately, not in Iowa Code chapter 598. The presumption in (2)(c) is REBUTTABLE, not conclusive, but rebutting it is not a matter of a judge's unwritten discretion: (2)(d) requires \"a record or written finding, based on stated reasons\" before any variation is even considered. Section 598.21B(2)(e) separately requires a guideline-conforming support order — absent special circumstances — for a parent nineteen or younger without a high school diploma who is not complying with an education requirement; this rule does not restate that narrower provision's full mechanics here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.21B",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_21B",
+            "quote": "The supreme court shall maintain uniform child support guidelines and criteria and review the guidelines and criteria at least once every four years, pursuant to the federal Family Support Act of 1988, Pub. L. No. 100-485. The initial review shall be performed within four years of October 12, 1989, and subsequently within the four-year period of the most recent review.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.21B",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_21B",
+            "quote": "Rebuttable presumption in favor of guidelines. There shall be a rebuttable presumption that the amount of child support which would result from the application of the guidelines prescribed by the supreme court is the correct amount of child support to be awarded.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.21B",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_21B",
+            "quote": "Variation from guidelines. A variation from the guidelines shall not be considered by a court without a record or written finding, based on stated reasons, that the guidelines would be unjust or inappropriate as determined under the criteria prescribed by the supreme court.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.21B, row IA_598_21B, three quotes: subsection 1(a) (first two sentences), subsection 2(c) in full, and subsection 2(d) in full. Subsections 1(b)-(d) (medical-support incorporation and the department's own use of the guidelines), 2(a)-(b) (the court's authority to order support and how the noncustodial income figure is used), 2(e) (the under-19-without-a-diploma special provision), 3 (medical support) and 4 (order content) were read but not quoted, separate topics. The guideline schedule itself was not found in this statutes shard and is not restated here — an honest negative, not an omission of something the corpus holds."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "custody-and-visitation",
+    "rule_id": "ia-no-affirmative-joint-custody-presumption-only-a-rebuttable-presumption-against-joint-custody-on-a-domestic-abuse-finding",
+    "question": "Does Iowa presume that parents will share joint custody, the way some states presume joint managing conservatorship?",
+    "rule": "Not as an affirmative presumption in the statute's own words — Iowa's text states a policy goal of maximizing both parents' continuing contact with the child and requires the court to CONSIDER joint custody, but the only presumption the text actually names runs the other way: a rebuttable presumption AGAINST joint custody once a history of domestic abuse is found. Iowa Code § 598.41(1)(a): \"The court may provide for joint custody of the child by the parties. The court, insofar as is reasonable and in the best interest of the child, shall order the custody award, including liberal visitation rights where appropriate, which will assure the child the opportunity for the maximum continuing physical and emotional contact with both parents after the parents have separated or dissolved the marriage, and which will encourage parents to share the rights and responsibilities of raising the child unless direct physical harm or significant emotional harm to the child, other children, or a parent is likely to result from such contact with one parent.\" Iowa Code § 598.41(1)(b) states the only textual presumption in this section, and it runs against joint custody: \"Notwithstanding paragraph \"a\", if the court finds that a history of domestic abuse exists, a rebuttable presumption against the awarding of joint custody exists.\" Separately, Iowa Code § 598.41(2)(a) requires the court to weigh the option when the parents don't already agree: \"On the application of either parent, the court shall consider granting joint custody in cases where the parents do not agree to joint custody.\"",
+    "trap": "HONEST NEGATIVE, RECORDED — this is exactly the shape of trap the plugin's own audit warns about (a force word the statute does not use): a full-text search of Iowa Code chapter 598 for \"presumption\" returns exactly two hits, the child-support guideline presumption in § 598.21B(2)(c) and this custody one in § 598.41(1)(b), and the custody one only fires AGAINST joint custody upon a domestic-abuse finding — there is no affirmative sentence anywhere in § 598.41 creating a presumption FOR joint custody comparable to a rebuttable joint-managing-conservatorship presumption; \"shall order... which will assure... maximum continuing... contact\" in (1)(a) and \"shall consider granting joint custody\" in (2)(a) are duties to aim for and to weigh the option, not a presumption in the statute's own words, and this rule does not restate them as one. Once domestic abuse is found and NOT rebutted, § 598.41(2)(c) (not quoted above) makes that finding outweigh every other factor in the custody determination — read but not quoted here, a related but distinct provision from the presumption itself.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.41",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_41",
+            "quote": "The court may provide for joint custody of the child by the parties. The court, insofar as is reasonable and in the best interest of the child, shall order the custody award, including liberal visitation rights where appropriate, which will assure the child the opportunity for the maximum continuing physical and emotional contact with both parents after the parents have separated or dissolved the marriage, and which will encourage parents to share the rights and responsibilities of raising the child unless direct physical harm or significant emotional harm to the child, other children, or a parent is likely to result from such contact with one parent.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.41",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_41",
+            "quote": "Notwithstanding paragraph “a”, if the court finds that a history of domestic abuse exists, a rebuttable presumption against the awarding of joint custody exists.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.41",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_41",
+            "quote": "On the application of either parent, the court shall consider granting joint custody in cases where the parents do not agree to joint custody.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.41, row IA_598_41, three quotes: (1)(a) in full, (1)(b) in full (its own quotation marks around 'a' are the published text's own internal citation to paragraph 'a', preserved verbatim), and (2)(a) in full. The full-text 'presumption' search was run against the same dump of all sixty-seven § 598.x rows pulled for this pack (grep_ia.py, term 'presumption'), which is how the two-hit count above was produced; both hits are cited by row in this pack. Subsection (3)'s thirteen best-interest factors (including the domestic-abuse history factor at (3)(j), read but not quoted here per this plugin's family-violence caveat), (2)(b)-(e) (the clear-and-convincing-evidence bar to denying joint custody, the abuse-finding's weight, and custody mediation), (4)-(9) (multi-child visitation, incapacity/death of a custodial parent, and modification procedure) were read but not quoted, separate topics from the presumption question this row answers."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "parenting-course",
+    "rule_id": "ia-mandatory-parenting-course-within-forty-five-days-of-service-waivable-for-good-cause-final-decree-withheld-until-compliance",
+    "question": "Is a parenting class required in an Iowa divorce involving children?",
+    "rule": "Yes, in any action involving child custody or visitation — the parties must complete a court-approved course within forty-five days of service, and the final decree is withheld until they comply, unless the court waives or delays it for good cause. Iowa Code § 598.15(1): \"The parties to any action which involves the issues of child custody or visitation shall participate in a court-approved course to educate and sensitize the parties to the needs of any child or party during and subsequent to the proceeding within forty-five days of the service of notice and petition for the action or within forty-five days of the service of notice and application for modification of an order. Participation in the course may be waived or delayed by the court for good cause including but not limited to a default by any of the parties or a showing that the parties have previously participated in a court-approved course or its equivalent. Participation in the course is not required if the proceeding involves termination of parental rights of any of the parties. A final decree shall not be granted or a final order shall not be entered until the parties have complied with this section, unless participation in the course is waived or delayed for good cause or is otherwise not required under this subsection.\"",
+    "trap": "The forty-five-day clock is not anchored to the filing date — it runs from SERVICE of notice and petition (or, for a modification, from service of notice and the modification application), so a delay in serving the other party delays when the clock even starts. \"Good cause\" for a waiver or delay is illustrated, not limited, by two named examples — a default by any party, or prior participation in an equivalent course — the word \"including but not limited to\" means a court is not confined to those two reasons. The course requirement is a hard gate on the decree itself: \"[a] final decree shall not be granted... until the parties have complied,\" with only the same good-cause waiver, or the termination-of-parental-rights carve-out, as an exit.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.15",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_15",
+            "quote": "The parties to any action which involves the issues of child custody or visitation shall participate in a court-approved course to educate and sensitize the parties to the needs of any child or party during and subsequent to the proceeding within forty-five days of the service of notice and petition for the action or within forty-five days of the service of notice and application for modification of an order. Participation in the course may be waived or delayed by the court for good cause including but not limited to a default by any of the parties or a showing that the parties have previously participated in a court-approved course or its equivalent. Participation in the course is not required if the proceeding involves termination of parental rights of any of the parties. A final decree shall not be granted or a final order shall not be entered until the parties have complied with this section, unless participation in the course is waived or delayed for good cause or is otherwise not required under this subsection.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.15, row IA_598_15, subsection 1 in full. Subsections 2-3 (cost and certification responsibility), 4 (an alternative-format option when the course itself is waived), 5 (what an approved course must minimally cover), 6 (optional age-appropriate child counseling) and 7 (supreme court rulemaking) were read but not quoted, separate operational topics. § 598.19A, a since-repealed duplicate titled 'Mandatory course — parties to certain proceedings' (2005 Acts, ch 69, §58, redirected to § 598.15), was independently checked so as not to be mistaken for a second, live requirement."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "required-disclosures",
+    "rule_id": "ia-mandatory-net-worth-affidavit-in-every-case-no-special-showing-required-waivable-only-by-both-parties-joint-application",
+    "question": "What financial disclosure does Iowa require in a divorce?",
+    "rule": "A sworn statement of net worth is required from both parties in every case, with no special showing needed to trigger it, and it can be waived only by both parties applying jointly and the court approving. Iowa Code § 598.13(1)(a): \"Both parties shall disclose their financial status. A showing of special circumstances shall not be required before the disclosure is ordered. A statement of net worth set forth by affidavit on a form prescribed by the supreme court and furnished without charge by the clerk of the district court shall be filed by each party prior to the dissolution hearing. However, the parties may waive this requirement upon application of both parties and approval by the court.\"",
+    "trap": "\"A showing of special circumstances shall not be required before the disclosure is ordered\" means this duty is automatic in every case, not something either party has to request or justify — the statute forecloses the argument that disclosure is discretionary or case-specific. The waiver route requires BOTH parties to apply AND the court to approve; one party cannot unilaterally excuse the other from filing, and the court's approval is not automatic either. Iowa Code § 598.13(1)(b) (not quoted above) ties a failure to comply directly into the civil discovery rules: \"Failure to comply with the requirements of this subsection constitutes failure to make discovery as provided in rule of civil procedure 1.517\" — this rule does not restate rule 1.517's own discovery-sanction mechanics, which are outside the statutes and case law this corpus is built from.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.13",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_13",
+            "quote": "Both parties shall disclose their financial status. A showing of special circumstances shall not be required before the disclosure is ordered. A statement of net worth set forth by affidavit on a form prescribed by the supreme court and furnished without charge by the clerk of the district court shall be filed by each party prior to the dissolution hearing. However, the parties may waive this requirement upon application of both parties and approval by the court.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.13, row IA_598_13, subsection 1(a) in full. Subsection 1(b) (the Iowa R. Civ. P. 1.517 discovery-failure cross-reference) was read but not quoted; Iowa's rules of civil procedure are not part of this corpus (only statutes and case law are indexed), so that cross-reference's own text is not independently verified here — an honest negative in the same shape as this plugin's Texas required-disclosures row. Subsection 2 (a court-ordered trustee disclosure power) was read but not quoted, a separate topic."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "temporary-orders",
+    "rule_id": "ia-temporary-support-and-custody-orders-require-a-claim-or-application-plus-five-days-notice-hearing-scope-limited-to-the-application-and-affidavits",
+    "question": "What can an Iowa court order while a divorce is pending, and how does that happen?",
+    "rule": "Nothing is automatic — a temporary order for support or custody requires a claim in the petition or an application after service, at least five days' notice, and an opportunity to be heard, and the hearing itself is limited to what the application and affidavits actually raise. Iowa Code § 598.10(1)(a): \"The court may order either party to pay the clerk a sum of money for the separate support and maintenance of the other party and the children and to enable such party to prosecute or defend the action. The court may on its own motion and shall upon application of either party or a guardian ad litem appointed under section 598.12 or an attorney appointed under section 598.12A determine the temporary custody of any minor child whose welfare may be affected by the filing of the petition for dissolution.\" Iowa Code § 598.10(2): \"The court may make such an order when a claim for temporary support is made by the petitioner in the petition, or upon application of either party, after service of the original notice and when no application is made in the petition; however, no such order shall be entered until at least five days' notice of hearing, and opportunity to be heard, is given the other party.\" Iowa Code § 598.11(1) then limits what the hearing can reach: \"In making temporary orders, the court shall take into consideration the age of the applicant, the physical and pecuniary condition of the parties, and other matters as are pertinent, which may be shown by affidavits, as the court may direct. The hearing on the application shall be limited to matters set forth in the application, the affidavits of the parties, and the required statements of income. The court shall not hear any other matter relating to the petition, respondent's answer, or any pleadings connected with the petition or answer.\"",
+    "trap": "Temporary custody is the one piece that is not purely discretionary: § 598.10(1)(a) says the court \"may on its own motion AND SHALL upon application of either party\" determine temporary custody — meaning once either party actually applies, the court must decide the issue, even though the court could also raise it unprompted. \"No such order shall be entered until at least five days' notice of hearing, and opportunity to be heard, is given the other party\" is a floor, not merely a formality — a temporary order entered without that notice and opportunity is not authorized by this text. § 598.11(1)'s scope limit cuts both ways: it keeps the temporary-order hearing from turning into a preview of the merits (\"shall not hear any other matter relating to the petition, respondent's answer, or any pleadings\"), which also means a party cannot use a temporary-order hearing to litigate the underlying dissolution issues early.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.10",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_10",
+            "quote": "a. The court may order either party to pay the clerk a sum of money for the separate support and maintenance of the other party and the children and to enable such party to prosecute or defend the action. The court may on its own motion and shall upon application of either party or a guardian ad litem appointed under section 598.12 or an attorney appointed under section 598.12A determine the temporary custody of any minor child whose welfare may be affected by the filing of the petition for dissolution.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.10",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_10",
+            "quote": "The court may make such an order when a claim for temporary support is made by the petitioner in the petition, or upon application of either party, after service of the original notice and when no application is made in the petition; however, no such order shall be entered until at least five days’ notice of hearing, and opportunity to be heard, is given the other party.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.11",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_11",
+            "quote": "In making temporary orders, the court shall take into consideration the age of the applicant, the physical and pecuniary condition of the parties, and other matters as are pertinent, which may be shown by affidavits, as the court may direct. The hearing on the application shall be limited to matters set forth in the application, the affidavits of the parties, and the required statements of income. The court shall not hear any other matter relating to the petition, respondent’s answer, or any pleadings connected with the petition or answer.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.10 (row IA_598_10, subsection 1(a) in full and the first clause of subsection 2, stopping at 'is given the other party'; the rest of subsection 2, on special appearances and the order's required demographic content, and subsection 1(b), on minimum visitation scheduling, were read but not quoted) and § 598.11 (row IA_598_11, subsection 1 in full; subsections 2-3, on modification of temporary orders and the three-month retroactivity limit, were read but not quoted, a related but separate topic)."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "mediation",
+    "rule_id": "ia-court-may-order-mediation-in-any-dissolution-action-with-a-domestic-abuse-waiver-right-not-mandatory-anywhere-in-this-chapter",
+    "question": "Is mediation required in an Iowa divorce?",
+    "rule": "No — a district court \"may\" order mediation on its own motion or a party's motion in any dissolution or domestic-relations action, but nothing in this chapter makes mediation mandatory by default, and a party has an outright right to waive it on a showing of domestic-abuse history. Iowa Code § 598.7(1): \"The district court may, on its own motion or on the motion of any party, order the parties to participate in mediation in any dissolution of marriage action or other domestic relations action. Mediation performed under this section shall comply with the provisions of chapter 679C. The provisions of this section shall not apply if the action involves a child support or medical support obligation enforced by child support services. The provisions of this section shall not apply to actions which involve elder abuse pursuant to chapter 235F or domestic abuse pursuant to chapter 236. The provisions of this section shall not affect a judicial district's or court's authority to order settlement conferences pursuant to rules of civil procedure. The court shall, on application of a party, grant a waiver from any court-ordered mediation under this section if the party demonstrates that a history of domestic abuse exists as specified in section 598.41, subsection 3, paragraph \"j\".\"",
+    "trap": "HONEST NEGATIVE, RECORDED: this chapter's mediation-adjacent provisions are consistently discretionary, not mandatory — general mediation under § 598.7 (\"may... order\"), custody-specific mediation under § 598.41(2)(d) (\"may require the parties to participate in custody mediation\"), and conciliation under § 598.16(2) (\"may... require\") all use \"may,\" not \"shall\"; this rule does not find a mandatory-mediation trigger anywhere in Iowa Code chapter 598 comparable to a rule that fires automatically whenever a dispute \"appears on the face of\" a pleading. The waiver right is not discretionary in the other direction, though: once a party demonstrates the specified domestic-abuse history, \"[t]he court SHALL... grant a waiver\" — the court has no discretion to deny that waiver once the showing is made. Mediation under this section does not apply at all to a child- or medical-support obligation enforced by child support services, or to an elder-abuse or domestic-abuse action itself.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.7",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_7",
+            "quote": "The district court may, on its own motion or on the motion of any party, order the parties to participate in mediation in any dissolution of marriage action or other domestic relations action. Mediation performed under this section shall comply with the provisions of chapter 679C. The provisions of this section shall not apply if the action involves a child support or medical support obligation enforced by child support services. The provisions of this section shall not apply to actions which involve elder abuse pursuant to chapter 235F or domestic abuse pursuant to chapter 236. The provisions of this section shall not affect a judicial district’s or court’s authority to order settlement conferences pursuant to rules of civil procedure. The court shall, on application of a party, grant a waiver from any court-ordered mediation under this section if the party demonstrates that a history of domestic abuse exists as specified in section 598.41, subsection 3, paragraph “j”.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.7, row IA_598_7, subsection 1 in full. Subsections 2-5 (the supreme court's dispute-resolution-program and mediator-qualification rulemaking, and mediation-session standards including a sliding fee scale) were read but not quoted, separate operational topics. § 598.7A, a since-repealed duplicate 'Mediation' section (2005 Acts, ch 69, §58, redirected to § 598.7), was independently checked. Custody mediation under § 598.41(2)(d) and conciliation under § 598.16(2) were both read (verified separately as authorities in this file's custody-and-visitation and conciliation rows) to support the cross-chapter 'may, not shall' finding in this row's trap."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "settlement-agreements",
+    "rule_id": "ia-written-agreement-settling-all-issues-plus-a-certified-breakdown-and-filed-documents-lets-the-court-enter-a-decree-without-a-hearing",
+    "question": "Can Iowa spouses settle their case and skip a hearing?",
+    "rule": "Yes — if the parties certify the breakdown in writing, file everything required, AND enter a written agreement settling every issue in the case, the court may enter a decree of dissolution without holding a hearing at all. Iowa Code § 598.8(2)(a): \"The court may enter a decree of dissolution without a hearing under either of the following circumstances: a. All of the following circumstances have been met: (1) The parties have certified in writing that there has been a breakdown of the marriage relationship to the extent that the legitimate objects of matrimony have been destroyed and there remains no reasonable likelihood that the marriage can be preserved. (2) All documents required by the court and by statute have been filed. (3) The parties have entered into a written agreement settling all of the issues involved in the dissolution of marriage.\"",
+    "trap": "All three numbered conditions in (2)(a) must be met TOGETHER — a written settlement agreement alone, without the written breakdown certification and the required filings, does not by this text let the court skip the hearing. This is not the only route to a no-hearing decree: § 598.8(2)(b) (not quoted above) supplies a SEPARATE track for an unresponsive respondent — one who has not appeared or filed anything, after the § 598.19 waiting period has expired, with the petitioner's own written certification and filings — so a reader should not assume every no-hearing decree in Iowa rests on an agreement between the parties. This rule does not establish what happens to the settling parties' agreement itself if the case does NOT qualify for a no-hearing decree under this section — whether it is still enforceable, revocable, or must be presented to the court in some other way at a hearing — NOT ESTABLISHED here; that would require a different, dedicated settlement-agreement-enforcement provision this rule does not locate in this chapter.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.8",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_8",
+            "quote": "2. The court may enter a decree of dissolution without a hearing under either of the following circumstances:\na. All of the following circumstances have been met:\n(1) The parties have certified in writing that there has been a breakdown of the marriage relationship to the extent that the legitimate objects of matrimony have been destroyed and there remains no reasonable likelihood that the marriage can be preserved.\n(2) All documents required by the court and by statute have been filed.\n(3) The parties have entered into a written agreement settling all of the issues involved in the dissolution of marriage.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.8",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_8",
+            "quote": "b. The respondent has not entered a general or special appearance or filed a motion or pleading in the case, the waiting period provided under section 598.19 has expired, and all of the following circumstances have been met:",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.8, row IA_598_8, subsection 2 lead-in and (a)(1)-(3) quoted as a contiguous span. Subsection 1 (open-court hearings as the default, and courtroom-security-on-request when a domestic-abuse history exists) and subsection 2(b) (the unresponsive-respondent no-hearing track) were read but not quoted; (b) is described, not quoted, in this row's trap as a separate track from the agreement-based one this row answers. No dedicated Iowa Code chapter 598 provision on the enforceability or revocability of a settlement agreement once made was located in this pass; recorded as not established rather than guessed at. PACK PROSE-CITATION AND CORPUS-CLAIM SWEEP 2026-09-22: the trap describes § 598.8(2)(b)'s unresponsive-respondent track as 'not quoted above'; it is quoted now."
+  },
+  {
+    "jurisdiction": "ia",
+    "clause": "name-restoration",
+    "rule_id": "ia-name-change-at-dissolution-to-birth-certificate-name-or-pre-marriage-name-any-other-name-change-goes-through-chapter-674-instead",
+    "question": "Can a spouse get their name changed as part of an Iowa dissolution?",
+    "rule": "Yes — either party may request a name change as part of the decree, but only to one of two specific names: the name on that person's birth certificate, or the name the person had immediately before the marriage; any other requested name goes through a different chapter entirely. Iowa Code § 598.37: \"Either party to a marriage may request as a part of the decree of dissolution or decree of annulment a change in the person's name to either the name appearing on the person's birth certificate or to the name the person had immediately prior to the marriage. If a party requests a name change other than to the name appearing on the person's birth certificate or to the name the person had immediately prior to the marriage, the request shall be made under chapter 674.\"",
+    "trap": "This section, titled \"Name change\" rather than \"restoration,\" is broader than a simple return to one's immediately-prior name: it offers TWO options, the birth-certificate name OR the pre-marriage name, and for someone married more than once those can be two different names — the statute lets a party choose either, not just the name held right before this particular marriage. The second sentence is a hard channel, not a mere cross-reference: a request for any OTHER name (a newly chosen name, not the birth-certificate name or the pre-marriage name) is not available under this section at all and \"shall be made under chapter 674\" instead — this rule does not restate chapter 674's own procedure, which is a separate, general name-change statute outside this dissolution-specific rule's scope; NOT ESTABLISHED here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Iowa Code § 598.37",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IA_598_37",
+            "quote": "Either party to a marriage may request as a part of the decree of dissolution or decree of annulment a change in the person’s name to either the name appearing on the person’s birth certificate or to the name the person had immediately prior to the marriage. If a party requests a name change other than to the name appearing on the person’s birth certificate or to the name the person had immediately prior to the marriage, the request shall be made under chapter 674.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ia), Iowa Code § 598.37, row IA_598_37, full text (the entire section, two sentences, no content skipped). Chapter 674, the general name-change procedure this section redirects to for any other requested name, was not read in this pass — this row states its existence from § 598.37's own cross-reference but does not verify chapter 674's own text; an honest negative rather than an assumption about its contents."
+  }
+]

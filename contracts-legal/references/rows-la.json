@@ -1,0 +1,1815 @@
+[
+  {
+    "jurisdiction": "la",
+    "clause": "anti-assignment",
+    "rule_id": "la-rs-10-9-406-408-anti-assignment-ineffective-accounts-general-intangibles",
+    "question": "Does our no-assignment clause stop the other side from assigning (or pledging as collateral) its right to be paid, or its rights under a license or franchise?",
+    "rule": "Mostly no, for the categories Louisiana's enacted UCC secured-transactions article protects -- Louisiana has adopted Chapter 9 of the Uniform Commercial Code (codified at La. R.S. 10:9-101 et seq.) even though it has NOT adopted UCC Article 2 (sales of goods), so this Chapter 9 override applies to accounts, chattel paper, payment intangibles, and general intangibles regardless of whether the underlying deal is itself governed by the Civil Code or the UCC. La. R.S. 10:9-406(d): \"a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note.\" La. R.S. 10:9-408(a) extends a narrower override to a general intangible \"including a contract, permit, license, or franchise\": the restriction is ineffective only \"to the extent that the term: (1) would impair the creation, attachment, or perfection of a security interest,\" or makes one a default -- it protects a lender's lien, not an outright assignment of the contract. A Louisiana Court of Appeal applied § 9-406(a)'s companion notification rule to an actual factoring dispute in Swift Energy Operating, LLC v. Plemco-South, Inc., rejecting a trial court's view that the statute reached only an outright ownership transfer: \"the trial court equated an assignor/assignee relationship to constitute an actual 'transfer of interest' and concluded that because the Swift Energy accounts payable had not been transferred in ownership to Factor King and were nothing more than collateral security, La.R.S. 10:9-406(a) did not apply to the litigation. We find merit in Factor King's argument that this conclusion was error on the part of the trial court.\"",
+    "trap": "Both overrides are narrower than \"no anti-assignment clause works in Louisiana.\" § 9-406(e) carves the override back OUT for a straight SALE of a payment intangible or promissory note (as opposed to a security interest arising from one): \"Subsection (d) of this Section does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under R.S. 10:9-610 ... or an acceptance of collateral under R.S. 10:9-620\" . Swift Energy is not authority on that carve-out: it was a § 9-406(a) NOTIFICATION case, in which the court corrected the trial court's view that only an ownership transfer counts as an assignment (\"these definitions clearly establish that accounts receivable may be sold or made the subject of a security interest\") and then held for the account debtor anyway because \"the notice required by La.R.S. 10:9-406(a) was not effected prior to Swift Energy's payment to Plemco-South\" -- the factor lost for want of notice, not on the sale/security-interest line. § 9-408(d) is a further trap in the anti-assignment drafter's favor even where subsection (a) makes the restriction \"ineffective\": the assignee still gets no enforcement right against the account debtor and the account debtor need not recognize or pay the assignee at all -- the statute strips the anti-assignment clause of its power to create a DEFAULT, but does not force the account debtor to deal with a stranger. And because Louisiana never enacted UCC Article 2, do not assume this Chapter 9 override reaches every commercial contract; it speaks only to accounts, chattel paper, payment intangibles, promissory notes, and general intangibles as those terms are defined in Chapter 9 -- a Civil Code sale-of-goods contract's own anti-assignment clause is analyzed under ordinary Civil Code assignment rules (Book III, Title IV, Chapter 13), not this statute. Both sections carve out the same list, and it is longer than the health-care receivable everyone remembers: neither § 10:9-406 nor § 10:9-408 applies to an assignment of a pension, disability, annuity, retirement or other benefit, distribution or allowance right or payment from a governmental retirement system, pension fund or other governmental unit, nor to workers' compensation claims or payments, unemployment compensation benefits, public assistance payments, crime victim compensation, or lottery payments. So an anti-assignment clause over any of those is NOT rendered ineffective by these sections, and this rule says nothing about what does govern them.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 10:9-406",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_10_9_406",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 10:9-406",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_10_9_406",
+            "quote": "Subsection (d) of this Section does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under R.S. 10:9-610 or an acceptance of collateral under R.S. 10:9-620.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 10:9-408",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_10_9_408",
+            "quote": "is not enforceable against the person obligated on the promissory note or the account debtor;",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 14-598 (La. Ct. App. 3d Cir. Feb. 4, 2015)",
+        "name": "Swift Energy Operating, LLC v. Plemco-South, Inc.",
+        "court": "la-lactapp",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "5444b53c523eab0b",
+            "cl_opinion_id": "11291401",
+            "quote": "the trial court equated an assignor/assignee relationship to constitute an actual “transfer of interest” and concluded that because the Swift Energy accounts payable had not been transferred in ownership to Factor King and were nothing more than collateral security, La.R.S. 10:9-406(a) did not apply to the litigation. We find merit in Factor King’s argument that this conclusion was error on the part of the trial court.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 10:9-408",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_10_9_408",
+            "quote": "is ineffective to the extent that the term: (1) would impair the creation, attachment, or perfection of a security interest; or (2) provides that the assignment or transfer or the creation, attachment, or perfection of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy under the promissory note, health-care-insurance receivable, or general intangible.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 14-598 (La. Ct. App. 3d Cir. Feb. 4, 2015)",
+        "name": "Swift Energy Operating, LLC v. Plemco-South, Inc.",
+        "court": "la-lactapp",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "5444b53c523eab0b",
+            "cl_opinion_id": "11291401",
+            "quote": "these definitions clearly establish that accounts receivable may be sold or made the subject of a security interest.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 14-598 (La. Ct. App. 3d Cir. Feb. 4, 2015)",
+        "name": "Swift Energy Operating, LLC v. Plemco-South, Inc.",
+        "court": "la-lactapp",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "5444b53c523eab0b",
+            "cl_opinion_id": "11291401",
+            "quote": "we find that the notice required by La.R.S. 10:9-406(a) was not effected prior to Swift Energy’s payment to Plemco-South.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 10:9-406",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_10_9_406",
+            "quote": "This Section does not apply to an assignment of a\r\nhealth-care-insurance receivable. This Section further does not apply to an assignment of any\r\npension, disability, annuity, retirement or other benefit, distribution or allowance right or\r\npayment from any governmental retirement system or pension fund or any other\r\ngovernmental unit, workers' compensation claims or payments, unemployment compensation\r\nbenefits, public assistance payments, crime victim compensation, or lottery payments.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 10:9-408",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_10_9_408",
+            "quote": "This Section does not apply to an assignment of any pension,\r\ndisability, annuity, retirement or other benefit, distribution or allowance right or payment\r\nfrom any governmental retirement system or pension fund or any other governmental unit,\r\nworkers' compensation claims or payments, unemployment compensation benefits, public\r\nassistance payments, crime victim compensation, or lottery payments.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 10:9-401 through 10:9-409 read as one part. A DISTINCTIVE STRUCTURAL FINDING confirmed for this pass: a scan of docketx/us-statutes for \"RS 10:2-\" returned zero rows -- Louisiana has never enacted UCC Article 2 (Sales), unlike every other state this store covers; sales of movables remain governed by the Civil Code's own Title on Sale (see this store's warranty-disclaimer/redhibition row), while Louisiana's Title 10 enacts Articles 1, 3, 4, 4A, 5, 7, 8, and 9 of the UCC. HONEST NOTE ON THE AUTHORITY: Swift Energy Operating's citation does not resolve to a reporter volume/page in this corpus's citation map at this snapshot; identity rests on the case name/court/date (docket 14-598, Third Circuit, decided 2015-02-04) matching the row exactly. The opinion applies § 9-406(a)'s notification-and-discharge mechanic to a factoring dispute rather than construing § 9-406(d)'s anti-assignment-override text directly, and is cited here for its confirmation that Louisiana courts read the statute to reach security-interest (not just outright-sale) assignments of accounts receivable -- consistent with, and illustrative of, the § 9-406(d)/(e) distinction stated in the rule and trap above. AUDIT 2026-09-22 (full read of the Louisiana pack): the trap said Swift Energy 'turns on' the § 9-406(e) sale-vs-security-interest carve-out; the opinion never reaches (d) or (e) -- it is a (a) notification case, decided for the account debtor for want of notice. Rewritten; the two holdings added verbatim; § 9-408(a)'s own scope sentence added so the rule stops calling it 'the same override'. OVERSTATED (M). SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; none of the limit's most distinctive words appeared in this row."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "arbitration",
+    "rule_id": "la-rs-9-4201-arbitration-valid-irrevocable-adhesion-mutuality-trap",
+    "question": "Will Louisiana courts enforce this arbitration clause, even if only one side is actually bound to arbitrate?",
+    "rule": "Yes, as a matter of strong statutory policy, but a clause that binds only one party can fail as a contract of adhesion. Louisiana's Binding Arbitration Law, La. R.S. 9:4201: \"A provision in any written contract to settle by arbitration a controversy thereafter arising out of the contract ... shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.\" Once such an agreement exists, § 9:4202 makes a stay near-automatic on the resisting party's application: \"the court in which suit is pending, upon being satisfied that the issue involved in the suit or proceedings is referable to arbitration under such an agreement, shall on application of one of the parties stay the trial of the action until an arbitration has been had in accordance with the terms of the agreement, providing the applicant for the stay is not in default in proceeding with the arbitration.\" But the Louisiana Supreme Court has struck down an arbitration clause on ordinary contract grounds where it lacked mutuality: in James Duhon v. Activelaf, LLC (the Sky Zone trampoline-park case), the Court reversed the court of appeal, \"holding the arbitration clause in the Sky Zone agreement is adhesionary and therefore unenforceable,\" because the clause bound only the patron and not Sky Zone, and \"the lack of mutuality in the arbitration clause fortifies our finding that it is adhesionary.\"",
+    "trap": "Duhon does NOT create a per se rule that any degree of non-mutuality voids an arbitration clause -- the Court's own prior decision, Aguillard v. Auction Management Corp. (which Duhon applies and distinguishes), enforced an arbitration clause that also lacked perfect term-for-term mutuality, and the majority in Duhon expressly acknowledged \"requiring term-for-term mutuality in an arbitration clause could risk running afoul of the [Federal Arbitration Act].\" The dissents in Duhon make the trap concrete: they argued the four Aguillard factors (physical characteristics of the clause, whether it was concealed, and mutuality among them) must be WEIGHED together, not resolved by mutuality alone, and that the majority's focus on mutuality to the exclusion of the other factors (the clause was in the same size and font as the rest of the agreement, and the patron checked a box at the top of the paragraph that contained it -- though, as the majority stressed, \"significantly no check box was placed next to the arbitration language,\" which sat eleven lines into a multi-topic paragraph) was itself contestable. A reviewer should therefore check the clause's physical presentation and the signing mechanism, not just whether both sides are bound, before predicting enforceability. Separately, § 9:4201's own text preserves ordinary contract defenses (\"save upon such grounds as exist at law or in equity for the revocation of any contract\") -- fraud, lack of consent, and adhesion analysis under general Louisiana contract law remain live even though the statute otherwise strongly favors arbitration.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4201",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4201",
+            "quote": "A provision in any written contract to settle by arbitration a controversy thereafter arising out of the contract, or out of the refusal to perform the whole or any part thereof, or an agreement in writing between two or more persons to submit to arbitration any controversy existing between them at the time of the agreement to submit, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4202",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4202",
+            "quote": "the court in which suit is pending, upon being satisfied that the issue involved in the suit or proceedings is referable to arbitration under such an agreement, shall on application of one of the parties stay the trial of the action until an arbitration has been had in accordance with the terms of the agreement, providing the applicant for the stay is not in default in proceeding with the arbitration.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 2016-CC-0818 (La. Oct. 19, 2016)",
+        "name": "James Duhon v. Activelaf, LLC, D/B/A Skyzone Lafayette and Underwriters at Lloyds, London",
+        "court": "la-la",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "9803f30a6c14e687",
+            "cl_opinion_id": "4090900",
+            "quote": "For the following reasons, we reverse the ruling of the court of appeal, holding the arbitration clause in the Sky Zone agreement is adhesionary and therefore unenforceable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 2016-CC-0818 (La. Oct. 19, 2016)",
+        "name": "James Duhon v. Activelaf, LLC, D/B/A Skyzone Lafayette and Underwriters at Lloyds, London",
+        "court": "la-la",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "9803f30a6c14e687",
+            "cl_opinion_id": "4090900",
+            "quote": "Additionally, the lack of mutuality in the arbitration clause fortifies our finding that it is adhesionary.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 2016-CC-0818 (La. Oct. 19, 2016)",
+        "name": "James Duhon v. Activelaf, LLC, D/B/A Skyzone Lafayette and Underwriters at Lloyds, London",
+        "court": "la-la",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "9803f30a6c14e687",
+            "cl_opinion_id": "4090900",
+            "quote": "Although patrons are required to check a box adjacent to the top of the third paragraph, significantly no check box was placed next to the arbitration language.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 2016-CC-0818 (La. Oct. 19, 2016)",
+        "name": "James Duhon v. Activelaf, LLC, D/B/A Skyzone Lafayette and Underwriters at Lloyds, London",
+        "court": "la-la",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "9803f30a6c14e687",
+            "cl_opinion_id": "4090900",
+            "quote": "term mutuality in an arbitration clause could risk running afoul of the FAA. However, the Supreme Court has made it clear that state courts may apply standard state law contract defenses to arbitration agreements.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 9:4201-4209 read as one chapter (the Louisiana Binding Arbitration Law). Duhon read in full, including Chief Justice Johnson's majority opinion, Justice Weimer's dissent, Justice Guidry's dissent, and Justice Clark's concurrence -- the dissents' objection that the majority weighed mutuality without giving comparable weight to the other Aguillard factors is stated accurately in the trap above and is the dissenting, not majority, position, labeled as such. HONEST NOTE ON THE CITATION: this case's reporter citation does not resolve to a volume/page in this corpus's citation map at this snapshot; identity rests on the case name/court/date and the docket number (2016-CC-0818) recorded on the face of the opinion itself, not on a resolved reporter cite. Duhon also notes the underlying agreement's own $5,000 liquidated-damages clause penalizing a patron who sues rather than arbitrates -- a detail read but not relied upon as authority for this row's liquidated-damages coverage, which rests on the Lombardo v. Deshotel line instead. AUDIT 2026-09-22 (full read of the Louisiana pack): the trap said the patron 'checked a box next to' the arbitration clause; the majority: 'significantly no check box was placed next to the arbitration language' (the box was at the top of the paragraph). Rewritten; that sentence and the FAA sentence added verbatim. OVERSTATED (L). QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): the rule's § 9:4202 quotation elided 'in which suit is pending ... shall on application of one of the parties' with an ellipsis that joined 'the court' to 'shall stay' -- words the section does not put together. Quoted in full. OVERSTATED (L): a misquotation."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "attorney-fees",
+    "rule_id": "la-attorney-fees-not-allowed-except-statute-or-contract",
+    "question": "Can the prevailing party recover attorney fees in this Louisiana contract dispute if the contract is silent on fees?",
+    "rule": "No -- this is purely jurisprudential in Louisiana (there is no Civil Code article granting a general default fee-shifting right), and the rule runs the opposite direction from a court's inherent-equity power: fees are recoverable ONLY if a specific statute or the contract itself authorizes them. The Louisiana Supreme Court states the rule as settled doctrine: in Stutts v. Melton the Court held, in a dispute over a seller's liability following a real-estate sale, \"Louisiana courts have long held that attorney fees are not allowed except where authorized by statute or contract.\" Louisiana's intermediate courts repeat the identical formulation across construction, commercial-lease, and general-contract disputes alike -- it is treated as settled law, not case-specific dicta.",
+    "trap": "Because the rule is jurisprudential rather than codal, there is no Civil Code article to point to as the source, and a reviewer searching Titles III-IV for an attorney-fee default article will not find one -- the rule lives entirely in the case law, which makes it easy to assume (wrongly) that Louisiana has no rule at all rather than a strict no-fees-without-authorization rule. A contractual fee clause must therefore do real work: Louisiana courts do not imply reciprocity into a one-way fee clause the way some other states' statutes do (contrast Montana's Mont. Code Ann. § 28-3-704, which this store's Montana rows cover, converting a one-way contractual fee right into a two-way one by statute) -- nothing in the Louisiana authorities read for this rule extends that same statutory reciprocity to Louisiana contracts, and a one-way Louisiana fee clause should be treated as one-way unless a specific statute (for example, in a construction-lien, insurance, or consumer-protection context) says otherwise. A separately relevant statutory fee-shifting scheme -- for example, the Private Works Act's own provisions -- must be checked on its own terms rather than assumed to interact with this general rule.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "130 So.3d 808",
+        "name": "Stutts v. Melton",
+        "court": "la-la",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "233669ee2026b5a3",
+            "cl_opinion_id": "4808243",
+            "quote": "Louisiana courts have long held that attorney fees are not allowed except where authorized by statute or contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "This row is CASE-ONLY by design, not an oversight: a full-text scan of docketx/us-statutes for a Louisiana Civil Code article stating a general default attorney-fee rule for contract actions turned up nothing, because the rule genuinely is jurisprudential rather than codal in Louisiana -- an honest structural fact about this jurisdiction, stated rather than papered over with a loosely-related statute. A full-text scan of docketx/us-caselaw-la for the phrase \"attorney fees are not allowed except\" / \"attorney fees are not recoverable unless\" returned roughly 199 hits spanning 2011-2026, all stating the identical rule (Big Dog Co., Successions of Millet, Rosenblat Properties, Markel v. Price, Ardent Services v. G&V Investments, Chandler Groceries v. Ali, Coastal Industries v. Arkle Constructors, and others) -- no contrary authority found. HONEST NEGATIVE: whether Louisiana courts imply two-way reciprocity into a one-way contractual fee clause the way Montana's § 28-3-704 does by statute was not resolved by any authority read for this row and is not answered here; the trap states this as an open, unresolved question rather than assuming either answer."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "choice-of-law",
+    "rule_id": "la-cc-3537-3540-most-seriously-impaired-policy-party-autonomy",
+    "question": "Will Louisiana honor this contract's choice-of-law clause, or apply its own most-seriously-impaired-policy conflicts test instead?",
+    "rule": "Louisiana will generally honor the parties' choice, but its codified conflicts-of-laws methodology is NOT a simple \"the parties' chosen law always governs\" rule -- it is built around a most-seriously-impaired-policy analysis, with party autonomy layered on top as the general residual rule. Civil Code art. 3537 states the baseline test for conventional obligations: \"Except as otherwise provided in this Title, an issue of conventional obligations is governed by the law of the state whose policies would be most seriously impaired if its law were not applied to that issue,\" determined by weighing \"the pertinent contacts of each state to the parties and the transaction,\" \"the nature, type, and purpose of the contract,\" and enumerated policy factors including \"facilitating the orderly planning of transactions\" and \"protecting one party from undue imposition by the other.\" Article 3540 then supplies party autonomy for everything the more specific Title does not otherwise resolve: \"All other issues of conventional obligations are governed by the law expressly chosen or clearly relied upon by the parties, except to the extent that law contravenes the public policy of the state whose law would otherwise be applicable under Article 3537.\" A Louisiana Court of Appeal confirmed how this operates in practice in O'Bannon v. Moriah Techs., Inc.: \"it is well established that where the parties stipulate the state law governing the contract, Louisiana conflict of laws principles require that the stipulation be given effect, unless there is statutory or *405 jurisprudential law to the contrary or strong public policy considerations justifying the refusal to honor the contract as written.\"",
+    "trap": "Article 3540's party-autonomy rule is textually subordinate to, and conditioned by, art. 3537's public-policy override -- the chosen law is displaced \"to the extent that law contravenes the public policy of the state whose law would otherwise be applicable under Article 3537,\" which means a reviewer cannot stop at \"the contract has a choice-of-law clause\" without asking what Louisiana's own most-seriously-impaired-policy analysis would otherwise pick, and whether the chosen law conflicts with THAT state's public policy. Employment contracts are a hard statutory override, not merely a public-policy factor to weigh: R.S. 23:921(A)(2), covered in this store's non-competition and forum-selection rows, independently VOIDS a choice-of-law clause in an employee's contract of employment unless the employee later, after the dispute arose, expressly ratifies it -- a choice-of-law clause that would otherwise be honored under arts. 3537/3540 can still be struck down by this separate, employment-specific statute. And O'Bannon's own formulation is conditional (\"unless there is statutory or jurisprudential law to the contrary or strong public policy considerations\"), not absolute -- the party-autonomy default has real, litigated exceptions, and the case does not purport to catalog all of them.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 3537",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_3537",
+            "quote": "Except as otherwise provided in this Title, an issue of conventional obligations is governed by the law of the state whose policies would be most seriously impaired if its law were not applied to that issue.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 3540",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_3540",
+            "quote": "All other issues of conventional obligations are governed by the law expressly chosen or clearly relied upon by the parties, except to the extent that law contravenes the public policy of the state whose law would otherwise be applicable under Article 3537.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "248 So.3d 392",
+        "name": "O'Bannon v. Moriah Techs., Inc.",
+        "court": "la-lactapp",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "8a07ab32c8a0a3c2",
+            "cl_opinion_id": "7616373",
+            "quote": "it is well established that where the parties stipulate the state law governing the contract, Louisiana conflict of laws principles require that the stipulation be given effect, unless there is statutory or *405 jurisprudential law to the contrary or strong public policy considerations justifying the refusal to honor the contract as written.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Arts. 3537 and 3540 read in full together with art. 3515 (the general-issues residual rule art. 3537 cross-references) and art. 3515's own factor list, which O'Bannon also quoted in the surrounding text. The \"*405\" mid-sentence page-break artifact in the O'Bannon quote is kept verbatim (as this store's other rows do for similar source-PDF pagination artifacts) rather than silently edited; the substance is unaffected. This row deliberately states the STRUCTURE of Louisiana's conflicts methodology (impairment-of-policy baseline, party autonomy as the residual rule for \"all other issues,\" both subject to a public-policy override) rather than the flattened \"Louisiana honors choice-of-law clauses\" formulation a cursory read of art. 3540 alone might produce."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "electronic-signature",
+    "rule_id": "la-rs-9-2601-ueta-electronic-signature-intent-title-10-exclusion",
+    "question": "Is this contract enforceable if it was signed electronically, and does Louisiana's e-signature law reach every kind of Louisiana contract?",
+    "rule": "Yes, generally -- Louisiana adopted the Uniform Electronic Transactions Act, La. R.S. 9:2601 et seq. (\"This Chapter may be cited as the 'Louisiana Uniform Electronic Transactions Act'\"), and its core validity rule removes electronic form as an objection: R.S. 9:2607, \"A record or signature may not be denied legal effect or enforceability solely because it is in electronic form,\" \"A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation,\" and, critically for a Louisiana-specific writing requirement like art. 1839's transfer-of-immovables rule or art. 1846's over-$500 evidentiary rule, \"If a law requires a record to be in writing, an electronic record satisfies the law\" and \"If a law requires a signature, an electronic signature satisfies the law.\" An \"electronic signature\" itself requires genuine signing intent, not just an electronic mark: R.S. 9:2602(8) defines it as \"an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.\" A Louisiana Court of Appeal applied that intent requirement to reject informally-initialed emails as binding signatures in Regions Bank v. Cabinet Works, L.L.C.: \"There must be a showing that the signer intended to do a legally significant act.\"",
+    "trap": "The Act's own scope section carves out a major category that is easy to overlook: R.S. 9:2603(B) excludes from the Chapter's coverage \"A transaction to the extent it is governed by the provisions of Title 10 of the Louisiana Revised Statutes of 1950\" -- Title 10 is Louisiana's enactment of the Uniform Commercial Code, so a transaction governed by Louisiana's UCC articles (negotiable instruments, bank deposits, secured transactions, investment securities, letters of credit) falls outside UETA's coverage to that extent. This exclusion is structured differently from a state that has enacted UCC Article 2, because Louisiana never enacted Article 2 at all (sales of movables remain under the Civil Code, which IS within UETA's scope) -- so the practical bite of the Title 10 exclusion in Louisiana falls on secured transactions, negotiable instruments, and similar UCC-governed dealings, not on ordinary sales contracts. Regions Bank's intent requirement cuts against assuming an initialed or informally-signed-off email automatically counts: the court found initials on settlement-negotiation emails did not establish the senders intended those initials as binding electronic signatures, even though the emails were plainly authored by the parties' own counsel. Article 9:2603(B) also excludes wills, codicils, testamentary trusts, and several categories of consumer notice (utility termination, default/foreclosure/eviction notices, health and life insurance cancellation, product recalls) -- an e-signature or e-delivery strategy built for ordinary commercial contracts should not be assumed to extend to those categories.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2602",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2602",
+            "quote": "\"Electronic signature\" means an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2603",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2603",
+            "quote": "A transaction to the extent it is governed by the provisions of Title 10 of the Louisiana Revised Statutes of 1950.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2607",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2607",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2607",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2607",
+            "quote": "If a law requires a record to be in writing, an electronic record satisfies the law.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "92 So.3d 945",
+        "name": "Regions Bank v. Cabinet Works, L.L.C.",
+        "court": "la-lactapp",
+        "decided": "2012",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "527a057fe85a5898",
+            "cl_opinion_id": "4875629",
+            "quote": "There must be a showing that the signer intended to do a legally significant act.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "92 So.3d 945",
+        "name": "Regions Bank v. Cabinet Works, L.L.C.",
+        "court": "la-lactapp",
+        "decided": "2012",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "527a057fe85a5898",
+            "cl_opinion_id": "4875629",
+            "quote": "Here, the initials or other name indications on the messages here do not establish that Cohn and Bourgeois intended those to be electronic signatures for purposes of the Louisiana Uniform Electronic Transactions Act.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2601",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2601",
+            "quote": "This Chapter may be cited as the \"Louisiana Uniform Electronic Transactions Act\".",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1839",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1839",
+            "quote": "A transfer of immovable property must be made by authentic act or by act under private signature. Nevertheless, an oral transfer is valid between the parties when the property has been actually delivered and the transferor recognizes the transfer when interrogated on oath.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1846",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1846",
+            "quote": "If the price or value is in excess of five hundred dollars, the contract must be proved by at least one witness and other corroborating circumstances.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 9:2601-2609 read as one chapter. HONEST NOTE ON A STATUTE-VS-OPINION DISAGREEMENT: Regions Bank quotes the \"may not be denied legal effect or enforceability solely because it is in electronic form\" sentence and attributes it to \"La. R.S. 9:2602\" in its own text, but that exact sentence's actual home in the corpus's current published statute text is R.S. 9:2607(A), not § 9:2602 (which is the Act's definitions section). This is recorded as an unresolved statute-vs-opinion citation disagreement, consistent with this store's practice elsewhere (see the Idaho Walker v. American Cyanamid row), rather than silently corrected or assumed to be the case's error. DISTINCTIVE FINDING: R.S. 9:2603(B)(2)'s exclusion of Title-10-governed transactions is structurally different in Louisiana than a comparable UCC carve-out in a common-law UCC state (compare this store's Delaware electronic-transactions row, which excludes \"the UCC other than Sections 1-107 and 1-206, Article 2, and Article 2A\") precisely because Louisiana's Title 10 does not include an Article 2 at all -- confirmed by a zero-row scan of docketx/us-statutes for \"RS 10:2-\" (see this store's anti-assignment and warranty-disclaimer rows for the same underlying fact). AUDIT 2026-09-22 (full read of the Louisiana pack): §§ 9:2601, 2602, 2603 and 2607 read whole; Regions read at the holding, which is now quoted. CORRECT. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): § 9:2601 was quoted with no block; added. § 9:2601's row shares the la shard's Title:Section convention gap (body text opens '§2601.'; metadata 'RS 9:2601'); listed in KNOWN_PUBLISHED_CITATION_DEFECTS like the row's other R.S. blocks. NUMBER SWEEP 2026-09-22 (every money, percentage, time-period and date figure in a statute-attributed sentence checked against the cited section's text): the rule names art. 1839's transfer-of-immovables rule and art. 1846's over-$500 evidentiary rule with no block; both read in full (LA_CC_1839, LA_CC_1846); blocks added."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "force-majeure",
+    "rule_id": "la-cc-1873-1878-fortuitous-event-impossibility-civil-law",
+    "question": "Will a Louisiana court excuse late or non-performance under this force-majeure clause, or under the Civil Code even with no clause at all?",
+    "rule": "Louisiana does not use \"force majeure\" as a term of art in the Code; the doctrine is \"fortuitous event\" (cas fortuit), and it excuses performance by operation of law even in a contract that says nothing about it. Civil Code art. 1873: \"An obligor is not liable for his failure to perform when it is caused by a fortuitous event that makes performance impossible.\" Article 1875 supplies the definition, and it is a FORESEEABILITY test measured at formation: \"A fortuitous event is one that, at the time the contract was made, could not have been reasonably foreseen.\" If the event destroys the ENTIRE performance owed, art. 1876 dissolves the contract outright: \"When the entire performance owed by one party has become impossible because of a fortuitous event, the contract is dissolved.\" The one Louisiana opinion cited here does NOT apply the doctrine, and should not be read as if it did: in Creole Gardens, L.L.C. v. Schreiber the Fourth Circuit quoted arts. 1994, 1873 and 1986 only as the appellant's argument for a French-style \"obligation of result\" (\"Creole Gardens contends the obligation of result concept is supported by La. C.C. arts. 1994, 1873, and 1986, which, when read in paria materia, holds the obligor liable ... unless the failure to perform was caused by a fortuitous event\") and rejected the argument -- \"notwithstanding that confluence and any theoretical support for the doctrine provided by La. C.C. articles 1994, 1873, and 1986, Creole Gardens' argument that the district court committed legal error in not applying the obligation of result doctrine is fundamentally flawed\" -- deciding the case under the redhibition articles instead. This rule therefore rests on the Code's own text; no opinion excusing a commercial obligor under art. 1873 is cited, and that gap is stated rather than papered over.",
+    "trap": "The Code's own liability-preserving exceptions inside art. 1873 are easy to miss when a drafter assumes \"impossible\" always wins: an obligor who ASSUMED THE RISK of the fortuitous event is liable anyway; an obligor who was already IN DEFAULT when the event struck is liable; and an obligor whose own prior FAULT preceded and contributed to the failure is liable -- the article states all three as exceptions in the same breath as the general excuse. Partial impossibility does not automatically dissolve the whole deal: art. 1877, \"the court may reduce the other party's counterperformance proportionally, or, according to the circumstances, may declare the contract dissolved\" -- reduction, not automatic dissolution, is the Code's own first-listed option. And a fortuitous event that strikes AFTER partial performance does not erase what has already changed hands: art. 1878 binds the obligee \"only to the extent that he was enriched by the obligor's partial performance,\" a restitution-style, not all-or-nothing, remedy. Finally, art. 1875's foreseeability test is fixed at CONTRACT FORMATION -- an event that was foreseeable when the parties signed does not become a fortuitous event later just because it in fact was not anticipated by the party invoking it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1873",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1873",
+            "quote": "An obligor is not liable for his failure to perform when it is caused by a fortuitous event that makes performance impossible.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1875",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1875",
+            "quote": "A fortuitous event is one that, at the time the contract was made, could not have been reasonably foreseen.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1876",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1876",
+            "quote": "When the entire performance owed by one party has become impossible because of a fortuitous event, the contract is dissolved.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1877",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1877",
+            "quote": "When a fortuitous event has made a party's performance impossible in part, the court may reduce the other party's counterperformance proportionally, or, according to the circumstances, may declare the contract dissolved.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 2019-CA-0105 (La. Ct. App. 4th Cir. Sept. 25, 2019)",
+        "name": "Creole Gardens, L.L.C. v. Klaus-Peter F. Schreiber and Sarah Leonard Schreiber",
+        "court": "la-lactapp",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "bc412f3b17b2545d",
+            "cl_opinion_id": "11076748",
+            "quote": "Creole Gardens contends the obligation of result concept is supported by La. C.C. arts. 1994, 1873, and 1986, which, when read in paria materia, holds the obligor liable to the obligee for damages arising out of the obligor’s failure to perform a conventional obligation, unless the failure to perform was caused by a fortuitous event.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 2019-CA-0105 (La. Ct. App. 4th Cir. Sept. 25, 2019)",
+        "name": "Creole Gardens, L.L.C. v. Klaus-Peter F. Schreiber and Sarah Leonard Schreiber",
+        "court": "la-lactapp",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "bc412f3b17b2545d",
+            "cl_opinion_id": "11076748",
+            "quote": "notwithstanding that confluence and any theoretical support for the doctrine provided by La. C.C. articles 1994, 1873, and 1986, Creole Gardens’ argument that the district court committed legal error in not applying the obligation of result doctrine is fundamentally flawed.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 2019-CA-0105 (La. Ct. App. 4th Cir. Sept. 25, 2019)",
+        "name": "Creole Gardens, L.L.C. v. Klaus-Peter F. Schreiber and Sarah Leonard Schreiber",
+        "court": "la-lactapp",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "bc412f3b17b2545d",
+            "cl_opinion_id": "11076748",
+            "quote": "we find no legal error in the district court’s reliance on our redhibition statutes, particularly, La. C.C. art. 2548, to determine the Schreibers’ breach of warranty against fire code violations and Creole Gardens’ burden of proof.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1878",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1878",
+            "quote": "the obligee is bound but only to the extent that he was enriched by the obligor's partial performance.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Arts. 1873-1878 (Title IV, Chapter 6, \"Impossibility of Performance\") read as one sequence. HONEST NOTE ON THE AUTHORITY: Creole Gardens, L.L.C. v. Schreiber carries docket no. 2019-CA-0105 (Fourth Circuit) but its citation does not resolve to a reporter volume/page in this corpus's CourtListener citation map at this snapshot; identity here rests on the case name/court/date matching the row exactly (not on a reporter cite), consistent with this store's practice for a recent, uncited-in-the-map opinion. The opinion ultimately rejected the \"obligation of result\" theory on its own facts (finding the underlying services agreement did not create an obligation of result), but the passage quoted states the fortuitous-event rule accurately as the premise both sides argued from, and the court's own art. 1873 quotation later in the opinion (\"[a]n obligor is not liable for his failure to perform when it is caused by a fortuitous event that makes performance impossible\") matches the statute's text verbatim. HONEST NEGATIVE: Whitney Thomas Wise v. Cheyene Heid Wise (La. Ct. App. 3d Cir. 2023) states the same rule even more directly but is marked \"NOT DESIGNATED FOR PUBLICATION\" on its own face and is deliberately NOT cited as authority here, consistent with this store's treatment of noncitable memorandum opinions elsewhere (see the Idaho and Montana rows' handling of similarly marked opinions). AUDIT 2026-09-22 (full read of the Louisiana pack): the rule said the Fourth Circuit 'read arts. 1873, 1986, and 1994 together and confirmed' the fortuitous-event defence, quoting a sentence that begins 'Creole Gardens contends' -- the APPELLANT'S argument, which the court called 'fundamentally flawed' and did not apply; the case was decided under art. 2548. Rewritten to say what the court did; the court's sentence added verbatim. OVERSTATED (H): a party's argument, rejected, presented as the court applying the doctrine. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): art. 1878 was quoted with no block; added."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "indemnity",
+    "rule_id": "la-rs-9-2780-2780-1-oilfield-construction-anti-indemnity-void",
+    "question": "Will Louisiana enforce this indemnity clause if the work relates to an oil, gas, or water well, or is a construction or motor-carrier contract?",
+    "rule": "No, to the extent the clause would indemnify the indemnitee against its own negligence or fault -- for DEATH OR BODILY INJURY under the oilfield statute, and for any \"loss or damage\" under the construction and motor-carrier statute -- in two separately codified anti-indemnity statutes. For a well or drilling agreement, the Louisiana Oilfield Anti-Indemnity Act, La. R.S. 9:2780(B): \"Any provision contained in, collateral to, or affecting an agreement pertaining to a well ... is void and unenforceable to the extent that it purports to or does provide for defense or indemnity ... to the indemnitee against loss or liability for damages arising out of or resulting from death or bodily injury to persons, which is caused by or results from the sole or concurrent negligence or fault (strict liability) of the indemnitee, or an agent, employee, or an independent contractor who is directly responsible to the indemnitee.\" A Louisiana Court of Appeal confirmed how litigants invoke the statute in Rogers v. Integrated Exploration & Prod., LLC: \"LOAIA is found in La. R.S. 9:2780 and provides, in pertinent part, that certain defense and indemnification agreements 'pertaining to a well' are unenforceable,\" applying a \"two-step test\" to determine whether a given agreement is one the statute reaches. A separate, broader statute covers construction and motor-carrier transportation contracts outside the oilfield context: R.S. 9:2780.1(B) voids a construction or motor-carrier-transportation-contract provision that \"purports to indemnify, defend, or hold harmless, or has the effect of indemnifying, defending, or holding harmless, the indemnitee from or against any liability for loss or damage resulting from the negligence or intentional acts or omissions of the indemnitee, an agent or employee of the indemnitee, or a third party over which the indemnitor has no control.\"",
+    "trap": "Rogers' own \"two-step test\" is the trap: whether an agreement is one \"pertaining to a well\" under § 9:2780 is a real, litigated threshold question, not a label the parties can avoid simply by drafting a general master service agreement that does not mention a specific well by name -- the statute itself reaches blanket contracts -- § 9:2780(J): \"This specifically includes what is commonly referred to in the oil industry as master or general service agreements or blanket contracts in whatever form and by whatever name\" -- and the test is applied to the work, not the label. It cuts both ways: in Rogers the master contract did NOT pertain to a well, because the work was on a commingling platform where, in the Fifth Circuit's words the court adopted, the gas \"can no longer be identified with a particular well,\" and the indemnity was enforced. Section 9:2780(D)(2) is a further trap running the other way: the void rule does NOT reach an \"operating agreement\" or \"farmout agreement\" between owners of mineral rights, EXCEPT that this carve-out \"shall not extend to any party who physically performs any activities\" under the agreement -- so the same document can be enforceable indemnity as between the mineral-rights co-owners and simultaneously void as applied to a party who does physical field work under it. For construction and motor-carrier contracts, § 9:2780.1(I) preserves a narrow route around the void rule that § 9:2780 does not offer in the same way: a construction-contract indemnity clause remains enforceable if the contract ALSO requires the indemnitor to obtain insurance covering the indemnity obligation and there is evidence the indemnitor recovered the insurance cost in the contract price -- but even then, \"the indemnitor's liability under such clause shall be limited to the amount of the proceeds that were payable under the insurance policy.\" And § 9:2780.1(E) expressly says the newer statute does not alter, add to, or overlap R.S. 9:2780 -- the two anti-indemnity statutes are read side by side, not as one merged into the other, for a contract that could plausibly fall under either (for example, well-site construction work). Louisiana does not stop at the indemnity clause, and this rule used to. § 9:2780's own heading is ‘Certain indemnification agreements invalid; additional insured coverage’, and Subsection G voids the usual way round it: a provision requiring waivers of subrogation, additional named insured endorsements ‘or any other form of insurance protection which would frustrate or circumvent the prohibitions of this Section’ is ‘null and void and of no force and effect’. Subsection H then reopens a single narrow door, notwithstanding G: additional insured coverage procured as the result of an agreement is ‘enforceable solely as follows’, and the party seeking it must do all three of requesting an additional-insured premium quote by SEPARATE written communication to the named insured or its agent or broker, receiving a premium quote from the named insured's insurer or authorised representative, and making DIRECT PAYMENT to that insurer or representative. Miss any of the three and the coverage is not enforceable under this Subsection. On the construction and motor-carrier side § 9:2780.1 leaves one thing expressly intact: nothing in it prevents the indemnitee from requiring the indemnitor to provide proof of insurance for obligations covered by the contract. And whatever the contract does between the companies, the worker's own claim is untouched: “Nothing in this Section shall prohibit any employee from recovering damages, compensation, or benefits under workers' compensation laws or any other claim or cause of action.”",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780",
+            "quote": "Any provision contained in, collateral to, or affecting an agreement pertaining to a well or wells for oil, gas, or water, or drilling for minerals which occur in a solid, liquid, gaseous, or other state, is void and unenforceable to the extent that it purports to or does provide for defense or indemnity, or either, to the indemnitee against loss or liability for damages arising out of or resulting from death or bodily injury to persons, which is caused by or results from the sole or concurrent negligence or fault (strict liability) of the indemnitee, or an agent, employee, or an independent contractor who is directly responsible to the indemnitee.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780",
+            "quote": "This exception shall not extend to any party who physically performs any activities pursuant to any agreement as defined in Subsection C of this Section.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780.1",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780_1",
+            "quote": "any provision, clause, covenant, or agreement contained in, collateral to, or affecting a motor carrier transportation contract or construction contract which purports to indemnify, defend, or hold harmless, or has the effect of indemnifying, defending, or holding harmless, the indemnitee from or against any liability for loss or damage resulting from the negligence or intentional acts or omissions of the indemnitee, an agent or employee of the indemnitee, or a third party over which the indemnitor has no control is contrary to the public policy of this state and is null, void, and unenforceable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780.1",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780_1",
+            "quote": "the indemnitor's liability under such clause shall be limited to the amount of the proceeds that were payable under the insurance policy or policies that the indemnitor was required to obtain.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "265 So.3d 880",
+        "name": "Rogers v. Integrated Exploration & Prod., LLC",
+        "court": "la-lactapp",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "365baedafb2b7374",
+            "cl_opinion_id": "7638486",
+            "quote": "LOAIA is found in La. R.S. 9:2780 and provides, in pertinent part, that certain defense and indemnification agreements \"pertaining to a well\" are unenforceable:",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780",
+            "quote": "This specifically includes what is commonly referred to in the oil industry as master or general service agreements or blanket contracts in whatever form and by whatever name.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "265 So.3d 880",
+        "name": "Rogers v. Integrated Exploration & Prod., LLC",
+        "court": "la-lactapp",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "365baedafb2b7374",
+            "cl_opinion_id": "7638486",
+            "quote": "LOAIA does not apply where work is performed at a \"reasonably determinable point\" at which the gas can no longer be identified with a particular well",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "265 So.3d 880",
+        "name": "Rogers v. Integrated Exploration & Prod., LLC",
+        "court": "la-lactapp",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "365baedafb2b7374",
+            "cl_opinion_id": "7638486",
+            "quote": "Accordingly, we find no error in the district court's conclusion that LOAIA does not apply to the facts of this case.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780",
+            "quote": "G. Any provision in any agreement arising out of the operations, services, or\r\nactivities listed in Subsection C of this Section which requires waivers of\r\nsubrogation, additional named insured endorsements, or any other form of insurance\r\nprotection which would frustrate or circumvent the prohibitions of this Section, shall\r\nbe null and void and of no force and effect.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780",
+            "quote": "H. Notwithstanding the prohibitions of Subsection G of this Section,\r\nadditional insured coverage if procured as the result of an agreement shall be\r\nenforceable solely as follows:\n(1) A party can seek additional insured coverage for itself or itself and\r\nmembers of its group as defined by its agreement with the named insured after the\r\nparty seeking additional insured coverage does all of the following:\n(a) Makes such a request for an additional insured premium quote by separate\r\nwritten communication to the named insured or the named insured's insurance agent\r\nor broker, or both.\n(b) Receives a premium quote from the named insured's insurer or its\r\nauthorized representative.\n(c) Makes direct payment to the named insured's insurer or its authorized\r\nrepresentative for either additional insured coverage for itself only or for itself and\r\nmembers of its group as defined by its agreement with the named insured.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780.1",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780_1",
+            "quote": "However, nothing in this Section shall be construed to prevent the indemnitee from requiring\r\nthe indemnitor to provide proof of insurance for obligations covered by the contract.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:2780.1",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_2780_1",
+            "quote": "Nothing in this Section shall prohibit any employee from recovering damages,\r\ncompensation, or benefits under workers' compensation laws or any other claim or cause of\r\naction.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 9:2780 and 9:2780.1 read in full. § 9:2780 carries a 2026 amendment (Acts 2026, No. 328, §1) whose full substantive effect this row did not independently diff against the pre-amendment text; the quotes above are drawn from the current corpus text and are dated 2026-09-21 accordingly. Rogers read in the surrounding pages: the district court had held the master contractor services agreement at issue did not \"pertain to a well\" and so fell outside LOAIA, a ruling the Court of Appeal's \"two-step test\" discussion was reviewing; this row cites Rogers for its accurate statement of the statute and confirmation that the scope question is genuinely litigated, not for a resolved holding on this row's own hypothetical (the case's ultimate disposition of the scope question was not independently confirmed for this row and is not asserted here). applies_to is set to oilfield-services and construction because those are the two contract categories the two statutes actually name; § 9:2780.1 also reaches motor-carrier transportation contracts, a category not present in this store's closed CONTRACT_TYPES vocabulary -- stated here rather than silently dropped. AUDIT 2026-09-22 (full read of the Louisiana pack): the headline dropped the oilfield statute's own limit to 'death or bodily injury to persons' (subsections A and B), and the trap asserted that master service agreements can be caught without citing § 9:2780(J), which says so, or Rogers' outcome, in which the master contract was held NOT to pertain to a well. Headline rewritten; J and Rogers' holding added. OVERSTATED (L).\nHOLDING SWEEP 2026-09-22 (fifth band, overlap 0.30-0.35): Rogers outcome sentence added (indemnity enforced because LOAIA did not apply). SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep, which flagged this row on the insurance vocabulary of § 9:2780(H) — the row contained none of ‘additional insured’, ‘subrogation’, ‘premium’ or ‘direct payment’, although the section's own heading names additional insured coverage. Subsections G and H(1) and § 9:2780.1's proof-of-insurance saving are now carried as verified blocks. The quotes preserve the published line breaks because the Louisiana rows are hard-wrapped; the prose above quotes only fragments that sit within a single line. Read in this pass and NOT described here: H(2) on group premiums and notice, H(3), H(4) on funding deductibles or retentions up to the first $100,000, and H(5), which preserves the Subsection B prohibition regardless. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row.",
+    "applies_to": [
+      "oilfield-services",
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "limitation-of-liability",
+    "rule_id": "la-cc-2004-nullity-of-clause-excluding-liability-intentional-gross-fault",
+    "question": "Will Louisiana enforce this clause limiting or excluding our liability, including a consequential-damages exclusion?",
+    "rule": "Yes, for ordinary fault -- but never in advance for intentional or gross fault, or for physical injury. Civil Code art. 2004: \"Any clause is null that, in advance, excludes or limits the liability of one party for intentional or gross fault that causes damage to the other party. Any clause is null that, in advance, excludes or limits the liability of one party for causing physical injury to the other party.\" The Louisiana Supreme Court applied art. 2004 to a genuinely commercial dispute -- a mineral-exploration agreement's consequential-damages exclusion -- in Olympia Minerals, LLC v. HS Resources, Inc., and the case shows the bar for defeating such a clause is HIGH: after the lower courts voided the clause on a finding of \"bad faith\" under art. 1997 (a related article the Court read together with art. 2004), the Supreme Court reversed, holding \"Accordingly, and contrary to the lower courts' holdings, the agreement's prohibition against consequential damages is enforceable,\" because the record did not establish malice: the Court, noting it \"has never stated what constitutes bad faith under La. C.C. art. 1997,\" took its definition from the article's revision comment (b) -- \"[a]n obligor is in bad faith if he intentionally and maliciously fails to perform his obligation\" -- and found the breaches, though \"conscious and calculated business decisions\" in the trial court's words, were not \"maliciously made.\"",
+    "trap": "Olympia Minerals is the trap in both directions. First, do not assume ordinary carelessness, a poor business decision, or even a party's own \"conscious and calculated\" choice to breach defeats a limitation-of-liability or consequential-damages clause under art. 2004 -- the trial court in Olympia Minerals found the breaching party's decisions were \"conscious and calculated business decisions,\" not negligent ones, and the Supreme Court STILL reversed the finding of bad faith, holding actual malice (an intentional and malicious failure to perform) is required, not merely intentional conduct that happens to breach the contract. Second, do not assume art. 2004 is toothless just because the bar is high: the article's own text is not limited to gross negligence in the tort sense -- \"intentional fault\" is its own, separate ground alongside \"gross fault,\" and a clause that in advance purports to excuse a party's own deliberate, bad-faith non-performance remains null regardless of how the clause is worded. Third, art. 2004's second sentence -- voiding any advance exclusion of liability for causing PHYSICAL INJURY -- is a freestanding, distinct rule from the intentional-or-gross-fault sentence and applies even to ordinary-negligence-caused physical injury; a clause validly limiting commercial/economic liability under the first sentence's ordinary-fault carve-out gets no protection at all if the harm in question is bodily injury.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2004",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2004",
+            "quote": "Any clause is null that, in advance, excludes or limits the liability of one party for intentional or gross fault that causes damage to the other party. Any clause is null that, in advance, excludes or limits the liability of one party for causing physical injury to the other party.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "171 So.3d 878",
+        "name": "Olympia Minerals, LLC v. Hs Resources, Inc.",
+        "court": "la-la",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "a915ba1fdc4b8e31",
+            "cl_opinion_id": "2742690",
+            "quote": "Accordingly, and contrary to the lower courts’ holdings, the agreement’s prohibition against consequential damages is enforceable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "171 So.3d 878",
+        "name": "Olympia Minerals, LLC v. Hs Resources, Inc.",
+        "court": "la-la",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "a915ba1fdc4b8e31",
+            "cl_opinion_id": "2742690",
+            "quote": "“[a]n obligor is in bad faith if he intentionally and maliciously fails to perform his obligation.”",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "171 So.3d 878",
+        "name": "Olympia Minerals, LLC v. Hs Resources, Inc.",
+        "court": "la-la",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "a915ba1fdc4b8e31",
+            "cl_opinion_id": "2742690",
+            "quote": "so our review is guided by revision comment (b) to article 1997, which indicates that “[a]n obligor is in bad faith if he intentionally and maliciously fails to perform his obligation.”",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "171 So.3d 878",
+        "name": "Olympia Minerals, LLC v. Hs Resources, Inc.",
+        "court": "la-la",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "a915ba1fdc4b8e31",
+            "cl_opinion_id": "2742690",
+            "quote": "were not the result of negligence, unforeseen events, or even a lack of ability. These were conscious and calculated business decisions.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1997",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1997",
+            "quote": "An obligor in bad faith is liable for all the damages, foreseeable or not, that are a direct consequence of his failure to perform.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Art. 2004 read in full (both sentences) together with the surrounding articles of Title IV, Chapter 5 (\"Damages\"), including art. 1997 (bad-faith obligor liability), which Olympia Minerals reads alongside art. 2004 as the operative standard for defeating a consequential-damages exclusion. Olympia Minerals read in full: the Court separately reversed an unrelated $1,537,500 damage award premised on a non-existent sublease obligation, and remanded a reconventional-demand issue; this row cites the opinion only for its consequential-damages-clause holding and the bad-faith standard it applied, not for those other, unrelated rulings. The \"bad faith\" quote is drawn from Civil Code art. 1997's Revision Comment (b), as the Court itself quoted and relied on it (\"our review is guided by revision comment (b) to article 1997\"); this row treats it as the Court's own adopted standard, not merely a comment the Court declined to follow, consistent with how the opinion actually applies it to reverse the lower courts. AUDIT 2026-09-22 (full read of the Louisiana pack): the bad-faith definition was presented as the Court's holding; the Court says it 'has never stated what constitutes bad faith' and takes the definition from revision comment (b). Attributed; the sentence and the trial court's 'conscious and calculated' finding added verbatim. OVERSTATED (L). PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): art. 1997 read in full (LA_CC_1997); block added."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "limitations-period",
+    "rule_id": "la-cc-3499-ten-year-personal-action-vs-three-year-and-two-year-delictual",
+    "question": "How long do we have to sue for breach of this Louisiana contract?",
+    "rule": "Ten years for an ordinary contract action (a \"personal action\"), unless a shorter, more specific period applies. Louisiana Civil Code art. 3499: \"Unless otherwise provided by legislation, a personal action is subject to a liberative prescription of ten years.\" But a claim on a promissory note is not a ten-year claim: art. 3498, \"Actions on instruments, whether negotiable or not, and on promissory notes, whether negotiable or not, are subject to a liberative prescription of five years.\" In American Turbine Technology, Inc. v. Omni Bancshares, Inc. the plaintiff argued its line-of-credit claim \"as a personal action is subject to liberative prescription of ten years under La. C.C. art. 3499\"; the Fifth Circuit agreed the action \"is not governed by the Louisiana UCC\" and reversed the district court's one-year ruling, but did not give it ten years -- \"Because this action arises from the terms of the promissory note itself, in view of Ott, we also find that this action should be subject to the prescriptive period of five years under La. C.C. art. 3498\" -- while declining \"to ultimately decide the issue of prescription here because that peremptory exception was not pleaded below or on appeal.\" The ten-year default is displaced by shorter, listed categories: art. 3494 sets a THREE-YEAR period for, among other things, \"An action for the recovery of compensation for services rendered, including payment of salaries, wages, commissions, professional fees, ... freight, passage, money, lodging, and board,\" \"An action on money lent,\" and \"An action on an open account.\" Delictual (tort) claims run on a wholly separate, shorter clock that is NOT the ten-year personal-action period at all: art. 3493.1, \"Delictual actions are subject to a liberative prescription of two years. This prescription commences to run from the day that injury or damage is sustained.\"",
+    "trap": "Do not import a one-year delictual-prescription assumption from an older source: former art. 3492, which set delictual prescription at ONE year, was REPEALED by Acts 2024, No. 423, § 2, effective July 1, 2024, and delictual prescription in Louisiana is now TWO years under the newly enacted art. 3493.1 -- a reviewer relying on a pre-2024 secondary source, treatise, or memory will misstate current law. Second, the ten-year personal-action default in art. 3499 yields easily to more specific categories -- open accounts, money lent, and compensation for services all drop to THREE years under art. 3494, so a services or supply contract dressed as a simple \"breach of contract\" claim may in fact be governed by the three-year period, not the ten-year one, depending on how the claim is actually framed. Third, the label on the pleading decides the clock, and \"breach of contract\" does not earn ten years by itself: in American Turbine the district court had dismissed everything under the UCC's one-year period for conversion of instruments (La. R.S. 10:3-420); the Fifth Circuit held the action \"is not governed by the Louisiana UCC\" and pointed instead to art. 3498's five-year period for actions on promissory notes -- so a single dispute can carry the one-year UCC period, the five-year instrument period or the ten-year personal-action period depending on how the claim is actually framed, and a claim on a note pleaded as breach of contract gets art. 3498's five, not art. 3499's ten.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 3499",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_3499",
+            "quote": "Unless otherwise provided by legislation, a personal action is subject to a liberative prescription of ten years.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 3494",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_3494",
+            "quote": "The following actions are subject to a liberative prescription of three years: (1) An action for the recovery of compensation for services rendered, including payment of salaries, wages, commissions, professional fees, fees and emoluments of public officials, freight, passage, money, lodging, and board;",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 3493.1",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_3493_1",
+            "quote": "Delictual actions are subject to a liberative prescription of two years. This prescription commences to run from the day that injury or damage is sustained.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "222 So.3d 189",
+        "name": "American Turbine Technology, Inc. v. Omni Bancshares, Inc.",
+        "court": "la-lactapp",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "86c19567ea496c67",
+            "cl_opinion_id": "4842022",
+            "quote": "but as a personal action is subject to liberative prescription of ten years under La. C.C. art. 3499.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 3498",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_3498",
+            "quote": "Actions on instruments, whether negotiable or not, and on promissory notes, whether negotiable or not, are subject to a liberative prescription of five years. This prescription commences to run from the day payment is exigible.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "222 So.3d 189",
+        "name": "American Turbine Technology, Inc. v. Omni Bancshares, Inc.",
+        "court": "la-lactapp",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "86c19567ea496c67",
+            "cl_opinion_id": "4842022",
+            "quote": "we find this action is not governed by the Louisiana UCC. Therefore, we conclude the district court erred in finding this action was prescribed under La. R.S. 10:3-420 and La. R.S. 10:4-406.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "222 So.3d 189",
+        "name": "American Turbine Technology, Inc. v. Omni Bancshares, Inc.",
+        "court": "la-lactapp",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "86c19567ea496c67",
+            "cl_opinion_id": "4842022",
+            "quote": "Because this action arises from the terms of the promissory note itself, in view of Ott, we also find that this action should be subject to the prescriptive period of five years under La. C.C. art. 3498. We decline to ultimately decide the issue of prescription here because that peremptory exception was not pleaded below or on appeal.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Arts. 3490-3499 (the general prescription chapter) read in full, including the 2024 repeal/redesignation history: art. 3492 (formerly the one-year delictual-prescription article) and art. 3493 both now read \"Repealed by Acts 2024, No. 423, §2, eff. July 1, 2024\"; the delictual rule was RECODIFIED, not simply deleted, at new arts. 3493.1 (general two-year delictual rule) and 3493.3 (two-year rule for crime-of-violence-based delictual actions, redesignated from former art. 3493.10). This is a DISTINCTIVE, currency-sensitive finding: Louisiana's one-year tort prescription -- long a hallmark of the state's law -- became two years for injuries sustained on or after July 1, 2024, and this row states the current rule rather than the pre-2024 one. American Turbine Technology's own opinion text contains an OCR artifact (\"one-j myear prescriptive period\") in the sentence immediately preceding the quoted authority; the quoted passage itself is unaffected and was independently re-read for cleanliness before being used here. PULLED FROM SERVING 2026-09-22 by the full read of the Louisiana pack (the DocketX contract-law audit of 2026-09-22): the rule says the Fifth Circuit in American Turbine 'applied this directly to a breach-of-contract claim on a promissory note ... holding' the claim is 'subject to liberative prescription of ten years under La. C.C. art. 3499.' The quoted words are the PLAINTIFF'S submission ('American submits that this breach of contract action is not governed by the Louisiana UCC, and, therefore, is not subject to the one-year prescriptive period under the UCC, but as a personal action is subject to liberative prescription of ten years'). The court held the opposite of ten years: 'Because this action arises from the terms of the promissory note itself, in view of Ott, we also find that this action should be subject to the prescriptive period of five years under La. C.C. art. 3498,' and declined to decide prescription because the exception was not pleaded. The trap compounds it: it says the UCC's one-year period 'applied to a different claim in the same case' when the court held the action 'is not governed by the Louisiana UCC' and reversed the district court's one-year ruling. A reader relying on the row would give a promissory-note claim ten years; art. 3498 gives five. RESTORED 2026-09-22, corrected: the existing 'ten years' quote is kept and now labelled as the plaintiff's submission; the court's holding (not governed by the UCC; five years under art. 3498; prescription not finally decided) added verbatim, and art. 3498 added as an authority. WRONG (H) -> pulled -> restored."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "liquidated-damages",
+    "rule_id": "la-cc-2005-2012-stipulated-damages-manifestly-unreasonable-public-policy",
+    "question": "Will a Louisiana court enforce this stipulated (liquidated) damages clause, and can the court re-price it after the fact?",
+    "rule": "Yes, and Louisiana's civil-law approach starts from the opposite presumption of the common-law penalty doctrine: a stipulated-damages clause is enforced AS WRITTEN unless it is manifestly unreasonable, and the obligee does not even have to prove actual damage. Louisiana Civil Code art. 2005: \"Parties may stipulate the damages to be recovered in case of nonperformance, defective performance, or delay in performance of an obligation.\" Article 2009 then removes the obligee's usual burden of proof: \"An obligee who avails himself of a stipulated damages clause need not prove the actual damage caused by the obligor's nonperformance, defective performance, or delay in performance.\" The Civil Code's own limit on judicial second-guessing is narrow and is itself an article: art. 2012, \"Stipulated damages may not be modified by the court unless they are so manifestly unreasonable as to be contrary to public policy.\" The Louisiana Supreme Court applies the article as a real limit on judicial power, not an invitation to revisit the bargain: in Lombardo v. Deshotel the Court held \"Stipulated damages may not be modified by the court unless they are so manifestly unreasonable as to be contrary to public policy, C.C. Art. 2012,\" and enforced a stipulated-damages clause against a seller who had elected specific performance first and damages only after that remedy became impracticable.",
+    "trap": "Article 2012's \"manifestly unreasonable\" standard is deliberately a high bar, and Lombardo confirms the Supreme Court will not let a party out of a stipulation merely because the actual loss, measured later, turned out different from the stipulated figure -- there the seller had stipulated a $1,000 deposit forfeiture, sold the property to a third person “for a sum substantially below the purchase agreement's sale price”, and asked the court to fix her damages instead; the Court held her to her own stipulation unless it was shown to be manifestly unreasonable. The article protects the parties' pre-estimate in both directions, not a post-hoc damages calculation. Two other Code articles change the analysis in ways a common-law-trained reviewer will miss. First, art. 2010: \"An obligee may not avail himself of a clause stipulating damages for delay unless the obligor has been put in default\" -- a delay-damages clause is dead on arrival without a formal default (mise en demeure), a Louisiana-specific procedural prerequisite that has no counterpart in most states' liquidated-damages doctrine. Second, art. 2006: \"Nullity of the principal obligation renders the stipulated damages clause null. Nullity of the stipulated damages clause does not render the principal obligation null\" -- the dependency runs only one way, so a defective stipulated-damages clause does not let the obligor escape the underlying deal. Do not assume art. 2012's public-policy standard is the only escape hatch, either: art. 2007 caps the obligee's election (\"he may not demand both unless the damages have been stipulated for mere delay\"), and a stipulated-damages clause attached to a nullified principal obligation falls with it under art. 2006's first sentence.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2005",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2005",
+            "quote": "Parties may stipulate the damages to be recovered in case of nonperformance, defective performance, or delay in performance of an obligation.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2009",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2009",
+            "quote": "An obligee who avails himself of a stipulated damages clause need not prove the actual damage caused by the obligor's nonperformance, defective performance, or delay in performance.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2012",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2012",
+            "quote": "Stipulated damages may not be modified by the court unless they are so manifestly unreasonable as to be contrary to public policy.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2010",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2010",
+            "quote": "An obligee may not avail himself of a clause stipulating damages for delay unless the obligor has been put in default.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "647 So.2d 1086",
+        "name": "Lombardo v. Deshotel",
+        "court": "la-la",
+        "decided": "1994",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "88ed1e5c32e73861",
+            "cl_opinion_id": "1137109",
+            "quote": "Stipulated damages may not be modified by the court unless they are so manifestly unreasonable as to be contrary to public policy, C.C. Art. 2012",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2006",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2006",
+            "quote": "Nullity of the principal obligation renders the stipulated damages clause null. Nullity of the stipulated damages clause does not render the principal obligation null.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2007",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2007",
+            "quote": "An obligee may demand either the stipulated damages or performance of the principal obligation, but he may not demand both unless the damages have been stipulated for mere delay.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Arts. 2005-2012 (Title III-IV, \"Conventional Obligations,\" Section on stipulated damages) read as one sequence. This is a genuinely civil-law-shaped rule and was NOT force-fit into a common-law liquidated-damages-vs-penalty template: Louisiana's default is enforcement, with judicial modification the narrow exception (art. 2012), rather than a common-law rule that voids an unreasonably large stipulation as a penalty in the first instance. Lombardo v. Deshotel read in full: the Supreme Court held the seller-obligee was bound by her own stipulated-damages clause even though she pursued specific performance first, damages only became her remedy after resale to a third party made specific performance impracticable, and she was not required to mitigate. CORPUS CHECK: docketx/us-caselaw-la holds 367,729 published Louisiana opinions; a full-text scan for \"manifestly unreasonable\" + \"contrary to public policy\" together returned 18 hits spanning 1994-2018, all applying art. 2012 the same way -- no contrary authority found. AUDIT 2026-09-22: the trap had said Lombardo's seller's actual loss came out LOWER than the stipulation; the opinion's own summary says she resold 'for a sum substantially below the purchase agreement's sale price' and sued for court-fixed damages -- the loss was higher, and the Court held her to the stipulated $1,000. Sentence rewritten to the case's facts; the art. 2012 proposition it supports is unchanged and the quote is untouched. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): art. 2006 was quoted with no block; added. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): art. 2007 read in full (LA_CC_2007); block added."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "non-competition",
+    "rule_id": "la-rs-23-921-noncompete-void-unless-narrow-statutory-exception",
+    "question": "Will a Louisiana court enforce this employee non-competition covenant, and can it also bar the employee from working for a competitor?",
+    "rule": "Only if it fits a narrow statutory exception -- and, since 2003, that exception reaches a former employee who merely goes to WORK for a competitor, not only one who starts a competing business. Louisiana Revised Statutes 23:921(D): “For the purposes of Subsections B, C, E, F, J, K, and L of this Section, a person who becomes employed by a competing business, regardless of whether or not that person is an owner or equity interest holder of that competing business, may be deemed to be carrying on or engaging in a business similar to that of the party having a contractual right to prevent that person from competing.” Louisiana Revised Statutes 23:921(A)(1): \"Every contract or agreement, or provision thereof, by which anyone is restrained from exercising a lawful profession, trade, or business of any kind, except as provided in this Section, shall be null and void.\" The employee/independent-contractor exception, § 921(C), permits an agreement not to \"carry[] on or engag[e] in a business similar to that of the employer and/or from soliciting customers of the employer within a specified parish or parishes, municipality or municipalities, or parts thereof, so long as the employer carries on a like business therein, not to exceed a period of two years from termination of employment.\" The Louisiana Supreme Court resolved a circuit split over how far that exception reaches in SWAT 24 Shreveport Bossier, Inc. v. Bond, holding it applies \"only to those agreements in which the employee agrees to refrain from carrying on or engaging in his own business similar to that of the employer\" -- a covenant that instead bars the employee from becoming an EMPLOYEE of a competitor goes beyond the statutory exception and is unenforceable.",
+    "trap": "The trap today is the reverse of the one SWAT 24 created. In 2001 the Louisiana Supreme Court read § 921(C) to reach only the employee's OWN competing business: “we interpret the limited exception found in § 921(C) to the general nullity of such agreements to apply only to those agreements in which the employee agrees to refrain from carrying on or engaging in his own business similar to that of the employer.” The legislature answered with Acts 2003, No. 428, which added what is now subsection D, and Louisiana appellate courts have since cited SWAT 24 as “superseded by statute on other grounds.” So a covenant drafted to bar a former employee from being employed by a competitor is now inside the exception, provided it meets (C)'s parish-by-parish and two-year limits -- and a party attacking such a clause on the strength of SWAT 24 is relying on superseded law. What has NOT changed: outside the listed parishes or municipalities, or beyond two years, the covenant is still null under § 921(A)(1). Separately, § 921(A)(2) -- a distinctively broad, employee-protective rule with no parallel in this store's other states' non-compete statutes -- voids CHOICE-OF-FORUM and CHOICE-OF-LAW clauses in an employment contract outright: \"The provisions of every employment contract or agreement, or provisions thereof, by which any foreign or domestic employer ... includes a choice of forum clause or choice of law clause in an employee's contract of employment ... or attempts to enforce either ... shall be null and void\" unless the employee later, after the incident giving rise to the dispute, \"expressly, knowingly, and voluntarily\" ratifies it -- so an out-of-state employer cannot route around § 921's substantive limits by simply picking another state's law to govern the employment agreement. Do not assume every non-compete-adjacent restriction needs § 921(C)'s geography-and-duration format, either: the statute separately authorizes goodwill-sale covenants (Subsection B), partnership-dissolution covenants (E), franchise covenants (F), computer-program-competition covenants (G), and (as of the 2024 amendment) physician-specific covenants with their own three-year/five-year caps (M-N) -- each has its own scope and duration rule, and none of them is interchangeable with § 921(C)'s ordinary-employee rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 23:921",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_23_921",
+            "quote": "Every contract or agreement, or provision thereof, by which anyone is restrained from exercising a lawful profession, trade, or business of any kind, except as provided in this Section, shall be null and void.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 23:921",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_23_921",
+            "quote": "Any person, including a corporation and the individual shareholders of such corporation, who is employed as an agent, servant, or employee may agree with his employer to refrain from carrying on or engaging in a business similar to that of the employer and/or from soliciting customers of the employer within a specified parish or parishes, municipality or municipalities, or parts thereof, so long as the employer carries on a like business therein, not to exceed a period of two years from termination of employment.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 23:921",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_23_921",
+            "quote": "The provisions of every employment contract or agreement, or provisions thereof, by which any foreign or domestic employer or any other person or entity includes a choice of forum clause or choice of law clause in an employee's contract of employment or collective bargaining agreement, or attempts to enforce either a choice of forum clause or choice of law clause in any civil or administrative action involving an employee, shall be null and void except where the choice of forum clause or choice of law clause is expressly, knowingly, and voluntarily agreed to and ratified by the employee after the occurrence of the incident which is the subject of the civil or administrative action.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "808 So.2d 294",
+        "name": "SWAT 24 Shreveport Bossier, Inc. v. Bond",
+        "court": "la-la",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "dd350363918657ed",
+            "cl_opinion_id": "1860745",
+            "quote": "we interpret the limited exception found in § 921(C) to the general nullity of such agreements to apply only to those agreements in which the employee agrees to refrain from carrying on or engaging in his own business similar to that of the employer.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 23:921",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_23_921",
+            "quote": "For the purposes of Subsections B, C, E, F, J, K, and L of this Section, a person who becomes employed by a competing business, regardless of whether or not that person is an owner or equity interest holder of that competing business, may be deemed to be carrying on or engaging in a business similar to that of the party having a contractual right to prevent that person from competing.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2019-CA-0502 (La. App. 4 Cir. 10/9/19)",
+        "name": "Mark J. Smith v. Commercial Flooring Gulf Coast, L.L.C. D/B/A Priority Floors",
+        "court": "La. App. 4 Cir.",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "212b785ff310e045",
+            "quote": "SWAT 24 Shreveport Bossier, Inc. v. Bond, 2000-1695, p. 20 (La. 6/29/01), 808 So.2d 294, 307, superseded by statute on other grounds.",
+            "checked": "2026-09-22",
+            "cl_opinion_id": "11076804"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 23:921 read in full (Subsections A through O, including the 2024 physician-noncompete amendment, Acts 2024, No. 273, §1, eff. Jan. 1, 2025). SWAT 24 read in the surrounding pages: the Court resolved a split among the circuits over whether § 921(C) reaches a covenant barring mere EMPLOYMENT by a competitor (as opposed to starting one's own competing business) and sided with the narrower, second/fourth/fifth-circuit reading, expressly rejecting the third circuit's broader construction. HONEST NOTE ON THE CITATION: the writ-grant order in this same case (00-1695, La. 9/29/00) carries reporter citation 769 So.2d 1217 and is a DIFFERENT CourtListener row/cluster than the merits opinion quoted here; this row cites only the merits opinion (00-1695, La. 6/29/01), whose own citation -- 808 So.2d 294 -- is independently confirmed against this corpus's citation map keyed to the correct cluster id. § 921(D) (\"a person who becomes employed by a competing business ... may be deemed to be carrying on or engaging in a business similar to that of\" the employer) was read and appears, on its face, to legislatively narrow SWAT 24's holding for Subsections B, C, E, F, J, K, and L (added after the 2001 decision); whether § 921(D) supersedes SWAT 24's \"own business\" limitation for an ordinary § 921(C) employee covenant was not resolved by any post-2001 authority read for this row and is left as an open question rather than assumed either way. PULLED FROM SERVING 2026-09-22 by the later-treatment scan of the five-state audit (the DocketX contract-law audit of 2026-09-22): the rule and trap state SWAT 24's reading of § 921(C) -- a former employee may be barred only from his OWN competing business, not from employment by a competitor -- as current law. The statute's own history line records 'Acts 2003, No. 428, §§1 and 2', and what is now subsection D provides that 'a person who becomes employed by a competing business, regardless of whether or not that person is an owner or equity interest holder of that competing business, may be deemed to be carrying on or engaging in a business similar to that of the party having a contractual right to prevent that person from competing.' Four later Louisiana appellate opinions cite SWAT 24 as 'superseded by statute on other grounds'. A reader relying on the row would conclude a covenant barring employment by a competitor is void as to that language; under the current text it is within the exception if it meets (C)'s limits. RESTORED 2026-09-22 after the pull: headline and trap rewritten to the current text of § 23:921, with subsection D quoted verbatim as a new authority and a 2019 Fourth Circuit majority opinion's 'superseded by statute on other grounds' parenthetical as a second. SWAT 24's quote is kept, now cited for the pre-2003 reading it states. The tie between Act 428 and SWAT 24 is stated in terms in the corpus only by a partial dissent (Yorsch v. Morel, La. App. 2017, 'In response to the SWAT decision, the Louisiana Legislature, by Acts 2003, No. 428, § 1, amended La. R.S. 23:921 to add Subsection H (now Subsection D)'), which is why the rule rests on the statute's own history line and text rather than on that opinion."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "prompt-payment",
+    "rule_id": "la-private-works-act-privileges-strict-filing-deadlines-no-attorney-fees",
+    "question": "Does Louisiana's Private Works Act give our subcontractor or supplier payment security on this construction project, and how fast do we have to act to preserve it?",
+    "rule": "Yes, through a privilege/claim system rather than a prompt-payment-statute-with-interest-penalties model, and the filing deadlines are strict and short. The Private Works Act, La. R.S. 9:4801 et seq., grants privileges directly against the owner for contractors, laborers, sellers of incorporated materials, certain lessors, and professional consultants (§ 9:4801), and separate claims against BOTH the owner and the general contractor for subcontractors, their laborers, and their suppliers (§ 9:4802). Preservation of those rights is fast and mandatory: § 9:4822(A), absent a timely-filed notice of contract, \"a person granted a privilege under R.S. 9:4801 or a claim and privilege under R.S. 9:4802 shall file a statement of his claim or privilege no later than sixty days after\" substantial completion, abandonment, or filing of a notice of termination of the work -- and that statement must itself meet content requirements, including that it \"reasonably itemize the elements\" of the claim. A Louisiana Court of Appeal states the interpretive stance courts bring to this strictness: in Simms Hardin Co. v. 3901 Ridgelake Drive, L.L.C., \"The Private Works Act is in derogation of general contract law, and thus must be strictly construed. Nevertheless, in interpreting the Private Works Act, we must not overlook the legislative intent and fundamental aim of the act, which is to protect materialmen, laborers and subcontractors who engage in construction and repair projects.\" Separately, R.S. 9:4856 backs the payment chain with a direct anti-misapplication rule and civil penalties: a contractor or subcontractor who receives payment must apply it to settle its own sellers' and laborers' claims, or face a private action for the amount due, attorney fees, court costs, and statutory civil penalties.",
+    "trap": "Do not assume the privileges themselves secure a claimant's litigation costs -- R.S. 9:4803(C) is explicit that they do not: \"The privileges granted by R.S. 9:4801 and the claims and privileges granted by R.S. 9:4802 do not secure payment of attorney fees or other expenses of litigation.\" That is a sharp contrast with § 9:4856's separate misapplication-of-payments action, which DOES expose a contractor to the claimant's attorney fees, court costs, and civil penalties -- a claimant's available remedy (privilege enforcement versus a § 9:4856 misapplication suit) changes what it can recover, not just how. The 60-day filing window in § 9:4822(A) is the SHORT clock; if a notice of contract was properly and timely filed under § 9:4811, a § 9:4802 claimant instead gets a longer window tied to that filing (30 days after a notice of termination, or six months after substantial completion or abandonment if none is filed) -- which window applies depends on whether, and how, the owner's general contract was itself recorded, a fact a subcontractor may not control or even know about. And a claimant who misses the statutory deadline is not automatically left with nothing: § 9:4822(J) preserves the underlying PERSONAL claim against the owner (enforceable for one year after the filing period expired) even after the PRIVILEGE itself is extinguished by a late filing -- two different consequences from the same missed deadline, and only one of them is fatal.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4801",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4801",
+            "quote": "The following persons have a privilege on an immovable to secure the following obligations of the owner arising out of a work on the immovable: (1) Contractors, for the price of their work.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4803",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4803",
+            "quote": "The privileges granted by R.S. 9:4801 and the claims and privileges granted by R.S. 9:4802 do not secure payment of attorney fees or other expenses of litigation.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4822",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4822",
+            "quote": "a person granted a privilege under R.S. 9:4801 or a claim and privilege under R.S. 9:4802 shall file a statement of his claim or privilege no later than sixty days after: (1) The filing of a notice of termination of the work.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4856",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4856",
+            "quote": "No contractor, subcontractor, or agent of a contractor or subcontractor, who has received money on account of a contract for the construction, erection, or repair of a building, structure, or other improvement, including contracts and mortgages for interim financing, shall knowingly fail to apply the money received as necessary to settle claims to sellers of movables or laborers due for the construction or under the contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "119 So.3d 58",
+        "name": "Simms Hardin Co. v. 3901 Ridgelake Drive, L.L.C.",
+        "court": "la-lactapp",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "e16cefb4e05eee96",
+            "cl_opinion_id": "4803656",
+            "quote": "The Private Works Act is in derogation of general contract law, and thus must be strictly construed. Nevertheless, in interpreting the Private Works Act, we must not overlook the legislative intent and fundamental aim of the act, which is to protect materialmen, laborers and subcontractors who engage in construction and repair projects.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4811",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4811",
+            "quote": "Written notice of a contract between a general contractor and an owner shall be filed as provided in R.S. 9:4831 before the contractor begins work, as defined by R.S. 9:4820, on the immovable.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4822",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4822",
+            "quote": "If a notice of contract is properly and timely filed in the manner provided by R.S. 9:4811, a person to whom a claim and privilege is granted by R.S. 9:4802 shall file a statement of his claim or privilege and deliver to the owner, if his address is given in the notice of contract, a copy of the statement of claim or privilege, no later than: (1) Thirty days after the filing of a notice of termination of the work. (2) Six months after the substantial completion or abandonment of the work, if a notice of termination is not filed.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:4802",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_4802",
+            "quote": "The following persons have a claim against the owner and a claim against the contractor to secure payment of the following obligations arising out of the performance of work under the contract: (1) Subcontractors, for the price of their work. (2) Laborers or employees of the contractor or a subcontractor, for the price of work performed at the site of the immovable.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 9:4801-4823 and § 9:4856 read as one Part. HONEST NEGATIVE: unlike New Jersey's N.J.S.A. 2A:44A-38 (covered elsewhere in this store), no Louisiana statute read for this row expressly VOIDS an advance lien-waiver clause as against public policy; the Private Works Act instead relies on strict, short statutory filing deadlines (§ 9:4822) and a separate retainage-bond mechanism (§ 9:4858, allowing a contractor to substitute a bond for withheld retainage) rather than a waiver-voiding rule -- this row states the actual Louisiana mechanism (privilege-preservation deadlines) rather than assuming a waiver-voiding rule exists here because one exists elsewhere. Retainage itself is addressed only through § 9:4858's bond-substitution option in the sections read for this row; no statutory retainage PERCENTAGE CAP comparable to some other states' prompt-pay acts was located in the Private Works Act's text. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): R.S. 9:4811(A) and 9:4822(B) read (LA_RS_9_4811, LA_RS_9_4822); blocks added for the notice-of-contract predicate and the longer window the trap describes. R.S. 9:4811's published body opens with the bare section number, the same Louisiana R.S. citation shape recorded in the DocketX holdings ledger; listed in KNOWN_PUBLISHED_CITATION_DEFECTS with the other R.S. authorities. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): R.S. 9:4802(A) read (LA_RS_9_4802); block added. R.S. 9:4802 likewise (bare section number in the published body); listed in KNOWN_PUBLISHED_CITATION_DEFECTS.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "statute-of-frauds",
+    "rule_id": "la-cc-1846-oral-contract-over-500-one-witness-plus-corroboration",
+    "question": "Does this contract need to be in writing to be enforceable in Louisiana?",
+    "rule": "Only for a few specific categories -- otherwise an oral contract is enforceable, but proving it gets harder as the value rises. Louisiana's general default sits inside its evidence-of-contract articles rather than a single \"statute of frauds\" chapter: art. 1846 addresses ordinary oral contracts by PRICE OR VALUE, not by subject matter: \"When a writing is not required by law, a contract not reduced to writing, for a price or, in the absence of a price, for a value not in excess of five hundred dollars may be proved by competent evidence. If the price or value is in excess of five hundred dollars, the contract must be proved by at least one witness and other corroborating circumstances.\" The Louisiana Supreme Court applied this exact corroboration requirement to an alleged five-year oral employment contract in Read v. Willwoods Community, framing the question as \"We must determine whether Mr. Read sustained his burden of proving the existence of an oral contract for a limited term of five years pursuant to La. C.C. art. 1846.\" -- and answering it against the employee: the Court reversed the judgment in his favour because \"the other corroboration must come from a source other than the plaintiff,\" and his having left a prior job \"does not constitute sufficient proof to corroborate the existence of a fixed-term employment contract.\" Separately, TWO categories genuinely do require a writing: art. 1832, \"When the law requires a contract to be in written form, the contract may not be proved by testimony or by presumption, unless the written instrument has been destroyed, lost, or stolen,\" and art. 1839 for immovable property, \"A transfer of immovable property must be made by authentic act or by act under private signature. Nevertheless, an oral transfer is valid between the parties when the property has been actually delivered and the transferor recognizes the transfer when interrogated on oath.\"",
+    "trap": "Article 1846's over-$500 rule is not a writing requirement at all -- it is an EVIDENTIARY rule about how many kinds of proof an oral contract needs, and the corroborating-circumstances half is strict: the corroboration cannot come solely from the plaintiff's own testimony (Read, quoting Suire: \"[t]he plaintiff himself may serve as the witness\" but \"the other corroboration must come from a source other than the plaintiff\"), so a party who can only testify to his own version of an oral deal above $500 has not met the burden even with a genuinely credible witness (himself). Article 1839's oral-transfer exception for immovable property is narrower than it first appears: it validates an oral transfer \"between the parties\" only once the property has been ACTUALLY DELIVERED and the transferor admits the transfer under oath -- a purely executory oral agreement to sell immovable property, with nothing yet delivered, gets no benefit from this exception and remains unenforceable without a writing. And art. 1839's second sentence is a trap running the other way: even a written, unregistered transfer of immovable property \"shall have effect against third persons only from the time it is filed for registry in the parish where the property is located\" -- a writing that satisfies the transfer requirement as between the parties may still be worthless against a third party (a subsequent purchaser, a creditor) until it is recorded.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1846",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1846",
+            "quote": "When a writing is not required by law, a contract not reduced to writing, for a price or, in the absence of a price, for a value not in excess of five hundred dollars may be proved by competent evidence. If the price or value is in excess of five hundred dollars, the contract must be proved by at least one witness and other corroborating circumstances.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1832",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1832",
+            "quote": "When the law requires a contract to be in written form, the contract may not be proved by testimony or by presumption, unless the written instrument has been destroyed, lost, or stolen.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1839",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1839",
+            "quote": "A transfer of immovable property must be made by authentic act or by act under private signature. Nevertheless, an oral transfer is valid between the parties when the property has been actually delivered and the transferor recognizes the transfer when interrogated on oath.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "165 So.3d 883",
+        "name": "Michael O. Read v. Willwoods Community",
+        "court": "la-la",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "a769dad9c19808a6",
+            "cl_opinion_id": "2786871",
+            "quote": "We must determine whether Mr. Read sustained his burden of proving the existence of an oral contract for a limited term of five years pursuant to La. C.C. art. 1846.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "165 So.3d 883",
+        "name": "Michael O. Read v. Willwoods Community",
+        "court": "la-la",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "a769dad9c19808a6",
+            "cl_opinion_id": "2786871",
+            "quote": "The ‘other corroborating circumstances’ need only be general in nature; independent proof of every detail of the agreement is not required. But, the other corroboration must come from a source other than the plaintiff.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "165 So.3d 883",
+        "name": "Michael O. Read v. Willwoods Community",
+        "court": "la-la",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "a769dad9c19808a6",
+            "cl_opinion_id": "2786871",
+            "quote": "the fact that Mr. Read chose to leave his at-will employment with Capital One to accept the job at Willwoods does not constitute sufficient proof to corroborate the existence of a fixed-term employment contract.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "165 So.3d 883",
+        "name": "Michael O. Read v. Willwoods Community",
+        "court": "la-la",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "a769dad9c19808a6",
+            "cl_opinion_id": "2786871",
+            "quote": "We therefore reverse the ruling of the court of appeal. REVERSED AND RENDERED.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Arts. 1832, 1839, and 1846 read in full together with the surrounding articles of Title IV, Chapter 8 (\"Proof of Obligations\"). Read v. Willwoods read across its full procedural history (Ct. App. 2012 and 2014, La. Supreme Court 2015): the Court ultimately held Mr. Read failed to carry his art. 1846 burden because the only corroboration for his claimed five-year term came from his own testimony and an inference from his salary history, not from an independent source -- consistent with the jury-instruction language quoted in the 2014 Court of Appeal opinion (\"the other corroborating circumstances must come from a source other than the plaintiff\") that this row's trap paragraph states. HONEST NOTE: art. 1846 is an evidentiary/burden-of-proof rule, not a true \"writing required\" statute-of-frauds provision in the common-law sense; this row states that distinction explicitly rather than labeling art. 1846 alongside arts. 1832/1839 as though all three impose the same kind of requirement. AUDIT 2026-09-22 (full read of the Louisiana pack): the trap's 'cannot come solely from the plaintiff's own testimony' had no authority block; Read says exactly that (quoting Suire) and the rule did not say the Court found Read's proof insufficient and REVERSED. Both added verbatim. UNSUPPORTED (L)."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "unconscionability",
+    "rule_id": "la-cc-1965-lesion-only-cases-provided-by-law-no-general-unconscionability",
+    "question": "Can a Louisiana court refuse to enforce this contract, or a term of it, simply because the price or bargain was grossly one-sided?",
+    "rule": "Generally no -- Louisiana has no free-floating \"unconscionability\" doctrine of the kind common-law jurisdictions apply under UCC § 2-302; the analogous Louisiana doctrine is LESION, and it is available only in the specific cases a statute names. Civil Code art. 1965: \"A contract may be annulled on grounds of lesion only in those cases provided by law.\" The Louisiana Supreme Court applies this as a genuine closed list, not a general fairness backstop: in McCarthy v. Evolution Petroleum Corp., rejecting a claim that a mineral-lease purchase price was inadequate, the Court held that \"an allegation of inadequate price paid for a mineral interest is the essence of a lesion claim, but is not actionable,\" and that \"plaintiffs' allegations of insufficient price are claims of lesion, which are barred by Article 17\" -- Mineral Code Article 17, which the Court quoted: \"A sale of a mineral right is not subject to rescission for lesion beyond moiety\" -- adding \"See also La. C.C. art. 1965 ('A contract may be annulled on grounds of lesion only in those cases provided by law.')\". That is art. 1965 operating as written: lesion exists only where a law grants it, and there a law withdrew it (the classic example being lesion beyond moiety in a sale of immovable property, art. 2589 and following, not itself read for this rule). A distinct, narrower Code doctrine governs an unlawful BARGAIN rather than an unfair price: art. 1968, \"The cause of an obligation is unlawful when the enforcement of the obligation would produce a result prohibited by law or against public policy,\" naming gaming, gambling, and unauthorized wagering as examples.",
+    "trap": "Do not treat art. 1965 as inviting a court to weigh whether a price or bargain was generally \"fair\" -- McCarthy shows the Supreme Court treating a bare claim of inadequate price as squarely a lesion claim, and therefore barred outright where a statute (there, Mineral Code art. 17) withdraws lesion for that kind of sale, rather than as an opening for a broader unconscionability-style review. A drafter accustomed to a common-law procedural or substantive unconscionability defense (unequal bargaining power, unfair surprise, one-sided terms) should not assume Louisiana recognizes an equivalent general doctrine for ordinary commercial contracts -- this rule found no authority extending art. 1965 or art. 1968 into a general unconscionability review outside lesion's named statutory categories, and that absence is stated honestly rather than papered over. Article 1968's unlawful-cause doctrine is a narrower, different tool aimed at the OBJECT of the bargain being illegal or against public policy (its examples are unauthorized gaming and gambling), not at the bargain being merely one-sided -- a badly one-sided but lawful commercial term is not rendered unenforceable by art. 1968 simply because it is harsh.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1965",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1965",
+            "quote": "A contract may be annulled on grounds of lesion only in those cases provided by law.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1968",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1968",
+            "quote": "The cause of an obligation is unlawful when the enforcement of the obligation would produce a result prohibited by law or against public policy.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "180 So.3d 252",
+        "name": "McCarthy v. Evolution Petroleum Corp.",
+        "court": "la-la",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "011036a905e62ef1",
+            "cl_opinion_id": "4824090",
+            "quote": "See also La. C.C. art. 1965 (“A contract may be annulled on grounds of lesion only in those cases provided by law.”).",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "180 So.3d 252",
+        "name": "McCarthy v. Evolution Petroleum Corp.",
+        "court": "la-la",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "011036a905e62ef1",
+            "cl_opinion_id": "4824090",
+            "quote": "an allegation of inadequate price paid for a mineral interest is the essence of a lesion claim, but is not actionable.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "180 So.3d 252",
+        "name": "McCarthy v. Evolution Petroleum Corp.",
+        "court": "la-la",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "011036a905e62ef1",
+            "cl_opinion_id": "4824090",
+            "quote": "we find plaintiffs’ allegations of insufficient price are claims of lesion, which are barred by Article 17.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "180 So.3d 252",
+        "name": "McCarthy v. Evolution Petroleum Corp.",
+        "court": "la-la",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "011036a905e62ef1",
+            "cl_opinion_id": "4824090",
+            "quote": "As to mineral rights, however, Article 17 provides: “A sale of a mineral right is not subject to rescission for lesion beyond moiety.”",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Arts. 1965 and 1968 read in full together with the surrounding articles of Title IV, Chapter 4 (\"Vices of Consent\") and Chapter on Cause. McCarthy read in the surrounding pages: the Court held allegations that a mineral-lease purchase price was inadequate were, \"whether viewed at the time of offer or time of sale,\" claims of lesion beyond moiety, and were barred because the applicable lesion-specific prescriptive period had run; the Court's own citation of art. 1965 confirms lesion's closed-list character directly. HONEST NEGATIVE: no authority read for this row locates a Louisiana doctrine functioning as a general commercial unconscionability defense outside lesion's named statutory categories (contrast this store's other states' UCC § 2-302-based unconscionability rows) -- this is stated as an honest structural difference in Louisiana law, not filled in with an analogous doctrine from another jurisdiction. AUDIT 2026-09-22 (full read of the Louisiana pack): the rule said McCarthy held the claim 'barred by the applicable prescriptive period governing lesion claims'; the opinion contains no prescription discussion at all -- the bar is Mineral Code Article 17 ('A sale of a mineral right is not subject to rescission for lesion beyond moiety'). The ground of decision was supplied, not read. Rewritten to the Court's words, three quotes added. OVERSTATED (H)."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "usury",
+    "rule_id": "la-rs-9-3500-twelve-percent-usury-cap-commercial-loan-exemption",
+    "question": "Is the interest rate in this Louisiana loan or credit agreement usurious, and does it matter that the borrower is a business?",
+    "rule": "It depends heavily on whether the transaction is consumer or commercial. Louisiana Revised Statutes 9:3500(C)(1) sets the general conventional-interest cap: \"The amount of the conventional interest cannot exceed twelve percent per annum. The same must be fixed in writing; testimonial proof of it is not admitted in any case.\" The Louisiana Supreme Court applies the cap's writing requirement literally: in Chittenden v. State Farm Mut. Auto Ins. Co., construing the identical predecessor text, the Court held that a contract merely providing reimbursement of \"the full amount of the interest charged\" did not satisfy the requirement -- \"It is obvious from a reading of the contract that Chittenden did not agree to pay a sum of conventional interest which was fixed in writing.\" But the cap has a broad, express commercial-transaction exemption: § 9-3500(D), \"The provisions of this Article shall not apply to a loan made for commercial or business purposes or deferring payment of an obligation for commercial or business purposes.\" A borrower who pays more than the cap on a covered transaction has a limited, time-bound remedy: § 9-3500(C)(2), \"if any person shall pay on any contract a higher rate of interest than the above, ... the same may be sued for and recovered within two years from the time of such payment.\"",
+    "trap": "The commercial-purpose exemption in R.S. 9:3500(D) is easy to miss because it sits at the very end of a long section whose opening subsections read as an unqualified, general-purpose usury cap -- a reviewer who stops at subsection (C)'s 12% ceiling and writing requirement will misstate the law for any business loan, where the cap does not apply at all under Louisiana's own text. Do not assume the 12% figure is Louisiana's only conventional-interest ceiling, either: separate statutes govern banks' revolving-credit plans and licensed consumer lenders on their own, different terms, and this rule does not independently verify those parallel regimes. Chittenden's holding cuts against a lender relying on an oral or informally-referenced interest arrangement even within the cap's own scope -- the \"fixed in writing\" requirement is a real formality, not boilerplate, and \"testimonial proof of it is not admitted in any case\" bars a lender from proving an above-cap oral rate by witness testimony even where the borrower does not dispute having agreed to it. And the usury remedy of R.S. 9:3500(C)(2) runs from the DATE OF PAYMENT, not the date the rate was charged or the date the loan was made -- a borrower who let years pass without making a usurious payment may find the two-year window has not even started running, while one who paid recently but under a years-old note is still within time.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:3500",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_3500",
+            "quote": "The amount of the conventional interest cannot exceed twelve percent per annum. The same must be fixed in writing; testimonial proof of it is not admitted in any case.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:3500",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_3500",
+            "quote": "The provisions of this Article shall not apply to a loan made for commercial or business purposes or deferring payment of an obligation for commercial or business purposes.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 9:3500",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_9_3500",
+            "quote": "if any person shall pay on any contract a higher rate of interest than the above, as discount or otherwise, the same may be sued for and recovered within two years from the time of such payment.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "788 So.2d 1140",
+        "name": "Chittenden v. State Farm Mut. Auto Ins. Co.",
+        "court": "la-la",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "1cf3c95064e103c5",
+            "cl_opinion_id": "1699019",
+            "quote": "The amount of the conventional interest cannot exceed twelve percent per annum. The same must be fixed in writing; testimonial proof of it is not admitted in any case.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 9:3500 read in full (Subsections A-D). HONEST NOTE ON A STATUTE-VS-OPINION RENUMBERING, recorded rather than resolved by inference: Chittenden (2001) quotes and applies the identical sentence under the citation \"Civ. Code Ann. art. 2924C(1)\" -- the interest cap was formerly a Civil Code article and was later recodified into the Revised Statutes at R.S. 9:3500 with the same operative text; the case is cited here for its accurate, verbatim application of the writing requirement, not for its (now superseded) article-number citation form. HONEST NEGATIVE: this row does not verify Title 5 or Title 6-style parallel interest regimes for banks or licensed lenders (see this store's Delaware usury row for how a parallel bank/licensee-rate regime worked in a different state); no Louisiana statute establishing such a parallel regime was read for this row, and none is asserted here. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): the trap wrote the section as '§ 9-3500'; corrected to the R.S. 9:3500 form the authorities use (no substantive change)."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "venue-selection",
+    "rule_id": "la-forum-selection-enforced-prima-facie-valid-employment-carveout",
+    "question": "Will a Louisiana court enforce this contract's forum-selection clause?",
+    "rule": "Yes, as a general commercial matter -- the Louisiana Supreme Court rejected the position that forum-selection clauses are per se against public policy. In Shelter Mutual Insurance Company v. Rimkus Consulting Group, Inc. of Louisiana, the Court resolved a split among the circuit courts of appeal and held: \"We hold that such clauses should be enforced in Louisiana unless the resisting party can 'clearly show that enforcement would be unreasonable and unjust, or that the clause was invalid for such reasons as fraud or overreaching .... [or that] enforcement would contravene a strong public policy of the forum in which suit is brought, whether declared by statute or by judicial decision.'\" The Court grounded this in Louisiana's own freedom-of-contract policy, adopting the same general rule the United States Supreme Court applies to forum-selection clauses under federal law. A hard statutory exception exists for EMPLOYMENT contracts: La. R.S. 23:921(A)(2) makes a choice-of-forum clause in an employee's contract of employment \"null and void\" unless the employee \"expressly, knowingly, and voluntarily\" ratifies it after the dispute-triggering incident has already occurred.",
+    "trap": "Shelter Mutual's standard puts the burden on the RESISTING party to \"clearly show\" unreasonableness, fraud, overreaching, or a strong contrary public policy -- it is not a neutral, evenly-weighted reasonableness balancing test, and a party resisting a forum-selection clause starts from behind. But do not read Shelter Mutual as reaching employment contracts: § 23:921(A)(2)'s employment-specific voiding rule is a hard statutory carve-out that operates independently of, and more protectively than, the general commercial rule Shelter Mutual states -- an employer cannot rely on the general \"forum-selection clauses are prima facie valid\" rule to enforce a forum clause against an employee. Separate, narrower statutory rules govern other contract types this general rule does not reach: this store's Louisiana prompt-payment/Private Works Act row covers the construction-specific voiding rule for choice-of-law and dispute-resolution-location clauses, and Louisiana's insurance code (R.S. 22:868, not covered by this rule) has its own, separately-amended rule for forum and venue clauses in insurance contracts -- neither should be analyzed under the general Shelter Mutual standard alone.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. R.S. 23:921",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_RS_23_921",
+            "quote": "The provisions of every employment contract or agreement, or provisions thereof, by which any foreign or domestic employer or any other person or entity includes a choice of forum clause or choice of law clause in an employee's contract of employment or collective bargaining agreement, or attempts to enforce either a choice of forum clause or choice of law clause in any civil or administrative action involving an employee, shall be null and void except where the choice of forum clause or choice of law clause is expressly, knowingly, and voluntarily agreed to and ratified by the employee after the occurrence of the incident which is the subject of the civil or administrative action.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "148 So.3d 871",
+        "name": "Shelter Mutual Insurance Company v. Rimkus Consulting Group, Inc. of Louisiana",
+        "court": "la-la",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "6daee0e4202da6e0",
+            "cl_opinion_id": "2684196",
+            "quote": "We hold that such clauses should be enforced in Louisiana unless the resisting party can “clearly show that enforcement would be unreasonable and unjust, or that the clause was invalid for such reasons as fraud or overreaching .... [or that] enforcement would contravene a strong public policy of the forum in which suit is brought, whether declared by statute or by judicial decision.”",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "148 So.3d 871",
+        "name": "Shelter Mutual Insurance Company v. Rimkus Consulting Group, Inc. of Louisiana",
+        "court": "la-la",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "6daee0e4202da6e0",
+            "cl_opinion_id": "2684196",
+            "quote": "We granted this writ application to resolve a split in the circuit courts of appeal regarding whether forum selection clauses are per se violative of public policy in Louisiana.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "148 So.3d 871",
+        "name": "Shelter Mutual Insurance Company v. Rimkus Consulting Group, Inc. of Louisiana",
+        "court": "la-la",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "6daee0e4202da6e0",
+            "cl_opinion_id": "2684196",
+            "quote": "This court has long recognized that the freedom to contract is an important public policy.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Shelter Mutual read in the surrounding pages: the Court resolved a split among the circuit courts of appeal over whether forum-selection clauses are per se violative of Louisiana public policy, answering that question in the negative and reversing the lower courts' refusal to enforce the clause. § 23:921(A)(2) read in the context of the full statute (see this store's non-competition row for § 23:921 read in full). HONEST NEGATIVE: this row does not independently verify La. R.S. 22:868's insurance-specific forum/venue rule (amended 2020) or its case law -- a scan of docketx/us-caselaw-la located Police Jury of Calcasieu Parish v. Indian Harbor Insurance Co. (La. 2024) discussing § 22:868's history, but that statute's own scope (insurance contracts only) is outside this row's general-commercial-contract focus and is flagged rather than folded in. AUDIT 2026-09-22 (full read of the Louisiana pack): read in full at the holding; 'resolved a split among the circuit courts' and 'grounded this in Louisiana's own freedom-of-contract policy' are both the Court's own words and now carry blocks. CORRECT."
+  },
+  {
+    "jurisdiction": "la",
+    "clause": "warranty-disclaimer",
+    "rule_id": "la-cc-2520-2548-redhibition-warranty-exclusion-clear-unambiguous-fraud-exception",
+    "question": "Does this \"AS IS\" / warranty-exclusion clause validly waive Louisiana's warranty against redhibitory defects?",
+    "rule": "Yes, if the exclusion is clear, unambiguous, and brought to the buyer's attention -- Louisiana's implied warranty against hidden defects is called REDHIBITION, not the UCC's implied warranty of merchantability (Louisiana never enacted UCC Article 2; sales of movables are governed by the Civil Code's own Title on Sale). Civil Code art. 2520: \"The seller warrants the buyer against redhibitory defects, or vices, in the thing sold. A defect is redhibitory when it renders the thing useless, or its use so inconvenient that it must be presumed that a buyer would not have bought the thing had he known of the defect.\" Article 2548 supplies the waiver mechanism and its content requirement: \"The parties may agree to an exclusion or limitation of the warranty against redhibitory defects. The terms of the exclusion or limitation must be clear and unambiguous and must be brought to the attention of the buyer.\" The Louisiana Supreme Court confirmed both halves of that test are live requirements, and identified the one thing a seller can never waive its way around, in Shelton v. Standard/700 Associates: \"Thus, although the warranty against redhibitory defects may be excluded or limited, a seller cannot contract against his own fraud and relieve himself of liability to fraudulently induced buyers.\"",
+    "trap": "Article 2548's own second sentence is the fraud exception Shelton applies, and it is not a general unconscionability escape hatch -- its text speaks of a seller who \"has declared that the thing has a quality that he knew it did not have.\" Do not read that as limited to spoken misrepresentations, though: Shelton reads the sentence as meaning the waiver \"is not effective if the seller commits fraud, as defined in the civil code, upon the buyer,\" and the Code's definition, art. 1953, is \"a misrepresentation or a suppression of the truth\" and adds that \"Fraud may also result from silence or inaction\" -- so a seller's knowing silence about a defect can defeat the waiver as readily as a false statement (Shelton's own three elements begin with \"a misrepresentation, suppression, or omission of true information\"). Do not assume a generic \"AS IS\" clause automatically satisfies the \"clear and unambiguous ... brought to the attention of the buyer\" standard the way a UCC jurisdiction's conspicuousness rule might be satisfied by boldface type alone: Louisiana's redhibition waiver doctrine has its own body of case law on what counts as adequately brought to the buyer's attention, and a waiver buried in a lengthy standard form without the buyer's specific attention drawn to it risks failing art. 2548 even if it uses clear words. Separately, art. 2521 supplies an independent, narrower exclusion that has nothing to do with a drafted waiver clause at all: the seller owes no warranty \"for defects that should have been discovered by a reasonably prudent buyer\" -- an objective inspection-based cutoff distinct from any negotiated exclusion. And because Louisiana has no enacted UCC Article 2, do not reach for UCC § 2-316's \"conspicuous,\" \"merchantability,\" or \"as is\"/\"with all faults\" vocabulary when drafting or reviewing a Louisiana movable-sale disclaimer -- art. 2548's own, differently-worded test controls.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2520",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2520",
+            "quote": "The seller warrants the buyer against redhibitory defects, or vices, in the thing sold. A defect is redhibitory when it renders the thing useless, or its use so inconvenient that it must be presumed that a buyer would not have bought the thing had he known of the defect.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2521",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2521",
+            "quote": "The seller owes no warranty for defects in the thing that were known to the buyer at the time of the sale, or for defects that should have been discovered by a reasonably prudent buyer of such things.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 2548",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_2548",
+            "quote": "The parties may agree to an exclusion or limitation of the warranty against redhibitory defects. The terms of the exclusion or limitation must be clear and unambiguous and must be brought to the attention of the buyer.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "798 So.2d 60",
+        "name": "Shelton v. Standard/700 Associates",
+        "court": "la-la",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "1c95d26a6288387d",
+            "cl_opinion_id": "1649391",
+            "quote": "Thus, although the warranty against redhibitory defects may be excluded or limited, a seller cannot contract against his own fraud and relieve himself of liability to fraudulently induced buyers.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "798 So.2d 60",
+        "name": "Shelton v. Standard/700 Associates",
+        "court": "la-la",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-la",
+            "row_id": "1c95d26a6288387d",
+            "cl_opinion_id": "1649391",
+            "quote": "Under this article, an otherwise effective exclusion or limitation of the warranty against redhibitory defects is not effective if the seller commits fraud, as defined in the civil code, upon the buyer.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "La. Civ. Code art. 1953",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "LA_CC_1953",
+            "quote": "Fraud is a misrepresentation or a suppression of the truth made with the intention either to obtain an unjust advantage for one party or to cause a loss or inconvenience to the other. Fraud may also result from silence or inaction.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "Arts. 2520-2548 (Title VII, \"Sale,\" Chapter on Warranty) read as one sequence. Shelton read in the surrounding paragraphs: the Court held the warranty may be excluded or limited under art. 2548 but that the exclusion does not reach a seller's own fraud, applying art. 2548's second sentence (\"seller has declared that the thing has a quality that he knew it did not have\"). DISTINCTIVE CIVIL-LAW FRAMING, stated rather than assumed: this row deliberately does NOT use UCC § 2-316 vocabulary (\"merchantability,\" \"conspicuous,\" \"as is\"/\"with all faults\") because Louisiana has never enacted UCC Article 2 (confirmed by a zero-row scan of docketx/us-statutes for \"RS 10:2-\"; see this store's anti-assignment row for the same finding) -- redhibition is a wholly Civil-Code-based warranty with its own waiver test under art. 2548, not a codification of the UCC implied-warranty scheme. AUDIT 2026-09-22 (full read of the Louisiana pack): the trap said the art. 2548 fraud exception means 'an affirmative misrepresentation, not mere silence'; Shelton reads it as 'fraud, as defined in the civil code', and art. 1953 says fraud 'may also result from silence or inaction'. The gloss ran against the row's own case. Rewritten; Shelton's sentence and art. 1953 added verbatim. OVERSTATED (M)."
+  }
+]

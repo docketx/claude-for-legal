@@ -1,0 +1,875 @@
+[
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_child_support_b64c442e",
+    "kind": "self-help-guide",
+    "title": "Child Support",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/child-support/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_child_support_child_support_late_fees_49375a62",
+    "kind": "self-help-guide",
+    "title": "Child Support Late Fees",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/child-support/child-support-late-fees/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_c6195f74",
+    "kind": "self-help-guide",
+    "title": "Family Law Help",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "SD_form_media_xmqbcndz_ujs_089_child_support_order_filing_data_pdf_c2352af1",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR CHILD SUPPORT ORDER FILING DATA FORM",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/xmqbcndz/ujs-089-child-support-order-filing-data.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "SD_form_media_hf4lwvxr_ujs_127_nstructions_for_late_fees_due_to_chronically_delinquent_child_support_payments_07_2026_pdf_f5b26e1c",
+    "kind": "form",
+    "title": "Instructions for Late Fees Due to Chronically Delinquent Child Support Payments",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/hf4lwvxr/ujs-127_nstructions-for-late-fees-due-to-chronically-delinquent-child-support-payments_07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_representing_yourself_7e9631a6",
+    "kind": "self-help-guide",
+    "title": "Representing Yourself in Court",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/representing-yourself/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_06ece9b8",
+    "kind": "self-help-guide",
+    "title": "Self Help",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "child-support"
+  },
+  {
+    "id": "SD_form_media_vhni1nix_ujs_180_checklist_for_paternity_action_05_2026_pdf_364c95a5",
+    "kind": "form",
+    "title": "Checklist for Child Custody, Parenting Time, and Support Action",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/vhni1nix/ujs-180-checklist-for-paternity-action_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_pro_se_forms_child_custody_forms_c22f7c0c",
+    "kind": "self-help-guide",
+    "title": "Child Custody Forms",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/pro-se-forms/child-custody-forms/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_child_custody_52064dc9",
+    "kind": "self-help-guide",
+    "title": "Child Custody, Parenting Time, and Support",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/child-custody/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_1jzl1two_ujs_181_summons_child_custody_05_2026_pdf_6e9ee6fe",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FOR SUMMONS (CUSTODY ACTION)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/1jzl1two/ujs-181-summons-child-custody_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_jpnjf1y1_ujs_184_instructions_and_answer_to_paternity_action_05_2026_pdf_ae6b1981",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR ANSWER (CUSTODY ACTION)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/jpnjf1y1/ujs-184-instructions-and-answer-to-paternity-action_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_c4chknvt_ujs_182_complaint_05_2026_pdf_31a6feaf",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR COMPLAINT (CUSTODY ACTION)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/c4chknvt/ujs-182-complaint_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_ho1b2szu_ujs_187_notice_of_entry_of_order_paternity_action_05_2026_pdf_3ad8f19c",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR NOTICE OF ENTRY OF ORDER (CUSTODY ACTION)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/ho1b2szu/ujs-187-notice-of-entry-of-order-paternity-action-05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_0yfjljpj_ujs_186_order_paternity_action_05_2026_pdf_5d3523b6",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR ORDER (CUSTODY ACTION)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/0yfjljpj/ujs-186-order-paternity-action_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_ukkp0mon_ujs_185_stipulation_custody_parenting_time_and_support_agreement_04_2026_pdf_9de7d00f",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR STIPULATION, CUSTODY, PARENTING TIME, AND SUPPORT AGREEMENT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/ukkp0mon/ujs-185-stipulation-custody-parenting-time-and-support-agreement_04_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_hvyfgbg5_ujs_183_notice_and_admission_of_service_of_summons_and_complaint_05_2026_pdf_74037231",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS ON NOTICE AND ADMISSION OF SERVICE",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/hvyfgbg5/ujs-183-notice-and-admission-of-service-of-summons-and-complaint_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_2tljqfth_ujs_365_instructions_for_implementing_sd_parenting_time_guidelines_7_2026_pdf_a58d8c20",
+    "kind": "form",
+    "title": "Instructions for Implementing the South Dakota Parenting Time Guidelines",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/2tljqfth/ujs-365-instructions-for-implementing-sd-parenting-time-guidelines-7_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_oscjh3iw_ujs_371_instructions_for_objecting_to_guidelines_07_2026_pdf_86d8c8d7",
+    "kind": "form",
+    "title": "Instructions for Objecting to Implementation of the South Dakota Parenting Time Guidelines",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/oscjh3iw/ujs-371-instructions-for-objecting-to-guidelines_07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_1qfh4r0d_ujs_375_instructions_for_parenting_time_enforcement_07_2026_pdf_0fd13e0b",
+    "kind": "form",
+    "title": "Instructions for Parenting Time Enforcement",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/1qfh4r0d/ujs-375-instructions-for-parenting-time-enforcement_07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_civil_law_help_involuntary_commitment_ivc_substance_abuse_365d0295",
+    "kind": "self-help-guide",
+    "title": "Involuntary Commitment (IVC) - Substance Abuse",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/civil-law-help/involuntary-commitment-ivc-substance-abuse/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_get_legal_help_military_veterans_d830a4ce",
+    "kind": "self-help-guide",
+    "title": "Military & Veterans",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/get-legal-help/military-veterans/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_pro_se_forms_notice_to_relocate_forms_3ef28fa7",
+    "kind": "self-help-guide",
+    "title": "Notice to Relocate Forms",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/pro-se-forms/notice-to-relocate-forms/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_pro_se_forms_a3e0b92e",
+    "kind": "self-help-guide",
+    "title": "Pro Se Forms",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/pro-se-forms/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_relocate_with_minor_child_08947c61",
+    "kind": "self-help-guide",
+    "title": "Relocate With Minor Child",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/relocate-with-minor-child/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_instructions_media_co5jj0ql_protective_custody_order_pdf_f9b7f5cd",
+    "kind": "instructions",
+    "title": "STATE OF SOUTH DAKOTA                                                        IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/co5jj0ql/protective-custody-order.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_instructions_media_yr4acmha_protective_custody_application_pdf_9f283ea3",
+    "kind": "instructions",
+    "title": "STATE OF SOUTH DAKOTA                                                   IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/yr4acmha/protective-custody-application.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_noxb3mut_ujs_332_order_adopting_mediation_agreement_06_2026_pdf_309f4bca",
+    "kind": "form",
+    "title": "STATE OF SOUTH DAKOTA                                                 IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/noxb3mut/ujs-332-order-adopting-mediation-agreement_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_instructions_media_ifqglhah_sharedparenting_pdf_a9896454",
+    "kind": "instructions",
+    "title": "Shared Parenting.",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/ifqglhah/sharedparenting.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "custody-parenting"
+  },
+  {
+    "id": "SD_form_media_ckkb2pwi_ujs_307b_checklist_for_dvi_with_children_defendant_05_2026_pdf_0bcd8536",
+    "kind": "form",
+    "title": "DEFENDANT’S CHECKLIST FOR DIVORCE WITH MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/ckkb2pwi/ujs-307b-checklist-for-dvi-with-children-defendant_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_instructions_media_qigmnf12_divorce_with_children_defendant_print_all_packet_07_2026_pdf_a095c7c5",
+    "kind": "instructions",
+    "title": "DEFENDANT’S CHECKLIST FOR DIVORCE WITH MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/qigmnf12/divorce-with-children-defendant-print-all-packet_07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_instructions_media_3dylobxb_divorce_without_children_defendant_print_all_packet_07_2026_pdf_8733f80e",
+    "kind": "instructions",
+    "title": "DEFENDANT’S CHECKLIST FOR DIVORCE WITHOUT MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/3dylobxb/divorce-without-children-defendant-print-all-packet_07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_idvnok3v_ujs_307a_checklist_for_dvi_without_children_defendant_05_2026_pdf_00d6e804",
+    "kind": "form",
+    "title": "DEFENDANT’S CHECKLIST FOR DIVORCE WITHOUT MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/idvnok3v/ujs-307a-checklist-for-dvi-without-children-defendant_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_divorce_forms_for_the_defendant_divorce_without_minor_child_04aeffdf",
+    "kind": "self-help-guide",
+    "title": "Defendant Forms",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/divorce/forms-for-the-defendant-divorce-without-minor-child/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_divorce_forms_for_the_defendant_divorce_with_minor_child_f3440b20",
+    "kind": "self-help-guide",
+    "title": "Defendant Forms (Divorce with Minor Child)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/divorce/forms-for-the-defendant-divorce-with-minor-child/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_divorce_9e870d94",
+    "kind": "self-help-guide",
+    "title": "Divorce",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/divorce/?category=divorce",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_divorce_d3da9a38",
+    "kind": "self-help-guide",
+    "title": "Divorce",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/divorce/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_pro_se_forms_divorce_with_children_forms_0b8392e1",
+    "kind": "self-help-guide",
+    "title": "Divorce with Children Forms",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/pro-se-forms/divorce-with-children-forms/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_pro_se_forms_divorce_without_children_forms_cd4b7341",
+    "kind": "self-help-guide",
+    "title": "Divorce without Children Forms",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/pro-se-forms/divorce-without-children-forms/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_get_legal_help_divorced_spouses_of_military_service_members_573a1a48",
+    "kind": "self-help-guide",
+    "title": "Divorced Spouses of Military Service Members",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/get-legal-help/divorced-spouses-of-military-service-members/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_20imtsiq_ujs_322b_judgment_and_decree_of_divorce_with_children_default_05_2026_pdf_bb7143f9",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR JUDGMENT AND DECREE OF DIVORCE",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/20imtsiq/ujs-322b-judgment-and-decree-of-divorce-with-children-default_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_2m2jf4cs_ujs_322a_judgment_and_decree_of_divorce_without_children_default_05_2026_pdf_1336504c",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR JUDGMENT AND DECREE OF DIVORCE",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/2m2jf4cs/ujs-322a-judgment-and-decree-of-divorce-without-children-default_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_eoodt12y_ujs_326b_judgment_and_decree_with_children_stipulation_05_2026_pdf_2021bd38",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR JUDGMENT AND DECREE OF DIVORCE",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/eoodt12y/ujs-326b-judgment-and-decree-with-children-stipulation_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_qpicip2y_ujs_326a_judgment_and_decree_without_children_stipulation_05_2026_pdf_1ad7573a",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR JUDGMENT AND DECREE OF DIVORCE",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/qpicip2y/ujs-326a-judgment-and-decree-without-children-stipulation_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_d54lyhxp_ujs_324_stip_and_settlement_agreement_without_children_05_2026_pdf_dc520357",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR STIPULATION AND",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/d54lyhxp/ujs-324-stip-and-settlement-agreement-without-children_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_laqpj2r3_ujs_325_stipulation_and_settlement_agreement_with_children_05_2026_pdf_d8452ac3",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR STIPULATION AND",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/laqpj2r3/ujs-325-stipulation-and-settlement-agreement-with-children_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_4kiflmne_ujs_364_court_approved_parenting_course_06_2026_pdf_6ee156d0",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM ON STATEMENT OF COURT APPROVED PARENTING COURSE",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/4kiflmne/ujs-364-court-approved-parenting-course_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_e13m4gbj_ujs_318_instructions_and_answer_divorce_with_children_05_2026_pdf_6841a063",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS FOR ANSWER WITH MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/e13m4gbj/ujs-318-instructions-and-answer-divorce-with-children_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_oeomcwcw_ujs_316_instructions_and_answer_divorce_without_children_05_2026_pdf_0945443f",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS FOR ANSWER WITHOUT MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/oeomcwcw/ujs-316-instructions-and-answer-divorce-without-children_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_a4njszqd_ujs_312_divorce_complaint_with_chidlren_02_2026_pdf_44d64488",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS FOR DIVORCE COMPLAINT WITH CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/a4njszqd/ujs-312-divorce-complaint-with-chidlren_02_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_2bmigltc_ujs_310_divorce_complaint_without_children_05_2026_pdf_f107d702",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS FOR DIVORCE COMPLAINT WITHOUT CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/2bmigltc/ujs-310-divorce-complaint-without-children_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_gz4hqdam_ujs_321_application_for_default_judgment_without_children_and_noh_05_2026_pdf_95adf78c",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS FOR STATEMENT OF DEFAULT, APPLICATION FOR JUDGMENT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/gz4hqdam/ujs-321-application-for-default-judgment-without-children-and-noh_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_lv4jrd2u_ujs_323_application_for_default_judgment_with_children_and_noh_05_2026_pdf_3b33101a",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS FOR STATEMENT OF DEFAULT, APPLICATION FOR JUDGMENT AND",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/lv4jrd2u/ujs-323-application-for-default-judgment-with-children-and-noh_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_2ubimovo_ujs_315_notice_and_admission_of_service_without_children_05_2026_pdf_d7905879",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS ON NOTICE AND ADMISSION OF SERVICE",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/2ubimovo/ujs-315-notice-and-admission-of-service-without-children_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_hzcl05uk_ujs_317_notice_and_admission_of_service_with_children_05_2026_pdf_0c265230",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS ON NOTICE AND ADMISSION OF SERVICE",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/hzcl05uk/ujs-317-notice-and-admission-of-service-with-children_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_p1hbozmz_ujs_328_joint_dismissal_2026_pdf_892569cd",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR JOINT MOTION AND ORDER FOR DISMISSAL FORM",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/p1hbozmz/ujs-328-joint-dismissal_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_ezkgj0fs_ujs_319b_statement_for_jurisdiction_with_children_02_2026_pdf_7cafd3c9",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR STATEMENT OF PLAINTIFF AND DEFENDANT AS TO JURISDICTION AND",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/ezkgj0fs/ujs-319b-statement-for-jurisdiction-with-children_02_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_ukhne0jd_ujs_319a_affidavit_for_jurisdiction_without_children_05_2026_pdf_88d4102e",
+    "kind": "form",
+    "title": "INSTRUCTIONS FOR STATEMENT OF PLAINTIFF AND DEFENDAT AS TO JURISIDCTION AND REASON FOR",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/ukhne0jd/ujs-319a-affidavit-for-jurisdiction-without-children_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_0zme52of_ujs_307b_checklist_for_divorce_with_children_plaintiff_05_2026_pdf_273494a5",
+    "kind": "form",
+    "title": "PLAINTIFF’S CHECKLIST FOR DIVORCE WITH MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/0zme52of/ujs-307b-checklist-for-divorce-with-children-plaintiff_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_instructions_media_c5opfv4d_divorce_with_children_plaintiff_print_all_packet_07_2026_pdf_b6d4d6ac",
+    "kind": "instructions",
+    "title": "PLAINTIFF’S CHECKLIST FOR DIVORCE WITH MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/c5opfv4d/divorce-with-children-plaintiff-print-all-packet_07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_form_media_dfulua2r_ujs_307a_checklist_for_divorce_without_children_plaintiff_05_2026_pdf_459a16ed",
+    "kind": "form",
+    "title": "PLAINTIFF’S CHECKLIST FOR DIVORCE WITHOUT MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/dfulua2r/ujs-307a-checklist-for-divorce-without-children-plaintiff_05_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_instructions_media_hcfdmoqk_divorce_without_children_plaintiff_print_all_packet_07_2026_pdf_843e85d3",
+    "kind": "instructions",
+    "title": "PLAINTIFF’S CHECKLIST FOR DIVORCE WITHOUT MINOR CHILDREN",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/hcfdmoqk/divorce-without-children-plaintiff-print-all-packet_07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_divorce_forms_for_the_plaintiff_divorce_with_minor_child_94eb598c",
+    "kind": "self-help-guide",
+    "title": "Plaintiff Forms (Divorce with Minor Child)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/divorce/forms-for-the-plaintiff-divorce-with-minor-child/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_divorce_forms_for_the_plaintiff_divorce_without_minor_child_99ee32e4",
+    "kind": "self-help-guide",
+    "title": "Plaintiff Forms (Divorce without Minor Child)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/divorce/forms-for-the-plaintiff-divorce-without-minor-child/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_shared_parenting_guidelines_plans_4fdd1b8c",
+    "kind": "self-help-guide",
+    "title": "Shared Parenting Guidelines & Plans",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/shared-parenting-guidelines-plans/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "divorce"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_adoption_records_e11b57be",
+    "kind": "self-help-guide",
+    "title": "Adoption Records",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/adoption-records/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "SD_instructions_media_slcosc5n_ujs284_instructions_for_release_of_confidential_adoption_info_07_2026_pdf_2ab074f3",
+    "kind": "instructions",
+    "title": "Information on Obtaining the Release of Confidential Adoption Records",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/slcosc5n/ujs284-instructions-for-release-of-confidential-adoption-info-07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_family_law_help_marriage_0914faaa",
+    "kind": "self-help-guide",
+    "title": "Marriage",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/family-law-help/marriage/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "SD_form_media_xv5jil5y_ujs_285_petition_for_release_of_confidential_adoption_records_07_2026_pdf_87b701d9",
+    "kind": "form",
+    "title": "STATE OF SOUTH DAKOTA                                                                       IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/xv5jil5y/ujs-285-petition-for-release-of-confidential-adoption-records_07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "SD_form_media_mgthvhph_ujs_287_order_for_release_of_confidential_adoption_records_07_2026_pdf_38893a7f",
+    "kind": "form",
+    "title": "STATE OF SOUTH DAKOTA                                                             IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/mgthvhph/ujs-287-order-for-release-of-confidential-adoption-records-07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "SD_instructions_media_susbvnzr_ujs286_notice_and_admission_of_service_of_petition_07_2026_pdf_3939e458",
+    "kind": "instructions",
+    "title": "STATE OF SOUTH DAKOTA                                                       IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/susbvnzr/ujs286-notice-and-admission-of-service-of-petition-07_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "general"
+  },
+  {
+    "id": "SD_form_media_uxed1zgi_ujs_029a_checklist_for_name_change_child_06_2026_pdf_6a1f02bb",
+    "kind": "form",
+    "title": "CHECKLIST FOR NAME CHANGE OF A MINOR CHILD",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/uxed1zgi/ujs-029a-checklist_for_name_change_child_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_civil_law_help_461698ad",
+    "kind": "self-help-guide",
+    "title": "Civil Law Help",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/civil-law-help/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_instructions_media_boflwjw0_print_all_packet_for_change_of_adult_name_06_2026_pdf_bb907c6d",
+    "kind": "instructions",
+    "title": "INSTRUCTIONS",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/boflwjw0/print-all-packet-for-change-of-adult-name_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_instructions_media_yhejjrff_ujs024_instructions_for_change_of_adult_name_04_2026_pdf_19c34fdc",
+    "kind": "instructions",
+    "title": "INSTRUCTIONS",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/yhejjrff/ujs024-instructions-for-change-of-adult-name_04_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_mw1f31ws_ujs_035_notice_of_entry_name_change_child_06_2026_pdf_fdd868e4",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR NOTICE OF ENTRY OF",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/mw1f31ws/ujs-035_notice_of_entry_name_change_child_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_o3ih0zhj_ujs_031_notice_of_hearing_06_2026_pdf_0ee68d93",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR NOTICE OF HEARING FOR",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/o3ih0zhj/ujs-031_notice_of_hearing_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_porlnzsb_ujs_032a_notice_admission_service_06_2026_pdf_78b2c265",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS FOR NOTICE AND ADMISSION OF SERVICE OF VERIFIED",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/porlnzsb/ujs-032a__notice_admission_service_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_mxdam1j1_ujs_030_verified_petition_for_name_change_child_06_2026_pdf_5a198c36",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORMS FOR VERIFIED PETITION FOR",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/mxdam1j1/ujs-030-verified-petition-for-name-change-child_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_jmbdv422_ujs_029_instructions_for_uncontested_name_change_of_a_minor_child_06_2026_pdf_6502c5f3",
+    "kind": "form",
+    "title": "Instructions for Uncontested Name Change of a Minor Child",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/jmbdv422/ujs-029_instructions-for-uncontested-name-change-of-a-minor-child_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_instructions_media_mn4nmwy5_print_all_packet_for_name_change_of_a_minor_child_06_2026_pdf_26469519",
+    "kind": "instructions",
+    "title": "Instructions for Uncontested Name Change of a Minor Child",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/mn4nmwy5/print-all-packet-for-name-change-of-a-minor-child_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_civil_law_help_name_change_2ff3fc23",
+    "kind": "self-help-guide",
+    "title": "Name Change",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/civil-law-help/name-change/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_pro_se_forms_name_change_forms_3488c4f2",
+    "kind": "self-help-guide",
+    "title": "Name Change Forms",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/pro-se-forms/name-change-forms/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_iq4jj5vw_ujs_026_hearing_for_change_of_name_proposed_07_2025_pdf_755b62b2",
+    "kind": "form",
+    "title": "STATE OF SOUTH DAKOTA                                                             IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/iq4jj5vw/ujs-026_hearing_for_change_of_name-proposed_07_2025.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_omiey0xz_ujs_033_consent_06_2026_pdf_c5bf8230",
+    "kind": "form",
+    "title": "STATE OF SOUTH DAKOTA                                                             IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/omiey0xz/ujs-033_consent_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_ibnpfl0p_ujs_034_order_for_name_change_of_minor_child_06_2026_pdf_db155649",
+    "kind": "form",
+    "title": "STATE OF SOUTH DAKOTA                                                        IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/ibnpfl0p/ujs-034-order-for-name-change-of-minor-child_06_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_owlnjlnp_ujs_027_order_for_name_change_of_adult_04_2026_pdf_70f66852",
+    "kind": "form",
+    "title": "STATE OF SOUTH DAKOTA                                                   IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/owlnjlnp/ujs-027-order-for-name-change-of-adult_04_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_instructions_media_2g4cpo0g_ujs025_verified_petition_for_adult_name_change_04_2026_pdf_f0dd3aee",
+    "kind": "instructions",
+    "title": "STATE OF SOUTH DAKOTA                                                 IN CIRCUIT COURT",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/2g4cpo0g/ujs025-verified-petition-for-adult-name-change_04_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "name-change"
+  },
+  {
+    "id": "SD_form_media_tkflp0gt_ujs_232_case_filing_statement_06_2026_pdf_4b4afda5",
+    "kind": "form",
+    "title": "CASE FILING STATEMENT – Information Only; Not Retained in Case Records",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/tkflp0gt/ujs-232-case-filing-statement_06__2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "SD_instructions_media_yj1lgrvi_case_type_and_party_role_options_pdf_bc7ca0a2",
+    "kind": "instructions",
+    "title": "CASE TYPE AND PARTY ROLE OPTIONS",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/yj1lgrvi/case-type-and-party-role-options.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "SD_form_media_xa3lmn0z_ujs_330_instructions_to_request_mediation_04_2026_pdf_ddb11b8a",
+    "kind": "form",
+    "title": "Instructions to Request Mediation",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/xa3lmn0z/ujs-330-instructions-to-request-mediation_04_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "paternity"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_civil_law_help_protection_orders_31b0e39d",
+    "kind": "self-help-guide",
+    "title": "Protection Orders",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/civil-law-help/protection-orders/?category=protection-order",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_civil_law_help_protection_orders_e6404105",
+    "kind": "self-help-guide",
+    "title": "Protection Orders",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/civil-law-help/protection-orders/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_civil_law_help_protection_orders_protection_orders_domestic_violence_b5bb1423",
+    "kind": "self-help-guide",
+    "title": "Protection Orders - Domestic Violence",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/civil-law-help/protection-orders/protection-orders-domestic-violence/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "SD_self-help-guide_self_help_civil_law_help_protection_orders_protection_orders_domestic_violence_domestic_violence_5166298a",
+    "kind": "self-help-guide",
+    "title": "Resources for Victims of Domestic Violence",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/self-help/civil-law-help/protection-orders/protection-orders-domestic-violence/domestic-violence/",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "protective-order"
+  },
+  {
+    "id": "SD_form_media_v1fputov_ujs_311_instructions_and_form_for_summons_with_minor_children_02_2026_pdf_9bd55e97",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR SUMMONS (WITH MINOR CHILDREN)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/v1fputov/ujs-311-instructions-and-form-for-summons-with-minor-children_02_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "service"
+  },
+  {
+    "id": "SD_form_media_ex4lp1ji_ujs_309_instructions_for_summons_without_children_04_2026_pdf_1b54126a",
+    "kind": "form",
+    "title": "INSTRUCTIONS AND FORM FOR SUMMONS (WITHOUT MINOR CHILDREN)",
+    "court": "South Dakota Unified Judicial System (Self Help)",
+    "source_url": "https://ujs.sd.gov/media/ex4lp1ji/ujs-309-instructions-for-summons-without-children_04_2026.pdf",
+    "license": "official South Dakota Unified Judicial System publication; no license asserted on the source",
+    "topic": "service"
+  }
+]

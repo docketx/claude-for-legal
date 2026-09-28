@@ -131,6 +131,69 @@
       "author": {
         "name": "DocketX"
       }
+    },
+    {
+      "name": "contracts-legal",
+      "displayName": "Contracts Legal",
+      "source": "./contracts-legal",
+      "description": "State contract-law rules for clause review — indemnity, limitation of liability, liquidated damages, non-competition, warranty disclaimers, anti-assignment, arbitration, choice of law and venue, attorney fees, limitations periods, usury, statute of frauds and more — across 28 states, copied from DocketRouter's verified contract-law store: 601 rules and 3,597 authorities, every quote re-checked verbatim against our own published statute and case-law corpus, and only the rules the public API itself serves. Each rule carries the question it answers, the rule, the trap that makes a clause fail in that state specifically, and its authorities with quotes. A state or clause the store does not hold is reported as not covered, never answered from general knowledge. A draft for attorney review, not legal advice; CC0 data.",
+      "author": {
+        "name": "DocketX"
+      }
+    },
+    {
+      "name": "employment-law",
+      "displayName": "Employment Law",
+      "source": "./employment-law",
+      "description": "Verified employment-law rules for workers and the people advising them: the FMLA's twelve-workweek entitlement and what a notice failure does and does not buy, whether a state employer can be sued for family-care leave and for self-care leave, the Title VII charge-filing deadline and the rule that the clock starts when you are told rather than when it hurts, Texas's six-day final-pay deadline and its separate 180-day state discrimination period, Texas workers'-compensation retaliation, California's immediate final pay and the waiting-time penalty measured in days of your wages, California and Washington non-competes, and New Jersey's Conscientious Employee Protection Act. Every legal statement is a verbatim quote from our own published corpus, re-checked against it, or is recorded as not established. The FMLA's own statutory text is NOT in that corpus, so every federal statutory phrase is quoted THROUGH the Supreme Court opinion that sets it out and the citation names both. Covers the federal tier, California, Texas, Washington and New Jersey today; every other jurisdiction is reported as not covered rather than answered from general knowledge. Deadlines are a reason to call a lawyer today, never a date to rely on. Every output is a draft for attorney review, not legal advice.",
+      "author": {
+        "name": "DocketX"
+      }
+    },
+    {
+      "name": "family-legal",
+      "displayName": "Family Legal",
+      "source": "./family-legal",
+      "description": "Answers family-law questions for the states it holds a verified reference for — Texas, California, Washington, Illinois, Virginia, Iowa, Utah and Nebraska — divorce grounds and residency, the property regime and division standard, spousal support or maintenance, child support guidelines, custody or parenting arrangements, disclosures, temporary orders and related procedure — from per-state reference files of statute sections, each quote checked verbatim against our own published statute corpus. Starts by pseudonymising the user's case file on their own machine with legal-scrambler. Every output is a draft for attorney review, not legal advice. Any state without a verified file is reported as not covered rather than answered from general knowledge. Protective orders, safety planning, and other family-violence matters are out of scope and are routed to a hotline and an attorney, never answered directly.",
+      "author": {
+        "name": "DocketX"
+      }
+    },
+    {
+      "name": "second-opinion",
+      "displayName": "Second Opinion",
+      "source": "./second-opinion",
+      "description": "A second opinion on a legal question from a panel of frontier models that never see a fact of the matter: the case file is pseudonymised on the user's own machine with legal-scrambler, every model on the panel answers the same question over placeholders only, the answers are restored by code, and Claude then reads the panel side by side — where the models agree, where they split, which citations each relied on — and gives its own view with that context. Nothing about the client leaves the machine unscrambled; every citation the panel produces is unverified until checked. A draft for attorney review, not legal advice.",
+      "author": {
+        "name": "DocketX"
+      }
+    },
+    {
+      "name": "sue-my-boss-speedrun",
+      "displayName": "Sue My Boss Speedrun",
+      "source": "./sue-my-boss-speedrun",
+      "description": "The fastest honest path from \"this happened to me at work\" to a claim that is still alive: what to write down tonight, what a deadline actually means, whether the FMLA was broken, and what gets filed before a lawsuit can exist. Reads the verified rules in the employment-law plugin and adds only the ordering. Every legal statement is a verbatim quote from our own published corpus or is recorded as not established; federal statutory phrases are quoted from the United States Code, which we publish, and court holdings from the opinions. Covers the federal tier, California, Texas, Washington and New Jersey today. It will not tell you whether you have a claim, will not compute a deadline date, and will not name or characterize a real employer. Speedrun means do the preserving steps today, not that the law is fast. Every output is a draft for attorney review, not legal advice.",
+      "author": {
+        "name": "DocketX"
+      }
+    },
+    {
+      "name": "sue-my-lawyer",
+      "displayName": "Sue My Lawyer",
+      "source": "./sue-my-lawyer",
+      "description": "What a client can do about their OWN lawyer, Texas only today: the elements of legal malpractice and the case-within-a-case causation rule, the anti-fracturing rule, breach of fiduciary duty and fee forfeiture, the two-year limitations period and the Hughes tolling rule, the discovery rule, the Peeler doctrine for criminal clients, Strickland ineffective-assistance, getting the client file back, fee disputes and the State Bar grievance process, assignability of malpractice claims, expert-testimony requirements, and attorney-client privilege after the relationship ends. Every legal statement is a verbatim quote from our own published statute and case-law corpus, re-checked against it, or is recorded as not established. Every output is a draft for attorney review, not legal advice. Never names, characterizes, or opines on a specific real lawyer or firm. Covers Texas only today; every other state is reported as not covered rather than answered from general knowledge.",
+      "author": {
+        "name": "DocketX"
+      }
+    },
+    {
+      "name": "verified-law",
+      "displayName": "Verified Law",
+      "source": "./verified-law",
+      "description": "The scaffolding for doing legal work with Claude where every legal statement is either a verbatim quote from a named published source, re-checked by machine, or is stated as not established with what was searched. Jurisdiction-agnostic: the plugin defines the row schema, the verification contract, the break test that proves a verifier actually bites, the source-tag vocabulary, and the skill patterns — then reads whatever reference packs are installed, whether that is one state you built this afternoon or every state someone has published. Ships with an add-a-jurisdiction guide so a jurisdiction nobody has done yet is a morning's work, not a missing feature. Every output is a draft for attorney review, not legal advice.",
+      "author": {
+        "name": "DocketX"
+      }
     }
   ]
 }

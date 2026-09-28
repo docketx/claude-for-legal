@@ -1,0 +1,8 @@
+{
+  "name": "sue-my-boss-speedrun",
+  "version": "0.1.0",
+  "description": "The fastest honest path from \"this happened to me at work\" to a claim that is still alive: what to write down tonight, what a deadline actually means, whether the FMLA was broken, and what gets filed before a lawsuit can exist. Reads the verified rules in the employment-law plugin and adds only the ordering. Every legal statement is a verbatim quote from our own published corpus or is recorded as not established; federal statutory phrases are quoted from the United States Code, which we publish, and court holdings from the opinions. Covers the federal tier, California, Texas, Washington and New Jersey today. It will not tell you whether you have a claim, will not compute a deadline date, and will not name or characterize a real employer. Speedrun means do the preserving steps today, not that the law is fast. Every output is a draft for attorney review, not legal advice.",
+  "author": {
+    "name": "DocketX"
+  }
+}

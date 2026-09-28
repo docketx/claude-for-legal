@@ -1,0 +1,40 @@
+[
+ {
+  "jurisdiction": "nj",
+  "clause": "retaliation-whistleblower",
+  "rule_id": "nj-cepa-no-retaliatory-action-for-disclosing-or-refusing-to-take-part",
+  "question": "I reported something illegal at work and then they came after me. What protects me in New Jersey?",
+  "rule": "The Conscientious Employee Protection Act. N.J.S. 34:19-3 provides that An employer shall not take any retaliatory action against an employee because the employee does any of the following:\n\na.\tDiscloses, or threatens to disclose to a supervisor or to a public body an activity, policy or practice of the employer, or another employer, with whom there is a business relationship, that the employee reasonably believes:\n\n(1)\tis in violation of a law, or a rule or regulation promulgated pursuant to law, including any violation involving deception of, or misrepresentation to, any shareholder, investor, client, patient, customer, employee, former employee, retiree or pensioner of the employer or any governmental entity, or, in the case of an employee who is a licensed or certified health care professional, reasonably believes constitutes improper quality of patient care;",
+  "trap": "Two things decide most CEPA fights and neither is whether you were right. The statute protects a disclosure of an activity the employee REASONABLY BELIEVES is unlawful or incompatible with a clear mandate of public policy, so being mistaken about the law is not automatically fatal. And for most disclosures the Act expects you to have told a supervisor first and given the employer a chance to fix it, subject to the exceptions the section itself sets out. Going straight outside without one of those exceptions is the common way a strong complaint becomes a weak one.",
+  "authority": [
+   {
+    "kind": "statute",
+    "cite": "N.J.S. 34:19-3",
+    "verified": {
+     "checked": "2026-09-25",
+     "corpus": {
+      "dataset": "docketx/us-statutes",
+      "row_id": "NJS_34_19-3",
+      "quote": "An employer shall not take any retaliatory action against an employee because the employee does any of the following:\n\na.\tDiscloses, or threatens to disclose to a supervisor or to a public body an activity, policy or practice of the employer, or another employer, with whom there is a business relationship, that the employee reasonably believes:\n\n(1)\tis in violation of a law, or a rule or regulation promulgated pursuant to law, including any violation involving deception of, or misrepresentation to, any shareholder, investor, client, patient, customer, employee, former employee, retiree or pensioner of the employer or any governmental entity, or, in the case of an employee who is a licensed or certified health care professional, reasonably believes constitutes improper quality of patient care;",
+      "checked": "2026-09-25"
+     }
+    }
+   }
+  ],
+  "as_of": "2026-09-25",
+  "status": "verified",
+  "notes": "The quote is the operative prohibition and its list of protected activities. NOT ESTABLISHED HERE: the written-notice precondition and its exceptions in N.J.S. 34:19-4, the limitations period, the waiver/election-of-remedies rule, and what relief is available. Those sections are in our corpus and were not read for this row."
+ },
+ {
+  "jurisdiction": "nj",
+  "clause": "family-medical-leave",
+  "rule_id": "nj-family-medical-leave-no-verified-state-rule",
+  "question": "Does New Jersey give me family leave beyond the federal FMLA?",
+  "rule": "We hold the New Jersey Family Leave Act section N.J.S. 34:11B-4 in our corpus, but no row in this pack has been verified against it yet, so this pack states no New Jersey family-leave rule.",
+  "trap": "This is an honest not-yet rather than a not-covered: the source is in our corpus and the work has not been done. Treat a New Jersey family-leave question as unanswered by this pack rather than answered by the federal rows.",
+  "authority": [],
+  "as_of": "2026-09-25",
+  "status": "no-verified-authority",
+  "notes": "Recorded deliberately. The schema this pack follows says a missing row and a padded row are both worse than an honest empty one, because a missing row reads as “nothing to say here” and a padded row reads as law."
+ }
+]

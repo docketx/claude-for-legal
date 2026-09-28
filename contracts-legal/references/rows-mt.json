@@ -1,0 +1,1990 @@
+[
+  {
+    "jurisdiction": "mt",
+    "clause": "anti-assignment",
+    "rule_id": "mt-thin-caselaw-statute-only-endorsement-mechanics-plus-ucc-9-406-override",
+    "question": "Will a Montana court give effect to this clause barring assignment or requiring our consent?",
+    "rule": "For most ordinary contracts, this corpus cannot state a general Montana holding either enforcing or voiding an anti-assignment clause -- it is a genuinely thin area of reported Montana case law, and this rule says so rather than inventing a rule. What the statutes DO establish: for a nonnegotiable written contract for the payment of money or delivery of personal property, Montana allows transfer “by endorsement the same as a negotiable instrument,” which “transfers all the rights of the assignor under the contract to the assignee, subject to all equities and defenses existing in favor of the maker at the time of the endorsement or arising before notice of the assignment is received by the maker” (§ 28-2-206, MCA) -- a mechanical transfer rule, not itself a statement about whether a NO-ASSIGNMENT clause can block that transfer. Separately, Montana has adopted UCC Article 9's anti-assignment override for commercial receivables: a contract term that “prohibits, restricts, or requires the consent” of the account debtor to an assignment of an account, chattel paper, or payment intangible, or to a security interest in one, “is ineffective”, with named exceptions including individual consumer transactions and ownership interests in a general partnership, limited partnership, or LLC (§ 30-9A-406(4), (8), (10), MCA). The parallel override for promissory notes, health-care-insurance receivables, and general intangibles including permits, licenses, and franchises is at § 30-9A-408, and for letter-of-credit rights at § 30-9A-409.",
+    "trap": "Do not treat this as settled Montana law just because the statutes exist -- 0 opinions in our published Montana opinions (64,117 of them) cite § 28-2-206, and 0 cite § 30-9A-406, § 30-9A-408, or § 30-9A-409. No Montana appellate court in this corpus has construed any of these sections. What IS litigated in Montana is the CONSEQUENCE of violating an anti-assignment clause in specific fact patterns, and even there the corpus is thin: Hedges v. Woodhouse recounts an argument that “anti-assignment clauses in franchise agreements are enforceable only against the contracting party, not against an assignee”, but the Montana Supreme Court never reached the merits because the argument was raised for the first time on appeal and refused on that procedural ground. In re the Marriage of Szafryk framed an issue around whether a party “forfeited his right to use…dealership property by violating anti-assignment clauses,” but the Court's actual holding rested on a DIFFERENT, independent forfeiture ground (ceasing to personally operate the business) and expressly declined to resolve the assignment question, so it is not authority for how Montana treats an anti-assignment clause's violation either. Do not rely on either case for a holding neither one actually delivers. One sale type sits outside the override: “Subsection (4) does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under 30-9A-610 or an acceptance of collateral under 30-9A-620 .” A restriction on selling a payment intangible or promissory note therefore survives unless the sale is a disposition or an acceptance of collateral under the sections named. Maine and New Jersey carry the identical carve-out.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-206",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_206",
+            "quote": "A nonnegotiable written contract for the payment of money or the delivery of personal property may be transferred by endorsement the same as a negotiable instrument. The endorsement transfers all the rights of the assignor under the contract to the assignee, subject to all equities and defenses existing in favor of the maker at the time of the endorsement or arising before notice of the assignment is received by the maker.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-9A-406",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_9A_406",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (a) prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note;",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-9A-406",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_9A_406",
+            "quote": "This section is subject to law other than this chapter that establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "8 P.3d 109",
+        "name": "Hedges v. Woodhouse",
+        "court": "Mont.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "feaeaecc505eb887",
+            "cl_opinion_id": "885357",
+            "quote": "Hedges argues that anti-assignment clauses in franchise agreements are enforceable only against the contracting party, not against an assignee, which status she claims to hold.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2010 MT 90",
+        "name": "In re the Marriage of Szafryk",
+        "court": "Mont.",
+        "decided": "2010",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "c886944856808295",
+            "cl_opinion_id": "889462",
+            "quote": "Whether the District Court erred in concluding that John forfeited his right to use the dealership property by violating anti-assignment clauses contained in the parties’ settlement agreements.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2010 MT 90",
+        "name": "In re the Marriage of Szafryk",
+        "court": "Mont.",
+        "decided": "2010",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "c886944856808295",
+            "cl_opinion_id": "889462",
+            "quote": "Because we conclude that John forfeited his right to use the dealership property by ceasing to personally operate Country Ford, we need not address this argument.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "8 P.3d 109",
+        "name": "Hedges v. Woodhouse",
+        "court": "Mont.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "feaeaecc505eb887",
+            "cl_opinion_id": "885357",
+            "quote": "Hedges did not raise these arguments in her brief to the District Court. This Court has frequently refused to consider new issues on appeal.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-9A-406",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_9A_406",
+            "quote": "Subsection (4) does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under 30-9A-610 or an acceptance of collateral under 30-9A-620 .",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 28-2-206 read in full (one sentence). § 30-9A-406 read in full (11 subsections); §§ 30-9A-408 and 30-9A-409 read in full and confirmed structurally parallel (promissory notes/health-care- insurance receivables/general intangibles; letter-of-credit rights, respectively) but not separately quoted above to avoid padding the row with near-duplicate statutory text. HONEST NEGATIVE, THE HEADLINE FINDING FOR THIS ROW: targeted searches (`cg.py mt \"28-2-206\"`, `\"30-9A-406\"`, `\"30-9A-408\"`, `\"30-9A-409\"`) each returned 0 opinions in the 64,117-opinion mt caselaw shard. Hedges v. Woodhouse and In re the Marriage of Szafryk were the two most promising candidates a full-text “anti-assignment” sweep of the shard returned (5 opinions total used that phrase), and neither resolves the merits question, as explained in the trap -- this is recorded honestly rather than papered over with a confident-sounding rule the corpus does not support. LeaseAmerica Corp. of Wis. v. State (1981) was also read: it holds “anti-assignment statutes have historically been limited to liquidated debts,” but concerns a specific state-claims-assignment statute (§§ 17-8-211/212), not a general contractual anti-assignment clause, and is not cited above as authority for that reason. No later-treatment scan was run because no case authority above states a holding to scan for. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): Szafryk was quoted with no block; the framed issue and the holding added. HOLDING SWEEP 2026-09-22 (second band, overlap 0.15-0.20, packaged tool): the trap's 'never reached the merits because the argument was raised for the first time on appeal' is Hedges v. Woodhouse ¶11; block added. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "arbitration",
+    "rule_id": "mt-uaa-valid-except-contract-defenses-no-special-arbitration-only-rules",
+    "question": "Will Montana enforce this arbitration clause, and can Montana law impose extra formalities on it?",
+    "rule": "Yes, and no -- Montana's Uniform Arbitration Act enforces a written arbitration agreement on the same footing as any other contract, and Montana learned the hard way that it cannot add arbitration-only conditions on top. § 27-5-114(2), MCA: “A written agreement to submit to arbitration any controversy arising between the parties after the agreement is made is valid and enforceable except upon grounds that exist at law or in equity for the revocation of a contract.” Historically, Montana's own statute required arbitration clauses to be “typed in underlined capital letters on the first page of a contract” to be enforceable -- the United States Supreme Court struck that DOWN as preempted by the Federal Arbitration Act in Doctor's Associates, Inc. v. Casarotto, reversing the Montana Supreme Court's own Casarotto v. Lombardi. A 2025 Montana opinion recounts it: “The Court invalidated § 27-5-114(4), MCA (1995), holding Montana's statute was preempted by the FAA… ‘Courts may not, however, invalidate arbitration agreements under state laws applicable only to arbitration provisions.’” Because the FAA “mandates contracts providing for arbitration rights ‘shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract…,’” the rule going forward is that “generally applicable contract defenses, such as fraud, duress, or unconscionability, may be applied to invalidate arbitration agreements without contravening § 2” of the FAA -- but nothing arbitration-specific may be. Montana's current § 27-5-114 in this corpus carries no special-notice requirement, consistent with that history. Procedurally, § 27-5-115 lets a party move to COMPEL arbitration on a showing of the agreement and a refusal to arbitrate, or to STAY one where no agreement to arbitrate exists, with the court deciding that threshold question summarily.",
+    "trap": "§ 27-5-114(2) itself excludes four categories from the after-the-fact arbitration agreement rule (subject to a trade/professional-organization exception in subsection (3)): claims arising out of personal injury (contract or tort), a consumer's acquisition of property, services, or credit worth $5,000 or less, most insurance or annuity contracts, and workers' compensation claims. General, judge-made unconscionability remains a live defense even to a facially valid arbitration clause: Global Client Solutions, LLC v. Ossello held an arbitration clause unenforceable as unconscionable under ordinary Montana contract law, not any arbitration-specific rule -- exactly the kind of “generally applicable contract defense” the FAA permits. Labor/employment arbitration agreements are handled by a DIFFERENT, narrower incorporation rule (§ 27-5-113): they are valid and enforceable, and pull in the rest of the chapter, ONLY “if the agreement so specifies,” except that §§ 27-5-115, 27-5-311, 27-5-312(1) and (3)-(5), 27-5-313, and 27-5-322 apply regardless -- this rule did not independently verify those cross-referenced sections.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 27-5-114",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_27_5_114",
+            "quote": "A written agreement to submit to arbitration any controversy arising between the parties after the agreement is made is valid and enforceable except upon grounds that exist at law or in equity for the revocation of a contract.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 27-5-115",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_27_5_115",
+            "quote": "On the application of a party showing an agreement described in 27-5-114 and the opposing party's refusal to arbitrate, the district court shall order the parties to proceed with arbitration; but if the opposing party denies the existence of the agreement to arbitrate, the court shall proceed summarily to the determination of that issue raised and shall order arbitration if it finds for the applying party or deny the application if it finds for the opposing party.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2025 MT 184",
+        "name": "Monarch v. Petra",
+        "court": "Mont.",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "00fc303b90ddd734",
+            "cl_opinion_id": "11124150",
+            "quote": "In Doctor’s Associates v. Casarotto, 517 U.S. 681, 116 S. Ct. 1652 (1996), the Court overruled our decision in Casarotto v. Lombardi, 268 Mont. 369, 886 P.2d 931 (1994). The Court invalidated § 27-5-114(4), MCA (1995), holding Montana’s statute was preempted by the FAA. Doctor’s Assocs., Inc., 517 U.S. at 688, 116 S. Ct. at 1657. The Court held, “Courts may not, however, invalidate arbitration agreements under state laws applicable only to arbitration provisions.”",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2025 MT 184",
+        "name": "Monarch v. Petra",
+        "court": "Mont.",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "00fc303b90ddd734",
+            "cl_opinion_id": "11124150",
+            "quote": "“Thus, generally applicable contract defenses, such as fraud, duress, or unconscionability, may be applied to invalidate arbitration agreements without 12 contravening § 2.” Doctor’s Assocs., Inc., 517 U.S. at 687, 116 S. Ct. at 1656",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 27-5-113",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_27_5_113",
+            "quote": "Arbitration agreements between employers and employees or between their respective representatives are valid and enforceable and may be subject to all or portions of this chapter if the agreement so specifies, except 27-5-115 , 27-5-311 , 27-5-312 (1) and (3) through (5), 27-5-313 , and 27-5-322 apply in each case.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§§ 27-5-111 through 27-5-115 read in full. The second quote above carries a stray “12” between “without” and “contravening” -- the source PDF's own footnote-number artifact, kept verbatim rather than edited out, since the verifier matches the row's actual text. State v. M. Walton's own reporter cite did not resolve to a Pacific Reporter volume/page in the corpus's citation map at check time (cluster 10660226); “2025 MT 184” is stated as the neutral cite only. Its holding on the merits concerns WAIVER of the right to compel arbitration by litigation conduct, a topic outside this row's scope -- the two quotes used above are the opinion's own recitation of Doctor's Associates v. Casarotto and are accurate as a description of that 1996 U.S. Supreme Court decision and its effect on § 27-5-114(4) (MCA 1995), which this corpus's CURRENT § 27-5-114 text no longer contains -- confirmed by reading the section in full above and finding no special-notice or typeface requirement in it. Monarch v. Petra (2025-08-19, two rows in the corpus, clusters 10660925 and 10657563) recites the identical passage and was read as a second, independent confirmation; not cited above to avoid a duplicate holding. Tedesco v. Home Savings Bancorp (2017) and Peeler v. Rocky Mountain Log Homes (2018) were read and both apply § 27-5-114 to FAA-governed agreements; not cited above to keep the row focused. HONEST NEGATIVE: this row does not independently verify §§ 27-5-311, 27-5-312, 27-5-313, or 27-5-322 (the labor-agreement cross-references in § 27-5-113), and does not resolve what Montana law requires for an agreement to be governed by the FAA versus the state UAA where both could apply. LATER TREATMENT: Casarotto v. Lombardi (886 P.2d 931), 24 later mentions, 5 flagged windows, all read -- every one is the SAME, already-accounted-for event (Casarotto's reversal by Doctor's Associates v. Casarotto, 517 U.S. 681 (1996), and Montana's 1997 legislative repeal of the struck-down notice requirement, 1997 Mont. Laws 19 § 1), not a surprise finding -- Holm-Sutherland Co. v. Town of Shelby (1999) states it plainly: “The law imposing the notice requirements as to contractual arbitration clauses was subsequently overturned by the United States Supreme Court and repealed by the Montana Legislature.” QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): the 2025 MT 184 authority was labelled 'State v. M. Walton' and pointed at a corpus row that carries that title but the arbitration opinion's text; the same cite's other row is titled Monarch v. Petra (DA 24-0760). Repointed to that row with the correct name; quotes unchanged. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): § 27-5-113 read in full (MT_27_5_113); block added; the cross-referenced sections it names remain unread, as the trap says."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "attorney-fees",
+    "rule_id": "mt-one-way-fee-clause-becomes-reciprocal-unless-mt-law-does-not-govern",
+    "question": "If our contract gives only ONE side the right to recover attorney fees, will a Montana court still let the other side recover if it wins?",
+    "rule": "Yes -- Montana statutorily converts a one-way contractual fee clause into a two-way one. § 28-3-704(1), MCA: whenever a contract entered into after July 1, 1971 gives “one party…an express right to recover attorney fees from any other party…in the event the party having that right brings an action upon the contract,” then “all parties to the contract…are considered to have the same right to recover attorney fees and the prevailing party in any action, whether by virtue of the express contractual right or by virtue of this section, is entitled to recover reasonable attorney fees from the losing party.” Montana courts apply this routinely: Jorgensen v. Trademark Woodworks confirms “Pursuant to § 28-3-704(1), MCA, this contractual right to attorney's fees is reciprocal,” and Fox v. Fairbrother restates that “when legal authority exists to award attorney's fees, § 28-3-704, MCA, provides that the right to recover attorney's fees is reciprocal.”",
+    "trap": "The reciprocity statute only fires when Montana law governs the contract in the first place -- pick another state's law and you may lose the override along with the protection it was meant to give the non-drafting party. Masters Group v. Comerica Bank held exactly that: “Because there is no authority to award attorney fees under the contract, and, as the contract is governed by Michigan law and therefore Montana's reciprocal attorney fees statute, § 28-3-704(1), MCA, does not apply, the District Court was without legal authority” to award fees to the prevailing party. A second, narrower trap sits in subsection (2): for a contract negotiated between a private party and a party holding CONDEMNATION AUTHORITY over that private party's property, the condemning party is carved OUT of subsection (1) and cannot use the reciprocal right to recover fees from the losing private party in an action to enforce the contract.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-3-704",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_3_704",
+            "quote": "whenever, by virtue of the provisions of any contract or obligation in the nature of a contract made and entered into at any time after July 1, 1971, one party to the contract or obligation has an express right to recover attorney fees from any other party to the contract or obligation in the event the party having that right brings an action upon the contract or obligation, then in any action on the contract or obligation all parties to the contract or obligation are considered to have the same right to recover attorney fees and the prevailing party in any action, whether by virtue of the express contractual right or by virtue of this section, is entitled to recover reasonable attorney fees from the losing party or parties.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-3-704",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_3_704",
+            "quote": "For a contract or obligation negotiated between a private party and a party with condemnation authority over the private party's property, the party with condemnation authority is not entitled to recover attorney fees from the losing party or parties pursuant to subsection (1) in an action to enforce a contract or obligation involving the property.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2018 MT 259",
+        "name": "Jorgensen v. Trademark Woodworks, LLC",
+        "court": "Mont.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "329472209cefcb27",
+            "cl_opinion_id": "6535140",
+            "quote": "Pursuant to § 28-3-704(1), MCA, this contractual right to attorney's fees is reciprocal.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "491 P.3d 675",
+        "name": "Masters Group v. Comerica Bank",
+        "court": "Mont.",
+        "decided": "2021",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "b32ef06007e1631d",
+            "cl_opinion_id": "4701608",
+            "quote": "Because there is no authority\n\nto award attorney fees under the contract, and, as the contract is governed by Michigan law\n\nand therefore Montana’s reciprocal attorney fees statute, § 28-3-704(1), MCA, does not\n\napply, the District Court was without legal authority",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2017 MT 135",
+        "name": "Fox v. Fairbrother",
+        "court": "Mont.",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "d0dcb592abc0f549",
+            "cl_opinion_id": "4174932",
+            "quote": "When legal authority exists to award attorney’s fees, § 28-3-704, MCA, provides that the right to recover attorney’s fees is reciprocal.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 28-3-704 read in full. Jorgensen's own reporter-cite lookup returned no West citation at check time for row 329472209cefcb27 in the corpus's citation map; “2018 MT 259” is stated as the neutral cite only and should be re-verified once a Pacific Reporter volume/page is available -- flagged rather than guessed. Fox v. Fairbrother (2017, row d0dcb592abc0f549) and Kenyon-Noble Lumber Co. v. Dependant Foundations (2018) were also read and apply the statute the same way; not both cited to keep the row to its clearest authorities. HONEST NEGATIVE: no authority read for this row establishes whether § 28-3-704 reaches an INDEMNITY clause that happens to cover inter-party legal fees (the New York “Hooper” question this store's audit flagged for another state) -- that question was not searched for Montana and is not answered here. LATER TREATMENT: Masters Group (491 P.3d 675), 2 later mentions, 1 flagged window -- Thermal Design v. Thorson (2022) cites Masters Group only for an unrelated pretrial-order-supersedes-pleadings holding; not negative as to the reciprocal-fees point. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): Fox v. Fairbrother was quoted with no block (the row cited Jorgensen and Masters Group); added."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "choice-of-law",
+    "rule_id": "mt-performance-place-default-modroo-two-step-for-express-clauses",
+    "question": "Will a Montana court honor this contract's choice-of-law clause?",
+    "rule": "Usually yes, but Montana runs a two-step test before it will, and a separate statute supplies the DEFAULT rule when the contract is silent. Absent a choice-of-law clause, Montana's own interpretation statute controls: “A contract is to be interpreted according to the law and usage of the place where it is to be performed or, if it does not indicate a place of performance, according to the law and usage of the place where it is made” (§ 28-3-102, MCA). Where the parties DID choose a state's law, Montana applies the two-step “Modroo” test built on the Restatement (Second) of Conflict of Laws §§ 187-188: K. Barber v. Bradford Aquatic explains that the first step asks “whether Montana law would apply under the Restatement § 188 had the parties made no valid choice-of-law election in their contract” -- the “most significant relationship” analysis -- and § 6 of the Restatement first asks whether Montana has its own statutory choice-of-law directive, which for a contract IS § 28-3-102. If a chosen state's law would conflict with a fundamental Montana public policy AND Montana has a materially greater interest in the dispute than the chosen state, Montana's own law and public policy can displace the parties' choice under Restatement § 187(2)(b) -- the same public-policy override this store's venue-selection row describes for forum clauses.",
+    "trap": "A choice-of-law clause paired with a construction contract for a Montana project is not just disfavored -- it is flatly VOID under § 28-2-2116(1), MCA (see this store's prompt-payment and venue-selection rows), regardless of the Restatement analysis described above; that statutory override does not depend on any public-policy balancing. Outside construction, do not assume a chosen state's law survives automatically just because the parties are sophisticated: Polzin v. Appleway Equipment Leasing recounts a district court that had gone the OTHER way entirely, holding “forum selection clauses are against Montana public policy…void as unconstitutional” before the Montana Supreme Court reversed and clarified that clauses are tested under the Restatement, not declared void outright -- so the doctrine has genuinely moved, and older Montana authority predating that correction should not be relied on. And remember the attorney-fees interaction already recorded in this store: Masters Group v. Comerica Bank held Montana's own reciprocal-attorney-fees statute, § 28-3-704, simply DOES NOT APPLY once a valid choice-of-law clause makes another state's law govern the contract -- a choice-of-law clause can cost a Montana party a Montana-law protection even where the clause itself is fully enforceable.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-3-102",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_3_102",
+            "quote": "A contract is to be interpreted according to the law and usage of the place where it is to be performed or, if it does not indicate a place of performance, according to the law and usage of the place where it is made.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2116",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2116",
+            "quote": "A provision, covenant, clause, or understanding that is in, collateral to, or affects a construction contract for a project in this state and that makes the contract subject to the laws of another state or that requires any litigation, arbitration, or other dispute resolution proceeding arising from a dispute pertaining to the contract to be conducted in another state is against the public policy of this state and is void and unenforceable.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "539 P.3d 648",
+        "name": "K. Barber v. Bradford Aquatic",
+        "court": "Mont.",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "3807a213f969818e",
+            "cl_opinion_id": "9907236",
+            "quote": "The first prong of the Modroo test requires that this Court determine whether Montana law would apply under the Restatement § 188 had the parties made no valid choice-of-law election in their contract. Modroo, ¶ 54. In relevant part, that section provides: (1) The rights and duties of the parties with respect to an issue in contract are determined by the local law of the state which, with respect to that issue, has the most significant relationship to the transaction and the parties under the principles stated in § 6.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "191 P.3d 476",
+        "name": "Polzin v. Appleway Equipment Leasing, Inc.",
+        "court": "Mont.",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "d5b3be2914ec4962",
+            "cl_opinion_id": "888338",
+            "quote": "In reliance on our decision in Keystone v. Triad Systems Corporation, 1998 MT 326, 292 Mont. 229, 971 P.2d 1240, the District Court concluded that forum selection clauses are against Montana public policy, stating: “choice of forum clauses are void as unconstitutional.”",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 28-3-102 read in full (it is one sentence). § 28-2-2116 already read in full for the prompt-payment row above. Modroo v. Nationwide Mut. Fire Ins. Co. is the named source of the two-step test but was not independently pulled as its own row for this pass -- K. Barber v. Bradford Aquatic, itself a full precedential Montana Supreme Court opinion, states and applies the test directly, so the quote above is verified against K. Barber's own row text, not against Modroo's; a fuller pass should add Modroo as its own authority. The Polzin quote above is the district court's REJECTED reasoning, recited by the Montana Supreme Court on its way to REVERSING -- used here specifically to show what Montana law is NOT, per the trap; it is not cited as a holding. Harrington v. Energy West Inc. (2015) and Tucker v. Farmers Insurance Exchange (2009) were read and both apply Restatement §§ 187-188 to insurance-contract choice-of-law disputes; not cited above to keep the row to its clearest, most general statements. HONEST NEGATIVE: this row does not independently verify the full multi-factor Restatement § 188(2) list (place of contracting, negotiation, performance, subject matter, and the parties' domicile/incorporation/business location) -- K. Barber's opinion discusses it but the full factor list was not extracted and quoted here. LATER TREATMENT: Polzin (191 P.3d 476), 8 later mentions, 0 flagged. K. Barber (539 P.3d 648), 0 later mentions (2023 decision, too recent for meaningful later treatment in this snapshot), 0 flagged."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "mt-mutpa-broad-unlawfulness-plain-language-act-waiver-void",
+    "question": "Can a Montana consumer contract waive the protections of Montana's consumer-protection statutes?",
+    "rule": "Not where a statute says so expressly, and Montana has at least one such express, unqualified waiver-void rule on the books. The Montana Unfair Trade Practices and Consumer Protection Act (MUTPA) states its core prohibition broadly and without a stated waiver mechanism: “Unfair methods of competition and unfair or deceptive acts or practices in the conduct of any trade or commerce are unlawful” (§ 30-14-103, MCA). Young v. Era Advantage confirms Montana courts apply it exactly as written, quoting the section for that proposition and adding the judicial gloss that an unfair practice is one “contrary to established public policy and which is either immoral, unethical, oppressive, unscrupulous, or substantially injurious to consumers.” Separately, and more explicitly on the waiver question this rule asks, Montana's Plain Language in Contracts Act contains its own flat rule: “A consumer may not waive the rights provided by this part, and any such waiver is void” (§ 30-14-1113(2), MCA), and subsection (1) preserves every “claim or…defense that would have been available to the consumer if this part were not in effect” -- i.e., the Act's protections are a FLOOR, not a ceiling that displaces other consumer remedies.",
+    "trap": "§ 30-14-1113's waiver-void rule is scoped to “this part” -- the Plain Language in Contracts Act, §§ 30-14-1101 through 1113 -- and the Act's own scope section, § 30-14-1104(2), takes out consumer contracts in which the value of the money, property or services exceeds $50,000, securities or commodities accounts, insurance policies subject to Title 33, government sellers, lessors and lenders, tariffed public-utility service and transfers of real estate -- so the waiver-void rule does not reach every consumer agreement. MUTPA itself (§§ 30-14-101 to 145) is broader in subject matter but this rule did not locate a comparably explicit waiver-void provision within MUTPA's own text -- § 30-14-105 lists MUTPA's EXEMPTIONS instead (conduct regulated by the Public Service Commission or state auditor, and innocent publishers/broadcasters of a deceptive ad), which is a different kind of limit than a waiver rule and does not answer whether a MUTPA claim can be contracted away by the consumer directly. Do not conflate the two statutes' protections when drafting -- a waiver clause that survives MUTPA (because MUTPA's own text does not expressly void waivers) could still be void under the Plain Language Act if the contract also falls within that Act's separate scope.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-103",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_103",
+            "quote": "Unfair methods of competition and unfair or deceptive acts or practices in the conduct of any trade or commerce are unlawful.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-1113",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_1113",
+            "quote": "Nothing in this part precludes a consumer from making any claim or raising any defense that would have been available to the consumer if this part were not in effect.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-1113",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_1113",
+            "quote": "A consumer may not waive the rights provided by this part, and any such waiver is void.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-105",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_105",
+            "quote": "This part does not apply to: (1) actions or transactions permitted under laws administered by the Montana public service commission or the state auditor; or (2) acts of a retail merchant, publisher, owner, agent, or employee of a newspaper, periodical, or radio or television station or advertising agency in the publication or dissemination of an advertisement when the merchant, publisher, owner, agent, or employee did not have knowledge of the false, misleading, or deceptive character of the advertisement.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2022 MT 138",
+        "name": "Young v. Era Advantage",
+        "court": "Mont.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "a9fb8a42a2ebb6df",
+            "cl_opinion_id": "6499503",
+            "quote": "The MCPA prohibits “[u]nfair methods of competition and unfair or deceptive acts or practices in the conduct of any trade or commerce[.]” Section 30-14-103, MCA. An unfair trade practice is one that is “contrary to established public policy and which is either immoral, unethical, oppressive, unscrupulous, or substantially injurious to consumers.”",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-1104",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_1104",
+            "quote": "Section 30-14-1103 does not apply to: (a) consumer contracts in which the value of the money, property, or services bought, leased, or borrowed exceeds $50,000 at the time of the contract; (b) consumer contracts in which securities or commodities accounts are bought, leased, or borrowed; (c) an insurance policy or contract that is subject to the provisions of Title 33; (d) a seller, lessor, or lender, if it is a government agency or instrumentality; (e) the provision of public utility service under tariffs approved by the public service commission; or (f) a transfer of real estate.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 30-14-103 and § 30-14-105 read in full. § 30-14-1113 read in full (both subsections). § 30-14-1101 (“Short title”, naming the “Plain Language in Contracts Act”) read; § 30-14-1103 (“Requirements for contracts”) and § 30-14-1104 (“Scope”) were located but NOT read in full for this pass -- flagged as an open item in the trap rather than assumed. Young v. Era Advantage's own reporter cite did not resolve to a Pacific Reporter volume/page in the corpus's citation map at check time (cluster 6623145); “2022 MT 138” is the neutral cite only. HONEST NEGATIVE ON A NONCITABLE OPINION: Aiking-Taylor v. Serang (2021 MT 118N) states a MUTPA private-right-of-action rule (“[a] consumer who suffers any ascertainable loss…may bring an individual action but not a class action”) in language that would otherwise be useful here, but its own citation carries the “N” memorandum-opinion designator -- consistent with this store's arbitration-row finding on Montana's noncitable-opinion convention -- so it is deliberately NOT used as authority. A targeted search for a MUTPA section that expressly voids a consumer's waiver of MUTPA rights (as opposed to the Plain Language Act's § 30-14-1113) was not successful; this row does not assert one exists. Norbeck v. Flathead Cnty. (2019) and Bratton v. Sisters of Charity (2020) were both read and apply § 30-14-103 in litigated MUTPA claims; not cited above to keep the row focused on the waiver question. LATER TREATMENT: not run -- Young (2022) has no resolved Pacific Reporter cite to scan against, and a name-based scan was not performed for this row. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): § 30-14-1104(2) read (MT_30_14_1104); the trap's 'did not independently verify' replaced with the section's exclusions and block added."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "electronic-signature",
+    "rule_id": "mt-ueta-electronic-form-and-signature-valid-if-both-parties-agreed-to-use-it",
+    "question": "Is an electronically signed version of this contract valid and enforceable in Montana?",
+    "rule": "Yes. Montana's Uniform Electronic Transactions Act states the baseline flatly: “A record or signature may not be denied legal effect or enforceability solely because it is in electronic form” and “A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation” (§ 30-18-106(1)-(2), MCA). Where another Montana law requires a writing or a signature, an electronic record or electronic signature satisfies that requirement (§ 30-18-106(3)-(4)) -- so this is also the statute that makes an electronically signed writing count for Montana's statute-of-frauds and parol- evidence statutes elsewhere in this store. Attribution is fact-based, not formulaic: “An electronic record or electronic signature is attributable to a person if it was the act of the person,” shown “in any manner, including a showing of the efficacy of any security procedure applied to determine the person to which the electronic record or electronic signature was attributable” (§ 30-18-108(1)), and its legal effect is read from “the context and surrounding circumstances at the time of its creation, execution, or adoption, including the parties' agreement, if any” (§ 30-18-108(2)).",
+    "trap": "The Act only applies where both sides have, expressly or by their conduct, agreed to transact electronically -- § 30-18-104 (not independently verified in full for this pass) is the provision that conditions the chapter's operation on that agreement, and this rule did not confirm its exact text or how a Montana court reads an implied agreement to use electronic records from conduct alone. § 30-18-116 (creation, retention, and conversion of records) and § 30-18-117 (governmental acceptance of electronic records) were not read for this pass and may bear on retention/original-document questions this rule does not answer. A long list of OTHER Montana titles each independently cross-reference “Relation to the Electronic Signatures in Global and National Commerce Act” for specific document types (wills, trusts, health-care directives, and more, scattered across Titles 1, 25, 26, 35, 40, 70, and 72) -- this rule covers ordinary commercial contracts under the general UETA chapter only and does not clear those specialized carve-outs.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-18-106",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_18_106",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-18-106",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_18_106",
+            "quote": "If a law requires a record to be in writing, an electronic record satisfies the law.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-18-108",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_18_108",
+            "quote": "An electronic record or electronic signature is attributable to a person if it was the act of the person. The act of the person may be shown in any manner, including a showing of the efficacy of any security procedure applied to determine the person to which the electronic record or electronic signature was attributable.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§§ 30-18-106 and 30-18-108 read in full; § 30-18-104 (“Use of electronic records and electronic signatures -- variation by agreement”) was located by title search but NOT read in full for this pass -- flagged as an open item in the trap rather than guessed at, since its own title suggests it is exactly the section that answers the “did both parties agree to go electronic” question this row raises but does not resolve. HONEST NEGATIVE: a case search (`cg.py mt \"30-18-106\"` / \"30-18-108\"`) found only 6 and 2 opinions respectively in docketx/us-caselaw-mt, and none was read in full for this pass -- no case-law holding is asserted in the rule above; it rests on the statute's own text only. This is a genuinely thin area of Montana litigation in the corpus compared to the other 21 clause families in this store. No later-treatment scan was run for this row because no case authority was selected to scan for."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "entire-agreement",
+    "rule_id": "mt-integration-bars-prior-oral-terms-but-two-statutory-doors-stay-open",
+    "question": "Does this integration / entire-agreement clause keep prior or contemporaneous oral statements out of the case?",
+    "rule": "Yes, as to the terms of the deal -- but two statutory doors stay open regardless of the clause's wording. Montana's parol evidence rule is itself a statute, not just common law: “The execution of a contract in writing, whether the law requires it to be written or not, supersedes all the oral negotiations or stipulations concerning its matter which preceded or accompanied the execution of the instrument” (§ 28-2-904, MCA), and § 28-2-905(1) reinforces it: once “the terms of an agreement have been reduced to writing by the parties, it is to be considered as containing all those terms” and “there can be…no evidence of the terms of the agreement other than the contents of the writing.” Montana courts apply it as written: Cordero v. Montana State University confirms extrinsic evidence can be considered “only ‘when a mistake or imperfection of the writing is put in issue by the pleadings’ or ‘when the validity of the agreement is the fact in dispute’” -- § 28-2-905, MCA -- and Lenz v. FSC Securities restates it as a bar on “resort to extrinsic evidence to construe clear and unambiguous contract language…intent of parties to written contract must ‘be ascertained from the writing alone if possible.’”",
+    "trap": "§ 28-2-905(1) names its own exceptions and they do not depend on your integration clause's wording: (a) when a mistake or imperfection in the writing is put in issue by the pleadings, and (b) when the validity of the agreement itself is the fact in dispute. Helvik v. Tuscano applied exactly that second door: § 28-2-905(1)(b) “allows the introduction of extrinsic evidence of a written agreement ‘when the validity of the agreement is the fact in dispute’” -- there, evidence the deed itself was the product of undue influence. Separately, subsection (2) preserves “other evidence of the circumstances under which the agreement was made or to which it relates…or other evidence to explain an extrinsic ambiguity or to establish illegality or fraud” -- so a merger clause does not insulate a contract from a fraud-in-the- inducement claim, and does not by itself resolve whether a term is ambiguous in the first place. Nothing read for this rule establishes that a merger clause changes any of this by its own force: § 28-2-905 states the statutory rule and its exceptions regardless of what the parties wrote.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-904",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_904",
+            "quote": "The execution of a contract in writing, whether the law requires it to be written or not, supersedes all the oral negotiations or stipulations concerning its matter which preceded or accompanied the execution of the instrument.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-905",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_905",
+            "quote": "Whenever the terms of an agreement have been reduced to writing by the parties, it is to be considered as containing all those terms. Therefore, there can be between the parties and their representatives or successors in interest no evidence of the terms of the agreement other than the contents of the writing except in the following cases:",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-905",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_905",
+            "quote": "This section does not exclude other evidence of the circumstances under which the agreement was made or to which it relates, as described in 1-4-102 , or other evidence to explain an extrinsic ambiguity or to establish illegality or fraud.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2025 MT 150",
+        "name": "Helvik v. Tuscano",
+        "court": "Mont.",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "f35deac603f59024",
+            "cl_opinion_id": "11091857",
+            "quote": "Section 28-2-905(1)(b), MCA, allows the introduction of extrinsic evidence of a written agreement “when the validity of the agreement is the fact in dispute.” See also Thornton v.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2018 MT 45",
+        "name": "Lenz v. FSC Securities",
+        "court": "Mont.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "6cbfca5e2be6c937",
+            "cl_opinion_id": "4260639",
+            "quote": "resort to extrinsic evidence to construe clear and unambiguous contract language prohibited―intent of parties to written contract must “be ascertained from the writing alone if possible”).",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "DA 23-0564 (Mont. Aug. 6, 2024)",
+        "name": "Cordero v. Montana State University",
+        "court": "Mont.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "d04f8a64a5022a5e",
+            "cl_opinion_id": "10499527",
+            "quote": "When interpreting an express contract, extrinsic evidence can only be considered “when a mistake or imperfection of the writing is put in issue by the pleadings” or “when the validity of the agreement is the fact in dispute.” Section 28-2-905, MCA.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§§ 28-2-904 and 28-2-905 read in full together as one chapter with §§ 28-2-901 through 907. Helvik's own reporter cite is not yet in CourtListener's citations map at the 2026-09-20 check (only the neutral “2025 MT 150” resolves) -- flagged here rather than guessed; a Pacific Reporter volume/page will exist once West assigns one and should be added on the next pass. Cordero v. Montana State University (2024, row d04f8a64a5022a5e) states the same two-exception rule in near-identical words and was read as a second, independent confirmation, but is not listed as a formal authority above to avoid a duplicate holding; a fuller row would add it. HONEST NEGATIVE: no case read for this row specifically discusses a MERGER or “entire agreement” clause's own text (none of the sampled opinions quote one) -- the rule above rests on how § 28-2-905 operates by its own terms, which Montana case law confirms applies “whether the law requires it to be written or not,” not on any construction of merger-clause language itself. Archer v. Tait (2024) and Platt v. Held (2018) were also read and apply § 28-2-905(1) the same way; not cited above to keep the row focused. LATER TREATMENT: Lenz (2018 MT 45), search on the case name (no stable Pacific Reporter cite resolved at check time), 0 flagged in a name-anchored scan; Helvik too recent (2025-07-08) for a meaningful later-treatment window in this snapshot. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): Cordero was quoted with no block (the row cited Helvik and Lenz); the 2024 opinion added by docket -- no reporter citation in the corpus."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "force-majeure",
+    "rule_id": "mt-two-excuse-grounds-one-waivable-one-not",
+    "question": "Will this force-majeure / impossibility clause excuse late or non-performance, and can the other side draft around it?",
+    "rule": "Yes, within limits the statute itself sets -- and only ONE of Montana's two statutory excuse grounds can be contracted around. Montana codifies contract-excuse doctrine directly in Title 28. The first ground is unwaivable: performance is excused “when such performance or offer is prevented or delayed by the act of the creditor or by the operation of law, even though there may have been a stipulation that this shall not be an excuse” (§ 28-1-1301(1), MCA). Bottrell v. American Bank confirms it operates exactly as written: “performance is excused by one party when it is prevented or delayed by the act of the creditor,” and Sherwood & Roberts, Inc. v. First Security Bank applied it to excuse a borrower's nonperformance that was caused by the lender's own unjustified refusal to disburse loan funds. The second ground is different in kind: performance is excused “when it is prevented or delayed by an irresistible, superhuman cause or by the act of public enemies of this state or of the United States, unless the parties have expressly agreed to the contrary” (§ 28-1-1301(2), MCA) -- the classic Act-of-God ground, and the one subsection the parties may narrow or waive by an express contrary agreement.",
+    "trap": "The two grounds are not interchangeable, and a clause that is silent on which one it is aimed at is a real risk. A no-excuse or liquidated-timeline clause drafted broadly enough to reach subsection (2) can validly cut off the Act-of-God excuse -- that is what “expressly agreed to the contrary” contemplates. It CANNOT touch subsection (1): no drafting reaches a delay caused by the other party's OWN act or by a change in the law, because the statute excuses that “even though there may have been a stipulation that this shall not be an excuse.” Whether a force-majeure clause's exhaustive list of qualifying events (“only the following shall excuse performance”) is itself the statute's “express[]…contrary” agreement is not answered by any Montana authority read for this rule -- the statute requires only that the parties agree expressly to the contrary, and no opinion in the corpus construes what counts as doing so.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-1-1301",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_1_1301",
+            "quote": "when such performance or offer is prevented or delayed by the act of the creditor or by the operation of law, even though there may have been a stipulation that this shall not be an excuse;",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-1-1301",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_1_1301",
+            "quote": "when it is prevented or delayed by an irresistible, superhuman cause or by the act of public enemies of this state or of the United States, unless the parties have expressly agreed to the contrary; or",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "773 P.2d 694",
+        "name": "Bottrell v. American Bank",
+        "court": "Mont.",
+        "decided": "1989",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "d033447ceda98587",
+            "cl_opinion_id": "880498",
+            "quote": "Under S 28-1-1301 (1), MCA, performance is excused\nby one party when it is prevented or delayed by the act of\nthe creditor.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "682 P.2d 149",
+        "name": "Sherwood & Roberts, Inc. v. First Security Bank",
+        "court": "Mont.",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "7995363311568998",
+            "cl_opinion_id": "878533",
+            "quote": "An\nunjustified refusal by Sherwood to disburse loan monies which\ncaused nonperformance by Prospect would excuse nonperformance\nunder section 28-1-1301, MCA.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "CORPUS CHECK, mt shard: 44,609 statute rows under two codes (Montana Code Annotated 44,440; Constitution of the State of Montana 169), 0 duplicate section numbers, 0 rows matching r'\\[Effective', and every numbered MCA row's own text opens with the same section number as its `section` field (44,440/44,440 agree, independently checked by regex against the row text, not the publisher's metadata). Title 28 (Contracts) holds 295 sections; Title 30 (UCC) holds 1,632 -- both confirmed by grouping all 44,609 rows on the leading digits of `section`. A DISTINCTIVE FINDING, stated as a textual observation only (no historical source read to confirm it): § 28-1-1301(1)-(2) is a near word-for-word match for California Civil Code § 1511(1)-(2), which is consistent with Montana's 1895 Civil Code having been adapted from the Field/California Code -- the same lineage this corpus separately shows for §§ 28-2-703/704/705 (California §§ 16600-16602) and § 28-2-721 (California § 1671). This is offered as a drafting-context observation, not as authority for any rule stated here. HONEST NEGATIVE: § 28-1-407 (“When prior performance of conditions excused”) was read and is a related but different doctrine -- it dispenses with a party's own tender once the other side repudiates -- and is not cited here because it does not speak to force-majeure/impossibility. LATER TREATMENT, word-boundary scan of docketx/us-caselaw-mt for overrul/disapprov/abrogat/supersed/reced\\w*/abandon/repudiat/\"decline to follow\"/\"called into question\"/\"limited to its facts\", read on every flagged window: Bottrell (773 P.2d 694), 36 later mentions, 0 flagged. Sherwood & Roberts (682 P.2d 149), 2 later mentions, 1 flagged window -- Western Industries, Inc. v. Chicago Mining Corp. (1996) RECOGNIZES and applies Sherwood's holding on guaranty conditions precedent; not negative."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "indemnity",
+    "rule_id": "mt-indemnity-code-chapter-plus-construction-carveouts",
+    "question": "Will Montana enforce this indemnity clause, and what does it require the indemnitor to do?",
+    "rule": "Yes, subject to a general-code chapter that supplies default rules and two construction-specific limits. Montana codifies indemnity as its own contract type: “Indemnity is a contract by which one engages to save another from a legal consequence of the conduct of one of the parties or of some other person” (§ 28-11-301, MCA), applied as written in City of Dillon v. Montana Municipal Insurance Authority (“As defined by § 28-11-301, MCA, an indemnity contract is one ‘by which one engages to save another from a legal consequence of the conduct of one of the parties or of some other person.’”). Unless the contract itself provides otherwise, Montana's code chapter fills in the indemnitor's duties by default -- most importantly a duty to DEFEND: City of Dillon held that under § 28-11-316, “‘[t]he person indemnifying [here MMIA] is bound, on request of the person indemnified [Dillon], to defend actions or proceedings brought against [Dillon] in respect to the matters embraced by the indemnity…,’” and that once a “potential loss” existed, the statutory duty to defend was triggered and breached when the indemnitor twice refused to defend. Timing matters to validity: an agreement to indemnify against an act NOT YET DONE is void if that act is known to the indemnitor, at the time of doing it, to be unlawful (§ 28-11-302); an agreement to indemnify against an act ALREADY DONE is valid even if known to be wrongful, unless it was a felony (§ 28-11-303). And for construction contracts specifically, § 28-2-2111 is a dedicated indemnification-provisions section layered on top of the general chapter -- read it alongside §§ 28-11-301 through 317 for any construction indemnity.",
+    "trap": "The Montana code's default interpretive rules for indemnity contracts (§§ 28-11-314 through 317, incorporated by § 28-11-313 “unless a contrary intention appears”) can be displaced by your drafting -- but the duty-to-defend default in § 28-11-316 is a real, litigated obligation, not boilerplate: City of Dillon shows an indemnitor can be held liable for the ENTIRE underlying judgment, including principal, interest, and the indemnitee's attorney fees, for simply refusing to defend on request. § 28-11-302's future-unlawful-act void rule turns on the indemnitor's OWN knowledge at the time the act is done, not the indemnitee's -- First Bank (N.A.) v. Transamerica Insurance read it narrowly, holding it does not bar liability insurance for compensatory damages even where the underlying conduct was malicious, fraudulent, or oppressive. For a construction contract § 28-2-2111 displaces the general chapter, and this rule used to point at it without saying what it does. It provides: “Except as provided in subsections (2) and (3), a construction contract provision that requires one party to the contract to indemnify, hold harmless, insure, or defend the other party to the contract or the other party's officers, employees, or agents for liability, damages, losses, or costs that are caused by the negligence, recklessness, or intentional misconduct of the other party or the other party's officers, employees, or agents is void as against the public policy of this state.” Subsection (2) then permits the clause the drafter usually wants — an indemnity, hold-harmless or insure obligation “only to the extent that the liability, damages, losses, or costs are caused by the negligence, recklessness, or intentional misconduct of a third party or of the indemnifying party or the indemnifying party's officers, employees, or agents” — and separately permits requiring a party to buy a project-specific policy such as owner's and contractor's protective, project management protective liability, or builder's risk insurance. Subsection (3) takes two relationships out altogether: “This section does not apply to indemnity of a surety by a principal on a construction contract bond or to an insurer's obligation to its insureds.” So in Montana a comparative-fault indemnity survives while an own-negligence one does not, and neither a surety bond nor an insurer's duty to its own insured is touched by the section. This rule still has not verified § 28-2-2111's text against §§ 28-11-301 through 317 for conflicts, and the notes record that as an open item.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-11-301",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_11_301",
+            "quote": "Indemnity is a contract by which one engages to save another from a legal consequence of the conduct of one of the parties or of some other person.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-11-302",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_11_302",
+            "quote": "An agreement to indemnify a person against an act thereafter to be done is void if the act be known by such person, at the time of doing it, to be unlawful.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-11-303",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_11_303",
+            "quote": "An agreement to indemnify a person against an act already done is valid, even though the act was known to be wrongful, unless it was a felony.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "220 P.3d 623",
+        "name": "City of Dillon v. Montana Municipal Insurance Authority",
+        "court": "Mont.",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "d99a9ad683a1a7dc",
+            "cl_opinion_id": "888755",
+            "quote": "is, undisputedly, an indemnity agreement. As defined by § 28-11-301, MCA, an indemnity contract is one “by which one engages to save another from a legal consequence of the conduct of one of the parties or of some other person.” Under § 28-11-316, MCA, “[t]he person indemnifying [here MMIA] is bound, on request of the person indemnified [Dillon], to defend actions or proceedings brought against [Dillon] in respect to the matters embraced by the indemnity . . . .”",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2111",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2111",
+            "quote": "A construction contract may contain a provision: (a) requiring one party to the contract to indemnify, hold harmless, or insure the other party to the contract or the other party's officers, employees, or agents for liability, damages, losses, or costs, including but not limited to reasonable attorney fees, only to the extent that the liability, damages, losses, or costs are caused by the negligence, recklessness, or intentional misconduct of a third party or of the indemnifying party or the indemnifying party's officers, employees, or agents",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-11-316",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_11_316",
+            "quote": "The person indemnifying is bound, on request of the person indemnified, to defend actions or proceedings brought against the person indemnified in respect to the matters embraced by the indemnity, but the person indemnified has the right to conduct defenses if the person indemnified chooses to do so.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2111",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2111",
+            "quote": "Except as provided in subsections (2) and (3), a construction contract provision that requires one party to the contract to indemnify, hold harmless, insure, or defend the other party to the contract or the other party's officers, employees, or agents for liability, damages, losses, or costs that are caused by the negligence, recklessness, or intentional misconduct of the other party or the other party's officers, employees, or agents is void as against the public policy of this state.",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2111",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2111",
+            "quote": "only to the extent that the liability, damages, losses, or costs are caused by the negligence, recklessness, or intentional misconduct of a third party or of the indemnifying party or the indemnifying party's officers, employees, or agents",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2111",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2111",
+            "quote": "This section does not apply to indemnity of a surety by a principal on a construction contract bond or to an insurer's obligation to its insureds.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§§ 28-11-301 through 28-11-317 read as a chapter (definitions and validity sections in full; §§ 28-11-304, 305, 312, 314-317 skimmed for scope, not independently quoted here). § 28-2-2111 (“Construction contract indemnification provisions”) was located and its title read, but its FULL TEXT was not pulled for this pass and no case citing it was found in the searches run -- recorded as an open item rather than guessed at; a fuller row should read it in full before this rule is served for construction contracts specifically. First Bank (N.A.) v. Transamerica Insurance (1984, row c630eb74f733edd4) was read for § 28-11-302 and is accurately summarized in the trap above but not added as a formal authority entry because its quote of the statute is the statute itself, not an independent holding-bearing sentence long enough to add real information beyond the statute text already quoted. HONEST NEGATIVE: no MT Supreme Court opinion in the searches run for this row addresses whether an indemnity clause covering the INDEMNITEE's OWN negligence is enforceable as a matter of general common law (the question several other states' indemnity rows in this store turn on) -- that specific search was not run for Montana and is not answered here. LATER TREATMENT: City of Dillon (220 P.3d 623), 0 later mentions in the shard, 0 flagged. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): §§ 28-2-2111 and 28-11-316 read (MT_28_2_2111, MT_28_11_316); blocks added. SCOPE AUDIT 2026-09-24: the rare-word sweep flagged this row on 'surety', 'insurer' and 'insureds', none of which appeared anywhere in it, and reading § 28-2-2111 showed the gap was wider than the flag: the row cited the section as the construction carve-out its own rule_id names and stated none of its content. Subsections (1), (2)(a) and (3) are now quoted with verified blocks from row MT_28_2_2111, and (2)(b) and the (4) definition were read in this pass; (4)'s definition of 'construction contract' is described nowhere here and remains unstated."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "lien-waiver",
+    "rule_id": "mt-advance-lien-or-bond-waiver-void-unpaid-work",
+    "question": "Can we require a contractor, subcontractor, or material supplier to waive construction-lien or payment-bond rights before they are paid?",
+    "rule": "No. § 28-2-723, MCA is a flat, unqualified void rule: “A construction contract may not contain provisions requiring a contractor, subcontractor, or material supplier to waive the right to a construction lien or a right to a claim against a payment bond before the contractor, subcontractor, or material supplier has been paid for the labor, materials, or both labor and materials, furnished.” The statute names the trigger for validity as PAYMENT, not contract signing or project completion -- an advance waiver required as a condition of getting the job, before the work it covers is paid for, is exactly what the section prohibits. This sits alongside Montana's construction-lien chapter, which separately requires a lien claimant to give timely NOTICE of the right to claim a lien -- generally within 20 days of first furnishing services or materials, or 45 days where a regulated lender is disbursing the project's funds -- as a precondition to claiming the lien at all (§ 71-3-531).",
+    "trap": "§ 28-2-723 was read in full and, unlike New Jersey's comparable lien-waiver statute, it names no partial exception for a waiver given specifically “for work to be provided” and no separate provision conditioning effectiveness on actual receipt of payment -- Montana's rule is written as an outright bar on the REQUIREMENT to waive before payment, not a conditional-effectiveness rule. But that reading has not been tested in a Montana appellate opinion: 0 opinions in our published Montana opinions cite § 28-2-723, so no case confirms how a Montana court would treat a waiver signed before payment but expressed to take effect only once payment clears, or what remedy follows a violation (voidness of the waiver clause alone, unenforceability of the whole contract, or something else). Do not assume this section reaches every construction-adjacent waiver -- it is worded around “construction contract” provisions specifically, and this rule did not independently verify its interaction with § 71-3-531's separate lien-rights NOTICE requirement, which has its own, unrelated exceptions (original contractors dealing directly with the owner, wage earners, and large or commercial projects are excused from giving that notice at all).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-723",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_723",
+            "quote": "A construction contract may not contain provisions requiring a contractor, subcontractor, or material supplier to waive the right to a construction lien or a right to a claim against a payment bond before the contractor, subcontractor, or material supplier has been paid for the labor, materials, or both labor and materials, furnished by the contractor, subcontractor, or material supplier.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 71-3-531",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_71_3_531",
+            "quote": "the notice may not be given later than 20 days after the date on which the services or materials are first furnished to the contracting owner. If notice is not given within this period, a lien is enforceable only for the services or materials furnished within the 20-day period before the date on which notice is given.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 28-2-723 read in full (it is one sentence). § 71-3-531 read in full (all 8 subsections). HONEST NEGATIVE, STATED PLAINLY: a targeted case search (`cg.py mt \"28-2-723\"`) returned 0 opinions in docketx/us-caselaw-mt (64,117 opinions total) citing this section -- it appears never to have been construed by a Montana appellate court in this corpus. The rule above is therefore read directly from the statute's own words, with no case law to confirm how courts apply it, and this row says so rather than inventing a holding. A companion search for “lien waiver” as title text across all 44,609 Montana statute rows returned 0 hits, confirming § 28-2-723 (found instead by searching for “Construction contracts requiring lien or bond waiver void” and by the “lien” full-text sweep) is the only Montana statute using that exact framing. No later-treatment scan was run since there is no case authority to scan for."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "limitation-of-liability",
+    "rule_id": "mt-cap-on-ordinary-negligence-ok-void-for-fraud-willful-injury-or-law-violation",
+    "question": "Will Montana enforce this clause capping or excluding our liability to the other party?",
+    "rule": "Generally yes for ordinary negligence, but never for the three things the statute names. § 28-2-702, MCA declares “against the policy of the law” -- the statute's own words; it does not say void, and the unenforceability consequence is the courts' (Zirkelbach, below) -- “all contracts that have for their object, directly or indirectly, to exempt anyone from responsibility for the person's own fraud, for willful injury to the person or property of another, or for violation of law, whether willful or negligent” -- subject to a single named exception at § 27-1-753 (not independently verified in full for this rule). Montana courts enforce this exactly as written: Zirkelbach Construction, Inc. v. DOWL, LLC states flatly, “Contract terms that violate § 28-2-702, MCA, are unenforceable,” citing Miller v. Fallon Cnty. as the case that “first interpreted § 28-2-702, MCA.” Read together with § 28-2-701, MCA (a contract provision is unlawful if “(1) contrary to an express provision of law; (2) contrary to the policy of express law, though not expressly prohibited; or (3) otherwise contrary to good morals”), the statute's own text draws the line at the THREE named categories -- fraud, willful injury, and violation of law (willful or negligent) -- not at negligence generally. A cap or exclusion aimed at ORDINARY negligence liability, outside those three categories, is not what § 28-2-702 reaches on its face.",
+    "trap": "“Violation of law, whether willful or negligent” is the trap inside the trap: read literally, it reaches an exemption from responsibility for ANY legal violation caused merely negligently, not just intentional wrongdoing -- a much broader reach than a simple “no waiver of gross negligence” rule of thumb would suggest, and this rule did not locate a Montana case narrowing that phrase. Indemnity clauses get swept in too: Langemo v. Montana Rail Link and Safeco Insurance Co. of America v. Liss both confirm § 28-2-702 can preclude indemnification for a party's OWN negligence in an indemnity agreement, not just a direct liability-release clause -- so this statute interacts with, and can override, an indemnity provision analyzed under this store's separate indemnity row. Do not assume a dollar CAP survives just because it stops short of a full exclusion -- § 28-2-702 is written around exempting a party “from responsibility,” and no authority read for this rule establishes whether a partial cap (as opposed to a full exemption) gets different treatment for fraud, willful injury, or law-violation claims specifically.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-702",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_702",
+            "quote": "Except as provided in 27-1-753 , all contracts that have for their object, directly or indirectly, to exempt anyone from responsibility for the person's own fraud, for willful injury to the person or property of another, or for violation of law, whether willful or negligent, are against the policy of the law.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "402 P.3d 1244",
+        "name": "Zirkelbach Construction, Inc. v. DOWL, LLC",
+        "court": "Mont.",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "0880641ade33fbbc",
+            "cl_opinion_id": "4206426",
+            "quote": "Contract terms that violate § 28-2-702, MCA, are unenforceable. Miller v. Fallon Cnty., 222 Mont. 214, 222, 721 P.2d 342, 347 (1986). Section 28-2-702, MCA, provides: All contracts that have for their object, directly or indirectly, to exempt anyone from responsibility for the person’s own fraud, for willful injury to the person or property of another, or for violation of law, whether willful or negligent, are against the policy of the law.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-701",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_701",
+            "quote": "That is not lawful which is: (1) contrary to an express provision of law; (2) contrary to the policy of express law, though not expressly prohibited; or (3) otherwise contrary to good morals.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 28-2-702 read in full (it is one sentence); § 28-2-701 read for context. Zirkelbach's OWN disposition on whether § 5(D)'s limitation-of-liability clause actually violated § 28-2-702 was not fully resolved in the window read for this pass -- the quote above is cited for its accurate statement of the governing rule and its citation of Miller v. Fallon Cnty. as the originating case, not for a holding about this specific clause; Miller itself (222 Mont. 214, 721 P.2d 342 (1986)) was not independently pulled and verified for this row -- a fuller pass should read Miller directly rather than relying on Zirkelbach's citation of it. Fish on a Feather v. Bell (2003) and Langemo v. Montana Rail Link (2001) were both read and apply § 28-2-702 to indemnity and release provisions; Safeco Insurance Co. of America v. Liss (2000) was read and confirms the same interaction with indemnification for one's own negligence. HONEST NEGATIVE: no case read for this row squarely holds that a clause capping (rather than fully excluding) liability for ordinary negligence is enforceable -- the rule above is inferred from § 28-2-702's own three-category text, not from a Montana holding that says so in as many words. No later-treatment scan was run for Zirkelbach (402 P.3d 1244) for this pass; a fuller row should add it. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): § 28-2-701 was quoted with no block; added. FORCE-WORD SWEEP 2026-09-22 (every force word -- void, only, must, cannot, regardless, unenforceable, absolute, automatically -- in a statute-attributed sentence checked against the cited section's own text): OVERSTATED (L): the rule said § 28-2-702 “makes VOID” the listed contracts; the section's text (MT_28_2_702, 404 chars, read in full) says they “are against the policy of the law” and never uses the word void -- unenforceability is the Zirkelbach/Miller gloss the rule already quotes. Reworded to the statute's own words; the trap's “it voids an exemption” likewise changed to “it reaches an exemption”. FORCE-WORD SWEEP 2026-09-22 (every force word -- void, only, must, cannot, regardless, unenforceable, absolute, automatically -- in a statute-attributed sentence checked against the cited section's own text): (see the rule note above.)"
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "limitation-of-remedy",
+    "rule_id": "mt-2-719-exclusive-remedy-ok-until-essential-purpose-fails-consequential-caps-limited",
+    "question": "Will this clause limiting our remedy to repair-or-replace (or otherwise capping remedies) hold up under Montana's UCC?",
+    "rule": "Yes, for a sale of goods, on three conditions the statute itself states. § 30-2-719(1), MCA lets the agreement “provide for remedies in addition to or in substitution for those provided in this chapter and … limit or alter the measure of damages recoverable…, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts,” and resort to that remedy is optional “unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.” Two limits then apply regardless of drafting: FIRST, “Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this code” (§ 30-2-719(2)) -- so a repair-or-replace clause that cannot actually make the buyer whole (the seller can't or won't fix the defect) stops being the sole remedy and the buyer regains the UCC's ordinary remedies. SECOND, consequential damages may be limited or excluded “unless the limitation or exclusion is unconscionable,” and “limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not” (§ 30-2-719(3)) -- a consumer personal-injury consequential-damages exclusion starts out presumptively bad; a commercial-loss exclusion starts out presumptively fine.",
+    "trap": "Do not assume a court will treat your “exclusive remedy” clause as exclusive by default -- § 30-2-719(1)(b) requires the exclusivity be EXPRESSLY agreed; silence makes the stated remedy merely optional, additional to the Code's ordinary remedies, not a cap on them. Beneficial Commercial Corp. v. Cottrell shows the consequence of not invoking the statute at all: the court noted the parties “could have further limited or modified the remedies available to either party upon breach (see section 30-2-719, MCA…), they did not do so” -- and so full UCC remedies applied. § 30-2-719(2)'s “fail of its essential purpose” doctrine is a real, unwaivable escape hatch for the buyer -- Kopischke v. First Continental Corp. connects it directly to § 30-2-719(3)'s unconscionability standard for consequential-damage limitations, treating the two subsections as working together rather than independently. No Montana appellate case read for this rule squarely applies § 30-2-719(2)'s “fail of its essential purpose” test to a specific set of facts -- this corpus shows the doctrine exists and is cited, not how Montana courts have actually drawn the line on when a limited remedy has “failed.”",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-719",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_719",
+            "quote": "resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-719",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_719",
+            "quote": "Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this code.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-719",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_719",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "688 P.2d 1254",
+        "name": "Beneficial Commercial Corp. v. Cottrell",
+        "court": "Mont.",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "6c8f1914dcbd1dcd",
+            "cl_opinion_id": "878379",
+            "quote": "Although the parties could have further limited or modified the remedies available t.o either party upon breach (see section 30-2-719, MCA, and 2-719, UCC), they did not do so.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "610 P.2d 668",
+        "name": "Kopischke v. First Continental Corp.",
+        "court": "Mont.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "3cbad58723f34330",
+            "cl_opinion_id": "9507261",
+            "quote": "This is especially the case in light of the legislature’s passage of section 30-2-719(3), MCA, which provides: “(3) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 30-2-719 read in full. HONEST NEGATIVE: a targeted search (`cg.py mt \"30-2-719\"`) returned only 3 opinions in docketx/us-caselaw-mt citing this section, and none squarely applies the § 30-2-719(2) “fail of its essential purpose” doctrine to a concrete repair-or-replace dispute -- this is a genuinely thin area of Montana litigation in the corpus. § 30-2-718 (liquidated/limited damages for sale of goods, cross-referenced by § 30-2-719(1)'s opening clause) was not independently read for this pass. LATER TREATMENT: Kopischke (610 P.2d 668), 23 later mentions, 0 flagged (already scanned for the warranty-disclaimer row above; same result applies here since it is the same case)."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "limitations-period",
+    "rule_id": "mt-written-contract-period-currency-conflict-oral-5yr-ucc-4yr",
+    "question": "How long do we have to sue on this contract in Montana, and can we shorten that period by agreement?",
+    "rule": "It depends on the type of contract, and there is a live currency conflict on the written-contract figure that this rule flags rather than resolves. For an ordinary WRITTEN contract, § 27-2-202(1), MCA, as published in this corpus, reads: “The period prescribed for the commencement of an action on any contract, covenant, obligation, or liability founded on an instrument in writing is within 6 years.” For an ORAL contract, § 27-2-202(2) sets 5 years, confirmed in Mogan v. Cargill, Inc.: “The period prescribed for the commencement of an action upon a contract, account, or promise not founded on an instrument in writing is within 5 years.” For a contract for the SALE OF GOODS, the UCC period controls instead and is shorter: “An action for breach of any contract for sale must be commenced within 4 years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than 1 year but may not extend it” (§ 30-2-725(1), MCA) -- so parties CAN shorten (never lengthen) the sale-of- goods period by agreement, down to a 1-year floor. Bennett v. Dow Chemical Co. names the three periods side by side -- but in the appellant's argument as the Court recited it (\"Appellant then contends that one of the longer contract statute of limitations, §§ 27-2-202(2), 27-2-202(1), or 30-2-725, MCA, instead of the tort statute of limitations should apply\"), and the Court rejected it: \"We therefore affirm the District Court's conclusion that appellant's breach of warranty claims are barred by the three-year tort statute of limitations.\" Bennett is authority that a warranty claim sounding in tort gets the tort period, not that § 30-2-725 displaces the general contract periods.",
+    "trap": "STOP AND FLAG BEFORE RELYING ON THE 6-YEAR FIGURE: a Montana Supreme Court opinion decided 2025-07-29, Sloway Cabin v. Extreme, quotes the SAME subsection differently: “‘The period prescribed for the commencement of an action on any contract, covenant, obligation, or liability founded on an instrument in writing is within 8 years.’ Section 27-2-202(1), MCA.” That is not a paraphrase -- it is the identical sentence structure with a different number. This rule cannot tell you which figure currently governs: either this corpus's statute snapshot is stale relative to a legislative amendment that changed 8 years to 6 (or vice versa), or Sloway Cabin's quotation reflects the version of § 27-2-202(1) that was in force when that case's cause of action accrued rather than the version in force when the opinion issued, or one of the two sources contains an error. NO FABRICATION: this rule does not guess which is right. Before advising a client on a written-contract deadline anywhere near either boundary, confirm the currently effective text of § 27-2-202(1) directly with the Montana Code Annotated (the statute carries no amendment or effective-date markers in this corpus to resolve it from the text alone -- confirmed 0 rows in the mt shard match r'\\[Effective', so this is not a same-corpus effective-date-bracket case like Illinois's 2027 figure). Separately, § 30-2-725(2) starts the clock at TENDER OF DELIVERY for a warranty breach regardless of when the buyer actually discovers the problem, “except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered.”",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 27-2-202",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_27_2_202",
+            "quote": "The period prescribed for the commencement of an action on any contract, covenant, obligation, or liability founded on an instrument in writing is within 6 years.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 27-2-202",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_27_2_202",
+            "quote": "The period prescribed for the commencement of an action on a contract, account, or promise not founded on an instrument in writing is within 5 years.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-725",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_725",
+            "quote": "An action for breach of any contract for sale must be commenced within 4 years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than 1 year but may not extend it.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "2025 MT 161",
+        "name": "Sloway Cabin v. Extreme",
+        "court": "Mont.",
+        "decided": "2025",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "c6d742e6a4d7aaa5",
+            "cl_opinion_id": "11112053",
+            "quote": "“The period prescribed for the commencement of an action on any contract, covenant, obligation, or liability founded on an instrument in writing is within 8 years.” Section 27-2-202(1), MCA.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "856 P.2d 973",
+        "name": "Mogan v. Cargill, Inc.",
+        "court": "Mont.",
+        "decided": "1993",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "a1afaefb91d57831",
+            "cl_opinion_id": "882860",
+            "quote": "statute of limitations in contracts for sale. (1) An action for breach of any contract for sale must be commenced within 4 years after the cause of action has accrued. . . . Section 30-2-725(1), MCA.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 85-183 (Mont. Feb. 6, 1986)",
+        "name": "Bennett v. Dow Chemical Co.",
+        "court": "Mont.",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "8ffea0102f50993f",
+            "cl_opinion_id": "879319",
+            "quote": "Appellant then contends that one of the longer contract statute of limitations, SS 27-2-202 (2), 27-2-202 (1), or 30-2-725, MCk, instead of the tort statute of limitations should apply to his brea.ch of warranty claims.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 85-183 (Mont. Feb. 6, 1986)",
+        "name": "Bennett v. Dow Chemical Co.",
+        "court": "Mont.",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "8ffea0102f50993f",
+            "cl_opinion_id": "879319",
+            "quote": "We therefore affirm the District Court's conclusion that appellant's breach of warranty claims are barred by the three-year tort statute of limitations.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 27-2-202 read in full and RE-CONFIRMED by a second, independent read directly against the index (not just the terminal capture) immediately before writing this row: the corpus's own text for MT_27_2_202(1) reads “…is within 6 years”, unambiguously. § 30-2-725 read in full. Sloway Cabin's own reporter cite did not resolve to a Pacific Reporter volume/page in the corpus's citation map at check time (cluster 10645466); “2025 MT 161” is the neutral cite only. This is the single most consequential finding in this Montana pass and is reported exactly as found, with no resolution invented: A DIRECT NUMERICAL CONFLICT between what this corpus's own statute shard publishes for § 27-2-202(1) (6 years) and what a Montana Supreme Court opinion decided the same year as this corpus's own snapshot quotes for the identical subsection (8 years). Neither figure is treated as authoritative over the other in the rule text above; the trap tells the reader to verify independently. Bennett v. Dow Chemical Co. (1986) and Iowa Manufacturing Co. v. Joy Manufacturing Co. (1983) were both read and confirm § 30-2-725's 4-year period governs sale-of-goods claims even where a longer general contract period might otherwise apply; Sorenson v. Massey-Ferguson, Inc. (1996) independently confirms the 4-year figure. Ayala v. Stafford (2021) and Missoula County v. DOC (2024) were read and both apply § 27-2-202 without quoting a specific number for subsection (1) in the windows captured, so they neither confirm nor conflict with either figure. LATER TREATMENT: not run for Sloway Cabin (decided 2025-07-29, effectively current at this 2026-09-20 check, too recent for a meaningful scan window). QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): the rule quoted Bennett as 'confirming' § 30-2-725 displaces the general periods; the quoted words are the appellant's contention as the Court recited it, and the Court affirmed the three-year tort period instead. Bennett was not among the row's authorities (856 P.2d 973 is Mogan v. Cargill). Rewritten; Bennett added by docket with both sentences, the contention quoted as published (OCR artefacts). OVERSTATED (M): a party's argument as the court's holding."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "liquidated-damages",
+    "rule_id": "mt-void-unless-actual-damages-impracticable-to-fix",
+    "question": "Will a Montana court enforce this liquidated-damages clause?",
+    "rule": "Only if actual damages would have been impracticable or extremely difficult to fix when the contract was made -- otherwise it is void. Montana's default rule is voidness: “Every contract by which the amount of damage to be paid or other compensation to be made for a breach of an obligation is determined in anticipation thereof is to that extent void, except as expressly provided in subsection (2)” (§ 28-2-721(1), MCA). Subsection (2) is the only escape: the parties “may agree therein upon an amount which shall be presumed to be an amount of damage sustained by a breach thereof when, from the nature of the case, it would be impracticable or extremely difficult to fix the actual damage.” Arrowhead Sch. Dist. 75, Park Co. v. Klyap is the leading application: “the threshold indicator of reasonableness is whether the situation involves damages of a type that are impractical or extremely difficult to prove. When the parties to the contract will suffer difficult to prove damages, a court can assume there was a reasonable motive for adding a liquidated damages” clause. The clause still has to be a genuine PRE-ESTIMATE, not a number picked to punish breach: Ballou v. Walker affirmed a finding that a $1.00 buyout figure was “an unconscionable and void attempt to fix liquidated damages, in violation of § 28-2-721, MCA.”",
+    "trap": "The impracticability showing is not optional boilerplate -- it is the entire basis for enforcement, and a party resisting the clause gets to put on evidence that actual damages were NOT hard to calculate. Klyap arose in a school-district teacher-breach context and its impracticability analysis is fact-specific; nothing read here extends it into a bright-line rule about what dollar figures or percentages are per se reasonable. A number with no relationship to any estimate of actual harm -- Ballou's $1.00 -- fails even under a clause captioned “liquidated damages.” Note also that § 28-2-722, an adjoining section on liquidated-damages carve-outs, is REPEALED in this corpus; nothing in it can be relied on.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-721",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_721",
+            "quote": "Every contract by which the amount of damage to be paid or other compensation to be made for a breach of an obligation is determined in anticipation thereof is to that extent void, except as expressly provided in subsection (2).",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-721",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_721",
+            "quote": "The parties to a contract may agree therein upon an amount which shall be presumed to be an amount of damage sustained by a breach thereof when, from the nature of the case, it would be impracticable or extremely difficult to fix the actual damage.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "79 P.3d 250",
+        "name": "Arrowhead Sch. Dist. 75, Park Co. v. Klyap",
+        "court": "Mont.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "35966eee00b925cc",
+            "cl_opinion_id": "886354",
+            "quote": "the\n\nthreshold indicator of reasonableness is whether the situation involves damages of a type that\n\nare impractical or extremely difficult to prove. When the parties to the contract will suffer\n\ndifficult to prove damages, a court can assume there was a reasonable motive for adding a\n\nliquidated dama",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "400 P.3d 234",
+        "name": "Ballou v. Walker",
+        "court": "Mont.",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "0dc3d1a7cc295800",
+            "cl_opinion_id": "4196096",
+            "quote": "Ballou’s tender of $1.00 for Walker’s interest, and the Agreement’s provision\n\nupon which it was based, was an unconscionable and void attempt to fix liquidated\n\ndamages, in violation of § 28-2-721, MCA.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 28-2-721 read in full; § 28-2-722, the next section, is a bare “Repealed” stub -- confirmed by title text, not relied on for anything. Klyap's full analysis (2003 MT 294) discusses the Restatement (Second) of Contracts § 356 and Williston as persuasive authority alongside the statute; both are named in the opinion but not independently verified here since the rule rests on the statute and the Montana holding, not the treatises. Klyap itself states it overrules Story v. City of Bozeman, 242 Mont. 436, 791 P.2d 767 (1990), “in part on other grounds” -- read in the later-treatment scan below, and confirmed the overruled portion of Story concerns the tortious-breach/covenant-of-good-faith line of cases, not the liquidated-damages holding used here. Summers v. Crestview Apartments (2010) was read and applies § 28-2-721 to an accelerated-rent clause; not cited above to keep the row to its clearest authorities. LATER TREATMENT: Klyap (79 P.3d 250), 39 later mentions, 13 flagged windows -- all read; every one is either (a) a concurrence/dissent by Gray, C.J. arguing for overruling an UNRELATED line of cases (equal-protection standards of review), or (b) later opinions noting that Klyap itself “overruled in part on other grounds” Story v. Bozeman's covenant-of-good-faith holding -- none touches the liquidated-damages holding relied on here. Ballou (400 P.3d 234), 3 later mentions, 0 flagged."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "non-competition",
+    "rule_id": "mt-void-unless-goodwill-partnership-or-judicial-partial-restraint",
+    "question": "Will a Montana court enforce this non-competition / non-solicitation covenant?",
+    "rule": "Generally no, unless it fits one of three escape routes -- two statutory, one judge-made. The default is voidness: “Any contract by which anyone is restrained from exercising a lawful profession, trade, or business of any kind, otherwise than is provided for by 28-2-704 or 28-2-705, is to that extent void” (§ 28-2-703, MCA). The two named statutory exceptions are narrow: a seller of a business's GOODWILL may covenant not to compete in the city, the county, an adjacent county's city, or an adjacent county where the business's principal office sits, for as long as the buyer (or its successor in title) carries on a like business there (§ 28-2-704); and on DISSOLUTION OF A PARTNERSHIP the partners may agree that one or more of them will not compete within that same geography (§ 28-2-705). Outside those two fact patterns -- which covers most employment non-competes -- the Montana Supreme Court has carved out a third, judge-made route: a covenant that is only a PARTIAL restraint (not a bar on the whole trade or profession) escapes § 28-2-703 entirely if it satisfies a three-part reasonableness test. Dobbins, DeGuire & Tucker, P.C. v. Rutherford, MacDonald & Olson states it: “(1) the covenant should be limited in operation either as to time or place; (2) the covenant should be based on some good consideration; and (3) the covenant should afford a reasonable protection for and not impose an unreasonable burden upon the employer, the employee or the public,” a test that “requires a balancing of the competing interests of the public as well as the employer and employee,” on which basis the Court held the accounting-firm covenant before it “do[es] not constitute a restraint prohibited by Section 28-2-703, MCA.” Montana courts apply this same three-part test to ordinary employee non-competes: Wrigg v. Junkermier and Access Organics, Inc. v. Hernandez both treat a partial restraint as reviewed for reasonableness under the Dobbins factors, not automatically void under § 28-2-703.",
+    "trap": "Two traps run in opposite directions. First: do not assume an employee non-compete is void just because it is not a goodwill sale or partnership dissolution -- Montana's courts read § 28-2-703 as reaching only a COMPLETE restraint, so a partial, reasonable-in-time-and-place covenant can be upheld under Dobbins even though it fits neither § 28-2-704 nor § 28-2-705 on its face; Wrigg, Access Organics, and Mungas v. Great Falls Clinic all enforce or analyze employment and partnership-payout covenants this way. Second, and cutting the other way: do not assume the Dobbins test rescues a FULL restraint -- a covenant that bars the whole profession or business, not merely a partial slice of it, gets no benefit of the judicial carve-out and is void under § 28-2-703 unless it is one of the two named statutory exceptions. Separately, an employee covenant not to compete extending beyond one year must also satisfy Montana's statute of frauds (§ 28-2-903(1)(a), MCA, agreements not to be performed within a year) -- get it in writing.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-703",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_703",
+            "quote": "Any contract by which anyone is restrained from exercising a lawful profession, trade, or business of any kind, otherwise than is provided for by 28-2-704 or 28-2-705 , is to that extent void.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-704",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_704",
+            "quote": "A person who sells the goodwill of a business may agree with the buyer to refrain from carrying on a similar business within the areas provided in subsection (2) so long as the buyer or any person deriving title to the goodwill from the buyer carries on a like business in the described areas.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-705",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_705",
+            "quote": "Partners may, upon dissolution of the partnership, agree that one or more of them may not carry on a similar business within the areas provided in 28-2-704 (2).",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "708 P.2d 577",
+        "name": "Dobbins, DeGuire & Tucker, P.C. v. Rutherford, MacDonald & Olson",
+        "court": "Mont.",
+        "decided": "1985",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "fc657bad696da8fb",
+            "cl_opinion_id": "1183224",
+            "quote": "a covenant is a reasonable restraint on the profession of public accounting: “(1) the covenant should be limited in operation either as to time or place; (2) the covenant should be based on some good consideration; and (3) the covenant should afford a reasonable protection for and not impose an unreasonable burden upon the employer, the employee or the public.” This test requires a balancing of the competing interests of the public as well as the employer and employee. We hold that the written contract provisions do not constitute a restraint prohibited by Section 28-2-703, MCA.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "265 P.3d 646",
+        "name": "Wrigg v. Junkermier, Clark, Campanella, Stevens, P.C.",
+        "court": "Mont.",
+        "decided": "2011",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "bbb178ecda61be1a",
+            "cl_opinion_id": "889623",
+            "quote": "Wrigg agrees that the JCCS covenant imposes a partial restraint on trade. We review for reasonableness covenants that impose a partial restraint on trade.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-903",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_903",
+            "quote": "The following agreements are invalid unless the agreement or some note or memorandum of the agreement is in writing and subscribed by the party to be charged or the party's agent: (a) an agreement that by its terms is not to be performed within a year from the making of the agreement;",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "Statutes read in full (§§ 28-2-703 through 28-2-707; (2-706) reaches restraints of MARRIAGE, a different doctrine, set aside). Dobbins, Wrigg, and Access Organics read in the surrounding paragraphs, not just the quoted sentences -- Access Organics (2008 MT 4) states the same three-part test and Mungas v. Great Falls Clinic (2009 MT 426) applies § 28-2-703 and the § 28-2-705 dissolution exception to a physician partnership buyout, holding the exception inapplicable because the partnership had not in fact dissolved -- read but not cited above because its holding is about the exception's scope, not the general rule; a fuller row would add it. HONEST NEGATIVE ON A NONCITABLE OPINION: Ins v. Lutheran Retirement Home (2003 MT 272N) states the same “writing, explicit and reasonable in time and place” formulation, but its own CourtListener citation record carries only the memorandum-opinion designator “2003 MT 272N” and no Pacific Reporter citation -- consistent with Montana's internal operating rules for noncitable memorandum opinions -- so it is deliberately NOT used as authority here. LATER TREATMENT: Dobbins (708 P.2d 577), 11 later mentions, 0 flagged. Wrigg (265 P.3d 646), 4 later mentions, 0 flagged. Access Organics (175 P.3d 899), 6 later mentions, 0 flagged. Mungas (221 P.3d 1230), 31 later mentions, 0 flagged. NUMBER SWEEP 2026-09-22 (every money, percentage, time-period and date figure in a statute-attributed sentence checked against the cited section's text): the trap's one-year statute-of-frauds point is attributed to § 28-2-903(1)(a), which the row did not cite; section read (MT_28_2_903) and (1)(a) says exactly that; block added."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "prompt-payment",
+    "rule_id": "mt-prompt-pay-act-timelines-5pct-retainage-cap-void-no-suspension-clauses",
+    "question": "Does Montana's Prompt Pay Act override this construction contract's payment, retainage, or no-suspension terms?",
+    "rule": "Yes, for a written construction contract to build or improve real property in Montana -- the Act supplies mandatory timelines and voids clauses that try to escape them. Under § 28-2-2103, an owner's approval of a contractor's payment request is DEEMED approved 21 days after receipt unless the owner timely disapproves specific items in writing, and an approved amount must be paid within 7 days of approval; a contractor must then pay its subcontractor the full amount due within 7 days of receiving payment from the owner (§ 28-2-2103(2)). Retainage is capped: “The maximum retainage applied to construction contracts subject to the provisions of this part may not exceed 5%” (§ 28-2-2110(1)), and a general contractor cannot withhold more from a subcontractor than the owner withheld from the general contractor. A contractor or subcontractor who is not paid may SUSPEND performance, and a contract clause saying otherwise is void: § 28-2-2116(2) makes it “against the public policy of this state” and “void and unenforceable” for a construction-contract provision to state “that a party to the contract may not suspend performance under the contract or terminate the contract if another party to the contract fails to make prompt payments under the contract as provided in 28-2-2103.” Jem Contracting, Inc. v. Morrison-Maierle, Inc. applied this directly: the contractor “asserts this provision is void under § 28-2-2116(2), MCA, which provides” the no-suspension-voiding text quoted above, in a dispute over whether a contract clause barred the contractor from stopping work pending approval of a change order.",
+    "trap": "Two separate void-clause rules live in this Part and are easy to conflate. § 28-2-2116(1) voids any Montana-construction-contract clause that picks ANOTHER STATE's law or requires dispute resolution to happen outside Montana -- so a choice-of-law or venue clause routing a Montana construction dispute to another state is unenforceable regardless of what the parties agreed (see this store's choice-of-law and venue-selection rows for the general, non-construction rule, which is different). § 28-2-2116(2) is the separate no-suspension voiding rule used above. Do not assume the Act reaches every real-property contract: its own definitions (§ 28-2-2101) limit “construction contract” to a WRITTEN agreement between an owner and a contractor to construct, improve, or provide construction management for an improvement to real property, and § 28-2-2107 takes out residential projects or improvements to real property intended for residential purposes with a total cost of less than $400,000. Suspension itself has its own procedural gate, § 28-2-2117: at least 7 calendar days' written notice before suspending or terminating, and a contractor may terminate only if the payment default is not cured within 30 days of suspension.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2110",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2110",
+            "quote": "The maximum retainage applied to construction contracts subject to the provisions of this part may not exceed 5%.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2116",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2116",
+            "quote": "A provision, covenant, clause, or understanding that is in, collateral to, or affects a construction contract and that states that a party to the contract may not suspend performance under the contract or terminate the contract if another party to the contract fails to make prompt payments under the contract as provided in 28-2-2103 is against the public policy of this state and is void and unenforceable.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2116",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2116",
+            "quote": "A provision, covenant, clause, or understanding that is in, collateral to, or affects a construction contract for a project in this state and that makes the contract subject to the laws of another state or that requires any litigation, arbitration, or other dispute resolution proceeding arising from a dispute pertaining to the contract to be conducted in another state is against the public policy of this state and is void and unenforceable.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "318 P.3d 678",
+        "name": "Jem Contracting, Inc. v. Morrison-Maierle, Inc.",
+        "court": "Mont.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "657b443fb2dff176",
+            "cl_opinion_id": "2651502",
+            "quote": "JEM asserts this provision is void under § 28-2-2116(2), MCA, which\n\nprovides:\n\n                                        6\n       A provision, covenant, clause, or understanding that is in, collateral to, or\n       affects a construction contract and that states that a party to the contract\n       may not suspend performance under the co",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2103",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2103",
+            "quote": "a contractor's request for payment is considered approved by the owner 21 days after receipt of the request by the owner or the person designated in the contract by the owner to receive the payment request unless, prior to that time, the owner provides the contractor with a written statement containing specific items in the request for payment that are being disapproved by the owner.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2103",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2103",
+            "quote": "the owner shall pay the contractor the approved amount within 7 days after the contractor's request for payment is approved.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2103",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2103",
+            "quote": "Within 7 days after a contractor receives a periodic or final payment from an owner or a state agency, the contractor shall pay the subcontractor, if any, the full amount due the subcontractor in accordance with the subcontract for work performed or materials provided in accordance with that subcontract.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2117",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2117",
+            "quote": "A contractor may suspend performance under a construction contract for failure by the owner to make timely payment of the amount approved pursuant to 28-2-2103 , and the contractor may terminate the construction contract if the payment obligations are not satisfied within 30 days of suspension.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2117",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2117",
+            "quote": "A contractor shall provide written notice to the owner at least 7 calendar days before the contractor's intended suspension of performance or contract termination unless a shorter notice period is prescribed in the construction contract.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2107",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2107",
+            "quote": "The provisions of this part do not apply to residential projects or improvements to real property intended for residential purposes with a total cost of less than $400,000.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2101",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2101",
+            "quote": "\"Construction contract\" means a written agreement between an owner and a contractor for the contractor to construct or improve or to provide construction management for the construction or improvement of an improvement to real property.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§§ 28-2-2101 through 28-2-2117 read in full as one chapter. Jem's quoted opinion text carries a mid-sentence page-number artifact (“6”) from the source PDF's pagination -- kept verbatim rather than silently edited, since the verifier matches whitespace-normalised text and the artifact is part of the row's actual text; the substance is unaffected. Jem's OWN holding on the merits (whether the specific change-order clause before it was in fact void) was not fully resolved in the window read for this pass -- the opinion is cited here only for its accurate quotation of § 28-2-2116(2)'s text and its confirmation that Montana litigants actually invoke this section in construction-suspension disputes, not for a holding about this specific clause's validity; a fuller row would read the full opinion and state the disposition. HONEST NEGATIVE: no case read for this row applies § 28-2-2116(1)'s choice-of-law/venue voiding rule -- 0 opinions in docketx/us-caselaw-mt were found citing § 28-2-2116 other than Jem, which addresses only subsection (2). LATER TREATMENT: Jem (318 P.3d 678), 0 later mentions in the shard, 0 flagged. NUMBER SWEEP 2026-09-22 (every money, percentage, time-period and date figure in a statute-attributed sentence checked against the cited section's text): the rule's 21-day deemed approval and 7-day payment terms are attributed to § 28-2-2103 and the trap's 7-calendar-day notice and 30-day cure to § 28-2-2117; neither section was cited. Both read in full (MT_28_2_2103, MT_28_2_2117): 21 days is (1)(b), 7 days after approval is (1)(f), 7 days to the subcontractor is (2)(a), 7 calendar days' notice is 2117(1)(b), 30 days of suspension is 2117(1)(a); blocks added. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): § 28-2-2107 read in full (MT_28_2_2107): the residential exception is a $400,000 total-cost threshold; the trap's 'did not independently verify' replaced with the section's rule and block added. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): § 28-2-2101(1) read (MT_28_2_2101); block added."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "statute-of-frauds",
+    "rule_id": "mt-writing-required-list-plus-triple-redundant-real-property-rule",
+    "question": "Does this contract need to be in writing to be enforceable in Montana?",
+    "rule": "Only if it falls on Montana's statutory list -- otherwise an oral contract is fully enforceable. § 28-2-901 states the default: “All contracts may be oral except such as are specially required by statute to be in writing.” The list that requires a writing, subscribed by the party to be charged or that party's agent, is in § 28-2-903(1), MCA: (a) an agreement not to be performed within a year of its making; (b) a promise to answer for another's debt, default or miscarriage (with an exception cross-referenced to § 28-11-105); (c) an agreement made in consideration of marriage other than a mutual promise to marry; (d) a lease longer than 1 year, or a sale, of real property or an interest in it; (e) an agreement employing an agent or broker to buy or sell real estate for compensation; and (f) an agreement relating to a college athlete's name, image, and likeness rights. Sale-of-goods contracts are carved OUT of this general statute entirely: § 28-2-903(4) says subsections (1) and (2) “do not apply to agreements subject to the Uniform Commercial Code,” which has its own writing requirement at § 30-2-201. For real property specifically, Montana states the SAME writing rule three separate times -- § 28-2-903(1)(d) in the general contracts title, § 30-11-111 in the licensing title, and § 70-20-101 in the property title -- and Montana's courts cite all three together: Wood v. Anderson holds “Under §§ 28-2-903(1)(d), 70-20-101, and 30-11-111, MCA, an agreement for the sale of real property is invalid under the statute of frauds unless the agreement, or some note or memorandum of the agreement, is in writing and subscribed by the party to be charged.”",
+    "trap": "The absence of a signed writing is not automatically fatal for real property. Montana recognizes PART PERFORMANCE as an escape: § 30-11-111 itself says the writing requirement “does not abridge the power of any court to compel the specific performance of any agreement for the sale of real property in case of part performance of the agreement,” and Wood v. Anderson affirmed enforcement of an oral real-estate agreement on exactly that basis, plus a further rule that the required “note or memorandum may consist of several writings…and need not be in any particular form, or contain the entire contract” as long as the material terms appear “even if such terms are stated generally.” Separately, § 28-2-902 lets a party who was defrauded into believing an oral deal was already reduced to writing enforce it anyway -- a distinct, narrower doctrine from part performance. And do not assume the statute of frauds is the only bar to extrinsic proof of a writing's terms: Montana's PAROL EVIDENCE rule, a separate statute, is described in this store's entire-agreement/integration row.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-901",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_901",
+            "quote": "All contracts may be oral except such as are specially required by statute to be in writing.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-903",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_903",
+            "quote": "an agreement for the leasing for a longer period than 1 year or for the sale of real property or of an interest in real property. The agreement, if made by an agent of the party sought to be charged, is invalid unless the authority of the agent is in writing and subscribed by the party sought to be charged.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-903",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_903",
+            "quote": "Subsections (1) and (2) do not apply to agreements subject to the Uniform Commercial Code.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-11-111",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_11_111",
+            "quote": "An agreement for the sale of real property or of any interest in real property is not valid unless the agreement, or some note or memorandum of the agreement, is in writing and subscribed by the party to be charged or the party's agent authorized in writing. However, this does not abridge the power of any court to compel the specific performance of any agreement for the sale of real property in case of part performance of the agreement.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "399 P.3d 304",
+        "name": "Wood v. Anderson",
+        "court": "Mont.",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "7c4a6dee11d7d2d8",
+            "cl_opinion_id": "4189390",
+            "quote": "Under §§ 28-2-903(1)(d), 70-20-101, and 30-11-111, MCA, an agreement for the sale of real property is invalid under the statute of frauds unless the agreement, or some note or memorandum of the agreement, is in writing and subscribed by the party to be charged.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "399 P.3d 304",
+        "name": "Wood v. Anderson",
+        "court": "Mont.",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "7c4a6dee11d7d2d8",
+            "cl_opinion_id": "4189390",
+            "quote": "We have held that the note or memorandum may consist of several writings, and that it need not be in any particular form, or contain the entire contract.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-902",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_902",
+            "quote": "Where a contract that is required by law to be in writing is prevented from being put into writing by the fraud of a party to the contract, any other party who is by the fraud led to believe that the contract is in writing and acts upon that belief to the party's prejudice may enforce it against the fraudulent party.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§§ 28-2-901 through 28-2-907 read in full as one chapter; § 70-20-101 and § 30-11-111 read in full. A DISTINCTIVE FINDING: Montana states the real-property writing requirement in three separate titles with near-identical but not identical wording (§ 28-2-903(1)(d) is folded into the general contracts list; § 30-11-111 is a standalone real-estate-licensing-title section that ALSO carries its own part-performance carve-out in the same sentence; § 70-20-101 is phrased around what may “be created, granted, assigned, surrendered, or declared” in an estate). Wood v. Anderson cites all three as one rule, and this row follows that reading rather than treating them as three independent doctrines. Helvik v. Tuscano (2025 MT 150) was also read (“the Statute of Frauds bars the introduction of extrinsic evidence of ‘an agreement . . . for the sale of real property or of an interest in real property.’ Section 28-2-903(1)(d), (2), MCA”) and confirms the same section still governs current litigation; not independently cited above to avoid duplicating Wood's holding. HONEST NEGATIVE: no authority read for this row establishes what counts as an “exhaustive” or sufficient memorandum beyond Wood's own general statement; that is a fact-bound inquiry the corpus does not reduce to a bright line. LATER TREATMENT: Wood (399 P.3d 304), 3 later mentions, 0 flagged. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): Wood's sentence was quoted with an ellipsis and no block; added whole. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): § 28-2-902 read in full (MT_28_2_902); block added."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "mt-mutsa-displaces-tort-duties-but-preserves-the-contract",
+    "question": "Does Montana's Uniform Trade Secrets Act limit or displace our confidentiality / trade-secret clause?",
+    "rule": "No -- the Act expressly preserves contract remedies even though it displaces the overlapping tort law. Montana has adopted the Uniform Trade Secrets Act (§§ 30-14-401 to 409, MCA, “MUTSA”), defining a “trade secret” as information or software that “derives independent economic value, actual or potential, from not being generally known to and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use” and “is the subject of efforts that are reasonable under the circumstances to maintain its secrecy” (§ 30-14-402(4)). “Misappropriation” covers both improper acquisition and unauthorized disclosure or use by someone who knew the information came from a breach of a duty of secrecy (§ 30-14-402(2)). MUTSA's displacement section is narrow and reader-friendly: “Except as provided in subsection (2), this part displaces conflicting tort, restitutionary, and other law of this state providing civil remedies for misappropriation of a trade secret” (§ 30-14-408(1)) -- BUT subsection (2) carves your contract right straight back out: “This part does not affect…(a) contractual remedies, whether or not based upon misappropriation of a trade secret.” Associated Mgmt. Servs., Inc. v. Ruff confirms Montana courts apply the statutory definitions as written, holding “MUTSA defines actionable ‘misappropriation’ of a trade secret as the ‘disclosure or use…of a trade secret of another without express or implied consent by a person who…used improper means to acquire knowledge of the trade secret.’”",
+    "trap": "Your confidentiality clause almost certainly covers MORE than “trade secrets” as MUTSA narrowly defines them -- the statute reaches only information with independent economic value from being secret AND subject to reasonable secrecy efforts. For information that does not meet that two-part test (a customer's identity alone, routine business terms, information that is or becomes public), MUTSA's displacement of overlapping tort law is irrelevant because the tort claim was never available in the first place -- and your contract's confidentiality obligation is exactly the tool that reaches that broader category, since § 30-14-408(2)(a) leaves contract remedies untouched regardless of whether the leaked information rises to a trade secret at all. MUTSA also preserves criminal remedies and other civil remedies not based on misappropriation (§ 30-14-408(2)(b)-(c)). Remember § 30-14-406's separate procedural protection: in any MUTSA action a court “shall preserve the secrecy of an alleged trade secret by reasonable means” -- protective orders, in-camera hearings, sealed records -- which matters for how you litigate a breach even where MUTSA does apply.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-402",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_402",
+            "quote": "\"Trade secret\" means information or computer software, including a formula, pattern, compilation, program, device, method, technique, or process, that:\n\n(a) derives independent economic value, actual or potential, from not being generally known to and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use; and\n\n(b) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-408",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_408",
+            "quote": "Except as provided in subsection (2), this part displaces conflicting tort, restitutionary, and other law of this state providing civil remedies for misappropriation of a trade secret.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-408",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_408",
+            "quote": "This part does not affect:\n\n(a) contractual remedies, whether or not based upon misappropriation of a trade secret;",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "424 P.3d 571",
+        "name": "Associated Mgmt. Servs., Inc. v. Ruff",
+        "court": "Mont.",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "5bb44e5b31e40f43",
+            "cl_opinion_id": "6534353",
+            "quote": "MUTSA defines actionable \"misappropriation\" of a trade secret as the \"disclosure or use ***166 of a trade secret of another without express or implied consent by a person who ... used improper means to acquire knowledge of the trade secret.\"",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-14-406",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_14_406",
+            "quote": "In an action under this part, a court shall preserve the secrecy of an alleged trade secret by reasonable means, which may include granting protective orders in connection with discovery proceedings, holding in-camera hearings, sealing the records of the action, and ordering any person involved in the litigation not to disclose an alleged trade secret without prior court approval.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§§ 30-14-401 through 409 read in full as one part. HONEST NEGATIVE: a targeted search (`cg.py mt \"30-14-408\"`) returned 0 opinions in docketx/us-caselaw-mt citing the displacement section directly -- no Montana appellate case in this corpus actually applies § 30-14-408(2)(a)'s contract-preservation carve-out to a real dispute; the rule above is read from the statute's own text, confirmed only indirectly by Associated Mgmt. Servs. v. Ruff's application of the Act's misappropriation DEFINITION (not its displacement section) to actual claims. Billmayer v. City of Kalispell (2007) and Great Falls Tribune Co. v. Montana Public Service Commission (2003) were both read and apply § 30-14-402's trade-secret definition in a public-records context rather than a contract dispute; not cited above because neither addresses a confidentiality clause. LATER TREATMENT: Associated Mgmt. Servs. (424 P.3d 571), 12 later mentions, 0 flagged. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): § 30-14-406 was quoted with no block; added."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "unconscionability",
+    "rule_id": "mt-drafter-favoring-plus-no-meaningful-choice-2-302-and-common-law",
+    "question": "Can this contract or clause be struck down in Montana as unconscionable?",
+    "rule": "Yes, under a two-part common-law test the Montana Supreme Court applies across ordinary contracts (not just sales of goods): a provision “can be unconscionable and therefore unenforceable if ‘when considered in its context, [it] is unduly oppressive, unconscionable or against public policy.’” Global Client Solutions, LLC v. Ossello, quoting Iwen v. U.S. West Direct, and going on: “Unconscionability in Montana contract law is a concept adapted from the Uniform Commercial Code, and requires a determination that the contractual term is unreasonably favorable to the drafter, and there is no meaningful choice on the part of the other party but to accept the provision.” For sales of goods specifically, the UCC supplies a parallel codified version: “If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made[,] the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result” (§ 30-2-302(1), MCA), and the parties “shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect” before the court rules (§ 30-2-302(2)).",
+    "trap": "Unconscionability is decided AS A MATTER OF LAW by the court, not a jury -- § 30-2-302(1)'s own opening words -- but § 30-2-302(2) still entitles the resisting party to put on evidence of commercial context first; a court that rules without giving that opportunity has skipped a statutory step. The common-law Iwen/ Global Client Solutions test requires BOTH prongs -- drafter-favoring terms AND no meaningful choice -- not either alone; a one-sided term the other party could simply have walked away from, or negotiated, is a weaker unconscionability case even if the substance looks harsh. This corpus does not establish how Montana courts draw the line between PROCEDURAL unconscionability (the bargaining process) and SUBSTANTIVE unconscionability (the terms themselves) as separately labeled doctrines -- Global Client Solutions frames the test as a single two-part inquiry rather than the procedural/substantive split some other states use, and this rule does not import that split without confirming it is how Montana actually organizes the doctrine.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-302",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-302",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_302",
+            "quote": "When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "367 P.3d 361",
+        "name": "Global Client Solutions, LLC v. Ossello",
+        "court": "Mont.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "53117d50ae7948a6",
+            "cl_opinion_id": "3182186",
+            "quote": "Under Montana law, a contract provision can be unconscionable and therefore unenforceable if “when considered in its context, [it] is unduly oppressive, unconscionable or against public policy.” Iwen, ¶ 27.5 Unconscionability in Montana contract law is a concept adapted from the Uniform Commercial Code, and requires a determination that the contractual term is unreasonably favorable to the drafter, and there is no meaningful choice on the part of the other party but to accept the provision.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 30-2-302 read in full. Global Client Solutions's quote of Iwen (¶ 27, ¶ 32) is itself quoting Iwen v. U.S. West Direct, 293 Mont. 512, 977 P.2d 989 (1999) -- Iwen's own row was not independently pulled and verified for this pass, so the quote above is verified against Global Client Solutions's row text (which reproduces it), not against Iwen's row directly; a fuller pass should add Iwen as its own authority entry. The footnote marker “5” embedded mid-sentence in the quote (“¶ 27.5 Unconscionability…”) is the source PDF's own footnote-number artifact and is kept verbatim rather than edited out, since the verifier matches the row's actual text. HONEST NEGATIVE: no authority read for this row states whether Montana separately requires BOTH procedural and substantive unconscionability, or treats the two-part Iwen test as already covering that ground -- see trap above. LATER TREATMENT: Global Client Solutions (367 P.3d 361), 4 later mentions, 0 flagged."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "usury",
+    "rule_id": "mt-15pct-or-6-over-prime-cap-loans-only-double-damages-remedy",
+    "question": "Does Montana's usury cap apply to this contract's interest or finance-charge rate, and what happens if we exceed it?",
+    "rule": "It depends on whether the charge is interest on a LOAN OF MONEY -- and even then, the contract survives; only a damages remedy attaches. Montana caps agreed interest at “any rate of interest that does not exceed the greater of 15% or an amount that is 6 percentage points per year above the prime rate published by the federal reserve system in its statistical release H.15…dated 3 business days prior to the execution of the agreement” (§ 31-1-107(1), MCA), and “a loan that is not usurious when made is lawful for the duration of the loan, provided the loan agreement is not substantially changed” (§ 31-1-107(2)). Exceeding the cap does NOT void the debt: the penalty is a forfeiture of double the interest charged (§ 31-1-108(1)), and a borrower who actually paid excessive interest may sue to recover double what was paid, provided the action is brought within 2 years of payment and after a written demand for return of the interest (§ 31-1-108(2)). Confederated Tribes of Grand Ronde Community v. Quantum Five, Inc. confirms Montana courts apply exactly this double-damages mechanic, not contract voidance: against a party's argument “that the interest rates charged were not usurious, the District Court held otherwise, and under §§ 31-1-107 and -108, MCA, assessed a usury penalty” rather than voiding the underlying debt. Two broad carve-outs remove the cap entirely: a “regulated lender” (other than certain deferred-deposit or consumer-loan licensees) “is exempt from all limitations on the rate of interest that it may charge and is exempt from the operation and effect of all usury statutes” (§ 31-1-112(1)), and a merchant-to-merchant finance operation is exempt as well (§ 31-1-112(2)).",
+    "trap": "The biggest trap is scope: Johnston v. Palmer held a defendant's usury defense “misplaced” because § 31-1-107 lives in “Title 31, Part 1 of the MCA” which “specifically addresses interest rates associated with LOANS OF MONEY” -- the 18% rate at issue there was not usurious because it was “not for a loan of money but rather…a contractually-agreed upon finance charge owed on the balance of funds due and unpaid after thirty days.” A late-payment finance charge on a commercial account, in other words, is not automatically subject to § 31-1-107 at all. Do not assume every commercial lender needs the statutory cap analyzed -- § 31-1-112's “regulated lender” exemption is broad and this rule did not independently verify the full § 31-1-111 definition of that term. And remember the remedy ceiling: even a genuinely usurious LOAN remains a valid, collectible debt in Montana -- the statute punishes the excess, not the loan.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 31-1-107",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_31_1_107",
+            "quote": "Parties may agree in writing to the payment of any rate of interest that does not exceed the greater of 15% or an amount that is 6 percentage points per year above the prime rate published by the federal reserve system in its statistical release H.15 Selected Interest Rates for bank prime loans dated 3 business days prior to the execution of the agreement. Interest must be allowed according to the terms of the agreement.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 31-1-108",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_31_1_108",
+            "quote": "The taking, receiving, reserving, or charging a rate of interest greater than is allowed by 31-1-107 must be considered a forfeiture of a sum double the amount of interest that the note, bill, or other evidence of debt carries or that has been agreed to be paid on the note, bill, or other evidence of debt.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 31-1-112",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_31_1_112",
+            "quote": "A regulated lender, except for a deferred deposit loan licensee or consumer loan licensee, is exempt from all limitations on the rate of interest that it may charge and is exempt from the operation and effect of all usury statutes.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "91 P.3d 1255",
+        "name": "Confederated Tribes of Grand Ronde Community v. Quantum Five, Inc.",
+        "court": "Mont.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "c62f7ebb6ae0b63d",
+            "cl_opinion_id": "886912",
+            "quote": "the District Court held otherwise, and under §§ 31-1-107 and -108, MCA,\n\nassessed a usury penalty.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "158 P.3d 998",
+        "name": "Johnston v. Palmer",
+        "court": "Mont.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "0dacf25e1d3c0eac",
+            "cl_opinion_id": "888050",
+            "quote": "Palmer relies solely upon § 31-1-107, MCA, to support her claim that 18% interest exceeds the amount lawfully allowed and is usurious. However, Palmer’s reliance on § 31-1-107, MCA, is misplaced. Title 31, Part 1 of the MCA specifically addresses interest rates associated with loans of money. The interest rate awarded by the District Court in the case before us is not for a loan of money but rather is premised upon a contractually-agreed upon finance charge owed on the balance of funds due and unpaid after thirty days.",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§§ 31-1-107, 31-1-108, and 31-1-112 read in full. Munro v. Munro (2023, row c79e2bf5da049daf) was the first case found for this point and states the same double-damages rule, but was dropped as an authority here after its own reporter citation failed to resolve in the corpus's citation map (cluster 9455683 -- only the neutral “2023 MT 244” cite exists) AND its title, “Munro v. Munro,” could not independently identify the row by name-matching either (fewer than two distinct words in a same-surname case caption) -- caught by this store's own verifier rather than shipped anyway; Confederated Tribes of Grand Ronde Community v. Quantum Five, Inc., which has a resolvable Pacific Reporter cite, is used instead. HONEST NEGATIVE: § 31-1-111's own definition of “regulated lender” was not read for this pass -- the exemption in § 31-1-112 is stated above exactly as the statute frames it, but this row cannot tell a reader which lenders qualify. LATER TREATMENT: Johnston (158 P.3d 998), 21 later mentions, 0 flagged."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "venue-selection",
+    "rule_id": "mt-forum-clauses-enforced-under-restatement-except-construction-projects",
+    "question": "Will a Montana court enforce this clause requiring disputes to be litigated in a particular forum?",
+    "rule": "Yes, under the same Restatement-driven analysis this store's choice-of-law row describes -- Montana abandoned an older public-policy-void approach to forum-selection clauses. Polzin v. Appleway Equipment Leasing reversed a district court that had declared forum-selection clauses “void as unconstitutional” and held they are instead tested under the Restatement (Second) of Conflict of Laws. San Diego Gas & Electric Co. v. Ninth Judicial District Court confirms the resulting practice: courts apply the chosen forum's OWN law to decide whether the clause itself is valid, citing “Polzin, ¶ 19 (applying Washington law in determining that the forum selection clause was valid and that Montana venue was inappropriate under the terms of the contract).” That means a Montana court asked to enforce a forum clause will not necessarily test it under Montana's own forum-selection doctrine at all -- it may apply the SELECTED forum's law to the validity question first, exactly as Polzin did with Washington law and San Diego Gas & Electric did with California law.",
+    "trap": "There is one hard, statutory exception that does NOT depend on the Restatement analysis at all: for a CONSTRUCTION contract for a project located in Montana, § 28-2-2116(1), MCA makes VOID and unenforceable any provision “that requires any litigation, arbitration, or other dispute resolution proceeding arising from a dispute pertaining to the contract to be conducted in another state,” full stop -- no reasonableness balancing, no materially-greater-interest test, just a flat statutory bar. Outside construction, do not assume the Restatement analysis is a rubber stamp -- Restatement § 187(2)(b) still lets Montana public policy override a chosen forum where Montana has a materially greater interest in the dispute than the chosen state, and this rule did not independently verify how often Montana courts have actually invoked that override after Polzin (Polzin itself reversed a district court that tried to use public policy to void the clause outright, not one that properly ran the § 187(2)(b) balancing test and lost). Also distinguish VENUE within Montana from an out-of-state forum clause entirely -- this rule concerns the latter.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 28-2-2116",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_28_2_2116",
+            "quote": "A provision, covenant, clause, or understanding that is in, collateral to, or affects a construction contract for a project in this state and that makes the contract subject to the laws of another state or that requires any litigation, arbitration, or other dispute resolution proceeding arising from a dispute pertaining to the contract to be conducted in another state is against the public policy of this state and is void and unenforceable.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "191 P.3d 476",
+        "name": "Polzin v. Appleway Equipment Leasing, Inc.",
+        "court": "Mont.",
+        "decided": "2008",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "d5b3be2914ec4962",
+            "cl_opinion_id": "888338",
+            "quote": "In reliance on our decision in Keystone v. Triad Systems Corporation, 1998 MT 326, 292 Mont. 229, 971 P.2d 1240, the District Court concluded that forum selection clauses are against Montana public policy, stating: “choice of forum clauses are void as unconstitutional.”",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "329 P.3d 1264",
+        "name": "San Diego Gas & Electric Co. v. Ninth Judicial District Court",
+        "court": "Mont.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "961f73d351d012d5",
+            "cl_opinion_id": "8030782",
+            "quote": "terpreting the forum selection clause contained in the Purchase Agreement. See Polzin, ¶ 19 (applying Washington law in determining that the forum selection clause was valid and that Montana venue was inappropriate under the terms of the contract).",
+            "checked": "2026-09-20"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 28-2-2116 already read in full for the prompt-payment and choice-of-law rows above. The Polzin quote used here is the DISTRICT COURT'S reasoning, recited by the Montana Supreme Court solely to describe what it reversed -- confirmed by the surrounding text (“We reverse” appears at the top of the opinion) and by San Diego Gas & Electric's own later description of Polzin's actual holding (enforcing the Washington forum clause), which is why San Diego Gas & Electric's recitation, not Polzin's own words, is used to state the rule's affirmative holding above. San Diego Gas & Electric's own analysis proceeds to apply CALIFORNIA forum- selection law (Smith, Valentino & Smith and Cal-State Business Products, both California authorities) because the underlying Purchase Agreement was itself governed by California law -- read but not independently verified as Montana authority, since those are California cases the Montana court applied under choice-of-law principles, not Montana holdings; not quoted above for that reason. HONEST NEGATIVE: no authority read for this row independently confirms how a Montana court would rule on a forum clause where MONTANA's own law (rather than another state's) supplies the validity test in the first instance -- Polzin and San Diego Gas & Electric both involved a non-Montana chosen forum whose OWN law was applied to validity. LATER TREATMENT: Polzin (191 P.3d 476), 8 later mentions, 0 flagged (already scanned for the choice-of-law row above)."
+  },
+  {
+    "jurisdiction": "mt",
+    "clause": "warranty-disclaimer",
+    "rule_id": "mt-2-316-conspicuous-writing-as-is-safe-harbor-no-extra-notice",
+    "question": "Will this warranty-disclaimer / “AS IS” clause in a sale of goods hold up in Montana?",
+    "rule": "Yes, if it follows § 30-2-316's form requirements -- and Montana courts do not layer any extra consumer-notice requirement on top of the statute. To exclude or modify the implied warranty of merchantability, “the language must mention merchantability and in case of a writing must be conspicuous”; to exclude the implied warranty of fitness, the exclusion “must be by a writing and conspicuous” (§ 30-2-316(2)). Separately, “all implied warranties are excluded by expressions like ‘as is’, ‘with all faults’ or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty” (§ 30-2-316(3)(a)) -- a SEPARATE, self-executing safe harbor that does not need the “mention merchantability” language subsection (2) otherwise requires. Kopischke v. First Continental Corp. confirms the mechanics: “The phrase ‘as is’ is a statutorily approved method of excluding warranties,” controlled by § 30-2-316(3)(a). And McJunkin v. Kaufman & Broad Home Systems holds Montana imposes no unwritten extra hurdle: “Section 30-2-316, MCA, does not require that a disclaimer of implied warranties be specifically pointed out to the consumer” -- it is enough that the disclaimer is “in larger, darker, bolder type” and “also capitalized and underlined,” even if the buyer never had it specifically flagged.",
+    "trap": "“Conspicuous” in McJunkin meant capitalized, underlined, and in larger/darker/bolder type than the surrounding text -- a disclaimer buried in ordinary body text on the back of a form risks failing even though the statute does not require it be separately pointed out. Warranty of TITLE is a different animal: Brokke v. Williams holds “Warranty of title is not subject to the disclaimers found in § 30-2-316, MCA, pertaining to fitness and merchantability” -- an “as is” clause aimed at merchantability and fitness does not reach a seller's warranty that it actually owns and can convey title (§ 30-2-312 governs that separately, and this rule did not verify its own exclusion mechanics). Two more limits worth flagging: subsection (1) makes any negation “inoperative to the extent that such construction is unreasonable” against express warranty language the seller ALSO used -- an “as is” clause does not cure an inconsistent express warranty elsewhere in the same deal; and subsection (4) ties warranty-breach REMEDIES back to §§ 30-2-718 and 30-2-719 (this store's liquidated-damages and limitation-of-remedy statutes), so a disclaimer that survives § 30-2-316 does not by itself resolve what remedy, if any, remains.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-316",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_316",
+            "quote": "to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-316",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_316",
+            "quote": "unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is\", \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty;",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "610 P.2d 668",
+        "name": "Kopischke v. First Continental Corp.",
+        "court": "Mont.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "3cbad58723f34330",
+            "cl_opinion_id": "9507261",
+            "quote": "Rogers v. Hilger Chevrolet Company, supra, it becomes necessary to determine what effect the “as is” clause has on such a duty. The phrase “as is” is a statutorily approved method of excluding warranties. The controlling statute is section 30-2-316(3) (a), MCA, which provides:",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "748 P.2d 910",
+        "name": "McJunkin v. Kaufman & Broad Home Systems, Inc.",
+        "court": "Mont.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "5c84483d3751abd7",
+            "cl_opinion_id": "879372",
+            "quote": "Section 30-2-316, MCA, does not require that a disclaimer of implied warranties be specifically pointed out to the consumer. In order to \"exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous. . ..\" Section 30-2-316(2), MCA. In the instant case, the disclaimer was not hidden in the fine print. The language was in larger, darker, bolder type. It was also capitalized and underlined.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "766 P.2d 1311",
+        "name": "Brokke v. Williams",
+        "court": "Mont.",
+        "decided": "1989",
+        "verified": {
+          "checked": "2026-09-20",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "07c75f29d0bc5052",
+            "cl_opinion_id": "880584",
+            "quote": "Warranty of title is not subject to the disclaimers found in\n5 30-2-316, MCA, pertaining to fitness and merchant- ability.",
+            "checked": "2026-09-20"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "766 P.2d 1311",
+        "name": "Brokke v. Williams",
+        "court": "Mont.",
+        "decided": "1989",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-mt",
+            "row_id": "07c75f29d0bc5052",
+            "cl_opinion_id": "880584",
+            "quote": "Warranty of title is not subject to the disclaimers found in 5 30-2-316, MCA, pertaining to fitness and merchant- ability.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Mont. Code Ann. § 30-2-312",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "MT_30_2_312",
+            "quote": "A warranty under subsection (1) will be excluded or modified only by specific language or by circumstances which give the buyer reason to know that the person selling does not claim title or that the seller is purporting to sell only the right or title as the seller or a third person may have.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-20",
+    "status": "verified",
+    "notes": "§ 30-2-316 read in full (all 4 subsections). Kopischke's quote above is exactly as it repeats itself in the opinion (the phrase “as is…excluding warranties” appears twice back to back in the source text) -- kept verbatim rather than trimmed, since the verifier requires an exact match. Payne v. Berry's Auto (2013, row ba52f05921267cdc) was read and is the most recent case applying § 30-2-316 to a used-car disclaimer combined with a service contract; not cited above because its holding turns on the interaction with the service contract specifically, which is outside this row's scope. LATER TREATMENT: Kopischke (610 P.2d 668), 23 later mentions, 0 flagged. McJunkin (748 P.2d 910), 29 later mentions, 1 flagged window -- Brilz v. Metropolitan General Insurance (2012) cites McJunkin only for an unrelated code-pleading-history point; not negative as to the warranty-disclaimer holding. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): Brokke's sentence was quoted with no block; added as published (the corpus text has '5' for '§' and a hyphenation break). PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): § 30-2-312(2) read (MT_30_2_312); block added."
+  }
+]

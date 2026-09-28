@@ -1,0 +1,1645 @@
+[
+  {
+    "jurisdiction": "al",
+    "clause": "anti-assignment",
+    "rule_id": "al-7-9a-406-receivables-restrictions-ineffective",
+    "question": "Will an Alabama court give effect to a clause barring assignment or requiring consent?",
+    "rule": "Not as to receivables. Except as subsection (e) and Sections 7-2A-303 and 7-9A-407 provide, and subject to subsection (h), a term in an agreement between an account debtor and an assignor, or in a promissory note, is ineffective to the extent it prohibits, restricts or requires the account debtor's consent to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, the account, chattel paper, payment intangible or promissory note, or provides that the assignment may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination or remedy (Ala. Code § 7-9A-406(d)). Subsection (d) does not reach the sale of a payment intangible or promissory note other than a sale on a disposition under § 7-9A-610 or an acceptance of collateral under § 7-9A-620 (§ 7-9A-406(e)), and the whole section yields to other law that sets a different rule for an account debtor who is an individual and incurred the obligation primarily for personal, family or household purposes (§ 7-9A-406(h)). The section prevails over any inconsistent Alabama statute, rule or regulation unless that provision refers expressly to § 7-9A-406 and says it prevails (§ 7-9A-406(j)).",
+    "trap": "A consent-to-assign clause in the contract that generates the receivable does not stop the customer's lender from taking or enforcing a security interest in it, and the assignment cannot be turned into a default or a right of termination. What the subsection does not reach is a sale of a payment intangible or promissory note, an individual consumer account debtor governed by other law, and rights that are not accounts, chattel paper, payment intangibles or promissory notes — for those, the clause is not disabled by this section.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-9A-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_9A_406",
+            "quote": "Except as otherwise provided in subsection (e) and Sections 7-2A-303 and 7-9A-407, and subject to subsection (h), a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-9A-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_9A_406",
+            "quote": "Subsection (d) does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under Section 7-9A-610 or an acceptance of collateral under Section 7-9A-620.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-9A-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_9A_406",
+            "quote": "This section is subject to law other than this article which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-9A-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_9A_406",
+            "quote": "This section prevails over any inconsistent provision of an existing or future statute, rule, or regulation of this State unless the provision is contained in a statute of this State, refers expressly to this section, and states that the provision prevails over this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code § 7-9A-406, including (a)-(c) (discharge by paying the assignor until notification, when notification is ineffective, and proof of assignment), (f) (legal restrictions on assignment of accounts and chattel paper ineffective), (g) (the (b)(3) option is not waivable), (i) (health-care-insurance receivables) and (l) (controllable accounts and controllable payment intangibles). Sections 7-2A-303 and 7-9A-407, which subsection (d) is expressly subject to, were NOT read, so they are named here and not described. NOT established: whether a transfer made in breach of a general no-assignment clause outside § 7-9A-406 is void or only a breach; no Alabama Supreme Court authority on that point is cited here. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "arbitration",
+    "rule_id": "al-8-1-41-3-unenforceable-unless-the-faa-preempts",
+    "question": "Is the pre-dispute arbitration clause in our Alabama contract enforceable?",
+    "rule": "Only through the Federal Arbitration Act. Alabama's own law is the other way: Ala. Code § 8-1-41 lists obligations that cannot be specifically enforced, and subdivision (3) is \"An agreement to submit a controversy to arbitration.\" In Title Max of Birmingham v. Edwards the Supreme Court of Alabama stated that FAA § 2 has the effect of preempting conflicting Alabama law, in particular § 8-1-41(3), which makes predispute agreements to arbitrate unenforceable, and thereby makes enforceable a predispute arbitration agreement in a contract evidencing a transaction that involves interstate commerce; the party moving to compel bears the initial burden of producing some evidence that a contract calling for arbitration exists and that the underlying transaction involves interstate commerce.",
+    "trap": "The clause's enforceability turns on an interstate-commerce showing that the movant must actually make, not on the clause's own words. For a transaction that does not involve interstate commerce, § 8-1-41(3) is the operative Alabama rule and the agreement cannot be specifically enforced. Nothing quoted here states what Alabama requires of an arbitration clause's form, or how an FAA-governed clause interacts with a general Alabama choice-of-law clause in the same contract.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-41",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_41",
+            "quote": "The following obligations cannot be specifically enforced: (1) An obligation to render personal service; (2) An obligation to employ another in personal service; (3) An agreement to submit a controversy to arbitration;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "973 So.2d 1050",
+        "name": "Title Max of Birmingham, Inc. v. Edwards",
+        "court": "Ala.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "cdd517f883720298",
+            "cl_opinion_id": "1705927",
+            "quote": "Section 2 has the effect of preempting conflicting Alabama law, in particular § 8-1-41(3), Ala.Code 1975, which makes predispute agreements to arbitrate unenforceable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "973 So.2d 1050",
+        "name": "Title Max of Birmingham, Inc. v. Edwards",
+        "court": "Ala.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "cdd517f883720298",
+            "cl_opinion_id": "1705927",
+            "quote": "It thereby makes enforceable a predispute arbitration agreement in a contract evidencing a transaction that involves interstate commerce.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "973 So.2d 1050",
+        "name": "Title Max of Birmingham, Inc. v. Edwards",
+        "court": "Ala.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "cdd517f883720298",
+            "cl_opinion_id": "1705927",
+            "quote": "Title Max had the initial burden of producing \"some evidence\" that a contract calling for arbitration exists and that the underlying transaction involves interstate commerce.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code § 8-1-41 (all six subdivisions). Title Max of Birmingham, Inc. v. Edwards, 973 So.2d 1050 (Ala. 2007), read at the FAA-preemption and burden passages; the quoted sentences are in the opinion of the Court, which cites Garikes, Wilson & Atkinson v. Episcopal Foundation of Jefferson County, 614 So.2d 447 (Ala. 1993), a case not read here. Later-treatment scan of the Alabama corpus: 24 later opinions mention 973 So.2d 1050, none in a negative-word window. Also seen but not made rules: Custom Performance, Inc. v. Dawson (Ala. 2010) and The Terminix International Co. v. St. Paul's Episcopal Church (Ala. 2025), both restating that predispute arbitration agreements are not specifically enforceable under Alabama law unless federal law preempts. The Federal Arbitration Act itself and the United States Supreme Court decisions applying it (Southland Corp. v. Keating; Allied-Bruce Terminix Cos. v. Dobson) are NOT authorities in this rule; what is stated here is the Alabama court's own description of them. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "attorney-fees",
+    "rule_id": "al-american-rule-statute-contract-or-special-equity",
+    "question": "Can we recover our attorney fees on this Alabama contract?",
+    "rule": "Only if something authorises it. Alabama follows the American rule, whereby attorney fees may be recovered if they are provided for by statute or by contract or if they are called for by special equity, such as in proceedings where the attorney's efforts create a common fund out of which fees may be paid (Jones v. Regions Bank, quoting City of Bessemer v. McClain). Two statutes fix fee outcomes regardless of the clause. In a civil action under the construction prompt-payment chapter, the party in whose favour judgment is rendered is entitled to recover reasonable attorneys' fees, court costs and reasonable expenses from the other party (Ala. Code § 8-29-6). In a consumer-credit transaction, a contract with an original amount financed of $300 or less may not provide for the debtor to pay attorney's fees after default, and one above $300 may provide only for reasonable fees not exceeding 15 percent of the unpaid debt after default and referral to an attorney who is not a salaried employee of the creditor (Ala. Code § 5-19-10).",
+    "trap": "A fee clause is the usual route, and without one there is no fee award unless a statute or a recognised special equity supplies it. Two drafting traps follow from the statutes: a consumer-credit fee clause above the 15 percent ceiling, or in a transaction at or below $300, is not what § 5-19-10 permits; and in a construction contract within the prompt-payment chapter the fee award under § 8-29-6 runs to whichever party wins, so a one-way clause does not keep the other side's fees off you in that action.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "25 So.3d 427",
+        "name": "Jones v. Regions Bank",
+        "court": "Ala.",
+        "decided": "2009",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "8b847df3f1a892d5",
+            "cl_opinion_id": "2545968",
+            "quote": "Alabama follows the \"American rule,\" whereby attorney fees may be recovered if they are provided for by statute or by contract or if they are called for by special equity, such as in proceedings where the attorney's efforts create a \"common fund\" out of which fees may be paid.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_6",
+            "quote": "In any such civil action, the party in whose favor a judgement is rendered shall be entitled to recover payment of reasonable attorneys’ fees, court costs and reasonable expenses from the other party.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 5-19-10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_5_19_10",
+            "quote": "A contract for a consumer credit transaction with an original amount financed not exceeding three hundred dollars ($300) may not provide for payment by the debtor of attorney’s fees after default by the debtor. A contract for a consumer credit transaction with an original amount financed exceeding three hundred dollars ($300) may provide for the payment by the debtor of reasonable attorney’s fees not exceeding 15 percent of the unpaid debt after default and referral of the contract to an attorney who is not a salaried employee of the creditor.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code § 5-19-10, § 8-29-6. Jones v. Regions Bank, 25 So.3d 427 (Ala. 2009) (Bolin, J.): the American-rule sentence is in Part IV of the main opinion, which six justices joined; Murdock, J., concurred in part and concurred in the result, writing that he did not join the rationale of Part IV. The sentence is itself the Court quoting City of Bessemer v. McClain, 957 So.2d 1061 (Ala. 2006), quoting Battle v. City of Birmingham, 656 So.2d 344 (Ala. 1995); neither of those was read here. Later-treatment scan: 7 later Alabama opinions mention 25 So.3d 427, none in a negative-word window. Alabama has NO general reciprocity statute making a one-way contractual fee clause mutual: a search of the Alabama Code turned up no such provision, which is the opposite of the position in states that have one. NOT established: the full content of the \"special equity\" exceptions, or how an Alabama court measures a reasonable fee. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "choice-of-law",
+    "rule_id": "al-party-choice-then-lex-loci-contractus-and-the-restraint-article",
+    "question": "Will an Alabama court apply the law the parties chose?",
+    "rule": "Generally yes, subject to Alabama public policy. In a contractual dispute, Alabama law would have the court first look to the contract to determine whether the parties have specified a particular sovereign's law to govern; lacking such a contractual specification, the court follows the principle of lex loci contractus, applying the law of the state where the contract was formed, and that state's law then governs unless it is contrary to the forum state's fundamental public policy (Stovall v. Universal Construction Co.). One article of the Code says in terms that it is such a policy: Ala. Code § 8-1-197 declares that the restraint-of-trade article (§§ 8-1-190 to 8-1-197) expresses fundamental public policies of Alabama and shall govern and be applied instead of any foreign laws that would otherwise apply where applying them would violate a fundamental public policy expressed in that article.",
+    "trap": "The public-policy override is the whole fight, and for restrictive covenants the legislature has pre-decided it: choosing another state's law does not carry a non-compete, a no-hire clause or a customer non-solicitation clause past § 8-1-197 if the foreign law would violate a fundamental public policy of the Alabama article. Note also which rule fills a gap: with no choice-of-law clause the test is where the contract was FORMED, not where it is performed or where the parties are based.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "893 So.2d 1090",
+        "name": "Stovall v. Universal Construction Co.",
+        "court": "Ala.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "41a34f495a0e908d",
+            "cl_opinion_id": "9931745",
+            "quote": "In a contractual dispute, Alabama law would have us first look to the contract to determine whether the parties have specified a particular sovereign's law to govern.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "893 So.2d 1090",
+        "name": "Stovall v. Universal Construction Co.",
+        "court": "Ala.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "41a34f495a0e908d",
+            "cl_opinion_id": "9931745",
+            "quote": "Lacking such a contractual specification, we follow the principle of lex loci contractus , applying the law of the state where the contract was formed.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "893 So.2d 1090",
+        "name": "Stovall v. Universal Construction Co.",
+        "court": "Ala.",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "41a34f495a0e908d",
+            "cl_opinion_id": "9931745",
+            "quote": "That state's law then governs unless it is contrary to the forum state's fundamental public policy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-197",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_197",
+            "quote": "It is hereby declared that this article expresses fundamental public policies of the State of Alabama. Therefore, this article shall govern and shall be applied instead of any foreign laws that might otherwise be applicable in those instances when the application of those foreign laws would violate a fundamental public policy expressed in this article.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Stovall v. Universal Construction Co., 893 So.2d 1090 (Ala. 2004): quotes are from the main-opinion row 41a34f495a0e908d; the full published opinion (row a17baedabbd13070) also carries a special concurrence and a dissent, neither on the choice-of-law point. The quoted passages restate Cherry, Bekaert & Holland v. Brown, 582 So.2d 502 (Ala. 1991), which was not read here. Stovall itself did not decide which state's law applied; it held the moving party's burden at that stage was only to show a set of facts allowing it to prevail under either state's law, so the passage states the framework rather than an application of it. Later-treatment scan: 8 later Alabama opinions mention 893 So.2d 1090, none in a negative-word window; Blalock v. Sutphin (Ala. 2018) follows it. Ala. Code § 8-1-197 read in full. NOT established: what Alabama treats as a fundamental public policy outside the restraint-of-trade article, or how lex loci contractus fixes the place of formation. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "al-dtpa-remedies-election-no-class-actions-and-the-15-day-demand",
+    "question": "Can a contract term cut off the buyer's Alabama Deceptive Trade Practices Act claim?",
+    "rule": "The chapter itself, not the contract, sets most of the limits. A person who commits an act declared unlawful by the chapter and thereby causes monetary damage to a consumer is liable for actual damages or $100, whichever is greater, or up to three times actual damages in the court's discretion, plus costs and a reasonable attorney's fee in a successful action (Ala. Code § 8-19-10(a)). \"Consumer\" means any natural person who buys goods or services for personal, family, or household use (§ 8-19-3(4)). At least 15 days before filing, a written demand for relief identifying the claimant and reasonably describing the act or practice relied upon and the injury suffered must be communicated to the prospective respondent (§ 8-19-10(e)). A consumer or other person bringing an action under the chapter may not bring it on behalf of a class, and the chapter calls that a substantive limitation (§ 8-19-10(f)). The chapter's civil remedies and the common-law or other statutory remedies for fraud, misrepresentation, deceit, suppression of material facts or fraudulent concealment are mutually exclusive, and electing one surrenders the other (§ 8-19-15(a)). An action must be brought within one year after the claimant discovers or reasonably should have discovered the act or practice, and in no event more than four years from the transaction unless the contract or warranty runs more than three years (§ 8-19-14).",
+    "trap": "The election of remedies in § 8-19-15(a) is the trap a drafter cannot fix by contract and a claimant can lose by pleading: suing under the chapter surrenders the common-law fraud claim arising out of the same transaction, and suing at common law surrenders the chapter. Two more from the text: the 15-day pre-suit written demand is a condition on filing, and a respondent who makes a written tender the court later finds sufficient to compensate actual damages cuts off additional damages, fees and costs (§ 8-19-10(e)). The chapter also does not reach everything — § 8-19-7 exempts, among others, activity subject to the Alabama Insurance Code, regulated banks, regulated utilities and railroads, violations of the federal Consumer Credit Protection Act, and activity under the Alabama Securities Act, with the burden of proving an exemption on the person claiming it. The election rule is only half of § 8-19-15, and the other half runs the opposite way: “All other remedies, penalties or actions presently provided by statute or common law or hereafter provided for in any other law or rule of procedure are cumulative with the provisions, remedies and actions in this chapter and this chapter shall not be construed to repeal or supersede any law not inconsistent herewith.” So the chapter does not displace fraud, misrepresentation or any other law by existing alongside it — the surrender happens only when the consumer actually elects a remedy for the same act outside the chapter. Reading the surrender sentence alone makes the chapter look exclusive when the section says it is cumulative.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-19-10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_19_10",
+            "quote": "Any person who commits one or more of the acts or practices declared unlawful under this chapter and thereby causes monetary damage to a consumer, and any person who commits one or more of the acts or practices declared unlawful in subdivisions (19) and (20) of Section 8-19-5 and thereby causes monetary damage to another person, shall be liable to each consumer or other person for: (1) Any actual damages sustained by such consumer or person, or the sum of $100, whichever is greater; or (2) Up to three times any actual damages, in the court’s discretion.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-19-10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_19_10",
+            "quote": "A consumer or other person bringing an action under this chapter may not bring an action on behalf of a class. The limitation in this subsection is a substantive limitation and allowing a consumer or other person to bring a class action or other representative action for a violation of this chapter would abridge, enlarge, or modify the substantive rights created by this chapter.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-19-10",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_19_10",
+            "quote": "At least 15 days prior to the filing of any action under this section, a written demand for relief, identifying the claimant and reasonably describing the unfair or deceptive act or practice relied upon and the injury suffered, shall be communicated to any prospective respondent by placing in the United States mail or otherwise.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-19-15",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_19_15",
+            "quote": "The civil remedies provided herein and the civil remedies available at common law, by statute or otherwise, for fraud, misrepresentation, deceit, suppression of material facts or fraudulent concealment are mutually exclusive. An election to pursue the civil remedies prescribed in this chapter shall exclude and be a surrender of all other rights and remedies available at common law, by statute or otherwise, for fraud, misrepresentation, deceit, suppression of material facts or fraudulent concealment arising out of any act, occurrence or transaction actionable under this chapter.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-19-14",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_19_14",
+            "quote": "No action may be brought under this chapter more than one year after the person bringing the action discovers or reasonably should have discovered the act or practice which is the subject of the action, but in no event may any action be brought under this chapter more than four years from the date of the transaction giving rise to the cause of action unless the contract or warranty is for more than three years.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-19-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_19_3",
+            "quote": "CONSUMER. Any natural person who buys goods or services for personal, family, or household use.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-19-7",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_19_7",
+            "quote": "Any person or activity which is subject to the provisions of the Alabama Insurance Code, Title 27, as amended, or any bank or affiliate of a bank which is regulated by the State Banking Department of Alabama, the Comptroller of the Currency of the United States, Federal Deposit Insurance Corporation or the Board of Governors of the Federal Reserve System, or to any person or activity which is subject to the provisions of Title 10, Chapter 4, Article 6, or to the regulated activities of any utility, telephone company or railroad which is regulated by the Alabama Public Service Commission;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-19-15",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_19_15",
+            "quote": "All other remedies, penalties or actions presently provided by statute or common law or hereafter provided for in any other law or rule of procedure are cumulative with the provisions, remedies and actions in this chapter and this chapter shall not be construed to repeal or supersede any law not inconsistent herewith.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 8-19-3, 8-19-7, 8-19-10, 8-19-13 (a defence on a showing that the person did not knowingly commit the act), 8-19-14, 8-19-15. This rule is deliberately NOT tagged to the consumer contract type: although § 8-19-3(4) defines \"consumer\" as a natural person buying for personal, family or household use, § 8-19-10(a) also gives a right of action to \"another person\" damaged by the practices in § 8-19-5(19) and (20), and § 8-19-15's election of remedies is a limit on any claimant. NOT established: whether a contractual waiver or release of Alabama Deceptive Trade Practices Act rights is enforceable — the chapter read here contains no anti-waiver provision, and no Alabama case on the point is cited; the absence of such a provision is not an authority that waiver works. Section 8-19-5 (the list of unlawful practices) was not read. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check. SCOPE AUDIT 2026-09-24: added from the rare-word limit sweep (a DocketX audit sweep); none of the limit's most distinctive words appeared in this row."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "electronic-signature",
+    "rule_id": "al-8-1a-7-electronic-records-and-the-chapter-3-exclusions",
+    "question": "Is an e-signed Alabama contract enforceable, and does it satisfy a writing requirement?",
+    "rule": "Yes, within the Uniform Electronic Transactions Act as Alabama enacted it. A record or signature may not be denied legal effect or enforceability solely because it is in electronic form; a contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation; if a law requires a record to be in writing, an electronic record satisfies the law; and if a law requires a signature, an electronic signature satisfies the law (Ala. Code § 8-1A-7). The chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means, and whether they agreed is determined from the context and surrounding circumstances, including the parties' conduct (§ 8-1A-5(b)). It does not apply to a transaction to the extent it is governed by a law on the creation and execution of wills, codicils or testamentary trusts, by Title 7 (the Uniform Commercial Code) other than §§ 7-1-107 and 7-1-206, Article 2 and Article 2A, or by a law governing adoption, divorce or other matters of family law (§ 8-1A-3(b)); nor to court filings and orders, to notices of utility cancellation, of default, acceleration, repossession, foreclosure or eviction under a credit agreement secured by or a rental agreement for an individual's primary residence, of cancellation of health or life insurance benefits, or of a product recall or material failure risking health or safety, or to documents accompanying hazardous materials (§ 8-1A-3(c)).",
+    "trap": "Two limits do the work. The chapter reaches only parties who agreed to transact electronically, and that agreement is inferred from conduct rather than declared — so a party who has never transacted electronically can contest it. And the exclusions are partial, not absolute: § 8-1A-3(d) applies the chapter to an otherwise-excluded electronic record to the extent it is governed by a law other than those specified. A security agreement, negotiable instrument or other Article 9 or Article 3 record is outside the chapter as to what Title 7 governs, while sales of goods (Article 2) and leases (Article 2A) stay inside it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1A-7",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1A_7",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. (b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. (c) If a law requires a record to be in writing, an electronic record satisfies the law. (d) If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1A-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1A_5",
+            "quote": "This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1A-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1A_3",
+            "quote": "This chapter does not apply to a transaction to the extent it is governed by any of the following: (1) A law governing the creation and execution of wills, codicils, or testamentary trusts. (2) Title 7, the Uniform Commercial Code, other than Sections 7-1-107 and 7-1-206, Article 2, and Article 2A. (3) A statute, regulation, or other rule of law governing adoption, divorce, or other matters of family law.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1A-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1A_3",
+            "quote": "This chapter applies to an electronic record or electronic signature otherwise excluded from the application of this chapter under subsection (b) or (c) to the extent it is governed by a law other than those specified in subsection (b) or (c).",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code § 8-1A-3 (all of (a)-(f), including the (c) list of excluded notices and documents and (e), which subjects a transaction under the chapter to other applicable substantive law), § 8-1A-5 (including (c), the non-waivable right to refuse other electronic transactions, and (d), variation by agreement) and § 8-1A-7. Sections 8-1A-9 to 8-1A-20 were not read. No Alabama opinion construing § 8-1A-7 was searched for, so nothing here states how an Alabama court decides whether a particular electronic signature was attributed to a party. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "entire-agreement",
+    "rule_id": "al-merger-clause-creates-a-rebuttable-presumption-of-integration",
+    "question": "What does a merger clause do to prior discussions under Alabama law?",
+    "rule": "It raises a presumption, and the presumption can be rebutted. As a general rule, when parties reduce a contract to writing and intend that writing to be the complete contract, no extrinsic evidence of prior or contemporaneous agreements will be admissible to change, alter, or contradict the contractual writing; merger clauses thus create a presumption that the writing represents an integrated, that is, the final and complete, agreement of the parties (Ex parte Palm Harbor Homes, Inc.). The same opinion states, quoting a federal decision, that in order to rebut the presumption and in effect invalidate the merger clause a party must offer evidence to establish the existence of fraud, bad faith, unconscionability, negligent omission or mistake in fact, and that whether a contract is integrated is ordinarily a question of law for the court to decide. For a sale of goods, terms in a record intended as a final expression may not be contradicted by evidence of a prior agreement or of a contemporaneous oral agreement, but may be explained or supplemented by course of performance, course of dealing or usage of trade, and by consistent additional terms unless the court finds the record was intended as a complete and exclusive statement (Ala. Code § 7-2-202).",
+    "trap": "The list of things that rebut the presumption is what a drafter should read twice: fraud, bad faith, unconscionability, negligent omission or mistake in fact. A merger clause therefore does not by itself dispose of a fraud-in-the-inducement claim. And under § 7-2-202 a merger clause that does not make the record a complete and exclusive statement still leaves the door open to consistent additional terms, and never closes the door on course of dealing, course of performance or usage of trade.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "798 So.2d 656",
+        "name": "Ex parte Palm Harbor Homes, Inc.",
+        "court": "Ala.",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "f6eb54f411428042",
+            "cl_opinion_id": "1649625",
+            "quote": "As a general rule, \"when parties reduce a contract to writing and intend that writing to be the complete contract, no extrinsic evidence of prior or contemporaneous agreements will be admissible to change, alter, or contradict the contractual writing.\"",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "798 So.2d 656",
+        "name": "Ex parte Palm Harbor Homes, Inc.",
+        "court": "Ala.",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "f6eb54f411428042",
+            "cl_opinion_id": "1649625",
+            "quote": "Merger clauses thus create a presumption that the writing represents an integrated, that is, the final and complete, agreement of the parties.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "798 So.2d 656",
+        "name": "Ex parte Palm Harbor Homes, Inc.",
+        "court": "Ala.",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "f6eb54f411428042",
+            "cl_opinion_id": "1649625",
+            "quote": "\"In order to rebut the presumption and, in effect, invalidate the merger clause, a party must offer evidence to establish the existence of fraud, bad faith, unconscionability, negligent omission or mistake in fact.\"",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "798 So.2d 656",
+        "name": "Ex parte Palm Harbor Homes, Inc.",
+        "court": "Ala.",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "f6eb54f411428042",
+            "cl_opinion_id": "1649625",
+            "quote": "Whether a contract is integrated is ordinarily a question of law for the court to decide.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-202",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_202",
+            "quote": "Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a record intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented: (a) by course of performance, course of dealing, or usage of trade (Section 7-1-303); and (b) by evidence of consistent additional terms unless the court finds the record to have been intended also as a complete and exclusive statement of the terms of the agreement.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Ex parte Palm Harbor Homes, Inc., 798 So.2d 656 (Ala. 2001): a mandamus proceeding holding that a retail installment contract containing a merger clause superseded two free-standing arbitration instruments executed the same day. Six justices concurred; See, J., concurred in part, concurred in the result in part and dissented in part. The quoted sentences are from the main opinion, and two of them are the Court quoting other courts: the \"general rule\" sentence quotes Sherman v. Woerner Magnolia Farms, Inc., 565 So.2d 601 (Ala. 1990), and the rebuttal sentence quotes Smith v. Central Soya of Athens, Inc., 604 F.Supp. 518 (E.D.N.C. 1985); neither of those was read here. Later-treatment scan: 38 later Alabama opinions mention 798 So.2d 656; the three negative-word windows (Belmont Homes v. Law, 2002; Prince v. Poole, 2006) use \"supersede\" inside the merger-clause rule itself and are not criticism. Ala. Code § 7-2-202 read in full. NOT established: whether a merger clause bars evidence of a contemporaneous COLLATERAL agreement — later Alabama opinions say it does not, citing Alabama Electric Cooperative v. Bailey's Construction Co., 950 So.2d 280 (Ala. 2006), which was not read here and is not asserted. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "force-majeure",
+    "rule_id": "al-7-2-615-impracticability-for-goods-and-the-notice-condition",
+    "question": "Does Alabama excuse performance when the event the clause was meant to cover happens?",
+    "rule": "For a sale of goods there is a statutory default; outside it, nothing quoted here supplies one. Except so far as a seller may have assumed a greater obligation and subject to § 7-2-614 on substituted performance, delay in delivery or nondelivery in whole or in part by a seller who complies with paragraphs (b) and (c) is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made, or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid (Ala. Code § 7-2-615(a)). A seller whose capacity is only partly affected must allocate production and deliveries among customers in any manner that is fair and reasonable, and must notify the buyer seasonably of the delay or nondelivery and of any quota (§ 7-2-615(b)-(c)). Where the agreed berthing, loading or unloading facilities fail, the agreed type of carrier becomes unavailable, or the agreed manner of delivery otherwise becomes commercially impracticable but a commercially reasonable substitute is available, that substitute performance must be tendered and accepted (§ 7-2-614(1)). On notice of a material or indefinite delay or an allocation, the buyer may terminate the unexecuted portion or take the available quota in substitution, and § 7-2-616's provisions may not be negated by agreement except insofar as the seller has assumed a greater obligation under § 7-2-615 (§ 7-2-616(1), (3)).",
+    "trap": "The excuse is conditional, and the conditions are the ones parties forget: a seller who does not allocate fairly among customers, or does not give the buyer seasonable notice of the delay, nondelivery or quota, is outside § 7-2-615 whatever the event was. A force majeure clause can raise the seller's obligation above the statutory floor — the section opens \"Except so far as a seller may have assumed a greater obligation\" — and § 7-2-616(3) limits contracting out of the buyer's termination and substitution options to that same case. Nothing quoted here states how an Alabama court construes an express force majeure clause, or whether impracticability or frustration excuses performance outside a sale of goods.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_615",
+            "quote": "Delay in delivery or nondelivery in whole or in part by a seller who complies with paragraphs (b) and (c) is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-615",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_615",
+            "quote": "The seller must notify the buyer seasonably that there will be delay or nondelivery and, when allocation is required under paragraph (b), of the estimated quota thus made available for the buyer.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-614",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_614",
+            "quote": "Where without fault of either party the agreed berthing, loading, or unloading facilities fail or an agreed type of carrier becomes unavailable or the agreed manner of delivery otherwise becomes commercially impracticable but a commercially reasonable substitute is available, such substitute performance must be tendered and accepted.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-616",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_616",
+            "quote": "The provisions of this section may not be negated by agreement except insofar as the seller has assumed a greater obligation under Section 7-2-615.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 7-2-614, 7-2-615, 7-2-616. No general force majeure or excused-performance provision of general contract application was found in the published Alabama Code. NOT established: Alabama's common-law doctrine of impossibility, impracticability or frustration of purpose outside Article 2, and the construction of an express force majeure clause — no Alabama case is cited here for either, and the statutory rule above is limited by its own terms to a contract for sale. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "indemnity",
+    "rule_id": "al-indemnity-for-the-indemnitees-own-negligence-clear-and-unequivocal",
+    "question": "Can our Alabama contract make the other side indemnify us for our own negligence?",
+    "rule": "Yes, but only on clear and unequivocal language, and the clause is strictly construed. In Industrial Tile, Inc. v. Stewart the Supreme Court of Alabama set out the general rules that a contract of indemnity purporting or claimed to relieve one from the consequences of his failure to exercise ordinary care must be strictly construed, and that such a contract will not be construed to indemnify the indemnitee against losses resulting from his own negligent acts unless that intention is expressed in clear and unequivocal terms or no other meaning can be ascribed to it, and said Alabama has generally followed those rules when construing contracts between private parties, as distinguished from corporations performing a public service. The Court then held that if the parties knowingly, evenhandedly, and for valid consideration, intelligently enter into an agreement whereby one party agrees to indemnify the other, including indemnity against the indemnitee's own wrongs, if expressed in clear and unequivocal language, then such agreements will be upheld, modifying Alabama Great Southern Railroad Co. v. Sumter Plywood Corp. to the extent it held otherwise.",
+    "trap": "Alabama has no construction anti-indemnity statute of the kind many states have: the search of the Alabama Code for this rule found none, so a construction indemnity for the indemnitee's own negligence is a drafting question and not a statutory prohibition. The language is the whole battle, and the standard is expression, not inference — a broad \"any and all claims\" indemnity, with no words reaching the indemnitee's own negligence, is the clause that fails. The Industrial Tile test also has elements beyond wording that a contract cannot recite away: the agreement must be entered knowingly, evenhandedly, for valid consideration and intelligently.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "388 So.2d 171",
+        "name": "Industrial Tile, Inc. v. Stewart",
+        "court": "Ala.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "fb242dd55511d3ba",
+            "cl_opinion_id": "9936335",
+            "quote": "A contract of indemnity purporting or claimed to relieve one from the consequences of his failure to exercise ordinary care must be strictly construed. Accordingly, it is frequently stated as the general rule that a contract of indemnity will not be construed to indemnify the indemnitee against losses resulting from his own negligent acts unless such intention is expressed in clear and unequivocal terms, or unless no other meaning can be ascribed to it. Alabama has generally followed these general rules when construing contracts between private parties, as distinguished from corporations performing a public service.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "388 So.2d 171",
+        "name": "Industrial Tile, Inc. v. Stewart",
+        "court": "Ala.",
+        "decided": "1980",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "fb242dd55511d3ba",
+            "cl_opinion_id": "9936335",
+            "quote": "we are compelled to conclude that, if the parties knowingly, evenhandedly, and for valid consideration, intelligently enter into an agreement whereby one party agrees to indemnify the other, including indemnity against the indemnitee's own wrongs, if expressed in clear and unequivocal language, then such agreements will be upheld.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Industrial Tile, Inc. v. Stewart, 388 So.2d 171 (Ala. 1980): quotes are from the main-opinion row fb242dd55511d3ba. The vote is recorded in that row — Torbert, C.J., and Maddox, Almon and Beatty, JJ., concur; Faulkner, Jones and Embry, JJ., concur in part and dissent in part, the separate writing (row 171acb26aeb18a3c) dissenting precisely as to the indemnity holding. The first quoted passage is the Court setting out general rules drawn from a secondary source before adopting them for Alabama; the Court's own sentence closing that passage is included so the attribution is visible. The Court did not hold the clause before it valid: it said it could not say as a matter of law that the agreement failed the test, and remanded. Later-treatment scan: 47 later Alabama opinions mention 388 So.2d 171, none in a negative-word window. NOT established: whether Alabama applies a different rule to a contract with a corporation performing a public service (the opinion distinguishes that case but this rule does not state its content); whether an indemnity clause also shifts the indemnitee's attorney fees. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "lien-waiver",
+    "rule_id": "al-no-lien-waiver-statute-but-8-29-3-and-8-29-5-limits",
+    "question": "Is the lien waiver our Alabama subcontract makes us sign enforceable?",
+    "rule": "Alabama's construction statutes read here do not prohibit or prescribe a lien waiver. What they do say is that the paying party may condition payment on the receipt of a full release of any lien of the contractor, subcontractor, or sub-subcontractor for the amount of work being paid (Ala. Code § 8-29-3(n)), and that a party may not waive the right to receive interest before a payment is due under a contract subject to the prompt-payment chapter, although a party may waive the interest due on a late payment on or after the date the payment is due (§ 8-29-5). The mechanics' and materialmen's lien itself is created by Ala. Code § 35-11-210 for work, labor, material, fixtures or machinery furnished for a building or improvement on land under a contract with the owner or the owner's agent, architect, trustee, contractor or subcontractor, on compliance with the division's requirements, and for employees of the contractor and materialmen furnishing to him the lien extends only to the amount of any unpaid balance due the contractor by the owner.",
+    "trap": "Two things a drafter should not read into the statute. The release § 8-29-3(n) contemplates is tied to \"the amount of work being paid\" — nothing in the chapter blesses a release of lien rights for work not yet paid for, and nothing in it voids one either, so the waiver's own words govern. And the one waiver the chapter does restrict is of statutory interest, not of the lien: an advance waiver of interest before payment is due is outside what § 8-29-5 permits. Note also the ceiling in § 35-11-210: a subcontractor's or materialman's lien reaches only the unpaid balance due the contractor from the owner, unless the supplier gave the owner the written pre-furnishing notice the section describes.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_3",
+            "quote": "Also, the paying party may condition payment on the receipt of a full release of any lien of the contractor, subcontractor, or sub-subcontractor for the amount of work being paid.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_5",
+            "quote": "A party may not waive the right to receive interest before a payment is due under a contract subject to this section. A party may waive the interest due on any late payment on or after the date the payment is due under Section 8-29-3.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 35-11-210",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_35_11_210",
+            "quote": "or, if employees of the contractor or persons furnishing material to him or her, the lien shall extend only to the amount of any unpaid balance due the contractor by the owner or proprietor, and the employees and materialmen shall also have a lien on the unpaid balance.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 8-29-3, 8-29-5, 8-29-7, 35-11-210. A scan of the published Alabama lien division (§§ 35-11-2xx) for \"waiv\" returned a single provision, § 35-11-272, and it concerns abandonment of the lien by failing to sue within 60 days of completion, not a contractual waiver. So Alabama, unlike several states, has NO statute voiding an advance construction lien waiver in the sections read; this rule says that and does not convert the silence into permission. NOT established: whether an Alabama court will enforce a lien waiver signed before payment, the effect of a conditional versus unconditional waiver, and the balance of the lien division's filing and notice requirements (§§ 35-11-211 to 35-11-234 were not read).",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "limitation-of-liability",
+    "rule_id": "al-exculpatory-public-interest-test-versus-a-liability-cap",
+    "question": "Will an Alabama court enforce this clause excluding or capping our liability?",
+    "rule": "Which test applies depends on which clause it is. For an exculpatory clause, the Supreme Court of Alabama in Morgan v. South Central Bell Telephone Co. concluded that the best rule, and the simplest in application, is that exculpatory clauses affecting the public interest are invalid, and adopted the six criteria from Tunkl v. Regents of the University of California to identify the kind of agreement in which an exculpatory clause is invalid as contrary to public policy; it held that the transaction before it — a telephone company's Yellow Pages advertising contract — clearly met those criteria. For a clause that caps rather than eliminates liability, the Court in Fox Alarm Co. v. Wadsworth said Morgan is inapposite: an exculpatory clause relieves a party from liability resulting from a negligent or wrongful act, while at issue there was a limitation-of-liability clause, not an exculpatory clause; and, on the authority of Fleming Farms v. Dixie AG Supply, once the party seeking to enforce a limitation-of-liability clause makes a prima facie showing that the clause is not unconscionable, the burden shifts to the plaintiff to present substantial evidence to the contrary.",
+    "trap": "The label matters more in Alabama than the drafting. A clause that wipes out liability altogether is measured against the Tunkl public-interest criteria — regulated business, service of great importance offered to the public, decisive bargaining advantage, standardised adhesion form with no option to pay for protection, and the customer's person or property placed under the other side's control — and a business with public-facing service and a form contract can meet them. A cap is not analysed that way at all; it is tested for unconscionability, with the burden shifting to the challenger once the proponent makes a prima facie showing. A separate rule governs shifting liability for one's own negligence to the other party: see the indemnity rule and Industrial Tile's clear-and-unequivocal standard.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "466 So.2d 107",
+        "name": "Morgan v. South Central Bell Telephone Co.",
+        "court": "Ala.",
+        "decided": "1985",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "71145338b059ed2b",
+            "cl_opinion_id": "7540461",
+            "quote": "A review of the various methods by which other states have dealt with exculpatory clauses and their refusal to enforce them convinces us that the best rule, and the simplest in application, is that exculpatory clauses affecting the public interest are invalid.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "466 So.2d 107",
+        "name": "Morgan v. South Central Bell Telephone Co.",
+        "court": "Ala.",
+        "decided": "1985",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "71145338b059ed2b",
+            "cl_opinion_id": "7540461",
+            "quote": "Six criteria were established to identify the kind of agreement in which an exculpatory clause is invalid as contrary to public policy.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "466 So.2d 107",
+        "name": "Morgan v. South Central Bell Telephone Co.",
+        "court": "Ala.",
+        "decided": "1985",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "71145338b059ed2b",
+            "cl_opinion_id": "7540461",
+            "quote": "The transaction before this court clearly meets the Tunkl criteria. The contract arises out of a private business transaction of the telephone company which in all other respects is regulated by the Public Service Commission in performing its services.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "913 So.2d 1070",
+        "name": "Fox Alarm Co. v. Wadsworth",
+        "court": "Ala.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "fe205676d8146c8b",
+            "cl_opinion_id": "1735529",
+            "quote": "In Fleming Farms v. Dixie AG Supply, Inc., 631 So.2d 922 (Ala.1994), this Court stated that once the party seeking to enforce a limitation-of-liability clause makes a prima facie showing that the clause is not unconscionable, the burden shifts to the plaintiff to present substantial evidence to the contrary.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "913 So.2d 1070",
+        "name": "Fox Alarm Co. v. Wadsworth",
+        "court": "Ala.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "fe205676d8146c8b",
+            "cl_opinion_id": "1735529",
+            "quote": "An exculpatory clause \"reliev[es] a party from liability resulting from a negligent or wrongful act.\" Black's Law Dictionary 608 (8th ed.2004). At issue in this case, however, is a limitation-of-liability clause, not an exculpatory clause.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Morgan v. South Central Bell Telephone Co., 466 So.2d 107 (Ala. 1985) (Embry, J.), read at the exculpatory-clause section; the row records no separate opinion. The six Tunkl criteria are quoted by the Alabama court from the California Supreme Court; this rule names them as criteria the Alabama court adopted, which is what the opinion says. Fox Alarm Co. v. Wadsworth, 913 So.2d 1070 (Ala. 2005): the quoted passages are in the main opinion, but the division matters and is stated here — Nabers, C.J., and Houston, Brown and Stuart, JJ., concurred, while Lyons, Johnstone, Harwood and Woodall, JJ., concurred in part and dissented in part, Lyons, J., writing that he concurred in all aspects of the main opinion EXCEPT insofar as it limited the damages to $250 under the limitation-of-liability clause. So the doctrinal distinction quoted here was not disputed by the separate writings, while the application of the clause to that record was. Fleming Farms v. Dixie AG Supply, Inc., 631 So.2d 922 (Ala. 1994), was NOT read; it is described only as Fox Alarm describes it. Later-treatment scan: 40 later Alabama opinions mention 466 So.2d 107 and 4 mention 913 So.2d 1070, none in a negative-word window. NOT established: how the Tunkl criteria apply to a business-to-business services contract, and whether an Alabama cap is enforceable against a claim for gross negligence or intentional conduct. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "limitation-of-remedy",
+    "rule_id": "al-7-2-719-exclusive-remedy-and-the-personal-injury-floor",
+    "question": "Will Alabama enforce a repair-or-replace remedy and a consequential-damages exclusion in a sale of goods?",
+    "rule": "Within limits the section itself sets. Subject to subsections (2) and (3) and to § 7-2-718, the agreement may provide for remedies in addition to or in substitution for those in the article and may limit or alter the measure of damages, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy (Ala. Code § 7-2-719(1)). Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title (§ 7-2-719(2)). Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable; limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable, but limitation of damages where the loss is commercial is not (§ 7-2-719(3)). Alabama adds a subsection the uniform text does not have: nothing in § 7-2-719 or in § 7-2-718 shall be construed so as to limit the seller's liability for damages for injury to the person in the case of consumer goods (§ 7-2-719(4)).",
+    "trap": "Two Alabama-specific points. Subsection (4) is not the uniform rule: for personal injury from consumer goods it is not a presumption that the limitation is unconscionable but a direction that neither § 7-2-719 nor § 7-2-718 is to be construed to limit the seller's liability at all. And exclusivity is a drafting act, not a default — a repair-or-replace clause that does not say the remedy is exclusive leaves the buyer every other Article 2 remedy as well. Nothing quoted here decides whether a consequential-damages exclusion survives when the exclusive remedy fails of its essential purpose.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_719",
+            "quote": "The agreement may provide for remedies in addition to or in substitution for those provided in this article and may limit or alter the measure of damages recoverable under this article, as by limiting the buyer’s remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and (b) Resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy. (2) Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title. (3) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_719",
+            "quote": "Nothing in this section or in Section 7-2-718 shall be construed so as to limit the seller’s liability for damages for injury to the person in the case of consumer goods.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 7-2-718 and 7-2-719. Subsection (4) of § 7-2-719 is an Alabama addition to the uniform text and is quoted rather than summarised for that reason. NOT established: whether the failure of an exclusive remedy under § 7-2-719(2) also defeats a separate consequential-damages exclusion under (3) in Alabama — no Alabama case on that question is cited here. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "limitations-period",
+    "rule_id": "al-six-years-on-a-written-contract-and-four-on-goods",
+    "question": "How long do we have to sue on this Alabama contract, and can the contract shorten it?",
+    "rule": "Six years for most contracts. Ala. Code § 6-2-34 requires actions founded on promises in writing not under seal, actions for the recovery of money upon a loan or upon a stated or liquidated account, and actions upon any simple contract or specialty not specifically enumerated in that section, to be commenced within six years. For a sale of goods the period is four years: an action for breach of any contract for sale must be commenced within four years after the cause of action has accrued, and by the original agreement the parties may reduce the period to not less than one year but may not extend it; a cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge, and a breach of warranty occurs on tender of delivery except where a warranty explicitly extends to future performance and discovery must await that performance, while a cause of action for damages for injury to the person in the case of consumer goods accrues when the injury occurs (Ala. Code § 7-2-725(1)-(2)).",
+    "trap": "The shortening power in § 7-2-725(1) is specific to a contract for sale, it works only through the ORIGINAL agreement, and one year is the floor — a later amendment shortening the period, or a six-month clause, is not what the subsection authorises. Alabama's discovery rule for goods is also narrow: time runs from the breach whether or not the buyer knew, and the future-performance exception requires the warranty to extend explicitly to future performance. Nothing quoted here establishes whether a contract outside Article 2 may shorten the six-year period, and a search of the Alabama Supreme Court for a rule on contractual limitation periods outside the UCC returned none.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 6-2-34",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_6_2_34",
+            "quote": "The following must be commenced within six years: (1) Actions for any trespass to person or liberty, such as false imprisonment or assault and battery; (2) Actions for any trespass to real or personal property; (3) Actions for the detention or conversion of personal property; (4) Actions founded on promises in writing not under seal; (5) Actions for the recovery of money upon a loan, upon a stated or liquidated account or for arrears of rent due upon a parol demise;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 6-2-34",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_6_2_34",
+            "quote": "Actions upon any simple contract or speciality not specifically enumerated in this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_725",
+            "quote": "An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_725",
+            "quote": "A cause of action accrues when the breach occurs, regardless of the aggrieved party’s lack of knowledge of the breach. A breach of warranty occurs when tender of delivery is made, except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered; however, a cause of action for damages for injury to the person in the case of consumer goods shall accrue when the injury occurs.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 6-2-34, 6-2-38 (the two-year list, which covers actions for injury to the person or rights of another NOT arising from contract) and 7-2-725 (including (3), the six-month refiling window, and (4), which leaves tolling law unaffected). The published text of § 6-2-34(9) spells \"speciality\"; it is quoted as published. NOT established: enforceability in Alabama of a contractual limitations period in a contract that is not a contract for sale; which subdivision of § 6-2-34 an unwritten contract falls under. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "liquidated-damages",
+    "rule_id": "al-camelot-three-criteria-and-7-2-718",
+    "question": "Will Alabama enforce this liquidated damages clause or call it a penalty?",
+    "rule": "It is tested against three criteria, as a question of law. In Camelot Music, Inc. v. Marx Realty & Improvement Co. the Supreme Court of Alabama said the courts generally identify three criteria by which a valid liquidated damages clause may be distinguished from a penalty: first, the injury caused by the breach must be difficult or impossible to accurately estimate; second, the parties must intend to provide for damages rather than for a penalty; and third, the sum stipulated must be a reasonable pre-breach estimate of the probable loss. Determining whether a liquidated damages provision is valid is a question of law to be determined by the trial court based on the facts of each case. For a sale of goods the statute states the same idea with its own consequence: damages may be liquidated only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy, and a term fixing unreasonably large liquidated damages is void as a penalty (Ala. Code § 7-2-718(1)).",
+    "trap": "Validity is decided by the court, not the jury, so the clause lives or dies on the record about the deal rather than on sympathy. Reciting \"as liquidated damages and not as a penalty\" goes only to the second criterion; it does nothing for the first or the third. In a sale of goods, § 7-2-718 adds a consequence the common-law test does not state in terms: an unreasonably large stipulated sum is void, not reduced.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "514 So.2d 987",
+        "name": "Camelot Music, Inc. v. Marx Realty & Improvement Co.",
+        "court": "Ala.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "38fba34a594932b3",
+            "cl_opinion_id": "1896612",
+            "quote": "The courts generally identify three criteria by which a valid liquidated damages clause may be distinguished from a penalty. First, the injury caused by the breach must be difficult or impossible to accurately estimate; second, the parties must intend to provide for damages rather than for a penalty; and, third, the sum stipulated must be a reasonable pre-breach of the probable loss.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "514 So.2d 987",
+        "name": "Camelot Music, Inc. v. Marx Realty & Improvement Co.",
+        "court": "Ala.",
+        "decided": "1987",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "38fba34a594932b3",
+            "cl_opinion_id": "1896612",
+            "quote": "Determining whether a liquidated damages provision is valid is a question of law to be determined by the trial court based on the facts of each case.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-718",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_718",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Camelot Music, Inc. v. Marx Realty & Improvement Co., 514 So.2d 987 (Ala. 1987): Jones, Shores, Adams and Houston, JJ., concurred; Beatty and Steagall, JJ., dissented, and the dissent addresses a jury-demand and amended-complaint question, not the liquidated-damages criteria; Torbert, C.J., did not sit. The published text of the third criterion reads \"a reasonable pre-breach of the probable loss\"; a later Alabama opinion (Weaver v. Frios Gourmet Pops, 2026) quotes the same sentence with \"[estimate]\" supplied, and this rule states it as \"pre-breach estimate\" while the quoted authority preserves the published wording. Later-treatment scan: 10 later Alabama opinions mention 514 So.2d 987, none in a negative-word window. Ala. Code § 7-2-718 read in full. NOT established: how Alabama treats a clause that is triggered by an event other than breach. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "non-competition",
+    "rule_id": "al-8-1-190-void-unless-it-fits-one-of-six-allowed-contracts",
+    "question": "Is this Alabama restrictive covenant enforceable?",
+    "rule": "Only if it fits one of the six contracts the article allows. Every contract by which anyone is restrained from exercising a lawful profession, trade, or business of any kind otherwise than as § 8-1-190 provides is to that extent void (Ala. Code § 8-1-190(a)). The permitted contracts, each to preserve a protectable interest, are: an agreement between businesses or persons limiting their ability to hire the other's agent, servant or employee where that person holds a position uniquely essential to the management, organization or service of the business; an agreement to limit commercial dealings to each other; a seller of the good will of a business agreeing with the buyer to refrain from a similar business and from soliciting that business's customers within a specified geographic area so long as the buyer carries on a like business there, subject to reasonable time and place restraints, with restraints of one year or less presumed reasonable; an agent, servant or employee agreeing with a commercial entity to refrain from a similar business within a specified geographic area so long as the entity carries on a like business there, subject to reasonable restraints of time and place, with restraints of two years or less presumed reasonable; an agent, servant or employee agreeing not to solicit current customers so long as the entity carries on a like business, subject to reasonable time restraints, with restraints of 18 months or for as long as post-separation consideration is paid, whichever is greater, presumed reasonable; and, on or in anticipation of dissolution, an agreement among partners, owners or members not to carry on a similar commercial activity in the area where it was transacted (§ 8-1-190(b)). A protectable interest includes trade secrets as defined in § 8-27-2, listed categories of confidential information that may not qualify as trade secrets, commercial relationships or contacts with specific prospective or existing customers, patients, vendors or clients, customer or client good will associated with an ongoing business or trade dress or a specific marketing or trade area, and specialized and unique training involving substantial business expenditure directed to that person where the training is specifically set forth in writing as the consideration for the restraint; job skills in and of themselves, without more, are not protectable interests (§ 8-1-191). To be valid, any contract executed under the article must be reduced to writing, signed by all parties, and supported by adequate consideration (§ 8-1-192). The party seeking enforcement has the burden of proof on every element; the party resisting has the burden of proving undue hardship if raised as a defence (§ 8-1-194).",
+    "trap": "The reformation power is not general. If a specified restraint is overly broad or unreasonable in its DURATION, a court may void the restraint in part and reform it to preserve the protectable interest; but if the restraint does not fall within the limited exceptions in § 8-1-190(b), the court may void it in its entirety (§ 8-1-193). So a covenant aimed at something the article does not allow is not saved by blue-pencilling. The time figures are presumptions of reasonableness, not entitlements — one year on a sale of good will, two years on an employee non-compete, and for a customer non-solicitation 18 months or as long as post-separation consideration is paid, whichever is greater. And \"job skills in and of themselves, without more\" are outside the protectable interests, so a covenant resting on the employee's general ability has nothing to preserve.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-190",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_190",
+            "quote": "Every contract by which anyone is restrained from exercising a lawful profession, trade, or business of any kind otherwise than is provided by this section is to that extent void.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-190",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_190",
+            "quote": "One who sells the good will of a business may agree with the buyer to refrain from carrying on or engaging in a similar business and from soliciting customers of such business within a specified geographic area so long as the buyer, or any entity deriving title to the good will from that business, carries on a like business therein, subject to reasonable time and place restraints. Restraints of one year or less are presumed to be reasonable. (4) An agent, servant, or employee of a commercial entity may agree with such entity to refrain from carrying on or engaging in a similar business within a specified geographic area so long as the commercial entity carries on a like business therein, subject to reasonable restraints of time and place. Restraints of two years or less are presumed to be reasonable. (5) An agent, servant, or employee of a commercial entity may agree with such entity to refrain from soliciting current customers, so long as the commercial entity carries on a like business, subject to reasonable time restraints. Restraints of 18 months or for as long as post-separation consideration is paid for such agreement, whichever is greater, are presumed to be reasonable.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-191",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_191",
+            "quote": "Job skills in and of themselves, without more, are not protectable interests.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-192",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_192",
+            "quote": "In order to be valid, any contract or agreement executed pursuant to this article shall be reduced to writing, signed by all parties, and be supported by adequate consideration.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-193",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_193",
+            "quote": "If a contractually specified restraint is overly broad or unreasonable in its duration, a court may void the restraint in part and reform it to preserve the protectable interest or interests. If a contractually specified restraint does not fall within the limited exceptions set out in subsection (b) of Section 8-1-190, a court may void the restraint in its entirety.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-194",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_194",
+            "quote": "The party seeking enforcement of the covenant has the burden of proof on every element. The party resisting enforcement of the covenant has the burden of proving the existence of undue hardship, if raised as a defense.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 8-1-190 to 8-1-197, and § 8-1-1 (the predecessor section, whose published text now reads only \"Repealed by Act 2015-465 effective January 1, 2016\"). Which version governs a covenant depends on its date, which this store cannot establish; covenants predating the article are governed by former § 8-1-1 and the cases under it, none of which is read or asserted here. This rule is NOT tagged to the employment contract type: § 8-1-190(b) permits business-to-business no-hire agreements, agreements to limit commercial dealings, sale-of-good-will covenants and dissolution covenants as well as employee covenants, so the article is wider than employment. Section 8-1-195 lists the remedies (injunctive and other equitable relief, actual damages or lawful liquidated damages if provided, and contract remedies including fees if provided for), and § 8-1-196 preserves professional exemptions recognised by Alabama law without stating what they are — this rule does not state their content. NOT established: what makes a position \"uniquely essential\" under (b)(1); how a court reforms a restraint under § 8-1-193; whether the presumptions are rebuttable and by what showing — the sections read say only that the stated restraints \"are presumed to be reasonable\". This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "prompt-payment",
+    "rule_id": "al-8-29-3-payment-deadlines-retainage-and-the-interest-floor",
+    "question": "What payment deadlines does Alabama impose on a private construction contract, and can the contract change them?",
+    "rule": "Chapter 29 of Title 8 sets a default and caps retainage. Performance by a contractor, subcontractor or sub-subcontractor in accordance with the contract entitles them to payment from the party with whom they contract, and all contracts between parties require a date of payment (Ala. Code § 8-29-2). An owner must pay a contractor's pay request or invoice in accordance with the payment terms agreed by the owner and contractor, which must be specified in all contract documents, but if payment terms are not agreed, within 30 days after receipt (§ 8-29-3(a)); a contractor and a subcontractor must pay down the chain in accordance with agreed terms, and if none are agreed within seven days of receipt of payment from above (§ 8-29-3(b)-(c)), and a contractor who receives an owner's payment must pay each subcontractor its portion not later than the seventh day after receiving it (§ 8-29-3(e)). Non-compliant payment carries interest at one percent per month, twelve percent per annum, on the unpaid balance (§ 8-29-3(d)). Retainage is capped: not more than 10 percent of the estimated amount of work properly done and the value of materials stored may be retained, and after 50 percent completion no further retainage may be withheld, with interest at one percent per month on any excess (§ 8-29-3(i)-(k)); the owner must release and pay retainage no later than 60 days after completion of the contractor's work or after substantial completion, whichever occurs first, with all necessary certificates of occupancy issued (§ 8-29-3(l)). A party may not waive the right to receive interest before a payment is due, though it may waive interest on a late payment on or after the date the payment is due (§ 8-29-5). In a civil action under the chapter the party in whose favour judgment is rendered recovers reasonable attorneys' fees, court costs and reasonable expenses (§ 8-29-6).",
+    "trap": "The 30-day and seven-day figures are defaults that agreed payment terms displace — but the chapter requires the agreed terms to be specified in all contract documents, and it does not let the contract touch the interest right in advance (§ 8-29-5) or the retainage ceiling. Check the exemptions before relying on any of it: the chapter does not apply to residential homebuilders, to improvements to real property intended for residential purposes consisting of 16 or fewer residential units, to contracts, subcontracts or sub-subcontracts of $10,000 or less, or to contracts with the State or local governments of Alabama (§ 8-29-7). Subsections (h) through (l), the retainage rules, also do not apply to a construction project for or by an electric utility regulated by the Public Service Commission (§ 8-29-3(m)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_2",
+            "quote": "Performance by a contractor, subcontractor, or sub-subcontractor in accordance with the provisions of his or her contract entitles them to payment from the party with whom they contract. All contracts between parties require a date of payment.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_3",
+            "quote": "the owner shall timely pay the contractor by mailing via first class mail or delivering the amount of the pay request or invoice in accordance with the payment terms agreed to by the owner and the contractor, the agreed upon payment terms must be specified in all contract documents, but if payment terms are not agreed to, then within 30 days after receipt of the pay request or invoice.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_3",
+            "quote": "If the owner, contractor, or subcontractor does not make payment in compliance with this chapter, the owner, contractor, or subcontractor shall be obligated to pay his or her contractor, subcontractor, or sub-subcontractor interest at the rate of one percent per month (12% per annum) on the unpaid balance due.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_3",
+            "quote": "There shall be retained not more than 10 percent of the estimated amount of work properly done and the value of materials stored on the site or suitably stored and insured off-site, and after 50 percent completion has been accomplished, no further retainage shall be withheld.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-3",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_3",
+            "quote": "The owner shall release and pay retainage to the contractor for work completed on any construction contract no later than 60 days after the completion of the contractor’s work defined in its contract with the owner, or no later than 60 days after substantial completion of the project, whichever occurs first, and in both events, with all necessary certificates of occupancy having been issued.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_5",
+            "quote": "A party may not waive the right to receive interest before a payment is due under a contract subject to this section. A party may waive the interest due on any late payment on or after the date the payment is due under Section 8-29-3.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_6",
+            "quote": "In any such civil action, the party in whose favor a judgement is rendered shall be entitled to recover payment of reasonable attorneys’ fees, court costs and reasonable expenses from the other party.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-29-7",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_29_7",
+            "quote": "This chapter does not apply to the following: (1) Residential homebuilders. (2) Improvements to real property intended for residential purposes which consist of 16 or fewer residential units. (3) Contracts, subcontracts, or sub-subcontracts in the amount of ten thousand dollars ($10,000) or less. (4) Contracts with the state or local governments of the State of Alabama.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 8-29-2, 8-29-3 (all subsections, including (f)-(g) on matching retainage percentages down the chain, (m) the electric-utility carve-out from (h)-(l), (n) preserving the paying party's right to withhold on contract grounds or the § 8-29-4 grounds and to condition payment on a lien release for the amount being paid, and (o) on construction loan proceeds), 8-29-5, 8-29-6, 8-29-7. Section 8-29-4 (the notice and certification mechanics for withholding) and § 8-29-8 were NOT read in full, so the grounds and notice requirements for withholding are named here and not stated. Public-contract prompt payment under Title 39 was not researched. No Alabama case construing this chapter is cited.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "statute-of-frauds",
+    "rule_id": "al-8-9-2-writing-requirement-and-the-25000-loan-line",
+    "question": "Which Alabama agreements have to be in writing?",
+    "rule": "Under Ala. Code § 8-9-2, in the listed cases every agreement is void unless the agreement or some note or memorandum of it expressing the consideration is in writing and subscribed by the party to be charged or some other person lawfully authorized in writing. The list includes an agreement that by its terms is not to be performed within one year from the making; a special promise by an executor or administrator to answer damages out of his own estate; a special promise to answer for the debt, default or miscarriage of another; an agreement made upon consideration of marriage except mutual promises to marry; a contract for the sale of lands, tenements or hereditaments or any interest in them, except leases for a term not longer than one year, unless the purchase money or a portion of it is paid and the purchaser is put in possession by the seller; an agreement to make a will or to devise or bequeath property; every agreement or commitment to lend money, delay or forbear repayment of it, or to modify the provisions of such an agreement or commitment, except for consumer loans with a principal amount financed of less than $25,000; and, notwithstanding § 7-8-113, every agreement for the sale or purchase of securities other than through a national stock exchange or the over-the-counter market. For goods, a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defence unless there is a record sufficient to indicate a contract for sale has been made, signed by the party against whom enforcement is sought or the party's authorized agent or broker, and it is not enforceable beyond the quantity of goods shown (Ala. Code § 7-2-201(1)).",
+    "trap": "Subdivision (7) is the Alabama trap for commercial lending: an oral commitment to lend, to forbear, or to modify a loan is void unless it is a consumer loan with a principal amount financed under $25,000. The land exception is narrower than it looks — a lease of not more than one year is outside the writing requirement, and part payment takes a sale outside it only when the purchaser is ALSO put in possession by the seller. And the writing must express the consideration and be subscribed by the party to be charged; an agent's authority to subscribe must itself be in writing.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-9-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_9_2",
+            "quote": "In the following cases, every agreement is void unless such agreement or some note or memorandum thereof expressing the consideration is in writing and subscribed by the party to be charged therewith or some other person by him thereunto lawfully authorized in writing: (1) Every agreement which, by its terms, is not to be performed within one year from the making thereof; (2) Every special promise by an executor or administrator to answer damages out of his own estate; (3) Every special promise to answer for the debt, default or miscarriage of another;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-9-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_9_2",
+            "quote": "Every contract for the sale of lands, tenements or hereditaments, or of any interest therein, except leases for a term not longer than one year, unless the purchase money, or a portion thereof is paid and the purchaser is put in possession of the land by the seller;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-9-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_9_2",
+            "quote": "Every agreement or commitment to lend money, delay or forebear repayment thereof or to modify the provisions of such an agreement or commitment except for consumer loans with a principal amount financed less than $25,000;",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_201",
+            "quote": "Except as otherwise provided in this section, a contract for the sale of goods for the price of five hundred dollars ($500) or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party’s authorized agent or broker.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 8-9-2 and 7-2-201 (including (2), the merchant confirmation rule, and (3), the specially-manufactured-goods, in-court-admission and payment-or-acceptance exceptions). The published text of § 8-9-2(7) spells \"forebear\"; it is quoted as published. NOT established: Alabama's doctrines of part performance, promissory estoppel or partial performance as answers to § 8-9-2 — no Alabama case is cited here, and the section's own text supplies only the land exception quoted above. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "al-8-27-2-six-element-trade-secret-and-the-confidentiality-interest",
+    "question": "Does Alabama's Trade Secrets Act protect what our confidentiality clause covers?",
+    "rule": "Only if the information meets all six statutory elements. A trade secret is information that is used or intended for use in a trade or business; is included or embodied in a formula, pattern, compilation, computer software, drawing, device, method, technique, or process; is not publicly known and is not generally known in the trade or business of the person asserting that it is a trade secret; cannot be readily ascertained or derived from publicly available information; is the subject of efforts that are reasonable under the circumstances to maintain its secrecy; and has significant economic value (Ala. Code § 8-27-2(1)). The chapter's provisions that are inconsistent with the common law of trade secrets supersede the common law, and otherwise the chapter is to be construed consistently with it (§ 8-27-6). Separately, the restraint-of-trade article treats as a protectable interest not only trade secrets as defined in § 8-27-2 but also confidential information that would not otherwise qualify as a trade secret, listing pricing information and methodology, compensation, customer lists, customer data, mailing lists, prospective customer information, financial and investment information, management and marketing plans, business strategy, technique and methodology, business models and data, processes and procedures, and company-provided files, software, code, reports, documents, manuals and forms treated as confidential to the business (§ 8-1-191(a)(2)).",
+    "trap": "Six elements, all required — and the two that decide most cases are reasonable secrecy efforts and the readily-ascertainable test. A confidentiality clause that sweeps in everything the employee saw does not turn it into a trade secret, and it may cut the other way: calling public or easily derived information confidential is evidence against the secrecy of what genuinely is secret. Note also that § 8-27-6 supersedes only the INCONSISTENT common law, so it is not a displacement provision of the kind found in Uniform Trade Secrets Act states, and nothing quoted here says whether it displaces a contract claim.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-27-2",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_27_2",
+            "quote": "TRADE SECRET. A “trade secret” is information that: a. Is used or intended for use in a trade or business; b. Is included or embodied in a formula, pattern, compilation, computer software, drawing, device, method, technique, or process; c. Is not publicly known and is not generally known in the trade or business of the person asserting that it is a trade secret; d. Cannot be readily ascertained or derived from publicly available information; e. Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy; and f. Has significant economic value.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-27-6",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_27_6",
+            "quote": "Those provisions of this chapter that are inconsistent with the common law of trade secrets supersede the common law; otherwise, this chapter should be construed to be consistent with the common law of trade secrets.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-1-191",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_1_191",
+            "quote": "Confidential information, including, but not limited to, pricing information and methodology; compensation; customer lists; customer data and information; mailing lists; prospective customer information; financial and investment information; management and marketing plans; business strategy, technique, and methodology; business models and data; processes and procedures; and company provided files, software, code, reports, documents, manuals, and forms used in the business that may not otherwise qualify as a trade secret but which are treated as confidential to the business entity, in whatever medium provided or preserved, such as in writing or stored electronically.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 8-27-2 and 8-27-6, and § 8-1-191. Sections 8-27-3 (misappropriation), 8-27-4 (remedies) and 8-27-5 (limitation) were NOT read, so nothing here states what misappropriation is, what remedies the chapter gives or how long a claim survives. NOT established: whether a confidentiality covenant with no time limit, or one covering information that is not a trade secret, is enforceable in Alabama — the restraint-of-trade article makes such information a protectable INTEREST under § 8-1-191(a)(2) but that is a different question from the covenant's own enforceability, which § 8-1-190(b) governs. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "unconscionability",
+    "rule_id": "al-layne-four-factors-plus-the-substantive-procedural-split",
+    "question": "How does an Alabama court decide whether a clause is unconscionable?",
+    "rule": "By four factors, applied to a party the court first finds unsophisticated or uneducated. In Layne v. Garner the Supreme Court of Alabama said that although Alabama law lacks an explicit standard for determining whether a contract or contractual provision is unconscionable, case law reveals four important factors: in addition to finding that one party was unsophisticated and/or uneducated, a court should ask (1) whether there was an absence of meaningful choice on one party's part, (2) whether the contractual terms are unreasonably favorable to one party, (3) whether there was unequal bargaining power among the parties, and (4) whether there were oppressive, one-sided, or patently unfair terms in the contract. In Blue Cross Blue Shield of Alabama v. Rigas the Court added that it has also recognized a distinction between substantive unconscionability and procedural unconscionability and categorized those factors as either substantive or procedural. For a sale of goods the statute supplies the remedy: if the court as a matter of law finds the contract or any clause unconscionable at the time it was made, it may refuse to enforce the contract, enforce the remainder without the clause, or so limit the application of the clause as to avoid an unconscionable result, and the parties must be afforded a reasonable opportunity to present evidence as to the clause's commercial setting, purpose and effect (Ala. Code § 7-2-302).",
+    "trap": "The threshold is the part that defeats most commercial challenges: Layne states the four factors as questions to ask \"in addition to finding that one party was unsophisticated and/or uneducated\", and Layne itself turned on the record showing the challenger was a sophisticated businessman. The factors are also assessed as of the time the contract was made — § 7-2-302(1) says \"unconscionable at the time it was made\" — so a clause that becomes harsh in operation is not thereby unconscionable. For a liability cap specifically, the burden shifts once the proponent makes a prima facie showing of no unconscionability: see the limitation-of-liability rule.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "612 So.2d 404",
+        "name": "Layne v. Garner",
+        "court": "Ala.",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "aad730d6082a0fe2",
+            "cl_opinion_id": "1674497",
+            "quote": "Although Alabama law lacks an explicit standard for determining whether a contract or contractual provision is unconscionable, case law reveals that four factors are important in making this determination. In addition to finding that one party was unsophisticated and/or uneducated, a court should ask (1) whether there was an absence of meaningful choice on one party's part, (2) whether the contractual terms are unreasonably favorable to one party, (3) whether there was unequal bargaining power among the parties, and (4) whether there were oppressive, one-sided, or patently unfair terms in the contract.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "923 So.2d 1077",
+        "name": "Blue Cross Blue Shield of Alabama v. Rigas",
+        "court": "Ala.",
+        "decided": "2005",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "33de464d9e0543d4",
+            "cl_opinion_id": "1882571",
+            "quote": "This Court has also recognized a distinction between \"substantive unconscionability\" and \"procedural unconscionability\" and categorized the above factors as either substantive or procedural.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result. (2) When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable, the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Layne v. Garner, 612 So.2d 404 (Ala. 1992): Hornsby, C.J., and Adams, Houston, Steagall, Kennedy and Ingram, JJ., concur; no separate opinion in the row. The four factors are the Court's own summary of earlier Court of Civil Appeals and Supreme Court decisions, which were not read here. Blue Cross Blue Shield of Alabama v. Rigas, 923 So.2d 1077 (Ala. 2005), read at the unconscionability discussion; that case concerned an arbitration provision in a health plan and found neither substantive nor procedural unconscionability, so the quoted sentence is a statement of the framework and not of an outcome. Later-treatment scan: 38 later Alabama opinions mention 612 So.2d 404, none in a negative-word window. Ala. Code § 7-2-302 read in full. NOT established: whether both procedural and substantive unconscionability must be shown in Alabama, and which of the four Layne factors falls on which side of the line — Rigas says the Court has categorized them without the categorisation being quoted here. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "usury",
+    "rule_id": "al-eight-percent-written-cap-with-the-2000-dollar-exemption",
+    "question": "What interest can be charged under an Alabama contract, and what happens if it is too high?",
+    "rule": "The general cap is low and the exemption is wide. Except as otherwise provided by law, the maximum rate of interest upon the loan or forbearance of money, goods, or things in action, except by written contract, is $6 upon $100 for one year, and the rate by written contract is not to exceed $8 upon $100 for one year, and at that rate for a greater or lesser sum or a longer or shorter time (Ala. Code § 8-8-1). But any person, corporation, trust, general or limited partnership, or association may agree to pay whatever rate it determines for the loan or forbearance of money and for any credit sales, notwithstanding any law of the state otherwise limiting the rate, provided the ORIGINAL PRINCIPAL BALANCE is not less than $2,000, and provided that all laws relating to unconscionability in consumer transactions, including the Mini-Code in Chapter 19 of Title 5, still apply (§ 8-8-5(a)); as to such a loan, neither the borrower nor any surety, guarantor or endorser may raise or claim the defence or benefit of the usury laws (§ 8-8-5(b)), and the section does not apply where the original principal balance is less than $2,000 (§ 8-8-5(d)). Where the cap does bite, all contracts for interest at a higher rate than the chapter prescribes are usurious and cannot be enforced except as to the principal; the borrower cannot be required to pay more than the principal sum borrowed, and interest already paid must be deducted from the principal, with judgment entered for the balance only — though usury may not be pleaded against a holder in due course of a negotiable instrument (§ 8-8-12). Individuals, partnerships, banks, corporations and other legal entities may also charge the same rate or finance charge, to the same extent and under the same circumstances and conditions, as any federal or state chartered or licensed lending institution with its principal place of business in Alabama (§ 8-8-1.1(a)).",
+    "trap": "The $2,000 line, not the 8 percent figure, is what decides almost every commercial question: at or above a $2,000 original principal balance the parties may agree any rate and the usury defence is gone for the borrower AND for sureties, guarantors and endorsers. \"Original principal balance\" is defined to include the total principal incurred or contracted for, without regard to the amount of any initial or later advance, and \"interest\" there includes all direct or indirect charges imposed as an incident to the loan, forbearance or credit sale (§ 8-8-5(c)). Below $2,000 the penalty is severe and one-directional: the lender loses all interest, and interest already paid comes off the principal. Unconscionability law and the Mini-Code survive the exemption by its own terms.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-8-1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_8_1",
+            "quote": "Except as otherwise provided by law, the maximum rate of interest upon the loan or forbearance of money, goods, or things in action, except by written contract is $6 upon $100 for one year, and the rate of interest by written contract is not to exceed $8 upon $100 for one year and at that rate for a greater or less sum or for a longer or shorter time.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-8-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_8_5",
+            "quote": "Any person or persons, corporations, trust, general partnership or partnerships, limited partnership or partnerships, or association may agree to pay such rate or rates of interest for the loan or forbearance of money and for any credit sales as such person, corporation, trust, general partnership, limited partnership, or association may determine, notwithstanding any law of this state otherwise prescribing or limiting such rate or rates of interest; provided, that the original principal balance of the loan or forbearance of money or credit sales is not less than $2,000; provided further, that all laws relating to unconscionability in consumer transactions including but not limited to the provisions of Chapter 19 of Title 5, known as the Mini-Code, shall apply to transactions covered by this section.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-8-5",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_8_5",
+            "quote": "The term “original principal balance,” as used herein, shall include the total principal amount of indebtedness incurred or contracted for in a loan, forbearance of money, credit sales, or in a single issue or sale of bonds, debentures, promissory notes, or like transaction, without regard either to the face amount or denomination of any bond, debenture, note, or other evidence of indebtedness constituting a part of such issue or sale, or to the amount of the initial or any subsequent advance pursuant to such loan, forbearance, or credit sales. The term “interest” as used herein shall include all direct or indirect charges imposed as an incident to a loan, forbearance of money, or credit sales.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-8-12",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_8_12",
+            "quote": "Except as otherwise permitted by law, all contracts for the payment of interest upon the loan or forbearance of goods, money, things in action, or upon any contract whatever at a higher rate than is prescribed in this chapter are usurious and cannot be enforced except as to the principal. (b) The borrower of money at a usurious rate of interest shall not in any case be required to pay more than the principal sum borrowed, and if any interest has been paid, the same must be deducted from the principal and judgment entered for the balance only; provided, however, that the defense of usury may not be pleaded against a holder in due course of any negotiable instrument.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 8-8-1.1",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_8_8_1_1",
+            "quote": "Individuals, partnerships, banks, corporations, and other legal entities may, on any loans or extensions of credit made by them, charge or impose the same rate of interest or finance charge to the same extent and under the same circumstances and conditions as any federal or state chartered or licensed lending institution having its principal place of business in Alabama",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code §§ 8-8-1, 8-8-1.1, 8-8-5, 8-8-12. Sections 8-8-1.2, 8-8-2, 8-8-4, 8-8-6, 8-8-7 and 8-8-14 (further exemptions, the interest surcharge and a prime-indexed maximum) were NOT read, so other statutory rates and exemptions are not ruled out; § 8-8-10 (judgment interest) is outside this rule. Chapter 19 of Title 5 (the Mini-Code) was not read apart from § 5-19-10. Federal preemption of state rate caps for federally chartered or insured lenders is outside this rule. No Alabama case is cited here. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "venue-selection",
+    "rule_id": "al-outbound-forum-clause-enforceable-unless-unfair-or-seriously-inconvenient",
+    "question": "Will an Alabama court enforce our clause requiring suit somewhere else?",
+    "rule": "Presumptively yes, and the challenger carries a heavy burden. In Ex parte D.M. White Construction Co. the Supreme Court of Alabama stated that an outbound forum-selection clause is enforceable unless the challenging party can establish that enforcement of the clause would be unfair on the basis that the contract was affected by fraud, undue influence, or overweening bargaining power, or that enforcement would be unreasonable on the basis that the selected forum would be seriously inconvenient, and that the burden on the challenging party is difficult to meet; on appeal, review of a trial court's ruling on enforcing a forum-selection clause is for an abuse of discretion. Ex parte Rymer states the same two branches as a burden of clearly establishing either one, and describes what the first branch requires: to demonstrate that enforcement would be unfair, the challenger must show that the contract was affected by fraud, undue influence, or overweening bargaining power.",
+    "trap": "The two branches are not interchangeable, and each is about the contract or the forum rather than about convenience in the ordinary sense. Fraud must have affected the CONTRACT, so a fraud claim about the deal generally is not enough; and \"seriously inconvenient\" is a far higher bar than \"less convenient than home\". Note the procedural posture too: these are mandamus and abuse-of-discretion cases, so the trial court's ruling carries weight on review. The term \"outbound\" is doing work — a clause selecting a forum inside Alabama is an inbound clause, and the authorities quoted here address outbound ones.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "806 So.2d 370",
+        "name": "Ex parte D.M. White Construction Co.",
+        "court": "Ala.",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "0a8014276d44d778",
+            "cl_opinion_id": "1782485",
+            "quote": "An outbound forum-selection clause is enforceable unless the challenging party can establish that enforcement of the clause would be unfair on the basis that the contract \"`[w]as affected by fraud, undue influence, or overweening bargaining power or . . . enforcement would be unreasonable on the basis that the [selected] forum would be seriously inconvenient.'\" The burden on the challenging party is difficult to meet.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "806 So.2d 370",
+        "name": "Ex parte D.M. White Construction Co.",
+        "court": "Ala.",
+        "decided": "2001",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "0a8014276d44d778",
+            "cl_opinion_id": "1782485",
+            "quote": "On appeal, the review of a trial court's ruling on the question of enforcing a forum-selection clause is for an abuse of discretion.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "860 So.2d 339",
+        "name": "Ex parte Rymer",
+        "court": "Ala.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "f4f784b11462c9b4",
+            "cl_opinion_id": "1096573",
+            "quote": "The party challenging the enforcement of such a clause has the burden of clearly establishing either \"(1) that enforcement of the forum-selection clause would be unfair on the basis that the contract . . . [was] affected by fraud, undue influence, or overweening bargaining power or (2) that enforcement would be unreasonable on the basis that the chosen . . . forum would be seriously inconvenient for the trial of the action.\"",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "860 So.2d 339",
+        "name": "Ex parte Rymer",
+        "court": "Ala.",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-al",
+            "row_id": "f4f784b11462c9b4",
+            "cl_opinion_id": "1096573",
+            "quote": "In order to demonstrate that enforcement of the clause would be unfair, Hughes must show that the contract was affected by fraud, undue influence, or overweening bargaining power.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Ex parte D.M. White Construction Co., 806 So.2d 370 (Ala. 2001), and Ex parte Rymer, 860 So.2d 339 (Ala. 2003), read at the forum-selection discussion; neither row records a separate opinion. Both state the standard by quoting Professional Insurance Corp. v. Sutherland, 700 So.2d 347 (Ala. 1997), which a later Alabama decision describes as a PLURALITY opinion; that is why Sutherland is not cited here as the authority and the rule rests on the two majority opinions that adopted its formulation. Later-treatment scan: 35 later Alabama opinions mention 806 So.2d 370 and 23 mention 860 So.2d 339, none in a negative-word window. Ex parte Rymer also sets out five factors, drawn from an earlier decision, for judging whether a clearly stated clause is unreasonable; those factors were seen but are not quoted or stated here. NOT established: how an Alabama court treats an INBOUND forum-selection clause, and whether a forum clause survives a claim that the whole contract is void. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  },
+  {
+    "jurisdiction": "al",
+    "clause": "warranty-disclaimer",
+    "rule_id": "al-7-2-316-conspicuous-disclaimer-and-the-personal-injury-carve-out",
+    "question": "How do we disclaim implied warranties in an Alabama sale of goods?",
+    "rule": "By the statute's form rules, and not as to personal injury from consumer goods. Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and, in case of a writing, must be conspicuous; to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous, and language excluding all implied warranties of fitness is sufficient if it states, for example, that \"There are no warranties which extend beyond the description on the face hereof.\" (Ala. Code § 7-2-316(2)). Notwithstanding subsection (2), unless the circumstances indicate otherwise all implied warranties are excluded by expressions like \"as is\" or \"with all faults\" or other language which in common understanding calls the buyer's attention to the exclusion and makes plain there is no implied warranty; a buyer who has examined the goods, sample or model as fully as desired or has refused to examine takes no implied warranty as to defects an examination ought to have revealed; and an implied warranty can also be excluded or modified by course of dealing, course of performance or usage of trade (§ 7-2-316(3)). Alabama adds a subsection the uniform text does not have: nothing in subsection (2) or (3)(a) or in § 7-2-317 shall be construed so as to limit or exclude the seller's liability for damages for injury to the person in the case of consumer goods (§ 7-2-316(5)).",
+    "trap": "Subsection (5) is the Alabama-specific point and it is a hard floor: a conspicuous \"as is\" that would exclude every implied warranty under (3)(a) is not to be construed to limit or exclude the seller's liability for personal injury from consumer goods. The other trap is structural rather than local — (2) is expressly \"Subject to subsection (3)\", so the mention-merchantability and conspicuousness requirements are not the only route, and an \"as is\" sale can exclude implied warranties without them unless the circumstances indicate otherwise. Remedies for breach of warranty are limited under §§ 7-2-718 and 7-2-719, not under this section (§ 7-2-316(4)).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_316",
+            "quote": "Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous. Language to exclude all implied warranties of fitness is sufficient if it states, for example, that “There are no warranties which extend beyond the description on the face hereof.”",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_316",
+            "quote": "Unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like “as is,” “with all faults” or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty; and",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Ala. Code § 7-2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "AL_7_2_316",
+            "quote": "Nothing in subsection (2) or subsection (3) (a) or in Section 7-2-317 shall be construed so as to limit or exclude the seller’s liability for damages for injury to the person in the case of consumer goods.",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "Read in full: Ala. Code § 7-2-316, including (1) (construction of express warranties against negation, subject to § 7-2-202) and (4) (remedies limited under §§ 7-2-718 and 7-2-719). Subsection (5) is an Alabama addition to the uniform text and is quoted for that reason; the uniform (3)(d) livestock provision is absent from Alabama's section. Section 7-2-317 was not read. NOT established: what makes a disclaimer conspicuous in Alabama — no Alabama case on conspicuousness is cited here, and § 7-1-201's definition was not read. This store holds no statute effective dates; any date above is read from the section's own text, not from a currency check."
+  }
+]

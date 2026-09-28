@@ -1,0 +1,784 @@
+[
+  {
+    "jurisdiction": "ne",
+    "clause": "residency-and-venue",
+    "rule_id": "ne-one-year-actual-residence-or-marriage-solemnized-in-state-plus-county-of-residence-venue",
+    "question": "How long must a spouse live in Nebraska before a Nebraska court can grant a divorce, and where must the case be filed?",
+    "rule": "One year of actual Nebraska residence with a bona fide intention to make Nebraska a permanent home before the complaint is filed -- OR, without any fixed durational requirement, a marriage that was solemnized in Nebraska where either party has resided in the state continuously from the time of the marriage to the filing of the complaint. Neb. Rev. Stat. § 42-349: \"No action for dissolution of marriage may be brought unless at least one of the parties has had actual residence in this state with a bona fide intention of making this state his or her permanent home for at least one year prior to the filing of the complaint, or unless the marriage was solemnized in this state and either party has resided in this state from the time of marriage to filing the complaint. Persons serving in the armed forces of the United States who have been continuously stationed at any military base or installation in this state for one year or, if the marriage was solemnized in this state, have resided in this state from the time of marriage to the filing of the complaint shall for the purposes of sections 42-347 to 42-381 be deemed residents of this state.\" Venue is separate from residency and is set by § 42-348: \"All proceedings under sections 42-347 to 42-381 shall be brought in the district court of the county in which one of the parties resides.\"",
+    "trap": "The one-year clock is not the only route in: a marriage solemnized in Nebraska carries its own residence test with no fixed duration named in the text -- \"either party has resided in this state from the time of marriage to filing the complaint,\" which could be shorter or longer than a year depending on how long the marriage has lasted. This rule does not state, and the text does not resolve, what happens if that continuous residence is interrupted after a Nebraska-solemnized marriage; NOT ESTABLISHED here. Venue (§ 42-348, \"the county in which one of the parties resides\") is a second, independent requirement layered on top of state residency (§ 42-349) -- meeting the one-year/marriage-solemnized state test does not by itself establish the correct county, and only ONE party's county residence is required, not both. The military-service clause is its own alternate residency path, not a modification of the one-year rule for civilians.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-349",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_349",
+            "quote": "No action for dissolution of marriage may be brought unless at least one of the parties has had actual residence in this state with a bona fide intention of making this state his or her permanent home for at least one year prior to the filing of the complaint, or unless the marriage was solemnized in this state and either party has resided in this state from the time of marriage to filing the complaint. Persons serving in the armed forces of the United States who have been continuously stationed at any military base or installation in this state for one year or, if the marriage was solemnized in this state, have resided in this state from the time of marriage to the filing of the complaint shall for the purposes of sections 42-347 to 42-381 be deemed residents of this state.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-348",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_348",
+            "quote": "All proceedings under sections 42-347 to 42-381 shall be brought in the district court of the county in which one of the parties resides.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-349 (row NE_42_349, full text) and § 42-348 (row NE_42_348, full text, the section's first and only operative sentence; the remainder of § 42-348 -- transfer to a separate juvenile court and treatment of transferred orders -- was read but not quoted, a separate procedural topic). No case law was read for this row; the statutory text was dispositive on its own terms."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "grounds",
+    "rule_id": "ne-irretrievably-broken-only-ground-court-finding-required-after-hearing-or-waived-hearing-at-60-days",
+    "question": "Does a Nebraska divorce require proving someone did something wrong?",
+    "rule": "No -- Nebraska is a pure no-fault state. \"Dissolution of marriage\" is defined by statute as termination \"upon a finding that the marriage is irretrievably broken,\" and that finding is the entire ground. Neb. Rev. Stat. § 42-347(3): \"Dissolution of marriage means the termination of a marriage by decree of a court of competent jurisdiction upon a finding that the marriage is irretrievably broken.\" How the court reaches that finding is set out in § 42-361: \"(1) If both of the parties state under oath or affirmation that the marriage is irretrievably broken, or one of the parties so states and the other does not deny it, the court, after hearing, shall make a finding whether the marriage is irretrievably broken. (2) If one of the parties has denied under oath or affirmation that the marriage is irretrievably broken, the court shall consider all relevant factors, including the circumstances that gave rise to the filing of the complaint and the prospect of reconciliation, and shall make a finding whether the marriage is irretrievably broken.\"",
+    "trap": "HONEST NEGATIVE, RECORDED: §§ 42-347 and 42-361, the two sections that define the grounds and the finding mechanism, contain no fault-based ground -- no adultery, cruelty, abandonment, or confinement ground of the kind Texas preserves alongside its own no-fault insupportability ground. A denial by one party does not block the divorce; it only changes the procedure from a summary finding to one where \"the court shall consider all relevant factors, including the circumstances that gave rise to the filing of the complaint and the prospect of reconciliation\" -- the court can still find the marriage irretrievably broken over one party's objection. This rule does not state whether conduct during the marriage can affect property division or alimony under § 42-365 (this plugin's spousal-support and division-standard rows) -- that is a separate question this rule does not reach. TASK-FRAMING CORRECTION: an initial description of this topic assumed § 42-362 supplied \"the court's finding\" language paired with § 42-361; on reading, § 42-362 is a different section entirely -- it governs appointment of a guardian ad litem or attorney for a mentally ill spouse and support orders for that spouse, not the irretrievably-broken finding. The finding mechanism is contained entirely within § 42-361 itself, subsections (1) and (2); § 42-362 was read and is not cited as authority for this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-347",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_347",
+            "quote": "Dissolution of marriage means the termination of a marriage by decree of a court of competent jurisdiction upon a finding that the marriage is irretrievably broken.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-361",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_361",
+            "quote": "(1) If both of the parties state under oath or affirmation that the marriage is irretrievably broken, or one of the parties so states and the other does not deny it, the court, after hearing, shall make a finding whether the marriage is irretrievably broken.\n(2) If one of the parties has denied under oath or affirmation that the marriage is irretrievably broken, the court shall consider all relevant factors, including the circumstances that gave rise to the filing of the complaint and the prospect of reconciliation, and shall make a finding whether the marriage is irretrievably broken.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-362",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_362",
+            "quote": "When the pleadings or evidence in any action pursuant to sections 42-347 to 42-381 indicate that either spouse is mentally ill, a guardian ad litem or an attorney, or both, shall be appointed to represent the interests of such spouse.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-347 (row NE_42_347, the \"(3)\" definition of \"dissolution of marriage,\" its numbering label dropped in the quote per this plugin's convention of quoting the operative sentence) and § 42-361 (row NE_42_361, subsections (1) and (2) in full; subsection (3), the 60-day decree-without-hearing mechanism, is read and quoted instead in the waiting-period row, since it answers a timing question, not a grounds question). § 42-362 (guardian ad litem / attorney for a mentally ill spouse) was read in full and is NOT cited here -- see the task-framing correction above. A full-text read of §§ 42-347 and 42-361 found no fault ground; this was a plain reading of the two sections actually on point, not a keyword search across the whole chapter. PACK PROSE-CITATION AND CORPUS-CLAIM SWEEP 2026-09-22: the trap describes § 42-362 (guardian ad litem for a mentally ill spouse) to record that it is not the finding section; blocked so the description has a source."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "waiting-period",
+    "rule_id": "ne-sixty-days-post-service-before-hearing-or-waived-hearing-decree-plus-thirty-day-general-and-six-month-remarriage-finality",
+    "question": "How soon after filing can a Nebraska divorce actually be heard, decreed, and become final?",
+    "rule": "Three different clocks, all running from service, not from filing. First, no hearing at all before 60 days after service: § 42-363: \"No suit for divorce shall be heard or tried until sixty days after perfection of service of process, at which time the suit may be heard or tried and a decree may be entered.\" Second, an alternative, hearing-free path opens at the same 60-day mark if both parties agree: § 42-361(3): \"Sixty days or more after perfection of service of process, the court may enter a decree of dissolution without a hearing if: (a) Both parties waive the requirement of the hearing and the court has sufficient basis to make a finding that it has subject matter jurisdiction over the dissolution action and personal jurisdiction over both parties; and (b) Both parties have certified in writing that the marriage is irretrievably broken, both parties have certified that they have made every reasonable effort to effect reconciliation, all documents required by the court and by statute have been filed, and the parties have entered into a written agreement, signed by both parties under oath, resolving all issues presented by the pleadings in their dissolution action.\" Third, entry of the decree is not the end: § 42-372.01(1): \"Except for purposes of appeal as prescribed in section 42-372 , for purposes of remarriage as prescribed in subsection (2) of this section, and for purposes of continuation of health insurance coverage as prescribed in subsection (3) of this section, a decree dissolving a marriage becomes final and operative thirty days after the decree is entered or on the date of death of one of the parties to the dissolution, whichever occurs first.\" And § 42-372.01(2): \"For purposes of remarriage other than remarriage between the parties, a decree dissolving a marriage becomes final and operative six months after the decree is entered or on the date of death of one of the parties to the dissolution, whichever occurs first.\"",
+    "trap": "Sixty days is a floor on the HEARING, not on the decree's finality -- a decree entered at day 60 is not final for every purpose that day. § 42-372.01 layers three different finality dates onto the same decree depending on WHAT the question is: 30 days for most purposes, but a full six months if the question is remarriage (other than the two parties remarrying each other, which § 42-372.01(2) carves out by its own words), and a separate six months if the question is continuation of health insurance coverage under subsection (3) (not quoted in the authority above). Appeal timing runs on yet another track, cross-referenced to § 42-372, which this rule does not independently quote -- NOT ESTABLISHED here beyond the cross-reference. The 60-day no-hearing-before mechanism in § 42-361(3) is not automatic: it requires an affirmative waiver by BOTH parties plus a full written, sworn settlement agreement resolving every issue in the pleadings -- a contested case cannot use it merely because 60 days have passed.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-363",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_363",
+            "quote": "No suit for divorce shall be heard or tried until sixty days after perfection of service of process, at which time the suit may be heard or tried and a decree may be entered.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-361",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_361",
+            "quote": "Sixty days or more after perfection of service of process, the court may enter a decree of dissolution without a hearing if:\n(a) Both parties waive the requirement of the hearing and the court has sufficient basis to make a finding that it has subject matter jurisdiction over the dissolution action and personal jurisdiction over both parties; and\n(b) Both parties have certified in writing that the marriage is irretrievably broken, both parties have certified that they have made every reasonable effort to effect reconciliation, all documents required by the court and by statute have been filed, and the parties have entered into a written agreement, signed by both parties under oath, resolving all issues presented by the pleadings in their dissolution action.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-372.01",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_372_01",
+            "quote": "Except for purposes of appeal as prescribed in section 42-372 , for purposes of remarriage as prescribed in subsection (2) of this section, and for purposes of continuation of health insurance coverage as prescribed in subsection (3) of this section, a decree dissolving a marriage becomes final and operative thirty days after the decree is entered or on the date of death of one of the parties to the dissolution, whichever occurs first.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-372.01",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_372_01",
+            "quote": "For purposes of remarriage other than remarriage between the parties, a decree dissolving a marriage becomes final and operative six months after the decree is entered or on the date of death of one of the parties to the dissolution, whichever occurs first.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-363 (row NE_42_363, full text), § 42-361 (row NE_42_361, subsection (3) lead-in and (a)-(b) in full; the internal blank lines in the source between clauses collapse to single spaces under this store's whitespace-normalisation rule), and § 42-372.01 (row NE_42_372_01, subsections (1) and (2), each quoted in full; subsection (1)'s own text carries a stray space before the comma after \"section 42-372\" in the published statute text -- reproduced exactly as published, not corrected, per this store's verbatim-quote rule). Subsection (3) (health-insurance finality) and subsection (4) (pre-1995 decrees) were read but not quoted; § 42-372 (appeal timing), cross-referenced by § 42-372.01(1), was not independently read in this pass -- flagged in the trap rather than guessed at."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "marital-vs-non-marital-property",
+    "rule_id": "ne-marital-estate-defined-entirely-by-case-law-three-step-classification-commingling-and-burden-on-the-nonmarital-claimant",
+    "question": "Is a given asset separate (\"nonmarital\") property or part of the marital estate in a Nebraska divorce?",
+    "rule": "Nebraska's dissolution statutes never define \"marital property\" or \"nonmarital property\" -- the classification rule comes entirely from case law, not from Chapter 42's text. The Nebraska Supreme Court states it as a three-step process: \"Equitable property division is a three-step process. The first step is to classify the parties' property as marital or nonmarital. The second step is to value the marital assets and marital liabilities of the parties. The third step is to calculate and divide the net marital estate between the parties.\" The classification line itself: \"Generally, all property accumulated and acquired by either spouse during a marriage is part of the marital estate.\" And its exception: \"The marital estate does not include property that a spouse acquired before the marriage, or by gift or inheritance.\" Separate property does not necessarily stay separate: \"Separate property becomes marital property by commingling if it is inextricably mixed with marital property or with the separate property of the other spouse.\" And the burden falls on the spouse asserting the separate-property status: \"The burden of proof rests with the party claiming that property is nonmarital.\" Brozek v. Brozek, 292 Neb. 681, 874 N.W.2d 17 (2016).",
+    "trap": "This entire classification framework -- marital vs. nonmarital, the three steps, the pre-marriage/gift/inheritance exception, commingling, and which party carries the burden -- is judge-made, not codified. A reader searching Chapter 42's text (§§ 42-365 and 42-366, this plugin's division-standard and settlement-agreements rows) for a definition of \"marital property\" or \"separate property\" will not find one; § 42-366(8) uses the phrase \"marital estate\" without defining it, and only names one category of property that must be INCLUDED in it (pension plans, retirement plans, annuities, and other deferred compensation, vested or not) -- it does not purport to be a complete classification rule. The commingling doctrine cuts against a spouse who mixes separate funds with marital ones without keeping them traceable -- Brozek denied a credit for premarital farm funds, crops, and machinery specifically because the spouse asserting them as separate could not trace them, illustrating that the burden-of-proof rule is not a formality. This rule does not restate Brozek's own further holding on WHEN separate property remains segregated despite commingling (\"[i]f the separate property remains segregated or is traceable into its product, commingling does not occur\") beyond naming it here in the trap -- a fact-specific tracing inquiry this rule does not attempt to resolve in the abstract.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "874 N.W.2d 17",
+        "name": "Brozek v. Brozek",
+        "court": "ne-neb",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ne",
+            "row_id": "19e99cc93d86edfb",
+            "cl_opinion_id": "3175109",
+            "quote": "Equitable property division is a three-step process. The first step is to classify the parties’ property as marital or nonmarital. The second step is to value the marital assets and marital liabilities of the parties. The third step is to calculate and divide the net marital estate between the parties.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "874 N.W.2d 17",
+        "name": "Brozek v. Brozek",
+        "court": "ne-neb",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ne",
+            "row_id": "19e99cc93d86edfb",
+            "cl_opinion_id": "3175109",
+            "quote": "Generally, all property accumulated and acquired by either spouse during a marriage is part of the marital estate.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "874 N.W.2d 17",
+        "name": "Brozek v. Brozek",
+        "court": "ne-neb",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ne",
+            "row_id": "19e99cc93d86edfb",
+            "cl_opinion_id": "3175109",
+            "quote": "The marital estate does not include property that a spouse acquired before the marriage, or by gift or inheritance.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "874 N.W.2d 17",
+        "name": "Brozek v. Brozek",
+        "court": "ne-neb",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ne",
+            "row_id": "19e99cc93d86edfb",
+            "cl_opinion_id": "3175109",
+            "quote": "Separate property becomes marital property by commingling if it is inextricably mixed with marital property or with the separate property of the other spouse.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "874 N.W.2d 17",
+        "name": "Brozek v. Brozek",
+        "court": "ne-neb",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ne",
+            "row_id": "19e99cc93d86edfb",
+            "cl_opinion_id": "3175109",
+            "quote": "The burden of proof rests with the party claiming that property is nonmarital.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-366",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_366",
+            "quote": "The court shall include as part of the marital estate, for purposes of the division of property at the time of dissolution, any pension plans, retirement plans, annuities, and other deferred compensation benefits owned by either party, whether vested or not vested.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-caselaw-ne, Brozek v. Brozek, 292 Neb. 681, 874 N.W.2d 17 (2016) (row 19e99cc93d86edfb, cl_opinion_id 3175109, cluster_id 3175109 confirmed against CourtListener's own citation map on the corpus host -- \"292\",\"Neb.\",\"681\" and \"874\",\"N.W.2d\",\"17\" both resolve to this cluster id; not asserted from memory), five separate quotes: the syllabus's three-step-process point (syllabus point 8, quoted without its \"8. Property Division.\" heading label), the syllabus's marital-estate-inclusion point (point 11) and its exception (point 12), and two clean sentences from the body opinion's discussion (the commingling rule and the burden-of-proof rule -- the SAME two propositions appear in the syllabus at points 13-14 but with OCR line-wrap hyphenation artifacts glued into the words \"commin- gling\" and \"nonmari- tal\"; the body-text sentences quoted here state the identical rule without that artifact and were chosen for that reason, not to avoid the syllabus). Also verified against docketx/us-statutes (jurisdiction ne), § 42-366, row NE_42_366, subsection (8)'s second sentence. HONEST NEGATIVE: a full read of §§ 42-365 and 42-366 (this plugin's division-standard and settlement-agreements rows) found no statutory definition of \"marital\" or \"nonmarital\" property anywhere in Chapter 42 -- the entire classification doctrine is case law, recorded here rather than left implicit."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "division-standard",
+    "rule_id": "ne-reasonable-equitable-division-no-fixed-formula-general-rule-one-third-to-one-half-not-a-hard-ceiling",
+    "question": "Does a Nebraska divorce court have to split the marital estate by a fixed percentage?",
+    "rule": "No -- the statute's own word is \"reasonable,\" not a percentage, and case law describes only a flexible \"general rule,\" not a formula. Neb. Rev. Stat. § 42-365: \"When dissolution of a marriage is decreed, the court may order payment of such alimony by one party to the other and division of property as may be reasonable, having regard for the circumstances of the parties, duration of the marriage, a history of the contributions to the marriage by each party, including contributions to the care and education of the children, and interruption of personal careers or educational opportunities, and the ability of the supported party to engage in gainful employment without interfering with the interests of any minor children in the custody of such party.\" If the parties do not reach their own conscionable agreement, § 42-366(8) supplies the default: \"If the parties fail to agree upon a property settlement which the court finds to be conscionable, the court shall order an equitable division of the marital estate.\" Case law gives this a rough range without making it binding: \"Although the division of property is not subject to a precise mathematical formula, the general rule is to award a spouse one-third to one-half of the marital estate, the polestar being fairness and reasonableness as determined by the facts of each case.\" Millatmal v. Millatmal, 272 Neb. 452, 723 N.W.2d 79 (2006).",
+    "trap": "\"General rule\" is not a ceiling a party can enforce mechanically. In Millatmal itself, the wife was awarded 57 percent of the marital estate -- numerically above the stated one-half upper bound -- and the Nebraska Supreme Court still affirmed it as within the rule: \"We conclude that where Parveen was awarded at most 57 percent of the marital estate and Taj 43 percent, such a division is within the general rule and was not an abuse of discretion.\" A party relying on \"one-third to one-half\" as a hard cap the court cannot cross would be wrong on this court's own application of its own rule. The statute's own \"reasonable\" standard (§ 42-365) is broader than a percentage range in the first place; Nebraska has neither a Texas-style discretionary \"just and right\" label nor a California-style \"divide ... equally\" command -- it is its own standard, built from an open list of circumstances (duration, contributions, career interruption, the supported party's ability to work without interfering with minor children in that party's custody) with no ranking among them stated in the text. This rule does not establish what happens when in-kind equal division of a specific asset (a house, a business) is impractical -- offsetting awards, sale, or another mechanism is not addressed in the quoted text; NOT ESTABLISHED.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-365",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_365",
+            "quote": "When dissolution of a marriage is decreed, the court may order payment of such alimony by one party to the other and division of property as may be reasonable, having regard for the circumstances of the parties, duration of the marriage, a history of the contributions to the marriage by each party, including contributions to the care and education of the children, and interruption of personal careers or educational opportunities, and the ability of the supported party to engage in gainful employment without interfering with the interests of any minor children in the custody of such party.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-366",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_366",
+            "quote": "If the parties fail to agree upon a property settlement which the court finds to be conscionable, the court shall order an equitable division of the marital estate.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "723 N.W.2d 79",
+        "name": "Millatmal v. Millatmal",
+        "court": "ne-neb",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ne",
+            "row_id": "a1cea38c91122c5e",
+            "cl_opinion_id": "1929865",
+            "quote": "Although the division of property is not subject to a precise mathematical formula, the general rule is to award a spouse one-third to one-half of the marital estate, the polestar being fairness and reasonableness as determined by the facts of each case.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "723 N.W.2d 79",
+        "name": "Millatmal v. Millatmal",
+        "court": "ne-neb",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-ne",
+            "row_id": "a1cea38c91122c5e",
+            "cl_opinion_id": "1929865",
+            "quote": "We conclude that where Parveen was awarded at most 57 percent of the marital estate and Taj 43 percent, such a division is within the general rule and was not an abuse of discretion.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-365 (row NE_42_365, first sentence in full) and § 42-366 (row NE_42_366, subsection (8)'s first sentence). Verified against docketx/us-caselaw-ne, Millatmal v. Millatmal, 272 Neb. 452, 723 N.W.2d 79 (2006) (row a1cea38c91122c5e, cl_opinion_id 1929865; citation confirmed against CourtListener's own citation map on the corpus host: \"272\",\"Neb.\",\"452\" and \"723\",\"N.W.2d\",\"79\" both resolve to cluster id 1929865 -- the row's own metadata carries an empty citation field, so this reporter cite was independently located, not assumed), two quotes: the \"one-third to one-half\" general-rule sentence and the court's own application of it to a 57/43 split, chosen specifically because it is the case's own numeric example and shows the rule is not a hard ceiling -- see the 2026-09-22 audit's lesson on describing a case's facts the way the court describes them, not the way a headline assumption would. § 42-365's remaining sentences (modification/revocation procedure, termination on death or remarriage) are quoted instead in the spousal-support row, which they more directly answer."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "spousal-support",
+    "rule_id": "ne-alimony-same-section-as-property-division-but-a-separate-purpose-reasonable-factors-terminates-on-death-or-remarriage",
+    "question": "What does a Nebraska court weigh in deciding whether to award alimony, and when does it end?",
+    "rule": "Alimony and property division share one statute and an overlapping factor list, but the Nebraska Supreme Court -- quoted in the statute's own second paragraph -- treats them as separate inquiries with different purposes. Neb. Rev. Stat. § 42-365: \"the court may order payment of such alimony by one party to the other and division of property as may be reasonable, having regard for the circumstances of the parties, duration of the marriage, a history of the contributions to the marriage by each party, including contributions to the care and education of the children, and interruption of personal careers or educational opportunities, and the ability of the supported party to engage in gainful employment without interfering with the interests of any minor children in the custody of such party.\" The statute states the purposes are distinct: \"While the criteria for reaching a reasonable division of property and a reasonable award of alimony may overlap, the two serve different purposes and are to be considered separately. The purpose of a property division is to distribute the marital assets equitably between the parties. The purpose of alimony is to provide for the continued maintenance or support of one party by the other when the relative economic circumstances and the other criteria enumerated in this section make it appropriate.\" Absent a different agreement or court order, alimony has a built-in termination trigger: \"Except as otherwise agreed by the parties in writing or by order of the court, alimony orders shall terminate upon the death of either party or the remarriage of the recipient.\"",
+    "trap": "HONEST NEGATIVE, RECORDED: § 42-365's text contains no dollar cap and no percentage cap on alimony comparable to Texas's statutory maintenance ceiling, and no fixed-year duration table -- the factor list is open-ended and unranked, closer in shape to California's multi-factor approach than to a capped formula, though Nebraska's list is shorter and does not enumerate domestic-violence history the way California's does. Modification is asymmetric and one-directional in a specific way: § 42-365 (not fully quoted above) bars awarding alimony on modification if none was allowed in the original decree, and bars awarding MORE alimony on modification once the entire original award has already accrued before the modification complaint was filed -- a party cannot use a later modification proceeding to add alimony that was never ordered or to extend one that has already fully paid out. The termination-on-remarriage default is just that -- a default -- and is displaced \"as otherwise agreed by the parties in writing or by order of the court,\" so a decree that says otherwise controls.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-365",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_365",
+            "quote": "the court may order payment of such alimony by one party to the other and division of property as may be reasonable, having regard for the circumstances of the parties, duration of the marriage, a history of the contributions to the marriage by each party, including contributions to the care and education of the children, and interruption of personal careers or educational opportunities, and the ability of the supported party to engage in gainful employment without interfering with the interests of any minor children in the custody of such party.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-365",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_365",
+            "quote": "While the criteria for reaching a reasonable division of property and a reasonable award of alimony may overlap, the two serve different purposes and are to be considered separately. The purpose of a property division is to distribute the marital assets equitably between the parties. The purpose of alimony is to provide for the continued maintenance or support of one party by the other when the relative economic circumstances and the other criteria enumerated in this section make it appropriate.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-365",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_365",
+            "quote": "Except as otherwise agreed by the parties in writing or by order of the court, alimony orders shall terminate upon the death of either party or the remarriage of the recipient.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-365",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_365",
+            "quote": "Except as otherwise agreed by the parties in writing or by order of the court, alimony orders shall terminate upon the death of either party or the remarriage of the recipient.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-365, row NE_42_365, three quotes: the first sentence (factors, shared with the division-standard row's authority, quoted again here because it answers this row's alimony question directly), the second paragraph's purpose-distinction passage in full, and the termination sentence near the end of the first paragraph. The modification-restriction sentences described in the trap (amounts accrued before a modification complaint cannot be modified or revoked; a decree may not be modified to award alimony not originally allowed; a decree may not be modified to add alimony once the original award has fully accrued) were read but not separately quoted -- they are additional sentences in the same paragraph already captured by the row's first authority quote's surrounding context, restated in the trap rather than re-quoted to avoid duplicating the same statute text a third time in one row. HONEST NEGATIVE search: no dollar or percentage cap language (\"may not order,\" \"percent of,\" a fixed dollar figure) appears anywhere in § 42-365's text. PACK QUOTE SWEEP 2026-09-22: the trap quoted § 42-365 as 'by agreement of the parties in writing or by order of the court'; the section says 'Except as otherwise agreed by the parties in writing or by order of the court'; quote corrected and blocked (NE_42_365)."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "child-support-guidelines",
+    "rule_id": "ne-child-support-set-by-supreme-court-rule-guidelines-not-in-this-statutes-shard-rebuttable-presumption",
+    "question": "How is child support calculated in Nebraska, and is the guideline formula itself part of this reference?",
+    "rule": "Nebraska child support is set by guidelines the statute requires the Nebraska Supreme Court -- not the Legislature -- to adopt by court rule, applied as a rebuttable presumption. Neb. Rev. Stat. § 42-364.16: \"The Supreme Court shall provide by court rule, as a rebuttable presumption, guidelines for the establishment of all child support obligations. Child support shall be established in accordance with such guidelines, which guidelines are presumed to be in the best interests of the child, unless the court finds that one or both parties have produced sufficient evidence to rebut the presumption that the application of the guidelines will result in a fair and equitable child support order.\" The dissolution statute cross-references that same rule: § 42-364(4): \"In determining the amount of child support to be paid by a parent, the court shall consider the earning capacity of each parent and the guidelines provided by the Supreme Court pursuant to section 42-364.16 for the establishment of child support obligations.\"",
+    "trap": "HONEST NEGATIVE, RECORDED: the actual Nebraska Child Support Guidelines -- the worksheet, income definitions, and percentage/table figures a practitioner would need to compute a number -- are adopted by Nebraska Supreme Court RULE under § 42-364.16's own delegation, not enacted as Chapter 42 statutory text. This plugin's reference for Nebraska is built only from published statutes and case law, not from a separate Nebraska court-rules collection, so the guideline formula itself is NOT ESTABLISHED in this reference -- only the statutory rule THAT guidelines exist, that the Supreme Court (not the Legislature) sets their content, and that they carry a REBUTTABLE presumption is established here. \"Rebuttable\" is a real, not nominal, qualifier: the statute requires the guidelines be followed \"unless the court finds that one or both parties have produced sufficient evidence to rebut the presumption that the application of the guidelines will result in a fair and equitable child support order\" -- a party seeking a deviation carries an evidentiary burden, not a mere request. This is unlike this plugin's California row, where the statewide formula (Fam. Code § 4055) is itself enacted statutory text with a quotable equation; Nebraska's statute deliberately delegates the formula's content elsewhere.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-364.16",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_364_16",
+            "quote": "The Supreme Court shall provide by court rule, as a rebuttable presumption, guidelines for the establishment of all child support obligations. Child support shall be established in accordance with such guidelines, which guidelines are presumed to be in the best interests of the child, unless the court finds that one or both parties have produced sufficient evidence to rebut the presumption that the application of the guidelines will result in a fair and equitable child support order.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-364",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_364",
+            "quote": "In determining the amount of child support to be paid by a parent, the court shall consider the earning capacity of each parent and the guidelines provided by the Supreme Court pursuant to section 42-364.16 for the establishment of child support obligations.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-364.16 (row NE_42_364_16, full text) and § 42-364 (row NE_42_364, the first sentence of subsection (4); the remainder of subsection (4) -- verified-report procedure for abusive disregard of support payments, property status of support paid to the custodial party, and IV-D review cross-references -- was read but not quoted, a separate enforcement/administration topic). The honest negative on the guideline table's absence from this corpus was reached by reading § 42-364.16's own delegating language, not by an exhaustive search for a guideline-table section that does not exist under any plausible section number."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "custody-and-visitation",
+    "rule_id": "ne-no-presumption-either-parent-more-fit-best-interests-standard-mandatory-parenting-plan-joint-custody-not-automatic",
+    "question": "Does Nebraska presume that parents will share custody, or that one parent is more fit than the other?",
+    "rule": "No presumption either way -- the statute says so directly -- and custody turns on the best interests of the child as defined by the Parenting Act, developed through a mandatory parenting plan. Neb. Rev. Stat. § 42-364(2): \"the court shall not give preference to either parent based on the sex or disability of the parent and, except as provided in section 43-2933 , no presumption shall exist that either parent is more fit or suitable than the other. Custody shall be determined on the basis of the best interests of the child, as defined in the Parenting Act.\" A parenting plan is not optional: § 42-364(1)(a): \"In an action under Chapter 42 involving child support, child custody, parenting time, visitation, or other access, the parties and their counsel, if represented, shall develop a parenting plan as provided in the Parenting Act.\" The Parenting Act itself states the child's safety and best interests as the paramount standard: Neb. Rev. Stat. § 43-2921: \"The best interests of each child shall be paramount and consideration shall be given to the desires and wishes of the child if of an age of comprehension regardless of chronological age, when such desires and wishes are based on sound reasoning. ... The state presumes the critical importance of the parent-child relationship in the welfare and development of the child and that the relationship between the child and each parent should be equally considered unless it is contrary to the best interests of the child.\" And § 43-2923(1) names safety as the first requirement of the best-interests standard: \"The best interests of the child require: (1) A parenting arrangement and parenting plan or other court-ordered arrangement which provides for a child's safety, emotional growth, health, stability, and physical care and regular and continuous school attendance and progress for school-age children.\"",
+    "trap": "\"No presumption\" has a named statutory exception: § 42-364(2)'s own text reads \"except as provided in section 43-2933 \" -- a registered-sex-offender custody bar this rule does not otherwise quote or build guidance from, consistent with this plugin's scope. Joint custody is not automatic just because there is no presumption against either parent: Neb. Rev. Stat. § 42-364(3) (not quoted in the authority above) allows joint legal or physical custody only when both parents agree to it in the parenting plan and the court finds it in the child's best interests, OR when the court itself, after a hearing in open court, specifically finds joint custody is in the child's best interests regardless of parental agreement -- there is no default joint-custody outcome either way. Family-violence content is present in this same statutory scheme -- § 43-2921's findings paragraph on domestic intimate partner abuse and child abuse, and § 43-2923(2)/(6)(e)-(f)'s abuse-history factors -- and is noted here only as a bare fact about the best-interests framework, consistent with this plugin's family-violence caveat in CLAUDE.md; this rule does not build safety-planning guidance from it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-364",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_364",
+            "quote": "In an action under Chapter 42 involving child support, child custody, parenting time, visitation, or other access, the parties and their counsel, if represented, shall develop a parenting plan as provided in the Parenting Act.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-364",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_364",
+            "quote": "In determining legal custody or physical custody, the court shall not give preference to either parent based on the sex or disability of the parent and, except as provided in section 43-2933 , no presumption shall exist that either parent is more fit or suitable than the other. Custody shall be determined on the basis of the best interests of the child, as defined in the Parenting Act.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 43-2921",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_43_2921",
+            "quote": "The best interests of each child shall be paramount and consideration shall be given to the desires and wishes of the child if of an age of comprehension regardless of chronological age, when such desires and wishes are based on sound reasoning.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 43-2921",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_43_2921",
+            "quote": "The state presumes the critical importance of the parent-child relationship in the welfare and development of the child and that the relationship between the child and each parent should be equally considered unless it is contrary to the best interests of the child.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 43-2923",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_43_2923",
+            "quote": "The best interests of the child require:\n\n(1) A parenting arrangement and parenting plan or other court-ordered arrangement which provides for a child's safety, emotional growth, health, stability, and physical care and regular and continuous school attendance and progress for school-age children;",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-364 (row NE_42_364, subsection (1)(a)'s parenting-plan sentence and subsection (2) in full), § 43-2921 (row NE_43_2921, two sentences from the second and third paragraphs of the legislative findings; the first paragraph and the fourth paragraph's domestic-intimate-partner-abuse findings were read but not quoted, consistent with the family-violence caveat), and § 43-2923 (row NE_43_2923, the lead-in and paragraph (1) only; paragraphs (2)-(6), including the domestic-violence-specific factors in (2) and (6)(e)-(f), were read but not quoted for the same reason). § 42-364(3)'s joint-custody mechanism and § 43-2933's sex-offender custody bar were read in full and are described in the trap but not quoted as authorities here -- neither directly answers this row's own question (whether a presumption exists), though both qualify the answer. The published § 42-364 text carries a stray space before the comma after \"section 43-2933\"; reproduced exactly as published in both the quote and the surrounding rule/trap prose, not corrected, per this store's verbatim-quote rule (the same artifact recurs in the waiting-period and name-restoration rows)."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "parenting-course",
+    "rule_id": "ne-mandatory-basic-level-parenting-education-course-good-cause-waiver-no-incarceration-for-noncompliance",
+    "question": "Does Nebraska require parents to take a parenting class during a custody case?",
+    "rule": "Yes -- attendance at a basic level parenting education course is ordered in every Parenting Act proceeding, though it can be delayed or waived, and noncompliance is capped in its consequences. Neb. Rev. Stat. § 43-2928(1): \"The court shall order all parties to a proceeding under the Parenting Act to attend a basic level parenting education course. Participation in the course may be delayed or waived by the court for good cause shown. Failure or refusal by any party to participate in such a course as ordered by the court shall not delay the entry of a final judgment or an order modifying a final judgment in such action by more than six months and shall in no case be punished by incarceration.\" A second, more intensive course can be layered on top when abuse or conflict is identified: § 43-2928(2): \"The court may order parties under the act to attend a second-level parenting education course subsequent to completion of the basic level course when screening or a factual determination of child abuse or neglect, domestic intimate partner abuse, or unresolved parental conflict has been identified.\"",
+    "trap": "The course requirement has real limits on its own enforcement: a party who fails or refuses to attend cannot be jailed for it (\"shall in no case be punished by incarceration\"), and the failure can delay final judgment by at most six months -- it is not a mechanism that can stall a case indefinitely or substitute for contempt. \"Good cause shown\" is the only named basis for delay or waiver of the basic course; the statute does not define what qualifies, and this rule does not supply a definition beyond the bare text. The second-level course under (2) is discretionary (\"may order\"), not automatic, and is triggered specifically by a screening or FACTUAL DETERMINATION of abuse or unresolved conflict -- this rule notes that trigger exists as a bare fact about the statute's structure, consistent with this plugin's family-violence caveat, and does not build safety guidance from it. Costs of any court-ordered course are the responsibility of each party under § 43-2928(6) (not quoted above), though separate or differently-timed courses can be arranged where abuse or conflict is present.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 43-2928",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_43_2928",
+            "quote": "The court shall order all parties to a proceeding under the Parenting Act to attend a basic level parenting education course. Participation in the course may be delayed or waived by the court for good cause shown. Failure or refusal by any party to participate in such a course as ordered by the court shall not delay the entry of a final judgment or an order modifying a final judgment in such action by more than six months and shall in no case be punished by incarceration.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 43-2928",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_43_2928",
+            "quote": "The court may order parties under the act to attend a second-level parenting education course subsequent to completion of the basic level course when screening or a factual determination of child abuse or neglect, domestic intimate partner abuse, or unresolved parental conflict has been identified.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 43-2928, row NE_43_2928, subsections (1) and (2) in full. Subsections (3)-(6) (State Court Administrator course-approval duty, course content requirements, and cost allocation) were read but not quoted -- a separate administrative-detail layer this row does not need to answer the question asked. Filed under the plugin-wide clause name `parenting-course`, the same name Iowa's rows-ia-family.json uses for Iowa Code § 598.15's mandatory course (see an internal DocketX test's SINGLE_STATE_FAMILIES declaration, which names Nebraska's § 43-2928 as a state that may join this clause) -- not filed as a new single-state clause."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "mediation",
+    "rule_id": "ne-mandatory-mediation-or-sadr-when-no-agreed-parenting-plan-waivable-only-by-evidentiary-hearing-clear-and-convincing",
+    "question": "Is mediation required in a Nebraska custody or parenting-time dispute?",
+    "rule": "Yes, when the parties have not already agreed on a parenting plan -- referral to mediation or specialized alternative dispute resolution (SADR) is mandatory, not discretionary, for cases filed since mid-2010. Neb. Rev. Stat. § 43-2937(3): \"for cases filed on or after July 1, 2010, all parties who have not submitted a parenting plan to the court within the time specified by the court shall be ordered to participate in mediation or specialized alternative dispute resolution with a mediator, a court conciliation program, or an approved mediation center as provided in section 43-2938 .\" The dissolution statute cross-references the same requirement: § 42-364(1)(a): \"If the parties and counsel do not develop a parenting plan, the complaint shall so indicate as provided in section 42-353 and the case shall be referred to mediation or specialized alternative dispute resolution as provided in the Parenting Act.\" A waiver is possible but not casual: § 43-2937(4): \"For good cause shown and (a) when both parents agree and such parental agreement is bona fide and not asserted to avoid the purposes of the Parenting Act, or (b) when mediation or specialized alternative dispute resolution is not possible without undue delay or hardship to either parent, the mediation or specialized alternative dispute resolution requirement may be waived by the court. In such a case where waiver of the mediation or specialized alternative dispute resolution is sought, the court shall hold an evidentiary hearing and the burden of proof for the party or parties seeking waiver is by clear and convincing evidence.\"",
+    "trap": "The mandatory trigger is the ABSENCE of an agreed parenting plan, not the mere existence of a custody dispute -- parties who submit their own agreed plan on time never reach the mandatory mediation requirement at all. Waiver is not a simple request: it requires an evidentiary hearing and proof by CLEAR AND CONVINCING evidence, a heightened standard, not a preponderance -- a party who merely prefers to skip mediation cannot get a waiver on a bare motion. This rule does not restate § 43-2937(2)'s separate, narrower rule for cases with allegations of domestic intimate partner abuse or unresolved parental conflict (a specialized-ADR-only track requiring a State Court Administrator-approved protocol, with informed consent, separate sessions, and opt-out-for-cause provisions) beyond naming that it exists -- consistent with this plugin's family-violence caveat, this rule does not build safety-planning guidance from it. Subsection (1) also lets a court refer ANY case to mediation or SADR on its own motion or a party's motion \"in order to attempt resolution of any relevant matter,\" a broader discretionary power distinct from the subsection (3) mandatory trigger -- not quoted above but read.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 43-2937",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_43_2937",
+            "quote": "for cases filed on or after July 1, 2010, all parties who have not submitted a parenting plan to the court within the time specified by the court shall be ordered to participate in mediation or specialized alternative dispute resolution with a mediator, a court conciliation program, or an approved mediation center as provided in section 43-2938 .",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-364",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_364",
+            "quote": "If the parties and counsel do not develop a parenting plan, the complaint shall so indicate as provided in section 42-353 and the case shall be referred to mediation or specialized alternative dispute resolution as provided in the Parenting Act.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 43-2937",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_43_2937",
+            "quote": "For good cause shown and (a) when both parents agree and such parental agreement is bona fide and not asserted to avoid the purposes of the Parenting Act, or (b) when mediation or specialized alternative dispute resolution is not possible without undue delay or hardship to either parent, the mediation or specialized alternative dispute resolution requirement may be waived by the court. In such a case where waiver of the mediation or specialized alternative dispute resolution is sought, the court shall hold an evidentiary hearing and the burden of proof for the party or parties seeking waiver is by clear and convincing evidence.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 43-2937 (row NE_43_2937, subsection (3) in full and subsection (4) in full) and § 42-364 (row NE_42_364, the second sentence of subsection (1)(a); the same waiver language recurs verbatim in § 42-364(6) for modification proceedings and was read but not separately quoted as duplicative). § 43-2937(1)'s general discretionary-referral power and (2)'s pre-2010/domestic-violence-era transitional rule were read but not quoted, the former because subsection (3)'s mandatory rule is the one this row's question is about, the latter per the family-violence caveat. The published § 43-2937(3) text carries a stray space before the period after \"section 43-2938\"; reproduced exactly as published, not corrected."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "required-disclosures",
+    "rule_id": "ne-financial-statement-duty-tied-to-spousal-support-applications-not-a-general-chapter-42-disclosure-regime",
+    "question": "What does Nebraska's Family Code-equivalent chapter require a spouse to disclose during a divorce?",
+    "rule": "A financial-statement duty, but a narrow one: it attaches specifically to an APPLICATION FOR SPOUSAL SUPPORT OR ALIMONY, not to the case generally. Neb. Rev. Stat. § 42-359: \"Applications for spousal support or alimony shall be accompanied by a statement of the applicant's financial condition and, to the best of his or her knowledge, a statement of the other party's financial condition. Such other party may file his or her statement, if he or she so desires, and shall do so if ordered by the court. Statements shall be under oath and shall show income from salary or other sources, assets, debts and payments thereon, living expenses, and other relevant information. Required forms for financial statements may be furnished by the court.\"",
+    "trap": "This is the mirror image of this plugin's California required-disclosures row, which found a mandatory preliminary-and-final disclosure duty running in EVERY dissolution case. Nebraska's § 42-359 duty is triggered only by an application for spousal support or alimony -- a case with no support request pending does not trigger it on this text. The duty is also asymmetric: the APPLICANT must file a sworn financial statement (mandatory, \"shall be accompanied by\"), and must also state the OTHER party's financial condition \"to the best of his or her knowledge\" -- but the other party's OWN statement is filed only \"if he or she so desires,\" and becomes mandatory for that party only \"if ordered by the court,\" not automatically. HONEST NEGATIVE, RECORDED: a read of Chapter 42's procedural sections (§§ 42-347 to 42-381) found no broader mandatory preliminary-and-final financial-disclosure regime comparable to California Fam. Code §§ 2104-2107 (this plugin's California required-disclosures row) that would apply regardless of whether spousal support is at issue -- property division and custody proceedings that do not involve a support application are not reached by § 42-359's text. \"Required forms ... may be furnished by the court\" is permissive, not a guarantee that a standard form exists in every county.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-359",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_359",
+            "quote": "Applications for spousal support or alimony shall be accompanied by a statement of the applicant's financial condition and, to the best of his or her knowledge, a statement of the other party's financial condition. Such other party may file his or her statement, if he or she so desires, and shall do so if ordered by the court. Statements shall be under oath and shall show income from salary or other sources, assets, debts and payments thereon, living expenses, and other relevant information. Required forms for financial statements may be furnished by the court.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-359, row NE_42_359, full text (the entire section, four sentences). This plugin's Texas required-disclosures row found the Family Code's disclosure duty confined to the opt-in collaborative process; California's found a mandatory duty in every case; Nebraska's is narrower than either -- present only in every case, but only tied to a support application. No dedicated inventory-and-appraisement-style property-disclosure section was found in Chapter 42 in this pass; not asserted as exhaustively searched beyond the sections read for this and the settlement-agreements row."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "temporary-orders",
+    "rule_id": "ne-temporary-support-requires-application-and-three-days-notice-ex-parte-orders-available-on-affidavit-capped-at-ten-days",
+    "question": "What can a Nebraska court order while a divorce is pending, and how quickly?",
+    "rule": "Nothing is automatic the way it is under a California-style summons-restraint scheme -- everything in § 42-357 requires an application, and most of it requires notice, though a narrow ex parte channel exists for urgent relief. Neb. Rev. Stat. § 42-357: \"The court may order either party to pay ... a sum of money for the temporary support and maintenance of the other party and minor children if any are affected by the action and to enable such party to prosecute or defend the action. The court may make such order after service of process and claim for temporary allowances is made in the complaint or by motion by the plaintiff or by the defendant in a responsive pleading; but no such order shall be entered before three days after notice of hearing has been served on the other party or notice waived.\" A separate, narrower ex parte channel exists for urgent situations: \"upon application of either party and if the accompanying affidavit of the party or his or her agent shows to the court that the party is entitled thereto, the court may issue ex parte orders (1) restraining any person from transferring, encumbering, hypothecating, concealing, or in any way disposing of real or personal property except in the usual course of business or for the necessaries of life, ... (2) enjoining any party from molesting or disturbing the peace of the other party or any minor children affected by the action, and (3) determining the temporary custody of any minor children of the marriage.\" Those ex parte orders are time-limited: \"Ex parte orders issued pursuant to subdivisions (1) and (3) of this section shall remain in force for no more than ten days or until a hearing is held thereon, whichever is earlier.\"",
+    "trap": "This is squarely on the motion-triggered side of the divide this plugin's California temporary-orders row describes (California bakes a restraining order into the summons itself; Texas requires a motion and hearing) -- Nebraska requires an application and claim for temporary allowances, and the general support order cannot be entered \"before three days after notice of hearing has been served on the other party or notice waived.\" The ex parte orders are the narrow exception, and even they are not open-ended: subdivisions (1) and (3) expire automatically at the EARLIER of ten days or a hearing -- a party cannot rely on an ex parte property or custody order remaining in force indefinitely without following up. Exclusion of a party from the shared premises requires more, not less, process than the ex parte orders: § 42-357 (not fully quoted above) requires \"motion, notice to the party, and hearing\" and \"a showing that physical or emotional harm would otherwise result\" before a court can order a party excluded -- this is family-violence-adjacent content, noted here only as a bare fact about the statute's structure per this plugin's CLAUDE.md caveat, and this rule does not build safety-planning guidance from it. Knowing violation of an exclusion order that has been served is a Class II misdemeanor under the same section, also not elaborated here.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-357",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_357",
+            "quote": "The court may order either party to pay to the clerk of the district court or to the State Disbursement Unit, as provided in section 42-369 , a sum of money for the temporary support and maintenance of the other party and minor children if any are affected by the action and to enable such party to prosecute or defend the action. The court may make such order after service of process and claim for temporary allowances is made in the complaint or by motion by the plaintiff or by the defendant in a responsive pleading; but no such order shall be entered before three days after notice of hearing has been served on the other party or notice waived.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-357",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_357",
+            "quote": "During the pendency of any proceeding under sections 42-347 to 42-381 after the complaint is filed, upon application of either party and if the accompanying affidavit of the party or his or her agent shows to the court that the party is entitled thereto, the court may issue ex parte orders (1) restraining any person from transferring, encumbering, hypothecating, concealing, or in any way disposing of real or personal property except in the usual course of business or for the necessaries of life, and the party against whom such order is directed shall upon order of the court account for all unusual expenditures made after such order is served upon him or her, (2) enjoining any party from molesting or disturbing the peace of the other party or any minor children affected by the action, and (3) determining the temporary custody of any minor children of the marriage, except that no restraining order enjoining any party from molesting or disturbing the peace of any minor child shall issue unless, at the same time, the court determines that the party requesting such order shall have temporary custody of such minor child.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-357",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_357",
+            "quote": "Ex parte orders issued pursuant to subdivisions (1) and (3) of this section shall remain in force for no more than ten days or until a hearing is held thereon, whichever is earlier.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-357, row NE_42_357, three quotes spanning the section's temporary-support mechanism, its ex parte-orders mechanism, and the ten-day expiration rule. The exclusion-from-premises sentences (motion/notice/hearing, physical-or-emotional-harm showing, service by sheriff, Class II misdemeanor for violation) and the 72-hour re-hearing rule for a molestation order affecting minor children were read but not quoted, consistent with the family-violence caveat -- described in the trap as bare facts about the statute's structure only."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "settlement-agreements",
+    "rule_id": "ne-property-settlement-binding-unless-unconscionable-custody-and-support-terms-never-binding-equitable-default-otherwise",
+    "question": "Can Nebraska spouses agree on their own property division, support, and custody terms, and is the court bound by it?",
+    "rule": "Yes, spouses may write their own property settlement agreement, and the court is bound by its terms UNLESS it finds the agreement unconscionable -- except that custody and child-support terms are never binding on the court regardless. Neb. Rev. Stat. § 42-366(1): \"the parties may enter into a written property settlement agreement containing provisions for the maintenance of either of them, the disposition of any property owned by either of them, and the support and custody of minor children.\" Subsection (2) states the binding rule and its carve-out together: \"the terms of the agreement, except terms providing for the support and custody of minor children, shall be binding upon the court unless it finds, after considering the economic circumstances of the parties and any other relevant evidence produced by the parties, on their own motion or on request of the court, that the agreement is unconscionable.\" If the court finds it unconscionable: subsection (3): \"the court may request the parties to submit a revised agreement or the court may make orders for the disposition of property, support, and maintenance.\" And subsection (8), the fallback if the parties cannot reach a conscionable agreement at all: \"If the parties fail to agree upon a property settlement which the court finds to be conscionable, the court shall order an equitable division of the marital estate.\"",
+    "trap": "The binding-unless-unconscionable rule in (2) has its own carve-out built into the same sentence: \"except terms providing for the support and custody of minor children\" -- those terms are NEVER binding on the court merely by agreement, unconscionable or not, because the child's interests are not the parties' to bargain away on this text. \"Unconscionable\" is not defined further in this section; this rule does not supply a definition beyond the bare word. Subsection (6) (not quoted above) allows alimony to be ordered IN ADDITION TO a property settlement award -- a settlement does not by itself foreclose a later or simultaneous alimony order. Subsection (7) (not quoted above) lets the decree itself \"expressly preclude or limit modification\" of the agreed terms EXCEPT, again, for custody or child-support terms -- the same carve-out recurs for modification as for the initial binding rule. Enforcement of agreed terms set forth in the decree reaches \"all remedies available for the enforcement of a judgment, including contempt\" under subsection (5) (not quoted above) -- a settlement folded into the decree is not merely a private contract once it is entered.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-366",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_366",
+            "quote": "the parties may enter into a written property settlement agreement containing provisions for the maintenance of either of them, the disposition of any property owned by either of them, and the support and custody of minor children.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-366",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_366",
+            "quote": "the terms of the agreement, except terms providing for the support and custody of minor children, shall be binding upon the court unless it finds, after considering the economic circumstances of the parties and any other relevant evidence produced by the parties, on their own motion or on request of the court, that the agreement is unconscionable.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-366",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_366",
+            "quote": "If the court finds the agreement unconscionable, the court may request the parties to submit a revised agreement or the court may make orders for the disposition of property, support, and maintenance.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-366",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_366",
+            "quote": "If the parties fail to agree upon a property settlement which the court finds to be conscionable, the court shall order an equitable division of the marital estate.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-366, row NE_42_366, four quotes drawn from subsections (1), (2), (3), and (8) (the second sentence of (8), also cited as authority in the division-standard row for the same reason: it directly answers both rows' questions). Subsections (4) (how a not-unconscionable agreement is incorporated into the decree), (5) (enforcement remedies including contempt), (6) (alimony in addition to a settlement), and (7) (decree-level modification preclusion, with the same custody/support carve-out) were read but not quoted -- described in the trap where they qualify the rule."
+  },
+  {
+    "jurisdiction": "ne",
+    "clause": "name-restoration",
+    "rule_id": "ne-name-restoration-on-request-in-dissolution-or-annulment-good-cause-standard-different-surname-from-child-not-sufficient",
+    "question": "Can a Nebraska court refuse to restore a spouse's former name in the divorce?",
+    "rule": "Only for good cause shown, and the statute forecloses the single most common argument against it. Neb. Rev. Stat. § 42-380(1): \"When a pleading is filed pursuant to section 42-353 or pursuant to an action for annulment as authorized by section 42-373, either the plaintiff or the defendant may include a request to restore his or her former name. The court shall grant such request except for good cause shown. The mere fact that a parent and child may have different surnames following a dissolution of marriage or annulment shall not be sufficient to constitute good cause. The decree of dissolution or declaration of annulment shall specifically provide for the name change, giving both the old name and the name as it will be after the decree or declaration.\"",
+    "trap": "\"Good cause\" is Nebraska's own standard -- broader on its face than California's \"fraud only\" bar (this plugin's California name-restoration row) and structured differently from Texas's single named exception -- but the statute pre-empts the most predictable argument against restoration by naming it directly: a parent-child surname mismatch \"shall not be sufficient to constitute good cause\" by itself. This rule does not define what OTHER showings would satisfy \"good cause\" beyond that one named exclusion; NOT ESTABLISHED beyond the bare text. The request is available in BOTH a dissolution proceeding (via § 42-353, the ordinary complaint) and an annulment action (§ 42-373) -- broader than this plugin's California row, which excludes legal separation by the statute's own words; Nebraska's § 42-380 text does not itself say whether a legal-separation proceeding is included or excluded, since it is framed around § 42-353's complaint and § 42-373's annulment action rather than around the type of relief sought -- NOT ESTABLISHED here whether legal separation reaches this section, because § 42-353 itself was not read in full for this rule beyond confirming its title (\"Complaint; contents\"). § 42-380(2) (not quoted above) separately preserves a common-law name-change route for decrees entered before August 25, 1989, that did not include a restoration request.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Neb. Rev. Stat. § 42-380",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "NE_42_380",
+            "quote": "When a pleading is filed pursuant to section 42-353 or pursuant to an action for annulment as authorized by section 42-373 , either the plaintiff or the defendant may include a request to restore his or her former name. The court shall grant such request except for good cause shown. The mere fact that a parent and child may have different surnames following a dissolution of marriage or annulment shall not be sufficient to constitute good cause. The decree of dissolution or declaration of annulment shall specifically provide for the name change, giving both the old name and the name as it will be after the decree or declaration.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "Verified against docketx/us-statutes (jurisdiction ne), § 42-380, row NE_42_380, subsection (1)'s first four sentences in full, including the published text's stray space before the comma after \"section 42-373\" (reproduced exactly as published). The fifth sentence of (1) (name-change effective date tied to decree entry, and inapplicability of §§ 25-21,270 to 25-21,273) and subsection (2) (pre-1989 common-law name-change preservation) were read but not quoted. § 42-353 was read only as to its title (\"Complaint; contents\") for this row, not its full text -- the open question of whether a legal-separation pleading can carry a § 42-380 name-restoration request is flagged rather than guessed at."
+  }
+]

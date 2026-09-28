@@ -1,0 +1,1710 @@
+[
+  {
+    "jurisdiction": "fl",
+    "clause": "anti-assignment",
+    "rule_id": "fl-anti-assignment-ineffective-as-to-receivables",
+    "question": "Does this 'no assignment without consent' clause stop the counterparty assigning the money owed under the contract?",
+    "rule": "No, not as to receivables. Under Fla. Stat. § 679.4061(4) (Florida's UCC 9-406) a term in an agreement between an account debtor and an assignor, or in a promissory note, is ineffective to the extent it prohibits, restricts or requires consent to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, an account, chattel paper, payment intangible or promissory note, or provides that such an assignment or security interest may give rise to a default, breach, right of recoupment, claim, defence, termination or other remedy. Under § 679.4061(1), once the account debtor receives a notification (signed by the assignor or assignee) that the amount has been assigned and payment is to be made to the assignee, it may discharge its obligation by paying the assignee and may not discharge it by paying the assignor.",
+    "trap": "The Florida section carries carve-outs a drafter relying on the general UCC rule will miss. Subsection (12) says subsections (4), (6) and (11) do NOT apply to a security interest in an ownership interest in a general partnership, a limited partnership or a limited liability company -- so an anti-assignment/consent clause in an LLC or partnership agreement is NOT overridden as to such a security interest, the opposite result from an ordinary receivable. Subsection (9) limits subsections (4), (6) and (8) to security interests created after January 1, 2002; (5) takes the sale of a payment intangible or promissory note out of (4); (8) yields to other law for an individual consumer account debtor and takes listed personal-injury, special-needs-trust and benefit claims out of (4) and (6); and (10) excludes assignments of health-care-insurance receivables. Subsection (13) takes controllable accounts and controllable payment intangibles out of subsections (1)-(3) and (7) only -- the notification and discharge rules -- not out of (4). The override is also only about receivables: it does not make a prohibition on delegating performance ineffective.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 679.4061",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_679-4061",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it:(a) Prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note; or (b) Provides that the assignment or transfer or the creation, attachment, perfection, or enforcement of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy under the account, chattel paper, payment intangible, or promissory note.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 679.4061",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_679-4061",
+            "quote": "After receipt of the notification, the account debtor may discharge its obligation by paying the assignee and may not discharge the obligation by paying the assignor.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 679.4061",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_679-4061",
+            "quote": "(12) Subsections (4), (6), and (11) do not apply to a security interest in an ownership interest in a general partnership, a limited partnership, or a limited liability company.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Whole section read in the published docketx/us-statutes fl row fl-stat_679-4061 on 2026-09-16. The history line is s. 4, ch. 2001-198; s. 79, ch. 2012-30; s. 8, ch. 2012-59; s. 1, ch. 2022-119; s. 101, ch. 2025-92. We hold no effective dates, so this row does not claim the text is in force on any given day. CORRECTED 2026-09-16 on review: the trap previously said subsection (13) 'excludes controllable accounts and controllable payment intangibles' outright. The published text excludes them only from subsections (1)-(3) and (7). The (4)(b) default/breach limb and the (1) discharge sentence were in the rule but not in any quote; both are now quoted. Subsections (5), (8)-(10) and (12)-(13) are described from the same read and are quoted only where noted. The previous author reported that no Florida Supreme Court opinion applying § 679.4061 to an anti-assignment clause was found; that search was not re-run. The statute is the only authority."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "arbitration",
+    "rule_id": "fl-arbitration-rfac-and-significant-relationship",
+    "question": "Is this arbitration clause enforceable under Florida law, and will it capture the tort claims the other side has pleaded?",
+    "rule": "An agreement contained in a record to submit an existing or subsequent controversy to arbitration is valid, enforceable and irrevocable except on a ground that exists at law or in equity for the revocation of a contract (Fla. Stat. § 682.02(1)); the COURT decides whether an agreement to arbitrate exists or whether a controversy is subject to it, while the ARBITRATOR decides whether a condition precedent to arbitrability has been fulfilled and whether the container contract is enforceable (§ 682.02(2)-(3)). Even under a broad 'arising out of or relating to' clause, a tort claim is arbitrable only if, as pleaded, it arises from and bears a significant relationship to the contract.",
+    "trap": "Florida does not read a broad arbitration clause as reaching every dispute between the parties. Seifert refused to compel arbitration of a common-law negligence claim (carbon monoxide death) arising between parties to a home purchase contract because no allegation referred to the agreement: the 'significant relationship' test looks at the complaint's allegations, and even the broadest wording does not reach a tort claim with no significant relationship to the contract. Breadth still matters the other way: Seifert reads a clause covering only disputes 'under' or 'arising out of' the contract as restricted to interpretation and performance, while 'arising out of or relating to' is interpreted broadly. Seifert also rested in part on the policy against depriving a plaintiff of a jury trial, and whether the FAA changes the result for a contract within it is not verified here. Note also the code's timing rule in § 682.013: the Revised Florida Arbitration Code governs agreements made on or after July 1, 2013, and from July 1, 2016 governs every agreement to arbitrate, so a pre-2013 clause was litigated under the older code for years.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 682.02",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_682-02",
+            "quote": "(1) An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid, enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract. (2) The court shall decide whether an agreement to arbitrate exists or a controversy is subject to an agreement to arbitrate. (3) An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled and whether a contract containing a valid agreement to arbitrate is enforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "750 So. 2d 633",
+        "name": "Seifert v. U.S. Home Corp.",
+        "court": "Fla.",
+        "decided": "1999",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "c6c5192558bf94f9",
+            "cl_opinion_id": "1855835",
+            "quote": "because this case involves a claim sounding in tort, i.e., negligence, we must determine whether the tort claim, as alleged in the complaint, arises from and bears such a significant relationship to the contract between the parties as to mandate application of the arbitration clause",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 682.013",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_682-013",
+            "quote": "The Revised Florida Arbitration Code governs an agreement to arbitrate made on or after July 1, 2013.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 682.013",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_682-013",
+            "quote": "Beginning July 1, 2016, an agreement to arbitrate shall be subject to the Revised Florida Arbitration Code.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "750 So. 2d 633",
+        "name": "Seifert v. U.S. Home Corp.",
+        "court": "Fla.",
+        "decided": "1999",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "c6c5192558bf94f9",
+            "cl_opinion_id": "1855835",
+            "quote": "Even under a broad approach, the dispute does not create a \"significant relationship\" to the contract because none of the allegations in the complaint refer to or mention the sales agreement between the Seiferts and U.S.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-17",
+    "notes": "CORRECTED 2026-09-17 (audit #23): 'not at the breadth of the words' contradicted Seifert's own narrow/broad clause distinction; the trap now states both halves and the unverified FAA question. § 682.02 and § 682.013 were read in full in the published fl rows on 2026-09-16; § 682.013 (which code governs by agreement date) is described in the trap from that read and is not quoted. We hold no effective dates for either section. Seifert (ANSTEAD, J.; HARDING, C.J., and SHAW, WELLS and PARIENTE, JJ., concur; OVERTON, Senior Justice, concurs specially) was decided under the pre-2013 Florida Arbitration Code. The quoted scope test is majority text, and it states the question the Court asked; the Court then held the wrongful-death negligence claim not arbitrable. Seifert's three-element framework (a valid written agreement, an arbitrable issue, no waiver) was re-affirmed as governing in Basulto v. Hialeah Automotive (Fla. 2014), which quashed a Third District decision for misapplying Seifert. That was read in the Basulto row. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 750 So. 2d 633 is mentioned in 298 later opinions, 11 of them Florida Supreme Court. Every negative-word hit is 'quash' used about a lower court's decision (Basulto) or district courts reciting Seifert's three elements; none treats Seifert negatively. A 2024 district court opinion notes that under the Revised Code (§ 682.02(3)) some questions go to the arbitrator, which does not bear on the scope test quoted here. The published citation field is empty in us-caselaw-fl rows, so the cite rests on CourtListener's citation map. NUMBER SWEEP 2026-09-22 (every money, percentage, time-period and date figure in a statute-attributed sentence checked against the cited section's text): the trap's July 1, 2013 and July 1, 2016 dates are attributed to § 682.013, which the row did not cite; section read in full (fl-stat_682-013) and both dates are its subsections (1) and (4); blocks added. HOLDING SWEEP 2026-09-22 (fourth band, overlap 0.25-0.30): the holding the row paraphrases from Seifert v. U.S. Home Corp. is now blocked in the court's words."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "attorney-fees",
+    "rule_id": "fl-57105-7-unilateral-fee-clause-made-reciprocal",
+    "question": "Our contract gives only us the right to fees if we have to enforce it. Can the other side recover fees from us in Florida?",
+    "rule": "Yes. Fla. Stat. § 57.105(7) makes a one-way contractual fee provision reciprocal by operation of law: if a contract allows attorney's fees to a party when that party is required to take any action to enforce the contract, the court may also allow reasonable fees to the other party when that party prevails in any action, whether as plaintiff or defendant, with respect to the contract. It applies to any contract entered into on or after October 1, 1988. The Florida Supreme Court reads the provision as two conditions -- a fee clause triggered by enforcement, and a party prevailing in an action with respect to the contract -- and not as a requirement that the winning claim itself be brought on the contract.",
+    "trap": "The reciprocity cannot be drafted around by pleading around the contract. In Ham the creditor sued on an account stated rather than on the credit card agreements, precisely so the contractual fee clause would not be in play; the Court still allowed the debtors reciprocal fees because the action was one 'with respect to the contract'. A Florida unilateral fee clause is therefore a two-way clause you wrote for your opponent, and the exposure runs to any prevailing party, plaintiff or defendant. Note this is § 57.105(7), a different rule from the sanctions provision in § 57.105(1)-(4) that shares the section number.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 57.105",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_57-105",
+            "quote": "(7) If a contract contains a provision allowing attorney’s fees to a party when he or she is required to take any action to enforce the contract, the court may also allow reasonable attorney’s fees to the other party when that party prevails in any action, whether as plaintiff or defendant, with respect to the contract. This subsection applies to any contract entered into on or after October 1, 1988.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. SC18-2142 (Fla. Dec. 31, 2020)",
+        "name": "Ham v. Portfolio Recovery Associates, LLC",
+        "court": "Fla.",
+        "decided": "2020",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "9bd045ff43727063",
+            "cl_opinion_id": "4648186",
+            "quote": "Based on our analysis of the text of the statute, we conclude that section 57.105(7) allows the debtors to recover reciprocal attorney’s fees.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. SC18-2142 (Fla. Dec. 31, 2020)",
+        "name": "Ham v. Portfolio Recovery Associates, LLC",
+        "court": "Fla.",
+        "decided": "2020",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "9bd045ff43727063",
+            "cl_opinion_id": "4648186",
+            "quote": "Under section 57.105(7)’s rule of reciprocity, if a contract provides for attorney’s fees for a party when that party “is required to take any action to enforce the contract,” then attorney’s fees are authorized for the other party if “that party prevails in any action . . . with respect to the contract.”",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Ham is majority text: CANADY, C.J., for the Court; POLSTON, LABARGA, LAWSON and COURIEL, JJ., concur; MUÑIZ, J., dissents with an opinion; GROSSHANS, J., did not participate. The Court approved the result in Bushnell (2d DCA) and quashed the First District's decision in Ham, which had denied fees because the account-stated actions did not rely on the card contracts. That procedural account was read in the opinion's introduction. Ham has no reporter cite in our map, so the scan ran on the name 'Ham v. Portfolio': 96 later opinions, 9 of them Florida Supreme Court. These hits were not screened for negative treatment word by word; no opinion receding from Ham was seen in the titles or snippets reviewed. CourtListener's citation map holds no reporter citation for this opinion's cluster, so the authority is cited by the docket number printed in the published opinion ('Supreme Court of Florida, No. SC18-2142', December 31, 2020) and identity rests on title plus year. The consolidated case is Foxhall v. Portfolio Recovery Associates, No. SC18-2143. A companion decision the same day, Page v. Deutsche Bank Trust Co. Americas (No. SC18-1859, row f829a4e82a5b0a29), was reported by the previous author as addressing § 57.105(7) where the plaintiff lacked standing; it was not re-read on review and is not relied on. § 57.105 was read in full; we hold no effective date for it beyond the section's own October 1, 1988 applicability sentence."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "choice-of-law",
+    "rule_id": "fl-685-101-250k-and-strong-public-policy",
+    "question": "Will a Florida court apply the law the contract chooses, and what does choosing another state's law cost us?",
+    "rule": "A choice-of-law provision is presumptively valid, and Florida will enforce it unless applying the chosen law would contravene a strong public policy of Florida (Southeast Floating Docks; Mazzoni Farms). The burden is on the party seeking to avoid the clause (Mazzoni Farms). The chosen law carries Florida's own substantive fee statutes out with it: where the parties chose another jurisdiction's substantive law, the offer-of-judgment statute, § 768.79, does not apply (Southeast Floating Docks). Separately, Fla. Stat. § 685.101(1) lets parties to a transaction of at least $250,000 (or equivalent value) choose Florida law 'whether or not such contract, agreement, or undertaking bears any relation to this state', to the extent the United States Constitution permits. § 685.102(1) lets an action on such a contract be maintained in Florida against an out-of-state party that agreed in it to submit to the jurisdiction of Florida's courts.",
+    "trap": "Two Florida-specific edges. First, § 685.101's no-relationship guarantee is NOT general: subsection (2) takes out contracts for labor or employment, transactions for personal, family or household purposes (unless a trust with a Florida trustee), and transactions with no substantial or reasonable Florida relation where every party is a non-Florida US citizen or a non-Florida entity without a Florida place of business -- so the statute does not rescue the two out-of-state parties who picked Florida law for neutrality, and subsection (3) leaves those clauses to the common-law test. Second, choosing another state's law in Florida silently gives up Florida's substantive fee and limitation statutes: Southeast Floating Docks holds § 768.79 (offer of judgment) is substantive, so a party who chose Michigan law could not use it.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 685.101",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_685-101",
+            "quote": "(1) The parties to any contract, agreement, or undertaking, contingent or otherwise, in consideration of or relating to any obligation arising out of a transaction involving in the aggregate not less than $250,000, the equivalent thereof in any foreign currency, or services or tangible or intangible property, or both, of equivalent value, including a transaction otherwise covered by s. 671.105(1), may, to the extent permitted under the United States Constitution, agree that the law of this state will govern such contract, agreement, or undertaking, the effect thereof and their rights and duties thereunder, in whole or in part, whether or not such contract, agreement, or undertaking bears any relation to this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 685.101",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_685-101",
+            "quote": "(2) This section does not apply to any contract, agreement, or undertaking:(a) Regarding any transaction which does not bear a substantial or reasonable relation to this state in which every party is either or a combination of:1. A resident and citizen of the United States, but not of this state; or",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "82 So. 3d 73",
+        "name": "Southeast Floating Docks, Inc. v. Auto-Owners Insurance Co.",
+        "court": "Fla.",
+        "decided": "2012",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "da6dc273967c38f6",
+            "cl_opinion_id": "4871147",
+            "quote": "An agreement between parties to be bound by the substantive laws of another jurisdiction is presumptively valid, and this Court will enforce a choice-of-law provision unless applying the chosen forum’s law would contravene a strong public policy of this State.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "761 So. 2d 306",
+        "name": "Mazzoni Farms, Inc. v. E.I. DuPont De Nemours & Co.",
+        "court": "Fla.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "b5efab2b4005fd19",
+            "cl_opinion_id": "1770931",
+            "quote": "Generally, Florida enforces choice-of-law provisions unless the law of the chosen forum contravenes strong public policy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "761 So. 2d 306",
+        "name": "Mazzoni Farms, Inc. v. E.I. DuPont De Nemours & Co.",
+        "court": "Fla.",
+        "decided": "2000",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "b5efab2b4005fd19",
+            "cl_opinion_id": "1770931",
+            "quote": "Moreover, it is incumbent upon the party seeking to avoid enforcement of the provision to show that the foreign law contravenes public policy of the forum jurisdiction.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "82 So. 3d 73",
+        "name": "Southeast Floating Docks, Inc. v. Auto-Owners Insurance Co.",
+        "court": "Fla.",
+        "decided": "2012",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "da6dc273967c38f6",
+            "cl_opinion_id": "4871147",
+            "quote": "Accordingly, under a conflict of law analysis, when parties have agreed to be bound by the substantive law of another jurisdiction, section 768.79 simply does not apply.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 685.102",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_685-102",
+            "quote": "any person may, to the extent permitted under the United States Constitution, maintain in this state an action or proceeding against any person or other entity residing or located outside this state, if the action or proceeding arises out of or relates to any contract, agreement, or undertaking for which a choice of the law of this state, in whole or in part, has been made pursuant to s. 685.101 and which contains a provision by which such person or other entity residing or located outside this state agrees to submit to the jurisdiction of the courts of this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Both quoted Supreme Court passages are majority text. Southeast Floating Docks: LEWIS, J.; CANADY, C.J., and PARIENTE, QUINCE, POLSTON and LABARGA, JJ., concur; PERRY, J., dissents. Mazzoni Farms: HARDING, C.J., and SHAW, WELLS, ANSTEAD, PARIENTE and LEWIS, JJ., concur. Southeast Floating Docks answered a certified question from the Eleventh Circuit and held § 768.79 substantive. It disapproved BDO Seidman (4th DCA) and Bennett (5th DCA) to the extent they applied § 768.79 despite a choice of another state's law. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): Southeast Floating Docks: 25 later opinions, 8 Florida Supreme Court. The negative-word hits are Diamond Aircraft v. Horowitch (Fla. 2013), noting SEFD's disapproval of BDO Seidman, and an unrelated standard-of-review citation. Mazzoni Farms: 48 later opinions, 4 Florida Supreme Court, none negative. Tribeca (2022) cites both. § 685.101 and § 685.102 were read in full; the § 685.101(2)(b)-(e) exclusions (labour or employment, personal/family/household transactions unless a Florida-trustee trust, § 671.105(2), § 655.55) are described in the trap from that read, and only (2)(a)'s opening is quoted. § 685.101's history line records s. 141, ch. 2025-92. We hold no effective dates, so no claim is made about what text was in force on a particular day."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "dtpa-waiver",
+    "rule_id": "fl-fdutpa-class-action-waiver-faa-preemption",
+    "question": "Can a consumer contract waive or cut off the customer's Florida Deceptive and Unfair Trade Practices Act remedies?",
+    "rule": "What the Florida Supreme Court has decided is narrow: where a class-action waiver sits in an arbitration agreement, the Federal Arbitration Act preempts invalidating that waiver on the ground that it is void as against Florida public policy, in a case brought under FDUTPA and other remedial statutes (McKenzie Check Advance v. Betts). The Court held that, even if the waiver were void under state public policy, it was without authority to invalidate it on that basis.",
+    "trap": "The Fourth District had held the class-action waiver void as against Florida public policy on a record that included attorney testimony that lawyers would not take such small consumer claims individually. After McKenzie that argument is foreclosed for arbitration agreements, because Concepcion rejected it. Do not over-read the row the other way: McKenzie is an arbitration/FAA preemption holding. It does not decide whether FDUTPA rights may be waived outside an arbitration agreement. Our corpus search (notes) found no FDUTPA anti-waiver section, but a missing statute is a finding about the text we hold, not a Florida rule that the rights are waivable.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "112 So. 3d 1176",
+        "name": "McKenzie Check Advance of Florida, LLC v. Betts",
+        "court": "Fla.",
+        "decided": "2013",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "7017567e969a2262",
+            "cl_opinion_id": "4800800",
+            "quote": "In light of the United States Supreme Court’s recent decision in Concepcion, we conclude that the FAA preempts invalidating the class action waiver in this case on the basis of the waiver being void as against public policy.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "CORRECTED 2026-09-16 on review: the rule previously opened by stating, as law, that Florida's FDUTPA part 'contains no anti-waiver section'. That is a search result, not a proposition any authority in this row carries, so it now sits in the trap and notes as a finding about our corpus. The trap also previously attributed quoted words ('eviscerates the remedial purposes') to the Fourth District that were not read on review; they were removed. McKenzie is majority text: PARIENTE, J.; QUINCE, CANADY, LABARGA and PERRY, JJ., concur; POLSTON, C.J., and LEWIS, J., concur in result. The quoted sentence is the opinion's conclusion and repeats its introduction. The previous author searched every published fl row of docketx/us-statutes for ch. 501 pt. II (§§ 501.201-501.213) for 'waiv' text and reported one hit, § 501.2075 (waiver of a civil penalty after restitution); that search was not re-run on review. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 112 So. 3d 1176: 10 later opinions, 3 Florida Supreme Court (citing it for procedural points). The negative-word hits all describe McKenzie quashing the Fourth District. Family name kept as 'dtpa-waiver' for continuity with the Texas rows; the Florida analogue is FDUTPA."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "electronic-signature",
+    "rule_id": "fl-ueta-agreement-to-transact-electronically",
+    "question": "Is this contract unenforceable because it was signed electronically, and does Florida's UETA cover it?",
+    "rule": "No: under Fla. Stat. § 668.50(7) a record or signature may not be denied legal effect or enforceability solely because it is electronic, a contract may not be denied effect solely because an electronic record was used in its formation, and an electronic record satisfies a law requiring a writing. But § 668.50 applies only to transactions between parties EACH of which has agreed to conduct transactions by electronic means, and whether they agreed is determined from the context and surrounding circumstances, including the parties' conduct.",
+    "trap": "The gate is agreement, not form. A party who never agreed to transact electronically is outside the section entirely, and the agreement is proved by context and conduct rather than by a clause -- so the fight in Florida is evidentiary, not formal. § 668.50(5)(c) adds that a party who agreed to transact electronically may refuse to conduct OTHER transactions electronically, and that right cannot be waived by agreement. The scope carve-outs in § 668.50(3)(b) matter too: the section does not apply to a transaction governed by the law of wills, codicils or testamentary trusts, by the Uniform Commercial Code other than s. 671.107 and chapters 672 and 680, or by the Uniform Computer Information Transactions Act. And (3)(c) takes out transactions governed by rules of judicial procedure except as to subsections (2), (9) and (11). The retention rule has a sensible floor: “A requirement to retain a record in accordance with paragraph (a) does not apply to any information the sole purpose of which is to enable the record to be sent, communicated, or received.” So routing and transmission data does not have to be kept to satisfy a record-retention requirement.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 668.50",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_668-50",
+            "quote": "(a) A record or signature may not be denied legal effect or enforceability solely because the record or signature is in electronic form. (b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in the formation of the contract. (c) If a provision of law requires a record to be in writing, an electronic record satisfies such provision.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 668.50",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_668-50",
+            "quote": "(b) This section applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 668.50",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_668-50",
+            "quote": "A requirement to retain a record in accordance with paragraph (a) does not apply to any information the sole purpose of which is to enable the record to be sent, communicated, or received.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Read in the published fl-stat_668-50 row (the whole section) on 2026-09-16. The first quote is § 668.50(7)(a)-(c) and the second is (5)(b). The (3) and (5)(c) points in the trap are from the same read and are not quoted; the trap previously omitted the Uniform Commercial Code exclusion in (3)(b)2. We hold no effective dates beyond the section's own (4) prospective-application date (July 1, 2000). The previous author reported no Florida Supreme Court opinion construing § 668.50 in a contract-formation dispute in us-caselaw-fl. A name scan for '668.50' in us-caselaw-fl found 4 opinions; the one Florida Supreme Court hit is a rules-amendment opinion, not a contract-formation case. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "entire-agreement",
+    "rule_id": "fl-merger-clause-does-not-bar-fraud-claim",
+    "question": "Does our merger / 'no representations were made' clause block a claim that the deal was induced by an oral misrepresentation?",
+    "rule": "Not reliably, and Florida's highest-court authority does not settle it. In Oceanic Villas (1941) the Supreme Court held that a lease clause reciting that the lessee was not influenced by any representations and that no verbal agreements had been made did not bar rescission for fraud. Such a clause 'evidences an agreement between the parties that no fraud had been committed', and fraud in procuring the contract vitiated every part of it, including the clause. The Court also recognised that parties may, by special provision, make a contract incontestable on account of fraud. Two years earlier, in Cassara v. Bowman (1939), the Court had held that an entire-agreement clause meant the parties agreed no oral representations would vary the lease, and affirmed dismissal of a bill to rescind for oral misrepresentations of profits. Oceanic Villas distinguished Cassara on the allegations rather than overruling it. District courts of appeal have reached conflicting results: the Fifth District in Billington (2016) held that the non-reliance and waiver components of a disclaimer clause negated the buyer's fraud claims.",
+    "trap": "Florida boilerplate advice usually states one side of this split as settled. A buyer relying on Oceanic Villas to escape a merger or no-reliance clause may face Cassara and the Billington line. A seller relying on the clause may face Oceanic Villas, which is still Supreme Court law and was not overruled in any opinion we hold. What Oceanic Villas does say clearly is the drafting point: a clause that merely recites no representations were made is weaker than a special provision stating that the contract may not be rescinded for fraud. The results in our corpus also turn on facts outside the clause. Cassara rested in part on the lessee's failure to make an easy inquiry into the hotel's reputation. And the district courts have treated statutory broker duties and non-parties to the contract differently (see notes).",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "4 So. 2d 689",
+        "name": "Oceanic Villas, Inc. v. Godson",
+        "court": "Fla.",
+        "decided": "1941",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "b56e4ab4d52b8f21",
+            "cl_opinion_id": "3378718",
+            "quote": "If the lease was procured by fraud and misrepresentation as to a material fact, the truth or falsity of which was known only to the Lessor (and *458 it is so alleged in the bill of complaint) and which misrepresentations, if proved, would be sufficient basis for a decree of recission, then such fraudulent misrepresentation vitiated every part of the lease contract and the Lessee was not bound by the above quoted clause.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "4 So. 2d 689",
+        "name": "Oceanic Villas, Inc. v. Godson",
+        "court": "Fla.",
+        "decided": "1941",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "b56e4ab4d52b8f21",
+            "cl_opinion_id": "3378718",
+            "quote": "This provision in the contract does not make the contract incontestable because of fraud, but evidences an agreement between the parties that no fraud had been committed.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "4 So. 2d 689",
+        "name": "Oceanic Villas, Inc. v. Godson",
+        "court": "Fla.",
+        "decided": "1941",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "b56e4ab4d52b8f21",
+            "cl_opinion_id": "3378718",
+            "quote": "We recognize the rule to be that fraud in the procurement of a contract is ground for rescission and cancellation of any contract unless for consideration or expediency the parties agree that the contract may not be cancelled or rescinded for such cause, and that by such special provisions of a contract it may be made incontestable on account of fraud, or for any other reason.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "4 So. 2d 689",
+        "name": "Oceanic Villas, Inc. v. Godson",
+        "court": "Fla.",
+        "decided": "1941",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "b56e4ab4d52b8f21",
+            "cl_opinion_id": "3378718",
+            "quote": "We think the factual conditions differentiate this case from the Cassara case. The allegations of the two bills of complaint are entirely different as to the nature of the representations alleged to have been false.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "186 So. 514",
+        "name": "Cassara v. Bowman",
+        "court": "Fla.",
+        "decided": "1939",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "ab686a5d45cb24fc",
+            "cl_opinion_id": "3393992",
+            "quote": "By the inclusion of the latter clause the parties agreed that the lease contained the entire contract between the parties and that no oral representations, promises or undertakings, and that no act or acts done at or taken pursuant to such oral representations, promises or undertakings shall effect, vary, alter or modify the terms of the lease.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "192 So. 3d 77",
+        "name": "Billington v. Ginn-LA Pine Island, Ltd.",
+        "court": "Fla. 5th DCA",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "f53264c07f131743",
+            "cl_opinion_id": "3207424",
+            "quote": "Concluding that the “non-reliance” and “waiver” components of the disclaimer clauses negate Appellant’s fraud claims, we affirm.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "192 So. 3d 77",
+        "name": "Billington v. Ginn-LA Pine Island, Ltd.",
+        "court": "Fla. 5th DCA",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "f53264c07f131743",
+            "cl_opinion_id": "3207424",
+            "quote": "Courts have struggled to reconcile and apply Oceanic Villas and Cassara, yielding conflicting results.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "CORRECTED 2026-09-16 on review: THE ROW OVERSTATED A CONTESTED RULE. It previously answered 'No' outright on Oceanic Villas alone, and its trap said 'the usual integration/no-reliance paragraph buys nothing against fraudulent inducement in Florida'. The good-law scan of us-caselaw-fl (19 later opinions cite 4 So. 2d 689, 2 of them Florida Supreme Court: Mazzoni Farms 2000 and Jackson v. Shakespeare Foundation 2013) found Billington v. Ginn-LA Pine Island, Ltd. (Fla. 5th DCA 2016). Billington affirmed dismissal of fraud claims on non-reliance and waiver clauses. It records that the Fifth District in Deluxe Motel v. Patel (1999) had held Oceanic Villas overruled Cassara sub silentio, and that the Third District has followed both lines (Cas-Kay 1984 vs. Weiss v. Cherry 1985 and Wasser v. Sasoni 1995). It certified questions to the Supreme Court, including whether Oceanic Villas overruled Cassara. No opinion in our corpus answers those questions: the scan finds 9 later opinions citing 192 So. 3d 77 and 7 citing Cassara (186 So. 514), none from the Florida Supreme Court, and no Florida Supreme Court opinion after 2013 citing Oceanic Villas. Whether review was sought or denied is not in our corpus. Later district court opinions in the scan go both ways or avoid the question. Smith v. Rodriguez (2019) held a non-reliance provision did not bar fraud and ch. 475 claims against a broker, where the clause preserved the broker's statutory duties (following Kjellander, 1st DCA 2016). Taylor v. Nicholson-Williams (2023) declined to resolve the Oceanic Villas/Billington debate because brokers could not invoke the clause. Burress v. Roots and Fruits (2026) relied on Billington. Only the Billington passages are quoted; the others are described from the scan output and partial reads. Oceanic Villas is majority text of the 1941 Court (BUFORD, J.; BROWN, C.J., and WHITFIELD and ADAMS, JJ., concur). Its incontestability sentence is dictum, since the clause before it was not such a provision. Cassara (BUFORD, J.; TERRELL, C.J., and THOMAS, J., concur; WHITFIELD, P.J., and CHAPMAN, J., concur in opinion and judgment; BROWN, J., not participating) was read in full. Its holding also rested on the lessee's failure to inquire into the hotel's reputation, which was a matter of lease representation rather than of the clause. Billington is a district court of appeal decision and is cited as such, not as the state's highest court."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "force-majeure",
+    "rule_id": "fl-force-majeure-no-verified-authority",
+    "question": "What does Florida law say about force majeure clauses and excused performance?",
+    "rule": "We could not verify a Florida rule on this from our published corpus.",
+    "authority": [],
+    "status": "no-verified-authority",
+    "as_of": "2026-09-16",
+    "notes": "Re-checked 2026-09-16 on review. Statutes: the previous author searched all 24,993 published fl rows of docketx/us-statutes for 'force majeure' and found 9 sections, all regulatory rather than contract law (§§ 97.0575, 100.371, 125.022, 166.033, 337.401, 366.97, 553.792, 553.7932 and § 687.15, the LIBOR benchmark-replacement section). That statute search was not re-run. Cases: a full scan of all 447,040 us-caselaw-fl rows for 'force majeure' found 19 opinions, 0 of them from the Florida Supreme Court (court fl-fla, 76,059 rows); the other 19 are district court of appeal opinions, which were not read for this row. Not verified because no statute and no Florida Supreme Court opinion in our corpus states a Florida force-majeure rule. Impossibility/impracticability doctrine was not searched."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "indemnity",
+    "rule_id": "fl-indemnity-specific-provision-and-725-06-monetary-cap",
+    "question": "Will this indemnity clause cover the indemnitee's own negligence, and does a Florida construction contract need anything extra?",
+    "rule": "Two requirements stack. At common law, an indemnity contract written in general terms ('indemnify against any and all claims') does not disclose an intention to indemnify the indemnitee for its own negligence: such contracts are enforced only if they express that intent in clear and unequivocal terms (University Plaza; Charles Poe Masonry). The rule covers the indemnitee's SOLE negligence (University Plaza), and Charles Poe Masonry extended it to cases where indemnitor and indemnitee are JOINTLY liable. On top of that, a construction agreement within Fla. Stat. § 725.06(1) that indemnifies for damages caused in whole or in part by the indemnitee's own act, omission or default is VOID AND UNENFORCEABLE unless the contract contains a monetary limitation on the extent of the indemnification that bears a reasonable commercial relationship to the contract and is part of the project specifications or bid documents, if any. For an owner indemnified by a party in privity with it, that limitation may not be less than $1 million per occurrence unless otherwise agreed. And the indemnification may not include the indemnitee's gross negligence or willful, wanton or intentional misconduct. On a public agency's construction project, § 725.06(3) voids any indemnity, defence or hold-harmless requirement beyond what subsection (2) permits (indemnity to the extent caused by the indemnifying party's negligence, recklessness or intentional wrongful misconduct).",
+    "trap": "The Florida construction trap is a missing dollar figure, not the wording. An indemnity in a construction agreement within § 725.06(1) drafted in perfect express-negligence language is void unless the contract contains a monetary limitation on the indemnification, which must also appear in the project specifications or bid documents where there are any (the statute says 'if any'); by subsection (4) the section does not affect contracts entered into before its effective date. The common-law trap is thinking a 'sole negligence' carve-out settles the drafting: after Charles Poe Masonry, general 'any and all claims' language fails even where the indemnitee is only jointly at fault. Poe contrasted a lease clause covering suits 'occasioned wholly or in part by any act or omission of Lessee', approving a district court's holding that such 'in part' language showed a clear intent to indemnify for joint fault. For public work, § 725.08 imposes on a public agency's professional services contract with a design professional the same limit that § 725.06(2)-(3) imposes on construction contracts.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 725.06",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_725-06",
+            "quote": "wherein any party referred to herein promises to indemnify or hold harmless the other party to the agreement, contract, or guarantee for liability for damages to persons or property caused in whole or in part by any act, omission, or default of the indemnitee arising from the contract or its performance, shall be void and unenforceable unless the contract contains a monetary limitation on the extent of the indemnification that bears a reasonable commercial relationship to the contract and is part of the project specifications or bid documents, if any. Notwithstanding the foregoing, the monetary limitation on the extent of the indemnification provided to the owner of real property by any party in privity of contract with such owner shall not be less than $1 million per occurrence, unless otherwise agreed by the parties.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 725.06",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_725-06",
+            "quote": "However, such indemnification shall not include claims of, or damages resulting from, gross negligence, or willful, wanton or intentional misconduct of the indemnitee or its officers, directors, agents or employees, or for statutory violation or punitive damages except and to the extent the statutory violation or punitive damages are caused by or result from the acts or omissions of the indemnitor or any of the indemnitor’s contractors, subcontractors, sub-subcontractors, materialmen, or agents of any tier or their respective employees.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 725.06",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_725-06",
+            "quote": "(3) Except as specifically provided in subsection (2), a construction contract for a public agency or in connection with a public agency’s project may not require one party to indemnify, defend, or hold harmless the other party, its employees, officers, directors, or agents from any liability, damage, loss, claim, action, or proceeding, and any such contract provision is void as against public policy of this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 725.08",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_725-08",
+            "quote": "(2) Except as specifically provided in subsection (1), a professional services contract entered into with a public agency may not require that the design professional defend, indemnify, or hold harmless the agency, its employees, officers, directors, or agents from any liability, damage, loss, claim, action, or proceeding, and any such contract provision shall be void as against the public policy of this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "272 So. 2d 507",
+        "name": "University Plaza Shopping Center, Inc. v. Stewart",
+        "court": "Fla.",
+        "decided": "1973",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "5c5f67f46991ced7",
+            "cl_opinion_id": "1917893",
+            "quote": "In our judgment, the use of the general terms \"indemnify ... against any and all claims\" does not disclose an intention to indemnify for consequences arising solely from the negligence of the indemnitee.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "374 So. 2d 487",
+        "name": "Charles Poe Masonry, Inc. v. Spring Lock Scaffolding Rental Equipment Co.",
+        "court": "Fla.",
+        "decided": "1979",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "c2c5549fdc4f1979",
+            "cl_opinion_id": "1133188",
+            "quote": "Such contracts will be enforced only if they express an intent to indemnify against the indemnitee's own wrongful acts in clear and unequivocal terms.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "374 So. 2d 487",
+        "name": "Charles Poe Masonry, Inc. v. Spring Lock Scaffolding Rental Equipment Co.",
+        "court": "Fla.",
+        "decided": "1979",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "c2c5549fdc4f1979",
+            "cl_opinion_id": "1133188",
+            "quote": "Hence we extend the holding in University Plaza to cases where the indemnitor and indemnitee are jointly liable.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-17",
+    "notes": "CORRECTED 2026-09-17 (audit #24): the limitation must be in the CONTRACT and in specifications or bid documents only where those exist; the unqualified 'A construction indemnity' is now tied to § 725.06(1)'s parties; 'enough to satisfy Texas' had no authority (cut). CORRECTED 2026-09-16 on review. These notes previously said University Plaza was limited to the indemnitee's SOLE negligence and that 'the concurrent-negligence case is governed by the statute'. That is wrong as to the common law. Charles Poe Masonry (SUNDBERG, J.; ENGLAND, C.J., and ADKINS, BOYD, OVERTON and ALDERMAN, JJ., concur; HATCHETT, J., dissents) reads: 'Hence we extend the holding in University Plaza to cases where the indemnitor and indemnitee are jointly liable.' That is now in the rule and quoted. The rule also omitted § 725.06(1)'s $1 million owner floor and its gross-negligence exclusion; both are now quoted, and the § 725.06(3) public-agency limit is added. University Plaza (DEKLE, J.; CARLTON, C.J., and ROBERTS and ADKINS, JJ., concur; ERVIN, J., dissents) is majority text. The quoted sentence is the Court's own, and the Court expressly limited that decision to sole-negligence facts. § 725.06 was read in full; its history line ends at s. 10, ch. 2001-211, and we hold no effective date. Sanislo v. Give Kids the World (Fla. 2015) describes University Plaza as a rule for indemnity agreements and declines to extend it to exculpatory clauses. Sanislo's opinion was joined in full by only two justices (see the limitation-of-liability row), so it is not relied on here. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): University Plaza: 71 later opinions, 8 Florida Supreme Court, none negative. Charles Poe Masonry: 56 later opinions, 4 Florida Supreme Court (3 are copies of Sanislo, and Cox Cable 1992); the one negative-word hit is the Third District's own order on remand. No negative treatment of either case. A name scan for '725.06' found 32 opinions, 1 Florida Supreme Court (American Home Assurance v. National Railroad Passenger Corp., 2005), which was not read."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "lien-waiver",
+    "rule_id": "fl-713-20-no-advance-waiver-but-custom-form-binds",
+    "question": "Is this lien waiver enforceable, and can the owner make us sign its own form?",
+    "rule": "A right to claim a construction lien may not be waived in advance, and any advance waiver is unenforceable; a lien right may be waived only to the extent of labor, services or materials actually furnished (Fla. Stat. § 713.20(2)). Section 713.20(4)-(5) supplies statutory progress-payment and final-payment waiver forms, and § 713.20(6) forbids requiring a lienor to furnish a waiver different from those forms. A lienor who signs a waiver in exchange for a check may condition it on the check clearing (§ 713.20(7)).",
+    "trap": "Subsections (6) and (8) point in opposite directions and (8) is the one that bites. Nobody may REQUIRE a lienor to sign a non-statutory waiver -- but § 713.20(8) provides that a waiver or release that is not substantially similar to the statutory forms 'is enforceable in accordance with the terms of the lien waiver or lien release'. So the custom, broader waiver you should have refused binds you by its own words once signed — except that no form can waive lien rights for labor, services or materials not yet furnished: § 713.20(2)'s advance-waiver bar is unqualified.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 713.20",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_713-20",
+            "quote": "(2) A right to claim a lien may not be waived in advance. A lien right may be waived only to the extent of labor, services, or materials furnished. Any waiver of a right to claim a lien that is made in advance is unenforceable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 713.20",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_713-20",
+            "quote": "(8) A lien waiver or lien release that is not substantially similar to the forms in subsections (4) and (5) is enforceable in accordance with the terms of the lien waiver or lien release.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-17",
+    "notes": "CORRECTED 2026-09-17 (audit #22): subsection (8) does not override (2) — an advance waiver stays unenforceable and waiver reaches only work actually furnished; the Texas comparison had no authority in the row (cut). Whole section read in the published fl-stat_713-20 row. The payment-bond analogue is § 713.235 (waivers of the right to claim against a payment bond, with its own forms), read but not relied on. No Florida Supreme Court opinion construing § 713.20(8) was located in us-caselaw-fl.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "limitation-of-liability",
+    "rule_id": "fl-exculpatory-clause-no-magic-words",
+    "question": "Will a Florida court enforce this clause against the drafter's own negligence, and does it have to say 'negligence'?",
+    "rule": "An exculpatory clause is not ineffective merely because it does not use the word 'negligence'. In Sanislo the Florida Supreme Court approved the Fifth District's decision holding a release effective to bar a negligence action despite the absence of express language releasing the defendant for its own negligence. It disapproved the First, Second, Third and Fourth District decisions to the contrary. The reasoning in that opinion, however, was joined in full by only two justices (see notes), so the binding point is the decision's result and its disapproval of the conflicting district-court decisions, not the opinion's formulation of when release language is clear enough. Separately, Fla. Stat. § 558.0035 shields an individual design professional employee or agent from negligence liability under a professional services contract only if, among other conditions, the contract includes a prominent statement, in uppercase font at least 5 point sizes larger than the rest of the text, that the individual may not be held individually liable for negligence.",
+    "trap": "This is the opposite of the Texas express-negligence rule, and the trap is assuming Florida is symmetrical. The Sanislo opinion describes its decision as a rejection of the invitation to extend University Plaza, which applies to INDEMNITY agreements, to exculpatory clauses. Indemnity for one's own negligence still needs clear and unequivocal terms (see the indemnity row). The opinion also says it does not make general release language per se effective. Because only two justices joined that reasoning, how clear a release must be remains, beyond the result, a question on which district-court law is the working guide. § 558.0035's other conditions are in the notes.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "157 So. 3d 256",
+        "name": "Sanislo v. Give Kids the World, Inc.",
+        "court": "Fla.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "0c3dc1f742c965d8",
+            "cl_opinion_id": "2779088",
+            "quote": "This case is before the Court for review of the decision of the Fifth District Court of Appeal in Give Kids the World, Inc. v. Sanislo, 98 So. 3d 759 (Fla. 5th DCA 2012), in which the Fifth District held that an exculpatory clause was effective to bar a negligence action despite the absence of express language referring to release of the defendant for its own negligence or negligent acts.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "157 So. 3d 256",
+        "name": "Sanislo v. Give Kids the World, Inc.",
+        "court": "Fla.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "0c3dc1f742c965d8",
+            "cl_opinion_id": "2779088",
+            "quote": "Accordingly, we approve the Fifth District’s decision in Give Kids the World and disapprove the decisions of the First, Second, Third, and Fourth District Courts of Appeal in Levine v. A. Madley Corp., 516 So. 2d 1101 (Fla. 1st DCA 1987); Van Tuyn v. Zurich Am. Ins. Co., 447 So. 2d 318 (Fla. 4th DCA 1984); Goyings v. Jack & Ruth Eckerd Found., 403 So. 2d 1144 (Fla. 2d DCA 1981); and Tout v. Hartford Accident & Indem. Co., 390 So. 2d 155 (Fla. 3d DCA 1980).",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 558.0035",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_558-0035",
+            "quote": "(c) The contract includes a prominent statement, in uppercase font that is at least 5 point sizes larger than the rest of the text, that, pursuant to this section, an individual employee or agent may not be held individually liable for negligence;",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "DOWNGRADED IN SCOPE 2026-09-16 on review: PLURALITY. The published slip opinion is PER CURIAM and ends 'It is so ordered. LABARGA, C.J., and PERRY, J., concur. CANADY and POLSTON, JJ., concur in result. LEWIS, J., dissents with an opinion, in which PARIENTE and QUINCE, JJ., concur.' Only two justices joined the opinion's reasoning; four joined the judgment. The row previously quoted two passages of that reasoning as if they were holdings: 'exculpatory clauses are only unambiguous and enforceable where the language unambiguously demonstrates a clear and understandable intention to be relieved from liability ...', and 'we conclude that the absence of the terms negligence or negligent acts ... does not render the agreement per se ineffective'. The rule stated both as Florida Supreme Court law. Both quotes were replaced: one with the opinion's own description of the Fifth District holding it approved, the other with the disposition sentence, which is what four justices joined. The clear-and-understandable-intention standard is the district courts' formulation (the opinion attributes it to Cain, Gayon and Raveson) and is not stated as Supreme Court law here. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 157 So. 3d 256: 13 later opinions, 0 Florida Supreme Court; the district court hits describe Sanislo as having disapproved Van Tuyn and Goyings. Whether Florida courts treat Sanislo's reasoning as binding despite the vote was not examined beyond these hits. § 558.0035 was read in full: the individual is not liable only if (a) the contract is between the business entity and the claimant (or another entity providing services to the claimant), (b) it does not name the individual as a party, (c) it carries the uppercase statement, (d) the entity maintains any professional liability insurance the contract requires, and (e) the damages are solely economic and do not extend to personal injury or property not subject to the contract. History: s. 2, ch. 2013-28. We hold no effective date."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "limitation-of-remedy",
+    "rule_id": "fl-672-719-exclusive-remedy-and-essential-purpose",
+    "question": "Is this repair-or-replace-only remedy going to hold, and can we exclude consequential damages?",
+    "rule": "Under Fla. Stat. § 672.719 (UCC 2-719) an agreement may substitute remedies and limit the measure of damages, and a remedy is exclusive only if it is expressly agreed to be exclusive; where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the code. Consequential damages may be limited or excluded unless the limitation is unconscionable; limiting consequential damages for personal injury in the case of consumer goods is prima facie unconscionable, but limitation of damages where the loss is commercial is not.",
+    "trap": "The exclusivity has to be stated: under § 672.719(1)(b) resort to a stated remedy is optional unless the remedy is expressly agreed to be exclusive, so a clause that merely lists repair or replacement without saying 'sole and exclusive remedy' adds a remedy rather than replacing one. Florida's UCC unconscionability provision (§ 672.302) is also the one that governs whether the consequential-damages exclusion survives, and it is judged as of the time the contract was made.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-719",
+            "quote": "(2) Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this code. (3) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-719",
+            "quote": "(b) Resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.302",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Whole section read in the published fl-stat_672-719 row on 2026-09-16; history s. 1, ch. 65-254, with no amendment shown, and the text reads as UCC 2-719. We hold no effective dates. § 672.302 (named in the trap) was read in the same session and is quoted in the unconscionability row. The previous author reported no Florida Supreme Court opinion applying § 672.719 in us-caselaw-fl; that was not re-searched, so the rule rests on the statute. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): § 672.302(1) read (fl-stat_672-302); block added for the 'at the time it was made' point."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "limitations-period",
+    "rule_id": "fl-95-03-contractual-shortening-void",
+    "question": "Can the contract shorten the time the other side has to sue in Florida?",
+    "rule": "No. Fla. Stat. § 95.03 makes void any provision in a contract fixing the period within which an action arising out of the contract may be begun at a time less than that provided by the applicable statute of limitations. The applicable periods for contract claims are five years for an action on a contract, obligation or liability founded on a written instrument (§ 95.11(2)(b), with carve-outs for payment-bond claims, deficiency judgments and property-insurance contracts) and four years for one not founded on a written instrument, including the sale and delivery of goods (§ 95.11(3)(j)).",
+    "trap": "Two Florida-specific twists. First, Florida is absolute where some states allow a floor (Texas, for one, sets a two-year floor in a section this store carries in its Texas rules, not here): § 95.03 voids any shortening at all. Second, the prohibition is escapable by choosing another state's law: in Burroughs the Florida Supreme Court held that the policy behind § 95.03 is riddled with exceptions and frequently amended, and so is NOT a strong public policy capable of defeating a Michigan choice-of-law clause -- meaning a two-year contractual limitation survived in a Florida court. Property insurance is also carved out of the five-year rule: § 95.11(2)(e) runs its period from the date of loss. And a limitation period is a ceiling, not a guarantee of time: § 95.11 provides “This subsection shall not affect application of laches at an earlier time in accordance with law.” so an equitable claim can be barred before the statutory period runs out.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 95.03",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_95-03",
+            "quote": "Any provision in a contract fixing the period of time within which an action arising out of the contract may be begun at a time less than that provided by the applicable statute of limitations is void.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 95.11",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_95-11",
+            "quote": "(b) A legal or equitable action on a contract, obligation, or liability founded on a written instrument, except for an action to enforce a claim against a payment bond, which shall be governed by the applicable provisions of paragraph (6)(e), s. 255.05(10), s. 337.18(1), or s. 713.23(1)(e), and except for an action for a deficiency judgment governed by paragraph (6)(g).",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 95.11",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_95-11",
+            "quote": "(j) A legal or equitable action on a contract, obligation, or liability not founded on a written instrument, including an action for the sale and delivery of goods, wares, and merchandise, and on store accounts.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "472 So. 2d 1166",
+        "name": "Burroughs Corp. v. Suntogs of Miami, Inc.",
+        "court": "Fla.",
+        "decided": "1985",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "af95f9105d4abbc1",
+            "cl_opinion_id": "1945638",
+            "quote": "We therefore conclude that the contractual provision shortening the period of time for filing a suit was not contrary to a strong public policy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 95.11",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_95-11",
+            "quote": "This subsection shall not affect application of laches at an earlier time in accordance with law.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "§ 95.03 was read in full (history ss. 1, 2, ch. 6465, 1913; s. 2, ch. 74-382). § 95.11 was read for (2)(b), (2)(e) and (3)(j), all now quoted except (2)(e), which the trap describes from the same read. Its history line runs through s. 41, ch. 2025-153. We hold no effective dates, so the paragraph letters are those of the published text, not a claim about any given day. Burroughs (ADKINS, OVERTON, ALDERMAN and SHAW, JJ., concur; McDONALD and EHRLICH, JJ., dissent) was a choice-of-law case: the contract chose Michigan law and a two-year limitation. The quoted sentence is majority text concluding that § 95.03's policy was not strong enough to displace the chosen law. The Court found that policy 'riddled with exceptions', noted the legislature 'has frequently amended' the limitation periods, and did not consider limitations protections 'fundamental to a legal system' (read in the row). Burroughs does NOT hold a shortening clause valid when Florida law governs. Southeast Floating Docks (Fla. 2012) later cited Burroughs for the same choice-of-law point (read in that row). The Texas comparison in the trap is drawn from this store's Texas rows, not from a Florida source. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 472 So. 2d 1166: 11 later opinions, 2 Florida Supreme Court (Mazzoni Farms 2000, Southeast Floating Docks 2012), both consistent. The negative-word hits describe Burroughs quashing the Third District. NUMBER SWEEP 2026-09-22 (every money, percentage, time-period and date figure in a statute-attributed sentence checked against the cited section's text): the Texas two-year figure was stated with no block in this row; reworded to point at the Texas rule that carries § 16.070 rather than assert the figure here. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "liquidated-damages",
+    "rule_id": "fl-liquidated-damages-option-to-sue-is-a-penalty",
+    "question": "Will a Florida court enforce this liquidated-damages clause, or strike it as a penalty?",
+    "rule": "Florida applies the two-prong test of Hyman v. Cohen: the damages consequent upon a breach must not be readily ascertainable at the time of contracting, and the sum stipulated must not be so grossly disproportionate to any damages that might reasonably be expected to follow from a breach as to show that the parties intended only to induce full performance. For contracts for the sale of goods, Fla. Stat. § 672.718(1) adds the UCC formulation and provides that a term fixing unreasonably large liquidated damages is void as a penalty.",
+    "trap": "The Florida killer is the OPTION. If the clause lets the non-breaching party choose between keeping the stipulated sum and suing for actual damages, the provision is a penalty as a matter of law -- not because the amount is wrong, but because the option shows the parties never mutually intended the stipulated sum to be their measure of damages. Standard seller-protective drafting ('Seller may retain the deposit as liquidated damages, or at Seller's option pursue any remedy at law or in equity') therefore fails in Florida while being unremarkable elsewhere. Lefemine expressly reserved whether the same result follows under the UCC, and reserved the case of an option to pursue only equitable remedies.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "573 So. 2d 326",
+        "name": "Lefemine v. Baron",
+        "court": "Fla.",
+        "decided": "1991",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "84ec2307774e9f69",
+            "cl_opinion_id": "1116386",
+            "quote": "In Hyman v. Cohen, 73 So.2d 393 (Fla. 1954), this Court established the test as to when a liquidated damages provision will be upheld and not stricken as a penalty clause. First, the damages consequent upon a breach must not be readily ascertainable. Second, the sum stipulated to be forfeited must not be so grossly disproportionate to any damages that might reasonably be expected to follow from a breach as to show that the parties could have intended only to induce full performance, rather than to liquidate their damages.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "573 So. 2d 326",
+        "name": "Lefemine v. Baron",
+        "court": "Fla.",
+        "decided": "1991",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "84ec2307774e9f69",
+            "cl_opinion_id": "1116386",
+            "quote": "The reason why the forfeiture clause must fail in this case is that the option granted to Baron either to choose liquidated damages or to sue for actual damages indicates an intent to penalize the defaulting buyer and negates the intent to liquidate damages in the event of a breach.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "573 So. 2d 326",
+        "name": "Lefemine v. Baron",
+        "court": "Fla.",
+        "decided": "1991",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "84ec2307774e9f69",
+            "cl_opinion_id": "1116386",
+            "quote": "We hold that the default provision in the subject contract was not enforceable as a liquidated damages clause. The provision constituted a penalty as a matter of law because the existence of the option negated the intent to liquidate damages.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.718",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-718",
+            "quote": "(1) Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "All Lefemine quotes are majority text (GRIMES, J.; SHAW, C.J., and OVERTON, EHRLICH, BARKETT and KOGAN, JJ., concur; McDONALD, J., dissents). The holding sentence is now quoted as well as the reasoning. Footnote 5 (read in the row) reads: 'We express no opinion with respect to whether the same result would occur if the Uniform Commercial Code were applicable to this transaction, nor do we imply that a liquidated damages clause which merely provided the option of pursuing equitable remedies would be unenforceable.' That is why § 672.718 is listed separately rather than merged into the common-law rule. The opinion also records that Hutchison v. Tompkins (Fla. 1972) reaffirmed that the Hyman ascertainability prong is measured at the time the contract was drawn. § 672.718 was read in full (history s. 1, ch. 65-254; s. 612, ch. 97-102); we hold no effective date. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 573 So. 2d 326: 28 later opinions, 0 Florida Supreme Court. The one negative-word hit, Olen Properties v. Moss (2008), distinguishes Lefemine for a clause giving the landlord no option. Hyman v. Cohen (73 So. 2d 393): 56 later opinions, 10 Florida Supreme Court, and the negative-word hits describe Hutchison receding from Pembroke v. Caudill in favour of Hyman."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "non-competition",
+    "rule_id": "fl-542-335-and-2025-choice-act",
+    "question": "Is this non-compete enforceable in Florida, and which statute governs it?",
+    "rule": "For ordinary restrictive covenants, Fla. Stat. § 542.335 controls. A court may not enforce the covenant unless it is in a writing signed by the person against whom enforcement is sought. The party seeking enforcement must plead and prove a legitimate business interest (the statutory list is expressly non-exhaustive, and White held referral sources can qualify) and that the restraint is reasonably necessary to protect it. A covenant not supported by a legitimate business interest is void. Once the enforcing party makes a prima facie showing, the burden shifts to the opponent to show the restraint is overbroad or overlong. A court SHALL modify an overbroad restraint and grant only the relief reasonably necessary. For a covenant not predicated upon the protection of trade secrets, enforced against a former employee, agent or independent contractor (not in a sale of a business), a restraint of 6 months or less is rebuttably presumed reasonable in time and one over 2 years rebuttably presumed unreasonable (§ 542.335(1)(d)). For the seller of a business, the thresholds are 3 and 7 years. A court may not consider individualized economic or other hardship to the person restrained, and may not construe the covenant narrowly, against the restraint or against the drafter. Separately, ch. 2025-213 added the CHOICE Act (§§ 542.41-542.45). A 'covered noncompete agreement' of up to 4 years with a 'covered employee' (an employee or individual contractor earning more than twice the annual mean wage of the relevant Florida county, excluding health care practitioners) is fully enforceable according to its terms if: the employee was advised in writing of the right to seek counsel and given the 7-day notice; the employee acknowledges in writing that the employee will receive confidential information or customer relationships; and the agreement reduces the noncompete period day-for-day by any nonworking portion of a garden-leave notice period. On application, a court MUST preliminarily enjoin the employee, and may modify or dissolve the injunction only on clear and convincing evidence of specified grounds. A restrictive covenant that is neither a covered noncompete nor a covered garden leave agreement stays under § 542.335.",
+    "trap": "Florida's statutes remove defences a drafter elsewhere relies on: hardship to the employee is off the table, and the court must modify rather than strike an overbroad covenant, so overreaching does not by itself cost the enforcing party the covenant. Under § 542.335(1)(i), read but not quoted, a court may refuse enforcement on public-policy grounds only if it articulates the policy specifically and finds it substantially outweighs the protected interest. The CHOICE Act adds a two-track system. Which statute applies turns on the employee's salary against a COUNTY mean wage, as defined in § 542.43(3). And § 542.45 reaches an agreement with an employee whose primary place of work is in Florida 'regardless of any applicable choice of law provisions', as well as an agreement with a Florida-headquartered employer that is expressly governed by Florida law. A CHOICE Act covenant that omits the day-for-day garden-leave reduction term does not meet § 542.45(2)(c), and the Act's closing sentence sends a covenant outside its definitions back to § 542.335.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.335",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-335",
+            "quote": "(a) A court shall not enforce a restrictive covenant unless it is set forth in a writing signed by the person against whom enforcement is sought. (b) The person seeking enforcement of a restrictive covenant shall plead and prove the existence of one or more legitimate business interests justifying the restrictive covenant. The term “legitimate business interest” includes, but is not limited to:",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.335",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-335",
+            "quote": "Any restrictive covenant not supported by a legitimate business interest is unlawful and is void and unenforceable. (c) A person seeking enforcement of a restrictive covenant also shall plead and prove that the contractually specified restraint is reasonably necessary to protect the legitimate business interest or interests justifying the restriction. If a person seeking enforcement of the restrictive covenant establishes prima facie that the restraint is reasonably necessary, the person opposing enforcement has the burden of establishing that the contractually specified restraint is overbroad, overlong, or otherwise not reasonably necessary to protect the established legitimate business interest or interests. If a contractually specified restraint is overbroad, overlong, or otherwise not reasonably necessary to protect the legitimate business interest or interests, a court shall modify the restraint and grant only the relief reasonably necessary to protect such interest or interests.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.335",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-335",
+            "quote": "e. An equity interest, of any other type, in a business or professional practice, a court shall presume reasonable in time any restraint 6 months or less in duration and shall presume unreasonable in time any restraint more than 2 years in duration.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.335",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-335",
+            "quote": "3. In the case of a restrictive covenant sought to be enforced against the seller of all or a part of:a. The assets of a business or professional practice, or b. The shares of a corporation, or c. A partnership interest, or d. A limited liability company membership, or e. An equity interest, of any other type, in a business or professional practice, a court shall presume reasonable in time any restraint 3 years or less in duration and shall presume unreasonable in time any restraint more than 7 years in duration.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.335",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-335",
+            "quote": "(g) In determining the enforceability of a restrictive covenant, a court:1. Shall not consider any individualized economic or other hardship that might be caused to the person against whom enforcement is sought.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.335",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-335",
+            "quote": "(h) A court shall construe a restrictive covenant in favor of providing reasonable protection to all legitimate business interests established by the person seeking enforcement. A court shall not employ any rule of contract construction that requires the court to construe a restrictive covenant narrowly, against the restraint, or against the drafter of the contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "226 So. 3d 774",
+        "name": "White v. Mederi Caretenders Visiting Services of Southeast Florida, LLC",
+        "court": "Fla.",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "94eb3d6e325c5c0f",
+            "cl_opinion_id": "4203359",
+            "quote": "For the foregoing reasons, we conclude that section 542.335(1)(b)3. does not preclude recognizing referral sources as protected legitimate business interests.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.43",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-43",
+            "quote": "(3) “Covered employee” means an employee or individual contractor who earns or is reasonably expected to earn a salary greater than twice the annual mean wage of the county in this state in which the covered employer has its principal place of business, or the county in this state in which the employee resides if the covered employer’s principal place of business is not in this state. The term does not include a person classified as a health care practitioner as defined in s. 456.001.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.43",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-43",
+            "quote": "(6) “Covered noncompete agreement” means a written agreement, or a portion of a written agreement, between a covered employee and a covered employer in which, for a period not to exceed 4 years and within the geographic area defined in the agreement, the covered employee agrees not to assume a role with or for another business, entity, or individual:",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.45",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-45",
+            "quote": "(1) APPLICABILITY.—This section applies to:(a) A covered noncompete agreement with a covered employee who maintains a primary place of work in this state, regardless of any applicable choice of law provisions; or (b) A covered noncompete agreement with a covered employer whose principal place of business is in this state and which agreement is expressly governed by the laws of this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.45",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-45",
+            "quote": "A covered noncompete agreement does not violate public policy as a restraint of trade, as described in s. 542.18, or an attempt to monopolize trade or commerce in this state, as described in s. 542.19, and is fully enforceable according to its terms, provided that:(a) A covered employee was advised, in writing, of the right to seek counsel before execution of the covered noncompete agreement and was provided notice as described in subsection (3); (b) A covered employee acknowledges, in writing, that in the course of his or her employment, the covered employee will receive confidential information or customer relationships; and (c) A covered noncompete agreement provides that the noncompete period is reduced day-for-day by any nonworking portion of the notice period, pursuant to a covered garden leave agreement between the covered employee and the covered employer, if applicable. (3) NOTICE.—A covered employer must provide a proposed covered noncompete agreement to:(a) A prospective covered employee at least 7 days before an offer of employment expires; or (b) A current covered employee at least 7 days before the date that an offer to enter into a covered noncompete agreement expires.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.45",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-45",
+            "quote": "(5) BREACH OF COVERED NONCOMPETE AGREEMENT; REMEDIES.—(a) Upon application by a covered employer seeking enforcement of a covered noncompete agreement, a court must preliminarily enjoin a covered employee from providing services to any business, entity, or individual other than the covered employer during the noncompete period. The court may modify or dissolve the injunction only if the covered employee establishes by clear and convincing evidence, based on nonconfidential information, that:",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 542.45",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_542-45",
+            "quote": "Any action regarding a restrictive covenant that does not meet the definition of a covered garden leave agreement or a covered noncompete agreement as provided in this part is governed by s. 542.335.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-17",
+    "notes": "CORRECTED 2026-09-17 (audit #21): the time presumptions regained § 542.335(1)(d)'s own limits — rebuttable, only for covenants not predicated on trade secrets, and covering agents and independent contractors as well as employees. CORRECTED 2026-09-16 on review. (1) The rule said the CHOICE Act applies 'Since July 1, 2025'. No effective date appears in the published rows (history 's. 2, ch. 2025-213' only) and we hold none, so the date was removed. (2) The rule omitted § 542.45(2)(c), the day-for-day reduction term, which is a condition of full enforceability; it is now stated and quoted. (3) The rule described the § 542.335 presumptions as running 'from 6 months to 2 years for a former employee and up to 7 years for the seller of a business'. The text makes 6 months (3 years for a seller) presumptively reasonable and more than 2 years (7 for a seller) presumptively unreasonable; now stated that way. (4) The § 542.43(3) covered-employee definition reaches individual contractors and fixes the county (the employer's principal place of business, or the employee's residence if that is outside Florida); now quoted. Every clause of the rule is now carried by a quote. The distributor/franchisee presumptions (1 and 3 years), the 5/10-year trade-secret window in (1)(e), the third-party-beneficiary and assignee provisions in (1)(f), (1)(i) and (1)(j)-(k), and the garden-leave section § 542.44 were read and are not stated in the rule. § 542.335's history is ss. 1, 3, ch. 96-257, and subsection (3) limits it to covenants entered into on or after July 1, 1996. White (LEWIS, J.; LABARGA, C.J., and PARIENTE, QUINCE, CANADY, POLSTON and LAWSON, JJ., concur) is unanimous majority text; it quashed a Fifth District decision. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 226 So. 3d 774: 13 later opinions, 2 Florida Supreme Court, none negative. A scan for '542.41'-'542.45' or 'CHOICE Act' found no opinion construing the CHOICE Act (4 hits, the one Florida Supreme Court hit an unrelated 2013 Bar case). Whether the CHOICE Act has been construed or challenged is not something our corpus was searched for beyond the scan noted here."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "prompt-payment",
+    "rule_id": "fl-715-12-construction-prompt-payment",
+    "question": "How fast must a private owner or contractor pay down the construction chain in Florida, and what does late payment cost?",
+    "rule": "Under the Construction Contract Prompt Payment Law, Fla. Stat. § 715.12, which applies to written contracts to improve real property entered into after December 31, 1992 for which a construction lien is authorised, an obligor must pay its obligee once the obligee is entitled to payment under the contract and has made a written request, the obligor (other than an owner) has itself been paid for that work by the person above it in the chain of contracts, and the obligee has furnished the affidavits or waivers § 713.06 requires. Payment due and unpaid bears interest at the rate specified in s. 55.03 PLUS an additional 12 percent per annum, running from the 14th day after payment is due; an obligor has 14 days to return an incomplete or erroneous payment request with written reasons, failing which interest runs anyway.",
+    "trap": "The statute writes a pay-when-paid condition into the default rule for everyone below the owner -- § 715.12(4)(b) makes the obligor's own receipt of payment a condition of its duty -- yet it will not let the obligor use a dispute as a reason to hold up unrelated money: unless the contract specifically provides otherwise, a dispute does not permit the obligor to withhold payment for work not subject to or affected by the dispute. And the interest right cannot be given away in the contract: § 715.12(6)(d) says an obligee may not waive the right to receive interest BEFORE a payment is due, though it may waive interest on a late payment on or after the due date.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 715.12",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_715-12",
+            "quote": "(2) This section applies only to written contracts to improve real property entered into after December 31, 1992, and for which a construction lien is authorized under part I of chapter 713.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 715.12",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_715-12",
+            "quote": "(4) An obligor must pay an obligee with whom the obligor has a contract when all of the following events have occurred:(a) The obligee is entitled to a payment at the time and under the terms specified in the contract between the obligor and the obligee, and the obligee has furnished the obligor with a written request for payment; and (b) The obligor, except an owner, has been paid for the obligee’s labor, services, or materials described in the obligee’s request for payment by the person immediately above the obligor in the chain of contracts; and (c) The obligee has furnished the obligor with all affidavits or waivers required for the owner to make proper payments under s. 713.06.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 715.12",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_715-12",
+            "quote": "(5)(a) Any payment due under the provisions of subsection (4), excluding any amounts withheld pursuant to subsection (7), shall bear interest at the rate specified in s. 55.03 plus an additional 12 percent per annum, computed beginning on the 14th day after payment is due pursuant to subsection (4).",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 715.12",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_715-12",
+            "quote": "(d) An obligee may not waive the right to receive interest before a payment is due under a contract subject to this section. An obligee may waive the interest due on any late payment on or after the date the payment is due under subsection (4).",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 715.12",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_715-12",
+            "quote": "(b) If the request for payment is incomplete or contains an error, the obligor has 14 days within which to return the request for payment to the obligee for completion or correction. The obligor must specify in writing the reasons for the return of the request for payment.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 715.12",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_715-12",
+            "quote": "(e) Unless the contract specifically provides to the contrary, a dispute between an obligor and obligee does not permit the obligor to withhold payment from the obligee or from any other obligee for labor, services, or materials provided to the obligor and which are not subject to or affected by the dispute.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Whole section read in the published fl-stat_715-12 row on 2026-09-16 (history s. 1, ch. 92-286; s. 32, ch. 93-166; s. 7, ch. 2021-124). We hold no effective dates beyond the section's own December 31, 1992 applicability line. On review, the (2) scope, (4) conditions, (5)(b) return-of-request and (6)(e) dispute rules, which the rule and trap stated, were added as quotes. Not in the rule: the retainage provisions of § 715.12(7), and § 715.12(6)(a), which allows the higher of the statutory or contract interest rate but not both. Public work is governed by a different statute, § 218.735 (Local Government Prompt Payment Act), which the previous author reported reading; it is not the subject of this row and was not re-read.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "statute-of-frauds",
+    "rule_id": "fl-725-01-writing-and-one-year-clause",
+    "question": "Does this agreement have to be in writing to be enforceable in Florida?",
+    "rule": "Fla. Stat. § 725.01 bars an action, absent a signed writing (or note or memorandum), on: a promise by an executor or administrator to answer out of his or her own estate; a special promise to answer for the debt, default or miscarriage of another; an agreement made on consideration of marriage; a contract for the sale of lands or of any uncertain interest in them; a lease longer than 1 year; an agreement not to be performed within 1 year from its making; and a health care provider's guarantee of the result of a medical, surgical or diagnostic procedure. The one-year clause reaches only an agreement that CANNOT be fully performed within a year: judged from when an oral contract of indefinite duration is made, if full performance is possible within one year it falls outside the statute (Browning v. Poirier). For the sale of goods, Fla. Stat. § 672.201(1) makes a contract for $500 or more unenforceable without a record sufficient to indicate a contract for sale, signed by the party against whom enforcement is sought, and not enforceable beyond the quantity shown.",
+    "trap": "The one-year clause catches far less than drafters and older Florida cases assume. The 'qualifying rule' of Yates v. Ball (1937) -- that an agreement of no fixed duration is within the statute if the parties clearly intended it to run longer than a year, even though performance within a year was not impossible -- was receded from in Browning v. Poirier (2015). Browning held an oral agreement of indefinite duration outside the statute because full performance was possible within a year, even though the parties contemplated a relationship lasting longer. An expected long duration does not bring an oral deal within § 725.01; only impossibility of full performance within a year does. Note also that the land provision covers 'any uncertain interest' and any lease of more than one year. For goods, § 672.201(2)-(3) supplies merchant-confirmation, specially-manufactured-goods, admission and paid-for/accepted-goods exceptions (read, not quoted).",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 725.01",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_725-01",
+            "quote": "No action shall be brought whereby to charge any executor or administrator upon any special promise to answer or pay any debt or damages out of her or his own estate, or whereby to charge the defendant upon any special promise to answer for the debt, default or miscarriage of another person or to charge any person upon any agreement made upon consideration of marriage, or upon any contract for the sale of lands, tenements or hereditaments, or of any uncertain interest in or concerning them, or for any lease thereof for a period longer than 1 year, or upon any agreement that is not to be performed within the space of 1 year from the making thereof, or whereby to charge any health care provider upon any guarantee, warranty, or assurance as to the results of any medical, surgical, or diagnostic procedure",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-201",
+            "quote": "(1) Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is a record sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by the party’s authorized agent or broker.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "165 So. 3d 663",
+        "name": "Browning v. Poirier",
+        "court": "Fla.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "b3cdcf48c95c5761",
+            "cl_opinion_id": "2804103",
+            "quote": "Stated otherwise, judging from the time the oral contract of indefinite duration is made, if the contract’s full performance is possible within one year from the inception of the contract, then it falls outside the statute of frauds.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "165 So. 3d 663",
+        "name": "Browning v. Poirier",
+        "court": "Fla.",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "b3cdcf48c95c5761",
+            "cl_opinion_id": "2804103",
+            "quote": "We recede from Yates to the extent that the general and qualifying rule there conflicts with our decision today.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "CORRECTED 2026-09-16 on review: THE ROW STATED SUPERSEDED LAW. It cited Yates v. Ball, 181 So. 341 (Fla. 1937), and its trap presented Yates's qualifying rule as current Florida law: 'where no time is fixed, if the object of the agreement and the surrounding circumstances make clear the parties intended it to run longer than a year, it is within the statute even though performance within a year was not impossible'. The good-law scan found Browning v. Poirier, 165 So. 3d 663 (Fla. 2015), whose footnote 3 reads 'We recede from Yates to the extent that the general and qualifying rule there conflicts with our decision today.' Browning adopts the possibility-of-performance test quoted here. Browning is majority text (POLSTON, J.; LABARGA, C.J., and PARIENTE, LEWIS, QUINCE and PERRY, JJ., concur; CANADY, J., recused) and was read in full. Yates is removed as an authority. Browning describes Yates's application (the agreement was not within the statute) as in accord with the majority approach, and it recedes from the rule statements. A later district court opinion in our corpus (Mowder v. Smith, 2024) cites Yates as 'receded from on other grounds by Browning'. That label is the district court's, not this store's. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 165 So. 3d 663: 6 later opinions, 0 Florida Supreme Court, none disapproving it. The Fifth District reinstated its original panel decision in light of Browning. Also corrected: the trap asserted Florida's goods threshold is still $500 because § 672.201 was amended by ch. 2025-92 'to a record formulation, not to the 2022 amendments' higher figure'. Nothing we read says what ch. 2025-92 changed or what any uniform amendment provides, so that was cut. The published text reads '$500' and 'record', and its history includes s. 42, ch. 2025-92. The § 725.01 quote now covers every category the rule lists. § 725.01 and § 672.201 were read in full; we hold no effective dates."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "fl-futsa-displaces-tort-not-contract",
+    "question": "Does Florida's trade secret statute wipe out our confidentiality clause, or does the NDA still do work?",
+    "rule": "The NDA still does work. Fla. Stat. § 688.008(1) provides that the Florida Uniform Trade Secrets Act (§§ 688.001-688.009) displaces conflicting tort, restitutory and other law of this state providing civil remedies for misappropriation of a trade secret, but § 688.008(2) expressly preserves contractual remedies, whether or not based upon misappropriation of a trade secret, other civil remedies not based on misappropriation, and criminal remedies.",
+    "trap": "The displacement provision reaches tort, restitutory and other civil-remedy law 'for misappropriation of a trade secret' -- the theories a plaintiff typically pleads alongside the contract claim -- while § 688.008(2)(a) leaves contractual remedies untouched. Drafting consequence: define the protected material in the contract without leaning on the statutory definition of 'trade secret' in § 688.002, so the contract claim does not depend on proving statutory trade-secret status. How far Florida courts apply the displacement to particular non-contract counts is not established in this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 688.008",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_688-008",
+            "quote": "(1) Except as provided in subsection (2), ss. 688.001-688.009 displace conflicting tort, restitutory, and other law of this state providing civil remedies for misappropriation of a trade secret. (2) This act does not affect:(a) Contractual remedies, whether or not based upon misappropriation of a trade secret;",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Whole section read in the published fl-stat_688-008 row on 2026-09-16 (history s. 8, ch. 88-254; s. 20, ch. 91-110); we hold no effective date. CORRECTED on review: the trap previously asserted that the displacement 'bites' conversion, unjust enrichment and unfair competition claims, and that the confidentiality clause is 'often the only surviving theory'. No authority for that application was read, so it was cut back to what the section's text says. The previous author reported no Florida Supreme Court opinion construing § 688.008 in us-caselaw-fl; district-court-of-appeal opinions were not reviewed. Related non-compete point, read in § 542.335: (1)(b)1. lists trade secrets as a legitimate business interest, and (1)(e) gives trade-secret covenants a 5-year/10-year presumption window."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "unconscionability",
+    "rule_id": "fl-unconscionability-sliding-scale",
+    "question": "Can a Florida court refuse to enforce this clause as unconscionable, and what must the challenger show?",
+    "rule": "Both procedural and substantive unconscionability must be established, but they need not be present to the same degree: the Florida Supreme Court adopted the balancing, or sliding-scale, approach (Basulto). Under that approach the more substantively oppressive the term, the less evidence of procedural unconscionability is required, and vice versa. For contracts for the sale of goods, Fla. Stat. § 672.302(1) supplies the remedy: the court may refuse to enforce the contract, enforce the remainder without the unconscionable clause, or limit the clause's application, judged as a matter of law at the time the contract was made. § 672.302(2) entitles the parties to a reasonable opportunity to present evidence of the clause's commercial setting, purpose and effect.",
+    "trap": "A challenger who proves only an oppressive term loses, and so does one who proves only a take-it-or-leave-it signing: both elements must be present. Basulto rejected the approach of district courts (it cites the Second District in Bland and the Third District in Mahan) that assessed the two prongs independently and stopped if either was lacking. The practical corollary for a drafter is that curing the process -- real disclosure, time to read -- reduces exposure, because under the sliding scale a very harsh term needs less procedural unfairness to fail.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "141 So. 3d 1145",
+        "name": "Basulto v. Hialeah Automotive",
+        "court": "Fla.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "ecf7d766a25ebbcc",
+            "cl_opinion_id": "2686878",
+            "quote": "However, we conclude that while both elements must be present, they need not be present to the same degree. This balancing, or sliding scale, approach, which we adopt, is considered to be the prevailing view in Florida:",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "141 So. 3d 1145",
+        "name": "Basulto v. Hialeah Automotive",
+        "court": "Fla.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "ecf7d766a25ebbcc",
+            "cl_opinion_id": "2686878",
+            "quote": "We agree with our district courts of appeal that procedural and substantive unconscionability must be established to avoid enforcement of the terms within an arbitration agreement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "141 So. 3d 1145",
+        "name": "Basulto v. Hialeah Automotive",
+        "court": "Fla.",
+        "decided": "2014",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "ecf7d766a25ebbcc",
+            "cl_opinion_id": "2686878",
+            "quote": "We conclude that the better approach—more in keeping with the pronouncement of this Court on unconscionability over eighty years ago in Peacock Hotel—is the balancing, or sliding scale, approach.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-302",
+            "quote": "(1) If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.302",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-302",
+            "quote": "(2) When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Basulto is majority text: PERRY, J.; PARIENTE, LEWIS, QUINCE and LABARGA, JJ., concur; POLSTON, C.J., dissents with an opinion, joined by CANADY, J., on jurisdiction. The Court's jurisdiction was misapplication conflict with Seifert, and the unconscionability discussion arose from an arbitration agreement in a car sale. The quoted statements are the Court's own. The 'more substantively oppressive ... less evidence of procedural' sentence in the rule is inside a passage the Court quotes with approval (Romano, 4th DCA, quoting other authority), directly after the quoted adoption sentence. The phrase 'at least a modicum of the weaker prong', which the rule previously used, is the Court's quotation of VoiceStream Wireless (4th DCA). CORRECTED on review: the trap previously said the independent-assessment district courts 'were wrong'; it now says what the Court did, which was to reject that approach as the less good one. Two more Basulto quotes and § 672.302(2) were added so every clause of the rule is quoted. § 672.302 was read in full (history s. 1, ch. 65-254); we hold no effective date. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 141 So. 3d 1145: 18 later opinions, 2 Florida Supreme Court. The negative-word hits are district court opinions citing Bland 'abrogated in part on other grounds by Basulto'. None treats Basulto negatively."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "usury",
+    "rule_id": "fl-usury-18-percent-500k-and-corrupt-intent",
+    "question": "What is the exposure if this agreement's interest rate turns out to be over the Florida limit?",
+    "rule": "Florida's ceiling is tiered by size. Under Fla. Stat. § 687.02(1) a contract for interest above the equivalent of 18 percent per annum simple interest is usurious. If the loan, advance, line of credit, forbearance or obligation exceeds $500,000, the contract is usurious only if the rate exceeds the rate prescribed in § 687.071. There, willfully and knowingly charging, taking or receiving interest above 25 percent (up to 45 percent) is a second-degree misdemeanour, and above 45 percent a third-degree felony. The civil penalty under § 687.04 falls on a person WILLFULLY violating § 687.03: forfeiture of the entire interest charged or contracted for, with only the actual principal enforceable, and, where usurious interest was taken, reserved or paid, forfeiture to the borrower of double that interest. Those penalties do not apply if, before the borrower sues, pleads usury or gives written notice, the lender notifies the borrower, refunds the overcharge with interest and adjusts the account (§ 687.04(2)). Under § 687.071(7) no extension of credit made in violation of the criminal usury section is an enforceable debt in Florida's courts. The four requisites of a usurious transaction include a corrupt intent to take more than the legal rate for the use of the money loaned (Dixon v. Sharp).",
+    "trap": "Usury in Florida is not arithmetic alone. The fourth requisite is a corrupt intent to take more than the legal rate, and Dixon v. Sharp addressed whether intent could be established by mathematical computation alone. The opinion quotes a district court's statement that the difference between a lawful and a usurious transaction 'is the difference between good faith and bad faith', gathered from all the circumstances. That is a defence for the lender who miscalculated, and a burden for the borrower who has only the rate. The other trap is the § 687.04(2) safe harbour, which only works if the lender acts BEFORE the borrower sues, pleads usury or gives written notice.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 687.02",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_687-02",
+            "quote": "(1) All contracts for the payment of interest upon any loan, advance of money, line of credit, or forbearance to enforce the collection of any debt, or upon any obligation whatever, at a higher rate of interest than the equivalent of 18 percent per annum simple interest are hereby declared usurious. However, if such loan, advance of money, line of credit, forbearance to enforce the collection of a debt, or obligation exceeds $500,000 in amount or value, then no contract to pay interest thereon is usurious unless the rate of interest exceeds the rate prescribed in s. 687.071.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 687.04",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_687-04",
+            "quote": "Any person, or any agent, officer, or other representative of any person, willfully violating the provisions of s. 687.03 shall forfeit the entire interest so charged, or contracted to be charged or reserved, and only the actual principal sum of such usurious contract can be enforced in any court in this state, either at law or in equity; and when said usurious interest is taken or reserved, or has been paid, then and in that event the person who has taken or reserved, or has been paid, either directly or indirectly, such usurious interest shall forfeit to the party from whom such usurious interest has been reserved, taken, or exacted in any way double the amount of interest so reserved, taken, or exacted.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 687.04",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_687-04",
+            "quote": "(2) If, prior to the institution of an action by the borrower or the filing of a defense under this chapter by the borrower or receipt of written notice by the lender from the borrower that usury has been charged or collected, the lender notifies the borrower of the usurious overcharge and refunds the amount of any overcharge taken, plus interest on the overcharge taken at the maximum lawful rate in effect at the time the usurious interest was taken, to the borrower and makes whatever adjustments in the appropriate contract or account as are necessary to ensure that the borrower will not be required to pay further interest in excess of the amount permitted by s. 687.03.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 687.071",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_687-071",
+            "quote": "(2) Unless otherwise specifically allowed by law, any person making an extension of credit to any person, who shall willfully and knowingly charge, take, or receive interest thereon at a rate exceeding 25 percent per annum but not in excess of 45 percent per annum, or the equivalent rate for a longer or shorter period of time, whether directly or indirectly, or conspires so to do, commits a misdemeanor of the second degree",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 687.071",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_687-071",
+            "quote": "(3) Unless otherwise specifically allowed by law, any person making an extension of credit to any person, who shall willfully and knowingly charge, take, or receive interest thereon at a rate exceeding 45 percent per annum or the equivalent rate for a longer or shorter period of time, whether directly or indirectly or conspire so to do, commits a felony of the third degree",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 687.071",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_687-071",
+            "quote": "(7) No extension of credit made in violation of any of the provisions of this section shall be an enforceable debt in the courts of this state.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "276 So. 2d 817",
+        "name": "Dixon v. Sharp",
+        "court": "Fla.",
+        "decided": "1973",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "a82e35ea8897872a",
+            "cl_opinion_id": "1836286",
+            "quote": "The Four requisites of a usurious transaction are, (1) There must be a loan express or implied; (2) An understanding between the parties that the money lent shall be returned; (3) That for such a loan a greater rate of interest than is allowed by law shall be paid or agreed to be paid, as the case may be; and (4) There must exist a corrupt intent to take more than the legal rate for the use of the money loaned.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "CORRECTED 2026-09-16 on review: the rule described the § 687.04 penalties without the statute's 'willfully violating' condition. That condition, the double-interest forfeiture, the § 687.04(2) safe harbour and the § 687.071(2)-(3) criminal tiers are now quoted. The four-requisites passage is in the majority opinion (ROBERTS, J.; CARLTON, C.J., and ADKINS, McCAIN and DEKLE, JJ., concur; ERVIN, J., and BOYD, J., dissent with opinions). The Court states the requisites with citations to Stewart v. Nangle (Fla. App. 1958) and Clark v. Grey (Fla. 1931). The good-faith/bad-faith sentence in the trap is inside material the opinion quotes, not the Court's own words. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 276 So. 2d 817: 33 later opinions, 2 Florida Supreme Court (North American Mortgage Investors 1979, Jersey Palm-Gross v. Paper 1995). The negative-word hits are district courts reversing judgments on the authority of Dixon's intent requirement. § 687.02, § 687.03, § 687.04 and § 687.071 were read in full. § 687.03 also carries the FHA/VA/agency-commitment exclusions, the 5 percent commercial delinquency charge in (2)(c), and the interest-spreading and over-$500,000 aggregation rules in (3)-(4), none stated in the rule. We hold no effective dates. Rate ceilings for particular lenders in other chapters were not checked."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "venue-selection",
+    "rule_id": "fl-forum-selection-enforced-unless-unreasonable",
+    "question": "Will a Florida court enforce our forum-selection clause, and can a Florida-law clause keep the case here?",
+    "rule": "Forum-selection clauses should be enforced in the absence of a showing that enforcement would be unreasonable or unjust, and trial courts can protect a party by refusing to enforce provisions that are unreasonable or result from unequal bargaining power (Manrique). A choice-of-law provision is not a forum-selection clause. In Tribeca a clause saying the agreement 'will be governed by the laws of the State of Florida ..., a jurisdiction accepted by the parties' was a choice of law, and the word 'jurisdiction' only identified Florida as the source of governing law. Under Fla. Stat. § 47.025, a venue provision in a contract for improvement to real property that requires legal action involving a resident contractor, subcontractor, sub-subcontractor or materialman to be brought outside Florida is void as a matter of public policy. To that extent the action must be brought in the county where the defendant resides, where the cause accrued or where the property is located, unless the parties stipulate to another venue AFTER the dispute arises.",
+    "trap": "Tribeca is the drafting lesson. Language accepting Florida as 'a jurisdiction' in a governing-law clause was read as a choice of law, and the Third District decision that had used it to find personal jurisdiction over a foreign party was quashed. The Court contrasted clauses it had treated as forum selection, which named a venue ('venue shall be in Palm Beach County, Florida') or expressly submitted the parties 'to the venue and jurisdiction of the Courts' of a place. If a Florida forum is wanted, say so in those terms. § 47.025 is the second limit: for a Florida resident contractor on a real-property improvement contract, an out-of-state venue clause is void, and only a post-dispute stipulation can change the statutory venue.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "493 So. 2d 437",
+        "name": "Manrique v. Fabbri",
+        "court": "Fla.",
+        "decided": "1986",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "af3d2499aee9bb98",
+            "cl_opinion_id": "1658985",
+            "quote": "The trial courts of this state can effectively protect a party by refusing to enforce those forum selection provisions which are unreasonable or result from unequal bargaining power. We hold that forum selection clauses should be enforced in the absence of a showing that enforcement would be unreasonable or unjust.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. SC21-24 (Fla. Mar. 24, 2022)",
+        "name": "Tribeca Asset Management, Inc. v. Ancla International, S.A.",
+        "court": "Fla.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "66601bb670b6d918",
+            "cl_opinion_id": "6326355",
+            "quote": "Accordingly, we conclude that Article 7 contains a choice of law provision, not a forum selection clause.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. SC21-24 (Fla. Mar. 24, 2022)",
+        "name": "Tribeca Asset Management, Inc. v. Ancla International, S.A.",
+        "court": "Fla.",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-fl",
+            "row_id": "66601bb670b6d918",
+            "cl_opinion_id": "6326355",
+            "quote": "The word “jurisdiction” clarifies that the parties chose the location of Florida as the source of the law governing the Agreement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 47.025",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_47-025",
+            "quote": "Any venue provision in a contract for improvement to real property which requires legal action involving a resident contractor, subcontractor, sub-subcontractor, or materialman, as defined in 1part I of chapter 713, to be brought outside this state is void as a matter of public policy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 47.025",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_47-025",
+            "quote": "To the extent that the venue provision in the contract is void under this section, any legal action arising out of that contract shall be brought only in this state in the county where the defendant resides, where the cause of action accrued, or where the property in litigation is located, unless, after the dispute arises, the parties stipulate to another venue.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "CORRECTED 2026-09-16 on review: the rule previously said a choice-of-law clause 'does not by itself submit the parties to a Florida forum or supply personal jurisdiction', and the trap described the Tribeca clause as submitting 'to the jurisdiction' of Florida law. Tribeca held the clause a choice-of-law provision. It then held the Florida Arbitration Code basis for jurisdiction the Third District had used (§ 682.18(1)) inapplicable because the agreement did not provide for arbitration in Florida, and expressly did 'not reach the due process issue'. It made no general holding about personal jurisdiction, so that phrase was removed, and the clause is now described in its own words. Manrique is unanimous majority text (McDONALD, C.J., and ADKINS, BOYD, OVERTON, EHRLICH and SHAW, JJ., concur); Tribeca likewise (POLSTON, J.; CANADY, C.J., and LABARGA, LAWSON, MUÑIZ, COURIEL and GROSSHANS, JJ., concur). The first § 47.025 quote contains the string '1part', a footnote marker printed in the published text (the note says s. 47.025 was created twice in 1999, and the other version cites s. 713.01); it is reproduced verbatim. § 47.025 was read in full, and its venue-channelling sentence is now quoted. We hold no effective date. Tribeca has no reporter citation in CourtListener's citation map, so it is cited by the docket number printed in the published opinion and identity rests on title plus year. Citing scan of all 447,040 us-caselaw-fl rows, 2026-09-16 (opinions after the decision date mentioning the cite; 'negative' = overrul/disapprov/abrogat/supersed/recede/abandon/no longer/quash within 350 characters of the cite, each hit read): 493 So. 2d 437: 81 later opinions, 3 Florida Supreme Court (Granados Quinones 1987, McRae v. J.D./M.D. 1987, Tribeca 2022), all consistent. The negative-word hits describe Manrique quashing the Third District. A scan for '47.025' found 3 opinions, none Florida Supreme Court, not read."
+  },
+  {
+    "jurisdiction": "fl",
+    "clause": "warranty-disclaimer",
+    "rule_id": "fl-672-316-merchantability-must-be-named",
+    "question": "Does this 'all warranties disclaimed' language actually disclaim the implied warranty of merchantability in Florida?",
+    "rule": "Only if it says merchantability. Under Fla. Stat. § 672.316(2), to exclude or modify the implied warranty of merchantability the language must mention merchantability, and in a writing it must be conspicuous; to exclude or modify an implied warranty of fitness the exclusion must be in a writing and conspicuous, and language such as 'There are no warranties which extend beyond the description on the face hereof' suffices for fitness. Subsection (3) leaves the usual escapes: 'as is' or 'with all faults' language, the buyer's examination or refusal to examine, and course of dealing, course of performance or usage of trade.",
+    "trap": "Two non-uniform Florida paragraphs sit inside this section and change the answer for particular deals: § 672.316(3)(d) provides that in a transaction involving the sale of cattle or hogs there is no implied warranty that the animals are free from sickness or disease (unless the seller knowingly sells diseased animals), and subsections (5) and (6) declare that supplying whole blood, plasma, blood products and derivatives, and human tissue and organs for transplant, is the rendering of a SERVICE and not a sale, so the implied warranties do not apply at all. Remedies for breach of warranty are limited under §§ 672.718 and 672.719, not under this section.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-316",
+            "quote": "(2) Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it, the language must mention merchantability and in case of a writing must be conspicuous; and, to exclude or modify any implied warranty of fitness, the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Fla. Stat. § 672.316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "fl-stat_672-316",
+            "quote": "(d) In a transaction involving the sale of cattle or hogs, there is no implied warranty that the cattle or hogs are free from sickness or disease. However, no exemption applies in cases where the seller knowingly sells cattle or hogs that are diseased.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "status": "verified",
+    "as_of": "2026-09-16",
+    "notes": "Whole section read in the published fl-stat_672-316 row on 2026-09-16 (history through s. 1, ch. 2003-74); we hold no effective date. The (3)(a)-(c) escapes and the (5)-(6) blood/tissue provisions stated in the rule and trap are from that read; (2) and (3)(d) are quoted. 'Conspicuous' is defined in Florida's UCC general definitions (§ 671.201), which was not separately verified for this row. The previous author reported no Florida Supreme Court opinion applying § 672.316 in us-caselaw-fl; not re-searched on review."
+  }
+]

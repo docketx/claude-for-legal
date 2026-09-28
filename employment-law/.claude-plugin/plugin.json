@@ -1,0 +1,8 @@
+{
+  "name": "employment-law",
+  "version": "0.1.0",
+  "description": "Verified employment-law rules for workers and the people advising them: the FMLA's twelve-workweek entitlement and what a notice failure does and does not buy, whether a state employer can be sued for family-care leave and for self-care leave, the Title VII charge-filing deadline and the rule that the clock starts when you are told rather than when it hurts, Texas's six-day final-pay deadline and its separate 180-day state discrimination period, Texas workers'-compensation retaliation, California's immediate final pay and the waiting-time penalty measured in days of your wages, California and Washington non-competes, and New Jersey's Conscientious Employee Protection Act. Every legal statement is a verbatim quote from our own published corpus, re-checked against it, or is recorded as not established. The FMLA's own statutory text is NOT in that corpus, so every federal statutory phrase is quoted THROUGH the Supreme Court opinion that sets it out and the citation names both. Covers the federal tier, California, Texas, Washington and New Jersey today; every other jurisdiction is reported as not covered rather than answered from general knowledge. Deadlines are a reason to call a lawyer today, never a date to rely on. Every output is a draft for attorney review, not legal advice.",
+  "author": {
+    "name": "DocketX"
+  }
+}

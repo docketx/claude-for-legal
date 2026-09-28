@@ -1,0 +1,1610 @@
+[
+  {
+    "jurisdiction": "id",
+    "clause": "anti-assignment",
+    "rule_id": "id-9-406-9-408-anti-assignment-ineffective-for-accounts-payment-intangibles-general-intangibles",
+    "question": "Does our no-assignment clause stop the other side from assigning its rights to be paid, or its rights under a license, permit or franchise?",
+    "rule": "Mostly no, for the categories Idaho's secured-transactions article protects. Idaho Code § 28-9-406(d): except as otherwise provided, \"a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) Prohibits, restricts or requires the consent of the account debtor... to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, the account, chattel paper, payment intangible or promissory note; or (2) Provides that the assignment or transfer... may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy.\" Idaho Code § 28-9-408(a) extends the same override to promissory notes, health care insurance receivables, and GENERAL INTANGIBLES -- expressly \"including a contract, permit, license, or franchise\" -- making an anti-assignment clause ineffective to the extent it would impair the creation, attachment, or perfection of a security interest, or trigger a default merely because of the assignment.",
+    "trap": "Both overrides are narrower than \"any anti-assignment clause is unenforceable.\" § 28-9-406(e) carves the override BACK OUT for a straight sale of a payment intangible or promissory note (as opposed to a security interest arising from one), \"other than a sale pursuant to a disposition under section 28-9-610... or an acceptance of collateral under section 28-9-620\" -- so an outright sale of a promissory note can still be blocked by a no-assignment clause in a fact pattern the statute does not reach. § 28-9-408(d) is a further trap in the anti-assignment drafter's favor: even where subsection (a) makes the restriction \"ineffective,\" the assignee still gets no enforcement right against the account debtor, no duty runs to the assignee, and the account debtor need not recognize the security interest or pay the assignee at all -- the statute strips the anti-assignment clause of its power to create a DEFAULT, but does not force the account debtor to deal with a stranger. § 28-9-406(h) separately preserves other law's protection for an individual account debtor who incurred the obligation for personal, family or household purposes -- the consumer carve-out is not overridden by this section. And neither section reaches LETTER-OF-CREDIT RIGHTS, which Idaho Code § 28-9-409 addresses on its own, separately unread terms for this rule. The section also excludes particular receivables outright: “This section does not apply to an assignment of a health care insurance receivable, an award of compensation made pursuant to the crime victims compensation act, chapter 10, title 72, Idaho Code, or a lottery prize subject to the provisions of chapter 74, title 67, Idaho Code.”",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-9-406",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-9-406",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) Prohibits, restricts or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, the account, chattel paper, payment intangible or promissory note; or",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-9-406",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-9-406",
+            "quote": "Subsection (d) of this section does not apply to the sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under section 28-9-610, Idaho Code, or an acceptance of collateral under section 28-9-620, Idaho Code.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-9-408",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-9-408",
+            "quote": "a term in a promissory note or in an agreement between an account debtor and a debtor which relates to a health care insurance receivable or a general intangible, including a contract, permit, license, or franchise, and which term prohibits, restricts, or requires the consent of the person obligated on the promissory note or the account debtor to, the assignment or transfer of, or creation, attachment, or perfection of a security interest in, the promissory note, health care insurance receivable, or general intangible, is ineffective to the extent that the term:",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-9-408",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-9-408",
+            "quote": "Is not enforceable against the person obligated on the promissory note or the account debtor;",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-9-409",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-9-409",
+            "quote": "A term in a letter of credit or a rule of law, statute, rule, regulation, custom or practice applicable to the letter of credit which prohibits, restricts or requires the consent of an applicant, issuer or nominated person to a beneficiary’s assignment of or creation of a security interest in a letter of credit right is ineffective to the extent that the term or rule of law, statute, rule, regulation, custom or practice",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-9-406",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-9-406",
+            "quote": "This section does not apply to an assignment of a health care insurance receivable, an award of compensation made pursuant to the crime victims compensation act, chapter 10, title 72, Idaho Code, or a lottery prize subject to the provisions of chapter 74, title 67, Idaho Code.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 28-9-401 through 28-9-409 read as one part (\"Rights of Third Parties\"). HONEST NEGATIVE: a full-text scan of docketx/us-caselaw-id for \"28-9-406\" found only one opinion, Foley v. Grigg (2007), and it construes the PREDECESSOR section, former § 28-9-318 (1979) (\"currently codified at I.C. § 28-9-406 (2001)\"), not the current text's own subsections -- it is not cited as a formal authority here because it does not speak to the current statute's operative language. No Idaho appellate opinion construing current §§ 28-9-406 or 28-9-408 was found in this corpus; this row is statute-only and that is stated honestly rather than papered over with a thin or off-point case. AUDIT 2026-09-22 (full read of the Idaho pack): §§ 28-9-406 and 28-9-408 read whole; (d), (e), (h) and 9-408(a), (d) as stated. CORRECT. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): § 28-9-409 read (IDC_28-9-409); block added. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; the limit's distinctive words appeared nowhere in this row."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "arbitration",
+    "rule_id": "id-uaa-7-901-valid-irrevocable-except-employer-employee-carveout",
+    "question": "Will Idaho courts enforce this arbitration clause, and does it matter that one party is the other's employee?",
+    "rule": "Yes, with one statutory carve-out. Idaho's Uniform Arbitration Act, Idaho Code § 7-901: \"A written agreement to submit any existing controversy to arbitration or a provision in a written contract to submit to arbitration any controversy thereafter arising between the parties is valid, enforceable and irrevocable, save upon such grounds as exist at law or in equity for the revocation of any contract.\" The same section then carves out one category entirely: \"This act does not apply to arbitration agreements between employers and employees or between their respective representatives (unless otherwise provided in the agreement).\" Once a valid, non-carved-out agreement exists, Idaho Code § 7-902(a) makes enforcement close to automatic: \"On application of a party showing an agreement described in section 7-901... and the opposing party's refusal to arbitrate, the court shall order the parties to proceed with arbitration, but if the opposing party denies the existence of the agreement to arbitrate, the court shall proceed summarily to the determination of the issue so raised and shall order arbitration if found for the moving party.\"",
+    "trap": "The employer-employee carve-out is an OPT-IN, not an automatic bar: § 7-901's own parenthetical -- \"unless otherwise provided in the agreement\" -- means the parties can contract the Uniform Arbitration Act back into an employment relationship by saying so in the agreement; silence leaves the Act inapplicable to that agreement, not the arbitration clause void. Do not assume every dispute touching an employment relationship falls inside the carve-out, either: an arbitration clause in an agreement between two BUSINESSES that happen to also have an employment-adjacent relationship, or in a contract other than the employment contract itself, may not be \"between employers and employees\" in the sense the statute means. And do not assume the Act's near-automatic order-to-arbitrate mechanism in § 7-902(a) forecloses every defense -- the statute expressly preserves \"such grounds as exist at law or in equity for the revocation of any contract\" (fraud, unconscionability, lack of mutual assent, and the like), and a party can still force the summary threshold determination by denying the agreement's existence in the first place.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 7-901",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_7-901",
+            "quote": "A written agreement to submit any existing controversy to arbitration or a provision in a written contract to submit to arbitration any controversy thereafter arising between the parties is valid, enforceable and irrevocable, save upon such grounds as exist at law or in equity for the revocation of any contract.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 7-901",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_7-901",
+            "quote": "This act does not apply to arbitration agreements between employers and employees or between their respective representatives (unless otherwise provided in the agreement).",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 7-902",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_7-902",
+            "quote": "On application of a party showing an agreement described in section 7-901, Idaho Code, and the opposing party’s refusal to arbitrate, the court shall order the parties to proceed with arbitration, but if the opposing party denies the existence of the agreement to arbitrate, the court shall proceed summarily to the determination of the issue so raised and shall order arbitration if found for the moving party, otherwise, the application shall be denied.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 7-901 through 7-922 read as one chapter (the whole Uniform Arbitration Act). HONEST NEGATIVE, recorded rather than papered over: Miller v. Miller (Idaho 2026-03-24) directly confirms this row's rule -- \"The only exception identified in section 7-901 is for arbitration agreements between employers and employees\" -- but that opinion's citation does not yet resolve to a reporter volume/page in this corpus snapshot (decided six months before this pass) and its name (\"Miller v. Miller,\" a same-surname domestic-relations-style caption) does not carry enough distinctive words to satisfy this store's name+year identity fallback either, so it is NOT included as a formal authority here; the row's rule rests entirely on the statute's own text, which states the carve-out in the same words the 2026 opinion quotes. Blaskiewicz v. Spine Institute of Idaho (2022) and Zigmond v. Mort Construction, Inc. (2024, Ct. App.) were also read and apply §§ 7-901-7-902 to compel arbitration in ordinary commercial and non-compete disputes; not cited as formal authorities to keep the row focused on the carve-out itself. AUDIT 2026-09-22 (full read of the Idaho pack): §§ 7-901 and 7-902 read whole; verbatim. CORRECT."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "attorney-fees",
+    "rule_id": "id-12-120-3-mandatory-commercial-transaction-fee-two-stage-gravamen-test",
+    "question": "Can the prevailing party recover attorney fees in this commercial dispute even if our contract is silent on fees, or has a one-way fee clause?",
+    "rule": "Yes -- Idaho Code § 12-120(3) is a MANDATORY, statutory fee-shifting rule that operates independently of what the contract says: \"In any civil action to recover on an open account, account stated, note, bill, negotiable instrument, guaranty, or contract relating to the purchase or sale of goods, wares, merchandise, or services and in any commercial transaction unless otherwise provided by law, the prevailing party shall be allowed a reasonable attorney's fee to be set by the court, to be taxed and collected as costs,\" and \"[t]he term 'commercial transaction' is defined to mean all transactions except transactions for personal or household purposes.\" This is not merely a default a contract can silently displace -- it AWARDS fees to whichever party prevails, regardless of whether the contract itself says anything about fees, and regardless of which side the contract's own fee clause (if any) was written to favor. Separately, Idaho Code § 12-121 lets a court award fees against a party who brought, pursued or defended a case \"frivolously, unreasonably or without foundation,\" a fault-based standard independent of § 12-120. Breckenridge Property Fund 2016, LLC v. Wally Enterprises, Inc. states the operative test for § 12-120(3): \"there are 'two stages of analysis to determine whether a prevailing party could avail itself of I.C. § 12-120(3): (1) there must be a commercial transaction that is integral to the claim; and (2) the commercial transaction must be the basis upon which recovery is sought.'\"",
+    "trap": "§ 12-120(3) is not triggered merely because a commercial transaction sits somewhere in the case's background -- Breckenridge itself denied fees where the gravamen of the claims was tort and equity (negligence, negligence per se, estoppel), not a commercial transaction, even though a commercial transaction was \"remotely connected with the case.\" A claim that is dressed as tort or declaratory relief but is really a fight over a sale, service, or goods contract still triggers mandatory fees under the gravamen test; a claim that only brushes past a commercial transaction on its way to a different theory of recovery does not. Do not assume § 12-120(3)'s mandatory rule makes a contractual fee clause or § 12-121's frivolousness standard irrelevant -- all three can apply to the same case, and § 12-121 expressly \"shall not alter, repeal or amend any statute that otherwise provides for the award of attorney's fees.\" And § 12-120(1) is a SEPARATE, non-commercial-transaction basis capped by amount pleaded ($35,000 or less) that requires a pre-suit written demand at least 10 days before filing -- do not conflate its notice requirement with § 12-120(3), which carries no such demand prerequisite.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 12-120",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_12-120",
+            "quote": "In any civil action to recover on an open account, account stated, note, bill, negotiable instrument, guaranty, or contract relating to the purchase or sale of goods, wares, merchandise, or services and in any commercial transaction unless otherwise provided by law, the prevailing party shall be allowed a reasonable attorney’s fee to be set by the court, to be taxed and collected as costs.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 12-120",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_12-120",
+            "quote": "The term \"commercial transaction\" is defined to mean all transactions except transactions for personal or household purposes.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 12-121",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_12-121",
+            "quote": "In any civil action, the judge may award reasonable attorney’s fees to the prevailing party or parties when the judge finds that the case was brought, pursued or defended frivolously, unreasonably or without foundation.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "516 P.3d 73",
+        "name": "Breckenridge Property Fund 2016, LLC v. Wally Enterprises, Inc.",
+        "court": "id-idaho",
+        "decided": "2022",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "e39c376ea59e3e17",
+            "cl_opinion_id": "7802422",
+            "quote": "There are “two stages of analysis to determine whether a prevailing party could avail itself of I.C. § 12-120(3): (1) there must be a commercial transaction that is integral to the claim; and (2) the commercial transaction must be the basis upon which recovery is sought.”",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 12-120 read in full (subsections 1-6); § 12-121 read in full. Breckenridge read in the surrounding pages; its own reporter citation resolved via the corpus's CourtListener citation map (cluster 7858556 -> 170 Idaho 649, 516 P.3d 73), independently cross-checked against a second bulk citations pass. Walker v. American Cyanamid Co. (1997, row d02da641295340f4, 948 P.2d 1123, 130 Idaho 824) was also read and states plainly that \"attorney fees are proper under the commercial transaction provision contained in I.C. § 12-120(3)\" in a products-liability/UCC case -- confirms the statute's real-world reach beyond simple debt collection, but is not added as a second formal authority here to keep the row focused (it is cited for other clause families in this store: unconscionability and limitation-of-remedy). HONEST NEGATIVE: unlike Montana's § 28-3-704, no Idaho statute read for this row converts a ONE-WAY contractual fee clause into a two-way one; § 12-120(3)'s mandatory award operates independently of, and in addition to, whatever the contract's own fee clause says, but this row found no Idaho reciprocity statute for the contractual clause itself."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "choice-of-law",
+    "rule_id": "id-most-significant-relationship-test-contracts-plus-29-110-2-franchise-venue",
+    "question": "Will Idaho enforce this choice-of-law clause, and does it matter if our agreement is a franchise?",
+    "rule": "For contracts generally, Idaho applies the Restatement (Second) of Conflict of Laws \"most significant relationship\" test, and Idaho's courts have applied it to contract interpretation and formation questions, not only torts. Sword v. Sweet: \"THE 'MOST SIGNIFICANT RELATIONSHIP' TEST IS APPLICABLE IN ANALYZING WHICH STATE'S LAW SHOULD BE APPLIED IN THE INTERPRETATION AND CONSTRUCTION OF CONTRACTS,\" quoting the Restatement's own formulation: \"The rights and duties of the parties with respect to an issue in contract are determined by the local law of the State which, as to that issue, has the most significant relationship to the transaction and the parties under the principles stated in § 6.\" The Restatement's contacts include the place of contracting, the place of negotiation, the place of performance, the location of the contract's subject matter, and the parties' domicile, residence, and places of business. FOR FRANCHISE AGREEMENTS specifically, Idaho Code § 29-110(2) supplies a distinct statutory rule rather than the common-law test: a franchise agreement's clause waiving Idaho venue or jurisdiction is void, but its CHOICE-OF-LAW clause is affirmatively enforceable -- \"[a]ny condition, stipulation or provision in a franchise agreement, to the extent it purports to assert, or has the effect of asserting, the choice of law is enforceable\" -- applicable to franchise agreements entered into or renewed on or after July 1, 2003, by a resident or an entity incorporated or organized under Idaho law.",
+    "trap": "Do not read § 29-110(2)'s franchise choice-of-law enforceability rule into ordinary, non-franchise contracts -- it is a franchise-specific statute with its own definition of \"franchise agreement\" (a marketing-plan relationship using the franchisor's trademark or system, with a payment of $1,000 or more for the right to transact business, excluding ordinary credit-card service charges and bona-fide wholesale purchases), and the common-law most-significant-relationship test, not this statute, governs an ordinary commercial contract's choice-of-law clause. Sword v. Sweet's own application is a caution against assuming an express choice-of-law clause always controls: the case applied the test to an ALLEGED ORAL agreement with no operative choice-of-law clause at all, determining Indiana law governed because Indiana had the most significant relationship to the parties and performance -- a reminder that the test is a DEFAULT for when the parties made no effective choice, and this rule's authorities do not independently confirm how Idaho treats an EXPRESS choice-of-law clause once one exists (a separate question from which law applies in its absence). One more thing § 29-110 does that this rule did not say: it saves arbitration, and it saves it across the WHOLE section, subsection (2) included. The sentence sits at the end of subsection (1) but is written “Nothing in this section shall affect contract provisions relating to arbitration so long as the contract does not require arbitration to be conducted outside the state of Idaho.” So the franchise venue-and-jurisdiction void in (2) does not reach an arbitration provision, on one condition — the arbitration must not be required to take place outside Idaho. A franchise agreement with an Idaho-seated arbitration clause is therefore not caught; one seated elsewhere gets no help from this sentence.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-110",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-110",
+            "quote": "Any condition, stipulation or provision in a franchise agreement, to the extent it purports to assert, or has the effect of asserting, the choice of law is enforceable. This subsection shall apply to any franchise agreement entered into or renewed on or after July 1, 2003, by any person who at the time of entering into or renewing such franchise agreement was a resident of this state or incorporated or organized under the laws of this state.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "92 P.3d 492",
+        "name": "Sword v. Sweet",
+        "court": "id-idaho",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "f068b2559a6dbce6",
+            "cl_opinion_id": "2521363",
+            "quote": "The rights and duties of the parties with respect to an issue in contract are determined by the local law of the State which, as to that issue, has the most significant relationship to the transaction and the parties under the principles stated in § 6.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "92 P.3d 492",
+        "name": "Sword v. Sweet",
+        "court": "id-idaho",
+        "decided": "2004",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "f068b2559a6dbce6",
+            "cl_opinion_id": "2521363",
+            "quote": "Therefore, under the “most significant relationship” test, Indiana law regarding contracts applies in determining whether the parties reached an enforceable agreement.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-110",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-110",
+            "quote": "Nothing in this section shall affect contract provisions relating to arbitration so long as the contract does not require arbitration to be conducted outside the state of Idaho.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 29-110 read in full. Sword v. Sweet read in the surrounding pages -- its heading and its quotation of Rungee v. Allied Van Lines, Inc. (1968), adopting the then-proposed Restatement (Second) draft, are both in the row's own text. First Bank of Lincoln v. Land Title of Nez Perce County (2019) and Carroll v. MBNA America Bank (2009) were also read and apply the most-significant-relationship test to contract and credit-transaction conflicts; not cited as formal authorities to keep the row focused on the clearest, contract-specific holding. HONEST NEGATIVE: no authority read for this row directly holds that Idaho enforces an EXPRESS contractual choice-of-law clause as such (as opposed to applying the Restatement default test in its absence) -- that specific question, though likely answered favorably in ordinary practice, was not confirmed by any authority read here and is not asserted. AUDIT 2026-09-22 (full read of the Idaho pack): § 29-110(2)-(3) read whole; Sword read at the test and the application (an alleged oral agreement; Indiana law). CORRECT. SCOPE AUDIT 2026-09-24: found by a cross-rule sweep rather than by ranking. The sibling rule id-29-110-1-forum-clause-void-if-restricts-suing-in-idaho-tribunals states § 29-110's arbitration saving and this one did not, although both cite the same statute row. The saving is drafted as ‘Nothing in this section’, not ‘this subsection’, so it governs the franchise rule in (2) that this row relies on; § 29-110 was re-read in full (2,429 characters) to confirm the wording before that conclusion was drawn. The sentence is now quoted here with its own verified block."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "electronic-signature",
+    "rule_id": "id-ueta-28-50-105-opt-in-only-28-50-107-legal-recognition",
+    "question": "Is our electronically signed contract enforceable in Idaho, and can the other side insist on paper?",
+    "rule": "Yes, an electronic record or signature is legally recognized in Idaho -- but ONLY for parties who agreed to transact electronically, and either party can still insist on paper for a given transaction. Idaho's Uniform Electronic Transactions Act, Idaho Code § 28-50-107(a)-(d): \"A record or signature may not be denied legal effect or enforceability solely because it is in electronic form... A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation... If a law requires a record to be in writing, an electronic record satisfies the law... If a law requires a signature, an electronic signature satisfies the law.\" But the Act's own scope provision limits all of this to parties who opted in: Idaho Code § 28-50-105(b): \"This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct.\" And § 28-50-105(c) preserves a standing right to switch back to paper for other transactions: \"A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.\"",
+    "trap": "Agreement to transact electronically is not all-or-nothing and not waivable in the other direction either -- § 28-50-105(c)'s right to refuse electronic means for OTHER transactions cannot be waived by contract, so a broad \"the parties agree to conduct ALL future dealings electronically\" clause cannot lock a party out of insisting on paper for a later, different transaction. Do not assume electronic assent is established just because a document exists in electronic form -- § 28-50-105(b) requires actual agreement to transact electronically, determined \"from the context and surrounding circumstances, including the parties' conduct,\" which is a fact question the statute does not resolve by a signature's mere format. This rule is statute-only: no Idaho appellate opinion construing §§ 28-50-105, -107, or -109 was located in a full-text scan of this corpus, an honest gap for a chapter enacted in 2000 that appears not to have generated reported Idaho appellate litigation on these specific sections.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-50-107",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-50-107",
+            "quote": "A record or signature may not be denied legal effect or enforceability solely because it is in electronic form.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-50-107",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-50-107",
+            "quote": "A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-50-105",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-50-105",
+            "quote": "This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-50-105",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-50-105",
+            "quote": "A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 28-50-101 through 28-50-120 (the whole Uniform Electronic Transactions Act chapter) skimmed for scope; §§ 28-50-105, 28-50-107, 28-50-109 read in full. HONEST NEGATIVE: a full-text scan of all 35,820 published docketx/us-caselaw-id opinions for \"28-50-105\" returned ZERO matches; this row is statute-only, stated plainly. Unlike Delaware's UETA analogue (6 Del. C. § 12A-103(b), flagged in this store's de-12a-107 row as excluding wills, most of the UCC, and several title-specific Acts), Idaho's chapter's own exclusions (§ 28-50-103, scope) were not independently read for this pass -- an open item, not resolved here. AUDIT 2026-09-22 (full read of the Idaho pack): §§ 28-50-105 and 28-50-107 read whole; (b), (c) and (a)-(d) verbatim. CORRECT."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "entire-agreement",
+    "rule_id": "id-2-202-ucc-plus-common-law-integration-bars-extrinsic-terms",
+    "question": "Does this integration / entire-agreement clause keep prior or contemporaneous statements out of a dispute over what the contract means?",
+    "rule": "For a sale of goods, Idaho Code § 28-2-202 codifies the rule directly: \"Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented\" by course of dealing, course of performance or usage of trade, and by evidence of consistent additional terms \"unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.\" Outside the UCC, Idaho's common-law parol evidence rule does the same work for an INTEGRATED contract: Jeanette Hoffman v. Board of Local Improvement District No. 1101 the Supreme Court adopted the respondents' statement of it -- \"Idaho’s parol evidence rule, which only prevents the district court from considering extrinsic evidence relating to other terms of a contract when the contract is integrated. The Boards are correct.\" -- and stated the rule in its own words: \"Under the parol evidence rule, if the written agreement is complete on its face and unambiguous, no fraud or mistake being alleged, extrinsic evidence of prior contemporaneous negotiations or conversations is not admissible to contradict, vary, alter, add to or detract from the terms of the written contract.\"",
+    "trap": "Hoffman's own formulation is the trap: the rule bars extrinsic evidence of OTHER TERMS only once the contract is found to be integrated -- the finding is the court's to make -- but Hoffman, quoting Steel Farms, says a merger clause makes it: \"A written contact [sic] containing a merger clause is integrated for purposes of the parol evidence rule.\" With a merger clause, then, the fight moves to whether the writing is \"complete on its face and unambiguous,\" not to whether it is integrated. The UCC version has its own, narrower trigger for the harder, \"complete and exclusive\" bar on ADDITIONAL consistent terms: § 28-2-202 lets even a merger-clause writing be supplemented by consistent additional terms UNLESS the court independently finds the writing was intended as complete and exclusive -- a bare integration clause is evidence toward that finding, not a substitute for it. Neither authority read for this rule was construing a merger clause's own text; both state how the rule operates given a writing found to be final or integrated, which is the more fundamental question a reviewer must not skip past.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-202",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-202",
+            "quote": "Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-202",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-202",
+            "quote": "By evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "415 P.3d 332",
+        "name": "Jeanette Hoffman v. Board of Local Improvement District No. 1101",
+        "court": "id-idaho",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d5ce3c2e5ff75a7f",
+            "cl_opinion_id": "4109713",
+            "quote": "The Boards respond that Appellants fundamentally misconstrue Idaho’s parol evidence rule, which only prevents the district court from considering extrinsic evidence relating to other terms of a contract when the contract is integrated.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "415 P.3d 332",
+        "name": "Jeanette Hoffman v. Board of Local Improvement District No. 1101",
+        "court": "id-idaho",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d5ce3c2e5ff75a7f",
+            "cl_opinion_id": "4109713",
+            "quote": "The Boards respond that Appellants fundamentally misconstrue Idaho’s parol evidence rule, which only prevents the district court from considering extrinsic evidence relating to other terms of a contract when the contract is integrated. The Boards are correct.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "415 P.3d 332",
+        "name": "Jeanette Hoffman v. Board of Local Improvement District No. 1101",
+        "court": "id-idaho",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d5ce3c2e5ff75a7f",
+            "cl_opinion_id": "4109713",
+            "quote": "Under the parol evidence rule, if the written agreement is complete on its face and unambiguous, no fraud or mistake being alleged, extrinsic evidence of prior contemporaneous negotiations or conversations is not admissible to contradict, vary, alter, add to or detract from the terms of the written contract.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "415 P.3d 332",
+        "name": "Jeanette Hoffman v. Board of Local Improvement District No. 1101",
+        "court": "id-idaho",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d5ce3c2e5ff75a7f",
+            "cl_opinion_id": "4109713",
+            "quote": "“A written contact containing a merger clause is 6 integrated for purposes of the parol evidence rule.”",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 28-2-202 read in full together with §§ 28-2-201, 28-2-203 through 28-2-210. Hoffman read in the surrounding paragraphs; the quoted sentence is the parties' framing of the rule which the Court then adopted (\"The Boards are correct\"), read in context immediately following the quoted text. Sec. Investor Fund LLC v. Crumb (2019, row 1feab8dd5f37d944, 443 P.3d 1036, 165 Idaho 280) was also read and states \"the merger clause and the parol evidence rule do not affect the purported oral easement for two related reasons\" -- confirms Idaho courts do give a merger clause independent weight in an integration analysis, but is not cited as a formal authority here because its holding turns on the alleged oral term's different subject matter, not on the general operation of the rule stated above; a fuller row would add it. HONEST NEGATIVE: no authority read for this row states whether an express, explicit merger/integration clause is by itself SUFFICIENT to establish integration as a matter of law in Idaho, as opposed to being evidence toward that finding -- that specific question was not resolved. AUDIT 2026-09-22 (full read of the Idaho pack): the quoted Hoffman sentence begins 'The Boards respond that' -- the respondents' words; the court's next sentence is 'The Boards are correct.' Now quoted with that adoption and with the court's own statement of the rule. The trap's 'strong evidence of integration' understated Hoffman, which (quoting Steel Farms) says a merger clause IS integration; the corpus text of that sentence carries a page-number artifact ('is 6 integrated') and a typo ('contact'), quoted as published. OVERSTATED (L)."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "force-majeure",
+    "rule_id": "id-common-law-frustration-objective-not-subjective-no-statute",
+    "question": "Will this force-majeure / impossibility / frustration-of-purpose clause excuse late or non-performance in Idaho?",
+    "rule": "Idaho has no statute codifying force-majeure, impossibility, or frustration-of-purpose doctrine for contracts generally -- unlike California's Civil Code § 1511 or Montana's Mont. Code Ann. § 28-1-1301, Title 29 of the Idaho Code (Contracts) contains no excuse-of-performance provision, and the doctrine rests entirely on Idaho common law. Rasmussen v. Martin states the controlling common-law standard: \"As a general rule, relief from a provision of a contract, in order to avoid frustration of the contract's underlying purpose, will not be granted where the claimed grounds of frustration are merely personal to one of the parties. The frustration must be objective, rather than subjective, in nature.\"",
+    "trap": "The objective/subjective line is the whole doctrine and is easy to blur in practice -- Rasmussen itself denied the defense where the claimed frustration was that the parties' relationship \"has so deteriorated that they 'are unable to trust each other'\" -- personal to the parties, not an objective impediment to performance: \"the record does not contain a showing of objective frustration,\" and \"[t]he district court did not find that Rasmussen was untrustworthy.\" A party whose own circumstances, or feelings about the counterparty, make performance unwelcome does not get the defense merely by invoking \"frustration.\" Because there is no Idaho statute on point, a drafter cannot point to a fixed statutory list of qualifying events (as a California or Montana drafter could) -- the doctrine's content in Idaho is defined entirely by case-by-case application of the objective/subjective distinction, which makes a well-drafted contractual force-majeure clause listing specific qualifying events comparatively more important in Idaho than in a state with a statutory backstop, precisely because there is no statutory default to fall back on. This rule's rule rests on a single, 1983 Court of Appeals case; no later Idaho Supreme Court opinion squarely restating or applying the objective/subjective test to a commercial contract dispute was confirmed in the searches run for this rule.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "659 P.2d 155",
+        "name": "Rasmussen v. Martin",
+        "court": "id-idahoctapp",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "ef8a6bab33f7a5c2",
+            "cl_opinion_id": "1449357",
+            "quote": "As a general rule, relief from a provision of a contract, in order to avoid frustration of the contract’s underlying purpose, will not be granted where the claimed grounds of frustration are merely personal to one of the parties. The frustration must be objective, rather than subjective, in nature.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "659 P.2d 155",
+        "name": "Rasmussen v. Martin",
+        "court": "id-idahoctapp",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "ef8a6bab33f7a5c2",
+            "cl_opinion_id": "1449357",
+            "quote": "In his brief on appeal, Martin’s counsel argues that the relationship between the parties has so deteriorated that they “are unable to trust each other.”",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "659 P.2d 155",
+        "name": "Rasmussen v. Martin",
+        "court": "id-idahoctapp",
+        "decided": "1983",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "ef8a6bab33f7a5c2",
+            "cl_opinion_id": "1449357",
+            "quote": "In this case, the record does not contain a showing of objective frustration. The district court did not find that Rasmussen was untrustworthy.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "HONEST NEGATIVE, and the central finding of this row: Title 29 (Contracts) of the Idaho Code was read in full section-by-section (§§ 29-101 through 29-116, the entirety of Chapter 1) and contains NO provision addressing excuse of performance by impossibility, impracticability, or frustration of purpose -- a genuine contrast with California (Civ. Code § 1511) and Montana (Mont. Code Ann. § 28-1-1301), both of which this store's earlier passes found to codify the doctrine directly. Rasmussen v. Martin read in full (16,104 characters); its holding applied the objective/subjective test to deny a personal-guaranty-adjacent defense, not a commercial supply or service contract, but its statement of the standard is general. Sutheimer v. Stoltenberg (1995, Ct. App.) was also read and quotes Restatement (Second) of Contracts § 269 on TEMPORARY impracticability/frustration (suspension rather than discharge of the duty); not added as a second formal authority to keep the row to its clearest, most-cited statement, but the temporary-versus-permanent distinction it states is a real refinement a fuller row should add. State v. Chacon (2008, Ct. App.) and Fagen, Inc. v. Rogerson Flats Wind Park, LLC (2016) both apply Rasmussen's objective-frustration standard in later disputes, confirming it remains the operative test; not independently added as formal authorities here. AUDIT 2026-09-22 (full read of the Idaho pack): the trap said the claimed frustration was 'the defendant's own creditworthiness or personal circumstances'; in Rasmussen it was that the parties 'are unable to trust each other'. Facts supplied, not read. Rewritten; both sentences added verbatim; disposition (affirmed) confirmed. OVERSTATED (M)."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "indemnity",
+    "rule_id": "id-29-114-construction-sole-negligence-void-but-shared-negligence-survives",
+    "question": "Will Idaho enforce this indemnity clause in our construction contract if the indemnitee was also at fault?",
+    "rule": "It depends on whether the indemnitee's negligence was SOLE or shared. Idaho Code § 29-114 voids an indemnity clause only for the indemnitee's OWN sole negligence: \"A covenant, promise, agreement or understanding in, or in connection with or collateral to, a contract or agreement relative to the construction, alteration, repair or maintenance of a building, structure, highway, appurtenance and appliance... purporting to indemnify the promisee against liability for damages arising out of bodily injury to persons or damage to property caused by or resulting from the SOLE negligence of the promisee, his agents or employees, or indemnitees, is against public policy and is void and unenforceable.\" Beitzel v. City of Coeur d'Alene confirms the statute's edge is exactly that word \"sole\": \"The indemnification clause does not require Orton to indemnify GTNW, if Beitzel's injuries had been caused solely by GTNW's negligence. To this extent, the clause does not violate I.C. § 29-114.\" Where the indemnitee's negligence was combined with another party's fault -- not sole -- the clause survives § 29-114's bar.",
+    "trap": "\"Sole negligence\" is a narrow trigger, and a drafter should not assume § 29-114 voids every construction indemnity that happens to touch the indemnitee's own fault -- Beitzel held the opposite: because the injury resulted from COMBINED negligence of multiple parties rather than the indemnitee's negligence alone, the clause did not violate the statute and was enforced. Conversely, do not assume a clause survives merely because other parties were also at fault in some general sense -- the statute's text requires identifying whose negligence the DAMAGES actually \"result[ed] from,\" which Beitzel treated as a fact question requiring the court to trace whether the specific injury was caused solely by the indemnitee or by a combination including the indemnitor. Steiner Corp. v. American District Telegraph (1984) is a further limit: in a footnote answering an argument \"not argued below,\" the Supreme Court said the section \"was intended to apply only to agreements by third parties, strangers to the negligent occurrence, to indemnify the tortfeasor for liability for the occurrence,\" so it did not reach a two-party limitation-of-liability clause \"where no third party is involved, and no indemnification situation is presented\" -- a gloss on the statute's reach, stated in a footnote, that a party defending its own exculpatory clause can invoke.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-114",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-114",
+            "quote": "A covenant, promise, agreement or understanding in, or in connection with or collateral to, a contract or agreement relative to the construction, alteration, repair or maintenance of a building, structure, highway, appurtenance and appliance, including moving, demolition and excavating connected therewith, purporting to indemnify the promisee against liability for damages arising out of bodily injury to persons or damage to property caused by or resulting from the sole negligence of the promisee, his agents or employees, or indemnitees, is against public policy and is void and unenforceable.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "827 P.2d 1160",
+        "name": "Beitzel v. City of Coeur d'Alene",
+        "court": "id-idaho",
+        "decided": "1992",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d6cfb34fb0b9e6dd",
+            "cl_opinion_id": "5173985",
+            "quote": "The indemnification clause does not require Orton to indemnify GTNW, if Beitzel’s injuries had been caused solely by GTNW’s negligence. To this extent, the clause does not violate I.C. § 29-114.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "683 P.2d 435",
+        "name": "Steiner Corp. v. American District Telegraph",
+        "court": "id-idaho",
+        "decided": "1984",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "2039f6ecebd0366a",
+            "cl_opinion_id": "1159787",
+            "quote": "That code section was intended to apply only to agreements by third parties, strangers to the negligent occurrence, to indemnify the tortfeasor for liability for the occurrence. As such, it is not applicable in this case, where no third party is involved, and no indemnification situation is presented.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 29-114 read in full (both paragraphs, including the 1971 savings clause for then-existing contracts). Beitzel read in the surrounding pages: the trial court had voided the clause under § 29-114 and found no common-law indemnity available either; the Supreme Court's own analysis (quoted above) narrowed that reading by focusing on whether the injury resulted from GTNW's negligence ALONE. Steiner Corp. v. American District Telegraph (1984, row 2039f6ecebd0366a) states the third-party/stranger-to-the-occurrence gloss quoted in the trap; read but not independently verified against the statute's text for this pass, and not added as a second formal authority for that reason -- an honest limit on how far this row's research went, not a resolved question. HONEST NEGATIVE: no authority read for this row addresses INDEMNITY OUTSIDE the construction context (§ 29-114 is limited by its own text to construction-related contracts) -- Idaho's general common-law indemnity doctrine for non-construction contracts was not searched for this pass and is not stated here. AUDIT 2026-09-22 (full read of the Idaho pack): Steiner's 'strangers to the negligent occurrence' sentence located: footnote 1 of Steiner Corp. v. ADT, 683 P.2d 435 (cite confirmed on the citation map), answering an argument 'not argued below'. Quoted and added; the trap now says it is a footnote. Beitzel re-read at the disposition (affirmed; indemnity enforced for combined negligence). UNSUPPORTED (L), fixed."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "limitation-of-remedy",
+    "rule_id": "id-2-719-exclusive-remedy-essential-purpose-consequential-damages-unconscionable-standard",
+    "question": "Will Idaho enforce this clause limiting the buyer's remedy or excluding consequential damages?",
+    "rule": "Yes, subject to two statutory limits. Idaho Code § 28-2-719(1) lets the agreement \"provide for remedies in addition to or in substitution for those provided in this chapter and... limit or alter the measure of damages recoverable... as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of non-conforming goods or parts,\" and resort to that remedy is optional \"unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.\" The first limit is failure of essential purpose: § 28-2-719(2), \"[w]here circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this act\" -- the limitation stops protecting the seller once the promised remedy (repair, replacement) does not actually work. The second limit is unconscionability, and it is asymmetric by its own terms: § 28-2-719(3), \"[c]onsequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.\" Walker v. American Cyanamid Co. applied exactly this standard to hold a seed-label limitation-of-liability clause unenforceable, and confirms Idaho reads §§ 28-2-302 and 28-2-719 together for the unconscionability inquiry.",
+    "trap": "Subsection (3)'s asymmetry is the trap: a consumer-goods personal-injury consequential-damages exclusion starts out PRESUMED unconscionable, while the identical clause in a commercial-loss setting starts out presumed valid -- a drafter cannot rely on Idaho's general unconscionability standard being neutral as between consumer and commercial deals. Separately, and this is an unresolved textual wrinkle this rule does not paper over: Walker's own opinion quotes the consequential-damages-limitation rule as arising under \"I.C. § 28-2-719(8)\" (\"I.C. § 28-2-719(8), a portion of the Uniform Commercial Code (UCC), provides: Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable\"), while the statute's text as published in this corpus places that identical sentence in subsection (3) of a section that runs only to subsection (3). This is recorded here as an unresolved disagreement between the 1997 opinion's own subsection numbering and the corpus's current statute text -- not resolved from memory, and not assumed to be a typo -- a reviewer relying on Walker's citation form should independently confirm the current subsection number before citing it. Finally, an \"exclusive remedy\" clause is not automatically read to also exclude consequential damages, and vice versa -- § 28-2-719(1)(b) and (3) are separate mechanisms operating on separate questions (which remedy is available, versus what categories of damages are recoverable), and a clause meant to do both should say so expressly.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-719",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-719",
+            "quote": "Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this act.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-719",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-719",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "948 P.2d 1123",
+        "name": "Walker v. American Cyanamid Co.",
+        "court": "id-idaho",
+        "decided": "1997",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d02da641295340f4",
+            "cl_opinion_id": "1124975",
+            "quote": "I.C. § 28-2-719(8), a portion of the Uniform Commercial Code (UCC), provides: Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 28-2-719 read in full (subsections 1-3; the section carries no subsection beyond (3) in the corpus's current published text). The \"(8)\" vs \"(3)\" disagreement between Walker's 1997 opinion text and the statute's current published subsection numbering is stated in the trap above and is DELIBERATELY left unresolved -- the store's instructions are to record a statute-vs-opinion disagreement as unresolved rather than guess at its cause (a since-superseded numbering, an OCR artifact in the opinion's official text, or a section renumbering after 1997 were all considered and none was confirmed from any authority read). Both quotes are transcribed verbatim from their respective corpus rows notwithstanding the numbering conflict. State v. Mitchell Construction Co. (1985) and Adkison Corp. v. American Building Co. (1984) were also read and confirm Idaho manufacturers routinely combine §§ 28-2-316 and 28-2-719 in the same limitation strategy; not cited as formal authorities to keep the row focused."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "limitations-period",
+    "rule_id": "id-5-216-written-5yr-5-217-oral-4yr-ucc-2-725-4yr-goods",
+    "question": "How long do we have to sue for breach of this contract in Idaho?",
+    "rule": "Five years for a written contract, four years for an oral one, and (for a sale of goods) four years under the UCC regardless of whether the sales contract is written or oral. Idaho Code § 5-216: \"Within five (5) years: An action upon any contract, obligation or liability founded upon an instrument in writing.\" Idaho Code § 5-217: \"Within four (4) years: An action upon a contract, obligation or liability not founded upon an instrument of writing.\" For goods, Idaho Code § 28-2-725(1) supplies its own period that does not track the written/oral distinction: \"An action for breach of any contract for sale must be commenced within four (4) years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one (1) year but may not extend it.\" Farms, LLC v. Isom confirms Idaho courts apply §§ 5-216 and 5-217 side by side by instrument type: \"five years for Count I on the written lease, and four years for Counts II and III for contract actions 'not founded upon an instrument in writing[,]' I.C. §§ 5-216, -217.\"",
+    "trap": "A sale-of-goods contract does not get the five-year written-contract period even if it is fully signed and in writing -- § 28-2-725(1)'s four-year UCC period applies \"regardless of the aggrieved party's lack of knowledge of the breach\" and controls over §§ 5-216/5-217 for goods sales, and the ORIGINAL agreement can shorten that period to as little as one year but can never lengthen it. § 28-2-725(2)'s accrual rule has its own trap: a breach of warranty accrues at TENDER OF DELIVERY, not at discovery, \"except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered\" -- a future-performance warranty is the narrow exception, not the rule. Farms, LLC v. Isom is also a reminder that these periods can be TOLLED by an intervening bankruptcy stay under § 5-234 -- a limitations calculation that ignores a known stay period will understate the time actually remaining.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 5-216",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_5-216",
+            "quote": "An action upon any contract, obligation or liability founded upon an instrument in writing.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 5-217",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_5-217",
+            "quote": "An action upon a contract, obligation or liability not founded upon an instrument of writing.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-725",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-725",
+            "quote": "An action for breach of any contract for sale must be commenced within four (4) years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one (1) year but may not extend it.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "537 P.3d 1241",
+        "name": "Farms, LLC v. Isom",
+        "court": "id-idaho",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "bb5aff39912263e7",
+            "cl_opinion_id": "9893374",
+            "quote": "The applicable limitations periods under Idaho law for Farms’ claims are five years for Count I on the written lease, and four years for Counts II and III for contract actions “not founded upon an instrument in writing[,]” I.C. §§ 5-216, -217.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "537 P.3d 1241",
+        "name": "Farms, LLC v. Isom",
+        "court": "id-idaho",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "bb5aff39912263e7",
+            "cl_opinion_id": "9893374",
+            "quote": "Idaho Code section 5-234 applies to establish the limitation period applicable to matters stayed by statute.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 5-234",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_5-234",
+            "quote": "When the commencement of an action is stayed by injunction or statutory prohibition the time of the continuance of the injunction or prohibition is not part of the time limited for the commencement of the action.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 5-201 through 5-248 (Title 5, Chapter 2) skimmed for scope; §§ 5-216, 5-217, 5-234 read in full; § 28-2-725 read in full. Farms, LLC v. Isom read in the surrounding paragraphs, including its application of § 5-234's bankruptcy-stay tolling rule, which the trap above reflects. VanRenselaar v. Batres (2025) and Blasch v. HP, Inc. (2024) were also read and confirm §§ 5-216/5-217 are the general contract-limitations provisions among many special-purpose limitations statutes in Title 5, Chapter 2 (e.g., § 5-241 for construction-improvement claims, § 45-614 for wage claims); not cited as formal authorities to keep the row focused. HONEST NEGATIVE: no authority read for this row resolves whether §§ 5-216/5-217 or a special statute like § 5-241 governs a construction contract's breach claim specifically -- that interplay was not searched. AUDIT 2026-09-22 (full read of the Idaho pack): §§ 5-216, 5-217, 28-2-725 and 5-234 read whole; Farms v. Isom read at the § 5-234 holding, now quoted, with § 5-234 added as an authority. CORRECT."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "liquidated-damages",
+    "rule_id": "id-2-718-goods-reasonable-in-light-of-anticipated-or-actual-harm-void-as-penalty",
+    "question": "Will an Idaho court enforce this liquidated-damages clause in our sale-of-goods contract?",
+    "rule": "Only if the amount is reasonable in light of the anticipated or actual harm from the breach -- otherwise it is void. Idaho Code § 28-2-718(1): \"Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.\" The statute also supplies a buyer-protective default when the SELLER withholds delivery for the buyer's breach and there is no liquidated-damages clause: the buyer may recover back whatever it paid in excess of 20% of the value of the total performance it owed, or $500, whichever is smaller (§ 28-2-718(2)(b)).",
+    "trap": "§ 28-2-718 governs only contracts for the SALE OF GOODS under Idaho's UCC Article 2 -- this rule does not extend to a services, real-property, or other non-goods contract's liquidated-damages clause, and no Idaho common-law liquidated-damages/penalty case construing a non-UCC contract was located in the searches run for this rule (an honest gap, not a resolved one). Perron v. Martinez (2025, Ct. App.) involves a liquidated-damages clause in a construction addendum -- outside UCC Article 2 -- but that opinion's own citation does not yet resolve to a reporter volume/page in this corpus snapshot and its holding on the enforceability standard was not confirmed in the window read, so it is not cited here. Note also that § 28-2-718(1)'s reasonableness test looks at BOTH anticipated harm at formation AND actual harm from the breach -- the statute does not, on its face, pick only a forward-looking (at-the-time-of-contracting) test the way some states' common-law liquidated-damages doctrines do, so a clause defended solely on \"it looked reasonable when we signed\" is answering only half of what the Idaho statute asks.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-718",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-718",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-718",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-718",
+            "quote": "in the absence of such terms, twenty per cent (20%) of the value of the total performance for which the buyer is obligated under the contract or $500, whichever is smaller.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 28-2-718 read in full (subsections 1-4). HONEST NEGATIVE, stated in the trap and repeated here: this row found no Idaho common-law liquidated-damages/penalty case outside UCC Article 2 in the searches run (\"liquidated damages\" full-text scan of docketx/us-caselaw-id returned 274 opinions; the on-point construction case found, Perron v. Martinez, 2025 Ct. App., has an unresolved citation in this snapshot). A future pass with either an updated citation map or a case-by-case reading of the 274-hit set could add a general common-law rule; this row deliberately does not manufacture one from memory. State of Idaho v. Allegheny Casualty Co. (2026, Ct. App.) analogizes a bail-bond forfeiture to a liquidated-damages clause but is a bond-forfeiture case, not a contract-law holding, and is not cited here. AUDIT 2026-09-22 (full read of the Idaho pack): § 28-2-718 read whole; (1) and (2)(b) verbatim, '$500, whichever is smaller' is the section's own text. CORRECT."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "non-competition",
+    "rule_id": "id-key-employee-covenant-reasonable-duration-place-scope-rebuttable-18mo-top5pct",
+    "question": "Will an Idaho court enforce this employee or independent-contractor non-competition covenant?",
+    "rule": "Yes, if the covenant is with a \"key employee\" or \"key independent contractor\" and is reasonable as to duration, geographic area, and type of employment or line of business. Idaho's statute is itself the enforceability test: \"A key employee or key independent contractor may enter into a written agreement or covenant that protects the employer’s legitimate business interests and prohibits the key employee or key independent contractor from engaging in employment or a line of business that is in direct competition with the employer’s business after termination of employment, and the same shall be enforceable, if the agreement or covenant is reasonable as to its duration, geographical area, type of employment or line of business, and does not impose a greater restraint than is reasonably necessary to protect the employer’s legitimate business interests\" (Idaho Code § 44-2701). The statute then supplies three REBUTTABLE presumptions of reasonableness that a drafter can lean on: a postemployment term of 18 months or less is presumed reasonable as to duration (§ 44-2704(2)); a restriction limited to the areas where the covenanted employee actually worked or had a significant presence is presumed reasonable as to geography (§ 44-2704(3)); and a restriction limited to the type of employment or line of business the employee actually conducted is presumed reasonable as to scope (§ 44-2704(4)). \"Key employee\" and \"key independent contractor\" are themselves defined broadly, by the inside knowledge and influence an employee gains through \"exposure to technologies, intellectual property, business plans, business processes and methods of operation, customers, vendors or other business relationships\" and the resulting \"ability to harm or threaten an employer’s legitimate business interests\" (§ 44-2702(1)), with \"legitimate business interests\" defined in (2) to include goodwill, customer lists and trade secrets, and the statute adds its own rebuttable presumption on WHO counts as key: \"It shall be a rebuttable presumption that an employee or independent contractor who is among the highest paid five percent (5%) of the employer’s employees or independent contractors is a \\\"key employee\\\" or a \\\"key independent contractor\\\"\" (§ 44-2704(5)). Idaho litigants invoke the statute routinely in real disputes: Industrial Commission v. Sky Down Skydiving confirms \"non-competition clauses are permitted for independent contractors under Idaho Code section 44-2701.\"",
+    "trap": "The 18-month, geography, and scope presumptions in § 44-2704 are REBUTTABLE, not safe harbors -- a covenant inside those lines is only presumed reasonable, and the employee can still put on evidence to rebut the presumption; nothing in the statute makes an 18-month, narrowly-drawn covenant automatically enforceable. The reverse trap is sharper: exceed 18 months and the covenant is not merely unpresumed, it fails outright UNLESS the employer gives consideration beyond employment or continued employment -- § 44-2704(1) says a covenant \"[u]nder no circumstances\" may exceed 18 months \"unless consideration, in addition to employment or continued employment, is given.\" A court asked to enforce an over-length covenant against a below-top-5%-earner employee, with no separate consideration recited, is being asked to enforce a covenant the statute does not presume reasonable at all. Separately, an unreasonable covenant is not simply void in Idaho -- § 44-2703 directs the court to BLUE-PENCIL it: \"a court shall limit or modify the agreement or covenant as it shall determine necessary to reflect the intent of the parties and render it reasonable... and specifically enforce the agreement or covenant as limited or modified\" -- so an overbroad covenant is a live liability, reformed and enforced against the employee, not a dead letter. Sky Down Skydiving's reference to § 44-2701 arose in an unrelated workers'-compensation employee-classification dispute, not a covenant-enforcement action; it confirms the statute reaches independent contractors but was not read for, and does not state, the reasonableness test itself.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 44-2701",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_44-2701",
+            "quote": "A key employee or key independent contractor may enter into a written agreement or covenant that protects the employer’s legitimate business interests and prohibits the key employee or key independent contractor from engaging in employment or a line of business that is in direct competition with the employer’s business after termination of employment, and the same shall be enforceable, if the agreement or covenant is reasonable as to its duration, geographical area, type of employment or line of business, and does not impose a greater restraint than is reasonably necessary to protect the employer’s legitimate business interests.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 44-2704",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_44-2704",
+            "quote": "Under no circumstances shall a provision of such agreement or covenant, as set forth herein, establish a postemployment restriction of direct competition that exceeds a period of eighteen (18) months from the time of the key employee’s or key independent contractor’s termination unless consideration, in addition to employment or continued employment, is given to a key employee or key independent contractor.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 44-2704",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_44-2704",
+            "quote": "It shall be a rebuttable presumption that an employee or independent contractor who is among the highest paid five percent (5%) of the employer’s employees or independent contractors is a \"key employee\" or a \"key independent contractor.\"",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 44-2703",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_44-2703",
+            "quote": "To the extent any such agreement or covenant is found to be unreasonable in any respect, a court shall limit or modify the agreement or covenant as it shall determine necessary to reflect the intent of the parties and render it reasonable in light of the circumstances in which it was made and specifically enforce the agreement or covenant as limited or modified.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "462 P.3d 92",
+        "name": "Industrial Commission v. Sky Down Skydiving",
+        "court": "id-idaho",
+        "decided": "2020",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "058afaf0cddc4239",
+            "cl_opinion_id": "11199461",
+            "quote": "Although non-competition clauses are permitted for independent contractors under Idaho Code section 44-2701, such a provision is more indicative of the type of control an employer typically exercises over an employee.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 44-2702",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_44-2702",
+            "quote": "have gained a high level of inside knowledge, influence, credibility, notoriety, fame, reputation or public persona as a representative or spokesperson of the employer and, as a result, have the ability to harm or threaten an employer’s legitimate business interests.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 44-2701 through 44-2704 read in full as one chapter (the whole of Title 44, Chapter 27). CORPUS CHECK, id shard: statute row IDC_44-2701 etc. drawn from docketx/us-statutes jurisdiction id; case corpus is docketx/us-caselaw-id (35,820 published Idaho opinions). Sky Down Skydiving's mention of § 44-2701 is DICTA in a workers'-compensation classification appeal, not a covenant-enforcement holding -- used here only for the narrow, accurate proposition that Idaho courts recognize independent-contractor non-competes under the statute; the row's reasonableness rule rests on the statute's own text, not on any court's construction of it. HONEST NEGATIVE: a full-text scan of docketx/us-caselaw-id for opinions applying the § 44-2704 reasonableness presumptions to an actual covenant (rather than citing the statute in passing) turned up Brand Makers Promotional Products, LLC v. Archibald (Idaho Ct. App. 2018), which held a non-compete unenforceable, but that opinion's citation could not be resolved against CourtListener's citation map or the store's citation-map instrument in this corpus snapshot (cluster id 4545130 returns no reporter cite), so it is not cited as a formal authority here -- an honest gap, not a resolved one; a later pass with an updated citation map should add it. AUDIT 2026-09-22 (full read of the Idaho pack): §§ 44-2701 to 44-2704 read whole. The rule paraphrased § 44-2702(1) with no block and folded (2)'s 'legitimate business interests' list into it; rewritten to the section's words with (1) added as an authority. UNSUPPORTED block (L), fixed."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "personal-injury-release",
+    "rule_id": "id-29-113-15-day-window-one-year-disavowal-personal-injury-release",
+    "question": "Is this release, signed shortly after our counterparty's personal injury, immune from being disavowed later?",
+    "rule": "No -- a release signed within 15 days of the injury can be disavowed by the injured person for up to a year. Idaho Code § 29-113: \"Any agreement entered into by any person within fifteen (15) days after he incurs a personal injury, which may adversely affect his right to be compensated for such injury, may be disavowed by such injured person within one (1) year after the making of the agreement. No agreement disavowed may be introduced as evidence in any subsequent court or administrative proceeding.\" The one Idaho opinion found citing it does so for its policy, not to decide a disavowal: Larson v. Emmett Joint School District No. 221, in a footnote, called § 29-113 \"[i]ndicative of the legislative frame of mind as to whether an accident victim should reasonably be 'doing business' with regard to his legal rights and claims arising out of a personal injury suffered in the accident,\" and quoted the section in full.",
+    "trap": "The 15-day trigger runs from the INJURY, not from any notice-of-claim deadline or the release's own effective date -- a release signed on day 16 or later falls outside § 29-113's disavowal window entirely, even if the negotiation began during the 15-day period. The disavowal right itself then runs for a full year from the AGREEMENT's making, not from the injury -- two different clocks measured from two different events. And the consequence of disavowal is not merely that the release stops binding the parties going forward: the statute bars the disavowed agreement from being introduced \"as evidence in any subsequent court or administrative proceeding\" at all, which forecloses using it even for a limited purpose (such as showing the amount previously offered) once disavowed. This rule's rule is drawn from the statute's own text and from a single confirmatory case (Larson, 1978); no later Idaho opinion applying § 29-113 to an actual disavowal dispute (as opposed to citing it for legislative-policy context) was located in the searches run for this rule.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-113",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-113",
+            "quote": "Any agreement entered into by any person within fifteen (15) days after he incurs a personal injury, which may adversely affect his right to be compensated for such injury, may be disavowed by such injured person within one (1) year after the making of the agreement. No agreement disavowed may be introduced as evidence in any subsequent court or administrative proceeding.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "577 P.2d 1168",
+        "name": "Larson v. Emmett Joint School District No. 221",
+        "court": "id-idaho",
+        "decided": "1978",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "9fdb9df97b3c819d",
+            "cl_opinion_id": "1230526",
+            "quote": "Indicative of the legislative frame of mind as to whether an accident victim should reasonably be “doing business” with regard to his legal rights and claims arising out of a personal injury suffered in the accident, we have the benefit of I.C. § 29-113, which provides:",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 29-113 read in full (the entire, single-paragraph section). Larson read in the surrounding pages; its citation of § 29-113 is by way of legislative-policy context for a different question (the constitutionality of the state's Notice of Claim Statute), not a holding applying § 29-113 to disavow a specific release -- stated honestly rather than overstated as a squarely on-point holding. Ranta v. Rake (1966) was also read and cites § 29-113 the same way, as evidence the legislature recognizes special policy considerations around personal-injury releases; not added as a second formal authority to avoid duplicating the same limited point. HONEST NEGATIVE: no Idaho appellate opinion in this corpus was found applying § 29-113 to an actual attempted disavowal of a specific release -- the statute's practical operation (whether courts require any particular form of disavowal, for example) is not established by any authority read here. AUDIT 2026-09-22 (full read of the Idaho pack): the rule quoted Larson as saying 'releases of claims for personal injuries involve special policy considerations'; those words are not in the opinion (full-text regex for 'special' and 'policy': one unrelated hit). The only Larson sentence on § 29-113 is the footnote already quoted. Supplied quote removed; 'real, applied legislative check' softened to what Larson does. UNSUPPORTED (M)."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "prompt-payment",
+    "rule_id": "id-29-115-5pct-retainage-cap-idaho-law-mandatory-no-waiver",
+    "question": "Does Idaho law cap the retainage our private construction contract can withhold, and can the contract require disputes to be resolved outside Idaho?",
+    "rule": "Yes to both questions, for a private work of improvement contracted on or after July 1, 1990. Idaho Code § 29-115(2) caps retainage at 5%: \"the retention proceeds withheld by the owner from the original contractor or by the original contractor from any subcontractor from any payment shall not exceed five percent (5%) of the payment and in no event shall the total retention withheld exceed five percent (5%) of the contract price\" (subject to a bonding exception and a carve-out for one-to-four-unit owner-occupied residential work). § 29-115(3) requires retention to step down to the lesser of 150% of the estimated value of remaining work or the 5% cap within 35 days of substantial completion, and to be released within 35 days of final completion (subject to a dispute holdback). § 29-115(6) locks the whole contract to Idaho law and forum: \"Any contract relating to the construction of any private work of improvement in Idaho... shall be subject to the laws of Idaho. Such contract shall not require litigation, arbitration, or another dispute resolution process to occur in another state or country.\" And § 29-115(7) makes all of this non-waivable: \"It shall be against public policy for any party to require any other party to waive any provision of this statute.\"",
+    "trap": "The 5% cap and the whole-of-the-statute Idaho-law/Idaho-forum requirement are BOTH declared non-waivable by § 29-115(7) -- a clause purporting to waive the retainage cap, the step-down schedule, or the Idaho-forum requirement is itself against public policy, regardless of how the contract otherwise characterizes the parties' bargain. Note the bonding exception carefully: the 5% cap does not apply \"if the original contractor or the subcontractor fails to provide a performance bond issued by a surety acceptable to the owner or original contractor if requested to do so\" -- a party that declines a requested bond loses the statutory cap's protection. And § 29-115(1) limits the whole section to contracts \"entered into on or after July 1, 1990\" between OWNERS and ORIGINAL CONTRACTORS for PRIVATE work -- a public-works contract, or an earlier contract, is outside this section's text.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-115",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-115",
+            "quote": "the retention proceeds withheld by the owner from the original contractor or by the original contractor from any subcontractor from any payment shall not exceed five percent (5%) of the payment and in no event shall the total retention withheld exceed five percent (5%) of the contract price.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-115",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-115",
+            "quote": "Any contract relating to the construction of any private work of improvement in Idaho, including contracts entered into by the original contractor, any subcontractor, and anyone furnishing materials, equipment, or services in construction of such improvement, shall be subject to the laws of Idaho. Such contract shall not require litigation, arbitration, or another dispute resolution process to occur in another state or country.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-115",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-115",
+            "quote": "It shall be against public policy for any party to require any other party to waive any provision of this statute.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 29-115 read in full (subsections 1-7), including the 2025 amendment noted in its history line (am. 2025, ch. 34, sec. 1). HONEST NEGATIVE: a full-text scan of all 35,820 published docketx/us-caselaw-id opinions for \"29-115\" returned ZERO matches -- no Idaho appellate opinion in this corpus construes this section at all. This row is therefore statute-only, stated plainly rather than papered over with an off-point or predecessor-statute case; it is the one family in this pass with no confirming litigation found anywhere in the corpus."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "statute-of-frauds",
+    "rule_id": "id-9-505-list-plus-50k-credit-clause-and-ucc-2-201-side-by-side",
+    "question": "Does this contract need to be in writing to be enforceable in Idaho?",
+    "rule": "Only if it falls on Idaho's statutory list -- otherwise an oral contract is fully enforceable (Idaho Code § 29-105: \"All contracts may be oral except such as are specially required by statute to be in writing.\"). The list requiring a signed writing is Idaho Code § 9-505: (1) an agreement not to be performed within a year of its making; (2) a special promise to answer for the debt, default or miscarriage of another (subject to the original-obligation exception in § 9-506); (3) an agreement made upon consideration of marriage, other than a mutual promise to marry; (4) a lease longer than one year, or a sale, of real property or an interest in it -- \"such agreement, if made by an agent of the party sought to be charged, is invalid, unless the authority of the agent be in writing, subscribed by the party sought to be charged\"; and, distinctively, (5) \"A promise or commitment to lend money or to grant or extend credit in an original principal amount of fifty thousand dollars ($50,000) or more, made by a person or entity engaged in the business of lending money or extending credit.\" Idaho courts apply the list as written. In Campbell v. Parkway Surgery Center (2015) the Supreme Court treated a new employer's oral promise to pay the employee's loan as a promise within § 9-505(2) that was nonetheless enforceable under § 9-506(3), because the promise directly benefited the promisor; in Bailey v. Peritus I Assets Management (2017) it vacated a summary judgment that had rested on § 9-505(2), holding that the subsection reaches a collateral promise to assume another's debt and not an allegation that two parties are jointly liable as original obligors; and in 616 Inc. v. Mae Properties (2023) it applied § 9-505(4) to an alleged lease exceeding one year and affirmed that the writings conveyed no leasehold. Von Wandruszka v. City of Moscow (2024) touches § 9-505(2) only second-hand, recounting Justice Bistline's 1989 concurrence in City of Grangeville, which \"cited Idaho Code section 9-505(2) to show that 'a promise to answer for the debt of another [has] to be in writing.'\" For a sale of GOODS, Idaho's UCC carries its own, separate writing requirement at Idaho Code § 28-2-201(1): a contract for goods priced at $500 or more \"is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought.\"",
+    "trap": "§ 9-505's $50,000 lender-promise clause (item 5) is not found in most other states' general statute-of-frauds lists and is easy to miss when importing a form from elsewhere -- an oral commitment to lend or extend $50,000 or more by a person or entity in the lending business is unenforceable in Idaho even though the same oral promise would be enforceable in a state whose statute stops at real property, suretyship, marriage and one-year agreements. Separately, § 9-505 and UCC § 28-2-201 are two independent, freestanding statutes that were not read here as cross-referencing or excluding each other -- unlike some states that expressly carve UCC sales out of the general statute of frauds, nothing in the text of § 9-505 read for this rule says it does not apply to a goods contract, so a goods sale above $500 plausibly has to satisfy BOTH § 9-505 (if, for example, the goods sale is also not to be performed within a year) and § 28-2-201's own writing rule; this is recorded as an open interplay question, not resolved from memory. Section 9-506 is a real escape hatch for the suretyship clause specifically -- a promise that is in substance an ORIGINAL obligation of the promisor (the classic example: the promisor received the other party's property and promised to apply it, or the promise is really for the promisor's own benefit) \"is deemed an original obligation of the promisor, and need not be in writing\" -- but nothing read here extends that escape to the real-property or $50,000-credit branches.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-105",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-105",
+            "quote": "All contracts may be oral except such as are specially required by statute to be in writing.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 9-505",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_9-505",
+            "quote": "An agreement for the leasing, for a longer period than one (1) year, or for the sale, of real property, or of an interest therein, and such agreement, if made by an agent of the party sought to be charged, is invalid, unless the authority of the agent be in writing, subscribed by the party sought to be charged.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 9-505",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_9-505",
+            "quote": "A promise or commitment to lend money or to grant or extend credit in an original principal amount of fifty thousand dollars ($50,000) or more, made by a person or entity engaged in the business of lending money or extending credit.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-201",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-201",
+            "quote": "Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by his authorized agent or broker.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "554 P.3d 603",
+        "name": "Von Wandruszka v. City of Moscow",
+        "court": "id-idaho",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "0f2bc07d3e05fd6f",
+            "cl_opinion_id": "11199302",
+            "quote": "He cited Idaho Code section 9-505(2) to show that “a promise to answer for the debt of another [has] to be in writing.”",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "554 P.3d 603",
+        "name": "Von Wandruszka v. City of Moscow",
+        "court": "id-idaho",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "0f2bc07d3e05fd6f",
+            "cl_opinion_id": "11199302",
+            "quote": "Justice Bistline wrote a separate concurrence to address “whether a landlord can be held responsible for a debt which is incurred by some other person.” Id. at 539, 777 P.2d at 1212 (Bistline, J., concurring). He cited Idaho Code section 9-505(2) to show that “a promise to answer for the debt of another [has] to be in writing.”",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 9-506",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_9-506",
+            "quote": "is deemed an original obligation of the promisor, and need not be in writing",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "354 P.3d 1172",
+        "name": "Campbell v. Parkway Surgery Center, LLC",
+        "court": "id-idaho",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "480b4b78b2f6d6c2",
+            "cl_opinion_id": "9818907",
+            "quote": "Idaho Code section 9-505 requires certain agreements to be in writing to be enforceable.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "354 P.3d 1172",
+        "name": "Campbell v. Parkway Surgery Center, LLC",
+        "court": "id-idaho",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "480b4b78b2f6d6c2",
+            "cl_opinion_id": "9818907",
+            "quote": "Applying these principles, both the magistrate court and the district court concluded that the statute of frauds did not apply in this case. We agree. The agreement between Parkway and Campbell undoubtedly falls under Idaho Code section 9-506(3) as an exception to the statute of frauds.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "354 P.3d 1172",
+        "name": "Campbell v. Parkway Surgery Center, LLC",
+        "court": "id-idaho",
+        "decided": "2015",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "480b4b78b2f6d6c2",
+            "cl_opinion_id": "9818907",
+            "quote": "Because Parkway’s promise to answer for Campbell’s loan obligation directly benefited Parkway, the promise falls under Idaho Code section 9-506(3) as an exception to the statute of frauds.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "398 P.3d 191",
+        "name": "Bailey v. Peritos I Assets Management, LLC",
+        "court": "id-idaho",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "92b4eaac84424a19",
+            "cl_opinion_id": "4185564",
+            "quote": "The district court found that the statute of frauds, Idaho Code section 9-505(2), barred Bailey’s breach of contract claim against Peritus and granted summary judgment to Peritus.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "398 P.3d 191",
+        "name": "Bailey v. Peritos I Assets Management, LLC",
+        "court": "id-idaho",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "92b4eaac84424a19",
+            "cl_opinion_id": "4185564",
+            "quote": "Section 9-505(2) does not apply here. The allegations in this case are not that a collateral promise was made to assume the debt of another, but instead that multiple debtors are jointly liable for an original obligation as principals.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "398 P.3d 191",
+        "name": "Bailey v. Peritos I Assets Management, LLC",
+        "court": "id-idaho",
+        "decided": "2017",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "92b4eaac84424a19",
+            "cl_opinion_id": "4185564",
+            "quote": "We vacate the district court’s judgment granting summary judgment to Peritus on Bailey’s breach of contract claim and remand this case for proceedings consistent with this opinion.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 49190 (Idaho Feb. 8, 2023)",
+        "name": "616 Inc. v. Mae Properties, LLC",
+        "court": "id-idaho",
+        "decided": "2023",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "cfd7e8933ee0c951",
+            "cl_opinion_id": "9637454",
+            "quote": "because the term of the alleged lease at issue exceeds one year, the Statute of Frauds requires that the contract be memorialized in writing and “subscribed by the party sought to be charged[,]” or it is “invalid” and unenforceable, i.e., the contract does not convey the leasehold interest.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-22",
+    "status": "verified",
+    "notes": "§§ 9-501 through 9-508 (Title 9, Chapter 5, \"Indispensable Evidence -- Statute of Frauds\") read as one chapter; § 28-2-201 read in full. A DISTINCTIVE FINDING: item (5) of § 9-505, the $50,000 lender/credit-promise writing requirement, was added by amendment (history line shows am. 1993, am. 1996) and is a genuinely unusual feature of Idaho's general statute of frauds among the states this store has covered so far -- most states' general lists track the classic categories (year, suretyship, marriage, real property) without a specific-dollar lending clause. HONEST OPEN QUESTION: whether § 9-505 and § 28-2-201 apply cumulatively to a single goods transaction that also falls within one of § 9-505's own categories (e.g., a goods sale not to be performed within a year) was not resolved by any authority read for this row and is not answered here. HONEST NEGATIVE: no Idaho appellate opinion read for this row construes § 9-505(4)'s real-property-agent-authority clause specifically; McLaughlin v. Moore (2025) and Crow v. Crow (2025) both quote and apply § 9-505(4) to real-property sales but their own citations do not yet resolve to a reporter volume/page in this corpus snapshot (both too recent), so neither is cited as a formal authority here. AUDIT 2026-09-22 (full read of the Idaho pack): the rule said 'Idaho courts apply § 9-505 as written and in real disputes' and cited Von Wandruszka; that opinion is recounting a 1989 concurrence, not applying § 9-505. Rewritten to say so. §§ 9-505, 9-506, 29-105 and 28-2-201 read whole and match. OVERSTATED (L). QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): § 9-506 was quoted with no block; added. CORPUS-CLAIM SWEEP 2026-09-22: WRONG (H). The rule said 'No Idaho opinion applying § 9-505 to a disputed oral contract was located' and that Von Wandruszka was 'the only corpus opinion found touching § 9-505(2)'. A full-text scan of docketx/us-caselaw-id (35,820 rows) for the bare section number returns Idaho Supreme Court and Court of Appeals opinions applying § 9-505 to disputed oral agreements directly -- among them Campbell v. Parkway Surgery Center (2015, § 9-505(2) and the § 9-506(3) original-obligation exception applied to an oral promise to pay an employee's loan), Bailey v. Peritus I Assets Management (2017, summary judgment resting on § 9-505(2) vacated as the statute was inapplicable), 616 Inc. v. Mae Properties (2023, § 9-505(4) applied to an alleged lease exceeding one year), Katseanes v. Yamagata (Ct. App. 1985, the one-year clause), Crittenden v. Crane (Ct. App. 1984, conveyance of realty) and Graham Capital v. Simpson (1995, § 9-505(5) agent's written authority). Both sentences removed and the row pulled to partial pending the corrected restatement with those authorities read and quoted. RESTORED 2026-09-22: Campbell v. Parkway Surgery Center, 158 Idaho 957, 354 P.3d 1172 (2015) (row 480b4b78b2f6d6c2; magistrate and district court held the statute of frauds inapplicable under § 9-506(3), 'We agree'; judgment affirmed in part, reversed in part and remanded -- the statute-of-frauds ruling is the affirmed part), Bailey v. Peritus I Assets Management, 162 Idaho 458, 398 P.3d 191 (2017) (row 92b4eaac84424a19; summary judgment resting on § 9-505(2) vacated and remanded, the Court holding § 9-505(2) reaches a collateral promise to assume another's debt, not joint original liability, and that indefinite-term employment contracts generally do not trigger the statute) and 616 Inc. v. Mae Properties, No. 49190 (Idaho Feb. 8, 2023) (row cfd7e8933ee0c951, no reporter cite in the citation map; § 9-505(4) applied to an alleged lease exceeding one year; affirmed) read in the passages quoted and their dispositions, added as authorities; the rule now says Idaho courts apply the list as written and keeps Von Wandruszka as the second-hand mention it is. Reporter cites for Campbell and Bailey come from the CourtListener citation map (clusters 3133218 and 4408311). The corpus row title spells the respondent 'Peritos' (CourtListener); the opinion text and the reporter spell it 'Peritus'; the authority name follows the row title so the index check agrees, the prose follows the opinion."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "id-itsa-48-801-definition-48-806-contract-remedies-preserved",
+    "question": "Does the Idaho Trade Secrets Act displace our confidentiality/NDA clause, or does a trade-secret claim exist alongside a contract claim?",
+    "rule": "The Idaho Trade Secrets Act displaces overlapping TORT and restitution claims for trade-secret misappropriation, but expressly leaves CONTRACT remedies untouched. Idaho Code § 48-801(5) defines the protected subject matter: a trade secret is information that \"(a) Derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use; and (b) Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.\" Basic American, Inc. v. Shatila confirms the operative burden: \"In order to prevail in a misappropriation action under the ITSA, the plaintiff must show that a trade secret actually existed.\" The displacement/preservation split is Idaho Code § 48-806: \"Except as provided in subsection (2) of this section, this chapter displaces conflicting tort, restitutionary, and other law of this state providing civil liability remedies for misappropriation of a trade secret,\" but \"[t]his chapter does not affect: (a) Contractual remedies, whether or not based upon misappropriation of a trade secret.\"",
+    "trap": "§ 48-806's contract-remedies carve-out means a confidentiality or non-disclosure clause survives the ITSA's displacement of overlapping tort law even where the underlying information also happens to be a trade secret -- the drafter does not lose a breach-of-contract theory just because the same facts could also support (or fail to support) an ITSA misappropriation claim; Basic American itself notes the trial court's decision \"was based almost entirely on the misappropriation theory\" even though the complaint also pleaded breach of contract. Do not assume the ITSA's displacement reaches confidentiality obligations over information that is NOT a trade secret under § 48-801(5)'s two-part test -- unlike some other states' trade secrets acts, this rule found no Idaho statute expressly saving an UNLIMITED-DURATION confidentiality covenant tied to trade secrets from a reasonableness or durational challenge (contrast Montana's § 8(b)(1)-style saving clause, noted in this store's Montana rows); that specific durational-savings question was searched for and not found answered by any statute read here. Damages under the ITSA are themselves capped in a distinctive way: § 48-803(2) allows exemplary damages \"in an amount not exceeding twice any award\" of actual-loss/unjust-enrichment/reasonable-royalty damages under subsection (1) -- a 2x cap, not an open-ended punitive remedy.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 48-801",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_48-801",
+            "quote": "(a) Derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use; and (b) Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 48-806",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_48-806",
+            "quote": "Except as provided in subsection (2) of this section, this chapter displaces conflicting tort, restitutionary, and other law of this state providing civil liability remedies for misappropriation of a trade secret.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 48-806",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_48-806",
+            "quote": "This chapter does not affect: (a) Contractual remedies, whether or not based upon misappropriation of a trade secret; or",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "992 P.2d 175",
+        "name": "Basic American, Inc. v. Shatila",
+        "court": "id-idaho",
+        "decided": "1999",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "29444b6761c903d3",
+            "cl_opinion_id": "1197055",
+            "quote": "In order to prevail in a misappropriation action under the ITSA, the plaintiff must show that a trade secret actually existed.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 48-803",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_48-803",
+            "quote": "If willful and malicious misappropriation exists, the court may award exemplary damages in an amount not exceeding twice any award made under subsection (1) of this section.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§§ 48-801 through 48-807 (the whole Idaho Trade Secrets Act) read in full. Basic American read in the surrounding pages (a 70,467-character opinion; the misappropriation-theory framing quoted in the trap is drawn from its procedural-background discussion of the complaint's dual contract/ITSA theories). Trumble v. Farm Bureau (2019) and La Bella Vita v. Shuler (2015/2018) were also read and apply the same § 48-801(5) definition and Basic American's \"actually existed\" standard; not cited as formal authorities to keep the row focused on the Supreme Court's own controlling statement. HONEST NEGATIVE, stated in the trap: no Idaho statute read for this row extends a UTSA-style durational savings clause to a confidentiality covenant tied to information that is a trade secret -- § 48-806 preserves contract remedies generally but was not read as speaking to durational reasonableness specifically. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): § 48-803(2) was quoted with no block; added."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "unconscionability",
+    "rule_id": "id-2-302-procedural-plus-substantive-commercial-setting-and-superior-bargaining-power",
+    "question": "Can this clause be struck down as unconscionable even though our contract does not involve a consumer?",
+    "rule": "Yes -- Idaho's unconscionability statute is not limited to consumer transactions. Idaho Code § 28-2-302(1): \"If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.\" § 28-2-302(2) requires the parties be given \"a reasonable opportunity to present evidence as to its commercial setting, purpose and effect\" once unconscionability is claimed or appears. Walker v. American Cyanamid Co. supplies Idaho's operative two-part test, applied to strike a limitation-of-liability clause on a seed-treatment product label: \"Substantive unconscionability asks whether, at the time the contract was executed, and in light of the general background and commercial needs of a particular case, the clause is so one-sided as to oppress or unfairly surprise one of the parties,\" while procedural unconscionability looks to factors including \"the commercial setting, purpose, and effect of the [provision]\" together with disparity in bargaining power, ambiguity, and the drafter's superior knowledge.",
+    "trap": "Unconscionability in Idaho is assessed \"at the time [the contract] was made\" -- and Walker quotes the section's own comment 1 in support -- so evidence of how the clause played out later, or how unfair its result feels in hindsight, is not by itself the statutory test; the focus is the bargain as struck. Walker also shows unconscionability is NOT a purely consumer-protective doctrine -- the buyer there was a commercial farming operation, not an individual consumer, and the Idaho Supreme Court still found the clause both procedurally and substantively unconscionable based on superior seller knowledge, lack of a real alternative, and the clause's ambiguity. Do not conflate the general § 28-2-302 UCC-sales standard with the DIFFERENT, express unconscionability carve-out for consequential-damages limitations in consumer-goods personal-injury cases under § 28-2-719(3) (covered in this store's limitation-of-remedy row) -- § 28-2-302 is the general doctrine; § 28-2-719(3) is a narrower, damages-specific rule with its own asymmetric consumer/commercial presumption.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-302",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-302",
+            "quote": "If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "948 P.2d 1123",
+        "name": "Walker v. American Cyanamid Co.",
+        "court": "id-idaho",
+        "decided": "1997",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d02da641295340f4",
+            "cl_opinion_id": "1124975",
+            "quote": "Substantive unconscionability asks whether, at the time the contract was executed, and in light of the general background and commercial needs of a particular case, the clause is so one-sided as to oppress or unfairly surprise one of the parties.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "948 P.2d 1123",
+        "name": "Walker v. American Cyanamid Co.",
+        "court": "id-idaho",
+        "decided": "1997",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d02da641295340f4",
+            "cl_opinion_id": "1124975",
+            "quote": "Comment 1 to the official text of I.C. § 28-2-302 states, in part: This section is intended to allow the court to pass directly on the unconscionability of the contract or particular clause therein and to make a conclusion of law as to its unconscionability.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "948 P.2d 1123",
+        "name": "Walker v. American Cyanamid Co.",
+        "court": "id-idaho",
+        "decided": "1997",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "d02da641295340f4",
+            "cl_opinion_id": "1124975",
+            "quote": "The fact that Cyanamid had superior knowledge concerning ASSERT and made representations concerning its safety coupled with the fact that the label is ambiguous and with the lack of Walker’s bargaining power to negotiate concerning the limitation of liability lead us to conclude that the limitation of liability provision is procedurally unconscionable.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-719",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-719",
+            "quote": "Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 28-2-302 read in full (subsections 1-2). Walker read in the surrounding pages, including its procedural-unconscionability findings (superior knowledge, lack of alternative, ambiguous label language) and its statement that Idaho courts give the UCC's official comments \"substantial weight.\" Lovey v. Regence BlueShield of Idaho (2003, Ct. App.) and M & H Rentals, Inc. v. Sales (1985, Ct. App.) were also read and apply § 28-2-302 to insurance and equipment-lease disputes respectively; not cited as formal authorities to keep the row focused on the Supreme Court's own controlling statement of the test. AUDIT 2026-09-22 (full read of the Idaho pack): Walker read at the facts (Walker Farms, a grain and potato grower), the procedural holding (superior knowledge, ambiguity, no bargaining power -- now quoted), the substantive holding (unfair surprise from ambiguity) and the disposition (affirmed). CORRECT. QUOTE SWEEP 2026-09-22 (every quoted phrase in rule/trap checked against the cited authorities' full text): the trap quoted Walker's comment as saying 'existing at the time of the making of the contract'; those words are not in the opinion. Removed. UNSUPPORTED (L). PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): § 28-2-719(3) read (IDC_28-2-719); block added."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "usury",
+    "rule_id": "id-28-22-104-12pct-default-contract-rate-5pct-plus-base-judgment-rate",
+    "question": "What interest rate applies to money owed under our contract if the contract itself does not fix a rate?",
+    "rule": "12% per year, by default, whenever the contract does not fix a different rate in an express written agreement. Idaho Code § 28-22-104(1): \"When there is no express contract in writing fixing a different rate of interest, interest is allowed at the rate of twelve cents (12¢) on the hundred by the year\" on money due by express contract, money after it becomes due, money lent, money received to another's use and retained beyond a reasonable time, money due on a settled mutual account, and money due on an open account after three months from the last item. A DIFFERENT, separate rate applies once a court enters JUDGMENT: § 28-22-104(2) sets the legal rate on a judgment at \"five percent (5%) plus the base rate in effect at the time of entry of the judgment,\" with the base rate reset annually every July 1 by the state treasurer from the one-year U.S. Treasury constant-maturity yield, rounded up to the nearest 1/8%, and applied on a 365-day-year basis.",
+    "trap": "The two rates in § 28-22-104 answer two different questions and are not interchangeable -- subsection (1)'s 12% is a PRE-JUDGMENT default that a written contract can displace by fixing its own rate; subsection (2)'s 5%-plus-base-rate is the POST-JUDGMENT rate that applies to the judgment itself once entered, set annually and NOT displaced by the parties' contract rate. A contract that is silent on interest, or that fixes a rate only informally (not in an express WRITING), falls back to the 12% default under subsection (1) even if the parties otherwise understood a different rate -- the statute's own text requires the different rate to be fixed by an \"express contract in writing.\" Note also that subsection (1)'s open-account rule has its own three-month trigger (\"Money due upon open accounts after three (3) months from the date of the last item\") -- interest on an open account does not start running from the account's inception.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-22-104",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-22-104",
+            "quote": "When there is no express contract in writing fixing a different rate of interest, interest is allowed at the rate of twelve cents (12¢) on the hundred by the year on:",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-22-104",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-22-104",
+            "quote": "The legal rate of interest on money due on the judgment of any competent court or tribunal shall be the rate of five percent (5%) plus the base rate in effect at the time of entry of the judgment.",
+            "checked": "2026-09-21"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 28-22-104 read in full (subsections 1-2 and the six items under subsection 1). A full-text scan of docketx/us-caselaw-id for \"28-22-104\" found dozens of real applications (e.g., Bronco Elite Arts & Athletics, LLC v. 106 Garden City, LLC, 2023, applying the 12% rate to a prejudgment-interest calculation; York v. Kemper Northwest, Inc., 2026, applying subsection (2)'s post-judgment rate; Maciosek v. Dow, 2026, and Hepworth v. Hepworth, 2021, distinguishing subsections (1) and (2)) -- none of these opinions' own citations resolve to a reporter volume/page in this corpus snapshot (Bronco Elite: cluster id 9421717 returns no citation-map entry; the 2026 opinions are too recent), so none is added as a formal authority here; this row is statute-only, and the trap above is drawn directly from the statute's own two-subsection structure rather than from any case's gloss. AUDIT 2026-09-22 (full read of the Idaho pack): § 28-22-104 read whole; (1) items 1-6 and (2) match the rule and trap. CORRECT."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "venue-selection",
+    "rule_id": "id-29-110-1-forum-clause-void-if-restricts-suing-in-idaho-tribunals",
+    "question": "Will Idaho enforce this clause requiring disputes to be litigated or arbitrated in another state's courts?",
+    "rule": "No, if enforcing it would restrict a party from enforcing its rights in Idaho tribunals or would require the dispute to be resolved outside Idaho. Idaho Code § 29-110(1): \"Every stipulation or condition in a contract, by which any party thereto is restricted from enforcing his rights under the contract in Idaho tribunals, or which limits the time within which he may thus enforce his rights, is void as it is against the public policy of Idaho. Nothing in this section shall affect contract provisions relating to arbitration so long as the contract does not require arbitration to be conducted outside the state of Idaho.\" Idaho courts apply this as a real, litigated bar on out-of-state forum and arbitration-situs clauses, not a dead letter: T3 Enterprises, Inc. v. Safeguard Business Systems, Inc. held that \"because enforcement of the parties' Dallas forum selection clause would contravene the strong public policy articulated in Idaho Code section 29-110(1), the forum selection clause is unenforceable under Texas law\" -- applying § 29-110(1)'s public policy even though the CONTRACT chose Texas law to govern. Off-Spec Solutions, LLC v. Transportation Investors LLC reached the same result applying California's own conflicts rule that a forum clause is unenforceable if it would contravene a strong public policy of the forum where suit is brought: \"we hold that Idaho Code section 29-110(1) constitutes a strong public policy that is sufficient to invalidate the forum selection clauses,\" and \"the parties cannot simply 'choose' to apply the law of another state to avoid\" it.",
+    "trap": "§ 29-110(1)'s arbitration carve-out cuts BOTH ways and is easy to misread: the section does not touch an arbitration clause as such, but it does void an arbitration clause that requires the arbitration itself to happen outside Idaho -- so \"arbitrate in Dallas\" is caught by the statute even though \"arbitrate\" alone is not. Do not assume a foreign CHOICE-OF-LAW clause insulates an out-of-state forum or arbitration-situs clause from § 29-110(1) -- T3 Enterprises applied Idaho's public policy under the chosen state's OWN conflicts doctrine (Texas law asks whether enforcement would contravene a strong public policy of the forum where suit is brought), so picking another state's law to govern the contract does not by itself avoid the Idaho statute if suit ends up brought in Idaho. Frizzell v. DeYoung (2018) is a reminder the statute reaches more than forum-selection clauses on their face: citing § 29-110, the Court held that \"to the extent the TEDRA agreement purported to hold Edwin harmless for claims of future negligence and breaches of fiduciary duty, such portions of the agreement are void as against public policy.\" This rule's statute is distinct from the FRANCHISE-specific venue/choice-of-law rule in § 29-110(2), covered separately.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 29-110",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_29-110",
+            "quote": "Every stipulation or condition in a contract, by which any party thereto is restricted from enforcing his rights under the contract in Idaho tribunals, or which limits the time within which he may thus enforce his rights, is void as it is against the public policy of Idaho. Nothing in this section shall affect contract provisions relating to arbitration so long as the contract does not require arbitration to be conducted outside the state of Idaho.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "435 P.3d 518",
+        "name": "T3 Enters., Inc. v. Safeguard Bus. Sys., Inc.",
+        "court": "id-idaho",
+        "decided": "2019",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "ac96e34fb4fb26c5",
+            "cl_opinion_id": "6535650",
+            "quote": "In sum, because enforcement of the parties' Dallas forum selection clause would contravene the strong public policy articulated in Idaho Code section 29-110(1), the forum selection clause is unenforceable under Texas law.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 47940 (Idaho May 19, 2021)",
+        "name": "Off-Spec Solutions LLC v. Transportation Investors LLC",
+        "court": "id-idaho",
+        "decided": "2021",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "c8e63c3d266573aa",
+            "cl_opinion_id": "11199385",
+            "quote": "Therefore, we hold that Idaho Code section 29-110(1) constitutes a strong public policy that is sufficient to invalidate the forum selection clauses in the purchase agreement and the LLC agreement.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 47940 (Idaho May 19, 2021)",
+        "name": "Off-Spec Solutions LLC v. Transportation Investors LLC",
+        "court": "id-idaho",
+        "decided": "2021",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "c8e63c3d266573aa",
+            "cl_opinion_id": "11199385",
+            "quote": "First, the parties cannot simply “choose” to apply the law of another state to avoid the strong public policy articulated in Idaho Code section 29-110(1).",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "No. 44975 (Idaho Apr. 4, 2018)",
+        "name": "Frizzell v. DeYoung",
+        "court": "id-idaho",
+        "decided": "2018",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "a78dd0e7a32df542",
+            "cl_opinion_id": "4261268",
+            "quote": "In this case, to the extent the TEDRA agreement purported to hold Edwin harmless for claims of future negligence and breaches of fiduciary duty, such portions of the agreement are void as against public policy.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 29-110 read in full (subsections 1-3). T3 Enterprises read in the surrounding pages; the apostrophe in \"parties'\" is transcribed exactly as it appears in the row's own text (a straight apostrophe, unlike the curly apostrophes used elsewhere in the same opinion -- a genuine inconsistency in the source text, kept verbatim per the verifier's whitespace-only normalisation rule). Off-Spec Solutions, LLC v. Transportation Investors LLC (2021, row c8e63c3d266573aa) was also read in full and reaches the same result applying California's own forum-non-conveniens-adjacent public-policy doctrine, quoting § 29-110(1) in full and citing T3 Enterprises for the \"strong public policy\" holding -- not added as a second formal authority because its own citation does not yet resolve to a reporter volume/page in this corpus snapshot. Cerami-Kote, Inc. v. Energywave Corp. (1989, 773 P.2d 1143, 116 Idaho 56) is the earliest case T3 itself cites for this proposition and was not independently re-verified for this row. Fisk v. Royal Caribbean Cruises, Ltd. (2005) and Frizzell v. DeYoung (2018) were also read and apply § 29-110 in cruise-ticket and fiduciary-release contexts respectively; not cited as formal authorities to keep the row focused. AUDIT 2026-09-22 (full read of the Idaho pack): Off-Spec and Frizzell were named with no authority block. Both located by name in the corpus (neither carries a reporter citation in the corpus; cited by docket and date), read at the holding, and quoted. T3's 'unenforceable under Texas law' sentence re-read in context. UNSUPPORTED (L) x2, fixed."
+  },
+  {
+    "jurisdiction": "id",
+    "clause": "warranty-disclaimer",
+    "rule_id": "id-2-316-conspicuous-merchantability-or-as-is-alternate-route",
+    "question": "Does this \"AS IS\" / warranty-disclaimer clause validly exclude Idaho's implied warranties?",
+    "rule": "Yes, through either of TWO independent routes under Idaho Code § 28-2-316, and a drafter only needs one. Route one, § 28-2-316(2): to exclude the implied warranty of merchantability, \"the language must mention merchantability and in case of a writing must be conspicuous,\" and to exclude the implied warranty of fitness, \"the exclusion must be by a writing and conspicuous.\" Route two, § 28-2-316(3)(a), works WITHOUT mentioning merchantability at all: \"unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like 'as is,' 'with all faults' or other language which in common understanding calls the buyer's attention to the exclusion of warranties and makes plain that there is no implied warranty.\" Haight v. Dale's Used Cars, Inc. confirms both routes operate independently: \"Although a warranty exclusion clause must be conspicuous and must contain a specific reference to 'merchantability' in order to exclude the warranty of merchantability under I.C. § 28-2-316(2), the warranty may also be excluded under I.C. § 28-2-316(3)(a) without mentioning merchantability.\"",
+    "trap": "Do not assume a disclaimer that fails the conspicuous-and-mentions-merchantability test of subsection (2) has failed to exclude the warranty -- Haight affirmed a judgment for the dealer over a trial court that had made exactly that mistake. The trial court held the merchantability warranty not excluded because the word \"merchantability\" was not conspicuous; the Court of Appeals disagreed on conspicuousness (\"we reach a contrary conclusion\" -- the installment contract said, in bold capitals above the signature, that the Jeep was \"sold as is, with all defects, and without any warranty of fitness or merchantability\") and held that in any event, \"[e]ven if the implied warranties of merchantability and fitness had not been effectively excluded under I.C. § 28-2-316(2), they were nonetheless excluded under subsection 28-2-316(3)(a) by the 'as is' language on the buyer's guide.\" The converse trap also exists: subsection (3)(a)'s own text is qualified -- \"unless the circumstances indicate otherwise\" -- so an \"as is\" clause can still be defeated by surrounding circumstances the statute does not further define. Subsection (3)(b) is a separate, THIRD route that has nothing to do with clause drafting at all: if the buyer examined the goods (or a sample) as fully as desired, or refused an offered examination, there is no implied warranty as to defects the examination ought to have revealed -- a fact-driven route independent of any disclaimer language. Finally, remedies for breach of warranty are capped separately under §§ 28-2-718 and 28-2-719, not by § 28-2-316 itself -- a disclaimer that successfully excludes the warranty answers a different question than a limitation-of-remedy clause that assumes the warranty exists but caps the buyer's recovery.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-316",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-316",
+            "quote": "Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "Idaho Code § 28-2-316",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "IDC_28-2-316",
+            "quote": "unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like \"as is,\" \"with all faults\" or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty; and",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "87 P.3d 962",
+        "name": "Haight v. Dale's Used Cars, Inc.",
+        "court": "id-idahoctapp",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-21",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "dee8ab6226f412dd",
+            "cl_opinion_id": "2583934",
+            "quote": "Although a warranty exclusion clause must be conspicuous and must contain a specific reference to “merchantability” in order to exclude the warranty of merchantability under I.C. § 28-2-316(2), the warranty may also be excluded under I.C. § 28-2-316(3)(a) without mentioning merchantability.",
+            "checked": "2026-09-21"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "87 P.3d 962",
+        "name": "Haight v. Dale's Used Cars, Inc.",
+        "court": "id-idahoctapp",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "dee8ab6226f412dd",
+            "cl_opinion_id": "2583934",
+            "quote": "Although the district court found that the warranty exclusion language using the term “merchantability” was not conspicuous, we reach a contrary conclusion.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "87 P.3d 962",
+        "name": "Haight v. Dale's Used Cars, Inc.",
+        "court": "id-idahoctapp",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "dee8ab6226f412dd",
+            "cl_opinion_id": "2583934",
+            "quote": "Even if the implied warranties of merchantability and fitness had not been effectively excluded under I.C. § 28-2-316(2), they were nonetheless excluded under subsection 28-2-316(3)(a) by the “as is” language on the buyer’s guide.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "87 P.3d 962",
+        "name": "Haight v. Dale's Used Cars, Inc.",
+        "court": "id-idahoctapp",
+        "decided": "2003",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-id",
+            "row_id": "dee8ab6226f412dd",
+            "cl_opinion_id": "2583934",
+            "quote": "The district court’s judgment entered in favor of Dale’s and the Zooks in this action for revocation of acceptance is affirmed.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-21",
+    "status": "verified",
+    "notes": "§ 28-2-316 read in full (subsections 1-4). Haight read in the surrounding paragraphs: the Court of Appeals reversed the district court's ruling that Dale's had failed to exclude the merchantability warranty, precisely because the district court analyzed only subsection (2) and ignored subsection (3)(a)'s independent \"as is\" route -- this is the same error the 2026-09-17 audit of this store flagged for New York's ny-2-316 row (\"Only if\" denies subdivision (3) exists), so this row's rule deliberately states both routes as independent alternatives rather than a single conjunctive test. Mugavero v. A-1 Auto Sales (1997, Ct. App.) and Whitehouse v. Lange (1996, Ct. App.) were also read and apply subsections (3)(a) and (3)(b) respectively; not cited as formal authorities to keep the row focused. AUDIT 2026-09-22 (full read of the Idaho pack): the trap said Haight 'reversed a trial court' and that the disclaimer 'did not use the word merchantability'. Haight AFFIRMED the judgment for the dealer, and the installment contract said 'without any warranty of fitness or merchantability' in bold capitals -- the court disagreed with the trial court only on conspicuousness and held (3)(a) excluded the warranties in any event. Disposition and a fact described backwards; rewritten, three sentences added verbatim. OVERSTATED (H)."
+  }
+]

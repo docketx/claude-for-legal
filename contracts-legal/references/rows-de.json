@@ -1,0 +1,1742 @@
+[
+  {
+    "jurisdiction": "de",
+    "clause": "anti-assignment",
+    "rule_id": "de-9-406-anti-assignment-ineffective-but-entity-interests-carved-out",
+    "question": "Does a no-assignment clause actually stop an assignment of receivables, or of an interest in a Delaware LLC or partnership?",
+    "rule": "For accounts, chattel paper, payment intangibles and promissory notes, Delaware's Article 9 makes the clause ineffective: a term in an agreement between an account debtor and an assignor, or in a promissory note, that prohibits, restricts or requires consent to the assignment or transfer of, or the creation, attachment, perfection or enforcement of a security interest in, that collateral, or that makes the assignment a default, breach, right of recoupment, claim, defence, termination or remedy, has no effect (except as provided in subsection (e) and Sections 2A-303 and 9-407, and subject to subsection (h)). Subsection (i) takes whole categories out of the section entirely, including an interest in a trust governed by Delaware law and an interest in a partnership or limited liability company.",
+    "trap": "The override stops at entity and trust interests. Section 9-406(i)(5) says the section does not apply to 'an interest in a partnership or limited liability company', and (i)(4) does the same for an interest in a trust to the extent Delaware law governs it. So a transfer restriction in an LLC or LP agreement is NOT rendered ineffective by 9-406 and must be dealt with on its own terms, while the same clause in a supply contract covering receivables is dead letter. Subsection (d) also does not reach the sale of a payment intangible or promissory note (subsection (e)), and subsection (h) leaves consumer obligations of individuals to other law.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_9_406",
+            "quote": "a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective to the extent that it: (1) prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, the account, chattel paper, payment intangible, or promissory note;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 9-406",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_9_406",
+            "quote": "(4) an interest in a trust, including any right or power of a beneficiary (including a settlor) or owner of a trust, arising under a governing instrument (as defined in Section 3301(e) of Title 12), Title 12, or other applicable law, to the extent that Delaware law governs such interest; or (5) an interest in a partnership or limited liability company.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "Both quotes are from the same published section (docketx/us-statutes row DE_6_9_406), read in full on 2026-09-16; the second is from subsection (i), the inapplicability list. Delaware statutes are published by us but not served through our retrieval index, so no rank or retrievability is claimed. CORRECTED IN REVIEW 2026-09-16: the trap called the partnership/LLC exclusion Delaware's own ('The override that a lender relies on everywhere else stops exactly where Delaware's signature assets begin') and the notes said Texas § 9.406 has 'no partnership/LLC/trust carve-out of this kind'. That is false: the published Texas row (docketx/us-statutes tx-stat_c2c0b8d10bc524ef) reads '(j) This section does not apply to an interest in a partnership or limited liability company.' The comparison is removed. Of the two, only the Delaware-governed-trust exclusion in (i)(4) was not found in the Texas section (a grep of that row for 'trust' returns nothing); no other state was compared. The full Delaware row was re-read: (i)(1)-(3) also exclude health-care-insurance receivables, personal-injury compensation claims under 26 U.S.C. § 104(a)(1)-(2) and special-needs-trust benefits, and (k) switches off subsections (a), (b), (c) and (g), not (d), for a controllable account or controllable payment intangible. We hold no effective date for this section."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "arbitration",
+    "rule_id": "de-5701-arbitration-and-willie-gary-delegation",
+    "question": "Will Delaware enforce this arbitration clause, and who decides whether a given dispute is arbitrable?",
+    "rule": "A written agreement to arbitrate a controversy existing at or arising after the effective date of the agreement is valid, enforceable and irrevocable except on grounds that would revoke any contract, and it confers jurisdiction on the Court of Chancery to enforce the agreement and enter judgment on an award; the court may not consider whether the claim is tenable or otherwise pass on the merits. On WHO decides arbitrability, Delaware follows the federal rule that courts decide substantive arbitrability unless there is clear and unmistakable evidence otherwise, and holds that a reference to the AAA rules is such evidence -- but only where the clause generally refers ALL disputes to arbitration as well as incorporating rules that empower the arbitrator to decide arbitrability.",
+    "trap": "The Willie Gary two-part test punishes the most common drafting habit in commercial agreements: a broad AAA arbitration clause with a carve-out letting a party run to court for injunctive relief or specific performance. In Willie Gary the clause began by sending 'any controversy or claim arising out of or relating to this Agreement' to AAA arbitration and then preserved court access for injunctions and specific performance; because not all disputes went to arbitration, the AAA reference no longer delegated arbitrability and the COURT decided it. Also note the forum: § 5701 vests enforcement in the Court of Chancery, not the Superior Court. And one whole category is outside the chapter by its own words: 10 Del. C. § 5725 provides that, notwithstanding anything in the chapter to the contrary, “this chapter shall not apply to labor contracts with either public or private employers where such contracts have been negotiated by, or the employees covered thereby are represented by, any labor organization or collective bargaining agent or representative”, so a collectively bargained agreement does not get § 5701’s validity rule or the Court of Chancery jurisdiction that comes with it, however the arbitration clause is drafted.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 5701",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_5701",
+            "quote": "A written agreement to submit to arbitration any controversy existing at or arising after the effective date of the agreement is valid, enforceable and irrevocable, save upon such grounds as exist at law or in equity for the revocation of any contract, without regard to the justiciable character of the controversy, and confers jurisdiction on the Chancery Court of the State to enforce it and to enter judgment on an award.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "906 A.2d 76",
+        "name": "James & Jackson, LLC v. Willie Gary, LLC",
+        "court": "Del.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "f9d14a6ac986f25d",
+            "cl_opinion_id": "2360329",
+            "quote": "As a matter of policy, we adopt the majority federal view that reference to the AAA rules evidences a clear and unmistakable intent to submit arbitrability issues to an arbitrator. We do so in the belief that Delaware benefits from adopting a widely held interpretation of the applicable rule, as long as that interpretation is not unreasonable. The majority view does not, however, mandate that arbitrators decide arbitrability in all cases where an arbitration clause incorporates the AAA rules. Rather, it applies in those cases where the arbitration clause generally provides for arbitration of all disputes and also incorporates a set of arbitration rules that empower arbitrators to decide arbitrability.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 5725",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_5725",
+            "quote": "this chapter shall not apply to labor contracts with either public or private employers where such contracts have been negotiated by, or the employees covered thereby are represented by, any labor organization or collective bargaining agent or representative",
+            "checked": "2026-09-24"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 5701",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_5701",
+            "quote": "In determining any matter arising under this chapter, the Court shall not consider whether the claim with respect to which arbitration is sought is tenable, or otherwise pass upon the merits of the dispute. This chapter also applies to arbitration agreements between employers and employees or between their respective representatives, except as otherwise provided in § 5725 of this title.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "906 A.2d 76",
+        "name": "James & Jackson, LLC v. Willie Gary, LLC",
+        "court": "Del.",
+        "decided": "2006",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "f9d14a6ac986f25d",
+            "cl_opinion_id": "2360329",
+            "quote": "In this case, the arbitration clause begins by requiring arbitration of any controversy arising out of or relating to the LLC Agreement in accordance with the AAA rules. But it continues by expressly authorizing the nonbreaching Members to obtain injunctive relief and specific performance in the courts. Thus, despite the broad language at the outset, not all disputes must be referred to arbitration. Since this arbitration clause does not generally refer all controversies to arbitration, the federal majority rule does not apply",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17. Two assertions had no block. The rule's 'the court may not consider whether the claim is tenable or otherwise pass on the merits' and the chapter's extension to employer-employee agreements are the section's second and third sentences; the existing block held only the first. And the trap's whole mechanism -- that the carve-out for injunctions and specific performance is what stopped the AAA reference from delegating arbitrability -- was prose. That passage was read in the opinion and is now quoted. VOICE CHECKED: the row is a combined document and does contain a first-person 'I find it impossible to conclude' at offset 11971, which is not the Supreme Court; the quoted passage sits at 9374, inside the Court's own 'we adopt' analysis that begins at 8446, so it is majority text. A page marker (*81) precedes the quote and is outside it. Willie Gary is the Delaware Supreme Court (court code de-del in docketx/us-caselaw-de); the quoted passage is in the Court's own analysis, not a separate opinion (the published row is a single combined opinion). GOOD LAW CHECK 2026-09-16: 62 later Delaware opinions in our corpus mention 906 A.2d 76; the Supreme Court hits do not overrule or modify it, and the Court of Chancery continues to apply the two-part test (most recently in our data, 2026). The statute's reference to 'the Chancery Court of the State' is the published wording. REVIEW 2026-09-16: § 5701 re-read in full; its closing sentence extends the chapter to employer-employee arbitration agreements except as § 5725 provides (not read). Willie Gary re-checked: no dissent or concurrence in the row. Citing scan re-run: 62 later Delaware opinions mention 906 A.2d 76; the Supreme Court hits (e.g. Terrell v. Kiromic Biopharma (2023), Coronado Coal II (2023), Agspring (2022), Gulf LNG (2020)) carry no overruling or limiting language in the cited sentences. NOT ESTABLISHED: whether the Federal Arbitration Act, rather than § 5701, governs a given clause; we hold no effective date for § 5701. SCOPE AUDIT 2026-09-24: the REVIEW 2026-09-16 note recorded that § 5701’s closing sentence extends the chapter to employer-employee arbitration agreements ‘except as § 5725 provides (not read)’. § 5725 has now been read (row DE_10_5725, 442 characters): it is headed ‘Exclusion of collective bargaining labor contracts with public and private employers’ and excludes labor contracts negotiated by, or covering employees represented by, a labor organization or collective bargaining agent. That exclusion is now stated in the trap and carried by its own verified block. Note for anyone searching the corpus: 18 Del. C. § 5725 is a different section (insurer merger or conversion) and is not this one."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "attorney-fees",
+    "rule_id": "de-fee-shifting-enforced-but-reasonableness-reviewed-and-3912-cap",
+    "question": "Will a Delaware court enforce a prevailing-party fee clause as written, and is the amount capped?",
+    "rule": "Delaware follows the American Rule -- litigants normally pay their own costs -- and contract litigation involving a fee-shifting provision is an exception, in which a trial judge may award the prevailing party all of the costs it incurred during litigation. The amount is not automatic: in fee-shifting cases the judge must determine whether the fees requested are reasonable, assessed against the factors in Rule 1.5(a) of the Delaware Lawyers' Rules of Professional Conduct (time and labour, novelty and difficulty, whether accepting the work will preclude other employment, customary local fee, amount involved and results obtained, time limits, the professional relationship, the lawyers' experience and ability, and whether the fee is fixed or contingent), and the court should also consider whether the hours devoted to the litigation were excessive, redundant, duplicative or otherwise unnecessary. Separately, by statute, in an action to enforce a note, bond, mechanics lien, mortgage, invoice or other instrument of writing, a plaintiff who recovers judgment may recover reasonable counsel fees, but they may be entered as part of the judgment only if the instrument expressly provides for them (mechanics liens excepted), and they may not exceed 20 percent of the amount adjudged for principal and interest.",
+    "trap": "Two Delaware-specific limits sit on either side of the clause. On the statutory side, 10 Del. C. § 3912, in an action on a written instrument, requires the instrument itself to provide for fees and says the fees 'shall not in any such action, suit or proceeding, exceed 20 percent of the amount adjudged for principal and interest'. Whether a broader contractual fee clause is held to that cap, or operates independently of the statute, is NOT answered by this rule. On the award side, a literal reading is not the last word: the judge independently tests reasonableness under DLRPC 1.5(a), and Mahani affirmed a full award where the Chancellor 'correctly refused to give primary weight' to the winner's limited trial success.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "935 A.2d 242",
+        "name": "Mahani v. Edix Media Group, Inc.",
+        "court": "Del.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "35f767ac28716883",
+            "cl_opinion_id": "1436528",
+            "quote": "Under the American Rule and Delaware law, litigants are normally responsible for paying their own litigation costs. 8 An exception to this rule is found in contract litigation that involves a fee shifting provision. 9 In these cases, a trial judge may award the prevailing party all of the costs it incurred during litigation.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "935 A.2d 242",
+        "name": "Mahani v. Edix Media Group, Inc.",
+        "court": "Del.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "35f767ac28716883",
+            "cl_opinion_id": "1436528",
+            "quote": "Delaware law dictates that, in fee shifting cases, a judge determine whether the fees requested are reasonable.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "935 A.2d 242",
+        "name": "Mahani v. Edix Media Group, Inc.",
+        "court": "Del.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "35f767ac28716883",
+            "cl_opinion_id": "1436528",
+            "quote": "In weighing the factors listed in DLRPC 1.5(a), the Chancellor correctly refused to give primary weight to EDIX’s limited trial success.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 3912",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_3912",
+            "quote": "Such counsel fees shall not in any such action, suit or proceeding, exceed 20 percent of the amount adjudged for principal and interest. Such counsel fees shall not be entered as a part of such judgment unless the note, bond, mortgage, invoice or other instrument of writing sued upon, by the terms thereof, expressly provides for the payment and allowance thereof, except in the cases of mechanic’s liens in which no express agreement shall be necessary in order to entitle the lien holder to reasonable counsel fees.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 3912",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_3912",
+            "quote": "In all causes of action, suits, matters or proceedings brought for the enforcement of any note, bond, mechanics lien, mortgage, invoice or other instrument of writing, if the plaintiff or lien holder in the action, suit or proceeding recovers judgment in any sum, the plaintiff or lien holder may also recover reasonable counsel fees, which shall be entered as a part of the judgment in the action, suit or proceeding.",
+            "checked": "2026-09-27"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "935 A.2d 242",
+        "name": "Mahani v. Edix Media Group, Inc.",
+        "court": "Del.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "35f767ac28716883",
+            "cl_opinion_id": "1436528",
+            "quote": "directs a judge to consider the factors set forth in the Delaware Lawyers’ Rules of Professional Conduct, which, include: (1) the time and labor required, the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly; (2) the likelihood, if apparent to the client, that the acceptance of the particular employment will preclude other employment by the lawyer; (3) the fee customarily charged in the locality for similar legal services; (4) the amount involved and the results obtained; (5) the time limitations imposed by the client or by the circumstances; (6) the nature and length of the professional relationship with the client; (7) the experience, reputation, and ability of the lawyer or lawyers performing the services; and (8) whether the fee is fixed or contingent.",
+            "checked": "2026-09-27"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "935 A.2d 242",
+        "name": "Mahani v. Edix Media Group, Inc.",
+        "court": "Del.",
+        "decided": "2007",
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "35f767ac28716883",
+            "cl_opinion_id": "1436528",
+            "quote": "Finally, a court also should consider whether the number of hours devoted to litigation was “excessive, redundant, duplicative or otherwise unnecessary.”",
+            "checked": "2026-09-27"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-27 at the bar of the DocketX contract-law audit of 2026-09-17. The rule set out all eight DLRPC 1.5(a) factors and the previous review recorded them as 'from the same opinion's text (read, not quoted)'; the passage is now quoted from Mahani, cut to start after the *246 page marker. A second Mahani sentence is added for the reasonableness test the rule had omitted altogether -- a court also weighs whether the hours were excessive, redundant, duplicative or otherwise unnecessary -- which is the factor that most often reduces a Delaware fee award and now appears in the rule. And the § 3912 block held only the cap and the express-provision requirement, while the rule asserted the section's first sentence (a plaintiff or lien holder who recovers judgment in any sum may recover reasonable counsel fees, entered as part of the judgment); that sentence now has a block. UNCHANGED AND STILL NOT ESTABLISHED: whether a broader contractual fee clause is held to § 3912's 20 percent cap. Both Mahani quotes are from the Court's Discussion section (majority; single combined opinion). GOOD LAW CHECK 2026-09-16: 90 later Delaware opinions in our corpus cite 935 A.2d 242, none of the Supreme Court hits overruling or limiting it. The interaction between § 3912's 20% cap and a broader contractual fee clause was NOT researched to a holding in this pass -- the statute's text is quoted as it stands, and no Delaware Supreme Court case reconciling the two was read. 6 Del. C. § 3509(b) separately requires an arbitrator in a construction-payment arbitration to award the substantially prevailing party its reasonable fees absent contrary agreement (read but not relied on here; see the prompt-payment row). CORRECTED IN REVIEW 2026-09-16: the rule said a fee-shifting provision is 'an exception a court will enforce, awarding the prevailing party the costs it incurred'; Mahani says a trial judge 'may award' them, and the first quote now runs through that sentence. The trap said a clause promising 'all fees and costs' 'does not escape the cap in a suit of that kind'; that reconciliation of § 3912 with a contractual clause was never researched (these notes already said so), so it is withdrawn. § 3912 re-read in full: its first sentence allows 'reasonable counsel fees' to a plaintiff or lien holder who recovers judgment. A second Mahani quote now carries the limited-success point. Mahani re-checked: no separate opinion in the row; the DLRPC 1.5(a) factor list in the rule is from the same opinion's text (read, not quoted). Citing scan re-run: 90 later Delaware opinions mention 935 A.2d 242; no overruling or limiting language in the Supreme Court hits' cited sentences. We hold no effective date for § 3912."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "choice-of-law",
+    "rule_id": "de-2708-conclusive-presumption-of-relationship",
+    "question": "Will Delaware honour a Delaware choice-of-law clause when the deal has little else to do with Delaware?",
+    "rule": "Yes, above a dollar threshold, and by statutory fiat rather than by the usual balancing. The parties to any contract, agreement or other undertaking may agree in writing that it shall be governed by or construed under the laws of Delaware, without regard to principles of conflict of laws, or that Delaware law shall govern in whole or in part any or all of their rights, remedies, liabilities, powers and duties, provided the parties are (1) subject to the jurisdiction of the courts of, or arbitration in, Delaware, and (2) may be served with legal process. Where those conditions are met, the choice 'shall conclusively be presumed to be a significant, material and reasonable relationship with this State and shall be enforced whether or not there are other relationships with this State.' A person may also maintain an action in a Delaware court where the action arises out of or relates to such a contract. But the section 'shall not apply to any contract, agreement or other undertaking: (1) To the extent provided to the contrary in § 1-301(c) of this title; or (2) Involving less than $100,000.' The first of those exclusions is a closed list, now read: § 1-301(c) names the Uniform Commercial Code provisions whose own choice-of-law rules govern, so that a contrary agreement is effective only as far as the law they specify permits -- §§ 2-402, 2A-105 and 2A-106, 4-102, 4A-507, 5-116, 8-110, 9-301 through 9-307, and 12-107. A Delaware choice-of-law clause does not displace those.",
+    "trap": "The threshold is the trap before the presumption is: a deal worth less than $100,000 gets none of this, so the boilerplate Delaware choice-of-law clause in a small services agreement or a modest settlement falls back on ordinary conflicts analysis, where the absence of any Delaware relationship is exactly the objection § 2708 was written to foreclose. Nothing in the section says how the $100,000 is measured, and this rule does not supply an answer. The second escape hatch is narrower but sharper: § 2708 yields to § 1-301(c), which is a list of Code provisions -- bulk sales, leases, bank deposits and collections, funds transfers, letters of credit, investment securities, and the perfection and priority rules of Article 9 -- whose own applicable-law rules the clause cannot override. A secured-party client choosing Delaware law does not thereby choose Delaware's perfection rules. The other word doing the work is CONCLUSIVELY. The ordinary conflicts objection — that the chosen state has no substantial relationship to the parties or the transaction — is not weighed here, it is foreclosed by statute, which is a large part of why commercial parties with no other Delaware nexus choose Delaware law. The conditions are the price: the clause must be in WRITING and the parties must be subject to Delaware jurisdiction or arbitration and amenable to service. Compare the Texas analogue in this same store, Tex. Bus. & Com. Code § 271.005, which reaches the same place only for a defined 'qualified transaction' and is expressly subject to a list of exceptions.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2708",
+        "decided": null,
+        "verified": {
+          "source_url": "https://delcode.delaware.gov/title6/c027/sc01/index.html",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2708",
+            "quote": "(a) The parties to any contract, agreement or other undertaking, contingent or otherwise, may agree in writing that the contract, agreement or other undertaking shall be governed by or construed under the laws of this State, without regard to principles of conflict of laws, or that the laws of this State shall govern, in whole or in part, any or all of their rights, remedies, liabilities, powers and duties if the parties, either as provided by law or in the manner specified in such writing are: (1) Subject to the jurisdiction of the courts of, or arbitration in, Delaware; and (2) May be served with legal process. The foregoing shall conclusively be presumed to be a significant, material and reasonable relationship with this State and shall be enforced whether or not there are other relationships with this State. (b) Any person may maintain an action in a court of competent jurisdiction in this State where the action or proceeding arises out of or relates to any contract, agreement or other undertaking for which a choice of Delaware law has been made in whole or in part and which contains the provision permitted by subsection (a) of this section. (c) This section shall not apply to any contract, agreement or other undertaking: (1) To the extent provided to the contrary in § 1-301(c) of this title; or (2) Involving less than $100,000.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 1-301",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_1_301",
+            "quote": "(c) If one of the following provisions of the Uniform Commercial Code specifies the applicable law, that provision governs and a contrary agreement is effective only to the extent permitted by the law so specified: (1) Section 2-402; (2) Sections 2A-105 and 2A-106; (3) Section 4-102; (4) Section 4A-507; (5) Section 5-116; (6) Section 8-110; (7) Sections 9-301 through 9-307; (8) Section 12-107.",
+            "checked": "2026-09-27"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-27 at the bar of the DocketX contract-law audit of 2026-09-17. The quoted passage already ran from (a) through (c)(2), so the section itself was covered -- but the quote's own text excludes contracts 'To the extent provided to the contrary in § 1-301(c)', and these notes said in terms that § 1-301(c) 'was not read'. A served rule that points a reader at a cross-reference it has not read is telling the reader where the answer is, not giving it. § 1-301 has now been read whole and it IS held in the Delaware shard (unlike New York, whose § 1-301 is absent from our corpus): (c) is a closed list of eight Code provisions whose own choice-of-law rules survive a contrary agreement. The list is now in the rule, in the trap, and in a block. Subsections (a) and (b) of § 1-301 were read and are not relied on. STILL NOT ESTABLISHED, unchanged: how the $100,000 is measured, and no Delaware case law on the threshold. Also corrected: these notes said the Delaware shard holds 23,124 sections; the count measured 2026-09-27 is 23,125. SOURCE-VERIFIED, NOT INDEX-VERIFIED, and the distinction is the point: we hold Delaware statutes as a PUBLISHED dataset (docketx/us-statutes, data/de, 23,124 sections, retrieved 2026-09-11) but NOT as an index on the serving host, so no retrieval rank is claimed and none could be. The text was read directly from the official Delaware Code Online page above on 2026-09-14, which any reader can open — in that respect this is MORE reproducible than our California rows, which cite a shard we have not published. TEXT CAVEAT NOW CLOSED, AND THE RULE CORRECTED 2026-09-16. Subsection (c) was truncated in the page slice read on 2026-09-14, so the rule as first written described the section as if it applied to every contract. The whole section was re-read on 2026-09-16 in the published row (docketx/us-statutes row DE_6_2708, title '6 Del. C. § 2708. Choice of law.', citation '6 Del. C. § 2708', 2,055 characters, subsections (a) through (e)) and subsection (c) excludes any contract 'To the extent provided to the contrary in § 1-301(c) of this title' or 'Involving less than $100,000'. That $100,000 floor is now stated in the rule and in the trap, and the corpus quote has been extended to run from (a) through (c)(2) so the exclusion is inside the verified passage rather than described beside it. What is still NOT established, and is not asserted: how the $100,000 is measured (face value, amount in controversy, aggregate performance), and what § 1-301(c) provides to the contrary -- that section was not read. Subsections (d) severability and (e) ('shall not limit any jurisdiction otherwise existing in a court sitting in the State and shall not affect the validity of any other choice of law provisions') were read but are outside the quote and outside this rule. This row remains source-verified AND now corpus-verified: no Delaware case law was consulted, so nothing here says how the Delaware courts have construed the threshold."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "consumer-protection-waiver",
+    "rule_id": "de-4302-retail-installment-waiver-void-and-prohibited-terms",
+    "question": "Can a Delaware consumer contract get the buyer to waive statutory protections, or include the usual creditor boilerplate?",
+    "rule": "No, for a retail installment sale of goods or services: any waiver by the buyer of the Retail Installment Sales chapter is contrary to public policy and unenforceable and void, and a list of specific clauses may not appear in the contract at all -- a waiver of claims or defences against the seller (or, except as § 4312 allows, against an assignee), an arbitrary acceleration clause, authority to enter the buyer's premises unlawfully or breach the peace on repossession, a waiver of the buyer's right of action for illegal collection or repossession conduct, a power of attorney appointing the seller as the buyer's agent for repossession, and any release of the seller from legal remedies the buyer would have. A prohibited provision is void, but the rest of the contract survives.",
+    "trap": "Delaware kills the clause rather than the deal: § 4314 makes the offending provision void 'but shall not otherwise affect the validity of the contract', so a seller cannot use its own unlawful boilerplate to unwind a bargain that has turned bad. The bite is in § 4311's list, which reaches terms a drafter would not think of as waivers at all -- a waiver-of-defences clause against an ASSIGNEE, and a discretionary acceleration clause exercisable 'arbitrarily and without reasonable cause' even with no default. Note the scope: this is the retail installment chapter, not a general consumer statute; Delaware's Consumer Fraud Act (6 Del. C. ch. 25, subch. II) contains no comparable anti-waiver section that this research found.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 4302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_4302",
+            "quote": "(a) Any waiver of the buyer of this chapter shall be deemed contrary to public policy and shall be unenforceable and void.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 4311",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_4311",
+            "quote": "No contract or obligation shall contain any provision by which: (1) The buyer agrees not to assert against a seller a claim or defense arising out of the sale or agrees not to assert against an assignee such a claim or defense other than as provided in § 4312 of this title;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 4314",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_4314",
+            "quote": "Any provision in a contract which is prohibited by this chapter shall be void but shall not otherwise affect the validity of the contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 4312",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_4312",
+            "quote": "No right of action or defense arising out of a retail installment sale which the buyer has against the seller, and which would be cut off by assignment, shall be cut off by assignment of the contract to any third party whether or not the third party acquires the contract in good faith and for value unless the assignee given notice of the assignment to the buyer as provided in this section",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 4311",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_4311",
+            "quote": "(2) In the absence of the buyer’s default in the performance of any obligations, the holder may, arbitrarily and without reasonable cause, accelerate the maturity of any part or all of the amount owing thereunder; (3) The seller or holder of the contract or other person acting as agent is given authority to enter upon the buyer’s premises unlawfully or to commit any breach of the peace in the repossession of goods; (4) The buyer waives any right of action against the seller or holder of the contract or other person acting as agent, for any illegal act committed in the collection of payments under the contract or in the repossession of goods; (5) The buyer executes a power of attorney appointing the seller or holder of the contract, or other person acting as agent, as the buyer’s agent in the repossession of goods; (6) The buyer relieves the seller from liability for any legal remedies which the buyer may have against the seller under the contract or any separate instrument executed in connection therewith.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17. The rule listed all six prohibited provisions and the trap quoted the acceleration clause's 'arbitrarily and without reasonable cause', while only paragraph (1) had a block; the section was read whole and (2) through (6) are now carried verbatim by one block. NEGATIVE CLAIM TESTED, AND IT HOLDS: the trap says Delaware's Consumer Fraud Act contains no comparable anti-waiver section. All 77 sections we hold in 6 Del. C. ch. 25 (§§ 2501-2552, which spans the Consumer Fraud Act and the Deceptive Trade Practices Act) were scanned 2026-09-26 and not one contains the string 'waiv'. The claim is correct as stated. Scope sections read whole this pass rather than assumed: § 4301(3) does exclude motor vehicles from 'goods' (the previous review left this unread), § 4302(c) excludes a cash sale price of $75 or less with no security interest, and § 4315, which (c) excepts, turns out to be the service-charge section and not a scope provision. FAMILY NAME: the store's Texas-shaped family id is 'dtpa-waiver' (Tex. Bus. & Com. Code § 17.42). Delaware has no Deceptive Trade Practices Act waiver provision, so this row uses the generalised id proposed in the DocketX 50-state contract-law plan §2, 'consumer-protection-waiver'. SCOPE READ, NOT ASSUMED: § 4311 has six paragraphs; only (1) is quoted, and the rule above summarises (2)-(6) from the same published row, read in full 2026-09-16. Chapter 43 does not apply to a retail installment sale for a cash price of $75 or less with no security interest (§ 4302(c)), nor to motor vehicles, which are excluded from 'goods' by § 4301(3). Parallel anti-waiver sections exist for health spa contracts (6 Del. C. § 4213) and lease-purchase agreements (6 Del. C. § 7614); both were read and are not relied on here. Searched 6 Del. C. ch. 25 (Consumer Fraud Act, §§ 2511-2527, and the Deceptive Trade Practices Act, §§ 2531-2536) for a waiver bar and found none. REVIEW 2026-09-16: §§ 4302, 4311 and 4314 re-read in full; the six § 4311 paragraphs in the rule match the text, and § 4302(c) excludes sales for a cash sale price of $75 or less with no title, lien or security interest retained, 'Except as provided in § 4315' (not read). The motor-vehicle exclusion via § 4301(3) was not re-read in this review. We hold no effective dates for these sections. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): § 4312 read (DE_6_4312); block added for the assignee-notice rule the rule refers to."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "electronic-signature",
+    "rule_id": "de-12a-107-electronic-form-is-not-a-defence",
+    "question": "Is a contract signed electronically enforceable in Delaware, and does it satisfy a writing or signature requirement?",
+    "rule": "Yes, within the chapter's scope. Under Delaware's Uniform Electronic Transactions Act, a record or signature may not be denied legal effect or enforceability solely because it is in electronic form; a contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation; where a law requires a record to be in writing, an electronic record satisfies it; and where a law requires a signature, an electronic signature satisfies it. The chapter does not apply to the extent a transaction is governed by the law of wills, by the UCC other than Articles 2 and 2A (and two Article 1 sections), by the General Corporation Law, the LLC, LP and partnership Acts or the Statutory Trust Act, or by the bank corporation laws (§ 12A-103(b)) — so a Delaware LLC agreement or a negotiable instrument is outside it as to what those laws govern. And the Act applies only to transactions between parties each of which has agreed to conduct transactions by electronic means, an agreement determined from the context and surrounding circumstances, including the parties' conduct (§ 12A-105(b)).",
+    "trap": "The Act is consent-based, not automatic: § 12A-105(b) makes the chapter apply only where each party has agreed to transact electronically, so the enforceability rule presupposes that agreement (which may be shown by conduct), and under § 12A-105(c) a party that agreed to one electronic transaction may refuse others, a right that cannot be waived by agreement. Delaware's § 12A-117(b) says a judicial forum specified in an agreement is not exclusive unless the agreement expressly so provides; the rest of § 12A-117 is not in our published statutes and is not stated here. And the electronic-form rule cures FORM only -- 6 Del. C. § 2714's requirement that an agent's authority to sign for the party to be charged be given in writing is not dispensed with — though where the chapter applies, § 12A-107(c) lets an electronic record BE that writing.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 12A-107",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_12A_107",
+            "quote": "(a) A record or signature may not be denied legal effect or enforceability solely because it is in electronic form. (b) A contract may not be denied legal effect or enforceability solely because an electronic record was used in its formation. (c) If a law requires a record to be in writing, an electronic record satisfies the law. (d) If a law requires a signature, an electronic signature satisfies the law.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 12A-105",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_12A_105",
+            "quote": "(b) This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties’ conduct.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 12A-117",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_12A_117",
+            "quote": "A judicial forum specified in an agreement is not exclusive unless the agreement expressly so provides.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 12A-103",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_12A_103",
+            "quote": "This chapter does not apply to a transaction to the extent it is governed by: (1) A law governing the creation and execution of wills or codicils; (2) The Uniform Commercial Code other than Sections 1-107 [see now Section 1-306] and 1-206 [former version of Section 1-206, to which this reference referred, has been repealed], Article 2, and Article 2A;",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17 (audit #17): the unqualified 'Yes' ignored § 12A-103(b)'s exclusions (wills; UCC except Arts. 2/2A; DGCL, LLC, LP, partnership, statutory-trust Acts; bank laws), and the § 2714 sentence implied the agent's written authority could not be electronic when § 12A-107(c) says an electronic record satisfies a writing requirement. CORRECTED IN REVIEW 2026-09-16. The previous notes said § 12A-105 was 'NOT read in full' and that § 12A-117 was 'seen by title only', and the trap described § 12A-117 as letting 'the parties to a transferable record choose the forum'. Both sections were read in full in docketx/us-statutes [de] (rows DE_6_12A_105, DE_6_12A_117). § 12A-117 is not about transferable records: '(a) The parties to an electronic contract may choose an exclusive judicial forum; provided, however, that the provisions of §§ 1-301 and 2708 of this title shall apply to such choice; provided further that if the contract is a consumer contract the choice is not enforceable if such choice is unreasonable and unjust.' The trap now says that. § 12A-105(b) is added as a corpus-verified authority and its consent rule moved into the rule; § 12A-105(c) and § 12A-117 are described from the text read, not quoted. The § 2714 point is carried by the statute-of-frauds row in this file, which quotes the writing requirement. We hold no effective dates for these sections. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): UNSUPPORTED (L): the trap described § 12A-117's choice-of-forum rule (subject to §§ 1-301 and 2708, unenforceable in a consumer contract if unreasonable and unjust); the corpus row DE_6_12A_117 is 109 characters and carries only subsection (b); reworded to what the row holds and block added. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): § 12A-103(b) read (DE_6_12A_103); block added."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "entire-agreement",
+    "rule_id": "de-anti-reliance-must-run-against-the-relying-party",
+    "question": "Will an integration or exclusive-remedy clause bar a fraud claim based on statements made outside the contract?",
+    "rule": "Not by itself. Delaware will enforce only clear anti-reliance clauses, by which the party has unambiguously promised that it did NOT rely on statements outside the contract's four corners in deciding to sign; murky integration clauses, or standard integration clauses without explicit anti-reliance representations, will not relieve a party of its oral and extra-contractual fraudulent representations. Where the contract contains a one-sided anti-reliance clause disclaiming reliance by only one party, and the other party made no comparable promise, an exclusive remedy clause cannot be invoked to bar that other party's post-closing claims for intentional extra-contractual fraud.",
+    "trap": "Direction, not presence, is what matters: the disclaimer must run FROM the party that later claims reliance. In Johnson & Johnson the merger agreement had a textbook Abry-style anti-reliance provision -- but it ran only against the buyer, so the sellers' representative, whose side had never disclaimed reliance, could still sue for intentional extra-contractual fraud despite an exclusive-remedy clause. A drafter who papers one side of the deal and assumes the exclusive-remedy clause covers the rest has left the fraud claim alive. The converse also holds: a clear anti-reliance promise from the relying party is enforced, which is what makes the clause worth drafting.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "Johnson & Johnson v. Fortis Advisors LLC, No. 490, 2024 (Del. Jan. 12, 2026)",
+        "name": "Johnson & Johnson v. Fortis Advisors LLC",
+        "court": "Del.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "b13aece060f3cd84",
+            "cl_opinion_id": "11239950",
+            "quote": "Delaware will enforce only “clear anti-reliance clauses” where the party has unambiguously “contractually promised that it did not rely upon statements outside the contract’s four corners in deciding to sign the contract.” 253 “[M]urky integration clauses, or standard integration clauses without explicit anti-reliance representations, will not relieve a party of its oral and extra-contractual fraudulent representations.”",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Johnson & Johnson v. Fortis Advisors LLC, No. 490, 2024 (Del. Jan. 12, 2026)",
+        "name": "Johnson & Johnson v. Fortis Advisors LLC",
+        "court": "Del.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "b13aece060f3cd84",
+            "cl_opinion_id": "11239950",
+            "quote": "We therefore hold, consistent with Abry, that where (i) the contract contains a one-sided anti-reliance clause disclaiming reliance by only one party, and (ii) the other party to the contract made no comparable promise, an exclusive remedy clause cannot be invoked to bar the other party’s post-closing claims for intentional extra- contractual fraud.",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "IDENTITY: this decision (Del. Supreme Court, 2026-01-12, court code de-del) has no reporter citation in the CourtListener citation map export our tooling uses (citations-2026-06-30.csv.bz2), so the cite string above is the docket number and date read from the opinion's own caption, and identity rests on name + year. The quote is the Court's holding, in the majority opinion (single combined opinion row). The 'murky integration clauses' sentence in the rule is the Court quoting Abry Partners V, L.P. v. F&W Acquisition LLC, 891 A.2d 1032 (Del. Ch. 2006), which is a Court of Chancery decision and therefore not quoted as this row's authority; the Supreme Court adopted its framework ('Abry Partners remains the lodestar for contract-based limitations on extra-contractual fraud liability'). Express Scripts, Inc. v. Bracket Holdings Corp. was distinguished, not displaced, by this opinion. CORRECTED IN REVIEW 2026-09-16: the trap ended 'Delaware also will not let a party contract out of liability for its own deliberate extra-contractual lies.' That is not what the opinion says and is withdrawn: the same passage explains that Delaware WILL enforce a clear anti-reliance clause against extra-contractual fraud claims, and the opinion describes Express Scripts as applying 'Abry's intra-contractual fraud framework'. The limit on contracting out of liability for one's own lies inside the contract was not quoted or verified here. The Abry framework in the rule is now carried by a second quote from the same row (the Court stating Abry, with Abry's own words in quotation marks; Abry Partners V, L.P. v. F&W Acquisition LLC, 891 A.2d 1032 (Del. Ch. 2006) is a Court of Chancery decision and is not itself an authority here). The row was re-checked for separate opinions: the caption shows the Court en Banc (Seitz, C.J., Valihura, Traynor, LeGrow and Griffiths, JJ.), AFFIRMED in part, REVERSED in part and REMANDED; no dissent or concurrence appears in the text. Citing scan: 17 later Delaware opinions mention 'Fortis Advisors', none of them a later Supreme Court treatment of this holding (one Supreme Court hit is a different case, Fortis Advisors LLC v. Stillfront Midco AB (2026))."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "force-majeure",
+    "rule_id": "de-force-majeure-no-verified-authority",
+    "question": "How will a Delaware court read a force majeure clause, and what excuses performance when the clause does not fit?",
+    "rule": "We could not verify a Delaware rule on this from our published corpus.",
+    "authority": [],
+    "status": "no-verified-authority",
+    "as_of": "2026-09-16",
+    "notes": "Searched: docketx/us-statutes [de] for a force-majeure or impracticability provision outside the UCC (none found; 6 Del. C. § 2-615, 'Excuse by failure of presupposed conditions', was read in full and is the Article 2 seller's excuse for delay or non-delivery where performance is made impracticable by a contingency whose non-occurrence was a basic assumption -- a default rule for sales of goods, not a rule about what a force majeure CLAUSE does). Searched docketx/us-caselaw-de, court de-del (the Delaware Supreme Court), for 'force majeure': exactly 2 opinions, Exelon Generation Acquisitions, LLC v. Deere & Co. (2017), where a declared force majeure event is recited in the facts of a contract-interpretation appeal, and ANR Pipeline Co. v. Shell Oil Co. (1987), a 4,664-character procedural opinion that mentions the underlying dispute concerns 'the proper construction of a force majeure clause' and decides nothing about it. Not verified because: no Delaware Supreme Court opinion in our corpus states a rule of construction or enforceability for force majeure clauses. Court of Chancery decisions exist but are not this state's highest court and were not relied on."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "indemnity",
+    "rule_id": "de-2704-construction-exculpatory-clauses-void",
+    "question": "Can a Delaware construction contract shift the promisee's own negligence onto the other side?",
+    "rule": "No. A covenant, promise, agreement or understanding in, in connection with, or collateral to a contract relative to the construction, alteration, repair or maintenance in Delaware of a road, highway, driveway, street, bridge, or an entrance or walkway constructed thereon, or of any building, structure, appurtenance or appliance in the State — including the moving, demolition and excavating connected with it — is void to the extent it purports to indemnify or hold harmless the promisee or indemnitee, or others, or their agents, servants and employees, for damages arising from liability for bodily injury or death to persons or damage to property caused partially or solely by, or resulting partially or solely from, or arising partially or solely out of, the negligence of that promisee or indemnitee. Clear drafting is no answer: the section voids the covenant even where it is crystal clear and unambiguous, it applies to all phases of preconstruction, construction, repair and maintenance, and it is expressly not limited to preconstruction professionals such as designers, planners and architects. Three things sit outside it. An obligation owed to the Department of Transportation under a contract awarded under Title 17 or Chapter 69 of Title 29 is excepted by the section's own proviso. Policies of insurance issued by duly authorised insurance companies are untouched. And subsection (c) removes the section entirely from a partnership agreement, a limited liability company agreement, a trust agreement or a trust's governing instrument, a certificate of incorporation and a bylaw.",
+    "trap": "'Partially or solely' is the operative phrase and it is the same trap as the Texas oilfield statute in this store: carving out only the indemnitee's SOLE negligence does not rescue the clause, because shared fault is expressly inside the prohibition. Note the statute reaches public and private contracts alike — it names the State, counties, municipalities and their agencies explicitly, alongside private parties — with one government exception written into the section itself: an obligation owed to the Department of Transportation under a contract awarded under Title 17 or Chapter 69 of Title 29. The other way out is structural rather than verbal. Subsection (c) lifts the section off entity agreements altogether, so the same indemnity that is void in a construction contract is untouched in a partnership agreement, an LLC agreement, a trust instrument, a certificate of incorporation or a bylaw.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2704",
+        "decided": null,
+        "verified": {
+          "source_url": "https://delcode.delaware.gov/title6/c027/sc01/index.html",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2704",
+            "quote": "(a) A covenant, promise, agreement or understanding in, or in connection with or collateral to, a contract or agreement (including but not limited to a contract or agreement with the State, any county, municipality or political subdivision of the State, or with any agency, commission, department, body or board of any of them, as well as any contract or agreement with a private party or entity) relative to the construction, alteration, repair or maintenance in the State of a road, highway, driveway, street, bridge or entrance or walkway of any type constructed thereon in the State, and building, structure, appurtenance or appliance in the State, including without limiting the generality of the foregoing, the moving, demolition and excavating connected therewith, purporting to indemnify or hold harmless the promisee or indemnitee or others, or their agents, servants and employees, for damages arising from liability for bodily injury or death to persons or damage to property caused partially or solely by, or resulting partially or solely from, or arising partially or solely out of the negligence of such promisee or indemnitee or others than the promisor or indemnitor, or its subcontractors, agents, servants or employees, is against public policy and is void and unenforceable",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2704",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2704",
+            "quote": "This section shall apply to all phases of the preconstruction, construction, repairs and maintenance described in this subsection, and nothing in this section shall be construed to limit its application to preconstruction professionals such as designers, planners and architects; provided, however, that this section shall not apply to any obligation owed to the Department of Transportation pursuant to a contract awarded under Title 17 or Chapter 69 of Title 29.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2704",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2704",
+            "quote": "(b) Nothing in subsection (a) of this section shall be construed to void or render unenforceable policies of insurance issued by duly authorized insurance companies and insuring against losses or damages from any causes whatsoever.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2704",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2704",
+            "quote": "(c) Subsection (a) of this section does not apply to any covenant, promise, agreement, understanding, or other provision in a partnership agreement of a partnership (whether general or limited), limited liability company agreement, trust agreement, governing instrument of a trust, certificate of incorporation or bylaw.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17, and this one was WRONG, not merely thin. The trap said the statute names the State, counties and municipalities 'so a government counterparty is no exception'. The section was read whole and subsection (a) ends in a proviso doing exactly that: it does not apply to an obligation owed to the Department of Transportation under a contract awarded under Title 17 or Chapter 69 of Title 29. A reader relying on the old trap would have told a DelDOT contractor its indemnity was void when the statute exempts it. The trap now states the exception and the rule states the three carve-outs; the proviso, the insurance subsection and the entity-agreement subsection each have a block. The previous note already said subsections (b) onward were never read and that the rule should be treated as the prohibition only -- a caveat in a note is not a served rule, which is the whole point of this audit bar. Also now stated in the rule and quoted: the section reaches preconstruction professionals such as designers, planners and architects, and it voids the covenant even where it is crystal clear and unambiguous. Neighbours read: § 2703 (Chapter 1 governs on conflict) and § 2705 (age of majority) bear on nothing here. Source-verified by reading the official Delaware Code Online text on 2026-09-14; Delaware statutes are held as a published dataset but not indexed for retrieval, so no rank is claimed. TEXT CAVEAT: subsection (a)'s sentence runs past the end of the slice that was read, and subsections (b) onward were not read at all — the statute has exceptions this row does not reach, and the rule above should be treated as the prohibition only. CORPUS READ 2026-09-16 (docketx/us-statutes row DE_6_2704): the published text includes the unread remainder. (a) continues '...is against public policy and is void and unenforceable, even where such covenant, promise, agreement or understanding is crystal clear and unambiguous in obligating the promisor or indemnitor to indemnify...', and excepts obligations owed to the Department of Transportation under contracts awarded under Title 17 or Chapter 69 of Title 29; (b) preserves insurance policies; (c) excludes partnership, LLC and trust agreements, certificates of incorporation and bylaws.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "lien-waiver",
+    "rule_id": "de-2706-advance-lien-waiver-void",
+    "question": "Is a no-lien clause or an up-front lien waiver enforceable in a Delaware construction contract?",
+    "rule": "No. Notwithstanding any other law, any contract, agreement or understanding by which the right to file or enforce a mechanics' lien under 25 Del. C. ch. 27 is waived is void as against public policy and wholly unenforceable. Two things are preserved: a written waiver executed and delivered by a contractor, subcontractor, material supplier or labourer SIMULTANEOUSLY WITH OR AFTER payment for the labour performed or materials supplied, and a written agreement to subordinate, release or satisfy a lien made after a statement of claim has been filed. Granting credit or taking notes or other securities is not itself a waiver unless received as payment or the lien is expressly waived; its only effect is to postpone the lien until the agreed time expires.",
+    "trap": "Timing is the whole rule. The industry habit of collecting a lien waiver with the pay application -- before the money moves -- fails in Delaware, because the statute saves only a waiver executed simultaneously with or after payment. A subordination or release negotiated after a statement of claim has been filed is fine. And the section that § 2706(b) expressly refuses to touch is the one that can defeat the lien outright: under § 2707 no lien attaches to an owner-occupied residence once the owner has made full or final payment to the contractor in good faith, so on a residential job the waiver question can be moot. A related trap sits one chapter over: 25 Del. C. § 2614 makes a broker's advance waiver of a broker's lien void in the same terms.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "25 Del. C. § 2706",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_25_2706",
+            "quote": "Notwithstanding the provisions of any other law, except as provided in this subsection: Any contract, any agreement or understanding whereby the right to file or enforce any lien created under this chapter is waived, shall be void as against public policy and wholly unenforceable. This section shall not preclude a requirement for a written waiver of the right to file a mechanics’ lien executed and delivered by a contractor, subcontractor, material supplier or laborer simultaneously with or after payment for the labor performed or the materials supplied has been made to such contractor, subcontractor, material supplier or laborer",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "25 Del. C. § 2614",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_25_2614",
+            "quote": "An agreement by a broker to waive its right to a broker’s lien without having first received full payment is against public policy, void, and unenforceable.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "25 Del. C. § 2706",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_25_2706",
+            "quote": "(a) Persons entitled to avail themselves of the lien provided for in this chapter shall not be considered as waiving the same by granting a credit or receiving notes or other securities, unless the same be received as payment or the lien expressly waived, but the sole effect thereof shall be to prevent such persons from availing themselves of the liens provided for in this chapter until the expiration of the time agreed upon.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "25 Del. C. § 2706",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_25_2706",
+            "quote": "nor shall this section be applicable to a written agreement to subordinate, release or satisfy all or part of such lien made after a statement of claim has been filed under this chapter. Nothing in this subsection shall amend, exempt, limit or qualify the provisions of § 2707 of this title.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "25 Del. C. § 2707",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_25_2707",
+            "quote": "No lien shall be obtained under this chapter upon the lands, structure, or both, of any owner which is used solely as a residence of said owner when the owner has made either full or final payment to the contractor, in good faith, with whom the owner contracted for the construction, erection, building, improvement, alteration or repair thereof.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17. The rule stated subsection (a) (credit and notes are not a waiver, the only effect being postponement) and the tail of (b) (post-claim subordination, and the express preservation of § 2707) while the single § 2706 block stopped at the simultaneous-or-after-payment saving clause. The previous note said both were 'summarised in the rule from that same text', which is exactly the gap this bar closes: each now has a block. And 25 Del. C. § 2707 -- named in the section's own last sentence and never read -- has been read and quoted, because it is the provision that can defeat the lien altogether on an owner-occupied residence where the owner paid the contractor in good faith. It also requires the contractor to hand the owner a notarised certification or a full release of mechanics' liens at or before final payment, on pain of licence suspension; that part is read but not relied on here. The published row DE_25_2706 was read in full on 2026-09-16; subsection (a) (credit and notes) and the remainder of (b) (post-claim subordination, and the cross-reference preserving § 2707) are summarised in the rule from that same text. The § 2614 comparison is from the published row DE_25_2614, read on 2026-09-16 ('An agreement by a broker to waive its right to a broker’s lien without having first received full payment is against public policy, void, and unenforceable.'), recorded here rather than as a separate authority because it is a different lien. No Delaware Supreme Court decision applying § 2706 was located in this pass. REVIEW 2026-09-16: § 2706 re-read in full; no change. We hold no effective date for § 2706. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): § 2614 read in full (DE_25_2614); block added.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "limitation-of-liability",
+    "rule_id": "de-exculpation-clear-and-unequivocal-but-void-in-construction",
+    "question": "Will a Delaware court enforce a clause that releases or caps a party's liability for its own negligence?",
+    "rule": "Generally yes, on three conditions the Supreme Court applies together: a release of prospective negligence may be valid if it is unambiguous -- the provision waiving prospective negligence must be 'crystal clear and unequivocal' to insulate a party from liability for future negligence -- not unconscionable, and not against public policy, which in Delaware is typically determined by the General Assembly. The General Assembly has spoken for construction: in a contract relative to the construction, alteration, repair or maintenance of Delaware roads, buildings and structures, a provision indemnifying or holding the promisee harmless for damage caused partially or solely by the promisee's own negligence is against public policy and void -- expressly so 'even where such covenant ... is crystal clear and unambiguous'.",
+    "trap": "Delaware runs two opposite regimes and the contract type decides which applies. Outside the statute, careful drafting wins: Ketler enforced a gym's release of its own negligence because the words were clear, the member could walk away, and no statute disapproved it. Inside 6 Del. C. § 2704 the same care is worthless -- the statute anticipates the well-drafted clause and voids it anyway, and it reaches 'partially or solely' caused damage, so carving out only the promisee's sole negligence does not save it. Note also that § 2704(c) exempts partnership agreements, LLC agreements, trust agreements and governing instruments, certificates of incorporation and bylaws, so Delaware entity documents are outside the ban entirely.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "132 A.3d 746",
+        "name": "Ketler v. PFPA, LLC",
+        "court": "Del.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "b7da45f3e1539e2d",
+            "cl_opinion_id": "3170077",
+            "quote": "This Court has previously recognized that a release of prospective negligence may be valid.3 Such a release must be “‘clear and unequivocal’ to insulate a party from liability . . . .”4",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "132 A.3d 746",
+        "name": "Ketler v. PFPA, LLC",
+        "court": "Del.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "b7da45f3e1539e2d",
+            "cl_opinion_id": "3170077",
+            "quote": "It determined that a release which allows a party to avoid liability for its own negligence is permissible under Delaware Law if the release is unambiguous, not unconscionable, and not against public policy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "132 A.3d 746",
+        "name": "Ketler v. PFPA, LLC",
+        "court": "Del.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "b7da45f3e1539e2d",
+            "cl_opinion_id": "3170077",
+            "quote": "Finally, the release must not violate public policy. The public policy of this state is typically determined by the Delaware General Assembly.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "55 A.3d 330",
+        "name": "Riverbend Community, LLC v. Green Stone Engineering, LLC",
+        "court": "Del.",
+        "decided": "2012",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "7526fdc0d94b81be",
+            "cl_opinion_id": "4966327",
+            "quote": "It is still the law in Delaware that a contract provision waiving prospective negligence “must be crystal clear and unequivocal” to insulate a party from liability for possible future negligence.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2704",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2704",
+            "quote": "is against public policy and is void and unenforceable, even where such covenant, promise, agreement or understanding is crystal clear and unambiguous in obligating the promisor or indemnitor to indemnify or hold harmless the promisee or indemnitee from liability resulting from such promisee’s or indemnitee’s own negligence.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2704",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2704",
+            "quote": "(c) Subsection (a) of this section does not apply to any covenant, promise, agreement, understanding, or other provision in a partnership agreement of a partnership (whether general or limited), limited liability company agreement, trust agreement, governing instrument of a trust, certificate of incorporation or bylaw.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17. The trap's last sentence -- that § 2704(c) exempts entity documents, which is the practical way out of the construction ban -- was carried by a note saying the subsection had been 'read in full', not by a block; the row's § 2704 quote is only the crystal-clear clause. Subsection (c) now has its own block here. It is a separate block from the one added to de-2704-construction-exculpatory-clauses-void in the same pass, because a rule must stand on its own authorities. Ketler's quoted sentences are separated in the published text by footnote markers, which the quote carries verbatim ('may be valid.3 Such a release' and the trailing '4'), which the quote reproduces as read; the inner quotation is Ketler quoting Riverbend quoting State v. Interstate Amiesite Corp., 297 A.2d 41 (Del. 1972). Riverbend's own statement of the crystal-clear rule is quoted separately for that reason. Riverbend HELD that a general release signed AFTER the work was done barred both tort and contract claims without needing that specificity; the crystal-clear rule is stated there as the contrasting rule for PROSPECTIVE negligence. Both are majority text. The three-condition framing (unambiguous, not unconscionable, not against public policy) is Ketler's approval of the Superior Court's test, stated in its opening paragraph. § 2704(c)'s entity carve-out is from the published row DE_6_2704, read in full 2026-09-16. GOOD LAW CHECK 2026-09-16: 9 later Delaware opinions cite 132 A.3d 746 and 19 cite 55 A.3d 330; none of the Supreme Court hits overrules or limits either. A pure damages CAP that does not exculpate future negligence was not separately adjudicated in any Delaware Supreme Court decision read in this pass. REVIEW 2026-09-16: the three-condition test and the General Assembly sentence were stated in the rule without a quote carrying them; two Ketler quotes now do. The three-condition sentence is the Superior Court's determination as Ketler reports it, followed in the opinion by 'We approve the Superior Court's determinations and affirm.' Ketler, Riverbend and § 2704 re-read; no separate opinions. Citing scans re-run with the counts above and no negative treatment found in the Supreme Court hits (Cantor Fitzgerald (2024) and Terrell (2023) cite Ketler; Winshall (2013) and Scion Breckenridge (2013) cite Riverbend). Ketler is a short order-style opinion of the Delaware Supreme Court (6,265 characters). We hold no effective date for § 2704."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "limitation-of-remedy",
+    "rule_id": "de-2-719-exclusive-remedy-and-essential-purpose",
+    "question": "Will a repair-or-replace exclusive remedy and a consequential-damages bar hold up in Delaware?",
+    "rule": "For sales of goods, and subject both to the two limits below and to § 2-718 on liquidation and limitation of damages, the agreement may provide remedies in addition to or in substitution for the UCC's and may limit or alter the measure of damages, including limiting the buyer to return of the goods and repayment of the price or to repair and replacement; a remedy is optional unless expressly agreed to be exclusive, in which case it is the sole remedy. Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in the title. Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable; a limitation of consequential damages for personal injury in the case of consumer goods is prima facie unconscionable, but limitation is not where the loss is commercial.",
+    "trap": "'Exclusive' must be said. Under § 2-719(1)(b) a remedy the contract merely lists is cumulative, so a repair-or-replace clause without the word exclusive (or its equivalent) adds a remedy instead of removing the buyer's others. And the two halves of the clause are tested separately: if the repair remedy fails of its essential purpose the buyer is thrown back on the Article 2 remedies, while the consequential-damages exclusion falls only if it is unconscionable -- which, for a commercial loss, the statute says it is not.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_719",
+            "quote": "(2) Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this title. (3) Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_719",
+            "quote": "resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-719",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_719",
+            "quote": "(1) Subject to the provisions of subsections (2) and (3) of this section and of the preceding section on liquidation and limitation of damages, (a) the agreement may provide for remedies in addition to or in substitution for those provided in this Article and may limit or alter the measure of damages recoverable under this Article, as by limiting the buyer’s remedies to return of the goods and repayment of the price or to repair and replacement of non-conforming goods or parts; and",
+            "checked": "2026-09-27"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-27 at the bar of the DocketX contract-law audit of 2026-09-17. The rule's first clause -- that the agreement may substitute remedies and limit the measure of damages, expressly including a return-and-repayment or repair-and-replacement limit -- is subsection (1)(a), and the two existing blocks held only the (1)(b) fragment and (2) and (3). (1) now has a block, which also carries the opening words the rule had never stated: the whole of subsection (1) is subject to (2), to (3) and to § 2-718, so a remedy limitation in a sale of goods is constrained by the liquidated-damages section as well as by failure of essential purpose and unconscionability. The rule now says so. Article 2 scope: this is the rule for transactions in goods. Whether a Delaware court applies the same failure-of-essential-purpose analysis to a services or software contract was not established from our corpus in this pass; no Delaware Supreme Court decision on § 2-719 was located. Both quotes are from the same published row DE_6_2_719, read in full 2026-09-16. REVIEW 2026-09-16: no change. We hold no effective date for § 2-719."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "limitations-period",
+    "rule_id": "de-8106-three-years-and-the-twenty-year-contractual-window",
+    "question": "How long does a Delaware contract claim last, and can the contract change the period?",
+    "rule": "Three years is the default: no action based on a promise, or to recover a debt not evidenced by a record or by an instrument under seal, or on a detailed statement of mutual demands arising out of contractual relations, may be brought after 3 years from the accruing of the cause of action, subject to 10 Del. C. §§ 8108-8110, 8119 and 8127. Two Delaware-specific adjustments matter to a drafter. For a written contract, agreement or undertaking involving at least $100,000, the parties may specify their own period, provided suit is brought before 20 years from accrual. For a contract for the sale of goods, the UCC period is 4 years and the original agreement may reduce it to not less than one year but may not extend it; that clock runs from the breach whether or not the aggrieved party knew of it, a breach of warranty occurs on tender of delivery unless the warranty explicitly extends to future performance, and where a timely action is terminated so as to leave another available the second action may be brought within 6 months of the termination unless it was voluntarily discontinued or dismissed for failure to prosecute. A third adjustment sits in the section's own subsection headed Contractual limitations: a property insurance contract under subchapter III of Chapter 41 of Title 18 may not require suit less than 1 year from the insurer's denial, and may allow more.",
+    "trap": "Delaware is a jurisdiction where the contract can make the clock LONGER, not just shorter -- but only above a dollar threshold and only in writing: § 8106(c) unlocks a period specified in a written contract 'involving at least $100,000', up to 20 years from accrual, and it says so notwithstanding 6 Del. C. § 2-725. Section 8106(c) does not reach a contract below that threshold, and this rule found no other provision that lets one extend the period. For sales of goods, § 2-725(2) runs the clock from breach, regardless of the aggrieved party's lack of knowledge, with a tender-of-delivery rule for warranties. A survival clause that gives a buyer, say, five years to sue on a representation therefore depends on the deal clearing $100,000 and on the promise being in writing.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 8106",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_8106",
+            "quote": "no action to recover a debt not evidenced by a record or by an instrument under seal, no action based on a detailed statement of the mutual demands in the nature of debit and credit between parties arising out of contractual or fiduciary relations, no action based on a promise, no action based on a statute, and no action to recover damages caused by an injury unaccompanied with force or resulting indirectly from the act of the defendant shall be brought after the expiration of 3 years from the accruing of the cause of such action",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 8106",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_8106",
+            "quote": "(c) Notwithstanding anything to the contrary in this chapter (other than subsection (b) of this section) or in § 2-725 of Title 6, an action based on a written contract, agreement or undertaking involving at least $100,000 may be brought within a period specified in such written contract, agreement or undertaking provided it is brought prior to the expiration of 20 years from the accruing of the cause of such action.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_725",
+            "quote": "An action for breach of any contract for sale must be commenced within 4 years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitations to not less than one year but may not extend it.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 8106",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_8106",
+            "quote": "(a) No action to recover damages for trespass, no action to regain possession of personal chattels, no action to recover damages for the detention of personal chattels, no action to recover a debt not evidenced by a record or by an instrument under seal, no action based on a detailed statement of the mutual demands in the nature of debit and credit between parties arising out of contractual or fiduciary relations, no action based on a promise, no action based on a statute, and no action to recover damages caused by an injury unaccompanied with force or resulting indirectly from the act of the defendant shall be brought after the expiration of 3 years from the accruing of the cause of such action; subject, however, to the provisions of §§ 8108-8110, 8119 and 8127 of this title.",
+            "checked": "2026-09-27"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_725",
+            "quote": "(2) A cause of action accrues when the breach occurs, regardless of the aggrieved party’s lack of knowledge of the breach. A breach of warranty occurs when tender of delivery is made, except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered.",
+            "checked": "2026-09-27"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-725",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_725",
+            "quote": "(3) Where an action commenced within the time limited by subsection (1) is so terminated as to leave available a remedy by another action for the same breach such other action may be commenced after the expiration of the time limited and within 6 months after the termination of the first action unless the termination resulted from voluntary discontinuance or from dismissal for failure or neglect to prosecute.",
+            "checked": "2026-09-27"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "10 Del. C. § 8106",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-27",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_10_8106",
+            "quote": "(b) Contractual limitations. — Notwithstanding any other provision of this section, a property insurance contract subject to subchapter III of Chapter 41 of Title 18: (1) May not require that an action for a claim made under the contract be filed less than 1 year from the date of the denial of the claim by the insurer; and (2) May permit an action for a claim made under the contract to be filed more than 1 year from the date of the denial of the claim by the insurer.",
+            "checked": "2026-09-27"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-27 at the bar of the DocketX contract-law audit of 2026-09-17. Three gaps, each one a sentence the rule or trap relied on. (1) The § 8106(a) block began mid-subsection at 'no action to recover a debt' and stopped before the closing words, so the rule's own 'subject to §§ 8108-8110, 8119 and 8127' was carried by nothing; subsection (a) is now quoted whole, opening words and closing proviso included. (2) The trap asserts § 2-725(2)'s accrual-at-breach and tender-of-delivery rules, which these notes recorded as 'read in the same published row' and never quoted; quoted now. (3) § 8106(b) is literally headed 'Contractual limitations' and the previous review put it 'outside this row' -- a subsection about what a contract may and may not require of a limitations period is not outside a contractual limitations rule, so it is now stated and quoted. § 2-725(3)'s six-month revival window is added for the same reason. §§ 8108-8110, 8119 and 8127 are named by the statute and remain unread; that is now a cross-reference a reader is pointed at, not a claim the rule makes. The accrual-at-breach point in the trap is carried by § 2-725(2) for sales of goods ('A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach'), read in the same published row; no Delaware Supreme Court decision on accrual or tolling under § 8106 was read in this pass, and the tolling doctrines are therefore not stated here. § 8106(b) (property insurance contracts, 1-year floor from denial) and § 8127 (deficiencies in improvements to real property) were read or seen and are outside this row. CORRECTED IN REVIEW 2026-09-16: the trap said 'accrual under Delaware law runs from the breach' as a general rule, but the only text read for accrual is § 2-725(2), which governs contracts for the sale of goods; the trap now confines it to goods. The rule previously omitted that § 8106(a) is expressly 'subject ... to the provisions of §§ 8108-8110, 8119 and 8127 of this title' (not read). § 8106 re-read in full. NOT ESTABLISHED: whether and how far Delaware enforces a contractual SHORTENING of the § 8106 period outside § 2-725(1). We hold no effective date for § 8106 or § 2-725."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "liquidated-damages",
+    "rule_id": "de-brazen-uncertain-and-reasonable-two-prong",
+    "question": "Will Delaware enforce this stipulated-damages figure, or strike it as a penalty?",
+    "rule": "Delaware applies a two-prong test: where the damages are uncertain and the amount agreed upon is reasonable, the agreement will not be disturbed. Both prongs are measured against the transaction -- the anticipated loss and the difficulty of proving it -- and a provision that passes is enforced even where it is large in absolute terms. For sales of goods the UCC states the same idea with an express penalty rule: damages may be liquidated only at an amount reasonable in light of the anticipated or actual harm, the difficulties of proof of loss and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy, and a term fixing unreasonably large liquidated damages is void as a penalty.",
+    "trap": "In Delaware the parties' own label pulls the clause INTO the liquidated-damages test. Brazen analysed a $550 million merger termination fee as liquidated damages -- rather than under the business judgment rule -- because the agreement said the fee was liquidated damages and not a penalty, even though the trigger was termination rather than breach; in a footnote the Court added that 'the drafters of corporate documents bear the responsibility for the selection of appropriate and clear language', answering an argument that the words were boilerplate. The mirror image is Cantor Fitzgerald (2024), which held that forfeiture-for-competition provisions are not restraints of trade subject to reasonableness review and, in doing so, cited Brazen for the point that liquidated damages 'by definition, are damages paid in the event of a breach' -- so a forfeiture structured as a condition rather than as a payment for breach sits outside this test.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "695 A.2d 43",
+        "name": "Brazen v. Bell Atlantic Corp.",
+        "court": "Del.",
+        "decided": "1997",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "5fd7055f8e44da68",
+            "cl_opinion_id": "1952344",
+            "quote": "the Court of Chancery articulated the following two-prong test for analyzing the validity of the amount of liquidated damages: “Where the damages are uncertain and the amount agreed upon is reasonable, such an agreement will not be disturbed.”",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "695 A.2d 43",
+        "name": "Brazen v. Bell Atlantic Corp.",
+        "court": "Del.",
+        "decided": "1997",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "5fd7055f8e44da68",
+            "cl_opinion_id": "1952344",
+            "quote": "Thus, we find no compelling justification for treating the termination fee in this agreement as anything but a liquidated damages provision, in light of the express intent of the parties to have it so treated.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-718",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_718",
+            "quote": "Damages for breach by either party may be liquidated in the agreement but only at an amount which is reasonable in the light of the anticipated or actual harm caused by the breach, the difficulties of proof of loss, and the inconvenience or nonfeasibility of otherwise obtaining an adequate remedy. A term fixing unreasonably large liquidated damages is void as a penalty.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "695 A.2d 43",
+        "name": "Brazen v. Bell Atlantic Corp.",
+        "court": "Del.",
+        "decided": "1997",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "5fd7055f8e44da68",
+            "cl_opinion_id": "1952344",
+            "quote": "So be it, but in our view, the drafters of corporate documents bear the responsibility for the selection of appropriate and clear language.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "312 A.3d 674",
+        "name": "Cantor Fitzgerald, L.P. v. Ainslie",
+        "court": "Del.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "f4fab4ac679eddbc",
+            "cl_opinion_id": "9927565",
+            "quote": "See Brazen v. Bell Atlantic Corp., 695 A.2d 43, 67 (Del. 1997) (“[l]iquidated damages, by definition, are damages paid in the event of a breach.”)",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17. The trap quoted two sentences that no block carried. Brazen's 'the drafters of corporate documents bear the responsibility for the selection of appropriate and clear language' was read in the opinion -- it is footnote 9, answering counsel's argument at oral argument that the liquidated-damages language was boilerplate -- and is now quoted. Cantor Fitzgerald's citation of Brazen for what liquidated damages are was read in Cantor's footnote 76 and is now quoted as Cantor's own text, which is what the trap claims it is. LATER TREATMENT 2026-09-26: 24 later Delaware opinions cite 695 A.2d 43, 0 with any treatment word in the citing window. § 2-718 was read whole: subsections (2) to (4) govern a defaulting buyer's restitution and the twenty-per-cent-or-$500 floor, which this rule does not reach and does not claim to. Brazen adopts the two-prong test from Lee Builders v. Wells, 103 A.2d 918 (Del. Ch. 1954) -- the first quote is the Supreme Court describing and then applying that test ('We find, however, that the termination fee safely passes both prongs of the Lee Builders test'), not the Court's own fresh formulation; both quoted passages are majority text. GOOD LAW CHECK 2026-09-16: 24 later Delaware opinions in our corpus cite 695 A.2d 43; the only Supreme Court hit is Cantor Fitzgerald, L.P. v. Ainslie (Del. 2024), which cites Brazen approvingly for what liquidated damages are ('damages paid in the event of a breach') while holding that forfeiture-for-competition provisions are outside that framework. Nothing overruled. The Texas liquidated-damages row in this store is being corrected by another agent and was not used as a model. CORRECTED IN REVIEW 2026-09-16: the trap said Cantor Fitzgerald held that 'a forfeiture-for-competition provision is NOT a liquidated damages clause and is not reviewed for reasonableness, so calling a forfeiture \"liquidated damages\" would import a test the clause could otherwise avoid'. Cantor's holding is that such provisions are not restraints of trade subject to reasonableness review; the liquidated-damages point is its footnote citation of Brazen (and of a Chancery decision that nonperformance of a condition precedent is not a breach), and the consequence of labelling a forfeiture 'liquidated damages' was never decided there. The trap now states only that. The 'boilerplate' remark is in Brazen's footnote 9, not the body. Brazen re-checked: no dissent or concurrence in the row. The rule's clause 'a provision that passes is enforced even where it is large in absolute terms' is a reading of Brazen's application to a $550 million fee, not a quoted statement. Citing scan re-run: 24 later opinions; Supreme Court hits Cantor Fitzgerald (2024), Delaware Bay Surgical Services v. Swier (2006) and Omnicare v. NCS Healthcare (2003) carry no overruling language in the cited sentences; Delaware Bay Surgical was not read. We hold no effective date for § 2-718."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "non-competition",
+    "rule_id": "de-noncompete-reasonableness-no-right-to-blue-pencil-forfeiture-different",
+    "question": "Will Delaware enforce this non-compete, and will a court narrow it if it is too broad?",
+    "rule": "Delaware reviews non-compete and non-solicit agreements to ensure that they are (i) reasonable in geographic scope and temporal duration, (ii) advance legitimate economic interests of the party seeking enforcement, and (iii) survive a balancing of the equities; enforceability is judged on the entirety of the agreement in light of the employee's position, and consideration is tested at the time of contracting for its existence, not its adequacy, while adequacy may be weighed against the covenant's breadth in the balancing of the equities. Blue-pencilling is a discretionary equitable power, not a right: a court may decline to rewrite an overbroad covenant, and that decision turns on the covenants themselves and the circumstances of their adoption rather than on how egregious the employee's conduct was. A forfeiture-for-competition provision is analysed differently -- where sophisticated parties agree that one who withdraws and then competes forfeits contingent post-withdrawal financial benefits, the provision is not a restraint of trade subject to reasonableness review -- and that holding is not confined to limited partnerships. By statute, a covenant not to compete between or among physicians that restricts the right to practise medicine in a locale or for a period is void, though the rest of the agreement, including damages provisions, stays enforceable.",
+    "trap": "Delaware gives the drafter no guaranteed second chance. An overbroad covenant can simply fail: the Supreme Court in Sunder Energy affirmed the Court of Chancery's refusal to blue-pencil, citing with approval a Chancery decision (Kodiak Building Partners v. Adams) that declined to blue-pencil despite a judicial-reformation clause, and held that whether to blue-pencil cannot turn on how egregiously the employee behaved. The way around the reasonableness review is structural rather than verbal -- condition a deferred or contingent payment on not competing (Cantor Fitzgerald; not confined to limited partnerships, LKQ) instead of prohibiting competition. And the physician carve-out in 6 Del. C. § 2707 is absolute as to the practice restriction while expressly leaving damages clauses, including competition-related damages, in force.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "Payscale Inc. v. Norman, No. 297, 2025 (Del. Mar. 19, 2026)",
+        "name": "Payscale Inc. v. Norman",
+        "court": "Del.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "13a12c994a944fe5",
+            "cl_opinion_id": "11277995",
+            "quote": "To determine whether the restrictive covenant is enforceable, we look at the entirety of the agreement in light of Norman’s position within the company.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Payscale Inc. v. Norman, No. 297, 2025 (Del. Mar. 19, 2026)",
+        "name": "Payscale Inc. v. Norman",
+        "court": "Del.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "13a12c994a944fe5",
+            "cl_opinion_id": "11277995",
+            "quote": "The contract-formation analysis of consideration turns on whether some consideration was exchanged at the time of contracting, not whether that consideration was “adequate” to support the accompanying restriction.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "Payscale Inc. v. Norman, No. 297, 2025 (Del. Mar. 19, 2026)",
+        "name": "Payscale Inc. v. Norman",
+        "court": "Del.",
+        "decided": "2026",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "13a12c994a944fe5",
+            "cl_opinion_id": "11277995",
+            "quote": "That is not to suggest that the adequacy of consideration is irrelevant in the context of restrictive covenants; the balancing-of-the-equities inquiry affords the court discretion to weigh the breadth of a restrictive covenant against the consideration that supports it.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "332 A.3d 472",
+        "name": "Sunder Energy, LLC v. Jackson",
+        "court": "Del.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "af4b312f856567aa",
+            "cl_opinion_id": "10757876",
+            "quote": "Delaware courts review non-compete and non-solicit agreements “subject to Delaware law to ensure that they are that they are (i) reasonable in geographic scope and temporal duration, (ii) advance legitimate economic interests of the party seeking enforcement, and (iii) survive a balancing of the equities.”",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "332 A.3d 472",
+        "name": "Sunder Energy, LLC v. Jackson",
+        "court": "Del.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "af4b312f856567aa",
+            "cl_opinion_id": "10757876",
+            "quote": "Whether a court should blue pencil a covenant cannot turn on the egregiousness of the employee’s conduct. Rather, the court’s decision to exercise that equitable power should be based on the covenants themselves and the circumstances surrounding their adoption, as the Court of Chancery did here.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "312 A.3d 674",
+        "name": "Cantor Fitzgerald, L.P. v. Ainslie",
+        "court": "Del.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "f4fab4ac679eddbc",
+            "cl_opinion_id": "9927565",
+            "quote": "To sum up, we disagree with the Court of Chancery’s conclusion that forfeiture-for-competition provisions like the one at issue here are restraints of trade subject to review for reasonableness. When sophisticated parties agree in a limited partnership agreement that a partner, who voluntarily withdraws from, and then competes with, the partnership, will forfeit contingent post-withdrawal financial benefits, public-policy considerations weigh in favor of enforcing that agreement.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "LKQ Corp. v. Rutledge, No. 110, 2024 (Del. Dec. 18, 2024)",
+        "name": "LKQ Corporation v. Rutledge",
+        "court": "Del.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "6ebf3b1ba0d11793",
+            "cl_opinion_id": "10763147",
+            "quote": "We answer the first certified question as follows: Cantor Fitzgerald is not restricted to the limited partnership context.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2707",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2707",
+            "quote": "Any covenant not to compete provision of an employment, partnership or corporate agreement between and/or among physicians which restricts the right of a physician to practice medicine in a particular locale and/or for a defined period of time, upon the termination of the principal agreement of which the said provision is a part, shall be void",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "332 A.3d 472",
+        "name": "Sunder Energy, LLC v. Jackson",
+        "court": "Del.",
+        "decided": "2024",
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "af4b312f856567aa",
+            "cl_opinion_id": "10757876",
+            "quote": "Similarly, in Kodiak Building Partners, LLC v. Adams, the Court of Chancery declined to blue pencil overbroad restrictive covenants despite the presence of a judicial reformation clause within the agreement",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2707",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2707",
+            "quote": "except that all other provisions of such an agreement shall be enforceable at law, including provisions which require the payment of damages in an amount that is reasonably related to the injury suffered by reason of termination of the principal agreement. Provisions which require the payment of damages upon termination of the principal agreement may include, but not be limited to, damages related to competition.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17. Two assertions were true and carried by nothing. (1) The rule and trap both say the physician bar leaves the rest of the agreement, including damages provisions, enforceable; the section was read whole and the existing block stopped at 'shall be void', so the except-clause is now quoted. (2) The trap's Kodiak sentence -- that Sunder cited with approval a Chancery decision declining to blue pencil DESPITE a judicial-reformation clause -- was prose only; the sentence was read in the opinion and is now quoted. LATER TREATMENT 2026-09-26: 19 later Delaware opinions cite 332 A.3d 472 and 27 cite 312 A.3d 674; one window in each carried a treatment word and both were read and are false positives (Namdar v. Fried's 'abrogated in part' attaches to Stream TV Networks, D.R. Horton's 'overruling' is a Chancery exceptions ruling). Nothing overruled. IDENTITY: Payscale (2026-03-19) and LKQ (2024-12-18) have no reporter citation in the CourtListener citation-map export our tooling uses, so their cite strings are the docket numbers and dates read from the opinions' own captions and identity rests on name + year. Sunder Energy's reporter cite, 332 A.3d 472 (Del. 2024), is likewise absent from that map but is read from later Delaware opinions in our corpus that cite it (e.g. Payscale n.13; Masimo Corp. v. Kiani (Del. Ch. 2026)); Cantor Fitzgerald's 312 A.3d 674 is read the same way. All four quotes are majority text in single combined-opinion rows. The three-factor reasonableness formulation in the rule is quoted inside Payscale and Sunder from Cantor Fitzgerald, 312 A.3d at 684 n.65, and is carried by the Sunder quote below, which reproduces the published row's transcription doubling ('that they are that they are') verbatim. Payscale REVERSED a dismissal, which cuts against reading Delaware as uniformly hostile to covenants; Sunder affirmed a refusal to blue pencil at the preliminary-injunction stage, reviewing for abuse of discretion, and expressly declined to make a bright-line rule about blue-pencilling. GOOD LAW CHECK 2026-09-16: 27 later Delaware opinions cite 312 A.3d 674 (none overruling); Payscale (Del. 2026) is the most recent Supreme Court statement of the reasonableness standard found in our corpus. CORRECTED IN REVIEW 2026-09-16. (1) The trap said a forfeiture 'does not bar the employee from working and cannot be enforced by injunction'. The injunction point is not in Cantor Fitzgerald or LKQ as read: Cantor describes the employee-choice jurisdictions' reasoning that a forfeiture 'does not prohibit the employee from engaging in competitive work but merely denies her the right to some financial benefit', and LKQ lists 'whether the provision also entitled the company to injunctive relief' among the questions certified to it. The injunction clause is removed. (2) The trap said 'a judicial-reformation clause in the contract does not compel rewriting' as Sunder's holding; the reformation-clause point is Sunder citing Kodiak (Del. Ch.) and holding Chancery 'well within its discretion to apply that precedent', and the trap now says that. (3) The three-factor test and the consideration clause of the rule were unquoted; they are now carried by a Sunder quote (reproducing the published row's transcription doubling 'that they are that they are' verbatim, as the whitespace-only rule requires) and two Payscale quotes. (4) The rule said contingent consideration 'still counts'; that is Payscale describing North American Fire Ultimate Holdings v. Doorly (Del. 2026, TABLE), not a Payscale holding, so the rule now states Payscale's own existence-not-adequacy sentence. ALSO READ: Sunder reversed the Court of Chancery's ruling that the LLC Agreement was unenforceable as a matter of law while affirming the denial of the preliminary injunction, and says 'This is not to say that Delaware courts should never blue pencil an agreement that is overbroad in some respects'; LKQ expressly leaves open a claw-back 'so extreme in duration and financial hardship that it precludes employee choice by an unsophisticated party'. Village Practice Management Co. v. West (Del. 2025) cites Cantor Fitzgerald and LKQ but reversed on contract interpretation and expressly did not decide whether the forfeiture should be reviewed for reasonableness. Citing scans re-run: 27 opinions mention 312 A.3d 674, 19 mention 332 A.3d 472, 3 mention 'LKQ Corp. v. Rutledge', 2 mention 'Payscale'; no overruling language found. We hold no effective date for § 2707."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "prompt-payment",
+    "rule_id": "de-3506-3507-thirty-and-fifteen-days-and-void-terms",
+    "question": "What payment timing does Delaware force into a construction contract, and which payment clauses are void?",
+    "rule": "Every construction contract awarded by an owner must include a clause obliging the owner to pay the contractor for satisfactory performance within 30 days of the end of the billing period, plus an interest-penalty clause for late payment; every construction contract awarded by a contractor must oblige the contractor to pay each subcontractor and supplier within 30 days out of amounts paid to the contractor, again with an interest penalty. The owner must pay strictly in accordance with the contract; where the contract has no provision governing when invoices may be submitted, the owner must pay all undisputed amounts within 30 days after the end of the billing period or delivery of the invoice, whichever is later, and where subcontractor payment terms are not specified, a general, prime or subcontractor must pay its subcontractors, suppliers and materialmen undisputed amounts within 15 days after receiving each payment for their work. The chapter's own definitions frame it around building construction: 'Contractor' is defined by contracts to furnish labor or materials in connection with the erection, construction, completion, alteration or repair of any building (§ 3501). A list of clauses is void as against public policy under § 3507(e), including one making the contractor assume the risk of the owner's nonpayment, one requiring a contractor to wait for payment to the prime before commencing litigation or arbitration, and one requiring a contractor-subcontractor dispute to be governed by another state's law or litigated, arbitrated or mediated outside Delaware (§ 3507(e)(5)). Retainage is preserved, but withholding requires written notice within 7 days.",
+    "trap": "Delaware voids the pay-if-paid bargain from both ends: § 3507(e)(1) forbids a clause stating that the contractor assumes the risk of the owner's nonpayment, (e)(4) forbids a clause saying the contractor relies on the owner's credit rather than the prime's or a bonding company's, and (e)(2) forbids making the right to sue or arbitrate wait until the prime is paid. The exclusions are § 3507(f)'s and by its words limit only that section ('This section shall not apply to'); § 3506's 30-day payment and interest-penalty clause requirements carry no exclusion subsection of their own. § 3507 does not apply to public works awarded under Chapter 69 of Title 29, to the erection of six or fewer residential units under simultaneous construction or the alteration or repair of a single residential unit, or to material purchases by someone working on their own property.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 3506",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_3506",
+            "quote": "(b) Each construction contract awarded by a contractor shall include: (1) A payment clause which obligates the contractor to pay the subcontractor and each supplier for satisfactory performance under the subcontract within 30 days out of such amounts as are paid to the contractor; and (2) An interest penalty clause which obligates the contractor to pay the subcontractor and each supplier an interest penalty on amounts due in the case of each payment not made in accordance with the payment clause included in the contract pursuant to paragraph (b)(1) of this section.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 3507",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_3507",
+            "quote": "It shall be against public policy and shall be void and unenforceable for any provision of a construction contract or subcontract agreement to: (1) State that a contractor assumes the risk of nonpayment of the owner; (2) Require a contractor to waive any statutory or other right to commence litigation or arbitration until payment is made to the general or prime contractor;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 3507",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_3507",
+            "quote": "Require a dispute or claim between the contractor and subcontractor to be governed or subject to the laws of a state other than Delaware or require litigation, arbitration, mediation or other dispute resolution processes to occur in a state other than Delaware.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 3501",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_3501",
+            "quote": "who enters into any contract with another person to furnish labor and/or materials in connection with the erection, construction, completion, alteration or repair of any building",
+            "checked": "2026-09-17"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "CORRECTED 2026-09-17 (adversarial audit #19): the trap attributed § 3507(f)'s exclusions to the whole scheme; (f) reads 'This section shall not apply to', and § 3506 has no exclusion subsection. The rule now includes § 3507(e)(5) (out-of-state law or forum for contractor-subcontractor disputes void) and states the chapter's building-construction scope from § 3501's definitions; both added as authorities. Both published rows (DE_6_3506, DE_6_3507) were read in full on 2026-09-16; the 15-day subcontractor rule, the 30-day default, the retainage and 7-day written-notice provisions and the three exclusions are from those same texts. 6 Del. C. § 3509 (fees and arbitration costs) and § 3502 (payments to a contractor impressed with a trust) were also read and are noted in the attorney-fees row. No Delaware Supreme Court decision construing chapter 35 was located in this pass. REVIEW 2026-09-16: §§ 3506 and 3507 re-read in full. The rule's 'where the contract is silent' was sharpened to the text's two different triggers: § 3507(c)'s 30-day rule sits in a subsection triggered by a contract with no provision governing when invoices may be submitted, and § 3507(d)'s 15-day rule by subcontractor payment terms not being specified. The retainage notice is written notice 'as to why payment is being withheld within 7 days of the date required for payment' (§ 3506(a)(3), (d)). Not stated in the rule: § 3506(c) (penalty accrues at the legal rate and compounds each unpaid 30 days), (e) (fees where withholding was not in good faith for reasonable cause), (f) (payment to a subcontractor bars lower-tier claims against the contractor), and § 3507(e)(3). The chapter's definition of 'construction contract' was not read. We hold no effective dates for these sections.",
+    "applies_to": [
+      "construction"
+    ]
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "statute-of-frauds",
+    "rule_id": "de-2714-writing-requirement-and-25-dollar-suretyship",
+    "question": "Which agreements must be in writing to be enforceable in Delaware?",
+    "rule": "No action shall be brought to charge a person upon: an agreement made upon consideration of marriage; a contract or sale of lands, tenements or hereditaments or any interest in or concerning them; an agreement not to be performed within one year from the making of it; or an agreement to answer for the debt, default or miscarriage of another in any sum of the value of $25 and upwards — unless the contract is reduced to writing, or a memorandum or note of it is signed by the party to be charged, or by another person lawfully authorized IN WRITING by that party. An exception applies for goods, wares and merchandise sold and delivered, money loaned, and other matters properly chargeable in an account, where the plaintiff's oath or affirmation together with a regularly and fairly kept record may be given in evidence instead.",
+    "trap": "Two Delaware-specific details a drafter used to other states will miss. The suretyship category carries a dollar floor of $25 and upwards, so very small guarantees fall outside it. And the authority of an agent who signs for the party to be charged must itself be IN WRITING — an orally authorised signatory does not satisfy the section, which is stricter than the Texas analogue (Tex. Bus. & Com. Code § 26.01) that asks only for someone 'lawfully authorized'.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2714",
+        "decided": null,
+        "verified": {
+          "source_url": "https://delcode.delaware.gov/title6/c027/sc02/index.html",
+          "checked": "2026-09-14",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2714",
+            "quote": "(a) No action shall be brought to charge any person upon any agreement made upon consideration of marriage, or upon any contract or sale of lands, tenements, or hereditaments, or any interest in or concerning them, or upon any agreement that is not to be performed within the space of 1 year from the making thereof, or to charge any person to answer for the debt, default, or miscarriage, of another, in any sum of the value of $25 and upwards, unless the contract is reduced to writing, or some memorandum, or notes thereof, are signed by the party to be charged therewith, or some other person thereunto by the party lawfully authorized in writing",
+            "checked": "2026-09-16"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-14",
+    "status": "verified",
+    "notes": "Source-verified against the official Delaware Code Online subchapter II page ('Statute of Frauds and Perjuries') on 2026-09-14. TEXT CAVEAT: subsection (b), covering contracts to loan money or extend credit, is truncated in the slice read and is deliberately not summarised. ROBOTS: delcode.delaware.gov returns 404 for /robots.txt, i.e. it publishes no crawl restrictions at all; the fetch was made from a harvest box with an identifying user-agent, not from a workstation. CORPUS READ 2026-09-16 (docketx/us-statutes row DE_6_2714): published (b) reads: a commitment to loan money or extend credit 'in an amount greater than $100,000, not primarily for personal, family, or household purposes, made by a person engaged in the business of lending ... shall be invalid unless it or some note or memorandum thereof is in writing and subscribed by the party to be charged or by the party's agent.'"
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "trade-secret-confidentiality",
+    "rule_id": "de-2007-dutsa-displaces-tort-not-contract",
+    "question": "Does Delaware's trade secrets act wipe out the confidentiality clause's own remedies?",
+    "rule": "No. The Delaware Uniform Trade Secrets Act displaces conflicting tort, restitutionary and other law of the State providing civil remedies for misappropriation of a trade secret, but it expressly does not affect contractual remedies, whether or not based upon misappropriation of a trade secret, other civil remedies not based upon misappropriation, or criminal remedies.",
+    "trap": "The contract is the part that survives, which inverts the usual instinct to plead the statute and treat the NDA as makeweight. Because § 2007(b)(1) preserves contractual remedies 'whether or not based upon misappropriation of a trade secret', a confidentiality clause covering information that would fail the statutory trade-secret definition still gives a claim, while a parallel common-law tort claim for the same misappropriation is displaced. The chapter's own remedies also carry limits a contract need not: fees under 6 Del. C. § 2004 require bad faith or wilful and malicious misappropriation, and § 2006 sets a 3-year limitation running from discovery.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2007",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2007",
+            "quote": "(a) Except as provided in subsection (b) of this section, this chapter displaces conflicting tort, restitutionary and other law of this State providing civil remedies for misappropriation of a trade secret. (b) This chapter does not affect: (1) Contractual remedies, whether or not based upon misappropriation of a trade secret;",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2004",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2004",
+            "quote": "If a claim of misappropriation is made in bad faith, a motion to terminate an injunction is made or resisted in bad faith, or wilful and malicious misappropriation exists, the court may award reasonable attorney’s fees to the prevailing party.",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2006",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2006",
+            "quote": "An action for misappropriation must be brought within 3 years after the misappropriation is discovered or by the exercise of reasonable diligence should have been discovered.",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "REVIEW 2026-09-16: §§ 2004 and 2006, previously seen by title only, were read in full (rows DE_6_2004, DE_6_2006) and the trap's statements hold: § 2004 allows fees to the prevailing party where a misappropriation claim is made in bad faith, a motion to terminate an injunction is made or resisted in bad faith, or wilful and malicious misappropriation exists; § 2006 requires suit within 3 years after the misappropriation is discovered or by reasonable diligence should have been discovered, a continuing misappropriation being a single claim. They are described, not quoted. Only § 2007 is quoted and verified. No Delaware Supreme Court decision on DUTSA displacement was located in this pass; the leading Delaware discussions are Court of Chancery decisions, which are not this state's highest court. We hold no effective dates for these sections. PROSE-CITATION SWEEP 2026-09-22 (every section named in rule/trap prose but absent from the row's statute authorities, where the sentence asserts something about that section): §§ 2004 and 2006 read in full (DE_6_2004, DE_6_2006); blocks added."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "unconscionability",
+    "rule_id": "de-2-302-and-the-walk-away-rule",
+    "question": "How hard is it to get a Delaware court to refuse a one-sided clause as unconscionable?",
+    "rule": "Hard. By statute, a court finding a contract or clause to have been unconscionable AT THE TIME IT WAS MADE may refuse to enforce the contract, enforce the remainder without the clause, or limit the clause's application, and the parties must be given a reasonable opportunity to present evidence of the commercial setting, purpose and effect. The Supreme Court's test has two elements: there must be an absence of meaningful choice AND contract terms unreasonably favourable to one party; superior bargaining power alone, without unreasonableness, does not support a finding of unconscionability or unfairness, the concept is used sparingly, and traditionally an unconscionable contract is one which no man in his senses and not under delusion would make on the one hand, and no honest or fair man would accept on the other. There is no deprivation of meaningful choice if a party can walk away from the contract.",
+    "trap": "The walk-away rule does most of the work in Delaware and it defeats the ordinary adhesion argument. In Ketler a $10-a-month gym membership containing a full release of the gym's negligence was not unconscionable because the member was free to accept the membership or not; mere disparity of bargaining power is not enough. Combine that with the doctrine being 'used sparingly' and with § 2-302's as-of-formation timing -- a clause that turns out to be harsh in operation is not thereby unconscionable -- and an unconscionability attack on a commercial clause in Delaware is close to a last resort.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_302",
+            "quote": "(1) If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "396 A.2d 956",
+        "name": "Tulowitzki v. Atlantic Richfield Co.",
+        "court": "Del.",
+        "decided": "1978",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "5d00e3ecf8ac5483",
+            "cl_opinion_id": "2294872",
+            "quote": "it must be found to be unfair or unconscionable; that is to say, there must be an absence of meaningful choice and contract terms unreasonably favorable to one of the parties. Superior bargaining power alone without the element of unreasonableness does not permit a finding of unconscionability or unfairness.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "132 A.3d 746",
+        "name": "Ketler v. PFPA, LLC",
+        "court": "Del.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "b7da45f3e1539e2d",
+            "cl_opinion_id": "3170077",
+            "quote": "Unconscionability is a concept that is used sparingly.5 Traditionally, an unconscionable contract is one which “no man in his senses and not under delusion would make on the one hand, and as no honest or fair man would accept, on the other.”",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "case",
+        "cite": "132 A.3d 746",
+        "name": "Ketler v. PFPA, LLC",
+        "court": "Del.",
+        "decided": "2016",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "b7da45f3e1539e2d",
+            "cl_opinion_id": "3170077",
+            "quote": "There is no deprivation of meaningful choice if a party can walk away from the contract.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-302",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_302",
+            "quote": "(2) When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17. The rule's second clause -- that the parties must be given a reasonable opportunity to present evidence of the commercial setting, purpose and effect -- is subsection (2), which the previous review read and deliberately left unquoted. The section was read whole and (2) is now carried by its own block. LATER TREATMENT 2026-09-26: 12 later Delaware opinions cite 396 A.2d 956 and 9 cite 132 A.3d 746; the single flagged window (FdG Logistics, 2016) was read and its 'overruled on other grounds' attaches to In re ENSTAR Corp., not to Tulowitzki. Nothing overruled. § 2-302 is Article 2 (sales of goods); Delaware's general unconscionability doctrine comes from the case law quoted here, which Ketler applied to a health-club membership rather than a sale of goods. Tulowitzki's quoted sentences are majority text (the opinion is a single combined opinion; the first words of the sentence, 'In order to hold Atlantic's renewal demand \"unjust\"', are omitted from the quote because they are case-specific -- the quote begins mid-sentence at 'it must be found'). Ketler quotes the 'no man in his senses' formulation from Reserves Mgmt., LLC v. American Acquisition Property, LLC (Del. 2014) and the two-element test from Tulowitzki, which is why Tulowitzki is quoted directly. GOOD LAW CHECK 2026-09-16: 12 later Delaware opinions cite 396 A.2d 956 and 9 cite 132 A.3d 746; no Supreme Court hit overrules or limits either. REVIEW 2026-09-16: the 'no man in his senses' formulation and 'used sparingly' were stated without a quote; a Ketler quote now carries both (Ketler takes the formulation from Reserves Mgmt., LLC v. American Acquisition Property, LLC (Del. 2014), not read). § 2-302(2) (opportunity to present evidence) was re-read and is described in the rule, not quoted. Tulowitzki re-read: the test is stated in deciding whether a renewal demand was 'unjust'; no separate opinion in the row. Supreme Court hits in the citing scans (Graham v. State Farm (1989), Closser v. Penn Mutual (1983) for Tulowitzki; Cantor Fitzgerald (2024), Terrell (2023) for Ketler) show no overruling language in the cited sentences. We hold no effective date for § 2-302."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "usury",
+    "rule_id": "de-2301-rate-cap-and-the-100k-exemption",
+    "question": "Is there an interest-rate ceiling on this Delaware loan, and what happens if it is exceeded?",
+    "rule": "The ceiling is a floating one: a lender may charge and collect interest at any rate agreed upon in writing not in excess of 5% over the Federal Reserve discount rate including any surcharge, and where no contract rate is expressed the legal rate is 5% over that discount rate. That ceiling is Chapter 23's general rule, and it has three large exits. There is no ceiling where the amount loaned or used exceeds $100,000 and repayment is not secured by a mortgage against the borrower's principal residence. A bank's revolving credit plan may charge periodic interest at whatever rate the agreement provides (5 Del. C. § 943), and a lender licensed under Chapter 22 of Title 5 may likewise charge the agreed rate (5 Del. C. § 2229), so the cap does not price bank or licensed lending. And no corporation, limited partnership, statutory or business trust, limited liability company, or association or joint stock company with corporate powers may interpose the defense of usury in any action (§ 2306): the remedies described below belong, in practice, to individual borrowers. Usury is charging a borrower, directly or indirectly, a higher rate than the law permits; the borrower need not pay the excess over the lawful rate and may deduct it from the debt, and a borrower who has paid the whole debt with unlawful interest may recover three times the interest collected in excess of the lawful rate, or $500, whichever is greater, in an action brought within 1 year of payment.",
+    "trap": "Four Delaware-specific edges. The cap governs less than it appears to: entity borrowers cannot raise usury at all (§ 2306), and bank revolving credit and licensed lenders charge the agreed rate, so the ceiling matters mainly for an individual borrowing under $100,000 (or on a home-secured loan) from a non-bank, unlicensed lender. First, the cap moves: it is pegged to the Federal Reserve discount rate rather than to a fixed percentage, and where no contract rate is expressed the legal rate is fixed 'as of the time from which interest is due'. Second, above $100,000 unsecured by a mortgage on a borrower's principal residence there is simply no rate limit. Third, the claw-back has a hard 1-year clock from payment, far shorter than the general 3-year contract period. Separately, a partner's obligation to a limited partnership or its partners arising under the partnership agreement (6 Del. C. § 17-505), and a member's or manager's obligation to an LLC or its members or managers arising under the LLC agreement (§ 18-505), is not subject to the defence of usury -- a rule about capital calls and similar internal obligations, not about loans to the entity from outside lenders.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2301",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2301",
+            "quote": "Any lender may charge and collect from a borrower interest at any rate agreed upon in writing not in excess of 5% over the Federal Reserve discount rate including any surcharge thereon.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2301",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2301",
+            "quote": "Notwithstanding any other provision in this chapter to the contrary, there shall be no limitation on the rate of interest which may be legally charged for the loan or use of money, where the amount of money loaned or used exceeds $100,000, and where repayment thereof is not secured by a mortgage against the principal residence of any borrower.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2304",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2304",
+            "quote": "When a rate of interest for the loan or use of money exceeding that established by law has been reserved or contracted for, the borrower or debtor shall not be required to pay the creditor the excess over the lawful rate and the borrower or debtor may, at the borrower’s or debtor’s option, retain and deduct the excess from the amount of any debt.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2306",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2306",
+            "quote": "No corporation, limited partnership, statutory trust, business trust or limited liability company, and no association or joint stock company having any of the powers and privileges of corporations not possessed by individuals or partnerships, shall interpose the defense of usury in any action.",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "5 Del. C. § 943",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_5_943",
+            "quote": "A bank may charge and collect periodic interest under a revolving credit plan on outstanding unpaid indebtedness in the borrower’s account under the plan at such daily, weekly, monthly, annual or other periodic percentage rate or rates as the agreement governing the plan provides",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "5 Del. C. § 2229",
+        "verified": {
+          "checked": "2026-09-17",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_5_2229",
+            "quote": "A licensee may charge and collect interest in respect of a loan at such daily, weekly, monthly, annual or other periodic percentage rate or rates as the agreement governing the loan provides or as established in the manner provided in such agreement",
+            "checked": "2026-09-17"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 17-505",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_17_505",
+            "quote": "No obligation of a partner of a limited partnership to the limited partnership, or to a partner of the limited partnership, arising under the partnership agreement or a separate agreement or writing, and no note, instrument or other writing evidencing any such obligation of a partner, shall be subject to the defense of usury",
+            "checked": "2026-09-22"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 18-505",
+        "verified": {
+          "checked": "2026-09-22",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_18_505",
+            "quote": "No obligation of a member or manager of a limited liability company to the limited liability company, or to a member or manager of the limited liability company, arising under the limited liability company agreement or a separate agreement or writing, and no note, instrument or other writing evidencing any such obligation of a member or manager, shall be subject to the defense of usury",
+            "checked": "2026-09-22"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-17",
+    "status": "verified",
+    "notes": "RESTORED 2026-09-17 after the audit pull (5a6351de8): the rule now carries § 2306 (entity borrowers cannot raise usury), 5 Del. C. § 943 (bank revolving credit at the agreed rate) and 5 Del. C. § 2229 (licensed lenders at the agreed rate), each read in the corpus, so the cap is stated as Chapter 23's general rule rather than the only ceiling. PULLED FROM SERVING 2026-09-17 by adversarial audit (the DocketX contract-law audit of 2026-09-17): 6 Del. C. § 2306 (us-statutes DE_6_2306) bars every corporation, LP, statutory or business trust and LLC from raising usury, which the rule omits; and 5 Del. C. §§ 943 and 2229 let banks and licensed lenders charge the agreed rate, so the 5%-over-discount cap is not the only ceiling. Status set to partial until the rule and trap are corrected and re-verified. The treble-damages/$500 claw-back and the 1-year limit are in the same published row DE_6_2304, read in full 2026-09-16 (quoted here only in part to keep the quote contiguous). The §§ 17-505 and 18-505 point in the trap is from those sections' published TITLES ('Defense of usury not available') seen in docketx/us-statutes [de]; their texts were not read in full this pass and should be re-verified before reliance. Chapter 23 contains further rate rules not covered here (§ 2302 secured demand loans of $5,000 or more, § 2303 loans under $500, § 2305 negotiable paper, § 2306 entities, § 2307 international banking). Federal preemption for state-chartered banks (12 U.S.C. § 1831d and the Delaware Bank Marketing Act) is outside our corpus and is not addressed. CORRECTED IN REVIEW 2026-09-16: the trap said 'entity borrowers lose the defence entirely under 6 Del. C. §§ 17-505 and 18-505, which state that the defence of usury is not available to a limited partnership or a limited liability company', from the section titles alone. Both sections were read in full: they bar the defence only for obligations of a partner (or member or manager) TO the entity or to its partners (or members or managers) arising under the governing agreement or a separate writing, and say nothing about the entity as a borrower. The trap was corrected accordingly, and its 'Two ... Third' count fixed. § 17-505 is described, not added as an authority. § 2301 re-read in full: the rule's no-contract-rate legal rate and the (b) FHA/VA carve-out are from that text. We hold no effective dates for these sections; the Federal Reserve discount rate on any date is not in our corpus. PROSE-CITATION SWEEP 2026-09-22 (second pass: parenthetical and 'under § X' attributions): §§ 17-505 and 18-505 read in full (DE_6_17_505, DE_6_18_505); blocks added."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "venue-selection",
+    "rule_id": "de-forum-selection-displaces-mcwane",
+    "question": "Will a Delaware court honour a forum selection clause when suit was filed first somewhere else?",
+    "rule": "Yes. Forum selection clauses are presumptively valid and should be specifically enforced unless the resisting party clearly shows that enforcement would be unreasonable and unjust, or that the clause is invalid for reasons such as fraud and overreaching, with reasonableness assessed case by case. Where the parties have expressly agreed on a legally enforceable forum selection clause, a court should honour the contract and enforce the clause even if, absent the clause, the McWane principle -- which favours a stay when a prior action involving the same parties and issues is pending elsewhere in a court capable of doing prompt and complete justice -- would require a different result, because McWane is a default rule of common law the parties are free to displace by contract.",
+    "trap": "The clause beats the race to the courthouse, and it can be enforced by anti-suit injunction: in Ingres the Delaware court enjoined a party from prosecuting its own first-filed California action. Two further wrinkles. The clause is read across a family of related agreements: in Ingres the Court of Chancery, affirmed on its reasoning, held that the one related agreement without a forum clause did not supersede those that had one. And Delaware forbids the reverse arrangement in one field: 6 Del. C. § 3507(e)(5) makes it void for a construction contract or subcontract to require a dispute between contractor and subcontractor to be governed by another state's law or to be litigated, arbitrated or mediated outside Delaware. That construction void has its own boundary, and it is the one a Delaware public-works subcontractor would be caught by: § 3507(f) provides that the section does not apply to public works contracts awarded under Chapter 69 of Title 29, to contracts for the erection of six or fewer residential units under simultaneous construction or for the alteration or repair of a single residential unit, or to contracts for the purchase of materials by a person performing work on that person's own real property. Inside those three categories § 3507(e)(5) does not void anything, and the ordinary Delaware forum-clause law above governs.",
+    "authority": [
+      {
+        "kind": "case",
+        "cite": "8 A.3d 1143",
+        "name": "Ingres Corp. v. CA, Inc.",
+        "court": "Del.",
+        "decided": "2010",
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-caselaw-de",
+            "row_id": "a33f17f6c73e5da4",
+            "cl_opinion_id": "2447978",
+            "quote": "we hold that where contracting parties have expressly agreed upon a legally enforceable forum selection clause, a court should honor the parties’ contract and enforce the clause, even if, absent any forum selection clause, the McWane principle might otherwise require a different result.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 3507",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_3507",
+            "quote": "(5) Require a dispute or claim between the contractor and subcontractor to be governed or subject to the laws of a state other than Delaware or require litigation, arbitration, mediation or other dispute resolution processes to occur in a state other than Delaware.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 3507",
+        "verified": {
+          "checked": "2026-09-24",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_3507",
+            "quote": "(f) This section shall not apply to:\n\n(1) Public works contracts awarded under Chapter 69 of Title 29;\n\n(2) Contracts for the erection of 6 or fewer residential units which are under construction simultaneously, or for the alteration or repair of any single residential unit; or\n\n(3) Contracts for the purchase of materials by a person performing work on that person’s own real property.",
+            "checked": "2026-09-24"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "The presumptive-validity sentence in the rule is Ingres quoting Capital Group Cos. v. Armour (Del. Ch. 2004), which in turn quotes M/S Bremen v. Zapata Off-Shore Co., 407 U.S. 1 (1972); the quoted authority here is the Court's own holding sentence. Majority text (single combined opinion). GOOD LAW CHECK 2026-09-16: 54 later Delaware opinions in our corpus cite 8 A.3d 1143; the Supreme Court hits apply it, and none overrules it. McWane Cast Iron Pipe Corp. v. McDowell-Wellman Engineering Co., 263 A.2d 281 (Del. 1970), was reaffirmed in the same opinion, not displaced. This row covers forum, not choice of law; the choice-of-law row in this file covers 6 Del. C. § 2708. REVIEW 2026-09-16: Ingres re-read (8,233 characters, affirming 'on the basis of and for the reasons assigned by the Court of Chancery'). The anti-suit injunction and related-agreements points in the trap are from that text: the Court of Chancery 'enjoined Ingres from prosecuting the California Action' and considered 'the entire collection of related contracts'; the trap's general phrasing about related contracts was narrowed to what Ingres held. Citing scan: 54 later opinions mention 8 A.3d 1143; the Supreme Court hits (e.g. Salzberg v. Sciabacucchi (2020), GXP Capital (2021)) carry no overruling or limiting language in the cited sentences. We hold no effective date for § 3507. SCOPE AUDIT 2026-09-24: found by the rare-word limit sweep; none of the limit's most distinctive words appeared in this row. Note that a DIFFERENT § 3507 flag on this same row was read on 2026-09-24 and dismissed in data/contract-law/scope-adjudications.json: the savings about impairing an owner's right sit in the retainage subsections this rule does not use. This one is different, because the rule does rely on § 3507(e)(5) and (f) bounds the whole section."
+  },
+  {
+    "jurisdiction": "de",
+    "clause": "warranty-disclaimer",
+    "rule_id": "de-2-316-merchantability-must-be-named-and-conspicuous",
+    "question": "What does it take to disclaim implied warranties in a Delaware sale of goods?",
+    "rule": "To exclude or modify the implied warranty of merchantability the language must MENTION MERCHANTABILITY and, in a writing, must be conspicuous; to exclude or modify an implied warranty of fitness the exclusion must be in a writing and conspicuous, and language such as 'There are no warranties which extend beyond the description on the face hereof' suffices for fitness. Unless the circumstances indicate otherwise, expressions like 'as is' or 'with all faults' exclude all implied warranties; there is no implied warranty as to defects an examination ought to have revealed where the buyer examined or refused to examine the goods; and implied warranties can be excluded or modified by course of dealing, course of performance or usage of trade. Remedies for breach of warranty may be limited under §§ 2-718 and 2-719. Conspicuousness is defined for the whole Code rather than left to argument: a term is conspicuous when it is so written, displayed or presented that, on the totality of the circumstances, a reasonable person against which it is to operate ought to have noticed it, and whether a term is conspicuous is a decision for the court, not the jury.",
+    "trap": "Delaware's § 2-316 also carries a subsection most drafters never look for: the implied warranties of merchantability and fitness do not apply at all to a contract for the sale of human blood, blood plasma or other human tissue or organs from a blood bank or reservoir, which the statute declares are not goods subject to sale but medical services. In ordinary commerce the trap is the familiar one -- a conspicuous 'THE GOODS ARE SOLD AS IS' does the whole job under (3)(a), while an elaborate but non-conspicuous paragraph that never says 'merchantability' does not, and an express warranty elsewhere in the document is construed as consistent with the disclaimer wherever reasonable, with the disclaimer inoperative to the extent that construction is unreasonable.",
+    "authority": [
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_316",
+            "quote": "Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it the language must mention merchantability and in case of a writing must be conspicuous, and to exclude or modify any implied warranty of fitness the exclusion must be by a writing and conspicuous.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-16",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_316",
+            "quote": "(5) The implied warranties of merchantability and fitness shall not be applicable to a contract for the sale of human blood, blood plasma or other human tissue or organs from a blood bank or reservoir of such other tissues or organs.",
+            "checked": "2026-09-16"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_316",
+            "quote": "(1) Words or conduct relevant to the creation of an express warranty and words or conduct tending to negate or limit warranty shall be construed wherever reasonable as consistent with each other; but subject to the provisions of this Article on parol or extrinsic evidence (Section 2-202) negation or limitation is inoperative to the extent that such construction is unreasonable.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_316",
+            "quote": "Language to exclude all implied warranties of fitness is sufficient if it states, for example, that “There are no warranties which extend beyond the description on the face hereof.”",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_316",
+            "quote": "(3) Notwithstanding subsection (2) (a) unless the circumstances indicate otherwise, all implied warranties are excluded by expressions like “as is”, “with all faults” or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty; and (b) when the buyer before entering into the contract has examined the goods or the sample or model as fully as he or she desired or has refused to examine the goods there is no implied warranty with regard to defects which an examination ought in the circumstances to have revealed to him or her; and (c) an implied warranty can also be excluded or modified by course of dealing or course of performance or usage of trade.",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 2-316",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_2_316",
+            "quote": "(4) Remedies for breach of warranty can be limited in accordance with the provisions of this Article on liquidation or limitation of damages and on contractual modification of remedy (Sections 2-718 and 2-719).",
+            "checked": "2026-09-26"
+          }
+        }
+      },
+      {
+        "kind": "statute",
+        "cite": "6 Del. C. § 1-201",
+        "decided": null,
+        "verified": {
+          "checked": "2026-09-26",
+          "corpus": {
+            "dataset": "docketx/us-statutes",
+            "row_id": "DE_6_1_201",
+            "quote": "(10) “Conspicuous”, with reference to a term, means so written, displayed, or presented that, based on the totality of the circumstances, a reasonable person against which it is to operate ought to have noticed it. Whether a term is “conspicuous” or not is a decision for the court.",
+            "checked": "2026-09-26"
+          }
+        }
+      }
+    ],
+    "as_of": "2026-09-16",
+    "status": "verified",
+    "notes": "AUDITED 2026-09-26 at the bar of the DocketX contract-law audit of 2026-09-17. The section was read whole and the rule's summary of it was accurate but almost entirely unquoted: only the merchantability sentence of (2) and the whole of (5) had blocks, while subsection (1) (express warranty construed consistently, negation inoperative where that is unreasonable -- which the TRAP asserts), the fitness-language example in (2), all three paragraphs of (3) including the 'as is' rule the trap leans on, and (4) were prose only. Each now has a block. The previous review said 'conspicuous' was left 'as the statute leaves it' because § 1-201 'was not read in full here'; it has now been read, and (10) both defines the term and assigns the question to the court, which the rule now states and a block now carries. Both quotes are from the same published row DE_6_2_316, read in full 2026-09-16; subsections (1), (3) and (4) are summarised from that text. Article 2 governs transactions in goods; no Delaware Supreme Court decision on § 2-316 conspicuousness was located in this pass, so 'conspicuous' is left as the statute leaves it (defined for the Code in 6 Del. C. § 1-201, which was not read in full here). REVIEW 2026-09-16: § 2-316 re-read in full; no change. We hold no effective date for § 2-316."
+  }
+]

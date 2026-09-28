@@ -1,0 +1,8 @@
+{
+  "name": "second-opinion",
+  "version": "0.1.0",
+  "description": "A second opinion on a legal question from a panel of frontier models that never see a fact of the matter: the case file is pseudonymised on the user's own machine with legal-scrambler, every model on the panel answers the same question over placeholders only, the answers are restored by code, and Claude then reads the panel side by side — where the models agree, where they split, which citations each relied on — and gives its own view with that context. Nothing about the client leaves the machine unscrambled; every citation the panel produces is unverified until checked. A draft for attorney review, not legal advice.",
+  "author": {
+    "name": "DocketX"
+  }
+}
